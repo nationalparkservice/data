@@ -8,4 +8,4 @@ This repository contains data used in the NPMap team's projects. It is **not** t
 
 ## License
 
-Unless noted otherwise, all data in this repository are available in the public domain.
+Unless otherwise noted, all data in this repository are available in the public domain.
