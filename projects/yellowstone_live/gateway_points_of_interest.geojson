@@ -224,6 +224,22 @@
           45.020398484251274
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park": "Yellowstone",
+        "name": "Gardiner",
+        "type": "community",
+        "importance": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.71077346801758,
+          45.03544263020232
+        ]
+      }
     }
   ]
 }
