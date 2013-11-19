@@ -22866,21 +22866,6 @@
         "METADATA": "http://nrdata.nps.gov/programs/Lands/YELL_metadata.xml",
         "PARKNAME": "Yellowstone"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "text": "West Yellowstone to Bozeman",
-        "miles": 90,
-        "kilometers": 145
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.22283935546875,
-          45.1307111381502
-        ]
-      }
     }
   ]
 }
