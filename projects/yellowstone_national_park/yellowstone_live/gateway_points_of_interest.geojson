@@ -1,24 +1,293 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "park": "Yellowstone", "name": "West Yellowstone", "type": "community", "importance": 1 }, "geometry": { "type": "Point", "coordinates": [ -111.105481194488164, 44.663031463824453 ] } },
-{ "type": "Feature", "properties": { "park": "Yellowstone", "name": "Big Sky", "type": "community", "importance": 2 }, "geometry": { "type": "Point", "coordinates": [ -111.376726109070773, 45.28575955949011 ] } },
-{ "type": "Feature", "properties": { "park": "Yellowstone", "name": "Livingston", "type": "community", "importance": 2 }, "geometry": { "type": "Point", "coordinates": [ -110.558560715962486, 45.660240571565559 ] } },
-{ "type": "Feature", "properties": { "park": "Yellowstone", "name": "Bozeman", "type": "community", "importance": 2 }, "geometry": { "type": "Point", "coordinates": [ -111.05455082065923, 45.679530340629974 ] } },
-{ "type": "Feature", "properties": { "park": "Yellowstone", "name": "Big Timber", "type": "community", "importance": 2 }, "geometry": { "type": "Point", "coordinates": [ -109.949481305526987, 45.837952004317877 ] } },
-{ "type": "Feature", "properties": { "park": "Yellowstone", "name": "Billings", "type": "community", "importance": 2 }, "geometry": { "type": "Point", "coordinates": [ -108.547886287945857, 45.778363699154838 ] } },
-{ "type": "Feature", "properties": { "park": "Yellowstone", "name": "Belgrade", "type": "community", "importance": 2 }, "geometry": { "type": "Point", "coordinates": [ -111.176544796141172, 45.779605772371681 ] } },
-{ "type": "Feature", "properties": { "park": "Yellowstone", "name": "Red Lodge", "type": "community", "importance": 2 }, "geometry": { "type": "Point", "coordinates": [ -109.250464730685025, 45.186505763978673 ] } },
-{ "type": "Feature", "properties": { "park": "Yellowstone", "name": "Cody", "type": "community", "importance": 2 }, "geometry": { "type": "Point", "coordinates": [ -109.04209545869395, 44.528787693428896 ] } },
-{ "type": "Feature", "properties": { "park": "Yellowstone", "name": "Powell", "type": "community", "importance": 2 }, "geometry": { "type": "Point", "coordinates": [ -108.757146026911244, 44.756239447109401 ] } },
-{ "type": "Feature", "properties": { "park": "Grand Teton", "name": "Jackson", "type": "community", "importance": 1 }, "geometry": { "type": "Point", "coordinates": [ -110.76692998795356, 43.479040308855183 ] } },
-{ "type": "Feature", "properties": { "park": "Grand Teton", "name": "Driggs", "type": "community", "importance": 2 }, "geometry": { "type": "Point", "coordinates": [ -111.108869306092799, 43.729224800653398 ] } },
-{ "type": "Feature", "properties": { "park": "Grand Teton", "name": "Idaho Falls", "type": "community", "importance": 2 }, "geometry": { "type": "Point", "coordinates": [ -112.06021939569203, 43.498984279426033 ] } },
-{ "type": "Feature", "properties": { "park": "Yellowstone", "name": "Cooke City", "type": "community", "importance": 2 }, "geometry": { "type": "Point", "coordinates": [ -109.935207366943345, 45.020398484251274 ] } },
-{ "type": "Feature", "properties": { "park": "Yellowstone", "name": "Gardiner", "type": "community", "importance": 1 }, "geometry": { "type": "Point", "coordinates": [ -110.710773468017578, 45.035442630202319 ] } },
-{ "type": "Feature", "properties": { "park": "Yellowstone", "name": "Intersection of Highways 212 and 196", "type": "transportation", "importance": 1 }, "geometry": { "type": "Point", "coordinates": [ -109.13269207767317, 45.392660955985768 ] } },
-{ "type": "Feature", "properties": { "park": "Yellowstone", "name": "Silver Gate", "type": "community", "importance": 1 }, "geometry": { "type": "Point", "coordinates": [ -109.990161981151616, 45.006780060524456 ] } }
-]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "park": "Yellowstone",
+        "name": "West Yellowstone",
+        "type": "community",
+        "importance": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.10548119448816,
+          44.66303146382445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park": "Yellowstone",
+        "name": "Big Sky",
+        "type": "community",
+        "importance": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.37672610907077,
+          45.28575955949011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park": "Yellowstone",
+        "name": "Livingston",
+        "type": "community",
+        "importance": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.55856071596249,
+          45.66024057156556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park": "Yellowstone",
+        "name": "Bozeman",
+        "type": "community",
+        "importance": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.05455082065923,
+          45.679530340629974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park": "Yellowstone",
+        "name": "Big Timber",
+        "type": "community",
+        "importance": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.94948130552699,
+          45.83795200431788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park": "Yellowstone",
+        "name": "Billings",
+        "type": "community",
+        "importance": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.54788628794586,
+          45.77836369915484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park": "Yellowstone",
+        "name": "Belgrade",
+        "type": "community",
+        "importance": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.17654479614117,
+          45.77960577237168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park": "Yellowstone",
+        "name": "Red Lodge",
+        "type": "community",
+        "importance": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.25046473068502,
+          45.18650576397867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park": "Yellowstone",
+        "name": "Cody",
+        "type": "community",
+        "importance": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.04209545869395,
+          44.528787693428896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park": "Yellowstone",
+        "name": "Powell",
+        "type": "community",
+        "importance": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.75714602691124,
+          44.7562394471094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park": "Grand Teton",
+        "name": "Jackson",
+        "type": "community",
+        "importance": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.76692998795356,
+          43.47904030885518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park": "Grand Teton",
+        "name": "Driggs",
+        "type": "community",
+        "importance": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1088693060928,
+          43.7292248006534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park": "Grand Teton",
+        "name": "Idaho Falls",
+        "type": "community",
+        "importance": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.06021939569203,
+          43.49898427942603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park": "Yellowstone",
+        "name": "Cooke City",
+        "type": "community",
+        "importance": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.93520736694335,
+          45.020398484251274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park": "Yellowstone",
+        "name": "Gardiner",
+        "type": "community",
+        "importance": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.71077346801758,
+          45.03544263020232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park": "Yellowstone",
+        "name": "Intersection of Highways 212 and 196",
+        "type": "transportation",
+        "importance": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.13269207767317,
+          45.39266095598577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park": "Yellowstone",
+        "name": "Silver Gate",
+        "type": "community",
+        "importance": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.99016198115162,
+          45.006780060524456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park": "Grand Teton",
+        "name": "Dubois",
+        "type": "community",
+        "importance": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.63102340698242,
+          43.534487169945024
+        ]
+      }
+    }
+  ]
 }
