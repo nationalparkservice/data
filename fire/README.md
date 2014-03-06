@@ -6,7 +6,9 @@ The fire perimeters are pulled in every five minutes from the USGS GeoMAC system
 
 Updates to the fire perimeters are tracked as well. You can view the history of the GeoJSON files to see changes that were made to a fire perimeter over time.
 
-This process has been running every five minutes since August 30th 2013, 9:35:30, with a disruption from October 1, 2013 to October 17, 2013 because of the US federal government shutdown.
+This process ran every five minutes (with some downtime interspersed) starting August 30th 2013, 9:35:30 and ending in October because of the US federal government shutdown.
+
+We are working on updating this project, and will start it back up when the 2014 fire season starts.
 
 ## Node Task
 
