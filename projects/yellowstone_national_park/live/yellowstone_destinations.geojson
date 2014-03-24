@@ -200,7 +200,7 @@
       "properties": {
         "name": "East Entrance",
         "to": [{
-          "name": "Fishing Bridge",
+          "name": "Lake Village",
           "time": "60 Min"
         }]
       },
@@ -217,6 +217,9 @@
       "properties": {
         "name": "Lake Village",
         "to": [{
+          "name": "Canyon Village",
+          "time": "35 Min"
+        },{
           "name": "East Entrance",
           "time": "60 Min"
         },{
@@ -286,6 +289,9 @@
       "properties": {
         "name": "Old Faithful",
         "to": [{
+          "name": "Grant Village",
+          "time": "40 Min"
+        },{
           "name": "Madison Junction",
           "time": "35-45 Min"
         }]
