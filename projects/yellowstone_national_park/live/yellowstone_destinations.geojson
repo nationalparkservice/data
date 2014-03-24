@@ -1,0 +1,414 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Craig Pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.71952819824217,
+          44.44107269463538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sylvan Pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.1295280456543,
+          44.464997874927306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunraven Pass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.45384466648102,
+          44.78510189943863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hayden Valley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.45721352100372,
+          44.64346781336863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lamar Valley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.84010428190231,
+          44.72667420240724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Entrance",
+        "to": [{
+          "name": "Mammoth Hot Springs",
+          "time": "15 Min"
+        }]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.70865988731384,
+          45.02949065606952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mammoth Hot Springs",
+        "to": [{
+          "name": "Norris Junction",
+          "time": "45 Min"
+        },{
+          "name": "North Entrance",
+          "time": "15 Min"
+        },{
+          "name": "Tower Junction",
+          "time": "40 Min"
+        }]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.70062398910522,
+          44.976471842304605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tower Junction",
+        "to": [{
+          "name": "Canyon Village",
+          "time": "50-60 Min"
+        },{
+          "name": "Mammoth Hot Springs",
+          "time": "40 Min"
+        },{
+          "name": "Northeast Entrance",
+          "time": "60 Min"
+        }]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.41574120521545,
+          44.91597403854536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northeast Entrance",
+        "to": [{
+          "name": "Tower Junction",
+          "time": "60 Min"
+        }]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.00163495540619,
+          45.00347667977291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tower Fall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.38704961538315,
+          44.893693703410996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canyon Village",
+        "to": [{
+          "name": "Lake Village",
+          "time": "35 Min"
+        },{
+          "name": "Norris Junction",
+          "time": "30 Min"
+        },{
+          "name": "Tower Junction",
+          "time": "50-60 Min"
+        }]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.49325704574584,
+          44.73591960064858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fishing Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.38219749927521,
+          44.56668137199285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Entrance",
+        "to": [{
+          "name": "Fishing Bridge",
+          "time": "60 Min"
+        }]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.00385046005249,
+          44.48856117761682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Village",
+        "to": [{
+          "name": "East Entrance",
+          "time": "60 Min"
+        },{
+          "name": "Grant Village",
+          "time": "45 Min"
+        }]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.40873527526855,
+          44.55173241101533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bridge Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.43413043022156,
+          44.53481034003042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Thumb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5785083770752,
+          44.413995710452056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grant Village",
+        "to": [{
+          "name": "Lake Village",
+          "time": "45 Min"
+        },{
+          "name": "Old Faithful",
+          "time": "40 Min"
+        },{
+          "name": "South Entrance",
+          "time": "50 Min"
+        }]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.57180285453796,
+          44.39091597891188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Faithful",
+        "to": [{
+          "name": "Madison Junction",
+          "time": "35-45 Min"
+        }]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.84490537643433,
+          44.46113864978101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madison Junction",
+        "to": [{
+          "name": "Norris Junction",
+          "time": "30 Min"
+        },{
+          "name": "Old Faithful",
+          "time": "35-45 Min"
+        },{
+          "name": "West Entrance",
+          "time": "30 Min"
+        }]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8584451675415,
+          44.645452487688495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Entrance",
+        "to": [{
+          "name": "Bechler (closed in winter)",
+          "time": "2 Hrs"
+        },{
+          "name": "Madison Junction",
+          "time": "30 Min"
+        }]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.08985811471939,
+          44.65679817760673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norris Junction",
+        "to": [{
+          "name": "Canyon Village",
+          "time": "30 Min"
+        },{
+          "name": "Madison Junction",
+          "time": "30 Min"
+        },{
+          "name": "Mammoth Hot Springs",
+          "time": "45 Min"
+        }]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.69650411605834,
+          44.727314491959525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bechler",
+        "to": [{
+          "name": "South Entrance via Grassy Lake Rd (closed in winter, high clearance 4WD vehicles in summer)",
+          "time": "1.5-2 Hrs"
+        },{
+          "name": "South Entrance via Jackson Hole",
+          "time": "3 Hrs, 40 Min"
+        },{
+          "name": "West Entrance (closed in winter)",
+          "time": "2 Hrs"
+        }]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.05,
+          44.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Entrance",
+        "to": [{
+          "name": "Bechler via Grassy Lake Rd (closed in winter, high clearance 4WD vehicles in summer)",
+          "time": "1.5-2 Hrs"
+        },{
+          "name": "Bechler via Jackson Hole",
+          "time": "3 Hrs, 40 Min"
+        },{
+          "name": "Grant Village",
+          "time": "50 Min"
+        }]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.66680669784546,
+          44.13576814958035
+        ]
+      }
+    }
+  ]
+}
