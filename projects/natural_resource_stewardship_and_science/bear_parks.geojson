@@ -2329,9 +2329,9 @@
         "UnitCode": "SEKI",
         "UnitName": "Sequoia & Kings Canyon National Park",
         "UnitWebsite": "http://www.nps.gov/seki",
-        "Black": "true",
-        "BrownGrizzly": "false",
-        "Polar": "false"
+        "Black": true,
+        "BrownGrizzly": false,
+        "Polar": false
       },
       "geometry": {
         "type": "Point",
@@ -2347,9 +2347,9 @@
         "UnitCode": "APPA",
         "UnitName": "Appalachian National Scenic Trail",
         "UnitWebsite": "http://www.nps.gov/appa",
-        "Black": "true",
-        "BrownGrizzly": "false",
-        "Polar": "false"
+        "Black": true,
+        "BrownGrizzly": false,
+        "Polar": false
       },
       "geometry": {
         "type": "Point",
@@ -2365,9 +2365,9 @@
         "UnitCode": "NATR",
         "UnitName": "Natchez Trace Parkway",
         "UnitWebsite": "http://www.nps.gov/natr",
-        "Black": "true",
-        "BrownGrizzly": "false",
-        "Polar": "false"
+        "Black": true,
+        "BrownGrizzly": false,
+        "Polar": false
       },
       "geometry": {
         "type": "Point",
