@@ -1,0 +1,229 @@
+{
+  "metadata": {
+    "idinfo": {
+      "citation": {
+        "citeinfo": {
+          "origin": "Mike Plivelich, University of Alaska Southeast, SEAK Hydro Technical Steward",
+          "pubdate": "20120601",
+          "title": "AK Hydro Survey Observations in Southeast Alaska",
+          "geoform": "vector digital data",
+          "onlink": "http://seakgis.alaska.edu/data/SEAKHydro_Snapshot.zip"
+        }
+      },
+      "descript": {
+        "abstract": "This dataset currently contains ADFG-SF survey points associated with various stream habitat surveys conducted throughout Southeast Alaska since the year 2001. All survey points were spatially captured in the field using hand-held consumer grade GPS units and were associated with aquatic habitat or riparian input features (e.g., stream confluences, stream reach breaks, barriers of multiple types, etc) encountered during habitat surveys and assessments.",
+        "purpose": "This dataset contains ADFG-Sport Fish survey points associated with various stream habitat surveys conducted throughout Southeast Alaska since the year 2001.  This dataset is being extended to include other agency survey information/observations. "
+      },
+      "timeperd": {
+        "timeinfo": {
+          "rngdates": {
+            "begdate": "20000601",
+            "enddate": "20140319"
+          }
+        },
+        "current": " The earliest date of data acquisition is June 2000 and the data are continuously updated as requried by contirbuting agencies."
+      },
+      "status": {
+        "progress": "In work",
+        "update": "Continually"
+      },
+      "spdom": {
+        "bounding": {
+          "westbc": "-142.515657",
+          "eastbc": "-130.400052",
+          "northbc": "60.432812",
+          "southbc": "54.918647"
+        }
+      },
+      "keywords": {
+        "theme": [
+          {
+            "themekt": "None",
+            "themekey": "Habitat, Survey, Observation, Waypoint, Barrier, Confluence, Reach Break, Field Observation, Point of Interest"
+          },
+          {
+            "themekt": "ISO 19115 Topic Categories",
+            "themekey": [
+              "biota",
+              "inlandWaters"
+            ]
+          }
+        ]
+      },
+      "accconst": "None",
+      "useconst": "None",
+      "ptcontac": {
+        "cntinfo": {
+          "cntorgp": {
+            "cntorg": "Alaska Department of Fish and Game, Sport Fish Division",
+            "cntper": "Jeff Nichols"
+          },
+          "cntpos": "Habitat Biologist",
+          "cntaddr": {
+            "addrtype": "mailing",
+            "address": "PO Box 110024",
+            "city": "Douglas",
+            "state": "Alaska",
+            "postal": "99811-0024",
+            "country": "US"
+          },
+          "cntvoice": "907-465-8576",
+          "cntemail": "jeff.nichols@alaska.gov"
+        }
+      },
+      "browse": {
+        "browsen": "http://seakgis.alaska.edu/data/thumbnails/SurveyWaypoint_PT.jpg",
+        "browsed": "Regional overview of the dataset.",
+        "browset": "JPEG"
+      },
+      "datacred": "Alaska Department of Fish and Game, Sport Fish Division",
+      "native": "Microsoft Windows Server 2008 Version 6.0 (Build 6002) Service Pack 2; Esri ArcGIS 10.2.0.3348"
+    },
+    "spdoinfo": {
+      "direct": "Vector",
+      "ptvctinf": {
+        "sdtsterm": {
+          "sdtstype": "Entity point",
+          "ptvctcnt": "6347"
+        }
+      }
+    },
+    "spref": {
+      "horizsys": {
+        "planar": {
+          "mapproj": {
+            "mapprojn": "NAD 1983 StatePlane Alaska 1 FIPS 5001",
+            "obqmerc": {
+              "sfctrlin": "0.9999",
+              "obqlazim": {
+                "azimangl": "-36.86989764583333",
+                "azimptl": "-133.6666666666667"
+              },
+              "latprjo": "57.0",
+              "feast": "5000000.0",
+              "fnorth": "-5000000.0"
+            }
+          },
+          "planci": {
+            "plance": "coordinate pair",
+            "coordrep": {
+              "absres": "0.0001",
+              "ordres": "0.0001"
+            },
+            "plandu": "meter"
+          }
+        },
+        "geodetic": {
+          "horizdn": "D North American 1983",
+          "ellips": "GRS 1980",
+          "semiaxis": "6378137.0",
+          "denflat": "298.257222101"
+        }
+      }
+    },
+    "eainfo": {
+      "detailed": {
+        "enttyp": {
+          "enttypl": "seakhydro.GIS.SurveyWaypoint_PT",
+          "enttypd": "Point feature representing a Survery Waypoint",
+          "enttypds": "Contact AK Hydro Technical Steward"
+        },
+        "attr": [
+          {
+            "attrlabl": "OBJECTID",
+            "attrdef": "Internal feature number.",
+            "attrdefs": "ESRI",
+            "attrdomv": { "udom": "Sequential unique whole numbers that are automatically generated." }
+          },
+          {
+            "attrlabl": "WaypointID",
+            "attrdef": "Contact AK Hydro Technical Steward",
+            "attrdefs": "Contact AK Hydro Technical Steward"
+          },
+          {
+            "attrlabl": "WaypointCode",
+            "attrdef": "Contact AK Hydro Technical Steward",
+            "attrdefs": "Contact AK Hydro Technical Steward"
+          },
+          {
+            "attrlabl": "SurveyDate",
+            "attrdef": "Contact AK Hydro Technical Steward",
+            "attrdefs": "Contact AK Hydro Technical Steward"
+          },
+          {
+            "attrlabl": "GPSError",
+            "attrdef": "Contact AK Hydro Technical Steward",
+            "attrdefs": "Contact AK Hydro Technical Steward"
+          },
+          {
+            "attrlabl": "Datum",
+            "attrdef": "Contact AK Hydro Technical Steward",
+            "attrdefs": "Contact AK Hydro Technical Steward"
+          },
+          {
+            "attrlabl": "Locator",
+            "attrdef": "Contact AK Hydro Technical Steward",
+            "attrdefs": "Contact AK Hydro Technical Steward"
+          },
+          {
+            "attrlabl": "MacroHabitat",
+            "attrdef": "Contact AK Hydro Technical Steward",
+            "attrdefs": "Contact AK Hydro Technical Steward"
+          },
+          {
+            "attrlabl": "RevDate",
+            "attrdef": "Contact AK Hydro Technical Steward",
+            "attrdefs": "Contact AK Hydro Technical Steward"
+          },
+          {
+            "attrlabl": "SourceAgency",
+            "attrdef": "Contact AK Hydro Technical Steward",
+            "attrdefs": "Contact AK Hydro Technical Steward",
+            "attrmfrq": "009"
+          },
+          {
+            "attrlabl": "Shape",
+            "attrdef": "Feature geometry.",
+            "attrdefs": "ESRI",
+            "attrdomv": { "udom": "Coordinates defining the features." }
+          },
+          {
+            "attrlabl": "GlobalID",
+            "attrdef": "Contact AK Hydro Technical Steward",
+            "attrdefs": "Contact AK Hydro Technical Steward"
+          },
+          {
+            "attrlabl": "Comments",
+            "attrdef": "Contact AK Hydro Technical Steward",
+            "attrdefs": "Contact AK Hydro Technical Steward"
+          }
+        ]
+      }
+    },
+    "metainfo": {
+      "metd": "20140410",
+      "metc": {
+        "cntinfo": {
+          "cntorgp": {
+            "cntorg": "University of Alaska Southeast",
+            "cntper": "Mike Plivelich"
+          },
+          "cntpos": "AK Hydro Technical Steward",
+          "cntaddr": {
+            "addrtype": "mailing and physical",
+            "address": "11120 Glacier Highway",
+            "city": "Juneau",
+            "state": "Alaska",
+            "postal": "99801"
+          },
+          "cntvoice": "616.920.7265",
+          "cntemail": "mtplivelich@uas.alaska.edu"
+        }
+      },
+      "metstdn": "FGDC Content Standard for Digital Geospatial Metadata",
+      "metstdv": "FGDC-STD-001-1998",
+      "mettc": "local time",
+      "metuc": "Any hardcopy or electronic products utilizing these data sets shall clearly indicate their source. If the user has modified the data in any way, they are obligated to describe the types of modifications they have performed. User specifically agrees not to misrepresent these data sets, nor to imply that the US Forest Service, Tongass National Forest approved the changes."
+    }
+  }
+}
