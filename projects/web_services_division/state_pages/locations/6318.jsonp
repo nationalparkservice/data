@@ -1,1 +1,1 @@
-c({"address":"UT 84746","location":"Leeds, UT","name":"Leeds","states":"UT","resources":[{"acres":0.0,"miles":0,"partnerMoney":"","resourcePartner":"Leeds Clg","waterMiles":0,"year":1991}]});
+c({"address":"UT 84746","location":"Leeds, UT","name":"Leeds","states":"UT","resources":[{"acres":0.0,"miles":0,"partnerMoney":"","program":"clg","resourcePartner":"Leeds Clg","waterMiles":0,"year":1991}]});

@@ -1,1 +1,1 @@
-c({"address":"MA 02035","location":"Foxborough, MA","name":"Foxborough State Hospital, Wards B,c,d,e","states":"MA","resources":[{"acres":0.0,"miles":0,"partnerMoney":"$12,500,000.00","resourcePartner":"","waterMiles":0,"year":2009}]});
+c({"address":"MA 02035","location":"Foxborough, MA","name":"Foxborough State Hospital, Wards B,c,d,e","states":"MA","resources":[{"acres":0.0,"miles":0,"partnerMoney":"$12,500,000.00","program":"hptip","resourcePartner":"","waterMiles":0,"year":2009}]});

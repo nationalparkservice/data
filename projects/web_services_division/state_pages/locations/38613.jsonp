@@ -1,1 +1,1 @@
-c({"address":"AL 35805","location":"","name":"Saturn V Rocket","states":"AL","resources":[{"acres":0.0,"miles":0,"partnerMoney":"$773,250.00","resourcePartner":"U.s. Space & Rocket Center","waterMiles":0,"year":2000}]});
+c({"address":"AL 35805","location":"","name":"Saturn V Rocket","states":"AL","resources":[{"acres":0.0,"miles":0,"partnerMoney":"$773,250.00","program":"sat","resourcePartner":"U.s. Space & Rocket Center","waterMiles":0,"year":2000}]});

@@ -1,1 +1,1 @@
-c({"address":"Frederick County, MD","location":"","name":"Antietam Battlefield: Conservation Easement Acquisition","states":"MD","resources":[{"acres":200.0,"miles":0,"partnerMoney":"$353,940.00","resourcePartner":"Maryland Program Open Space","waterMiles":0,"year":2002}]});
+c({"address":"Frederick County, MD","location":"","name":"Antietam Battlefield: Conservation Easement Acquisition","states":"MD","resources":[{"acres":200.0,"miles":0,"partnerMoney":"$353,940.00","program":"abpp","resourcePartner":"Maryland Program Open Space","waterMiles":0,"year":2002}]});

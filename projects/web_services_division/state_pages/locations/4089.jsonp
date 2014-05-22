@@ -1,1 +1,1 @@
-c({"address":"UT 84025","location":"Farmington, UT","name":"Farmington","states":"UT","resources":[{"acres":0.0,"miles":0,"partnerMoney":"","resourcePartner":"Farmington Clg","waterMiles":0,"year":1989}]});
+c({"address":"UT 84025","location":"Farmington, UT","name":"Farmington","states":"UT","resources":[{"acres":0.0,"miles":0,"partnerMoney":"","program":"clg","resourcePartner":"Farmington Clg","waterMiles":0,"year":1989}]});

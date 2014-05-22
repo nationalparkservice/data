@@ -1,1 +1,1 @@
-c({"address":"UT 84522","location":"Emery, UT","name":"Emery","states":"UT","resources":[{"acres":0.0,"miles":0,"partnerMoney":"","resourcePartner":"Emery Clg","waterMiles":0,"year":2000}]});
+c({"address":"UT 84522","location":"Emery, UT","name":"Emery","states":"UT","resources":[{"acres":0.0,"miles":0,"partnerMoney":"","program":"clg","resourcePartner":"Emery Clg","waterMiles":0,"year":2000}]});

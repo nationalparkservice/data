@@ -1,1 +1,1 @@
-c({"address":"NY 14850","location":"Ithaca, NY","name":"Ithaca","states":"NY","resources":[{"acres":0.0,"miles":0,"partnerMoney":"","resourcePartner":"City of Ithaca","waterMiles":0,"year":1987}]});
+c({"address":"NY 14850","location":"Ithaca, NY","name":"Ithaca","states":"NY","resources":[{"acres":0.0,"miles":0,"partnerMoney":"","program":"clg","resourcePartner":"City of Ithaca","waterMiles":0,"year":1987}]});
