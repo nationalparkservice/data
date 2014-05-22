@@ -1,1 +1,1 @@
-c({"address":"","location":"WELD COUNTY","name":"Atlas Park","states":"CO","resources":[{"acres":18.5,"miles":0,"partnerMoney":"","program":"flp","resourcePartner":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|146","waterMiles":0,"year":0}]});
+c({"address":"","location":"WELD COUNTY","name":"Atlas Park","states":"CO","resources":[{"acres":18.5,"id":718,"locationId":718,"miles":0,"money":"","partnerMoney":"","program":"flp","resourcePartner":"","resourceUrl":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|146","waterMiles":0,"year":0}]});

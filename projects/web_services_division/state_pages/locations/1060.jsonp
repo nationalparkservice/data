@@ -1,1 +1,1 @@
-c({"address":"","location":"TOWN OF BURLINGTON","name":"Rotary Field","states":"MA","resources":[{"acres":1.91,"miles":0,"partnerMoney":"","program":"flp","resourcePartner":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|404","waterMiles":0,"year":0}]});
+c({"address":"","location":"TOWN OF BURLINGTON","name":"Rotary Field","states":"MA","resources":[{"acres":1.91,"id":1060,"locationId":1060,"miles":0,"money":"","partnerMoney":"","program":"flp","resourcePartner":"","resourceUrl":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|404","waterMiles":0,"year":0}]});

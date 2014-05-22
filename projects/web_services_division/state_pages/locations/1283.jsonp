@@ -1,1 +1,1 @@
-c({"address":"","location":"CITY OF TUCUMCARI","name":"Coronado Park","states":"NM","resources":[{"acres":27.55,"miles":0,"partnerMoney":"","program":"flp","resourcePartner":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|593","waterMiles":0,"year":0}]});
+c({"address":"","location":"CITY OF TUCUMCARI","name":"Coronado Park","states":"NM","resources":[{"acres":27.55,"id":1283,"locationId":1283,"miles":0,"money":"","partnerMoney":"","program":"flp","resourcePartner":"","resourceUrl":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|593","waterMiles":0,"year":0}]});

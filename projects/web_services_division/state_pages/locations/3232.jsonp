@@ -1,1 +1,1 @@
-c({"address":"MN 55946","location":"Kenyon, MN","name":"Kenyon","states":"MN","resources":[{"acres":0.0,"miles":0,"partnerMoney":"","program":"clg","resourcePartner":"Kenyon","uniqueId":"9FCA3EB2-155D-4519-3EB114F7F13B292E|3792","waterMiles":0,"year":2004}]});
+c({"address":"MN 55946","location":"Kenyon, MN","name":"Kenyon","states":"MN","resources":[{"acres":0.0,"id":3232,"locationId":3232,"miles":0,"money":"","partnerMoney":"","program":"clg","resourcePartner":"Kenyon","resourceUrl":"","uniqueId":"9FCA3EB2-155D-4519-3EB114F7F13B292E|3792","waterMiles":0,"year":2004}]});

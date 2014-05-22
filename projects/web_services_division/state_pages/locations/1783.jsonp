@@ -1,1 +1,1 @@
-c({"address":"","location":"CITY OF GRAND PRAIRIE","name":"Prairie Park","states":"TX","resources":[{"acres":47.95,"miles":0,"partnerMoney":"","program":"flp","resourcePartner":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|1077","waterMiles":0,"year":0}]});
+c({"address":"","location":"CITY OF GRAND PRAIRIE","name":"Prairie Park","states":"TX","resources":[{"acres":47.95,"id":1783,"locationId":1783,"miles":0,"money":"","partnerMoney":"","program":"flp","resourcePartner":"","resourceUrl":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|1077","waterMiles":0,"year":0}]});

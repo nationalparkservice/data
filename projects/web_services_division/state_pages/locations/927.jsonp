@@ -1,1 +1,1 @@
-c({"address":"","location":"CITY OF DESOTO","name":"Wilderness Park","states":"KS","resources":[{"acres":67.91,"miles":0,"partnerMoney":"","program":"flp","resourcePartner":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|321","waterMiles":0,"year":0}]});
+c({"address":"","location":"CITY OF DESOTO","name":"Wilderness Park","states":"KS","resources":[{"acres":67.91,"id":927,"locationId":927,"miles":0,"money":"","partnerMoney":"","program":"flp","resourcePartner":"","resourceUrl":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|321","waterMiles":0,"year":0}]});

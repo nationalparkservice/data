@@ -1,1 +1,1 @@
-c({"address":"","location":"CITY OF WEST HAVEN","name":"Glade Street Park","states":"CT","resources":[{"acres":3.68,"miles":0,"partnerMoney":"","program":"flp","resourcePartner":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|150","waterMiles":0,"year":0}]});
+c({"address":"","location":"CITY OF WEST HAVEN","name":"Glade Street Park","states":"CT","resources":[{"acres":3.68,"id":724,"locationId":724,"miles":0,"money":"","partnerMoney":"","program":"flp","resourcePartner":"","resourceUrl":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|150","waterMiles":0,"year":0}]});

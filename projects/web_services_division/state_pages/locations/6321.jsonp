@@ -1,1 +1,1 @@
-c({"address":"UT 84642","location":"Manti, UT","name":"Manti","states":"UT","resources":[{"acres":0.0,"miles":0,"partnerMoney":"","program":"clg","resourcePartner":"Manti City","uniqueId":"9FCA3EB2-155D-4519-3EB114F7F13B292E|888","waterMiles":0,"year":1995}]});
+c({"address":"UT 84642","location":"Manti, UT","name":"Manti","states":"UT","resources":[{"acres":0.0,"id":6321,"locationId":6321,"miles":0,"money":"","partnerMoney":"","program":"clg","resourcePartner":"Manti City","resourceUrl":"","uniqueId":"9FCA3EB2-155D-4519-3EB114F7F13B292E|888","waterMiles":0,"year":1995}]});

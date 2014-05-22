@@ -1,1 +1,1 @@
-c({"address":"","location":"BENTON COUNTY","name":"Hyak Park","states":"OR","resources":[{"acres":3.5,"miles":0,"partnerMoney":"","program":"flp","resourcePartner":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|705","waterMiles":0,"year":0}]});
+c({"address":"","location":"BENTON COUNTY","name":"Hyak Park","states":"OR","resources":[{"acres":3.5,"id":1384,"locationId":1384,"miles":0,"money":"","partnerMoney":"","program":"flp","resourcePartner":"","resourceUrl":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|705","waterMiles":0,"year":0}]});

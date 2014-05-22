@@ -1,1 +1,1 @@
-c({"address":"","location":"CITY OF CONCORD","name":"John F. Baldwin Park","states":"CA","resources":[{"acres":18.83,"miles":0,"partnerMoney":"","program":"flp","resourcePartner":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|40","waterMiles":0,"year":0}]});
+c({"address":"","location":"CITY OF CONCORD","name":"John F. Baldwin Park","states":"CA","resources":[{"acres":18.83,"id":461,"locationId":461,"miles":0,"money":"","partnerMoney":"","program":"flp","resourcePartner":"","resourceUrl":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|40","waterMiles":0,"year":0}]});

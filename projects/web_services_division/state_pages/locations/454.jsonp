@@ -1,1 +1,1 @@
-c({"address":"","location":"CITY OF TUCSON","name":"Freedom District Park","states":"AZ","resources":[{"acres":47.101,"miles":0,"partnerMoney":"","program":"flp","resourcePartner":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|33","waterMiles":0,"year":0}]});
+c({"address":"","location":"CITY OF TUCSON","name":"Freedom District Park","states":"AZ","resources":[{"acres":47.101,"id":454,"locationId":454,"miles":0,"money":"","partnerMoney":"","program":"flp","resourcePartner":"","resourceUrl":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|33","waterMiles":0,"year":0}]});

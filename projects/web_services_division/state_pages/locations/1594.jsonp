@@ -1,1 +1,1 @@
-c({"address":"","location":"TOWN OF LITTLE ELM","name":"Beard Park","states":"TX","resources":[{"acres":1.87,"miles":0,"partnerMoney":"","program":"flp","resourcePartner":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|872","waterMiles":0,"year":0}]});
+c({"address":"","location":"TOWN OF LITTLE ELM","name":"Beard Park","states":"TX","resources":[{"acres":1.87,"id":1594,"locationId":1594,"miles":0,"money":"","partnerMoney":"","program":"flp","resourcePartner":"","resourceUrl":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|872","waterMiles":0,"year":0}]});

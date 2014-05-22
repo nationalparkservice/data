@@ -1,1 +1,1 @@
-c({"address":"","location":"CITY OF OAK RIDGE","name":"Yearwood Park","states":"TN","resources":[{"acres":0.98,"miles":0,"partnerMoney":"","program":"flp","resourcePartner":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|813","waterMiles":0,"year":0}]});
+c({"address":"","location":"CITY OF OAK RIDGE","name":"Yearwood Park","states":"TN","resources":[{"acres":0.98,"id":1539,"locationId":1539,"miles":0,"money":"","partnerMoney":"","program":"flp","resourcePartner":"","resourceUrl":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|813","waterMiles":0,"year":0}]});

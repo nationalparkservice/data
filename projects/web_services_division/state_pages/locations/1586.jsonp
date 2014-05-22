@@ -1,1 +1,1 @@
-c({"address":"","location":"CORYELL COUNTY","name":"Oglesby Park","states":"TX","resources":[{"acres":23.833,"miles":0,"partnerMoney":"","program":"flp","resourcePartner":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|863","waterMiles":0,"year":0}]});
+c({"address":"","location":"CORYELL COUNTY","name":"Oglesby Park","states":"TX","resources":[{"acres":23.833,"id":1586,"locationId":1586,"miles":0,"money":"","partnerMoney":"","program":"flp","resourcePartner":"","resourceUrl":"","uniqueId":"9EFBAA98-155D-4519-3EA2986E438BA5DF|863","waterMiles":0,"year":0}]});
