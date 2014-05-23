@@ -1,0 +1,427 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8652267456055,
+          41.759220123291
+        ]
+      },
+      "properties": {
+        "name": "Homestead Dwellings",
+        "name_url": "http://www.nps.gov/nr/travel/amana/hod.htm",
+        "description": "Iowa",
+        "description_image": "http://www.cr.nps.gov/nr/travel/amana/bingmap_images/homesteaddwellings_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8798422813416,
+          41.7618005722761
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/bls.htm\">Blacksmith Shop</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/blacksmithshop_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8797658383846,
+          41.7617831379175
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/dry.htm\">Drying House</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/dryinghouse_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8797658383846,
+          41.7617831379175
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/ams.htm\">Homestead Meat Shop and Smokehouse</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/meatshop_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8762695789337,
+          41.7609697580338
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/ccm.htm\">Community Church Museum</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/communitychurch_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8656386435032,
+          41.7592249810696
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/die.htm\">Die Heimat Country Inn</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/dieheimat_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9224,
+          41.7936
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/mil.htm\">Mill Race</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/millrace_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8724413961172,
+          41.8001963943243
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/mah.htm\">Museum of Amana History</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/museumofah_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8723783642054,
+          41.8002735078335
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/hog.htm\">Powder House</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/powderhouse_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8720953911543,
+          41.8000864237547
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/oxy.htm\">Ox Yoke Inn</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/oxyoke_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8671406805515,
+          41.7986118793488
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/inn.htm\">Colony Inn Restaurant</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/colonyinn_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.865070015192,
+          41.7971004545689
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/awm.htm\">Amana Woolen Mill</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/woolenmill_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8650968372822,
+          41.7967249453068
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/rog.htm\">Roger's Anvil/Industrial Machine Shop Museum</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/rogers_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8657197803259,
+          41.7985294014215
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/afs.htm\">Amana Furniture Shop</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/amanafurniture_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8561935424805,
+          41.8007774353027
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/lil.htm\">Lily Lake</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/lilylake_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9025115966797,
+          41.7958602905273
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/kit.htm\">Communal Kitchen and Coopershop Museum</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/communalkitchen_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9038172066212,
+          41.7969603091478
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/hah.htm\">Hahn's Hearth Oven Bakery</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/hahns_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9209518432617,
+          41.7977333068848
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/far.htm\">High Amana Farm Complex</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/highamanafarm_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9425965845585,
+          41.8034774065018
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/tag.htm\">Tagloehner Houses</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/tagloehner_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9420916587114,
+          41.8036517500877
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/art.htm\">Amana Arts Guild Center</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/amanaarts_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9404528290033,
+          41.8034579604864
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/has.htm\">High Amana Store</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/amanastore_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8789978027344,
+          41.8004188537598
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/cem.htm\">High Amana Cemetery</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/amanacemetery_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.969718,
+          41.806389
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/bar.htm\">West Amana Barns</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/amanabarns_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.968074887991,
+          41.77735067904
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/hot.htm\">Lower South Hotel</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/lowersouth_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3842926025391,
+          41.5603408813477
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/agr.htm\">Barn Museum and Communal Agriculture Museum</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/barnmuseum_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9673332571983,
+          41.7762268334627
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/bae.htm\">Baeckerei Bed and Breakfast</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/baeckerei_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9669664651155,
+          41.77529476583
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/sas.htm\">South Amana School</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/amanaschool_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9009982879353,
+          41.7940261120494
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/usa.htm\">Upper South Amana Communal Kitchen</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/uppersouth_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8993911743164,
+          41.7954788208008
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/asb.htm\">Amana Society Bakery</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/amanabakery_mapimage.jpg\" /></div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8993911743164,
+          41.7954788208008
+        ]
+      },
+      "properties": {
+        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/sch.htm\">Schulwald</a>",
+        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/schulwald_mapimage.jpg\" /></div>"
+      }
+    }
+  ]
+}
