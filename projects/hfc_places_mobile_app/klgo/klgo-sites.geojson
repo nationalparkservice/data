@@ -1,0 +1,1115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Wayside",
+        "id": 0,
+        "Name": "White Pass City Wayside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.1911652,
+          59.5879612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Wayside",
+        "id": 1,
+        "Name": "Plowing Ahead Wayside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3191668,
+          59.4532169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Wayside",
+        "id": 2,
+        "Name": "Klondike Highway Wayside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.1813586,
+          59.6013459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Wayside",
+        "id": 3,
+        "Name": "International Border Wayside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.1625152,
+          59.634226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Wayside",
+        "id": 4,
+        "Name": "US Army Invades Skagway Wayside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3206229,
+          59.4522395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Wayside",
+        "id": 5,
+        "Name": "Transportation Corridor Wayside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3464705,
+          59.4838846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Wayside",
+        "id": 6,
+        "Name": "The Road to Gold Wayside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3205928,
+          59.4522057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Wayside",
+        "id": 7,
+        "Name": "White Pass Railroad Wayside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.2517975,
+          59.5139431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Wayside",
+        "id": 8,
+        "Name": "Sweet Tooth Lot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31738311052322,
+          59.45456808716385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Wayside",
+        "id": 9,
+        "Name": "Brackett Wagon Road Wayside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.2129232,
+          59.5379663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Wayside",
+        "id": 10,
+        "Name": "Chilkoot Trail Wayside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3468661,
+          59.5115446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Wayside",
+        "id": 11,
+        "Name": "Wayside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3586813,
+          59.5031242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Wayside",
+        "id": 12,
+        "Name": "Wayside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3585827,
+          59.5031598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Wayside",
+        "id": 13,
+        "Name": "Wayside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.346652,
+          59.5120699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Wayside",
+        "id": 14,
+        "Name": "Wayside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3585247,
+          59.5031139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Wayside",
+        "id": 15,
+        "Name": "Ho for the Klondike Wayside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3206387,
+          59.4521945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Wayside",
+        "id": 16,
+        "Name": "Historic Moore Homestead Wayside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3142038,
+          59.4550631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Wayside",
+        "id": 17,
+        "Name": "Gateway to the Interior Wayside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3206652,
+          59.4522036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Wayside",
+        "id": 18,
+        "Name": "Dyea Description Wayside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3464764,
+          59.4838425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Wayside",
+        "id": 19,
+        "Name": "Dead Horse Trail Wayside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.1998948,
+          59.5571725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Waterfall",
+        "id": 20,
+        "Name": "Reid Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.2861385,
+          59.4736004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Visitor Center",
+        "id": 21,
+        "Name": "NPS Visitor Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.318608880043,
+          59.45350071910936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Trailhead",
+        "id": 22,
+        "Name": "Chilkoot Trailhead"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.346294,
+          59.5113928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Site",
+        "id": 23,
+        "Name": "First Bloom Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31704783439636,
+          59.45471939714968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Sign",
+        "id": 24,
+        "Name": "NPS Welcome Sign"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3196381,
+          59.4529846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Restroom",
+        "id": 25,
+        "Name": "Restrooms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3133192,
+          59.4555562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Restroom",
+        "id": 26,
+        "Name": "Restrooms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3469757,
+          59.5114299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Ranger Station",
+        "id": 27,
+        "Name": "Dyea Ranger Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3479646,
+          59.5058243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Poi\\ recreation",
+        "id": 28,
+        "Name": "Dyea Flats"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3600796,
+          59.4978573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic, restroom, information",
+        "id": 29,
+        "Name": "Dyea Townsight"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.35884469747543,
+          59.503188219781975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "id": 30,
+        "Name": "Picnic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.35874,
+          59.5030993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Picnic",
+        "id": 31,
+        "Name": "Picnic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3488587,
+          59.5054535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Parking",
+        "id": 32,
+        "Name": "Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3485011,
+          59.5055374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Park",
+        "id": 33,
+        "Name": "Mollie Walsh Park and Statue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3133061528206,
+          59.45566404688588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Park",
+        "id": 34,
+        "Name": "Corrington Lot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31547337770462,
+          59.455576807612374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Overlook",
+        "id": 35,
+        "Name": "City of Skagway Overlook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3204587,
+          59.462472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Overlook",
+        "id": 36,
+        "Name": "View of the Valley Overlook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.2413017,
+          59.5199133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Museum",
+        "id": 37,
+        "Name": "NPS Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.318423807621,
+          59.45339166300481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Landmark",
+        "id": 38,
+        "Name": "Stampeder Statue Centennial Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31923919916153,
+          59.45301950639985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Information",
+        "id": 39,
+        "Name": "Information Sign"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.358668,
+          59.5032539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic Buillding",
+        "id": 40,
+        "Name": "Red Front Historic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3168922662735,
+          59.454795733462134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic Building",
+        "id": 41,
+        "Name": "Peneil Mission Historic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31369239091873,
+          59.45533144594883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic Building",
+        "id": 42,
+        "Name": "Portland House Historic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3167688846588,
+          59.45586578684366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic Building",
+        "id": 43,
+        "Name": "Lynch and Kennedy Historic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31669914722443,
+          59.4545040187676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic Building",
+        "id": 44,
+        "Name": "Myers Complex - YMCA Historic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3172382712364,
+          59.456040263674225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic Building",
+        "id": 45,
+        "Name": "Moore Homestead Historic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31396329402924,
+          59.454993389184544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic Building",
+        "id": 46,
+        "Name": "Moore Cabin Historic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31408935785294,
+          59.455133792202695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic Building",
+        "id": 47,
+        "Name": "Trail Inn and Pack Station Historic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3164228796959,
+          59.454652602734924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic Building",
+        "id": 48,
+        "Name": "St. James Hotel Historic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31583547592163,
+          59.4546921341392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic Building",
+        "id": 49,
+        "Name": "Soapy Smith Parlor Historic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31914800405502,
+          59.45382106938226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic Building",
+        "id": 50,
+        "Name": "Boss Bakery Historic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3148618340492,
+          59.45547048444345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic Building",
+        "id": 51,
+        "Name": "Cribs Historic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31769692897797,
+          59.453893318173314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic Building",
+        "id": 52,
+        "Name": "Goldberg Cigar Store Historic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31469017267227,
+          59.45518831748945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic Building",
+        "id": 53,
+        "Name": "Historic City Hall Historic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31636655330658,
+          59.456015727924346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic Building",
+        "id": 54,
+        "Name": "Frye Bruhn Historic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31446754932404,
+          59.45526328961517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic building",
+        "id": 55,
+        "Name": "Pantheon Saloon Historic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31679570674893,
+          59.45486116444992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic building",
+        "id": 56,
+        "Name": "Verbauwhede Confectionary Historic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31779885292053,
+          59.45395329818443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic building",
+        "id": 57,
+        "Name": "Mascot Saloon Historic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3174018859863,
+          59.45401327808916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic building",
+        "id": 58,
+        "Name": "Boas Tailor and Furrierr Shop Historic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31769692897797,
+          59.453994193585565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Hiking permits",
+        "id": 59,
+        "Name": "Chilkoot Trail Infromation Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31914800405502,
+          59.453609774862166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Gravesite",
+        "id": 60,
+        "Name": "Jefferson \"Soapy\" Smith Grave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.2890295,
+          59.4739274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Gravesite",
+        "id": 61,
+        "Name": "Frank Reid Grave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.2889186,
+          59.4741827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "City Visitor Centet",
+        "id": 62,
+        "Name": "Arctic Brotherhood (City Visitor Center)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31830310821533,
+          59.45405826294789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Cemetery",
+        "id": 63,
+        "Name": "Slide Cemetery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3589585,
+          59.5103459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Cemetery",
+        "id": 64,
+        "Name": "Gold Rush Cemetery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.289414,
+          59.4730831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Campground",
+        "id": 65,
+        "Name": "Dyea Campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3482168,
+          59.505698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic Building",
+        "id": 66,
+        "Name": "White Pass and Yukon Route Train Depot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31817436218262,
+          59.453301691453774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Site",
+        "id": 67,
+        "Name": "Snow Plower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31905412673947,
+          59.45342165346863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic Building",
+        "id": 68,
+        "Name": "Skagway City Hall and Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.311758518219,
+          59.45566540999775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Site",
+        "id": 69,
+        "Name": "Soapy and Reed's Gunfight Plaque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3209638595581,
+          59.453800621583184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Historic Building",
+        "id": 70,
+        "Name": "Golden North Hotel Historic Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3179919719696,
+          59.45431999184788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Site",
+        "id": 71,
+        "Name": "Goat Lake Overlook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.2149232,
+          59.5364066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Site",
+        "id": 72,
+        "Name": "Pullen Pond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.31675279140472,
+          59.45198753424096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Site",
+        "id": 73,
+        "Name": "Barc Canada Shipwreck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3377652168274,
+          59.479070113508556
+        ]
+      }
+    }
+  ]
+}
