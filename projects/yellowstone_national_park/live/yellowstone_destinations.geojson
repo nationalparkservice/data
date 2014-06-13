@@ -70,10 +70,12 @@
       "type": "Feature",
       "properties": {
         "name": "North Entrance",
-        "to": [{
-          "name": "Mammoth Hot Springs",
-          "time": "15 Min"
-        }]
+        "to": [
+          {
+            "name": "Mammoth Hot Springs",
+            "time": "15 Min"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -87,16 +89,20 @@
       "type": "Feature",
       "properties": {
         "name": "Mammoth Hot Springs",
-        "to": [{
-          "name": "Norris Junction",
-          "time": "45 Min"
-        },{
-          "name": "North Entrance",
-          "time": "15 Min"
-        },{
-          "name": "Tower Junction",
-          "time": "40 Min"
-        }]
+        "to": [
+          {
+            "name": "Norris Junction",
+            "time": "45 Min"
+          },
+          {
+            "name": "North Entrance",
+            "time": "15 Min"
+          },
+          {
+            "name": "Tower Junction",
+            "time": "40 Min"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -110,16 +116,20 @@
       "type": "Feature",
       "properties": {
         "name": "Tower Junction",
-        "to": [{
-          "name": "Canyon Village",
-          "time": "50-60 Min"
-        },{
-          "name": "Mammoth Hot Springs",
-          "time": "40 Min"
-        },{
-          "name": "Northeast Entrance",
-          "time": "60 Min"
-        }]
+        "to": [
+          {
+            "name": "Canyon Village",
+            "time": "50-60 Min"
+          },
+          {
+            "name": "Mammoth Hot Springs",
+            "time": "40 Min"
+          },
+          {
+            "name": "Northeast Entrance",
+            "time": "60 Min"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -133,10 +143,12 @@
       "type": "Feature",
       "properties": {
         "name": "Northeast Entrance",
-        "to": [{
-          "name": "Tower Junction",
-          "time": "60 Min"
-        }]
+        "to": [
+          {
+            "name": "Tower Junction",
+            "time": "60 Min"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -163,16 +175,20 @@
       "type": "Feature",
       "properties": {
         "name": "Canyon Village",
-        "to": [{
-          "name": "Lake Village",
-          "time": "35 Min"
-        },{
-          "name": "Norris Junction",
-          "time": "30 Min"
-        },{
-          "name": "Tower Junction",
-          "time": "50-60 Min"
-        }]
+        "to": [
+          {
+            "name": "Lake Village",
+            "time": "35 Min"
+          },
+          {
+            "name": "Norris Junction",
+            "time": "30 Min"
+          },
+          {
+            "name": "Tower Junction",
+            "time": "50-60 Min"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -199,10 +215,12 @@
       "type": "Feature",
       "properties": {
         "name": "East Entrance",
-        "to": [{
-          "name": "Lake Village",
-          "time": "60 Min"
-        }]
+        "to": [
+          {
+            "name": "Lake Village",
+            "time": "60 Min"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -216,16 +234,20 @@
       "type": "Feature",
       "properties": {
         "name": "Lake Village",
-        "to": [{
-          "name": "Canyon Village",
-          "time": "35 Min"
-        },{
-          "name": "East Entrance",
-          "time": "60 Min"
-        },{
-          "name": "Grant Village",
-          "time": "45 Min"
-        }]
+        "to": [
+          {
+            "name": "Canyon Village",
+            "time": "35 Min"
+          },
+          {
+            "name": "East Entrance",
+            "time": "60 Min"
+          },
+          {
+            "name": "Grant Village",
+            "time": "45 Min"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -265,16 +287,20 @@
       "type": "Feature",
       "properties": {
         "name": "Grant Village",
-        "to": [{
-          "name": "Lake Village",
-          "time": "45 Min"
-        },{
-          "name": "Old Faithful",
-          "time": "40 Min"
-        },{
-          "name": "South Entrance",
-          "time": "50 Min"
-        }]
+        "to": [
+          {
+            "name": "Lake Village",
+            "time": "45 Min"
+          },
+          {
+            "name": "Old Faithful",
+            "time": "40 Min"
+          },
+          {
+            "name": "South Entrance",
+            "time": "50 Min"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -288,13 +314,16 @@
       "type": "Feature",
       "properties": {
         "name": "Old Faithful",
-        "to": [{
-          "name": "Grant Village",
-          "time": "40 Min"
-        },{
-          "name": "Madison Junction",
-          "time": "35-45 Min"
-        }]
+        "to": [
+          {
+            "name": "Grant Village",
+            "time": "40 Min"
+          },
+          {
+            "name": "Madison Junction",
+            "time": "35-45 Min"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -308,16 +337,20 @@
       "type": "Feature",
       "properties": {
         "name": "Madison Junction",
-        "to": [{
-          "name": "Norris Junction",
-          "time": "30 Min"
-        },{
-          "name": "Old Faithful",
-          "time": "35-45 Min"
-        },{
-          "name": "West Entrance",
-          "time": "30 Min"
-        }]
+        "to": [
+          {
+            "name": "Norris Junction",
+            "time": "30 Min"
+          },
+          {
+            "name": "Old Faithful",
+            "time": "35-45 Min"
+          },
+          {
+            "name": "West Entrance",
+            "time": "30 Min"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -331,13 +364,16 @@
       "type": "Feature",
       "properties": {
         "name": "West Entrance",
-        "to": [{
-          "name": "Bechler (closed in winter)",
-          "time": "2 Hrs"
-        },{
-          "name": "Madison Junction",
-          "time": "30 Min"
-        }]
+        "to": [
+          {
+            "name": "Bechler (closed in winter)",
+            "time": "2 Hrs"
+          },
+          {
+            "name": "Madison Junction",
+            "time": "30 Min"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -351,16 +387,20 @@
       "type": "Feature",
       "properties": {
         "name": "Norris Junction",
-        "to": [{
-          "name": "Canyon Village",
-          "time": "30 Min"
-        },{
-          "name": "Madison Junction",
-          "time": "30 Min"
-        },{
-          "name": "Mammoth Hot Springs",
-          "time": "45 Min"
-        }]
+        "to": [
+          {
+            "name": "Canyon Village",
+            "time": "30 Min"
+          },
+          {
+            "name": "Madison Junction",
+            "time": "30 Min"
+          },
+          {
+            "name": "Mammoth Hot Springs",
+            "time": "45 Min"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -374,22 +414,26 @@
       "type": "Feature",
       "properties": {
         "name": "Bechler",
-        "to": [{
-          "name": "South Entrance via Grassy Lake Rd (closed in winter, high clearance 4WD vehicles in summer)",
-          "time": "1.5-2 Hrs"
-        },{
-          "name": "South Entrance via Jackson Hole",
-          "time": "3 Hrs, 40 Min"
-        },{
-          "name": "West Entrance (closed in winter)",
-          "time": "2 Hrs"
-        }]
+        "to": [
+          {
+            "name": "South Entrance via Grassy Lake Rd (closed in winter, high clearance 4WD vehicles in summer)",
+            "time": "1.5-2 Hrs"
+          },
+          {
+            "name": "South Entrance via Jackson Hole",
+            "time": "3 Hrs, 40 Min"
+          },
+          {
+            "name": "West Entrance (closed in winter)",
+            "time": "2 Hrs"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.04920387268066,
-          44.13710023400072
+          -111.04534149169922,
+          44.14877201202375
         ]
       }
     },
@@ -397,16 +441,20 @@
       "type": "Feature",
       "properties": {
         "name": "South Entrance",
-        "to": [{
-          "name": "Bechler via Grassy Lake Rd (closed in winter, high clearance 4WD vehicles in summer)",
-          "time": "1.5-2 Hrs"
-        },{
-          "name": "Bechler via Jackson Hole",
-          "time": "3 Hrs, 40 Min"
-        },{
-          "name": "Grant Village",
-          "time": "50 Min"
-        }]
+        "to": [
+          {
+            "name": "Bechler via Grassy Lake Rd (closed in winter, high clearance 4WD vehicles in summer)",
+            "time": "1.5-2 Hrs"
+          },
+          {
+            "name": "Bechler via Jackson Hole",
+            "time": "3 Hrs, 40 Min"
+          },
+          {
+            "name": "Grant Village",
+            "time": "50 Min"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
