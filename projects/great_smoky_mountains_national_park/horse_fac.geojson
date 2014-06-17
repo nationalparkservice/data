@@ -1,11 +1,11 @@
 {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::26917" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "Id": 0, "Name": null, "Address_Nu": 0, "Street_Nam": null, "City": null, "State": null, "Zip": null, "GPS_X": -83.777918903599996, "GPS_Y": 35.605286931 }, "geometry": { "type": "Point", "coordinates": [ 248359.0894183878, 3943723.6341364677 ] } },
-{ "type": "Feature", "properties": { "Id": 0, "Name": "Smokemont Riding Stable", "Address_Nu": 0, "Street_Nam": null, "City": null, "State": null, "Zip": null, "GPS_X": -83.308420670100006, "GPS_Y": 35.551093507499999 }, "geometry": { "type": "Point", "coordinates": [ 290756.34139595553, 3936611.6211208613 ] } },
-{ "type": "Feature", "properties": { "Id": 0, "Name": "Sugarlands Riding Stables", "Address_Nu": 0, "Street_Nam": null, "City": null, "State": null, "Zip": null, "GPS_X": -83.531773491, "GPS_Y": 35.690804387 }, "geometry": { "type": "Point", "coordinates": [ 270905.88109780115, 3952609.130824761 ] } },
-{ "type": "Feature", "properties": { "Id": 0, "Name": "Smoky Mountain Riding Stables", "Address_Nu": 0, "Street_Nam": null, "City": null, "State": null, "Zip": null, "GPS_X": -83.451667882300001, "GPS_Y": 35.7295815632 }, "geometry": { "type": "Point", "coordinates": [ 278263.4048163296, 3956727.0805955622 ] } }
+{ "type": "Feature", "properties": { "Id": 0, "Name": null, "Address_Nu": 0, "Street_Nam": null, "City": null, "State": null, "Zip": null, "GPS_X": -83.777918903599996, "GPS_Y": 35.605286931 }, "geometry": { "type": "Point", "coordinates": [ -83.777918903598362, 35.605286930960737 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Smokemont Riding Stable", "Address_Nu": 0, "Street_Nam": null, "City": null, "State": null, "Zip": null, "GPS_X": -83.308420670100006, "GPS_Y": 35.551093507499999 }, "geometry": { "type": "Point", "coordinates": [ -83.308420670053735, 35.551093507491046 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Sugarlands Riding Stables", "Address_Nu": 0, "Street_Nam": null, "City": null, "State": null, "Zip": null, "GPS_X": -83.531773491, "GPS_Y": 35.690804387 }, "geometry": { "type": "Point", "coordinates": [ -83.531773490993316, 35.690804387032465 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Name": "Smoky Mountain Riding Stables", "Address_Nu": 0, "Street_Nam": null, "City": null, "State": null, "Zip": null, "GPS_X": -83.451667882300001, "GPS_Y": 35.7295815632 }, "geometry": { "type": "Point", "coordinates": [ -83.451667882300313, 35.729581563233396 ] } }
 ]
 }
