@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "a": "<a href=\"http://www.nps.gov\">NPS.gov</a>",
-        "img": "<img src=\"http://www.nps.gov/npmap/bootstrap/dist/img/apple-touch-icon-144x144-precomposed.png\">"
+        "img": "<img src=\"http://www.nps.gov/npmap/bootstrap/dist/img/apple-touch-icon-144x144-precomposed.png\">",
+        "name": "Double-quotes"
       },
       "geometry": {
         "type": "Polygon",
@@ -30,6 +31,41 @@
             [
               -109.5556640625,
               44.15068115978091
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "a": "<a href='http://www.google.com' target='_blank'>Google</a>",
+        "img": "<img src='http://www.nps.gov/npmap/bootstrap/dist/img/apple-touch-icon-144x144-precomposed.png'>",
+        "name": "Single-quotes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -110.16540527343749,
+              42.83972354764084
+            ],
+            [
+              -110.16540527343749,
+              43.51270490464819
+            ],
+            [
+              -108.709716796875,
+              43.51270490464819
+            ],
+            [
+              -108.709716796875,
+              42.83972354764084
+            ],
+            [
+              -110.16540527343749,
+              42.83972354764084
             ]
           ]
         ]
