@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "a": "<a href=\"http://www.nps.gov\">NPS.gov</a>",
+        "img": "<img src=\"http://www.nps.gov/npmap/bootstrap/dist/img/apple-touch-icon-144x144-precomposed.png\">"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -109.5556640625,
+              44.15068115978091
+            ],
+            [
+              -109.5556640625,
+              45.73685954736049
+            ],
+            [
+              -105.732421875,
+              45.73685954736049
+            ],
+            [
+              -105.732421875,
+              44.15068115978091
+            ],
+            [
+              -109.5556640625,
+              44.15068115978091
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
