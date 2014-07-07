@@ -6,7 +6,8 @@
       "properties": {
         "a": "<a href=\"http://www.nps.gov\">NPS.gov</a>",
         "img": "<img src=\"http://www.nps.gov/npmap/bootstrap/dist/img/apple-touch-icon-144x144-precomposed.png\">",
-        "name": "Double-quotes"
+        "name": "Double-quotes",
+        "space in name": "Just testing properties with spaces in the name."
       },
       "geometry": {
         "type": "Polygon",
@@ -41,7 +42,8 @@
       "properties": {
         "a": "<a href='http://www.google.com' target='_blank'>Google</a>",
         "img": "<img src='http://www.nps.gov/npmap/bootstrap/dist/img/apple-touch-icon-144x144-precomposed.png'>",
-        "name": "Single-quotes"
+        "name": "Single-quotes",
+        "space in name": "Just testing properties with spaces in the name."
       },
       "geometry": {
         "type": "Polygon",
