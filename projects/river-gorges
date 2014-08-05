@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Initiation",
-        "WebAddress": "//www.youtube.com/embed/U-yfxJ8IMbg\",
+        "WebAddress": "www.youtube.com/embed/U-yfxJ8IMbg",
         "Significance": "The first Class V rapid on the Upper Gauley River"
       },
       "geometry": {
@@ -20,7 +20,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Pillow Rock",
-        "WebAddress": "//www.youtube.com/embed/6MzuwenJBSE",
+        "WebAddress": "www.youtube.com/embed/6MzuwenJBSE",
         "Significance": "Most photographed rapid."
       },
       "geometry": {
