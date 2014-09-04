@@ -1,0 +1,533 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.653167,
+          37.570472
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/tuk.htm",
+        "name": "Tuckahoe",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/tuckahoe_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.520556,
+          37.5625
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/wil.htm",
+        "name": "Wilton",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/wilton_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.503056,
+          37.375278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/cas.htm",
+        "name": "Castlewood",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/castlewood_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5075,
+          37.375
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/mag.htm",
+        "name": "Magnolia Grange",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/magnolia_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7075,
+          37.301111
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/epp.htm",
+        "name": "Eppington",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/eppington_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4463411420584,
+          37.2168745100498
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/may.htm",
+        "name": "Mayfield Cottage",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/mayfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2791463136673,
+          37.3098599910736
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/bat.htm",
+        "name": "Battersea",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/battersea_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.405278,
+          37.241667
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/vio.htm",
+        "name": "Violet Bank",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/violetbank_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.304444,
+          37.308611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/wsm.htm",
+        "name": "Weston Manor",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/weston_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.277222,
+          37.316667
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/app.htm",
+        "name": "Appomattox Manor",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/appomattox_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.244167,
+          37.355833
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/shi.htm",
+        "name": "Shirley",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/shirley_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.186667,
+          37.330278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/edg.htm",
+        "name": "Edgewood",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/edgewood_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.181667,
+          37.321667
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/bek.htm",
+        "name": "Berkeley",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/berkeley_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.173056,
+          37.332778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/wes.htm",
+        "name": "Westover",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/westover_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.061111,
+          37.346944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/bel.htm",
+        "name": "Belle Air",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/belleair_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.055833,
+          37.311667
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/nor.htm",
+        "name": "North Bend",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/northbend_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.073611,
+          37.298333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/upp.htm",
+        "name": "Upper Weyanoke",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/weyanoke_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0475,
+          37.301389
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/kit.htm",
+        "name": "Kittiewan",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/kittiewan_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.020556,
+          37.324722
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/she.htm",
+        "name": "John Tyler House (Sherwood Forest)",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/sherwood_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.978333,
+          37.373333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/pin.htm",
+        "name": "Piney Grove",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/pineygrove_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7621216922998,
+          37.2629629075527
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/pow.htm",
+        "name": "Powhatan",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/powhatan_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.679444,
+          37.226944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/kin.htm",
+        "name": "Kingsmill Plantation",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/kingsmill_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.624819,
+          37.206981
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/car.htm",
+        "name": "Carter's Grove",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/cartersgrove_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.575556,
+          37.199722
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/lee.htm",
+        "name": "Lee Hall",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/leehall_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.529083,
+          37.146778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/ric.htm",
+        "name": "Richneck Plantation Site",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/richneck_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.539444,
+          37.128056
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/mat.htm",
+        "name": "Denbigh Plantation Site (Matthew's Manor)",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/denbigh_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.603056,
+          37.160278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/jon.htm",
+        "name": "Matthew Jones House",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/joneshouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.691667,
+          36.965
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/fou.htm",
+        "name": "Four Square",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/foursquare_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.728056,
+          37.110556
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/bac.htm",
+        "name": "Bacon's Castle",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/baconcastle_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7275,
+          37.136667
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/chi.htm",
+        "name": "Chippokes Plantation",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/chippokes_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.82,
+          37.163889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/war.htm",
+        "name": "Warren House (Smith's Fort)",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/warrenhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.993389,
+          37.257528
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/bra.htm",
+        "name": "Brandon",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/brandon_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.104167,
+          37.296111
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/jamesriver/flo.htm",
+        "name": "Flowerdew Hundred Plantation",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/jamesriver/bingmap_images/flowerdew_mapimage.jpg"
+      }
+    }
+  ]
+}

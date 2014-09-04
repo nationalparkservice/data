@@ -1,0 +1,933 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.435556,
+          32.146111
+        ]
+      },
+      "properties": {
+        "name": "Fort Bowie National Historic Site",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/history/nr/travel/amsw/sw1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/fortbowie_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.271667,
+          31.348333
+        ]
+      },
+      "properties": {
+        "name": "Coronado National Memorial",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw2.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Coronadonationalmemorial_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.349754,
+          31.555357
+        ]
+      },
+      "properties": {
+        "name": "Fort Huachuca",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw3.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Forthuachuca_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050646,
+          31.568147
+        ]
+      },
+      "properties": {
+        "name": "Tumacacori National Historical Park",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw4.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Tumacacori_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.045833,
+          31.611389
+        ]
+      },
+      "properties": {
+        "name": "Tubac Presidio Historic State Park",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw5.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Tubacpresidio_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.008,
+          32.107
+        ]
+      },
+      "properties": {
+        "name": "San Xavier del Bac",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw6.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Sanxavierdelbac_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.972137451172,
+          32.2276916503906
+        ]
+      },
+      "properties": {
+        "name": "El Presidio Historic District",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw7.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Elpresidio_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.975112915039,
+          32.2133102416992
+        ]
+      },
+      "properties": {
+        "name": "Barrio Libre",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw8.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Barriolibre_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.975596681237,
+          32.2236400097609
+        ]
+      },
+      "properties": {
+        "name": "La Casa Cordova",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw9.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Lacasacordova_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.532069,
+          32.997005
+        ]
+      },
+      "properties": {
+        "name": "Casa Grande Ruins National Monument",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw10.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Casagranderuins_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.131944,
+          33.928611
+        ]
+      },
+      "properties": {
+        "name": "Fort Apache Historic District",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw11.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Fortapache_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.054444,
+          33.814722
+        ]
+      },
+      "properties": {
+        "name": "Kinishba Ruins",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw12.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Kinishbaruins_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.094444,
+          33.656944
+        ]
+      },
+      "properties": {
+        "name": "Tonto National Monument",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw13.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Tonto_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.984167,
+          33.446389
+        ]
+      },
+      "properties": {
+        "name": "Pueblo Grande Ruin",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw14.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Pueblogranderuin_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.473611,
+          34.541667
+        ]
+      },
+      "properties": {
+        "name": "Old Governor's Mansion/Sharlot Hall Museum",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw15.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Sharlothall_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.84,
+          34.613056
+        ]
+      },
+      "properties": {
+        "name": "Montezuma Castle National Monument",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw16.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Montezuma_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.025991,
+          34.770854
+        ]
+      },
+      "properties": {
+        "name": "Tuzigoot National Monument",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw17.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Tuzigoot_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.509722,
+          35.171667
+        ]
+      },
+      "properties": {
+        "name": "Walnut Canyon National Monument",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw18.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Walnutcanyon_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.386944,
+          35.565556
+        ]
+      },
+      "properties": {
+        "name": "Wupatki National Monument",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw19.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/wupatki_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.806389,
+          35.088056
+        ]
+      },
+      "properties": {
+        "name": "Petrified Forest National Park",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw20.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Petrifiedforest_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.593333,
+          35.725556
+        ]
+      },
+      "properties": {
+        "name": "Hubbell Trading Post",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw21.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Hubbell_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.508995,
+          36.155282
+        ]
+      },
+      "properties": {
+        "name": "Canyon de Chelly National Monument",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw22.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Canyondechelly_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.540972,
+          36.678332
+        ]
+      },
+      "properties": {
+        "name": "Navajo National Monument",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw23.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Navajo_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.077222,
+          37.383889
+        ]
+      },
+      "properties": {
+        "name": "Hovenweep National Monument",
+        "description": "Colorado",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw24.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Hovenweep_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.546279907227,
+          37.4740180969238
+        ]
+      },
+      "properties": {
+        "name": "Escalante Ruin",
+        "description": "Colorado",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw25.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Escalanteruin_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.488687,
+          37.183784
+        ]
+      },
+      "properties": {
+        "name": "Mesa Verde National Park",
+        "description": "Colorado",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw26.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Mesaverde_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.998056,
+          36.835833
+        ]
+      },
+      "properties": {
+        "name": "Aztec Ruins National Monument",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw27.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Aztecruins_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.97,
+          36.06
+        ]
+      },
+      "properties": {
+        "name": "Chaco Culture National Historical Park",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw28.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Chacoculture_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.846667,
+          35.069444
+        ]
+      },
+      "properties": {
+        "name": "Zuni Pueblo",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw29.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Zunipueblo_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.984556,
+          34.932222
+        ]
+      },
+      "properties": {
+        "name": "Hawikuh",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw30.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Hawikuh_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.353333,
+          35.038333
+        ]
+      },
+      "properties": {
+        "name": "El Morro National Monument",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw31.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Elmorro_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.581644,
+          34.897478
+        ]
+      },
+      "properties": {
+        "name": "Acoma",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw32.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Acoma_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.3836566,
+          35.0433769
+        ]
+      },
+      "properties": {
+        "name": "San Jose de la Laguna Mission and Convento",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw33.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Sanjose_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.691667,
+          34.908611
+        ]
+      },
+      "properties": {
+        "name": "Isleta Pueblo",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw34.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Isletapueblo_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.669722,
+          35.096667
+        ]
+      },
+      "properties": {
+        "name": "San Felipe De Neri Church",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw35.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Sanfelipe_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5575,
+          35.329444
+        ]
+      },
+      "properties": {
+        "name": "Kuaua Ruin (Coronado State Monument)",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw36.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Kuauaruin_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.728056,
+          35.506111
+        ]
+      },
+      "properties": {
+        "name": "Zia Pueblo",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw37.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Ziapueblo_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.321111,
+          35.778889
+        ]
+      },
+      "properties": {
+        "name": "Bandelier National Monument",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw38.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Bandelier_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.121944,
+          35.897778
+        ]
+      },
+      "properties": {
+        "name": "San ildefonso",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw39.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Sanildefonso_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.089167,
+          35.971111
+        ]
+      },
+      "properties": {
+        "name": "Santa Clara Pueblo",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw40.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Santaclara_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.070278,
+          36.054167
+        ]
+      },
+      "properties": {
+        "name": "San Juan Pueblo",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw41.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Sanjuan_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.931667,
+          35.989167
+        ]
+      },
+      "properties": {
+        "name": "El Santuario de Chimayo",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw42.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/elsantuario_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.763333,
+          36.1325
+        ]
+      },
+      "properties": {
+        "name": "San Jose de Gracia de Las Trampas",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw43.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Sanjosedegracia_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.607778,
+          36.358611
+        ]
+      },
+      "properties": {
+        "name": "San Francisco de Asis Mission Church",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw44.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Sanfrancisco_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.576705,
+          36.393979
+        ]
+      },
+      "properties": {
+        "name": "Taos Downtown Historic District",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw45.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/taos_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.572222,
+          36.406944
+        ]
+      },
+      "properties": {
+        "name": "Kit Carson House",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw46.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Kitcarson_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.54559,
+          36.43917
+        ]
+      },
+      "properties": {
+        "name": "Taos Pueblo",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw47.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Taospueblo_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.018333,
+          35.907222
+        ]
+      },
+      "properties": {
+        "name": "Fort Union National Monument",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw48.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Fortunion_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.216278076172,
+          35.5956802368164
+        ]
+      },
+      "properties": {
+        "name": "Las Vegas Plaza",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw49.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Lasvegasplaza_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.689444,
+          35.55
+        ]
+      },
+      "properties": {
+        "name": "Pecos National Historic Park",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw50.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Pecos_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.935,
+          35.686944
+        ]
+      },
+      "properties": {
+        "name": "Santa Fe Historic District",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw51.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Santafe_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938194,
+          35.687783
+        ]
+      },
+      "properties": {
+        "name": "Palace of the Governors",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw52.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Palace_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.937497,
+          35.687194
+        ]
+      },
+      "properties": {
+        "name": "Santa Fe Plaza",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw53.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Santafeplaza_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.936389,
+          35.683333
+        ]
+      },
+      "properties": {
+        "name": "Barrio De Analco Historic District",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw54.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Barriodeanalco_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.927222,
+          35.6625
+        ]
+      },
+      "properties": {
+        "name": "Wheelwright Museum of the American Indian",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw55.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Wheelwright_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.090278,
+          34.259722
+        ]
+      },
+      "properties": {
+        "name": "Salinas Pueblo Missions National Monument",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw56.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Salinas_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.008764,
+          33.008236
+        ]
+      },
+      "properties": {
+        "name": "Fort Stanton",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw57.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Fortstanton_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.27222,
+          33.227222
+        ]
+      },
+      "properties": {
+        "name": "Gila Cliff Dwellings National Monument",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/amsw/sw58.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amsw/googlemap_images/Gilacliff_mapimage.jpg"
+      }
+    }
+  ]
+}

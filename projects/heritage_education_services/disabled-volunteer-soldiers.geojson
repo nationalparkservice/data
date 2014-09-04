@@ -1,0 +1,192 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.519531,
+          42.358543,
+          0
+        ]
+      },
+      "properties": {
+        "description": "Bath VA Medical Center, 76 Veterans Avenue, Bath, NY 14810-0840, (607) 664-4000",
+        "description_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/photos_web/googlemaps/bath.jpg",
+        "name": "Bath Branch",
+        "name_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/Bath_Branch.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.473999,
+          43.435097,
+          0
+        ]
+      },
+      "properties": {
+        "description": "Veterans Affairs Black Hills Health Care System-Hot Springs Campus, 500 North 5th Street, Hot Springs, South Dakota, 57747-1480, (605) 745-2000",
+        "description_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/photos_web/googlemaps/bms.jpg",
+        "name_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/Battle_Mountain_Sanitarium.html",
+        "name": "Battle Mountain Sanitarium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.253181,
+          39.749378,
+          0
+        ]
+      },
+      "properties": {
+        "description": "Dayton Veterans Affairs Medical Center, 4100 W 3rd Street, Dayton, Ohio 45417, (937) 268-6511",
+        "description_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/photos_web/googlemaps/central.jpg",
+        "name_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/Central_Branch.html",
+        "name": "Central Branch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.592415,
+          40.131771,
+          0
+        ]
+      },
+      "properties": {
+        "description": "1900 East Main Street, Danville, IL 61832, (217)554-3000",
+        "name": "VA Illiana Health Care System Home",
+        "description_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/photos_web/googlemaps/danville.jpg",
+        "name_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/Danville_Branch.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.701897,
+          44.278099,
+          0
+        ]
+      },
+      "properties": {
+        "description": "Togus Veterans Affairs Medical Center, 1 VA Center, Augusta, ME 04330, (207)623-8411",
+        "description_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/photos_web/googlemaps/eastern.jpg",
+        "name_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/Eastern%20Branch.html",
+        "name": "Eastern Branch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.637192,
+          40.523731,
+          0
+        ]
+      },
+      "properties": {
+        "description": "VA Northern Indiana Health Care System Home, 1700 East 38th Street, Marion, Indiana, (765)674-3321",
+        "name_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/Marion_Branch.html",
+        "name": "Marion Branch",
+        "description_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/photos_web/googlemaps/marion.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.374931,
+          36.303761,
+          0
+        ]
+      },
+      "properties": {
+        "description": "VA Mountain Home Medical Center, Corner of Lamont & Veterans Way, Mountain Home, TN 37684, (423)926-1171",
+        "description_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/photos_web/googlemaps/mountainhome.jpg",
+        "name_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/Mountain_Branch.html",
+        "name": "Mountain Branch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.976059,
+          43.0196,
+          0
+        ]
+      },
+      "properties": {
+        "description": "Clement J. Zablocki Veterans Affairs Medical Center, 5000 West National Avenue, Milwaukee, WI, (414)384-2000",
+        "name_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/Northwestern_Branch.html",
+        "name": "Northwestern Branch",
+        "description_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/photos_web/googlemaps/northwestern.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.458015,
+          34.053223,
+          0
+        ]
+      },
+      "properties": {
+        "description": "Greater Los Angeles Healthcare System-West Los Angeles Healthcare Center, 11301 Wilshire Blvd., Los Angeles, CA 90073, (310)471-3711",
+        "description_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/photos_web/googlemaps/pacific.jpg",
+        "name_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/Pacific_Branch.html",
+        "name": "Pacific Branch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.330582,
+          37.018806,
+          0
+        ]
+      },
+      "properties": {
+        "description": "Hampton VA Medical Center, 100 Emancipation Drive, Hampton, VA 23667-0001, (757)722-9961",
+        "description_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/photos_web/googlemaps/southern.jpg",
+        "name_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/Southern_Branch.html",
+        "name": "Southern Branch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.899712,
+          39.276287,
+          0
+        ]
+      },
+      "properties": {
+        "description": "Dwight D. Eisenhower VA Medical Center, 4101 S 4th Street, Leavenworth, KS‎, (913)682-2000",
+        "description_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/photos_web/googlemaps/western.jpg",
+        "name_url": "http://www.nps.gov/history/nr/travel/veterans_affairs/Western_Branch.html",
+        "name": "Western Branch"
+      }
+    }
+  ]
+}

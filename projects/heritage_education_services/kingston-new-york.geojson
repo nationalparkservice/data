@@ -1,0 +1,373 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0226058959961,
+          41.9347724914551
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k1.htm",
+        "name": "Hoffman House",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/hoffmanhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.019111,
+          41.935078
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k2.htm",
+        "name": "Senate House (State Historic Site)",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/senatehouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0213394165039,
+          41.9338569641113
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k3.htm",
+        "name": "Matthew Jansen House",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/jansenhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.020751953125,
+          41.933910369873
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k4.htm",
+        "name": "Franz P. Roggen House",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/roggenhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0212554931641,
+          41.9334869384766
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k5.htm",
+        "name": "Kingston Academy",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/academy_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0205230712891,
+          41.9335060119629
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k6.htm",
+        "name": "Matthew Person House",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/personhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0202407836914,
+          41.9331588745117
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k7.htm",
+        "name": "Ulster County Courthouse",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/ulster_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0208906680346,
+          41.9325734674931
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k8.htm",
+        "name": "Henry Sleight House (Wiltwych Chapter, DAR)",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/sleighthouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0195999145508,
+          41.9324111938477
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k9.htm",
+        "name": "Fred J. Johnston House",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/johnstonhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.018889,
+          41.932778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k10.htm",
+        "name": "Old Dutch Church",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/dutchchurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.004555,
+          41.929119
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k11.htm",
+        "name": "Community Theater (Broadway Theater)",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/commtheater_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.996111,
+          41.926944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k12.htm",
+        "name": "Kingston City Hall",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/cityhall_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.995833,
+          41.926111
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k13.htm",
+        "name": "Kingston City Library",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/citylibrary_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.989444,
+          41.923333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k14.htm",
+        "name": "Chestnut Street Historic District",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/chestnutst_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9897003173828,
+          41.9223251342773
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k15.htm",
+        "name": "Cloverly",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/cloverly_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985,
+          41.918611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k16.htm",
+        "name": "Rondout-West Strand Historic District",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/strandhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985,
+          41.918611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k17.htm",
+        "name": "Rondout-West Strand Historic District",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/strandhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9891581237316,
+          41.9187507033348
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k18.htm",
+        "name": "Tubby Row",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/tubbyrow_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974444,
+          41.926111
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k19.htm",
+        "name": "Ponckhockie Union Congregational Church",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/unionchurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9833679199219,
+          41.9184684753418
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k20.htm",
+        "name": "Mansion House",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/mansionhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9830474853516,
+          41.9181594848633
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k21.htm",
+        "name": "Sampson Opera House",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/operahouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.984165,
+          41.91716
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k22.htm",
+        "name": "Kingston-Port Ewen Suspension Bride",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/bridge_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9625,
+          41.920833
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/kingston/k23.htm",
+        "name": "Rondout II Lighthouse",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/kingston/bingmap_images/lighthouse_mapimage.jpg"
+      }
+    }
+  ]
+}

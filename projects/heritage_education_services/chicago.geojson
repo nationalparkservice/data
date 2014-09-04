@@ -1,0 +1,379 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.628944,
+          41.909489,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Albert F. Madlener House",
+        "description": "Located at 4 W. Burton St. Exhibitions of the Graham Foundation",
+        "name_url": "http://www.nps.gov/history/nr/travel/chicago/c1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/madl.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.627434,
+          41.907654,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The James Charnley House",
+        "description": "Located at 1365 N. Astor St., Tel. 312-915-0105, 312-573-1365",
+        "name_url": "http://www.nps.gov/history/nr/travel/chicago/c2.htm",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/charn.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.643867,
+          41.896484,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Montgomery Ward Company Complex",
+        "description": "Located at 618 W. Chicago Ave.",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/mward.gif",
+        "name_url": "http://www.nps.gov/nr/travel/chicago/buildings/mward.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.624519,
+          41.897068,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Chicago Avenue Water Tower and Pumping Station",
+        "description": "Located at N. Michigan Ave. between E. Chicago Ave. and E. Pearson St.",
+        "name_url": "http://www.nps.gov/history/nr/travel/chicago/c4.htm",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/tower.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.627701,
+          41.892895,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Tree Studio Complex",
+        "description": "Located at 4 E. Ohio St., Tel. 312-762-9200",
+        "name_url": "http://www.nps.gov/history/nr/travel/chicago/c5.htm",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/tree.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.632401,
+          41.887993,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Reid Murdoch Building",
+        "description": "Located along the Chicago River at 325 N. LaSalle St.",
+        "name_url": "http://www.nps.gov/history/nr/travel/chicago/c6.htm",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/reid.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.627388,
+          41.884212,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Chicago Cultural Center",
+        "description": "Located at 78 E. Washington St., Tel. 312-744-8032",
+        "name_url": "http://www.nps.gov/history/nr/travel/chicago/c7.htm",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/mfield.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.625046,
+          41.883671,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Carson, Pirie, Scott and Company Building",
+        "description": "Located at 1 State St. on the southeast corner of State and Madison streets in the Loop,  Tel. 312-641-7000 ",
+        "name_url": "http://www.nps.gov/nr/travel/chicago/c9.htm",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/cpirie.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6278,
+          41.882061,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Rookery Building",
+        "description": "Located at 209 S. LaSalle Street",
+        "name_url": "http://www.nps.gov/history/nr/travel/chicago/c9.htm",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/cpirie.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.632347,
+          41.88604,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Marquette Building",
+        "description": "Located at 140 S. Dearborn Street",
+        "name_url": "http://www.nps.gov/nr/travel/chicago/c11.htm",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/c11_color1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.629539,
+          41.879456,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Monadnock Block",
+        "description": "Located at 53 W. Jackson Blvd.",
+        "name_url": "http://www.nps.gov/history/nr/travel/chicago/c12.htm",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/monad.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.629524,
+          41.878048,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Old Colony Building",
+        "description": "407 S. Dearborn St.",
+        "name_url": "http://www.nps.gov/history/nr/travel/chicago/c13.htm",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/colony.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.629097,
+          41.87619,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Manhattan Building",
+        "description": "Located at 431 Dearborn St.",
+        "name_url": "http://www.nps.gov/history/nr/travel/chicago/c14.htm",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/mhatn.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.629601,
+          41.890213,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Auditorium Building",
+        "description": "Located at 430 S. Michigan Avenue",
+        "name_url": "http://www.nps.gov/history/nr/travel/chicago/c15.htm",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/aud.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.624893,
+          41.875954,
+          0
+        ]
+      },
+      "properties": {
+        "name": "John J. Glessner House",
+        "description": "1800 Prairie Ave., Tel. 312-326-1480",
+        "name_url": "http://www.nps.gov/history/nr/travel/chicago/c17.htm",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/gless.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.619286,
+          41.829994,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Eighth Regiment Armory",
+        "description": "3533 S. Giles St.",
+        "name_url": "http://www.nps.gov/history/nr/travel/chicago/c18.htm",
+        "description_url": "http://t1.gstatic.com/images?q=tbn:ANd9GcQ7PXgJO-XgnFg-A44ah_pImv4Mm88HQAC4n5eRvPuttDnwKwm0Bg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.626465,
+          41.82877,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Overton Hygienic Building",
+        "description": "Located at 3619-3627 S. State Street",
+        "name_url": "http://www.nps.gov/history/nr/travel/chicago/c19.htm",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/over.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.626045,
+          41.828159,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chicago Bee Library",
+        "description": "Located at 3647-3655 S. State St.,  Tel. 312-747-6872 ",
+        "name_url": "http://www.nps.gov/history/nr/travel/chicago/c20.htm",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/c20_color.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.624367,
+          41.825726,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Wabash Avenue YMCA",
+        "description": "3763 S. Wabash Ave., Tel. 773-285-0020",
+        "name_url": "http://www.nps.gov/history/nr/travel/chicago/c21.htm",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/wab.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.584251,
+          41.799904,
+          0
+        ]
+      },
+      "properties": {
+        "name": "East Park Towers",
+        "description": "5236-5252 S. Hyde Park Blvd.,",
+        "name_url": "http://www.nps.gov/history/nr/travel/chicago/c22.htm",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/park.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.600594,
+          41.791103,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Charles Hitchcock Hall",
+        "description": "1009 E. 57th St.",
+        "name_url": "http://www.nps.gov/history/nr/travel/chicago/c24.htm",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/hitch.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.59594,
+          41.789936,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Frederick C. Robie House",
+        "description": "5757 S. Woodlawn Ave., Tel. 708-848-1978",
+        "name_url": "http://www.nps.gov/history/nr/travel/chicago/c25.htm",
+        "description_url": "http://www.nps.gov/nr/travel/chicago/buildings/robie.gif"
+      }
+    }
+  ]
+}

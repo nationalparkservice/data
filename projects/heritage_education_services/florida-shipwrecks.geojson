@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.311389,
+          30.296944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/flshipwrecks/mas.htm",
+        "name": "USS Massachusetts BB-2 (Shipwreck)",
+        "description": "Florida",
+        "description_url": "http://www.nps.gov/nr/travel/flshipwrecks/bingmap_images/ussmass_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.942583,
+          30.095033
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/flshipwrecks/tar.htm",
+        "name": "SS Tarpon (Shipwreck)",
+        "description": "Florida",
+        "description_url": "http://www.nps.gov/nr/travel/flshipwrecks/bingmap_images/sstarpon_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.970833,
+          29.607222
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/flshipwrecks/haw.htm",
+        "name": "City of Hawkinsville (Shipwreck)",
+        "description": "Florida",
+        "description_url": "http://www.nps.gov/nr/travel/flshipwrecks/bingmap_images/hawkinsville_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686667,
+          30.158333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/flshipwrecks/map.htm",
+        "name": "Maple Leaf (Shipwreck Site)",
+        "description": "Florida",
+        "description_url": "http://www.nps.gov/nr/travel/flshipwrecks/bingmap_images/mapleleaf_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.299167,
+          27.505278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/flshipwrecks/urc.htm",
+        "name": "Urca De Lima (Shipwreck)",
+        "description": "Florida",
+        "description_url": "http://www.nps.gov/nr/travel/flshipwrecks/bingmap_images/urcadelima_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.038333,
+          26.562778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/flshipwrecks/lof.htm",
+        "name": "Lofthus (Shipwreck)",
+        "description": "Florida",
+        "description_url": "http://www.nps.gov/nr/travel/flshipwrecks/bingmap_images/lofthus_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.085128,
+          26.205556
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/flshipwrecks/cop.htm",
+        "name": "SS Copenhagen (Shipwreck)",
+        "description": "Florida",
+        "description_url": "http://www.nps.gov/nr/travel/flshipwrecks/bingmap_images/copenhagen_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.134444,
+          25.7275
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/flshipwrecks/hal.htm",
+        "name": "Half Moon (Shipwreck)",
+        "description": "Florida",
+        "description_url": "http://www.nps.gov/nr/travel/flshipwrecks/bingmap_images/halfmoon_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.34645,
+          25.007217
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/flshipwrecks/dua.htm",
+        "name": "USCG Cutter Duane",
+        "description": "Florida",
+        "description_url": "http://www.nps.gov/nr/travel/flshipwrecks/bingmap_images/cutterduane_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.619722,
+          24.847222
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/flshipwrecks/all.htm",
+        "name": "USS Alligator",
+        "description": "Florida",
+        "description_url": "http://www.nps.gov/nr/travel/flshipwrecks/bingmap_images/alligator_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.679444,
+          24.863333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/flshipwrecks/ped.htm",
+        "name": "San Pedro (Shipwreck)",
+        "description": "Florida",
+        "description_url": "http://www.nps.gov/nr/travel/flshipwrecks/bingmap_images/sanpedro_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.873333,
+          24.628611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/flshipwrecks/win.htm",
+        "name": "Windjammer Site (Avanti)",
+        "description": "Florida",
+        "description_url": "http://www.nps.gov/nr/travel/flshipwrecks/bingmap_images/windjammer_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.873333,
+          24.628611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/flshipwrecks/bir.htm",
+        "name": "Bird Key Wreck",
+        "description": "Florida",
+        "description_url": "http://www.nps.gov/nr/travel/flshipwrecks/bingmap_images/birdkey_mapimage.jpg"
+      }
+    }
+  ]
+}

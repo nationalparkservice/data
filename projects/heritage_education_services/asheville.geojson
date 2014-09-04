@@ -1,0 +1,725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3606109619141,
+          35.6362457275391
+        ]
+      },
+      "properties": {
+        "name": "Black Mountain College Historic District",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/bla.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/blackmountain_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2974266111851,
+          35.6459704041481
+        ]
+      },
+      "properties": {
+        "name": "In the Oaks ",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/int.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/intheoaks_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3396821320057,
+          35.5891397595406
+        ]
+      },
+      "properties": {
+        "name": "In the Oaks",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/blu.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/brassembly_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5531387329102,
+          35.598461151123
+        ]
+      },
+      "properties": {
+        "name": "Sherrill's Inn",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/she.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/sherrillsinn_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5601043701172,
+          35.6994819641113
+        ]
+      },
+      "properties": {
+        "name": "Weaverville United Methodist Church",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/wea.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/weavervillechurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5803680419922,
+          35.6115875244141
+        ]
+      },
+      "properties": {
+        "name": "Richmond Hill House",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/ric.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/richmondhill_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5471801757813,
+          35.6291580200195
+        ]
+      },
+      "properties": {
+        "name": "Ottari Sanitarium",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/ott.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/ottari_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5444869995117,
+          35.621826171875
+        ]
+      },
+      "properties": {
+        "name": "Biltmore Industries, Inc.",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/ind.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/biltmoreinc_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5420837402344,
+          35.6214828491211
+        ]
+      },
+      "properties": {
+        "name": "Grove Park Inn",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/gro.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/grovepark_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5419006347656,
+          35.6146812438965
+        ]
+      },
+      "properties": {
+        "name": "Dr. Carl V. Reynolds House",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/drc.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/reynolds_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5456838309765,
+          35.611369907856
+        ]
+      },
+      "properties": {
+        "name": "St. Mary's Church",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/stm.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/stmaryschurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5987319946289,
+          35.5709686279297
+        ]
+      },
+      "properties": {
+        "name": "Manor and Cottages (Albemarle Park)",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/man.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/albemarlepark_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5539779663086,
+          35.5999908447266
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Hill Historic District",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/che.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/chestnuthill_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5444717407227,
+          35.6061592102051
+        ]
+      },
+      "properties": {
+        "name": "Von Ruck House",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/von.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/vonruckhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5530548095703,
+          35.6017227172852
+        ]
+      },
+      "properties": {
+        "name": "Belvedere",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/bel.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/belvedere_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5443496704102,
+          35.6025009155273
+        ]
+      },
+      "properties": {
+        "name": "Princess Anne Hotel",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/pri.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/princessanne_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.564722,
+          35.602778
+        ]
+      },
+      "properties": {
+        "name": "Montford Area Historic District",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/mon.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/montford_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5682830810547,
+          35.6096305847168
+        ]
+      },
+      "properties": {
+        "name": "Highland Hospital",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/hig.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/highland_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5695037841797,
+          35.6051483154297
+        ]
+      },
+      "properties": {
+        "name": "O.B. Wright House",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/obw.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/obwright_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5679473876953,
+          35.6027908325195
+        ]
+      },
+      "properties": {
+        "name": "Riverside Cemetery",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/riv.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/riverside_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5568466186523,
+          35.6004753112793
+        ]
+      },
+      "properties": {
+        "name": "Brexton Boarding House",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/bre.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/brexton_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5478057861328,
+          35.5988922119141
+        ]
+      },
+      "properties": {
+        "name": "First Baptist Church",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/fir.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/firstbaptist_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.555833,
+          35.58
+        ]
+      },
+      "properties": {
+        "name": "Downtown Asheville Historic District",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/dow.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/ashevillehd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5564193725586,
+          35.597412109375
+        ]
+      },
+      "properties": {
+        "name": "Church of St. Lawrence",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/stl.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/stlawrence_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5568771362305,
+          35.5964660644531
+        ]
+      },
+      "properties": {
+        "name": "Battery Park Hotel",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/bat.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/batterypark_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.556640625,
+          35.5955543518066
+        ]
+      },
+      "properties": {
+        "name": "Arcade Building (Grove Arcade)",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/arc.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/arcadebuilding_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5550608336926,
+          35.5963019281626
+        ]
+      },
+      "properties": {
+        "name": "Asheville Hotel Building",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/ash.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/ashevillehotel_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5522766113281,
+          35.5980567932129
+        ]
+      },
+      "properties": {
+        "name": "Masonic Temple",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/mas.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/masonictemple_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5503072887659,
+          35.5966284871101
+        ]
+      },
+      "properties": {
+        "name": "Thomas Wolfe House",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/wol.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/wolfehouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5676498413086,
+          35.588809967041
+        ]
+      },
+      "properties": {
+        "name": "Pack Square",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/pac.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/packsquare_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5558853149414,
+          35.5933685302734
+        ]
+      },
+      "properties": {
+        "name": "Buncombe County Courthouse",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/bun.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/buncombe_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5558853149414,
+          35.5933685302734
+        ]
+      },
+      "properties": {
+        "name": "Asheville City Hall",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/cit.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/cityhall_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5498231500387,
+          35.5940642952919
+        ]
+      },
+      "properties": {
+        "name": "Mt. Zion Baptist Church",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/mtz.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/mtzion_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5499954223633,
+          35.5938148498535
+        ]
+      },
+      "properties": {
+        "name": "Young Men's Institute Building",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/you.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/ymib_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5504837036133,
+          35.5935707092285
+        ]
+      },
+      "properties": {
+        "name": "African American Masonic Temple",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/afr.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/aamasonic_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5524826049805,
+          35.5902214050293
+        ]
+      },
+      "properties": {
+        "name": "Churches on Church Street",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/chu.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/churchstreet_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5484161376953,
+          35.5917434692383
+        ]
+      },
+      "properties": {
+        "name": "St. Matthias Episcopal Church",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/mat.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/stmatthias_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5650405883789,
+          35.5873184204102
+        ]
+      },
+      "properties": {
+        "name": "Bledsoe Building",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/ble.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/bledsoe_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5549032539129,
+          35.5679181218147
+        ]
+      },
+      "properties": {
+        "name": "Smith-McDowell House",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/smi.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/smithmcdowell_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5420684814453,
+          35.5669555664063
+        ]
+      },
+      "properties": {
+        "name": "Biltmore Estate Office",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/off.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/biltmoreoffice_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.542991638183,
+          35.5674362182617
+        ]
+      },
+      "properties": {
+        "name": "Southern Railway Passenger Depot (Biltmore Depot)",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/sou.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/biltmoredepot_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5437828153372,
+          35.5657817423344
+        ]
+      },
+      "properties": {
+        "name": "All Souls Episcopal Church and Parish House",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/all.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/allsouls_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.541748046875,
+          35.5654907226563
+        ]
+      },
+      "properties": {
+        "name": "Clarence Barker Memorial Hospital (Biltmore Hospital)",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/cla.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/biltmorehospital_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5452423095703,
+          35.566577911377
+        ]
+      },
+      "properties": {
+        "name": "Biltmore Estate",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/bil.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/biltmore_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4864445626736,
+          35.5873822420836
+        ]
+      },
+      "properties": {
+        "name": "Oteen Veterans Administration Hospital Historic District",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/asheville/ote.htm",
+        "description_url": "http://www.nps.gov/nr/travel/asheville/bingmap_images/oteen_mapimage.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,957 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.090294,
+          31.998709,
+          0
+        ]
+      },
+      "properties": {
+        "name": "George W. Bush Childhood Home",
+        "description": "1412 W Ohio Ave., Midland, TX 797011-866-684",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/george_bush_home.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/Bush_home.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.616028,
+          30.237713,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lyndon B. Johnson National Historical Park",
+        "description": "Johnson City, TX 78636(830) 868-7128<",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/lyndon_b_johnson_nhp.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/lbj_boyhood_home.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.820068,
+          33.888569,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Richard M. Nixon Birthplace",
+        "description": "18001 Yorba Linda Blvd. Yorba Linda, CA 92886",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/nixon_birthplace.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/nixon.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.375328,
+          40.796825,
+          0
+        ]
+      },
+      "properties": {
+        "name": "First Ladies National Historic Site",
+        "description": "331 Market Ave., S.Canton, OH, 44702, 330-452-0876",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/first_ladies_nhs.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/ResearchCenterFront.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.423744,
+          39.093182,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Harry S.Truman National Historic Site",
+        "description": "219 N Delaware St., Independence, MO, 64050",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/harry_truman_nhs.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/truman_visitor.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.346611,
+          41.671398,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Herbert Hoover National Historic Site",
+        "description": "110 Parkside Dr.West Branch, IA, 52358, 319-643-2541",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/herbert_hoover_nhs.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/huldagarden.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.351265,
+          41.66357,
+          0
+        ]
+      },
+      "properties": {
+        "name": "James A. Garfield National Historic Site",
+        "description": "8095 Mentor Ave.Mentor, OH, 44060, 440-255-8722",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/james_garfield_lawnfield.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/garfield3.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.998711,
+          38.123089,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lincoln Boyhood National Memorial",
+        "description": "Located on Indiana Hwy. 162, Two miles east of Gentryville, IN, 812-937-4541",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/lincoln_boyhood.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/lincoln_boyhood.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.646492,
+          39.798,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lincoln Home Visitor Center",
+        "description": "426 S 7th St., Springfield, IL, 62701, 217-492-4241",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/lincoln_home.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/lincoln_home.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.445892,
+          43.886017,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mount Rushmore National Memorial",
+        "description": "SD Highway 244 #81, Keystone, SD, 57751, 605-574-2523",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/mount_rushmore.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/mt_rushmore.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.481033,
+          41.836555,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ronald Reagan Boyhood Home",
+        "description": "816 S Hennepin Ave., Dixon, IL, 61021, 815-288-5176",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/ronald_reagan_boyhood_home.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/Banner_Images/Places_Banner/reagan2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.127518,
+          41.342045,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rutherford B. Hayes",
+        "description": "1337 Hayes Ave., Fremont, OH, 43420, 800-998-7737",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/hayes_spiegel_grove.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/hayes2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.265991,
+          47.604313,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Theodore Roosevelt National Park North Unit",
+        "description": "701-623-4466",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/t_roosevelt_park.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/roosevelt_ranch.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.517303,
+          46.930573,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Theodore Roosevelt National Park, South Unit",
+        "description": "701-623-4466",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/t_roosevelt_park.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/roosevelt.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.350433,
+          38.549057,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ulysses S. Grant National Historic Site",
+        "description": "7400 Grant Rd., St Louis, MO, 63123, 314-842-3298",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/grant_nhs.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/grant_winter.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.121513,
+          40.586182,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Warren G. Harding Home",
+        "description": "380 Mt Vernon Ave., Marion, OH, 43302, 800-600-6894",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/warren_harding_home.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/Harding1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.526031,
+          38.685329,
+          0
+        ]
+      },
+      "properties": {
+        "name": "William Henry Harrison's Grouseland",
+        "description": "3 W Scott St., Vincennes, IN, 47591, 812-882-2096",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/harrison_grouseland.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/Grouseland-2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.508614,
+          39.119678,
+          0
+        ]
+      },
+      "properties": {
+        "name": "William Howard Taft National Historic Site",
+        "description": "2038 Auburn Ave., Cincinnati, OH, 45219, 513-684-3262 ext. 201",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/william_taft_nhs.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/taft1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.392632,
+          40.806484,
+          0
+        ]
+      },
+      "properties": {
+        "name": "William McKinley's Tomb",
+        "description": "800 McKinley Monument Dr., NW Canton, OH, 44708, 330-455-7043",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/mckinley_tomb.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/mckinley1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.153961,
+          39.7836,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Benjamin Harrison House",
+        "description": "1230 N Delaware St., Indianapolis, IN, 46202, 317-631-1888",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/benjamin_harrison_home.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/ben_harrison.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.004135,
+          42.252277,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Adams National Historical Park",
+        "description": "1250 Hancock St., Quincy, MA, 02169, 617-770-1175",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/adams_nhp.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/JA_birthplace.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.726799,
+          43.509811,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Calvin Coolidge Homestead District",
+        "description": "3780 Route 100A, Plymouth, VT., 802-672-3773",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/calvin_coolidge_homestead.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/coolidge.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.982285,
+          40.742855,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chester A. Arthur House",
+        "description": "123 Lexington Ave., New York, NY, 10016",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/chester_arthur_house.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/c_arthur.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90657,
+          41.7635,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Eleanor Roosevelt National Historic Site",
+        "description": "Route 9G Hyde Park, NY, 800-337-8474",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/eleanor_roosevelt_valkill.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/Val-Kill%20Cottage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.010391,
+          40.70713,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Federal Hall National Memorial",
+        "description": "26 Wall St., New York, NY, 10005, 212-825-6888",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/federal_hall.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/federal_hall_exterior_oblique.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.949905,
+          43.115784,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Franklin Pierce Homestead",
+        "description": "301 2nd NH Tpke., Hillsborough, NH, 03244, 603-478-3165",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/franklin_pierce_homestead.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/pierce2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.963013,
+          40.81263,
+          0
+        ]
+      },
+      "properties": {
+        "name": "General Grant National Memorial",
+        "description": "122nd St. & Riverside Dr.,  New York, NY 10027, 212-666-1640",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/grant_tomb.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/Grant_Tomb%20_%20Sunset.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.221718,
+          39.812439,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gettysburg National Military Park",
+        "description": "1195 Baltimore Pike., Gettysburg, PA,  17325, 717-334-1124",
+        "name_url": "http://www.nps.gov/gett/index.htm",
+        "description_url": "http://www.nps.gov/ner/gett/images/546B08D2-1DD8-B71C-0E4999324519D5B2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.272316,
+          40.83691,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Grover Cleveland Birthplace",
+        "description": "207 Bloomfield Ave., Caldwell, NJ, 07006, 973-226-0001",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/grover_cleveland_birthplace.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/gc_birth.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.930405,
+          41.771622,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Home of Franklin D. Roosevelt National Historic Site",
+        "description": "4097 Albany Post Rd., Hyde Park, NY, 12538, 1-800-FDR-VISIT",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/fdr_home.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/fdr_home.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.150055,
+          39.948799,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Independence National Historical Park",
+        "description": "143 S 3rd St., Philadelphia, PA 19106, 215-597-8787",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/independence_park.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/Washingtons_Residence.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.330185,
+          40.044083,
+          0
+        ]
+      },
+      "properties": {
+        "name": "James Buchanan's Wheatland",
+        "description": "1120 Marietta Ave., Lancaster, PA., 17603, 717-392-8721",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/james_buchanan_wheatland.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/Buchanan_Cabinet.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12442,
+          42.345978,
+          0
+        ]
+      },
+      "properties": {
+        "name": "John Fitzgerald Kennedy National Historic Site",
+        "description": "83 Beals St., Brookline, MA, 02446, 617-566-7937",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/john_f_kennedy_birthplace.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/jfk_house.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.700996,
+          42.370647,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Martin Van Buren National Historic Site",
+        "description": "1013 Old Post Rd., Kinderhook, NY, 12106, 518-758-9689",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/van_buren_lindenwald.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/lindenwald2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.622467,
+          42.76844,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Millard Fillmore House",
+        "description": "24 Shearer Ave., East Aurora, NY, 14052, 716-652-8875",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/millard_fillmore_house.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/Fillmore_library.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9814,
+          44.859009,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Roosevelt Campobello International Park",
+        "description": "ME-189, Lubec, ME, 506-752-2922",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/roosevelts_campobello.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/campobello5.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.505714,
+          40.88245,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sagamore Hill National Historic Site",
+        "description": "12 Sagamore Hill Rd., Oyster Bay, NY, 11771, 516-922-4788",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/t_roosevelt_sagamore_hill.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/Theodore_Roosevelt_and_family,_1903.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.989433,
+          40.739021,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Theodore Roosevelt Birthplace National Historic Site",
+        "description": "28 E 20th St., New York, NY, 10003, 212-260-1616",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/t_roosevelt_birthplace.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/tr_birthplace.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.873291,
+          42.901558,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Theodore Roosevelt Inaugural National Historic Site",
+        "description": "641 Delaware Ave., Buffalo, NY, 14202, 716-884-0095",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/t_roosevelt_inaugural_Site.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/tri3.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.73233,
+          37.532055,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Abraham Lincoln Birthplace National Historic Site",
+        "description": "2995 Lincoln Farm Rd. off of U.S. 31E, near Louisville, KY, 270-358-3137",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/lincoln_birthplace.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/lincoln_birth1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.829445,
+          36.162666,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Andrew Johnson National Historic Site Visitor Center",
+        "description": "101 N College St., Greeneville, TN, 37743, 423-638-3551",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/a_johnson2.jpg",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/andrew_johnson_nhs.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.436646,
+          38.517956,
+          0
+        ]
+      },
+      "properties": {
+        "name": "President Herbert and Lou Henry Hoover's Rapidan Camp",
+        "description": "The camp is located within the the central district of Shenandoah National Park.  The camp is under the name of Camp Hoover. The park's headquarters is located at 3655 US Highway 211 East, Luray, VA, 540-999-3283",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/hoover_camp_rapidan.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/brown_house_interior.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.596542,
+          33.667027,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Bill Clinton Birthplace",
+        "description": "117 S Hervey St., Hope, AR, 71801, 870-777-4455",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/bill_clinton_birthplace.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/clinton_home.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.920471,
+          38.183781,
+          0
+        ]
+      },
+      "properties": {
+        "name": "George Washington Birthplace National Memorial Park",
+        "description": "1730 Popes Creek Rd., Colonial Beach, VA, 22443, 804-224-7895",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/george_washington_birthplace.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/gw_birth_exterior.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.119453,
+          38.922455,
+          0
+        ]
+      },
+      "properties": {
+        "name": "George Washington Memorial Parkway",
+        "description": "George Washington Memorial Parkway, a unit of the National Park System, is adjacent to the Potomac River north and south of Washington, DC.",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/george_washington_parkway.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/gw_pkwy.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.806557,
+          24.555777,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Harry S Truman Little White House Museum",
+        "description": "111 Front St., Key West, FL, 33040, 305-294-9911",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/trumans_little_white_house.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/harry-truman-photo4.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.61602,
+          36.213169,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Hermitage",
+        "description": "4580 Rachels Ln., Hermitage, TN, 37076, 615-889-2941",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/jackson_hermitage.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/hermitage_closeup.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0373,
+          35.615196,
+          0
+        ]
+      },
+      "properties": {
+        "name": "James K. Polk House",
+        "description": "301 W 7th St., Columbia, TN 38401, 931-388-2354",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/james_polk_home.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/polk_centertable.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.176491,
+          38.228909,
+          0
+        ]
+      },
+      "properties": {
+        "name": "James Madison's Montpelier",
+        "description": "11407 Constitution Hwy., Orange County, VA",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/madison_montpelier.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/montpelier3.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.461143,
+          38.302036,
+          0
+        ]
+      },
+      "properties": {
+        "name": "James Monroe Museum & Memorial Library",
+        "description": "908 Charles St., Fredericksburg, VA, 22401, 540-654-1043",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/monroe_front.jpg",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/monroe_law_office.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.401604,
+          32.0341,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jimmy Carter National Historic Site",
+        "description": "US-280, Plains, Georgia, 229-824-4104",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/jimmy_carter_nhs.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/carter_farm.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01931,
+          37.337486,
+          0
+        ]
+      },
+      "properties": {
+        "name": "John Tyler Home",
+        "description": "14501 John Tyler Memorial Hwy., Charles City, VA, 23030, 804-829-5377",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/john_tyler_sherwood_forest.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/dining_room.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.455963,
+          38.004917,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Monticello",
+        "description": " 931 Thomas Jefferson Pkwy., Charlottesville, VA, 22902, 434-984-9822",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/jefferson_monticello.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/monticello.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.087158,
+          38.711246,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Poplar Forest",
+        "description": "1548 Bateman Bridge Rd., Forest, VA, 24551, 434-525-1806",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/jefferson_poplar_forest.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/PoplarForest.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.267662,
+          37.359558,
+          0
+        ]
+      },
+      "properties": {
+        "name": "U.S Car #1 at the Gold Coast Railroad Museum",
+        "description": "12450 SW 152nd St., Miami, FL, 33177",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/us_car_number_one.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/us_Churchill.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.394241,
+          25.626747,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Roosevelt's Little White House",
+        "description": "401 Little White House Rd., Warm Springs, GA, 31830, 706-655-5870",
+        "name_url": "http://www.nps.gov/nr/travel/presidents/roosevelts_little_white_house.html",
+        "description_url": "http://www.nps.gov/nr/travel/presidents/photos/places/roosevelt_lwh.jpg"
+      }
+    }
+  ]
+}

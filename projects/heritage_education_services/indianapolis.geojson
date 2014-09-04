@@ -1,0 +1,681 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.168365,
+          39.782673,
+          0
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/indianapolis/crispusattucks.htm",
+        "name": "Crispus Attucks High School",
+        "description": "1140 North Martin Luther King, Jr. Street, Indianapolis, Indiana, 317-226-2430",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/1-Crispus-Attucks-High-Scho.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.149994,
+          39.773853,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Das Deutsche Haus",
+        "description": "401 East Michigan Street, Indianapolis, Indiana, 317-655-2755",
+        "name_url": "http://www.nps.gov/history/nr/travel/indianapolis/dasdeutschehaus.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/2-Das-Deutsche-Haus.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.167336,
+          39.776093,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Madame C.J. Walker Building",
+        "description": "617 Indiana Avenue, 317-236-2099",
+        "name_url": "http://www.nps.gov/history/nr/travel/indianapolis/walkerbuilding.html",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/3-1-Walker-Theater.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.17308,
+          39.779484,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lockefield Gardens Apartments",
+        "description": "900 Indiana Avenue",
+        "name_url": "http://www.nps.gov/history/nr/travel/indianapolis/lockefieldgardens.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/6-Lockfield-Gardens.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.157631,
+          39.769283,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Christ Church Cathedral",
+        "description": "125 Monument Circle, 317-636-4577",
+        "name_url": "http://www.nps.gov/history/NR/travel/indianapolis/christchurch.html",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/11-Christ-Church-Cath.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.157143,
+          39.767818,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Circle Theater (Hilbert Circle Theatre)",
+        "description": "45 Monument Circle, 317-639-4300 or 1-800-366-8457 (Outside Central Indiana)",
+        "name_url": "http://www.nps.gov/history/NR/travel/indianapolis/circletheater.html",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/12-1-Circle-Theater.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.157265,
+          39.769222,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Columbia Club",
+        "description": "121 Monument Circle, Private Club - no phone number",
+        "name_url": "http://www.nps.gov/history/NR/travel/indianapolis/columbiaclub.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/14-Columbia-Club.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.162544,
+          39.768604,
+          0
+        ]
+      },
+      "properties": {
+        "name": "State House",
+        "description": "200 W Washington St #220",
+        "name_url": "http://www.nps.gov/history/NR/travel/indianapolis/indianastatehouse.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/28-1-Statehouse2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.163986,
+          39.769669,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Indiana State Library and Historical Building",
+        "description": "140 N Senate Ave, Indianapolis, Indiana 46204-2207, (317)232-2535",
+        "name_url": "http://www.nps.gov/history/NR/travel/indianapolis/indianastatelibrary.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/27-7Indiana-State-Libr.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.152931,
+          39.770203,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Old Indianapolis City Hall",
+        "description": "202 North Alabama Street, Indianapolis, IN 46204",
+        "name_url": "http://www.nps.gov/history/NR/travel/indianapolis/oldcityhall.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/30-Old-Indianapolis-Cityhal.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.145035,
+          39.825161,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Crown Hill Cemetery",
+        "description": "700 E 38th Street, Indianapolis, IN 46205",
+        "name_url": "http://www.nps.gov/history/NR/travel/indianapolis/crownhill.html",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/31-1-Crown-Hill-Cemeter.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20269,
+          39.813168,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Allison Mansion",
+        "description": "3200 Cold Spring Rd, 317-955-6120",
+        "name_url": "http://www.nps.gov/history/nr/travel/indianapolis/allisonmansion.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/32-1-Allison-Mansion.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.206169,
+          39.877224,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Aston Inn",
+        "description": "6620 North Michigan Road, Indianapolis, IN",
+        "name_url": "http://www.nps.gov/history/nr/travel/indianapolis/astoninn.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/33-1-Aston-Inn.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.233719,
+          39.790024,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Indianapolis Motor Speedway",
+        "description": "4790 West 16th Street, Indianapolis, IN 46222-2512, Tel (317) 492-850 ",
+        "name_url": "http://www.nps.gov/history/nr/travel/indianapolis/motorspeedway.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/35-1-Motor-Speedway.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.158516,
+          39.76334,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Indianapolis Union Railroad Station",
+        "description": "39 Jackson Street, Indianapolis, IN",
+        "name_url": "http://www.nps.gov/history/nr/travel/indianapolis/unionstation.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/36-1-Indianapolis-Union.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.189163,
+          39.841282,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Michigan Road Tollhouse",
+        "description": "4702 North Michigan Rd",
+        "name_url": "http://www.nps.gov/history/nr/travel/indianapolis/mirdtollhouse.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/38-Michigan-Road-Toll.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.159065,
+          39.768261,
+          0
+        ]
+      },
+      "properties": {
+        "name": "James Allison Mansion",
+        "description": "The Allison Mansion is located on the near-northwest side of Indianapolis at 3200 Cold Spring Rd on the grounds of Marian College. The grounds are open to the public daily dawn to dusk. ",
+        "name_url": "http://www.nps.gov/nr/travel/indianapolis/allisonmansion.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/32-1-Allison-Mansion.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.20269,
+          39.813168,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Wheeler—Stokely Mansion",
+        "description": "The Wheeler—Stokely Mansion is located on the northwest side, at 3200 Cold Spring Rd. The estate is now part of Marian College.",
+        "name_url": "http://www.nps.gov/nr/travel/indianapolis/wsmansion.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/43-1-Wheeler-Stokely-Es.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.141121,
+          39.750019,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Wheeler—Schebler Carburetor Company Building",
+        "description": "Wheeler—Schebler Carburetor Company, now Wheeler Arts Community, is located on the near southside at 1035 East Sanders St. The exterior is visible from the street; the interior is open for shows and exhibit openings",
+        "name_url": "http://www.nps.gov/nr/travel/indianapolis/wheelerschebler.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/44-Wheeler-Schebler-0.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.145332,
+          39.732975,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Garfield Park",
+        "description": "Garfield Park is located at 2450 S. Shelby St. on the south side of Indianapolis. Office phone is 317- 327-7221. As with all Indy parks, Garfield is open dawn to dusk. Facility hours vary seasonally.",
+        "name_url": "http://www.nps.gov/nr/travel/indianapolis/garfieldpark.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/46-1-Garfield.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.107178,
+          39.790577,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Brookside Park",
+        "description": "Brookside Parkway North and South Drives are within Brookside Park/Spades Place Park, which is located at 3500 Brookside Parkway South Dr. on the east side. Reach park personnel at 317- 327-7179 (office) or 317- 327-7331 (pool/seasonal). ",
+        "name_url": "http://www.nps.gov/nr/travel/indianapolis/brooksidepark.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/47-1-Brookside-Park.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.133049,
+          39.777779,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Arsenal Technical High School",
+        "description": "Arsenal Technical High School is located on the near-east side of town, at 1500 East Michigan St. and is open to visitors. Visitors must register at the main desk and are encouraged to contact the school for access, 317-693-5300.",
+        "name_url": "http://www.nps.gov/nr/travel/indianapolis/arsenaltech.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/48-1-Arsenal-Tech.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.164185,
+          39.842632,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Butler Fieldhouse",
+        "description": "Butler Fieldhouse (Hinkle Fieldhouse), a National Historic Landmark, is located on the north side of town, at 49th and Boulevard Place.",
+        "name_url": "http://www.nps.gov/nr/travel/indianapolis/butlerfieldhouse.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/49-Hinkle-Fieldhouse.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.153496,
+          39.768822,
+          0
+        ]
+      },
+      "properties": {
+        "name": "City Market",
+        "description": "City Market is located downtown at 222 East Market Street. The market is open business hours plus Saturday mornings.",
+        "name_url": "http://www.nps.gov/nr/travel/indianapolis/citymarket.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/50-City-Market.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.154785,
+          39.825413,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Indiana Theatre",
+        "description": "Indiana Theatre is downtown at 140 W. Washington St. Except for the lobby, the building is only open for performances sponsored by the Indiana Repertory Theatre.",
+        "name_url": "http://www.nps.gov/nr/travel/indianapolis/indianatheatre.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/52-Indiana-Theatre2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.156235,
+          39.767735,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Majestic Building",
+        "description": "Majestic Building is located at 47 S. Pennsylvania Street. The building houses several businesses that are open various hours.",
+        "name_url": "http://www.nps.gov/nr/travel/indianapolis/majesticbuilding.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/53-Majestic-Building.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.157722,
+          39.766628,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Merchants National Bank Building",
+        "description": "Merchants National Bank is located downtown at 11 South Meridian, where Washington and Meridian Sts. meet.",
+        "name_url": "http://www.nps.gov/nr/travel/indianapolis/merchants.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/54-Merchants-Bank042.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.211235,
+          39.769073,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Old Pathology Building",
+        "description": "Old Pathology Building is located at 3000 West Washington St., but the entrance is off of Vermont St.; follow the green marker signs around the fenced grounds to the museum lot entrance.",
+        "name_url": "http://www.nps.gov/nr/travel/indianapolis/oldpathology.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/55-Old-Pathology-Bldg.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.182899,
+          39.824711,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oldfields",
+        "description": "Oldfields, a National Historic Landmark, is located on the northwest side at 1200 W. 38th St.",
+        "name_url": "http://www.nps.gov/nr/travel/indianapolis/oldfields.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/56-Oldfields1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.153351,
+          39.772919,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Roberts Park Methodist Episcopal Church",
+        "description": "Roberts Park Methodist Episcopal Church (now Roberts Park UMC) is located at 401 North Delaware St. The church is open for Sunday services.",
+        "name_url": "http://www.nps.gov/nr/travel/indianapolis/roberts.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/57-Roberts-Park-Churc.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.150986,
+          39.762627,
+          0
+        ]
+      },
+      "properties": {
+        "name": "St. Mary's Catholic Church",
+        "description": "St. Mary’s Catholic Church at 317 North New Jersey St. is open for Saturday evening and Sunday mass. Mass in Spanish is on Sundays. Combine with a tour of adjacent Lockerbie Square Historic District. ",
+        "name_url": "http://www.nps.gov/nr/travel/indianapolis/stmarys.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/58-St-Mary's-Indy.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.161766,
+          39.765118,
+          0
+        ]
+      },
+      "properties": {
+        "name": "St. John the Evangelist Catholic Church",
+        "description": "St. John the Evangelist Catholic Church is located downtown at 121 South Capitol Ave. The sanctuary is often open daytime hours for contemplation and for Saturday and Sunday mass.",
+        "name_url": "http://www.nps.gov/nr/travel/indianapolis/stjohn.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/59-St.-John's-Church.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -86.149338,
+              39.761032,
+              0
+            ],
+            [
+              -86.146996,
+              39.758804,
+              0
+            ],
+            [
+              -86.144569,
+              39.756462,
+              0
+            ],
+            [
+              -86.14444,
+              39.756081,
+              0
+            ],
+            [
+              -86.144531,
+              39.755669,
+              0
+            ],
+            [
+              -86.144699,
+              39.755093,
+              0
+            ],
+            [
+              -86.144997,
+              39.754478,
+              0
+            ],
+            [
+              -86.145409,
+              39.754002,
+              0
+            ],
+            [
+              -86.145981,
+              39.75359,
+              0
+            ],
+            [
+              -86.147041,
+              39.753227,
+              0
+            ],
+            [
+              -86.148087,
+              39.753162,
+              0
+            ],
+            [
+              -86.149551,
+              39.753345,
+              0
+            ],
+            [
+              -86.14959,
+              39.755402,
+              0
+            ],
+            [
+              -86.149368,
+              39.759529,
+              0
+            ],
+            [
+              -86.149338,
+              39.761032,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Holy Rosary—Danish Church Historic District",
+        "description": "Holy Rosary—Danish Church Historic District is located between Virginia Ave.,  I-65/70 and South East St. roughly bounded by Virginia Ave. to the northeast, Interstate 65/70 to the east and south and South East St. to the west.",
+        "name_url": "http://www.nps.gov/nr/travel/indianapolis/holyrosarydanish.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/4-1-Holy-Rosary-Danish-Chur.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -86.170753,
+              39.780888,
+              0
+            ],
+            [
+              -86.169937,
+              39.778339,
+              0
+            ],
+            [
+              -86.167587,
+              39.778297,
+              0
+            ],
+            [
+              -86.168312,
+              39.780823,
+              0
+            ],
+            [
+              -86.170753,
+              39.780888,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Ransom Place Historic District",
+        "description": "Ransom Place Historic District is roughly bounded by West 10th, West, Camp and St. Clair Sts. Its private homes are not open to the public.",
+        "name_url": "http://www.nps.gov/nr/travel/indianapolis/ransomplace.htm",
+        "description_url": "http://www.nps.gov/nr/travel/indianapolis/Buildings/property%20pages/5-1-Ransom-Place-Historic-D.jpg"
+      }
+    }
+  ]
+}

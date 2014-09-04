@@ -1,0 +1,2581 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.067488,
+          18.452876,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Casa Dra Concha Melendez Ramirez",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Casa_Dra_Concha_Melendez_Ramirez.html",
+        "description": "Puerto Rico",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/casa1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.288594,
+          43.704367
+        ]
+      },
+      "properties": {
+        "name": "The Epic of American Civilization Murals",
+        "description": "New Hampshire",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/The_Epic_of_American_Civilization_Murals.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/photos/EpicOfCivilizationMurals-HispanoAmerica2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.442283,
+          27.960253,
+          0
+        ]
+      },
+      "properties": {
+        "name": "El Centro Espanol de Tampa",
+        "description": "Florida",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/CENTRO1_mapimage.jpg",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/El_Centro_Espanol_de_Tampa.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.776944,
+          28.7675,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Canaveral National Seashore",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Canaveral_National_Seashore.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Canaveral_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.002778,
+          31.665556,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cane River Creole National Historical Park",
+        "description": "Louisiana",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Cane_River_Creole_National_Historical_Park.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Cane_River.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.520645,
+          36.143974,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Canyon de Chelly National Monument",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Canyon_de_Chelly_National_Monument.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Canyon_de_Chelly_NM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.064934,
+          29.954931,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jean Lafitte National Historical Park and Preserve",
+        "description": "Louisiana",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Jean_Lafitte.jpg",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Jean_Lafitte_Historical_Park.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.437637,
+          30.439085,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Timucuan Ecological and Historic Preserve (Kingley Plantation Visitor Center)",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Timucuan_Ecological_Preserve.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Timucuan_Preserve.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.313889,
+          57.046944,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sitka National Historical Park",
+        "description": "Alaska",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Sitka_National_Historical_Park.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Sitka_NHP.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.560532,
+          35.706661,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Hubbell Trading Post National Historic Site",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Hubbell_Trading_Post_National_Historic_Site.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Hubbell_Trading_Post.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.185791,
+          38.622684,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jefferson National Expansion Memorial",
+        "description": "Missouri",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Jefferson_National_Expansion_Memorial.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Jefferson_National_Expansion_Memorial.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.165504,
+          33.79298,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Natchez Trace Parkway",
+        "description": "Mississippi, Alabama, and Tennessee",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Natchez_Trace_Parkway.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Natchez_Trace.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.682312,
+          35.548122,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pecos National Historical Park",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Pecos_National_Historic_Park.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Pecos_National_Historical_Park.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.752953,
+          35.134087,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Petroglyph National Monument",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Petroglyph_National_Monument.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Petroglyph_National_Monument.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.241903,
+          34.518246,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Salinas Pueblo Missions National Monument",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Salinas_Pueblo_Missions_National_Monument.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Salinas_Pueblo_Missions_NM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.449959,
+          29.316963,
+          0
+        ]
+      },
+      "properties": {
+        "name": "San Antonio Missions National Historical Park",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/San_Antonio_Missions_National_Historical_Park.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/San_Antonio_NHP.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.04995,
+          31.56234,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Tumacacori National Historical Park",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Tumacacori_National_Historical_Park.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Tumacacori_NHP.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.345139,
+          34.016609,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Arkansas Post National Memorial",
+        "description": "Arkansas",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Arkansas_Post_National_Memorial.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Arkansas_Post_NM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.702222,
+          17.746944,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Christiansted National Historic Site",
+        "description": "St. Croix, Virgin Islands",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Christiansted_National_Historic_Site.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Christiansted_NHS.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.499977,
+          30.384111,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fort Caroline National Memorial",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Fort_Caroline_National_Memorial.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Fort_Caroline_NM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.386879,
+          31.224316,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fort Frederica National Monument",
+        "description": "Georgia",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Fort_Frederica_National_Monument.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Fort_Frederica_NM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.064934,
+          29.954931,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Jean Lafitte National Historical Park and Preserve",
+        "description": "Louisiana",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Jean_Lafitte_Historical_Park.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Jean_Lafitte.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.384911,
+          31.544521,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Natchez National Historical Park",
+        "description": "Mississippi",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Natchez_National_Historical_Park.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Natchez_NHP.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.241112,
+          32.673641,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cabrillo National Monument",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Cabrillo_National_Monument.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Cabrillo_NM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.312126,
+          29.897989,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Castillo de San Marcos National Monument",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Castillo_de_San_Marcos_National_Monument.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Castillo_de_San_Marcos.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.453842,
+          31.767204,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Chamizal National Memorial",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Chamizal_National_Memorial.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Chamizal_NM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.253777,
+          31.345865,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Coronado National Memorial",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Coronado_National_Memorial.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Coronado_NM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.643616,
+          27.523018,
+          0
+        ]
+      },
+      "properties": {
+        "name": "De Soto National Memorial",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/De_Soto_National_Memorial.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/De_Soto_NM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.347496,
+          35.0382,
+          0
+        ]
+      },
+      "properties": {
+        "name": "El Morro National Monument",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/El_Morro_National_Monument.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/El_Morro_NM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.234062,
+          29.716366,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fort Matanzas National Monument",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Fort_Matanzas_National_Monument.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Fort_Matanzas_NM.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.569183,
+          37.89167,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Golden Gate National Recreation Area",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Golden_Gate_National_Recreation_Area.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Golden_Gate.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.038803,
+          30.393904,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gulf Islands National Seashore",
+        "description": "Florida and Mississippi",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Gulf_Islands_National_Seashore.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Gulf_Islands_NS.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.380556,
+          26.984444,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Padre Island National Seashore",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Padre_Island_National_Seashore.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Padre_Island_NS.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.483307,
+          25.991711,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Palo Alto Battlefield National Historical Park",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Palo_Alto_Battlefield_National_Historical_Park.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Palo_Alto_Battlefield.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.682312,
+          35.548122,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Pecos National Historical Park",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Pecos_National_Historic_Park.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Pecos_National_Historical_Park.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.754585,
+          17.774927,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Salt River Bay National Historic Site and Ecological Park",
+        "description": "St. Croix, Virgin Islands",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Salt_River_Bay_National_Historical_Park_and_Ecological_Preserve.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Salt_River_Bay.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.115189,
+          18.468075,
+          0
+        ]
+      },
+      "properties": {
+        "name": "San Juan National Historic Site",
+        "description": "Puerto Rico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/San_Juan_National_Historic_Site.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/San_Juan_NHS.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.922409,
+          35.667809,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Santa Fe National Historic Trail ",
+        "description": "Missouri, Kansas, Colorado, Oklahoma, and New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Santa_Fe_National_Historic_Trail.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Sante_Fe_NHT.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.87281,
+          24.627872,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fort Jefferson",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Fort_Jefferson.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Dry_Tortugas_National_Park.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.383888,
+          41.877239,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Blackstone River Corridor",
+        "description": "Rhode Island and Massachusetts",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Blackstone_River_Valley_National_Heritage_Corridor.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Blackstone_River_Valley_National_Heritage_Corridor.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.621849,
+          32.725243,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Yuma Crossing National Heritage Area",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Yuma_Crossing_National_Heritage_Area.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Yuma_Crossing_National_Heritage_Area.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.788887,
+          38.04195,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Point Reyes National Seashore",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Point_Reyes_National_Seashore.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Point_Reyes_National_Seashore.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.266472,
+          34.245853,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Channel Islands National Park",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Channel_Islands_National_Park.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Channel_Islands_National_Park.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.42334,
+          31.790209,
+          0
+        ]
+      },
+      "properties": {
+        "name": "El Camino Real de Tierra Adentro National Historic Trail",
+        "description": "New Mexico and Texas",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/El_Camino_Real_de_Tierra_Adentro_National_Historic_Trail.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/El_Camino_Real_de_Tierra_Adentro_National_Historic_Trail.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.095,
+          31.743056
+        ]
+      },
+      "properties": {
+        "name": "El Camino Real de los Tejas National Historic Trail",
+        "description": "Texas and Louisiana",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/El_Camino_Real_de_los_Tejas_National_Historic_Trail.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/El_Camino_Real_de_los_Tejas_National_Historic_Trail.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.870018,
+          37.469448,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Sangre de Cristo National Heritage Area",
+        "description": "Colorado",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Sangre_de_Cristo_National_Heritage_Area.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Sangre_de_Cristo_National_Heritage_Area.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.933266,
+          32.783295,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gullah/Geechee Cultural Heritage Corridor",
+        "description": "NC, SC, GA, FL",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Gullah_Geechee_Cultural_Heritage_Corridor.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Gullah_Geechee_Cultural_Heritage_Corridor.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.018333,
+          35.907222,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Fort Union National Monument",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Fort_Union_National_Monument.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Fort_Union.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.96444,
+          35.7
+        ]
+      },
+      "properties": {
+        "name": "Old Spanish National Historic Trail",
+        "description": "AZ,CA,CO,NV,NM,UT",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Old_Spanish_National_Historic_Trail.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Old_Spanish.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.902689,
+          31.409908
+        ]
+      },
+      "properties": {
+        "name": "Mission los Santos Angeles de Guevavi",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Mission_los_Santos_Angeles_de_Guevavi.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/MissionlosSantosAngelesdeGuevavi_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.050646,
+          31.568147
+        ]
+      },
+      "properties": {
+        "name": "San Cayetano de Calabazas",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/San_Cayetano_de_Calabazas.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/SanCayetanodeCalabazas_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.008,
+          32.107
+        ]
+      },
+      "properties": {
+        "name": "San Xavier del Bac Mission",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/San_Xavier_del_Bac_Mission.htmlo",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/MissionSanXavierdelBac_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5805635,
+          38.2528359
+        ]
+      },
+      "properties": {
+        "name": "Petaluma Adobe",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Petaluma_Adobe.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Petaluma Adobe_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4750292,
+          37.7978488
+        ]
+      },
+      "properties": {
+        "name": "Presidio of San Francisco",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Presidio_of_San_Francisco.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/golden gate fog_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8910142,
+          36.5960356
+        ]
+      },
+      "properties": {
+        "name": "Royal Presidio Chapel",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Royal_Presidio_Chapel.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/presidio chapel at night_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1059409,
+          32.7838006
+        ]
+      },
+      "properties": {
+        "name": "San Diego Mission Church",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/San_Diego_Mission_Church.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/church facade_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.194594,
+          32.7598117
+        ]
+      },
+      "properties": {
+        "name": "San Diego Presidio",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/San_Diego_Presidio.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/serra museum at night_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.58298,
+          34.89739
+        ]
+      },
+      "properties": {
+        "name": "San Estevan del Rey Mission Church",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/San_Luis_Rey_Mission_Church.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/SanEstebandelRey_06_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.486475,
+          25.938099
+        ]
+      },
+      "properties": {
+        "name": "Resaca de la Palma Battlefield",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Resaca_de_la_Palma_Battlefield.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/ResacadelaPalma_04_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.608637,
+          36.358672
+        ]
+      },
+      "properties": {
+        "name": "San Francisco de Assisi Mission Church",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/San_Francisco_de_Assisi_Mission_Church.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/SanFranciscoDeAssisiMissionChurch_02_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.195781,
+          32.753978
+        ]
+      },
+      "properties": {
+        "name": "Estudillo House",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Estudillo_House.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Estudillo_innercourtyard_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.756667,
+          34.40565
+        ]
+      },
+      "properties": {
+        "name": "Rancho Camulos",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Rancho_Camulos.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/RanchoCamulos_04_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4523855,
+          37.6045603
+        ]
+      },
+      "properties": {
+        "name": "San Francisco Bay Discovery Site",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/San_Francisco_Bay_Discovery_Site.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/men on ridge_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5371622,
+          36.8457794
+        ]
+      },
+      "properties": {
+        "name": "San Juan Bautista Plaza Historic District</a>",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/San_Juan_Bautista_Plaza_Historic_District.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/mission interior_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3260135,
+          33.2278018
+        ]
+      },
+      "properties": {
+        "name": "San Luis Rey Mission Church",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/San_Luis_Rey_Mission_Church.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/facade_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.713919,
+          34.438328
+        ]
+      },
+      "properties": {
+        "name": "Santa Barbara Mission",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Santa_Barbara_Mission.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/church facade2_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.835556,
+          37.18
+        ]
+      },
+      "properties": {
+        "name": "New Almaden Mining Historic District",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/New_Almaden_Mining_Historic_District.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/CasaGrande_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3125,
+          29.892778
+        ]
+      },
+      "properties": {
+        "name": "Cathedral of St. Augustine",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Cathedral_of_St_Augustine.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Cathedral of St. Augustine by Library of Congress_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.083557,
+          36.057308
+        ]
+      },
+      "properties": {
+        "name": "San Gabriel de Yunque-Ouinge",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/San_Gabriel_de_Yunque_Ouinge.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/SanGabrieldeYunque-Ouinge_01_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.931667,
+          35.989167
+        ]
+      },
+      "properties": {
+        "name": "El Santuario de Chimayo",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/El_Santuario_de_Chimayo.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/El Santuario_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.189722,
+          25.78
+        ]
+      },
+      "properties": {
+        "name": "Freedom Tower",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Freedom_Tower.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Freedomtower_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.535791,
+          36.8447
+        ]
+      },
+      "properties": {
+        "name": "Jose Castro House",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Jose_Castro_House.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/JoseCastroHouse_04_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.458677,
+          33.299946
+        ]
+      },
+      "properties": {
+        "name": "Las Flores Adobe",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Las_Flores_Adobe.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/JoseCastroHouse_04_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.213889,
+          30.4087
+        ]
+      },
+      "properties": {
+        "name": "Plaza Ferdinand VII",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Plaza_Ferdinand_VII.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Ferdinandplaza_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.896056,
+          36.597967
+        ]
+      },
+      "properties": {
+        "name": "Larkin House",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Larkin_House.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/CurrentLarkinHouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.136603,
+          34.594489
+        ]
+      },
+      "properties": {
+        "name": "Mission Santa Ines",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Mission_Santa_Ines.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Missionsantaines_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.486206,
+          29.425818
+        ]
+      },
+      "properties": {
+        "name": "San Antonio de Valero Mission/The Alamo",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/San_Antonio_Missions_National_Historical_Park.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Alamo_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.155972,
+          38.249269
+        ]
+      },
+      "properties": {
+        "name": "Assateague Island National Seashore",
+        "description": "Maryland and Virginia",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Assateague_Island_National_Seashore.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Assateague_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.458677,
+          33.299946
+        ]
+      },
+      "properties": {
+        "name": "Las Flores Adobe",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Las_Flores_Adobe.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/LasFloresAdobe_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.195642,
+          33.839723
+        ]
+      },
+      "properties": {
+        "name": "Los Cerritos Ranch House",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Los_Cerritos_Ranch_House.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/LosCerritosRanchHouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.623088,
+          35.868595
+        ]
+      },
+      "properties": {
+        "name": "Awatovi Ruins",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Awatovi_Ruins.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/AwatoviRuins_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.254006,
+          33.233219
+        ]
+      },
+      "properties": {
+        "name": "Guajome Ranchhouse",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Guajome_Ranchhouse.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/GuajomeRanchhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.042222,
+          32.84
+        ]
+      },
+      "properties": {
+        "name": "Old Mission Dam",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Old_Mission_Dam.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/OldMissionDam_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.494444,
+          29.425
+        ]
+      },
+      "properties": {
+        "name": "Spanish Governor's Palace",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Spanish_Governors_Palace.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/SpanishGovernorsPalace_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.313737,
+          29.890729
+        ]
+      },
+      "properties": {
+        "name": "St. Augustine Town Plan Historic District",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/St_Augustine_Town_Plan_Historic_District.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/St. Augustine_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3787583,
+          34.45
+        ]
+      },
+      "properties": {
+        "name": "Abo",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Abo.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/abo_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.689445,
+          32.351398
+        ]
+      },
+      "properties": {
+        "name": "Charlesfort-Santa Elena",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Charlesfort_Santa_Elena.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/charlesfort_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.25,
+          29.25
+        ]
+      },
+      "properties": {
+        "name": "Big Bend National Park",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Big_Bend_National_Park.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/bigbend_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.5817155,
+          34.8964353
+        ]
+      },
+      "properties": {
+        "name": "Acoma Pueblo",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Acoma_Pueblo.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/acoma_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.310833,
+          29.8875
+        ]
+      },
+      "properties": {
+        "name": "Llambias House",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Llambias_House.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/LlambiasHouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.320158,
+          30.448748
+        ]
+      },
+      "properties": {
+        "name": "San Luis de Talimali",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/San_Luis_de_Talimali.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/SanLuisTalimali_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.464014,
+          27.945472
+        ]
+      },
+      "properties": {
+        "name": "Tampa Bay Hotel",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Tampa_Bay_Hotel.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/TampaBayHotel_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.210702,
+          30.152067
+        ]
+      },
+      "properties": {
+        "name": "Fort San Marcos de Apalache",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Fort_San_Marcos_de_Apalache.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/SanMarcosApalache_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3222,
+          34.59
+        ]
+      },
+      "properties": {
+        "name": "Quarai",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Quarai.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Quarai_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.130278,
+          32.171389
+        ]
+      },
+      "properties": {
+        "name": "Apalachicola Fort",
+        "description": "Alabama",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Apalachicola_Fort.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Apafort_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.984556,
+          34.932222
+        ]
+      },
+      "properties": {
+        "name": "Hawikuh and the Zuni-Cibola Complex",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Hawikuh_Zuni-Cibola.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Hawikuh_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.325032,
+          29.929368
+        ]
+      },
+      "properties": {
+        "name": "Fort Mose",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Fort_Mose.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/FortMose_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.160139,
+          31.630556
+        ]
+      },
+      "properties": {
+        "name": "St. Catherines Island",
+        "description": "Georgia",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/St_Catherines_Island.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/StCatherines_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.54559,
+          36.43917
+        ]
+      },
+      "properties": {
+        "name": "Taos Pueblo",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Taos_Pueblo.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Taos_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.336923,
+          25.46244
+        ]
+      },
+      "properties": {
+        "name": "Biscayne National Park",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Biscayne_National_Park.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Biscayne_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.795843,
+          32.274543
+        ]
+      },
+      "properties": {
+        "name": "Mesilla Plaza",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Mesilla_Plaza.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/mesilla_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938194,
+          35.687783
+        ]
+      },
+      "properties": {
+        "name": "Palace of the Governors",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Palace_of_the_Governors.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/palace_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43,
+          37.86
+        ]
+      },
+      "properties": {
+        "name": "U.S. Immigration Station, Angel Island",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/US_Immigration_Station_Angel_Island.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Angel_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.985556,
+          48.455833
+        ]
+      },
+      "properties": {
+        "name": "San Juan Island National Historical Park",
+        "description": "Washington",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/San_Juan_Island_National_Historical_Park.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/SanJuanIsland_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.687794,
+          35.779438
+        ]
+      },
+      "properties": {
+        "name": "San Jose de los Jemez Mission and Giusewa Pueblo Site",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/San_Jose_de_los_Jemez_Mission_and_Giusewa_Pueblo_Site.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/SanJoseJemezGiusewa_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5731234,
+          36.4071553
+        ]
+      },
+      "properties": {
+        "name": "Kit Carson House",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Kit_Carson_House.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/KitCarson_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.45,
+          30.833333
+        ]
+      },
+      "properties": {
+        "name": "Cumberland Island National Seashore",
+        "description": "Georgia",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Cumberland_Island_National_Seashore.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/cumberlandnationalseashore_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.460278,
+          34.646111
+        ]
+      },
+      "properties": {
+        "name": "La Purisima Mission",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/La_Purisima_Mission.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/LaPurisima_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.31,
+          29.888056
+        ]
+      },
+      "properties": {
+        "name": "Gonzalez-Alvarez House",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Gonzalez_Alvarez_House.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Alvarez_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938445,
+          35.687533
+        ]
+      },
+      "properties": {
+        "name": "Santa Fe Plaza",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Santa_Fe_Plaza.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/SantaFePlaza_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.279709,
+          31.33658
+        ]
+      },
+      "properties": {
+        "name": "San Bernardino Ranch",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/San_Bernardino_Ranch.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/SanBernardino_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.535583,
+          36.843622
+        ]
+      },
+      "properties": {
+        "name": "Juan de Anza House",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Juan_de_Anza_House.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Anza_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.040278,
+          32.510278
+        ]
+      },
+      "properties": {
+        "name": "Sierra Bonita Ranch",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Sierra_Bonita_Ranch.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/SierraBonitaRanch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.03794,
+          35.365413
+        ]
+      },
+      "properties": {
+        "name": "San Lazaro",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/San_Lazaro.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/SanLazaro_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142,
+          61
+        ]
+      },
+      "properties": {
+        "name": "Wrangell-St.Elias National Park and Preserve",
+        "description": "Alaska",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Wrangell_St_Elias_National_Park_and_Preserve.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Wrangells_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.922408,
+          35.667809
+        ]
+      },
+      "properties": {
+        "name": "NPS Region III Headquarters Building",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/NPS_Region_III_Headquarters_Building.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/headquarters_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6400232,
+          31.8276002
+        ]
+      },
+      "properties": {
+        "name": "Village of Columbus and Camp Furlong",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Village_of_Columbus_and_Camp_Furlong.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Columbus_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9818483,
+          35.79065
+        ]
+      },
+      "properties": {
+        "name": "Watrous (La Junta)",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Watrous_La_Junta.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/watrous_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.698056,
+          35.744722
+        ]
+      },
+      "properties": {
+        "name": "Mission San Miguel Arcangel",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Mission_San_Miguel_Arcangel.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/SanMiguel_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.017373,
+          26.406229
+        ]
+      },
+      "properties": {
+        "name": "Roma Historic District",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Roma_Historic_District.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Roma_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.560058,
+          35.229916
+        ]
+      },
+      "properties": {
+        "name": "Cesar E. Chavez National Monument / Nuestra Senora Reina de la Paz",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Chavez_National_Monument_Nuestra_Senora_Reina_de_la_Paz.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/LaPaz_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4391073,
+          36.903682
+        ]
+      },
+      "properties": {
+        "name": "Raton Pass",
+        "description": "Colorado and New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Raton_Pass.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/raton_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4868071,
+          25.8971077
+        ]
+      },
+      "properties": {
+        "name": "Fort Brown",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Fort_Brown.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/fortbrown_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.695856,
+          34.424217
+        ]
+      },
+      "properties": {
+        "name": "Gonzalez House",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Gonzalez_House.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/RGhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.726163,
+          37.733526
+        ]
+      },
+      "properties": {
+        "name": "Trujillo Homesteads",
+        "description": "Colorado",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Trujillo_Homesteads.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Trujillo_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.864229,
+          40.895049
+        ]
+      },
+      "properties": {
+        "name": "Farragut, Admiral David Glasgow, Gravesite",
+        "description": "New York",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Farragut_Gravesite.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Farragut_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.036667,
+          38.889722
+        ]
+      },
+      "properties": {
+        "name": "National Mall and Memorial Parks",
+        "description": "District of Columbia",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/National_Mall_and_Memorial_Parks.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/NAMA_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.081424,
+          29.749253
+        ]
+      },
+      "properties": {
+        "name": "San Jacinto Battlefield",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/San_Jacinto_Battlefield.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/SanJacinto_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.05,
+          29.436667
+        ]
+      },
+      "properties": {
+        "name": "Amistad Recreation Area",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Amistad_Recreation_Area.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Amistad_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.918611,
+          36.542778
+        ]
+      },
+      "properties": {
+        "name": "Carmel Mission (San Carlos Borromeo de Carmelo Mission)",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Carmel_Mission.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Carmel_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.050833,
+          34.877222,
+          0
+        ]
+      },
+      "properties": {
+        "name": "El Malpais National Monument",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/El_Malpais_National_Monument.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Elmalpais_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.7589053,
+          36.1311358
+        ]
+      },
+      "properties": {
+        "name": "Las Trampas Historic District and the San Jose de Gracia Church",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Las_Trampas_and_San_Jose_de_Gracia_Church.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Lastrampas_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8943533,
+          36.6026922
+        ]
+      },
+      "properties": {
+        "name": "Old Custom House",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Old_Custom_House.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/oldcustomhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.93767,
+          35.68343
+        ]
+      },
+      "properties": {
+        "name": "Barrio de Analco Historic District",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Barrio_de_Analco_Historic_District.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Barrio_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3830914,
+          28.6476667
+        ]
+      },
+      "properties": {
+        "name": "Presidio Nuestra Senora de Loreto de la Bahia",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Presidio_de_la_Bahia.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/bahia_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.442283,
+          27.96
+        ]
+      },
+      "properties": {
+        "name": "Ybor City Historic District",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Ybor_City_Historic_District.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/YborCity_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.063811,
+          29.957453
+        ]
+      },
+      "properties": {
+        "name": "The Cabildo",
+        "description": "Louisiana",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/The_Cabildo.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Cabildo_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.433331,
+          48.100768
+        ]
+      },
+      "properties": {
+        "name": "Olympic National Park",
+        "description": "Washington",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Olympic_National_Park.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Olympic_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.893611,
+          36.599722
+        ]
+      },
+      "properties": {
+        "name": "Monterey Old Town Historic District",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Monterey_Old_Town_Historic_District.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/MOT_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9465139,
+          40.833521
+        ]
+      },
+      "properties": {
+        "name": "The Hispanic Society of America",
+        "description": "New York",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/The_Hispanic_Society_of_America.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/society_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.322834,
+          35.764666
+        ]
+      },
+      "properties": {
+        "name": "Northern Rio Grande National Heritage Area",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Northern_Rio_Grande_National_Heritage_Area.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/NRG_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.241532,
+          34.055019
+        ]
+      },
+      "properties": {
+        "name": "U.S. Court House and Post Office",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Los_Angeles_US_Court_House_and_Post_Office.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/courthouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.130605,
+          37.991985
+        ]
+      },
+      "properties": {
+        "name": "John Muir National Historic Site",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/John_Muir_National_Historic_Site.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/muir_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.415629,
+          39.093245
+        ]
+      },
+      "properties": {
+        "name": "California National Historic Trail",
+        "description": "CA, CO, ID, KS, MO, NE, NV, OR, UT, and WY",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/California_National_Historic_Trail.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/catrail_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.289351,
+          35.76139
+        ]
+      },
+      "properties": {
+        "name": "The Forty Acres",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/The_Forty_Acres.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/fortyacres_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.26,
+          34.76
+        ]
+      },
+      "properties": {
+        "name": "Los Alamos Ranch House, or Rancho Los Alamos (de la Guerra)",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Los_Alamos_Ranch_House.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/losalamos_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.291584,
+          31.709466
+        ]
+      },
+      "properties": {
+        "name": "Los Adaes",
+        "description": "Louisiana",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Los_Adaes.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/adaes_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.11508,
+          18.383087
+        ]
+      },
+      "properties": {
+        "name": "Caparra Archeological Site",
+        "description": "Puerto Rico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Caparra_Archeological_Site.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Caparra_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47,
+          37.8066
+        ]
+      },
+      "properties": {
+        "name": "Fort Point National Historic Site",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Fort_Point_National_Historic_Site.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/FortPoint_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.885328,
+          34.184608
+        ]
+      },
+      "properties": {
+        "name": "Santa Monica Mountains Recreation Area",
+        "description": "California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Santa_Monica_Mountains_Recreation_Area.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/santamonica_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.443333,
+          27.045
+        ]
+      },
+      "properties": {
+        "name": "Trevino-Uribe Rancho",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Trevino_Uribe_Rancho.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/trevino_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.664848,
+          42.458457
+        ]
+      },
+      "properties": {
+        "name": "Julien Dubuque's Mines",
+        "description": "Iowa",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Julien_Dubuque_Mines.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/julien_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.188598,
+          30.456839
+        ]
+      },
+      "properties": {
+        "name": "Atchafalaya National Heritage Area",
+        "description": "Louisiana",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Atchafalaya_National_Heritage_Area.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/atcha_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.065,
+          29.958611
+        ]
+      },
+      "properties": {
+        "name": "Vieux Carre Historic District",
+        "description": "Louisiana",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Vieux_Carre_Historic_District.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Vieux_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.939167,
+          31.353889
+        ]
+      },
+      "properties": {
+        "name": "Juan Bautista de Anza National Historic Trail",
+        "description": "Arizona and California",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Juan_Bautista_de_Anza_National_Historic_Trail.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/AnzaBorrego_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.964444,
+          35.667222
+        ]
+      },
+      "properties": {
+        "name": "Santa Fe National Historic Trail",
+        "description": "CO,KS,MO,NM,OK",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Santa_Fe_National_Historic_Trail.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/SantaFeNHT_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.063226,
+          29.958092
+        ]
+      },
+      "properties": {
+        "name": "The Presbytere",
+        "description": "Louisiana",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Presbytere.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/Presbytere_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1199,
+          18.4669,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Old San Juan Historic District",
+        "description": "Puerto Rico",
+        "name_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/Old_San_Juan.html",
+        "decription_url": "http://www.nps.gov/history/nr/travel/American_Latino_Heritage/googlemap_images/OldSanJuan_mapimage.jpg"
+      }
+    }
+  ]
+}

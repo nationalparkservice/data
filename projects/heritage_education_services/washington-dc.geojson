@@ -1,0 +1,2772 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.050941,
+          38.958035,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Rock Creek Park",
+        "description": "The Park is located along Rock Creek and tributaries from the National Zoo to the DC boundary. Rock Creek Parkway is a public parkway accessible to the public during all hours of the day. Metro stop: Woodley Park-Zoo. ",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/nw1.jpg",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc2.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.090797,
+          38.941292,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Peirce Mill",
+        "description": "Peirce Mill is located at 2375 Tilden St., NW. It is open Wedneday through Sunday from 9:00 am to 5:00 pm. Metro stop: Cleveland Park or Van Ness/UDC ",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/Nw4.gif",
+        "name_url": "http://www.nps.gov/history/nr/travel/wash/dc3.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.072868,
+              38.930603,
+              0
+            ],
+            [
+              -77.063553,
+              38.930271,
+              0
+            ],
+            [
+              -77.055573,
+              38.93047,
+              0
+            ],
+            [
+              -77.05806,
+              38.935211,
+              0
+            ],
+            [
+              -77.059998,
+              38.938316,
+              0
+            ],
+            [
+              -77.061668,
+              38.94112,
+              0
+            ],
+            [
+              -77.074974,
+              38.939117,
+              0
+            ],
+            [
+              -77.072571,
+              38.934643,
+              0
+            ],
+            [
+              -77.072868,
+              38.930603,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Cleveland Park Historic District",
+        "description": "Cleveland Parks is roughly bounded by Klingle and Woodley Rds., NW, on the south; Wisconsin Ave., NW, on the west; Rodman and Tilden Sts., NW, on the north; and the rear of properties along Connecticut Ave., NW, on the east. The buildings described are private and are not open to the public. Metro stop: Cleveland Park ",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/nw6.jpg",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc4.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.023041,
+              38.972424,
+              0
+            ],
+            [
+              -77.023041,
+              38.975025,
+              0
+            ],
+            [
+              -77.013985,
+              38.974892,
+              0
+            ],
+            [
+              -77.01107,
+              38.972488,
+              0
+            ],
+            [
+              -77.016563,
+              38.972488,
+              0
+            ],
+            [
+              -77.019699,
+              38.972458,
+              0
+            ],
+            [
+              -77.023041,
+              38.972424,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Takoma Park Historic District",
+        "description": "Takoma Park is roughly bounded by Aspen St., NW, on the south; Piney Branch Rd., NW, and 7th St., NW, on the west; and Eastern Ave., NW, on the northeast. The buildings described are private and not open to the public. Metro stop: Takoma",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/nw31.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.071632,
+          38.930298,
+          0
+        ]
+      },
+      "properties": {
+        "name": "National Cathedral",
+        "description": "The Cathedral is located at the corner of Wisconsin and Massachusetts Aves. The hours the Cathedral is open varies due to time of year, day of week, and special events, but it is open every day. See their website for more information. Metro stop: Tenleytown/AU ",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/nw7.jpg",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc5.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.059875,
+          38.904305,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Chesapeake and Ohio (C&O) Canal",
+        "description": "The C&O Canal runs along the Potomac River west from Rock Creek The Chesapeake and Ohio National Historical Park is located along the C&O Canal from Rock Creek Park to the DC boundary and extends into Maryland. The park is open during all daylight hours. Some of the park's five visitor centers operate on a seasonal schedule",
+        "name_url": "http://www.nps.gov/history/nr/travel/wash/dc6.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/nw9.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.049248,
+          38.929592,
+          0
+        ]
+      },
+      "properties": {
+        "name": "National Zoological Park",
+        "description": "The Zoo borders Rock Creek Park with entrances at 3001 Connecticut Ave., on Harvard St. and on Beach Dr. It is open daily from 8:00 am to 8:00 pm between April 15th and October 15th. The rest of the year it is open daily from 8:00 am to 6:00 pm. It is closed on December /5th. Admission is free. For more information call 202/633-4800 or visit the zoo's website. Metro stop: Woodley Park/Zoo ",
+        "name_url": "http://www.nps.gov/history/nr/travel/wash/dc7.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/nw12.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.057716,
+              38.923393,
+              0
+            ],
+            [
+              -77.057808,
+              38.929035,
+              0
+            ],
+            [
+              -77.051796,
+              38.927601,
+              0
+            ],
+            [
+              -77.050209,
+              38.92543,
+              0
+            ],
+            [
+              -77.049652,
+              38.923695,
+              0
+            ],
+            [
+              -77.051842,
+              38.923592,
+              0
+            ],
+            [
+              -77.054413,
+              38.923492,
+              0
+            ],
+            [
+              -77.057716,
+              38.923393,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Old Woodley Park Historic District",
+        "description": "Old Woodley Park Historic District is roughly bounded by 24th and 29th Sts., NW, to the west; Cathedral Ave., NW, to the north; Rock Creek Park to the east; and Calvert and Woodley Rds., NW, to the south. The buildings described are private and not open to the public. Metro stop: Woodley Park-Zoo ",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc8.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/nw14.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.08486318588257,
+              38.91234060936887,
+              0
+            ],
+            [
+              -77.0814299583435,
+              38.912699580710644
+            ],
+            [
+              -77.0769453048706,
+              38.91269123256053,
+              0
+            ],
+            [
+              -77.0729649066925,
+              38.91262444732422
+            ],
+            [
+              -77.0691990852356,
+              38.912674536257356,
+              0
+            ],
+            [
+              -77.06536889076231,
+              38.912732973301296
+            ],
+            [
+              -77.061623,
+              38.913143,
+              0
+            ],
+            [
+              -77.05407,
+              38.912807,
+              0
+            ],
+            [
+              -77.05308437347412,
+              38.91207346672691,
+              0
+            ],
+            [
+              -77.05580949783325,
+              38.905336130818505,
+              0
+            ],
+            [
+              -77.06894159317017,
+              38.90513575416009,
+              0
+            ],
+            [
+              -77.06945657730103,
+              38.9039167839698
+            ],
+            [
+              -77.07374811172484,
+              38.904601413639355
+            ],
+            [
+              -77.079224,
+              38.904926,
+              0
+            ],
+            [
+              -77.0819342136383,
+              38.904726650059736
+            ],
+            [
+              -77.08307147026062,
+              38.90488528254173,
+              0
+            ],
+            [
+              -77.0866870880127,
+              38.9061793763914,
+              0
+            ],
+            [
+              -77.08486318588257,
+              38.91234060936887,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "The Georgetown Historic District",
+        "description": "The Georgetown Historic District is roughly bounded by Reservoir Rd., NW, and Dumbarton Oaks Park on the north; Rock Creek Park on the east; the Potomac River on the south; and Glover-Archbold Parkway on the west. Unless otherwise noted, the buildings described above are private and not open to the public. Metro Stop: Foggy Bottom ",
+        "name_url": "http://www.nps.gov/history/nr/travel/wash/dc15.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/nw24.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.059303,
+          38.91254,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Oak Hill Cemetery",
+        "description": "The Oak Hill Cemetery is located at 30th and R Sts., NW. It is open weekdays only from 10:00 am to 4:00 pm. It is closed holidays and during funerals, and photography is not permitted. Metro stop: Foggy Bottom",
+        "name_url": "http://www.nps.gov/history/nr/travel/wash/dc9.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/nw16b.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.054962,
+          38.910576,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mount Zion Cemetery",
+        "description": "The Mount Zion Cemetery is located at 27th and Q Sts, NW. The cemetery is open daily during daylight hours, to arrange for a tour contact Mt. Zion Church at 202-234-0148. Metro stop: Foggy Bottom ",
+        "name_url": "http://www.nps.gov/history/nr/travel/wash/dc10.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/nw18.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.064201,
+          38.914043,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Montrose and Dumbarton Parks",
+        "description": "Montrose and Dumbarton Parks are public parks accessible to the public. Dumbarton Oaks is located at 1703 32nd St., N.W. From March 15 through October, the gardens are open daily, except Mondays, from 2:00 pm to 6:00 pm; November-March 14: 2:00 pm to 5:00 pm. They are closed during inclement weather, national holidays, and Christmas eve. The museum and shop are open daily (except Monday and federal holidays) from 2:00 pm to 5:00 pm.",
+        "name_url": "http://www.nps.gov/history/nr/travel/wash/dc11.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/Nw19.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06301927566528,
+          38.91143065062417
+        ]
+      },
+      "properties": {
+        "name": "Tudor Place",
+        "description": "Tudor Place is located at 1644 31st St., NW. Tuesday through Saturday tours are available from 10:00 am to 4:00 pm; last tour begins at 3:00 pm. On Sunday tours are available 12:00 pm to 4:00 pm; last tour begins at 3:00 pm. Tours are on the hour. A fee is charged. Garden Tours are self-guided. The garden is open from 10:00 am to 4:00 pm, Monday through Saturday and 12:00pm to 4:00pm on Sundays. For more information about visiting Tudor Place, please call 202-965-0400. ",
+        "name_url": "http://www.nps.gov/history/nr/travel/wash/dc12.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/nw20.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.055885,
+          38.910881,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Dumbarton House ",
+        "description": "Dumbarton House is located at 2715 Q Street, NW in Historic Georgetown, Washington, DC.  Available for private and corporate events, Dumbarton House provides an historic and intimate venue for elegant receptions, weddings, parties, teas and meetings for 150-200 guests. The house is open to the public Tuesdays through Sundays, from 11:00 AM to 3:00 PM (last museum entry is 2:45 PM). Self-guided tours are available year round. Guided tours are available by prior reservation by calling 202-337-2288.. The house is closed on Federal holidays, and Thanksgiving Weekend. The admission fee is $5 for adults; students are free.  Closest Metro stop: Dupont Circle, Red Line; Metrobus routes to 27th & Q: D-2, D-4, D-6; two-hour street parking; limited on-site parking.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/DC_Dumbarton%20H.html",
+        "description_url": "http://www.nps.gov/nr/travel/wash/Dumbarton%20House/dumbarton_Front_Lawn.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.068993,
+          38.905899,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Georgetown University",
+        "description": "Georgetown University is located at Prospect and 35th Sts., NW. The Georgetown University Transportation Shuttle (GUTS) provides a free ride to Georgetown University to and from Metrorail locations at Dupont Circle (in the District) and Rosslyn (in Arlington, VA). Tours of the campus can be scheduled by calling the Admissions Office at 202/687-3600 between 9:00 am and 5:00 pm. ",
+        "name_url": "http://www.nps.gov/history/nr/travel/wash/dc13.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/nw21.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.068733,
+          38.909885,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Volta Laboratory and Bureau ",
+        "description": "The Volta Bureau is located at 1537 35th St., NW. There is limited accessibility to the public. Call for appointments at 202/337-5220. Metro stop: Foggy Bottom ",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/nw22.jpg",
+        "name_url": "http://www.nps.gov/history/nr/travel/wash/dc14.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06118,
+          38.905823,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Custom House and Post Office",
+        "description": "The Custom House and Post Office is located at 1221 31st St., NW. It is open Monday through Friday, 9:00 am to 5:00 pm. Metro stop: Foggy Bottom ",
+        "name_url": "http://www.nps.gov/history/nr/travel/wash/dc16.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/nw25.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.060295,
+          38.905697,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Old Stone House",
+        "description": "The Old Stone House, administered by the National Park Service and located at 3051 M St., NW, is open Wednesday through Sunday, 12:00 noon to 5:00 pm. It is closed New Years Day, Independence Day, Thanksgiving, and Christmas. Metro stop: Foggy Bottom ",
+        "name_url": "http://www.nps.gov/history/nr/travel/wash/dc17.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/nw26.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.065147,
+          38.90464,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Georgetown Market",
+        "description": "The Georgetown Market is now occupied by Dean and Deluca gourmet food store and is located at 3276 M St., NW, in Georgetown. It is open Sunday through Thursday from 10:00 am to 8:00 pm and Friday and Saturday from 10:00 am to 9:00 pm. Metro stop: Foggy Bottom ",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc18.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/nw27.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.06817984580994,
+              38.90498547129511
+            ],
+            [
+              -77.06730008125305,
+              38.90498547129511,
+              0
+            ],
+            [
+              -77.06407070159912,
+              38.905081485384436,
+              0
+            ],
+            [
+              -77.06350207328796,
+              38.90508565990711
+            ],
+            [
+              -77.06303000450134,
+              38.90506896181494
+            ],
+            [
+              -77.059725522995,
+              38.90512740512037
+            ],
+            [
+              -77.05868482589722,
+              38.9051441031988
+            ],
+            [
+              -77.05792307853699,
+              38.90524429158694
+            ],
+            [
+              -77.05669462680817,
+              38.905210895473274
+            ],
+            [
+              -77.05584168434142,
+              38.905210895473274,
+              0
+            ],
+            [
+              -77.05864191055296,
+              38.90051858534431,
+              0
+            ],
+            [
+              -77.06195712089539,
+              38.901779361059425
+            ],
+            [
+              -77.065186,
+              38.902573,
+              0
+            ],
+            [
+              -77.067032,
+              38.903126,
+              0
+            ],
+            [
+              -77.069031,
+              38.903843,
+              0
+            ],
+            [
+              -77.06890940666199,
+              38.904200655609586,
+              0
+            ],
+            [
+              -77.06882357597351,
+              38.90446782788078
+            ],
+            [
+              -77.06866264343262,
+              38.90476004640118
+            ],
+            [
+              -77.06850171089172,
+              38.90490198067713,
+              0
+            ],
+            [
+              -77.06817984580994,
+              38.90498547129511
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Georgetown's Commercial Buildings",
+        "description": "Georgetown's Commercial Buildings are located in the heart of the Georgetown Historic District between M St. and the waterfront. The Farmers and Mechanics Branch Riggs Bank is open during banking hours. The Chesapeake and Ohio Canal is open to the public during daylight hours. For more information, please call 301/739-4200. The Old Stone House is located at 3051 M St., NW and is open to the public Wednesday through Sunday from 10:00 am to 4:00 pm. For more information, please call 202/426-6851. Metro stop: Foggy Bottom ",
+        "name_url": "http://www.nps.gov/history/nr/travel/wash/dc19.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/nw28.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.039062,
+            38.908112,
+            0
+          ],
+          [
+            -77.04248,
+            38.909309,
+            0
+          ],
+          [
+            -77.042679,
+            38.90947,
+            0
+          ],
+          [
+            -77.042679,
+            38.90947,
+            0
+          ],
+          [
+            -77.042633,
+            38.90955,
+            0
+          ],
+          [
+            -77.042664,
+            38.90976,
+            0
+          ],
+          [
+            -77.042793,
+            38.910011,
+            0
+          ],
+          [
+            -77.043098,
+            38.910221,
+            0
+          ],
+          [
+            -77.043312,
+            38.910271,
+            0
+          ],
+          [
+            -77.043671,
+            38.910229,
+            0
+          ],
+          [
+            -77.043999,
+            38.910091,
+            0
+          ],
+          [
+            -77.044128,
+            38.909988,
+            0
+          ],
+          [
+            -77.04425,
+            38.909729,
+            0
+          ],
+          [
+            -77.044212,
+            38.909489,
+            0
+          ],
+          [
+            -77.044121,
+            38.909321,
+            0
+          ],
+          [
+            -77.043938,
+            38.909149,
+            0
+          ],
+          [
+            -77.043823,
+            38.9091,
+            0
+          ],
+          [
+            -77.043388,
+            38.909019,
+            0
+          ],
+          [
+            -77.043037,
+            38.909119,
+            0
+          ],
+          [
+            -77.042763,
+            38.909302,
+            0
+          ],
+          [
+            -77.04248,
+            38.909309,
+            0
+          ],
+          [
+            -77.037392,
+            38.907551,
+            0
+          ],
+          [
+            -77.037331,
+            38.907471,
+            0
+          ],
+          [
+            -77.036987,
+            38.907269,
+            0
+          ],
+          [
+            -77.036987,
+            38.907269,
+            0
+          ],
+          [
+            -77.036873,
+            38.907089,
+            0
+          ],
+          [
+            -77.036598,
+            38.907001,
+            0
+          ],
+          [
+            -77.03627,
+            38.907051,
+            0
+          ],
+          [
+            -77.036079,
+            38.907211,
+            0
+          ],
+          [
+            -77.036133,
+            38.907349,
+            0
+          ],
+          [
+            -77.036293,
+            38.907471,
+            0
+          ],
+          [
+            -77.036621,
+            38.90749,
+            0
+          ],
+          [
+            -77.036789,
+            38.90744,
+            0
+          ],
+          [
+            -77.037392,
+            38.907551,
+            0
+          ],
+          [
+            -77.037781,
+            38.907669,
+            0
+          ],
+          [
+            -77.04248,
+            38.909309,
+            0
+          ],
+          [
+            -77.042679,
+            38.90947,
+            0
+          ],
+          [
+            -77.042679,
+            38.90947,
+            0
+          ],
+          [
+            -77.042633,
+            38.90955,
+            0
+          ],
+          [
+            -77.042679,
+            38.909828,
+            0
+          ],
+          [
+            -77.042877,
+            38.910099,
+            0
+          ],
+          [
+            -77.043152,
+            38.91024,
+            0
+          ],
+          [
+            -77.043503,
+            38.910271,
+            0
+          ],
+          [
+            -77.043663,
+            38.910332,
+            0
+          ],
+          [
+            -77.043739,
+            38.910412,
+            0
+          ],
+          [
+            -77.04493045806885,
+            38.912353131655536
+          ],
+          [
+            -77.04599,
+            38.914242,
+            0
+          ],
+          [
+            -77.046158,
+            38.91478,
+            0
+          ],
+          [
+            -77.046242,
+            38.915951,
+            0
+          ],
+          [
+            -77.046242,
+            38.915951,
+            0
+          ],
+          [
+            -77.04641,
+            38.916321,
+            0
+          ],
+          [
+            -77.0467,
+            38.916691,
+            0
+          ],
+          [
+            -77.047218,
+            38.917728,
+            0
+          ],
+          [
+            -77.047653,
+            38.918419,
+            0
+          ],
+          [
+            -77.047798,
+            38.918541,
+            0
+          ],
+          [
+            -77.048767,
+            38.918861,
+            0
+          ],
+          [
+            -77.048897,
+            38.918968,
+            0
+          ],
+          [
+            -77.049698,
+            38.920441,
+            0
+          ],
+          [
+            -77.051529,
+            38.923561,
+            0
+          ],
+          [
+            -77.051529,
+            38.923561,
+            0
+          ],
+          [
+            -77.05645,
+            38.923271,
+            0
+          ],
+          [
+            -77.057564,
+            38.923248,
+            0
+          ],
+          [
+            -77.057823,
+            38.923351,
+            0
+          ],
+          [
+            -77.059288,
+            38.9245,
+            0
+          ],
+          [
+            -77.059288,
+            38.9245,
+            0
+          ],
+          [
+            -77.063164,
+            38.927521,
+            0
+          ],
+          [
+            -77.063164,
+            38.927521,
+            0
+          ],
+          [
+            -77.066383,
+            38.927528,
+            0
+          ],
+          [
+            -77.066383,
+            38.927528,
+            0
+          ],
+          [
+            -77.06636,
+            38.924339,
+            0
+          ],
+          [
+            -77.06636,
+            38.924339,
+            0
+          ],
+          [
+            -77.067207,
+            38.924438,
+            0
+          ],
+          [
+            -77.067589,
+            38.92458,
+            0
+          ],
+          [
+            -77.067589,
+            38.92458,
+            0
+          ],
+          [
+            -77.06752,
+            38.924679,
+            0
+          ],
+          [
+            -77.06752,
+            38.926182,
+            0
+          ],
+          [
+            -77.06752,
+            38.926182,
+            0
+          ],
+          [
+            -77.066383,
+            38.926189,
+            0
+          ],
+          [
+            -77.066383,
+            38.926189,
+            0
+          ],
+          [
+            -77.066399,
+            38.929939,
+            0
+          ],
+          [
+            -77.066399,
+            38.929939,
+            0
+          ],
+          [
+            -77.064522,
+            38.928539,
+            0
+          ],
+          [
+            -77.063438,
+            38.927681,
+            0
+          ],
+          [
+            -77.062767,
+            38.927078,
+            0
+          ],
+          [
+            -77.058327,
+            38.923618,
+            0
+          ],
+          [
+            -77.05793,
+            38.92326,
+            0
+          ],
+          [
+            -77.057732,
+            38.923161,
+            0
+          ],
+          [
+            -77.056732,
+            38.923222,
+            0
+          ],
+          [
+            -77.05645,
+            38.923271,
+            0
+          ],
+          [
+            -77.05645,
+            38.923271,
+            0
+          ],
+          [
+            -77.051529,
+            38.923561,
+            0
+          ],
+          [
+            -77.051529,
+            38.923561,
+            0
+          ],
+          [
+            -77.049698,
+            38.920441,
+            0
+          ],
+          [
+            -77.04928636550903,
+            38.919528038589505
+          ],
+          [
+            -77.048897,
+            38.918968,
+            0
+          ],
+          [
+            -77.048767,
+            38.918861,
+            0
+          ],
+          [
+            -77.047798,
+            38.918541,
+            0
+          ],
+          [
+            -77.047691,
+            38.918461,
+            0
+          ],
+          [
+            -77.047218,
+            38.917728,
+            0
+          ],
+          [
+            -77.046638,
+            38.916592,
+            0
+          ],
+          [
+            -77.046654,
+            38.9165,
+            0
+          ],
+          [
+            -77.04643785953522,
+            38.91602206649236,
+            0
+          ],
+          [
+            -77.04633861780167,
+            38.91517685087851
+          ],
+          [
+            -77.046219,
+            38.914322,
+            0
+          ],
+          [
+            -77.04565733671188,
+            38.91327977473835
+          ],
+          [
+            -77.045052,
+            38.912239,
+            0
+          ],
+          [
+            -77.0449858646164,
+            38.9121395369827
+          ],
+          [
+            -77.04491972923279,
+            38.91204007382599
+          ],
+          [
+            -77.045052,
+            38.912239,
+            0
+          ],
+          [
+            -77.0447587966919,
+            38.91182719371318,
+            0
+          ],
+          [
+            -77.04393,
+            38.910229,
+            0
+          ],
+          [
+            -77.043983,
+            38.910099,
+            0
+          ],
+          [
+            -77.043983,
+            38.910099,
+            0
+          ],
+          [
+            -77.044128,
+            38.909988,
+            0
+          ],
+          [
+            -77.04425,
+            38.909729,
+            0
+          ],
+          [
+            -77.044212,
+            38.909489,
+            0
+          ],
+          [
+            -77.044121,
+            38.909321,
+            0
+          ],
+          [
+            -77.0439,
+            38.90913,
+            0
+          ],
+          [
+            -77.043388,
+            38.909019,
+            0
+          ],
+          [
+            -77.043037,
+            38.909119,
+            0
+          ],
+          [
+            -77.042763,
+            38.909302,
+            0
+          ],
+          [
+            -77.04248,
+            38.909309,
+            0
+          ],
+          [
+            -77.037392,
+            38.907551,
+            0
+          ],
+          [
+            -77.037331,
+            38.907471,
+            0
+          ],
+          [
+            -77.036987,
+            38.907269,
+            0
+          ],
+          [
+            -77.036987,
+            38.907269,
+            0
+          ],
+          [
+            -77.036873,
+            38.907089,
+            0
+          ],
+          [
+            -77.036598,
+            38.907001,
+            0
+          ],
+          [
+            -77.03627,
+            38.907051,
+            0
+          ],
+          [
+            -77.036079,
+            38.907211,
+            0
+          ],
+          [
+            -77.036133,
+            38.907349,
+            0
+          ],
+          [
+            -77.036293,
+            38.907471,
+            0
+          ],
+          [
+            -77.036621,
+            38.90749,
+            0
+          ],
+          [
+            -77.036789,
+            38.90744,
+            0
+          ],
+          [
+            -77.037392,
+            38.907551,
+            0
+          ],
+          [
+            -77.037781,
+            38.907669,
+            0
+          ],
+          [
+            -77.04248,
+            38.909309,
+            0
+          ],
+          [
+            -77.042679,
+            38.90947,
+            0
+          ],
+          [
+            -77.042679,
+            38.90947,
+            0
+          ],
+          [
+            -77.042633,
+            38.90955,
+            0
+          ],
+          [
+            -77.042664,
+            38.90976,
+            0
+          ],
+          [
+            -77.042793,
+            38.910011,
+            0
+          ],
+          [
+            -77.043098,
+            38.910221,
+            0
+          ],
+          [
+            -77.043312,
+            38.910271,
+            0
+          ],
+          [
+            -77.043671,
+            38.910229,
+            0
+          ],
+          [
+            -77.043999,
+            38.910091,
+            0
+          ],
+          [
+            -77.044128,
+            38.909988,
+            0
+          ],
+          [
+            -77.04425,
+            38.909729,
+            0
+          ],
+          [
+            -77.044212,
+            38.909489,
+            0
+          ],
+          [
+            -77.044121,
+            38.909321,
+            0
+          ],
+          [
+            -77.043938,
+            38.909149,
+            0
+          ],
+          [
+            -77.043823,
+            38.9091,
+            0
+          ],
+          [
+            -77.043388,
+            38.909019,
+            0
+          ],
+          [
+            -77.043037,
+            38.909119,
+            0
+          ],
+          [
+            -77.042763,
+            38.909302,
+            0
+          ],
+          [
+            -77.04248,
+            38.909309,
+            0
+          ],
+          [
+            -77.037392,
+            38.907551,
+            0
+          ],
+          [
+            -77.037331,
+            38.907471,
+            0
+          ],
+          [
+            -77.036987,
+            38.907269,
+            0
+          ],
+          [
+            -77.036987,
+            38.907269,
+            0
+          ],
+          [
+            -77.036873,
+            38.907089,
+            0
+          ],
+          [
+            -77.036598,
+            38.907001,
+            0
+          ],
+          [
+            -77.03627,
+            38.907051,
+            0
+          ],
+          [
+            -77.036079,
+            38.907211,
+            0
+          ],
+          [
+            -77.036133,
+            38.907349,
+            0
+          ],
+          [
+            -77.036293,
+            38.907471,
+            0
+          ],
+          [
+            -77.036621,
+            38.90749,
+            0
+          ],
+          [
+            -77.036789,
+            38.90744,
+            0
+          ],
+          [
+            -77.037392,
+            38.907551,
+            0
+          ],
+          [
+            -77.039017,
+            38.9081,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Massachusetts Avenue Historic District",
+        "description": "Massachusetts Avenue Historic District includes buildings fronting on Massachusetts Avenue from 17th St., NW to Observatory Circle. Unless noted above all embassies and houses mentioned are private and not open to the public. Metro stop: Dupont Circle.",
+        "name_url": "http://www.nps.gov/history/nr/travel/wash/dc44.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dup1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.041328,
+          38.909336,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The National Trust for Historic Preservation ",
+        "description": "The National Trust for Historic Preservation is located at 1785 Massachusetts Ave. Tours are available by appointment by calling 202/588-6000.",
+        "name_url": "http://www.nps.gov/history/nr/travel/wash/dc55.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dup14.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.04886794090271,
+              38.91917744917455
+            ],
+            [
+              -77.04744100570677,
+              38.918217493102276
+            ],
+            [
+              -77.046387,
+              38.916164,
+              0
+            ],
+            [
+              -77.04280614852905,
+              38.923042184401524,
+              0
+            ],
+            [
+              -77.05146431922913,
+              38.92355134548686,
+              0
+            ],
+            [
+              -77.04886794090271,
+              38.91917744917455
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Kalorama Triangle",
+        "description": "Kalorama Triangle is roughly bounded by Columbia Rd., NW, on the east and south; Connecticut Ave., NW, Rock Creek Park on the west; and the rear of the properties on the north side of Calvert St., NW, on the north. The buildings referred to above are private and not open to the public. Metro stop: Woodley Park/Zoo.",
+        "name_url": "http://www.nps.gov/history/nr/travel/wash/dc45.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dup3.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.036987,
+              38.926697,
+              0
+            ],
+            [
+              -77.037163,
+              38.932774,
+              0
+            ],
+            [
+              -77.036987,
+              38.936047,
+              0
+            ],
+            [
+              -77.045059,
+              38.934578,
+              0
+            ],
+            [
+              -77.044716,
+              38.930103,
+              0
+            ],
+            [
+              -77.044029,
+              38.925629,
+              0
+            ],
+            [
+              -77.040512,
+              38.926098,
+              0
+            ],
+            [
+              -77.036987,
+              38.926697,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Mount Pleasant Historic District",
+        "description": "Mount Pleasant Historic District is roughly bounded by 16th St., NW, on the east; Harvard St., NW, on the south; Rock Creek Park on the west; and Piney Branch Park on the north. The buildings listed above are private and not open to the public. Metro stop: Woodley Park-Zoo.",
+        "name_url": "http://www.nps.gov/history/nr/travel/wash/dc96.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dup38.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.017426,
+              38.914143,
+              0
+            ],
+            [
+              -77.041626,
+              38.905727,
+              0
+            ],
+            [
+              -77.014847,
+              38.886223,
+              0
+            ],
+            [
+              -76.983948,
+              38.899982,
+              0
+            ],
+            [
+              -77.017426,
+              38.914143,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sheridan-Kalorama Historic District",
+        "description": "Roughly bounded by Connecticut Ave., NW and Florida Ave., NW on the east; P St., NW on the south; and Rock Creek Park on the west and north. All the buildings listed above are private and not open to the public unless noted. Metro stop: Dupont Circle.",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dup4.jpg",
+        "name_url": "http://www.nps.gov/history/nr/travel/wash/dc46.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.051697,
+          38.913704,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Woodrow Wilson House",
+        "description": "The Woodrow Wilson House is located at 2340 S St., NW. It is open to the public Tuesday through Sunday from 10:00 am to 4:00 pm. It is closed Thanksgiving, Christmas and New Years Day. Groups are admitted year round by reservation. Metro stop: Dupont Circle",
+        "name_url": "http://www.nps.gov/history/nr/travel/wash/dc47.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dup5.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.035934,
+          38.921356,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meridian Hill Park",
+        "description": "Meridian Hill is located between 16th and 15th Sts. approximately one and one-half miles north of the White House, from Florida Ave. to Irving St., NW. Metro stop: Columbia Heights",
+        "name_url": "http://www.nps.gov/history/nr/travel/wash/dc48.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dup6.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.046692,
+          38.911419,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Phillips Collection",
+        "description": "The Duncan Phillips House is located at 1600 21st St., NW. The museum is open to the public Tuesday through Saturday 10:00 am to 5:00 pm. On Sunday it is open 11:00 am to 7:00 pm. Thursday there are extended hours from 10:00 am to 8:30 pm. Metro stop: Dupont Circle",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc51.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dtn46.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.044312,
+          38.908085,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Heurich Mansion",
+        "description": "The Christian Heurich House is located at 1307 New Hampshire Ave., NW. Walk-in tours are available Thursday through Saturday at 11:30am and 1:00pm, with an additional tour on Saturday at 2:30pm. There is a suggested donation. The museum is also available for private tours and special event rentals. Call 202-429-1894 for further information or visit the website. Metro stop: Dupont Circle.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc56.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dup15.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04007,
+          38.906425,
+          0
+        ]
+      },
+      "properties": {
+        "name": "St. Matthew's Cathedral",
+        "description": "St. Matthew's Cathedral is located at 1735 Rhode Island Ave., NW. It is open to the public for services. For more information call 202/347-3215. Metro stop: Farragut North",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc57.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dup35.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.049118,
+          38.909359,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Embassy Gulf Service Station",
+        "description": "The Embassy Gulf Service Station is is located at 2200 P St., NW. It is open to the public during normal hours of operation.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc52.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/DUP11b.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.036034,
+          38.913692,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Scottish Rite Temple",
+        "description": "The Scottish Rite Temple is located at 1733 16th St., NW, between R and S Sts. Tours are offered on weekdays from 8:00 am to 2:00 pm. Appointments must be made to peruse the library's collections. For further information, please call 202/232-3579. Metro stop: Dupont Circle",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc54.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dup13.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03849,
+          38.905663,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Charles Sumner School",
+        "description": "The Charles Sumner School is located on 17th and M Sts., NW. It now houses a museum and archive for the DC public school records and artifacts. Spaces are available for meetings and programs for non profit and government organizations on a limited basis. The museum is open to the public free of charge Monday-Friday, 10:00am to 5:00pm; the archives are open by appointment only Monday-Friday 10:00am to 4:00pm, please call 202-730-1421 to schedule an appointment",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc58.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dup18.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.040359,
+          38.904476,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mayflower Hotel",
+        "description": "The Mayflower Hotel is located on 1127 Connecticut Ave., NW. For further information call 202/347-3000. Metro stop: Farragut North",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc59.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dup19.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.035477,
+          38.905342,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Metropolitan African Methodist  Episcopal Church",
+        "description": "The Metropolitan AME Church is located at 1518 M St., NW. It is open to the public Monday through Saturday from 10:00 am to 6:00 pm. Services are held on Sunday at 8:00 am and 11:00 am. For information call 202/331-1426. Metro stop: Farragut West",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc60.htm",
+        "description_url": "http://www.metropolitanamec.org/images/churchsmall.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.036606,
+              38.917084,
+              0
+            ],
+            [
+              -77.031929,
+              38.917015,
+              0
+            ],
+            [
+              -77.028069,
+              38.917049,
+              0
+            ],
+            [
+              -77.028152,
+              38.91431,
+              0
+            ],
+            [
+              -77.031067,
+              38.914211,
+              0
+            ],
+            [
+              -77.034416,
+              38.914211,
+              0
+            ],
+            [
+              -77.036736,
+              38.914108,
+              0
+            ],
+            [
+              -77.036606,
+              38.917084,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Greater U Street Historic District",
+        "description": "The Greater 14th Street Historic District is roughly bounded by Florida Ave., NW; 12th St., NW; and S and 16th Sts., NW. Unless otherwise noted above all buildings are private and not open to the public. Metro stop: U Street-Cardozo",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dup23.jpg",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc63.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.021919,
+          38.91114,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Logan Circle Historic District",
+        "description": "The Logan Circle Historic District generally includes the buildings in the immediate vicinity of Logan Circle. Privately owned these buildings are not open to the public. Metro stop: Shaw-Howard University",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc64.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dup25.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.030579,
+          38.90807,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Mary McLeod Bethune Council House",
+        "description": "The Mary McLeod Bethune Council House, a unit of the National Park System, is located at 1318 Vermont Ave., NW. It is open from 9:00 am to 5:00 pm Monday through Saturday year round and is closed on Sundays and on Thanksgiving, Christmas, and New Years Day. The last tour starts at 4pm. Visit the National Park Service Mary McLeod Bethune Council House National Historic Site website. There are no admission fees, but donations are accepted. For more information, please call 202/673-2402. Metro stop: McPherson Square.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc62.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/Dup22.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.021088,
+          38.92252,
+          0
+        ]
+      },
+      "properties": {
+        "name": "General Oliver Otis Howard House",
+        "description": "General Oliver Otis Howard House is located on the Howard University Campus at 2401 Sixth St., NW. It is not open to the public. Metro stop: Shaw/Howard U. ",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc21.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dtn2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.016907,
+          38.915726,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Mary Church Terrell House ",
+        "description": "The Mary Church Terrell House is located at 326 T Street, N.W. in Washington, DC It is not open to the public.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc66.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/Dup29.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.045662,
+          38.901379,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Cleveland Abbe House (Arts Club of Washington)",
+        "description": "The Cleveland Abbe House is located at 2017 I St., NW. Now the Arts Club of Washington, it is open to the public Tuesday-Friday from 10:00am to 5:00pm and Saturdays from 10:00am to 2:00pm. The Arts Club has three major public galleries, weekly concerts, monthly literary evenings and offers many free multidisciplinary cultural events for visitors. Call or visit the Arts Club website for further information.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc43.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/abbe1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.041718,
+          38.895969,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Octagon House",
+        "description": "The Octagon House is located at 18th St. and New York Ave. NW. Prearranged group tours are available by appointment. The museum is open 1-4pm Thursday through Saturday for free, self-guided visits. Contact the museum at 202-626-7439 or visit the Octagon House website for further information. Metro stop: Farragut West",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc22.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dtn3.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.039688,
+          38.893902,
+          0
+        ]
+      },
+      "properties": {
+        "name": "DAR Constitution Hall",
+        "description": "Constitution Hall is located at 311 18th Street, NW and is open to the public during performances. DAR headquarters is located at 1776 D St., NW. The DAR headquarters, library and museum are open Monday-Friday 8:30 am to 4:00 pm and Sunday from 1:00 pm to 5:00 pm. Museum tours are Monday through Friday from 10:00 am to 3:00 pm. Closed Saturday and Federal holiday weekends. METRO stops: Farragut West, and Foggy Bottom, GWU. ",
+        "description_url": "",
+        "name_url": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.042496,
+          38.893505,
+          0
+        ]
+      },
+      "properties": {
+        "name": "U.S. Department of the Interior",
+        "description": "The U.S. Department of the Interior is located at 18th, 19th, C and E Streets, NW. The building is open to the public Monday through Friday from 8:30 am to 5:00 pm. ",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc24.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dtn5.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.038612,
+          38.899082,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Blair House",
+        "description": "Blair House is located at 1651-1653 Pennsylvania Ave., NW. It is not open to the public. Metro stop: McPherson Square. For more information you can visit the website. ",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc25.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dtn7.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.037956,
+          38.89949,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Decatur House",
+        "description": "Decatur House is located at 748 Jackson Pl., NW. Beginning January 1, 2011 Scheduled tours of the Decatur House are discontinued in order to allow needed preservation and conservation efforts to proceed on the building. The gift shop will remain open to visitors and the operation of education programs and special event site rentals will not be affected. Metro stop: Farragut West and Farragut North",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc26.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dtn8.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03949,
+          38.898838,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Renwick Gallery of the Smithsonian Institution",
+        "description": "The Renwick Gallery is located at the corner of 17 St. and Pennsylvania Ave., NW. The Renwick is open every day of the year, except December 25th, from 10:00 am to 5:30 pm. Extended summer hours are determined annually. Metro stop: McPherson Square ",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc27.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dup10.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.036545,
+          38.900192,
+          0
+        ]
+      },
+      "properties": {
+        "name": "St. John's Episcopal Church",
+        "description": "St. John's Church is located at 16th and H Sts., NW at Lafayette Square in Washington, DC Every Sunday after the 11:00 am service, there is a guided tour of St. John's. The church is available for public visitation from 1:00 pm to 3:00 pm everyday. Metro stop: McPherson Square ",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc28.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dtn11.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.036522,
+          38.897697,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The White House",
+        "description": "The White House is located at 1600 Pennsylvania Ave., NW. Tours of the White House are currently limited to parties of 10 or more people, requested through one’s Member of Congress and will be accepted up to six months in advance. These self-guided group tours will be scheduled approximately one month before the requested date, from 7:30am to 11:30am Tuesday-Saturday, excluding Federal holidays. For the most current tour information, please call the 24-hour line at 202-456-7041. The National Park Service operates the White House Visitor Center, located at 15th and E Sts., NW, open daily from 7:30am until 4:00pm. Metro stop: McPherson Square",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc31.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/Dtn19.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.038544,
+          38.897385,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Eisenhower Executive Office Building",
+        "description": "The Old Executive Office Building, (Eisenhower Executive Office Building) is located at 17th St. and Pennsylvania Ave., NW. Metro stop: Farragut North or Farragut West",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc32.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/Dtn21.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.039452,
+          38.896599,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Corcoran Gallery",
+        "description": "The Corcoran Gallery of Art is located at 17th St. and New York Ave., NW. It is open every day except Tuesdays from 10:00 am to 5:30 pm. The museum is closed Thanksgiving Day, Christmas Day and New Year's Day. Extended hours are Thursday evenings until 9:00 pm. Suggested contributions for admission to the Corcoran vary according to age and size of group. For more information please call 202/639-1700. Metro stop: Farragut West",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc33.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dtn23.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.039757,
+          38.891918,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Lockkeeper's House",
+        "description": "The Lockkeeper's House is located on the corner of 17th St. and Constitution Ave., NW. It is not open to the public. Metro stop: Farragut West",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc34.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dtn25.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.034264,
+          38.898293,
+          0
+        ]
+      },
+      "properties": {
+        "name": "United States Department of the Treasury",
+        "description": "The Treasury Building is located at 15th and H Sts., NW. Tours of the building have been suspended, for security reasons.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc35.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/Dtn27.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.032722,
+          38.896427,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Willard Hotel",
+        "description": "The Willard Hotel is located at 1401-09 Pennsylvania Ave., NW. For further information call 202/628-9100. Metro stop: Metro Center",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc36.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dtn29.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.028824,
+          38.896469,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Warner Theatre",
+        "description": "The Warner Theatre is located at 501 13th St., NW. It is open to the public during performances. For more information call 202/783-4000.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc37.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dtn31.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.025818,
+          38.896545,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Ford's Theatre National Historic Site ",
+        "description": "Ford's Theatre National Historic Site is located at 511 10th St., NW. It is open for tours from 9am to 5pm. The Box Office is open from 8:30am to 5pm. In the event of evening performances, the Box Office will remain open until 8pm. In the event of an evening History on Foot walking tour, the Box Office will remain open until the tour begins. The Petersen House is open from 9:30am to 5:30pm. Admission into the Ford's Theatre National Historic Site is free, but a ticket is required. Metro stop: Gallery Place/Chinatown",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc38.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/Dtn33.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01757,
+          38.897449,
+          0
+        ]
+      },
+      "properties": {
+        "name": "National Building Museum",
+        "description": "The Pension Building is located at F St. between 4th and 5th Sts., NW. National Building Museum regular hours are 10:00 am to 5:00 pm Monday through Saturday, and 11:00 am to 5:00 pm Sunday. Historic Building Tours are available daily at 11:30 am, 12:30 pm, and 1:30 pm. No reservations are required. The museum is closed on Thanksgiving Day and Christmas Day. For more information please call 202-272-2448. Metro stop: Judiciary Square.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc40.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/dtn37.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.023033,
+          38.889557,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The National Mall",
+        "description": "The National Mall is accessible to the public. Click on the National Park Service National Mall and Memorial Parks website for information on visiting the Washington Monument, Lincoln Memorial, Thomas Jefferson Memorial, WWII Memorial, Franklin Delano Roosevelt Memorial, Korean War Veterans Memorial, and Vietnam Veterans Memorial. A National Park Service Ranger Station is located on the Washington Monument grounds and is open from 8 am until midnight. For more information on ranger programs and National Mall activities call 202-426-6841. Visit the Parks & History Association's virtual tour of the FDR Memorial, one of the newest additions to the National Mall. Metro stop: Smithsonian",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc70.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/mall4.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01059,
+          38.889797,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The United States Capitol",
+        "description": "The Capitol is located on Capitol Hill at the east end of the National Mall. The Capitol Visitor center, the new main entrance to the U.S. Capitol, is located on the East front at First Street and East Capitol Street, NE. The Capitol Visitor Center is open to visitors from 8:30am to 4:30pm Monday through Saturday except for Thanksgiving Day, Christmas Day, New Year's Day, and Inauguration Day. Tours of the U.S. Capitol are conducted from 8:50am to 3:20pm Monday through Saturday. Visitors with official business appointments may enter the Vistor Center as early as 7:15am. Admission to the U.S. Capitol Vistor Center is free. However, passes are required for tours of the U.S. Capitol and may be needed for other special events. All visitors to the U.S. Capitol are required to go through security screening. Tours of the U.S. Capitol need to be scheduled in advance through the Advance Reservation System or through the office of one your Senators or your Representative. For further information, please call 202-226-8000 or visit the U.S. Capitol Visitors Center's website. Metro stop: Capitol South or Union Station.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc76.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/cap1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04998,
+          38.889278,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Lincoln Memorial",
+        "description": "The Lincoln Memorial, administered by the National Park Service, is on the west end of National Mall, located in West Potomac Park, in line with the US Capitol and the Washington Monument, bordered by Constitution, Independence Aves. and the Reflecting Pool. The memorial is open 8:00 am to 11:45 pm everyday except Christmas. Metro stop: Smithsonian",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc71.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/mall6.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.034859,
+          38.889454,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Washington Monument",
+        "description": "The Washington Monument is closed for repairs due to an earthquake on August 23, 2011. Visit the Washington Monument homepage for more information. Metro stop: Smithsonian",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc72.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/mall7.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03656,
+          38.881077,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Thomas Jefferson Memorial",
+        "description": "The Thomas Jefferson Memorial is located on the south bank of the Tidal Basin near downtown Washington, DC It is open daily from 8:00 am until 11:45 pm every day except Christmas Day. For more information call 202/426-6841. There are no fees to visit the Memorial. Metro stop: Smithsonian",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc73.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/mall8.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.074074,
+          38.882614,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Arlington House",
+        "description": "Arlington House is located in Arlington, Va., just across Memorial Bridge from the Lincoln Memorial. Check with your ranger at the door to see if guided tours will be offered during your visit. In lieu of a free guided tour, self-guided tours and audio (cell phone) tours of the house will be available during your visit. Arlington House is open to visitors every day from 9:30 a.m. to 4:30 p.m., with the exception of January 1st and December 25th when the Arlington National Cemetery is also closed. Metro stop: Arlington Cemetery.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc68.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/mall1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.055534,
+          38.887333,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Arlington Memorial Bridge",
+        "description": "Memorial Bridge runs across the Potomac River from the Lincoln Memorial to Arlington House in Virginia. Metro stop: Arlington Cemetery",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc69.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/mall3.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.026077,
+          38.888943,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Smithsonian Institution Building",
+        "description": "The Smithsonian Institution Building is located at 1000 Jefferson Dr., SW. It is open every day of the year, except December 25th, from 10:00 am to 5:30 pm. Extended summer hours are determined annually. Metro stop: Smithsonian",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc74.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/mall9.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.022896,
+          38.892319,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The National Archives",
+        "description": "The National Archives are located at 8th St. and Pennsylvania Ave., NW. Research hours are Monday and Wednesday from 8:45 am to 5:00 pm; Tuesday, Thursday and Friday 8:45 am to 9:00 pm; and Saturday 8:45 am to 4:45 pm. The Exhibit Hall is open every day except December 25. Winter hours are 10:00 am to 5:30 pm and summer (April 1 to Labor Day) hours are 10:00 am to 9:00 pm.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc75.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/mall11.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.005882,
+          38.886288,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Cannon House Office Building",
+        "description": "The Cannon House Office Building is located at Independence and New Jersey Aves., NE. The Russell Senate Office Building is located at Delaware and Constitution Aves., NE. Both buildings are open to the public during normal office hours while Congress is in session. For more information on touring the Capitol Complex, please call 202/225-6827. Cannon Metro stop: Capitol South; Russell Metro stop: Union Station",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc77.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/cap4.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.006889,
+          38.892792,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Russell Senate Office Building",
+        "description": "The Cannon House Office Building is located at Independence and New Jersey Aves., NE. The Russell Senate Office Building is located at Delaware and Constitution Aves., NE. Both buildings are open to the public during normal office hours while Congress is in session. For more information on touring the Capitol Complex, please call 202/225-6827. Cannon Metro stop: Capitol South; Russell Metro stop: Union Station",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc77.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/cap3.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.006401,
+          38.897774,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Union Station",
+        "description": "Union Station is located at 50 Massachusetts Ave., NE. Store hours are Monday through Saturday 10:00 am to 9:00 pm and Sunday from noon to 6:00 pm. The shops at Union Station are closed New Year's Day, Easter, Thanksgiving, and Christmas. For more information call 202/289-1908. Metro stop: Union Station",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc80.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/cap7.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.992119,
+          38.908417,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Gallaudet University ",
+        "description": "Gallaudet University is located on Florida Ave. between 6th and 9th Sts., NE . Guided tours of the University are scheduled from 9:00 am to 4:00 pm, Monday through Friday. Please schedule visits two or three weeks ahead of time. You can schedule your visit by calling the Visitors Center at 202-651-5050, 8:30 am to 5:00 pm, Monday through Friday or send an e-mail to: visitors.center@gallaudet.edu. Metro stop: New York Avenue-Florida Avenue-Gallaudet University Station.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc92.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/cap25.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98056,
+          38.881279,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Historic Congressional Cemetery",
+        "description": "Congressional Cemetery is located at 1801 E Street, SE, on Capitol Hill. The grounds are open every day from dawn to dusk. Free tours are given every Saturday from 11:00am to 1:00pm from April to October, and 10 theme self-guided walking tours are available at the visitor center and on the website. Metro stop: Potomac Avenue.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/DC_CongressionCemetery.html",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/main_gate.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.98558,
+              38.877605,
+              0
+            ],
+            [
+              -76.98571,
+              38.897648,
+              0
+            ],
+            [
+              -76.988281,
+              38.897579,
+              0
+            ],
+            [
+              -76.993088,
+              38.897579,
+              0
+            ],
+            [
+              -77.003693,
+              38.897713,
+              0
+            ],
+            [
+              -77.003601,
+              38.881012,
+              0
+            ],
+            [
+              -76.997833,
+              38.87904,
+              0
+            ],
+            [
+              -76.996071,
+              38.878555,
+              0
+            ],
+            [
+              -76.994888,
+              38.878223,
+              0
+            ],
+            [
+              -76.98558,
+              38.877605,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Capitol Hill Historic District",
+        "description": "The Capitol Hill Historic District is bounded by Virginia Ave., SE.; S. Capitol, 2nd Street and and F Sts., NE.; and 14th Sts., SE & NE. Most of the buildings are private residences and not open to the public. Metro stops: Union Station, E. Capitol, and Eastern Market.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc81.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/cap9.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.004463,
+          38.890564,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Supreme Court Building",
+        "description": "The Supreme Court Building is located at 1st and East Capitol Sts., NE. Self-guided exhibits on the main level are available for touring Monday through Friday, 9:00 am to 4:30 pm. Lectures on the Supreme Court are presented on the main level every hour on the half-hour, Monday through Friday, 9:00 am to 3:30 pm. For more information call, 202/479-3000.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc78.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/cap5.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.005959,
+          38.888729,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Library of Congress",
+        "description": "The Thomas Jefferson Building is located at Independence Ave. and 1st St., SE. Visitor hours are between 10:00 am and 5:30 pm Monday through Saturday. The John Adams Building is at 3rd St. and Independence Ave., SE. Visitor hours are 8:30 am to 9:30 pm on Mondays, Wednesdays and Thursdays and 8:30 am to 5:30 pm on Tuesdays, Fridays and Saturdays. The James Madison Building is located on Independence Ave. between 1st and 2nd Sts., SE. Visitor hours are from 8:30 am to 9:30 pm Monday through Friday and 8:30 am to 6:30 pm on Saturday. All Library of Congress buildings are closed to the public on Sundays and federal holidays. For more information, please call 202/707-8000. metro stop: Capitol South ",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc79.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/cap6.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.003868,
+          38.892612,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Sewall-Belmont House ",
+        "description": "The Sewall-Belmont House is located at 144 Constitution Ave., NE. The house is open for guided tours on Thursday, Friday and Saturday at 11:00 am, 1:00 pm and 3:00 pm. Contact grouptours@sewallbelmont.org or at the website www.sewallbelmont.org. Metro stop: Capital South, Union Station. ",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc82.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/cap11.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.002777,
+          38.889553,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Folger Shakespeare Library ",
+        "description": "The Folger Shakespeare Library is located at 201 East Capitol St., SE. It is open Monday through Saturday from 10:00 am to 4:00 pm. It is closed on all Federal holidays. Tours are regularly scheduled and no prior arrangements are necessary. Metro station: Capitol South or Union Station",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc83.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/cap12.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.001945,
+          38.888145,
+          0
+        ]
+      },
+      "properties": {
+        "name": "St. Mark's Episcopal Church ",
+        "description": "St. Mark's is located at 3rd and A Sts., SE. There is limited accessibility to the public.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc84.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/cap13.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.995857,
+          38.886223,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Eastern Market",
+        "description": "Eastern Market is located at 7th and C Sts., SE, across from the Eastern Market Metro Station. It is open to the public every day of the week except for Mondays.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc85.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/cap14.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.997581,
+          38.881828,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Christ Church",
+        "description": "Christ Church, Washington Parish is located at 620 G St., SE. Public access is limited. Metro stop: Eastern Market",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc86.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/Cap16.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.989868,
+          38.889839,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Lincoln Park",
+        "description": "Lincoln Park, maintained by the National Park Service, is a public park square that is accessible to the public.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc87.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/cap17.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.016144,
+          38.909176,
+          0
+        ]
+      },
+      "properties": {
+        "name": "The Marine Corps Museum",
+        "description": "The Marine Corps Museum is at 9th and M Sts., SE. It is open Monday through saturday from 10:00 am to 4:00 pm and on Sundays and holidays for noon until 5:00 pm. It is closed January 1st and December 25th.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc89.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/cap20.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.985062,
+          38.862801,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Frederick Douglass National Historic Site",
+        "description": "The Frederick Douglass National Historic Site, administered by the National Park Service, is located at 1411 W St., SE. It is open to the public daily from 9:00 am to 5:00 pm in the summer, and from 9:00 am to 4:00 pm in the fall and winter. The site is closed on Thanksgiving Day, Christmas Day and New Years Day. There is a fee to tour the home. For more information, please call 202/426-5961. The Frederick Douglass National Historic Site is not within close proximity to a Metro stop.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc91.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/Cap24.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.964935,
+          38.91674,
+          0
+        ]
+      },
+      "properties": {
+        "name": "National Arboretum",
+        "description": "The National Arboretum is located at 3501 New York Ave., NE. Arboretum grounds are open every day of the year except December 25th from 8:00 am to 5:00 pm. The Administration Building is open Monday through Friday 8:00 am to 4:30 p.m. and on weekends in spring through autumn. The Arbor House Gift Shop is open daily and on weekends from 10:00 am to 3:00 pm, March 1 through December 24. The National Bonsai and Penjing Museum is open daily from 10:00 am to 3:30 pm. National Arboretum is not within close proximity to a Metro station.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc94.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/cap28.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.940178,
+          38.913105,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kenilworth Gardens",
+        "description": "Kenilworth Aquatic Gardens is located in northeast Washington, DC, near the Maryland boundary along the tidal Anacostia River. The entrance to the Aquatic Gardens is just west of I-295 (Kenilworth Avenue), between Quarles and Douglas Sts., on Anacostia Ave. It is open daily from 7:00 am to 4:00 pm. For more information call 202/426-6905. The Gardens are not within close proximity to a Metro station.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/dc95.htm",
+        "description_url": "http://www.nps.gov/nr/travel/wash/buildings/cap30.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0382,
+          38.9202,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Meridian House",
+        "description": "Meridian House is located at 1630 Crescent Place, NW. Open Hours – 8:00am to 6:00pm, Monday through Friday, with additional open hours when an exhibition is on view in the Cafritz Galleries. The house is available for special event rentals. Call 202-667-6800 for further information or visit the website www.meridian.org. Metro stop: Dupont Circle or U Street.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/MeridianHouse.html",
+        "description_url": "http://www.nps.gov/nr/travel/wash/graphics/Meridian%20House%20entrance1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0375,
+          38.920278,
+          0
+        ]
+      },
+      "properties": {
+        "name": "White-Meyer House",
+        "description": "White-Meyer House is located at 1624 Crescent Place, NW. Open Hours – 8:00am to 6:00pm, Monday through Friday, with additional open hours when an exhibition is on view in the Cafritz Galleries. The house is available for special event rentals. Call 202-667-6800 for further information or visit the website www.meridian.org. Metro stop: Dupont Circle or U Street.",
+        "name_url": "http://www.nps.gov/nr/travel/wash/WhiteMeyerHouse.html",
+        "description_url": "http://www.nps.gov/nr/travel/wash/graphics/White-Meyer%20HouseEntrance.jpg"
+      }
+    }
+  ]
+}

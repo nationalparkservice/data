@@ -1,0 +1,2277 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38669443130493,
+          33.77835811405602
+        ]
+      },
+      "properties": {
+        "name": "The Academy of Medicine",
+        "description": "875 W. Peachtree St., in North West Atlanta not regularly open to the public",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/aca.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/cal1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.386711,
+          33.776482
+        ]
+      },
+      "properties": {
+        "name": "The Atlanta Biltmore Hotel and Biltmore Apartments",
+        "description": "30 5th St., in North East Atlanta, Tel. 404-962-8700",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/bil.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/bil2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.390434,
+          33.748734
+        ]
+      },
+      "properties": {
+        "name": "Atlanta City Hall",
+        "description": "68 Mitchell St., South West Atlanta, Tel. 404-330-6200 ",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/cit.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/Cit2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.404343,
+          33.772457
+        ]
+      },
+      "properties": {
+        "name": "The Atlanta Spring and Bed Company--Block Candy Company",
+        "description": "512 Means Street",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/asb.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/asb2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.363373,
+          33.741062
+        ]
+      },
+      "properties": {
+        "name": "Atlanta Stockade",
+        "description": "760 Glenwood Ave.,  Not open to the public",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/ast.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/ast1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.419889,
+          33.753479
+        ]
+      },
+      "properties": {
+        "name": "Booker T. Washington High School",
+        "description": "45 Whitehouse Dr. in Atlanta",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/boo.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/boo1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.355372,
+          33.727262
+        ]
+      },
+      "properties": {
+        "name": "Burns Cottage",
+        "description": "988 Alloway Place in Atlanta, Tel 770-471-0725",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/bur.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/bur1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.345688,
+          33.781998
+        ]
+      },
+      "properties": {
+        "name": "Callanwolde",
+        "description": "980 Briarcliff Road, North East in Atlanta, Tel. 404-872-5338",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/cal.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/cal1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.387901,
+          33.756866
+        ]
+      },
+      "properties": {
+        "name": "The Candler Building",
+        "description": "127 Peachtree St. in downtown Atlanta",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/can.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/Can3.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.389046,
+          33.749844
+        ]
+      },
+      "properties": {
+        "name": "Central Presbyterian Church",
+        "description": "201 Washington St., Atlanta, Tel. 404-659-0274",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/cen.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/cen1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38560545444489,
+          33.76383432733318
+        ]
+      },
+      "properties": {
+        "name": "Church of the Sacred Heart of Jesus",
+        "description": "353 Peachtree St. in downtown Atlanta, Tel. 404-522-6800",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/sac.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/sac1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.381943,
+          33.754406
+        ]
+      },
+      "properties": {
+        "name": "The Coca-Cola Building Annex",
+        "description": "187 Edgewood Ave, privately owned and not open to the public",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/coc.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/coc.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.384865,
+          33.781506
+        ]
+      },
+      "properties": {
+        "name": "Crescent Apartments",
+        "description": "979 Crescent Ave. in North Atlanta, Tel. 404-249-7019",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/cre.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/cre1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.384186,
+          33.754353
+        ]
+      },
+      "properties": {
+        "name": "Dixie Coca-Cola Bottling Company",
+        "description": "125 Edgewood Ave., at the corner of Edgewood Ave. and Courtland St.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/dix.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/dix1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.416229,
+          33.786228
+        ]
+      },
+      "properties": {
+        "name": "E. Van Winkle Gin and Machine Works",
+        "description": "1200 Foster St. in North West Atlanta",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/gin.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/GIN1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.381248,
+          33.772095
+        ]
+      },
+      "properties": {
+        "name": "The Edward C. Peters House",
+        "description": "179 Ponce de Leon Ave. in midtown Atlanta, Tel. 404-253-3324",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/pet.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/pet1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.388878,
+          33.756012
+        ]
+      },
+      "properties": {
+        "name": "English-American Building",
+        "description": "84 Peachtree St. in downtown Atlanta",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/goo.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/eng1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.363831,
+          33.772938
+        ]
+      },
+      "properties": {
+        "name": "Ford Motor Company Assembly Plant",
+        "description": "699 Ponce de Leon Avenue",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/for.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/ford2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.385582,
+          33.772614
+        ]
+      },
+      "properties": {
+        "name": "The Fox Theatre",
+        "description": "660 Peachtree St., North East Atlanta, Tel. 404-522-4345",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/fox.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/fox1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38807845115662,
+          33.74903599492548
+        ]
+      },
+      "properties": {
+        "name": "Georgia State Capitol",
+        "description": "206 Washington St. on Capitol Square in downtown Atlanta, Tel. 404-656-2844",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/geo.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/geo1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.385414,
+          33.748878
+        ]
+      },
+      "properties": {
+        "name": "Grady Hospital",
+        "description": "36 Butler St. in Atlanta, Not open to the public",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/gra.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/gra1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.379402,
+          33.788422
+        ]
+      },
+      "properties": {
+        "name": "Habersham Memorial Hall",
+        "description": "240 15th St.",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/old.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/hab1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.391243,
+          33.82869
+        ]
+      },
+      "properties": {
+        "name": "The Henry B. Tompkins House",
+        "description": "125 W. Wesley Rd. in North West Atlanta",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/105.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/tom1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.406761,
+          33.755959
+        ]
+      },
+      "properties": {
+        "name": "Herndon Home",
+        "description": "587 University Pl. in North West Atlanta, Tel 404-581-9813",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/her.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/her1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.387291,
+          33.754242
+        ]
+      },
+      "properties": {
+        "name": "Hurt Building",
+        "description": "50 Hurt Plaza in downtown Atlanta, Not open to the public",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/hur.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/hur1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.385735,
+          33.764534
+        ]
+      },
+      "properties": {
+        "name": "The Imperial Hotel",
+        "description": "355 Peachtree St",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/imp.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/imp2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.35936,
+          33.755886
+        ]
+      },
+      "properties": {
+        "name": "Inman Park",
+        "description": "Lies near the eastern boundary of the city of Atlanta and is due east of the financial center called Five Points.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/inm.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/inm3.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.422394,
+          33.73756
+        ]
+      },
+      "properties": {
+        "name": "The Joel Chandler Harris Home",
+        "description": "1050 Ralph David Abernathy Blvd. in Southwest Atlanta, off I-20 at exit 55A, Tel 404-753-7735 ",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/har.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/Har1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.500076,
+          33.768993
+        ]
+      },
+      "properties": {
+        "name": "Judge William Wilson House",
+        "description": "501 Fairburn Rd. in Atlanta, Not open to the public",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/wil.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/wil1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.59819,
+          33.954247
+        ]
+      },
+      "properties": {
+        "name": "Kennesaw Mountain National Battlefield Park",
+        "description": "Located three miles northwest of Marietta, Georgia.  Tel 770-427-4686 ",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/ken.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/ken2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.387802,
+          33.784924
+        ]
+      },
+      "properties": {
+        "name": "Dr. Marion Luther Brittain, Sr., House",
+        "description": "1109 W. Peachtree St. in North Atlanta",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/bri.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/bri1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.373154,
+          33.756126
+        ]
+      },
+      "properties": {
+        "name": "The Martin Luther King, Jr., National Historic Site",
+        "description": "Tel 404-331-5190",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/kin.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/kin1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.361618,
+          33.767384
+        ]
+      },
+      "properties": {
+        "name": "National NuGrape Company",
+        "description": "794 Ralph McGill Blvd.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/nug.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/nug1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.37513,
+          33.747814
+        ]
+      },
+      "properties": {
+        "name": "Oakland Cemetery",
+        "description": "248 Oakland Ave., NE, Tel. 404-688-2107",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/oak.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/oak2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.392479,
+          33.799446
+        ]
+      },
+      "properties": {
+        "name": "Peachtree Southern Railway",
+        "description": "Located at 1688 Peachtree St. in North Atlanta, Tel. 1-800-872-7245 ",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/pea.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/pea1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.392479,
+          33.799446
+        ]
+      },
+      "properties": {
+        "name": "College Park Airport",
+        "description": "Located at 1688 Peachtree St. in North Atlanta, Tel. 1-800-872-7245",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/col.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/collegepark_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.373917,
+          33.784286
+        ]
+      },
+      "properties": {
+        "name": "Piedmont Park",
+        "description": "Piedmont Park is bordered by 10th St., Southern Railway and Piedmont Rd., Tel. 404-875-7275",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/pie.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/pie2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.388229,
+          33.795982
+        ]
+      },
+      "properties": {
+        "name": "Rhodes Memorial Hall",
+        "description": "1516 Peachtree St., North West in Atlanta, Tel. 404-885-7800",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/rho.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/rho1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3895697593689,
+          33.75030719970899
+        ]
+      },
+      "properties": {
+        "name": "Shrine of the Immaculate Conception",
+        "description": "48 Martin Luther King Jr. Dr., Southeast in downtown Atlanta, Tel. 404-521-1866",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/pen.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/shr1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.383919,
+          33.775738
+        ]
+      },
+      "properties": {
+        "name": "St. Mark Methodist Church",
+        "description": "781 Peachtree St. in Atlanta, Tel. 404-873-2636 ",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/mar.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/mar1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.435722,
+          33.707848
+        ]
+      },
+      "properties": {
+        "name": "Staff Row and Old Post Area-Fort McPhereson",
+        "description": "The Staff Row and Old Post Area is located in the north east corner of Fort McPherson. The Fort is not accessible to the public.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/sta.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/STA_1900_NR.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.408951,
+          33.755089
+        ]
+      },
+      "properties": {
+        "name": "Stone Hall (Fountain Hall)",
+        "description": "Located on the grounds of Morris Brown College at 643 Martin Luther King, Jr. Dr.",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/bro.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/sto1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.386269,
+          33.841824
+        ]
+      },
+      "properties": {
+        "name": "Swan House",
+        "description": "Located at 130 West Paces Ferry Rd. in Northwest Atlanta, Tel. 404-814-4000 ",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/swa.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/Swa1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.389343,
+          33.798203
+        ]
+      },
+      "properties": {
+        "name": "The Temple",
+        "description": "1589 Peachtree St. in north Atlanta, Tel. 404-873-1731 ",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/mil.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/tem1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.386269,
+          33.841824
+        ]
+      },
+      "properties": {
+        "name": "The Tullie Smith House",
+        "description": "130 West Paces Ferry Rd. in Northwest Atlanta, Tel. 404-814-4000 ",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/pop.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/Tul1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.38942,
+          33.756584
+        ]
+      },
+      "properties": {
+        "name": "U.S. Post Office and Courthouse",
+        "description": "76 Forsyth St. in downtown Atlanta",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/pos.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/pos1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.390404,
+          33.753159
+        ]
+      },
+      "properties": {
+        "name": "The Western and Atlantic Railroad Zero Milepost",
+        "description": "Located under the Central Ave. viaduct, between Alabama and Wall Streets. It is inside a building that currently houses the Georgia State University Security Office.",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/ran.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/wes1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.380928,
+          33.777
+        ]
+      },
+      "properties": {
+        "name": "The William P. Nicolson House",
+        "description": "821 Piedmont Ave. in north Atlanta, Tel. 404-872-9290",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/nic.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/nic1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.413048,
+              33.733086
+            ],
+            [
+              -84.412613,
+              33.734531
+            ],
+            [
+              -84.408195,
+              33.734474
+            ],
+            [
+              -84.407829,
+              33.723465
+            ],
+            [
+              -84.410706,
+              33.723499
+            ],
+            [
+              -84.411606,
+              33.724091
+            ],
+            [
+              -84.412636,
+              33.725838
+            ],
+            [
+              -84.414589,
+              33.730495
+            ],
+            [
+              -84.413048,
+              33.733086
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Adair Park Historic District",
+        "description": "The Adair Park Historic District is roughly bounded by Metropolitan Pkwy., Lexington Ave., Norfolk Southern Railroad and Shelton Ave. The houses in the district are private residences and are not open to the public.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/ada.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/ada2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.377663,
+              33.788349
+            ],
+            [
+              -84.378647,
+              33.788776
+            ],
+            [
+              -84.380363,
+              33.788136
+            ],
+            [
+              -84.382378,
+              33.788883
+            ],
+            [
+              -84.383797,
+              33.788494
+            ],
+            [
+              -84.38781,
+              33.794662
+            ],
+            [
+              -84.387726,
+              33.796822
+            ],
+            [
+              -84.378029,
+              33.796749
+            ],
+            [
+              -84.377487,
+              33.797302
+            ],
+            [
+              -84.377701,
+              33.799744
+            ],
+            [
+              -84.377403,
+              33.802383
+            ],
+            [
+              -84.376587,
+              33.802456
+            ],
+            [
+              -84.376076,
+              33.802029
+            ],
+            [
+              -84.375023,
+              33.80135
+            ],
+            [
+              -84.375,
+              33.801029
+            ],
+            [
+              -84.370819,
+              33.795429
+            ],
+            [
+              -84.377663,
+              33.788349
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Ansley Park Historic District",
+        "description": "The Ansley Park Historic District is located in mid-town Atlanta and west of Piedmont Park, between Piedmont Ave. and Peachtree St. The houses in the district are private residences and are not open to the public, but there is more information and a virtual tour available through the Ansley Park Civic Association. Guided walking tours are also offered by The Atlanta Preservation Center.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/ans.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/ans1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.412918,
+              33.747253
+            ],
+            [
+              -84.406647,
+              33.746414
+            ],
+            [
+              -84.405556,
+              33.747501
+            ],
+            [
+              -84.405022,
+              33.748035
+            ],
+            [
+              -84.404694,
+              33.748608
+            ],
+            [
+              -84.40461,
+              33.748875
+            ],
+            [
+              -84.404655,
+              33.748875
+            ],
+            [
+              -84.406738,
+              33.749249
+            ],
+            [
+              -84.406456,
+              33.75462
+            ],
+            [
+              -84.406525,
+              33.755424
+            ],
+            [
+              -84.407936,
+              33.755405
+            ],
+            [
+              -84.407913,
+              33.756992
+            ],
+            [
+              -84.410126,
+              33.756924
+            ],
+            [
+              -84.410172,
+              33.754745
+            ],
+            [
+              -84.412918,
+              33.754692
+            ],
+            [
+              -84.412918,
+              33.747253
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Atlanta University Center District",
+        "description": "The Atlanta University Center Historic District is roughly bordered by the transit right-of-way, Northside Drive, Walnut, Fair, Roach, West End Dr., and Euralee and Chestnut Streets. The grounds of the University are open to the public.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/aud.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/aud1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.354958,
+              33.883739
+            ],
+            [
+              -84.356804,
+              33.881962
+            ],
+            [
+              -84.357323,
+              33.880569
+            ],
+            [
+              -84.358223,
+              33.879715
+            ],
+            [
+              -84.358353,
+              33.878895
+            ],
+            [
+              -84.357834,
+              33.877647
+            ],
+            [
+              -84.358261,
+              33.871342
+            ],
+            [
+              -84.358734,
+              33.869953
+            ],
+            [
+              -84.358047,
+              33.868027
+            ],
+            [
+              -84.358093,
+              33.854057
+            ],
+            [
+              -84.354103,
+              33.854736
+            ],
+            [
+              -84.35041,
+              33.85627
+            ],
+            [
+              -84.348862,
+              33.857517
+            ],
+            [
+              -84.346931,
+              33.857872
+            ],
+            [
+              -84.344101,
+              33.857479
+            ],
+            [
+              -84.341866,
+              33.858013
+            ],
+            [
+              -84.330582,
+              33.873764
+            ],
+            [
+              -84.327881,
+              33.875439
+            ],
+            [
+              -84.327621,
+              33.880428
+            ],
+            [
+              -84.333374,
+              33.88039
+            ],
+            [
+              -84.334358,
+              33.880962
+            ],
+            [
+              -84.337624,
+              33.880177
+            ],
+            [
+              -84.345818,
+              33.881283
+            ],
+            [
+              -84.350105,
+              33.882957
+            ],
+            [
+              -84.352211,
+              33.882565
+            ],
+            [
+              -84.354958,
+              33.883739
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Brookhaven Historic District",
+        "description": "Brookhaven Historic District is located in NE Atlanta, and roughly bounded by Peachtree Rd. on the south and east, Peachtree Dunwoody Rd. on the west, and Windsor Pkwy. on the north. The houses in the district are private residences and are not open to the public.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/bhd.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/bhd1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.392403,
+              33.808144
+            ],
+            [
+              -84.391777,
+              33.807198
+            ],
+            [
+              -84.391739,
+              33.806824
+            ],
+            [
+              -84.392082,
+              33.805843
+            ],
+            [
+              -84.392212,
+              33.804951
+            ],
+            [
+              -84.391182,
+              33.804951
+            ],
+            [
+              -84.390968,
+              33.804062
+            ],
+            [
+              -84.390579,
+              33.803257
+            ],
+            [
+              -84.390511,
+              33.802616
+            ],
+            [
+              -84.388779,
+              33.802616
+            ],
+            [
+              -84.387962,
+              33.803169
+            ],
+            [
+              -84.387642,
+              33.803951
+            ],
+            [
+              -84.387703,
+              33.807251
+            ],
+            [
+              -84.388069,
+              33.809746
+            ],
+            [
+              -84.392403,
+              33.808144
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Brookwood Hills Historic District",
+        "description": "Brookwood Hills Historic District, east of Peachtree Road, is roughly bounded by Huntington Road to the south and east, Northwood Avenue and Montclair Drive on the west, and Brighton Road to the north. The houses in the district are private residences and are not open to the public.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/bro.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/bro1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.371094,
+              33.751228
+            ],
+            [
+              -84.361801,
+              33.753246
+            ],
+            [
+              -84.362083,
+              33.746681
+            ],
+            [
+              -84.368088,
+              33.746647
+            ],
+            [
+              -84.368179,
+              33.748161
+            ],
+            [
+              -84.370277,
+              33.74966
+            ],
+            [
+              -84.371094,
+              33.751228
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Cabbagetown District",
+        "description": "The Cabbagetown District is bounded by Oakland Cemetery, Boulevard and Pearl Streets, Memorial Drive, and the Georgia Railroad tracks. The houses in the district are private residences and are not open to the public.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/cab.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/cab1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.397873,
+              33.75182
+            ],
+            [
+              -84.399765,
+              33.747608
+            ],
+            [
+              -84.401459,
+              33.745983
+            ],
+            [
+              -84.404396,
+              33.744328
+            ],
+            [
+              -84.404808,
+              33.744823
+            ],
+            [
+              -84.40358,
+              33.745823
+            ],
+            [
+              -84.402725,
+              33.748253
+            ],
+            [
+              -84.40242,
+              33.748714
+            ],
+            [
+              -84.400002,
+              33.751286
+            ],
+            [
+              -84.397873,
+              33.75182
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Castleberry Hill Historic District",
+        "description": "Castleberry Hill Historic District is roughly bounded by Nelson Street, Southern and Central of Georgia Railroad, McDaniel, Peters and Walker Streets. The shops within the district are open during normal business hours.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/cas.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/cas1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.335777,
+              33.794628
+            ],
+            [
+              -84.333755,
+              33.794662
+            ],
+            [
+              -84.332512,
+              33.79509
+            ],
+            [
+              -84.331352,
+              33.79541
+            ],
+            [
+              -84.330757,
+              33.795235
+            ],
+            [
+              -84.330795,
+              33.794376
+            ],
+            [
+              -84.330795,
+              33.793594
+            ],
+            [
+              -84.330368,
+              33.79295
+            ],
+            [
+              -84.329727,
+              33.792736
+            ],
+            [
+              -84.328911,
+              33.790955
+            ],
+            [
+              -84.328094,
+              33.790421
+            ],
+            [
+              -84.325859,
+              33.788136
+            ],
+            [
+              -84.323891,
+              33.786068
+            ],
+            [
+              -84.324364,
+              33.785854
+            ],
+            [
+              -84.323761,
+              33.783642
+            ],
+            [
+              -84.324318,
+              33.782215
+            ],
+            [
+              -84.323074,
+              33.78093
+            ],
+            [
+              -84.323891,
+              33.779148
+            ],
+            [
+              -84.325264,
+              33.778328
+            ],
+            [
+              -84.324921,
+              33.776615
+            ],
+            [
+              -84.326591,
+              33.777008
+            ],
+            [
+              -84.327705,
+              33.777222
+            ],
+            [
+              -84.328735,
+              33.775902
+            ],
+            [
+              -84.329979,
+              33.774796
+            ],
+            [
+              -84.330879,
+              33.773937
+            ],
+            [
+              -84.33316,
+              33.771942
+            ],
+            [
+              -84.341484,
+              33.771336
+            ],
+            [
+              -84.348694,
+              33.771229
+            ],
+            [
+              -84.348862,
+              33.775257
+            ],
+            [
+              -84.344955,
+              33.779541
+            ],
+            [
+              -84.343544,
+              33.78207
+            ],
+            [
+              -84.341827,
+              33.784534
+            ],
+            [
+              -84.339722,
+              33.78767
+            ],
+            [
+              -84.338997,
+              33.789455
+            ],
+            [
+              -84.337875,
+              33.791134
+            ],
+            [
+              -84.335777,
+              33.794628
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Druid Hills Historic District",
+        "description": "Druid Hills is roughly bounded by the Fulton County line on the west, Briarcliff Road to the northwest, just over the Emory Road line on the north and following the southside of Emory Road. The boundary cuts south and juts east around the Fernbank Forest and Recreational Center, then cuts east and south along tracks of the Seaboard Coast Line. South it is bordered by North Aveue and the Atlanta City Boundary. The houses in the district are private residences and are not open to the public, but there is more information available through the Druid Hills Civic Association. Walking tours are available at 10:00 am on Saturdays only from March to November. Twilight tours are also available.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/dru.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/dru2.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.325645,
+              33.788242
+            ],
+            [
+              -84.322411,
+              33.788403
+            ],
+            [
+              -84.320969,
+              33.788868
+            ],
+            [
+              -84.320946,
+              33.790382
+            ],
+            [
+              -84.324104,
+              33.79277
+            ],
+            [
+              -84.327599,
+              33.79163
+            ],
+            [
+              -84.328094,
+              33.790421
+            ],
+            [
+              -84.325645,
+              33.788242
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Emory University District",
+        "description": "The Emory University District is roughly bounded by N. Decatur Road, Oxford Road, Dickey Drive, Kilgo Circle, and Asbury Drive. The campus, comprising nine different colleges, is generally open to the public; tours are not offered regularly but can be arranged through the admission offices. The Michael C. Carlos Museum at 571 Kilgo Street is located on Emory University campus and houses a permanent collection of over 15,000 objects, spanning nearly 9,000 years from prehistoric cultures to the 20th century.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/emo.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/Emo2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.39212,
+              33.756557
+            ],
+            [
+              -84.39048,
+              33.754932
+            ],
+            [
+              -84.38942,
+              33.755646
+            ],
+            [
+              -84.388496,
+              33.756378
+            ],
+            [
+              -84.390114,
+              33.757938
+            ],
+            [
+              -84.39212,
+              33.756557
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Fairlie-Poplar Historic District",
+        "description": "The Fairlie-Poplar Historic District is roughly bounded by Marietta, Peachtree, Luckie and Cone Streets. Many of the businesses in the district are open to the public during normal businesses hours.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/fai.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/industrial_FivePoints.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.386246,
+              33.772968
+            ],
+            [
+              -84.386322,
+              33.772243
+            ],
+            [
+              -84.384041,
+              33.772316
+            ],
+            [
+              -84.384163,
+              33.772957
+            ],
+            [
+              -84.386246,
+              33.772968
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Fox Theatre Historic District",
+        "description": "Within the Fox Theatre Historic District, the Georgian Terrace Hotel is located at 659 Peachtree Street in downtown Atlanta and is open during normal business hours; visit the hotel's website at www.thegeorgianterrace.com for more information. The Ponce de Leon Apartments at 79 Ponce de Leon Ave. are private residences and not open to the public. However, the shops in the lower levels of the building are open during normal business hours. The district also includes the Fox Theatre.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/fhd.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/FHD2_georgianterrace&PonceDeLeon.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.383194,
+              33.833652
+            ],
+            [
+              -84.380791,
+              33.833546
+            ],
+            [
+              -84.38028,
+              33.832832
+            ],
+            [
+              -84.379013,
+              33.832191
+            ],
+            [
+              -84.377937,
+              33.832191
+            ],
+            [
+              -84.376717,
+              33.831177
+            ],
+            [
+              -84.375214,
+              33.831604
+            ],
+            [
+              -84.371391,
+              33.831551
+            ],
+            [
+              -84.36998,
+              33.831425
+            ],
+            [
+              -84.369377,
+              33.830853
+            ],
+            [
+              -84.368179,
+              33.831352
+            ],
+            [
+              -84.368027,
+              33.837021
+            ],
+            [
+              -84.371391,
+              33.843777
+            ],
+            [
+              -84.376137,
+              33.840748
+            ],
+            [
+              -84.377747,
+              33.840321
+            ],
+            [
+              -84.378387,
+              33.840229
+            ],
+            [
+              -84.379807,
+              33.8395
+            ],
+            [
+              -84.383194,
+              33.833652
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Garden Hills Historic District",
+        "description": "Garden Hills Historic District is located in Northeast Atlanta and is roughly bounded by Delmont, Brentwood, and North Hills Drives, Piedmont, East Wesley and Peachtree Roads. The houses in the district are private residences and are not open to the public.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/gar.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/gar1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.393585,
+              33.776989
+            ],
+            [
+              -84.395302,
+              33.777061
+            ],
+            [
+              -84.395897,
+              33.777737
+            ],
+            [
+              -84.395554,
+              33.771263
+            ],
+            [
+              -84.392082,
+              33.771297
+            ],
+            [
+              -84.391953,
+              33.774048
+            ],
+            [
+              -84.393585,
+              33.776989
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Georgia Institute of Technology Historic District",
+        "description": "The Georgia Institute of Technology Historic District is roughly bounded by Fowler, Third, and Cherry sts. and North Ave. in north Atlanta. Campus tours are offered Monday-Friday at 11:00am and 2:00pm, except holidays. Call 404-894-1939 or visit the Georgia Tech website for more information.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/git.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/git1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.362877,
+              33.733727
+            ],
+            [
+              -84.362808,
+              33.730194
+            ],
+            [
+              -84.373413,
+              33.730301
+            ],
+            [
+              -84.380577,
+              33.730373
+            ],
+            [
+              -84.380623,
+              33.739456
+            ],
+            [
+              -84.380646,
+              33.742664
+            ],
+            [
+              -84.373367,
+              33.743256
+            ],
+            [
+              -84.368301,
+              33.742596
+            ],
+            [
+              -84.366119,
+              33.742558
+            ],
+            [
+              -84.363716,
+              33.741131
+            ],
+            [
+              -84.362877,
+              33.733727
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Grant Park Historic District",
+        "description": "The Grant Park Historic District is bounded by Glenwood and Atlanta Avenues and Kelly and Eloise Streets. Walking tours are available at 10:00 am on Sundays from March-November.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/ghd.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/ghd1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.394485,
+              33.751831
+            ],
+            [
+              -84.394554,
+              33.751732
+            ],
+            [
+              -84.395561,
+              33.752285
+            ],
+            [
+              -84.395493,
+              33.752361
+            ],
+            [
+              -84.394485,
+              33.751831
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Hotel Row Historic District",
+        "description": "Hotel Row includes 205 through 235 Mitchell Streets (odd numbers only). The first floor shops are open during normal business hours.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/hot.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/hot1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.427269,
+              33.786209
+            ],
+            [
+              -84.427231,
+              33.781216
+            ],
+            [
+              -84.425064,
+              33.781254
+            ],
+            [
+              -84.425102,
+              33.782715
+            ],
+            [
+              -84.423988,
+              33.78273
+            ],
+            [
+              -84.423882,
+              33.785496
+            ],
+            [
+              -84.424911,
+              33.785709
+            ],
+            [
+              -84.427269,
+              33.786209
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Howell Station Historic District",
+        "description": "The Howell Station Historic District is generally bounded by West Marietta, Rice, Baylor and Herndon Streets, Niles Circle and Longley Avenue. The houses in the district are private residences and are not open to the public.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/how.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/how1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.358009,
+              33.761559
+            ],
+            [
+              -84.358131,
+              33.762951
+            ],
+            [
+              -84.356293,
+              33.764057
+            ],
+            [
+              -84.353539,
+              33.766342
+            ],
+            [
+              -84.35218,
+              33.768581
+            ],
+            [
+              -84.350891,
+              33.768559
+            ],
+            [
+              -84.349098,
+              33.767803
+            ],
+            [
+              -84.349037,
+              33.766289
+            ],
+            [
+              -84.349251,
+              33.764931
+            ],
+            [
+              -84.349274,
+              33.759991
+            ],
+            [
+              -84.352814,
+              33.757812
+            ],
+            [
+              -84.359505,
+              33.755299
+            ],
+            [
+              -84.364273,
+              33.75462
+            ],
+            [
+              -84.364357,
+              33.756905
+            ],
+            [
+              -84.36097,
+              33.759205
+            ],
+            [
+              -84.358009,
+              33.761559
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "The Inman Park-Moreland Historic District",
+        "description": "The Inman Park-Moreland Historic District is bordered on the north and northwest around Seminole, Cleburne, and North Highway Avenues. The houses in the district are private residences and are not open to the public, but the commercial shops are open to the public during normal business hours.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/ihd.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/ihd1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.44429,
+              33.753853
+            ],
+            [
+              -84.444183,
+              33.749966
+            ],
+            [
+              -84.441902,
+              33.747555
+            ],
+            [
+              -84.431412,
+              33.747414
+            ],
+            [
+              -84.430534,
+              33.750141
+            ],
+            [
+              -84.429871,
+              33.750748
+            ],
+            [
+              -84.429245,
+              33.751678
+            ],
+            [
+              -84.428474,
+              33.753426
+            ],
+            [
+              -84.428902,
+              33.754086
+            ],
+            [
+              -84.42907,
+              33.754906
+            ],
+            [
+              -84.429352,
+              33.755459
+            ],
+            [
+              -84.429741,
+              33.756313
+            ],
+            [
+              -84.44429,
+              33.753853
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Mozley Park Historic District",
+        "description": "Mozley Park Historic District is roughly bounded by Westview Drive, West Lake Avenue, Seaboard Coast Line Railroad tracks, and Rockmark and Martin Luther King, Jr. Drives. The houses in the district are private residences and are not open to the public. Mozley Park at 1565 Martin Luther King, Jr., Dr. is open 6:00am to 11:00pm daily.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/moz.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/moz1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.169159,
+              33.798676
+            ],
+            [
+              -84.174736,
+              33.803844
+            ],
+            [
+              -84.174889,
+              33.806843
+            ],
+            [
+              -84.175446,
+              33.810497
+            ],
+            [
+              -84.173706,
+              33.810532
+            ],
+            [
+              -84.172379,
+              33.810905
+            ],
+            [
+              -84.171494,
+              33.809338
+            ],
+            [
+              -84.170486,
+              33.80513
+            ],
+            [
+              -84.169159,
+              33.798676
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Stone Mountain Historic District",
+        "description": "Stone Mountain Historic District is located in east central DeKalb County, 10 miles east of Atlanta on route 10. The district is roughly bounded by Stone Mountain Cemetery, Stone Mountain Memorial Park, Lucile St., CSX Railroad, VFW Dr., and the city limits. It contains several commercial shops which are open to the public during normal business hours, and many private residences which are not open to the public. Stone Mountain Park is not within the historic district, but is located adjacent to the town.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/stm.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/stm1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.384293,
+              33.756207
+            ],
+            [
+              -84.38427,
+              33.755245
+            ],
+            [
+              -84.378693,
+              33.755211
+            ],
+            [
+              -84.378647,
+              33.756207
+            ],
+            [
+              -84.384293,
+              33.756207
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sweet Auburn Historic District",
+        "description": "Sweet Auburn Historic District is located along Auburn Avenue, generally between Courtland Street and I-75/85 in downtown Atlanta. Walking tour maps are available through the Atlanta Convention and Visitors Bureau, 404-222-6688.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/aub.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/aub1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.393387,
+              33.752819
+            ],
+            [
+              -84.388397,
+              33.750027
+            ],
+            [
+              -84.386497,
+              33.7523
+            ],
+            [
+              -84.388908,
+              33.753906
+            ],
+            [
+              -84.389877,
+              33.754379
+            ],
+            [
+              -84.391052,
+              33.75536
+            ],
+            [
+              -84.391975,
+              33.754799
+            ],
+            [
+              -84.393387,
+              33.752819
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Underground Atlanta Historic District",
+        "description": "Underground Atlanta, a shopping and entertainment district, is open to the public during normal business hours. ",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/und.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/und2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.417656,
+              33.754692
+            ],
+            [
+              -84.417633,
+              33.761719
+            ],
+            [
+              -84.419205,
+              33.761883
+            ],
+            [
+              -84.419609,
+              33.762024
+            ],
+            [
+              -84.419823,
+              33.762505
+            ],
+            [
+              -84.420532,
+              33.762684
+            ],
+            [
+              -84.420685,
+              33.763557
+            ],
+            [
+              -84.427162,
+              33.763485
+            ],
+            [
+              -84.427162,
+              33.761936
+            ],
+            [
+              -84.425278,
+              33.760757
+            ],
+            [
+              -84.425621,
+              33.757584
+            ],
+            [
+              -84.426346,
+              33.753513
+            ],
+            [
+              -84.423019,
+              33.754673
+            ],
+            [
+              -84.417656,
+              33.754692
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Washington Park Historic District",
+        "description": "The Washington Park Historic District is generally bounded by Ashby Street, Martin Luther King Jr. Drive, Simpson Street and Ashby Terrace. The houses in the district are private residences and are not open to the public.",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/was.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/was1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.415855,
+              33.729389
+            ],
+            [
+              -84.413689,
+              33.732407
+            ],
+            [
+              -84.413002,
+              33.733833
+            ],
+            [
+              -84.412933,
+              33.738277
+            ],
+            [
+              -84.412468,
+              33.740025
+            ],
+            [
+              -84.411606,
+              33.741344
+            ],
+            [
+              -84.419693,
+              33.74165
+            ],
+            [
+              -84.423409,
+              33.743149
+            ],
+            [
+              -84.425659,
+              33.744377
+            ],
+            [
+              -84.430428,
+              33.746628
+            ],
+            [
+              -84.432121,
+              33.745003
+            ],
+            [
+              -84.432335,
+              33.744415
+            ],
+            [
+              -84.432526,
+              33.738937
+            ],
+            [
+              -84.428024,
+              33.736137
+            ],
+            [
+              -84.415855,
+              33.729389
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "West End Historic District",
+        "description": "West End Historic District, in the southwest section of Atlanta, is roughly bounded by I-20 to the north, Lee Street to the east, White Street to the south, and Langhorn Street to the west. The Hammonds House, located at 503 Peeples Street, is open to the public Tuesday-Friday from 10:00am to 6:00pm; Saturday-Sunday from 1:00pm to 5:00pm. Call 404-752-8730 for more information. ",
+        "name_url": "http://www.nps.gov/nr/travel/atlanta/whd.htm",
+        "description_url": "http://www.nps.gov/nr/travel/atlanta/buildings/whd4.jpg"
+      }
+    }
+  ]
+}

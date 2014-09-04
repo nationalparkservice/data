@@ -1,0 +1,1349 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.959444,
+          38.498889
+        ]
+      },
+      "properties": {
+        "name": "John Brown Cabin",
+        "description": "Kansas",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ks1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images//browncabin_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.676389,
+          40.899444
+        ]
+      },
+      "properties": {
+        "name": "Tabor Antislavery Historic District",
+        "description": "Iowa",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ia1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images//todd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.103472,
+          41.30325
+        ]
+      },
+      "properties": {
+        "name": "George B. Hitchcock House",
+        "description": "Iowa",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ia2.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/hitchcock_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.688056,
+          40.828333
+        ]
+      },
+      "properties": {
+        "name": "Henderson Lewelling House",
+        "description": "Iowa",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ia2.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/henderson_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.734722,
+          41.56
+        ]
+      },
+      "properties": {
+        "name": "Jordan House",
+        "description": "Iowa",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ia4.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/jordan_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.936389,
+          42.776944
+        ]
+      },
+      "properties": {
+        "name": "Milton House",
+        "description": "Wisconsin",
+        "name_url": "http://www.nps.gov/nr/travel/underground/wi1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/milton_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.450833,
+          41.373056
+        ]
+      },
+      "properties": {
+        "name": "Owen Lovejoy House",
+        "description": "Illinois",
+        "name_url": "http://www.nps.gov/nr/travel/underground/il1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/lovejoy_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.841111,
+          41.34
+        ]
+      },
+      "properties": {
+        "name": "John Hossack House",
+        "description": "Illinois",
+        "name_url": "http://www.nps.gov/nr/travel/underground/il2.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/hossack_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.409504,
+          39.930986
+        ]
+      },
+      "properties": {
+        "name": "Dr. Richard Eells House",
+        "description": "Illinois",
+        "name_url": "http://www.nps.gov/nr/travel/underground/il3.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/eells_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.629722,
+          42.116389
+        ]
+      },
+      "properties": {
+        "name": "Dr. Nathan Thomas House",
+        "description": "Michigan",
+        "name_url": "http://www.nps.gov/nr/travel/underground/mi1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/thomas_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.043433,
+          42.334892
+        ]
+      },
+      "properties": {
+        "name": "Second Baptist Church",
+        "description": "Michigan",
+        "name_url": "http://www.nps.gov/nr/travel/underground/mi2.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/second_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.165556,
+          39.773056
+        ]
+      },
+      "properties": {
+        "name": "Bethel AME Church",
+        "description": "Indiana",
+        "name_url": "http://www.nps.gov/nr/travel/underground/in1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/bethel_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.917361,
+          39.95625
+        ]
+      },
+      "properties": {
+        "name": "Levi Coffin House",
+        "description": "Indiana",
+        "name_url": "http://www.nps.gov/nr/travel/underground/in2.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/coffin_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.516389,
+          38.830833
+        ]
+      },
+      "properties": {
+        "name": "Eleutherian College Classroom and Chapel Building",
+        "description": "Indiana",
+        "name_url": "http://www.nps.gov/nr/travel/underground/in3.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/eleutherian_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.487658,
+          39.133022
+        ]
+      },
+      "properties": {
+        "name": "Harriet Beecher Stowe House",
+        "description": "Ohio",
+        "name_url": "http://www.nps.gov/nr/travel/underground/oh1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/stowe_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.849167,
+          38.75
+        ]
+      },
+      "properties": {
+        "name": "John P. Parker House",
+        "description": "Ohio",
+        "name_url": "http://www.nps.gov/nr/travel/underground/oh2.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/parker_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.842222,
+          38.751111
+        ]
+      },
+      "properties": {
+        "name": "John Rankin House",
+        "description": "Ohio",
+        "name_url": "http://www.nps.gov/nr/travel/underground/oh3.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/rankin_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.799339,
+          40.175772
+        ]
+      },
+      "properties": {
+        "name": "Village of Mt. Pleasant Historic District",
+        "description": "Ohio",
+        "name_url": "http://www.nps.gov/nr/travel/underground/oh4.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/mtpleasant_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.216389,
+          41.288611
+        ]
+      },
+      "properties": {
+        "name": "Wilson Bruce Evans House",
+        "description": "Ohio",
+        "name_url": "http://www.nps.gov/nr/travel/underground/oh5.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/evans_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.705277,
+          41.455555
+        ]
+      },
+      "properties": {
+        "name": "Rush R. Sloane House",
+        "description": "Ohio",
+        "name_url": "http://www.nps.gov/nr/travel/underground/oh6.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/sloane_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.842222,
+          40.892222
+        ]
+      },
+      "properties": {
+        "name": "Daniel Howell Hise House",
+        "description": "Ohio",
+        "name_url": "http://www.nps.gov/nr/travel/underground/oh7.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/hise_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.804722,
+          41.899722
+        ]
+      },
+      "properties": {
+        "name": "Col. William Hubbard House",
+        "description": "Ohio",
+        "name_url": "http://www.nps.gov/nr/travel/underground/oh8.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/hubbard_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.863333,
+          40.408056
+        ]
+      },
+      "properties": {
+        "name": "Reuben Benedict House",
+        "description": "Ohio",
+        "name_url": "http://www.nps.gov/nr/travel/underground/oh9.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/benedict_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.544583,
+          39.191878
+        ]
+      },
+      "properties": {
+        "name": "Samuel and Sally Wilson House",
+        "description": "Ohio",
+        "name_url": "http://www.nps.gov/nr/travel/underground/oh10.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/wilson_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.795278,
+          40.0775
+        ]
+      },
+      "properties": {
+        "name": "James and Sophia Clemens Farmstead",
+        "description": "Ohio",
+        "name_url": "http://www.nps.gov/nr/travel/underground/oh11.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/clemens_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.506281,
+          40.812428
+        ]
+      },
+      "properties": {
+        "name": "Spring Hill",
+        "description": "Ohio",
+        "name_url": "http://www.nps.gov/nr/travel/underground/oh12.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/springhill_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.013192,
+          39.940345
+        ]
+      },
+      "properties": {
+        "name": "Putnam Historic District",
+        "description": "Ohio",
+        "name_url": "http://www.nps.gov/nr/travel/underground/oh13.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/putnam_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.243333,
+          40.168889
+        ]
+      },
+      "properties": {
+        "name": "F. Julius LeMoyne House",
+        "description": "Pennsylvania",
+        "name_url": "http://www.nps.gov/nr/travel/underground/pa1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/lemoyne_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.659444,
+          39.938889
+        ]
+      },
+      "properties": {
+        "name": "John Brown House",
+        "description": "Pennsylvania",
+        "name_url": "http://www.nps.gov/nr/travel/underground/pa2.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/brownhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.918056,
+          40.3375
+        ]
+      },
+      "properties": {
+        "name": "Bethel AME Church",
+        "description": "Pennsylvania",
+        "name_url": "http://www.nps.gov/nr/travel/underground/pa3.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/zion_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.621667,
+          39.860833
+        ]
+      },
+      "properties": {
+        "name": "Oakdale",
+        "description": "Pennsylvania",
+        "name_url": "http://www.nps.gov/nr/travel/underground/pa4.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/oakdale_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.505278,
+          40.118333
+        ]
+      },
+      "properties": {
+        "name": "White Horse Farm",
+        "description": "Pennsylvania",
+        "name_url": "http://www.nps.gov/nr/travel/underground/pa5.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/whitehorse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.181111,
+          40.043333
+        ]
+      },
+      "properties": {
+        "name": "Johnson House",
+        "description": "Pennsylvania",
+        "name_url": "http://www.nps.gov/nr/travel/underground/pa6.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/johnson_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.567781,
+          42.911103
+        ]
+      },
+      "properties": {
+        "name": "Harriet Tubman Home for the Aged, Residence, and Thompson AME Zion Church",
+        "description": "New York",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ny1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/aged_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.505,
+          42.437778
+        ]
+      },
+      "properties": {
+        "name": "St. James AME Zion Church",
+        "description": "New York",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ny2.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/stjames_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.687089,
+          42.967647
+        ]
+      },
+      "properties": {
+        "name": "Gerrit Smith Estate and Land Office",
+        "description": "New York",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ny3.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/gerrit_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971799,
+          44.25224
+        ]
+      },
+      "properties": {
+        "name": "John Brown Farm and Gravesite",
+        "description": "New York",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ny4.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/brownfarm_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.863889,
+          41.079444
+        ]
+      },
+      "properties": {
+        "name": "Foster Memorial AME Zion Church",
+        "description": "New York",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ny5.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/foster_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.993556,
+          40.699278
+        ]
+      },
+      "properties": {
+        "name": "Plymouth Church of the Pilgrims",
+        "description": "New York",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ny6.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/plymouth_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.238033,
+          44.222411
+        ]
+      },
+      "properties": {
+        "name": "Rokeby",
+        "description": "Vermont",
+        "name_url": "http://www.nps.gov/nr/travel/underground/vt1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/rokeby_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.960833,
+          43.912778
+        ]
+      },
+      "properties": {
+        "name": "Harriet Beecher Stowe House",
+        "description": "Maine",
+        "name_url": "http://www.nps.gov/nr/travel/underground/me1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/beecher_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.064722,
+          42.36
+        ]
+      },
+      "properties": {
+        "name": "Boston African American National Historic Site",
+        "description": "Massachusetts",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ma1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/baanhs_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.093889,
+          42.326111
+        ]
+      },
+      "properties": {
+        "name": "William Lloyd Garrison House",
+        "description": "Massachusetts",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ma2.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/garrison_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.116944,
+          42.335556
+        ]
+      },
+      "properties": {
+        "name": "William Ingersoll Bowditch House",
+        "description": "Massachusetts",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ma3.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/bowditch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.333056,
+          42.458889
+        ]
+      },
+      "properties": {
+        "name": "The Wayside",
+        "description": "Massachusetts",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ma4.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/wayside_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.86,
+          42.280556
+        ]
+      },
+      "properties": {
+        "name": "Liberty Farm",
+        "description": "Massachusetts",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ma5.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/liberty_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.928889,
+          41.633056
+        ]
+      },
+      "properties": {
+        "name": "Nathan and Mary Johnson Properties",
+        "description": "Massachusetts",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ma6.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/nathan_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.195278,
+          42.355278
+        ]
+      },
+      "properties": {
+        "name": "Jackson Homestead",
+        "description": "Massachusetts",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ma7.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/jackson_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.680278,
+          42.333889
+        ]
+      },
+      "properties": {
+        "name": "Ross Farm",
+        "description": "Massachusetts",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ma8.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/ross_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.671667,
+          42.331111
+        ]
+      },
+      "properties": {
+        "name": "Dorsey-Jones House",
+        "description": "Massachusetts",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ma9.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/jones_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.827972,
+          41.722639
+        ]
+      },
+      "properties": {
+        "name": "Austin F. Williams House and Carriage House",
+        "description": "Massachusetts",
+        "name_url": "http://www.nps.gov/nr/travel/underground/ma10.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/williams_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4375,
+          40.875556
+        ]
+      },
+      "properties": {
+        "name": "Grimes Homestead",
+        "description": "New Jersey",
+        "name_url": "http://www.nps.gov/nr/travel/underground/nj1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/grimes_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.036111,
+          39.867222
+        ]
+      },
+      "properties": {
+        "name": "Peter Mott House",
+        "description": "New Jersey",
+        "name_url": "http://www.nps.gov/nr/travel/underground/nj2.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/mott_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.33,
+          39.401667
+        ]
+      },
+      "properties": {
+        "name": "Bethel AME Church",
+        "description": "New Jersey",
+        "name_url": "http://www.nps.gov/nr/travel/underground/nj3.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/njbethel_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.297222,
+          39.765
+        ]
+      },
+      "properties": {
+        "name": "Mount Zion AME Church and Cemetery",
+        "description": "New Jersey",
+        "name_url": "http://www.nps.gov/nr/travel/underground/nj4.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/mountzion_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.665278,
+          39.456667
+        ]
+      },
+      "properties": {
+        "name": "Appopquinimink Friends Meeting House",
+        "description": "Delaware",
+        "name_url": "http://www.nps.gov/nr/travel/underground/de1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/friends_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.554722,
+          39.741944
+        ]
+      },
+      "properties": {
+        "name": "Friends Meeting House",
+        "description": "Delaware",
+        "name_url": "http://www.nps.gov/nr/travel/underground/de2.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/meetinghouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.985278,
+          38.863333
+        ]
+      },
+      "properties": {
+        "name": "Frederick Douglass National Historic Site",
+        "description": "Washington DC",
+        "name_url": "http://www.nps.gov/nr/travel/underground/dc1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/douglass_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.035556,
+          38.919444
+        ]
+      },
+      "properties": {
+        "name": "Mary Ann Shadd Cary House",
+        "description": "Washington DC",
+        "name_url": "http://www.nps.gov/nr/travel/underground/dc2.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/cary_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.715556,
+          39.379722
+        ]
+      },
+      "properties": {
+        "name": "John Brown's Headquarters",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/underground/md1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/brown_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.058889,
+          38.804167
+        ]
+      },
+      "properties": {
+        "name": "Bruin's Slave Jail",
+        "description": "Virginia",
+        "name_url": "http://www.nps.gov/nr/travel/underground/va1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/bruin_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.859811,
+          39.289106
+        ]
+      },
+      "properties": {
+        "name": "Jefferson County Courthouse",
+        "description": "West Virginia",
+        "name_url": "http://www.nps.gov/nr/travel/underground/wv1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/jefferson_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.729722,
+          39.322778
+        ]
+      },
+      "properties": {
+        "name": "Harpers Ferry National Historical Park",
+        "description": "West Virginia",
+        "name_url": "http://www.nps.gov/nr/travel/underground/wv2.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/harpersferry_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.016667,
+          29.933333
+        ]
+      },
+      "properties": {
+        "name": "British Fort",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/nr/travel/underground/fl1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/british_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.325278,
+          29.927778
+        ]
+      },
+      "properties": {
+        "name": "Fort Mose Site",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/nr/travel/underground/fl2.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/mose_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.001111,
+          39.75
+        ]
+      },
+      "properties": {
+        "name": "Barney L. Ford Building",
+        "description": "Colorado",
+        "name_url": "http://www.nps.gov/nr/travel/underground/co1.htm",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/ford_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.248299,
+          43.665016
+        ]
+      },
+      "properties": {
+        "name": "Abyssinian Meeting House",
+        "description": "Maine",
+        "name_url": "http://www.nps.gov/nr/travel/underground/absmeethouse.html",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/absmeetinghouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.164444,
+          43.420833
+        ]
+      },
+      "properties": {
+        "name": "Asa and Caroline Winghouse",
+        "description": "New York",
+        "name_url": "http://www.nps.gov/nr/travel/underground/Asa_and Caroline_Wing_ House.html",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/Asa_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.246944,
+          39.731389
+        ]
+      },
+      "properties": {
+        "name": "Beecher Hall",
+        "description": "Illinois",
+        "name_url": "http://www.nps.gov/nr/travel/underground/Beecher_hall.html",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/beecherhall_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.598056,
+          37.787778
+        ]
+      },
+      "properties": {
+        "name": "Camp Nelson",
+        "description": "Kentucky",
+        "name_url": "http://www.nps.gov/nr/travel/underground/Camp_Nelson.html",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/campnelson_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.500556,
+          43.456667
+        ]
+      },
+      "properties": {
+        "name": "Edwin W. Clarke House",
+        "description": "New York",
+        "name_url": "http://www.nps.gov/nr/travel/underground/Clarke_House.html",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/clarke_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.504444,
+          43.454722
+        ]
+      },
+      "properties": {
+        "name": "John P. And Lydia Edwards House",
+        "description": "New York",
+        "name_url": "http://www.nps.gov/nr/travel/underground/Edwards_House.html",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/edwards_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.870028,
+          40.673333
+        ]
+      },
+      "properties": {
+        "name": "Mayhew Cabin",
+        "description": "Nebraska",
+        "name_url": "http://www.nps.gov/nr/travel/underground/Mayhew_Cabin.html",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/mayhew_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3075,
+          37.003611
+        ]
+      },
+      "properties": {
+        "name": "Fort Monroe",
+        "description": "Virginia",
+        "name_url": "http://www.nps.gov/nr/travel/underground/Fort_Monroe.html",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/monroe_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.52048,
+          38.832141
+        ]
+      },
+      "properties": {
+        "name": "Lyman Hoyt House",
+        "description": "Indiana",
+        "name_url": "http://www.nps.gov/nr/travel/underground/Lyman_Hoyt_House.html",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/hoyt_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.46898,
+          38.32177
+        ]
+      },
+      "properties": {
+        "name": "Moncure Conway House",
+        "description": "Virginia",
+        "name_url": "http://www.nps.gov/nr/travel/underground/moncureconway.html",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/moncure_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14542,
+          42.37038
+        ]
+      },
+      "properties": {
+        "name": "Mount Auburn Cemetary",
+        "description": "Massachusetts",
+        "name_url": "http://www.nps.gov/nr/travel/underground/Mount_Auburn_Cemetery.html",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/auburn_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.56344,
+          39.65972
+        ]
+      },
+      "properties": {
+        "name": "New Castle County Courthouse",
+        "description": "Delaware",
+        "name_url": "http://www.nps.gov/nr/travel/underground/New_Castle_County_Courthouse.html",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/nccc_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.23515,
+          43.45984
+        ]
+      },
+      "properties": {
+        "name": "Orson Ames House",
+        "description": "New York",
+        "name_url": "http://www.nps.gov/nr/travel/underground/Orson_Ames_House.html",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/ames_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.121389,
+          39.043889
+        ]
+      },
+      "properties": {
+        "name": "Riley Bolten House",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/underground/rileybolten.html",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/bolten_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.02731,
+          39.65578
+        ]
+      },
+      "properties": {
+        "name": "Rutherford House",
+        "description": "Illinois",
+        "name_url": "http://www.nps.gov/nr/travel/underground/rutherford.html",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/rutherford_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.22839,
+          43.45955
+        ]
+      },
+      "properties": {
+        "name": "Starr Clark Tinshop",
+        "description": "New York",
+        "name_url": "http://www.nps.gov/nr/travel/underground/Starr_Clark_Tinshop.html",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/tinshop_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06212,
+          38.89559
+        ]
+      },
+      "properties": {
+        "name": "Theodore Roosevelt Island",
+        "description": "Virginia",
+        "name_url": "http://www.nps.gov/nr/travel/underground/THEODORE_ROOSEVELT_ISLAND.html",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/tri_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.377222,
+          38.742222
+        ]
+      },
+      "properties": {
+        "name": "Madison Historic District",
+        "description": "Indiana",
+        "name_url": "http://www.nps.gov/nr/travel/underground/madison.html",
+        "description_url": "http://www.nps.gov/nr/travel/underground/bingmap_images/madison_mapimage.jpg"
+      }
+    }
+  ]
+}

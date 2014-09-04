@@ -1,0 +1,725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58,
+          39.263056
+        ]
+      },
+      "properties": {
+        "name": "Fort McHenry National Monument and Shrine",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b1..htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/fortmchenry_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.643611,
+          39.278889
+        ]
+      },
+      "properties": {
+        "name": "Mount Clare",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b2.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/mountclare_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.640278,
+          39.286944
+        ]
+      },
+      "properties": {
+        "name": "Union Square-Hollins Market Historic District",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b3.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/unionsquare_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.641389,
+          39.2875
+        ]
+      },
+      "properties": {
+        "name": "H.L. Mencken House",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b4.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/menckenhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.643333,
+          39.291389
+        ]
+      },
+      "properties": {
+        "name": "Franklin Square Historic District",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b5.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/franklinsquare_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.638333,
+          39.291111
+        ]
+      },
+      "properties": {
+        "name": "St. Luke's Church",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b6.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/stlukeschurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.632397,
+          39.285394
+        ]
+      },
+      "properties": {
+        "name": "Baltimore & Ohio Transportation Museum and Mount Clare Station",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b7.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/transportationmuseum_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.633139,
+          39.291292
+        ]
+      },
+      "properties": {
+        "name": "Edgar Allan Poe House",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b8.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/poehouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.625278,
+          39.291111
+        ]
+      },
+      "properties": {
+        "name": "Rieman Block",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b9.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/riemanblock_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.627778,
+          39.291667
+        ]
+      },
+      "properties": {
+        "name": "Old Pine Street Station",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b10.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/pinestreet_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.626389,
+          39.291111
+        ]
+      },
+      "properties": {
+        "name": "Pascault Row",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b11.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/pascaultrow_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.625,
+          39.308333
+        ]
+      },
+      "properties": {
+        "name": "Bolton Hill Historic District",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b12.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/boltonhill_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.623056,
+          39.295556
+        ]
+      },
+      "properties": {
+        "name": "Mother Seton House",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b13.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/setonhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.623056,
+          39.295833
+        ]
+      },
+      "properties": {
+        "name": "St. Mary's Seminary Chapel",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b14.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/stmaryschapel_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.623889,
+          39.29
+        ]
+      },
+      "properties": {
+        "name": "Westminster Presbyterian Church and Cemetery",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b15.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/westminsterchurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.621944,
+          39.288333
+        ]
+      },
+      "properties": {
+        "name": "North Loft Historic District",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b16.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/lofthd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.623056,
+          39.286111
+        ]
+      },
+      "properties": {
+        "name": "South Loft Historic District",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b16.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/lofthd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.620833,
+          39.2875
+        ]
+      },
+      "properties": {
+        "name": "Emerson Bromo-Seltzer Tower",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b17.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/seltzertower_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.62,
+          39.286389
+        ]
+      },
+      "properties": {
+        "name": "Wilkens-Robins Building",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b18.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/robinsbuilding_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.618333,
+          39.290556
+        ]
+      },
+      "properties": {
+        "name": "Brewers Exchange",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b19.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/brewersexchange_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.616667,
+          39.294167
+        ]
+      },
+      "properties": {
+        "name": "Cathedral Hill Historic District",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b20.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/cathedralhill_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.616667,
+          39.298333
+        ]
+      },
+      "properties": {
+        "name": "Mount Vernon Place Historic District",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b21.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/mountvernon_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.616111,
+          39.289722
+        ]
+      },
+      "properties": {
+        "name": "Lord Baltimore Hotel",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b22.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/lordbmorehotel_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.610833,
+          39.29
+        ]
+      },
+      "properties": {
+        "name": "Business and Government Historic District",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b23.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/businesshd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61,
+          39.278889
+        ]
+      },
+      "properties": {
+        "name": "Federal Hill Historic District",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b24.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/federalhill_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.600278,
+          39.274444
+        ]
+      },
+      "properties": {
+        "name": "Baltimore",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b25.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/baltimore_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.606293,
+          39.28581
+        ]
+      },
+      "properties": {
+        "name": "USCGC Taney",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b26.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/taney_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.603611,
+          39.2875
+        ]
+      },
+      "properties": {
+        "name": "Flag House",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b27.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/flaghouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.604722,
+          39.288611
+        ]
+      },
+      "properties": {
+        "name": "Carroll Museum",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b28.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/carrollmuseum_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.605556,
+          39.290556
+        ]
+      },
+      "properties": {
+        "name": "Shot Tower",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b29.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/shottower_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.601389,
+          39.290556
+        ]
+      },
+      "properties": {
+        "name": "Lloyd Street and Chizuk Amuno Synagogues",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b30.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/lloydstreet_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.601111,
+          39.291944
+        ]
+      },
+      "properties": {
+        "name": "Old Town Friends' Meeting House",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b31.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/meetinghouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.601111,
+          39.291111
+        ]
+      },
+      "properties": {
+        "name": "McKim's School",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b31.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/mckimschool_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.601667,
+          39.294444
+        ]
+      },
+      "properties": {
+        "name": "Eastern Female High School (Public School No. 116)",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b32.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/ps116_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.605556,
+          39.295278
+        ]
+      },
+      "properties": {
+        "name": "Engine House No. 6",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b33.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/enginehouse6_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.592778,
+          39.283056
+        ]
+      },
+      "properties": {
+        "name": "Fells Point Historic District",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b34.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/fellspoint_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.59239,
+          39.29738
+        ]
+      },
+      "properties": {
+        "name": "Johns Hopkins Complex",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b35.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/johnshopkins_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.594167,
+          39.300278
+        ]
+      },
+      "properties": {
+        "name": "Public School No. 109 (Male and Female Primary School)",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b36.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/ps109_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.587222,
+          39.309444
+        ]
+      },
+      "properties": {
+        "name": "American Brewery",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b37.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/americanbrewery_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.615833,
+          39.314444
+        ]
+      },
+      "properties": {
+        "name": "Lovely Lane Methodist Church",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b38.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/lovelylane_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.615,
+          39.326
+        ]
+      },
+      "properties": {
+        "name": "Charles Village-Abell Historic District",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b39.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/charlesvillage_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.619167,
+          39.329444
+        ]
+      },
+      "properties": {
+        "name": "Homewood",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b40.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/homewood_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.643333,
+          39.325
+        ]
+      },
+      "properties": {
+        "name": "Druid Hill Park Historic District",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b41.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/druidhill_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.635,
+          39.351667
+        ]
+      },
+      "properties": {
+        "name": "Roland Park Historic District",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b42.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/rolandpark_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5875,
+          39.416111
+        ]
+      },
+      "properties": {
+        "name": "Hampton National Historic Site",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/baltimore/b43.htm",
+        "description_url": "http://www.nps.gov/nr/travel/baltimore/bingmap_images/hamptonhd_mapimage.jpg"
+      }
+    }
+  ]
+}

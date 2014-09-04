@@ -1,0 +1,437 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.763333,
+          39.656944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/but.htm",
+        "name": "Wright Butler House",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/butlerhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.760833,
+          39.657
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/twn.htm",
+        "name": "Town Clock Church",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/townclock_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.761389,
+          39.655833
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/fir.htm",
+        "name": "First Baptist Church",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/firstbaptist_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.760278,
+          39.655833
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/afm.htm",
+        "name": "African Methodist Episcopal Church Church",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/amechurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.758631,
+          39.6549
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/dec.htm",
+        "name": "Decatur Street Row Houses",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/decatur_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.767881,
+          39.655897
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/can.htm",
+        "name": "Canada Hose Company",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/canadahose_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.758056,
+          39.653611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/tru.htm",
+        "name": "George Truog House",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/truoghouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.758056,
+          39.652778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/koo.htm",
+        "name": "Thomas Koon House",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/koonhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.758611,
+          39.652778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/ymc.htm",
+        "name": "Cumberland YMCA",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/ymca_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.756389,
+          39.651944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/16a.htm",
+        "name": "16 Altamont Terrace",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/altamont_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.761111,
+          39.651389
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/dwn.htm",
+        "name": "Downtown Cumberland Historic District",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/cumberlandhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.762478,
+          39.652847
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/cit.htm",
+        "name": "Cumberland City Hall",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/cityhall_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.763072,
+          39.652681
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/bel.htm",
+        "name": "Bell Tower Building",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/belltower_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.762778,
+          39.652222
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/pub.htm",
+        "name": "Public Safety Building",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/publicsafety_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7607727050781,
+          39.6520233154297
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/ros.htm",
+        "name": "Rosenbaum's Department Store",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/rosenbaum_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7602654844522,
+          39.6499485522509
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/hot.htm",
+        "name": "Fort Cumberland Hotel",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/cumberlandhotel_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7616032361984,
+          39.6515350788832
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/2nd.htm",
+        "name": "Second National Bank",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/secondnational_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7615006417036,
+          39.6515578776598
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/3rd.htm",
+        "name": "Third National Bank",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/thirdnational_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7624233216047,
+          39.6513466536999
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/emb.htm",
+        "name": "Embassy Theatre",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/embassy_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.760556,
+          39.650556
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/ber.htm",
+        "name": "B'er Chayim Temple",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/chayimtemple_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7636812776327,
+          39.6506921947002
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/cao.htm",
+        "name": "C&O Canal National Historical Park",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/cocanal_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.763889,
+          39.649444
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/wmd.htm",
+        "name": "Western Maryland Railway Station",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/railroadstation_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.770833,
+          39.651389
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/wsh.htm",
+        "name": "Washington Street Historic District",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/washingtonhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7674947082996,
+          39.6510422229767
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/wal.htm",
+        "name": "Walsh House",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/walshhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7669,
+          39.6508
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/crt.htm",
+        "name": "Allegany County Courthouse",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/courthouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7654,
+          39.651
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/ema.htm",
+        "name": "Emmanuel Episcopal Church and Parish House",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/emmanuel_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.755833,
+          39.646111
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/cumberland/hal.htm",
+        "name": "Francis Haley House",
+        "description": "Maryland",
+        "description_url": "http://www.nps.gov/nr/travel/cumberland/bingmap_images/haleyhouse_mapimage.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1781 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.088889,
+          39.794722
+        ]
+      },
+      "properties": {
+        "name": "Dayton Aviation Heritage National Historical Park",
+        "description": "Ohio",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/daa.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/daytonpark_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.673232,
+          36.021001
+        ]
+      },
+      "properties": {
+        "name": "Wright Brothers National Memorial",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/wbr.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/wrightmemorial_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.079735,
+          38.880343
+        ]
+      },
+      "properties": {
+        "name": "Fort Myer Historic District",
+        "description": "Virginia",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/ftm.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/fortmyer_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.176111,
+          39.722222
+        ]
+      },
+      "properties": {
+        "name": "Hawthorn Hill",
+        "description": "Ohio",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/haw.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/hawthornhill_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.283611,
+          25.809722
+        ]
+      },
+      "properties": {
+        "name": "Glenn Curtiss House",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/gle.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/curtisshouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.656389,
+          45.620556
+        ]
+      },
+      "properties": {
+        "name": "Pearson Field, Fort Vancouver National Historic Site",
+        "description": "Washington",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/pea.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/pearsonfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.471141,
+          29.337008
+        ]
+      },
+      "properties": {
+        "name": "Stinson Field, Mission Parkway",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/sti.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/stinsonfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.371602,
+          47.744987
+        ]
+      },
+      "properties": {
+        "name": "William E. Boeing House",
+        "description": "Washington",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/boe.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/boeinghouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7460176497698,
+          38.956216648221
+        ]
+      },
+      "properties": {
+        "name": "Gen. William \"Billy\" Mitchell House",
+        "description": "Virginia",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/mit.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/mitchellhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.962222,
+          39.949444
+        ]
+      },
+      "properties": {
+        "name": "Captain Edward V. Rickenbacker House",
+        "description": "Ohio",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/ric.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/rickenbackerhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6131979525089,
+          35.3073790669441
+        ]
+      },
+      "properties": {
+        "name": "General William C. Lee House",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/lee.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/leehouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.596668,
+          44.199247
+        ]
+      },
+      "properties": {
+        "name": "Larson Brothers Airport",
+        "description": "Wisconsin",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/lar.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/larsonairport_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.316608,
+          40.029011
+        ]
+      },
+      "properties": {
+        "name": "Hangar No. 1, Lakehurst Naval Air Station",
+        "description": "New Jersey",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/lak.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/hangar1_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5739822387695,
+          39.8311386108398
+        ]
+      },
+      "properties": {
+        "name": "Shenandoah Crash Sites",
+        "description": "Ohio",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/she.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/shenandoahcrash_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.387731179595,
+          45.9594838321209
+        ]
+      },
+      "properties": {
+        "name": "Charles A. Lindbergh Sr. House",
+        "description": "Minnesota",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/lin.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/lindberghsrhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.248333,
+          32.889722
+        ]
+      },
+      "properties": {
+        "name": "Torrey Pines Gliderport",
+        "description": "California",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/tor.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/pinesgliderport_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.470833,
+          41.031944
+        ]
+      },
+      "properties": {
+        "name": "Goodyear Airdock",
+        "description": "Ohio",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/goo.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/goodyearairdock_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.048333,
+          37.415
+        ]
+      },
+      "properties": {
+        "name": "U.S. Naval Air Station Sunnyvale, CA",
+        "description": "California",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/sun.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/sunnyvale_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.114444,
+          39.563611
+        ]
+      },
+      "properties": {
+        "name": "Amelia Earhart Birthplace",
+        "description": "Kansas",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/ear.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/earhartbirthplace_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.279167,
+          47.443056
+        ]
+      },
+      "properties": {
+        "name": "Pangborn-Herndon Memorial Site",
+        "description": "Washington",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/pan.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/pangbornherndon_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.049444,
+          71.155556
+        ]
+      },
+      "properties": {
+        "name": "Rogers-Post Site",
+        "description": "Alaska",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/rps.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/rogerspost_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7425,
+          32.337222
+        ]
+      },
+      "properties": {
+        "name": "Old Terminal Building, Hangar and Powerhouse at Key Field",
+        "description": "Mississippi",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/old.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/keyfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.296371459961,
+          47.5183563232422
+        ]
+      },
+      "properties": {
+        "name": "Building No. 105, Boeing Airplane Company",
+        "description": "Washington",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/105.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/boeingcompany_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.152778,
+          41.143333
+        ]
+      },
+      "properties": {
+        "name": "Smith Field",
+        "description": "Indiana",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/smi.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/smithfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3225,
+          47.683056
+        ]
+      },
+      "properties": {
+        "name": "Felts Field Historic District",
+        "description": "Washington",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/fel.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/feltsfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.891,
+          40.591
+        ]
+      },
+      "properties": {
+        "name": "Floyd Bennett Field Historic District",
+        "description": "New York",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/flo.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/bennettfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8828358799219,
+          36.5832495689392
+        ]
+      },
+      "properties": {
+        "name": "Santa Fe Depot and Reading Room",
+        "description": "Oklahoma",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/sfe.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/santafedepot_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.234722,
+          25.728056
+        ]
+      },
+      "properties": {
+        "name": "Pan American Seaplane Base and Terminal Building",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/pam.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/panamseaplane_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.428889,
+          41.731667
+        ]
+      },
+      "properties": {
+        "name": "Rhode Island State Airport Terminal",
+        "description": "Rhode Island",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/rho.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/riairport_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.07075,
+          43.513722
+        ]
+      },
+      "properties": {
+        "name": "Idaho Falls Airport Historic District",
+        "description": "Idaho",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/ida.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/idahofalls_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.267222,
+          37.623056
+        ]
+      },
+      "properties": {
+        "name": "Administration Building",
+        "description": "Kansas",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/mcc.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/adminbuilding_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1625,
+          40.706389
+        ]
+      },
+      "properties": {
+        "name": "Newark Metropolitan Airport Buildings",
+        "description": "New Jersey",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/new.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/newarkmetro_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.663611,
+          38.228056
+        ]
+      },
+      "properties": {
+        "name": "Bowman Field Historic District",
+        "description": "Kentucky",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/bow.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/bowmanfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.886111,
+          40.773611
+        ]
+      },
+      "properties": {
+        "name": "Marine Air Terminal",
+        "description": "New York",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/mar.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/marineair_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.037778,
+          38.852222
+        ]
+      },
+      "properties": {
+        "name": "Washington National Airport Terminal and South Hangar Line",
+        "description": "Washington, DC",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/was.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/washnational_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.922306,
+          38.980583
+        ]
+      },
+      "properties": {
+        "name": "College Park Airport",
+        "description": "Maryland",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/col.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/collegepark_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.215278,
+          32.699167
+        ]
+      },
+      "properties": {
+        "name": "Naval Air Station, San Diego, Historic District",
+        "description": "California",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/san.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/navalairsandiego_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.196944,
+          32.696667
+        ]
+      },
+      "properties": {
+        "name": "Rockwell Field",
+        "description": "California",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/rok.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/rockwellfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.297222,
+          30.347778
+        ]
+      },
+      "properties": {
+        "name": "Pensacola Naval Air Station Historic District",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/pen.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/pensacolanaval_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.835278,
+          38.545278
+        ]
+      },
+      "properties": {
+        "name": "Scott Field Historic District",
+        "description": "Illinois",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/sco.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/scottfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.581167,
+          29.384228
+        ]
+      },
+      "properties": {
+        "name": "Kelly Field Historic District",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/kel.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/kellyfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4389,
+          29.3421
+        ]
+      },
+      "properties": {
+        "name": "Hangar 9, Brooks Air Force Base",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/bro.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/brooksairforce_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.459722,
+          37.804167
+        ]
+      },
+      "properties": {
+        "name": "Crissy Field, Presidio of San Francisco",
+        "description": "California",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/cri.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/crissyfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.095556,
+          40.564167
+        ]
+      },
+      "properties": {
+        "name": "Miller Army Air Field Historic District",
+        "description": "New York",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/mil.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/millerfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.014444,
+          35.170833
+        ]
+      },
+      "properties": {
+        "name": "Pope Air Force Base Early Expansion MPS",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/pop.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/popebase_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.34,
+          32.380833
+        ]
+      },
+      "properties": {
+        "name": "Maxwell Air Force Base Senior Officer's Quarters Historic District, Building 800; 836",
+        "description": "Alabama",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/max.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/maxwellbase_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.28,
+          29.532222
+        ]
+      },
+      "properties": {
+        "name": "Randolph Field Historic District",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/ran.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/randolphfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.276389,
+          33.898889
+        ]
+      },
+      "properties": {
+        "name": "March Field Historic District",
+        "description": "California",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/mrc.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/marchfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5125,
+          38.057778
+        ]
+      },
+      "properties": {
+        "name": "Hamilton Army Air Field Discontiguous Historic District",
+        "description": "California",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/ham.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/hamiltonairfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8275,
+          34.921944
+        ]
+      },
+      "properties": {
+        "name": "Rogers Dry Lake",
+        "description": "California",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/rog.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/rogerslake_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.344167,
+          37.078611
+        ]
+      },
+      "properties": {
+        "name": "Variable Density Tunnel",
+        "description": "Virginia",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/var.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/densitytunnel_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.341667,
+          37.080833
+        ]
+      },
+      "properties": {
+        "name": "Full Scale 30-by-60 Foot Tunnel",
+        "description": "Virginia",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/ful.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/fullscale_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.341389,
+          37.080278
+        ]
+      },
+      "properties": {
+        "name": "Eight-Foot High Speed Tunnel",
+        "description": "Virginia",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/8ft.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/highspeedtunnel_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.030833,
+          40.718611
+        ]
+      },
+      "properties": {
+        "name": "Wendover Air Force Base",
+        "description": "Utah",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/wen.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/wendoverbase_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.491667,
+          30.482778
+        ]
+      },
+      "properties": {
+        "name": "Eglin Field Historic District",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/egl.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/eglinfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5075,
+          30.475833
+        ]
+      },
+      "properties": {
+        "name": "McKinley Climatic Laboratory",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/mck.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/mckinleylab_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.614444,
+          64.8375
+        ]
+      },
+      "properties": {
+        "name": "Ladd Field",
+        "description": "Alaska",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/lad.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/laddfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.68,
+          32.457222
+        ]
+      },
+      "properties": {
+        "name": "Tuskegee Airmen National Historic Site",
+        "description": "Alabama",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/tus.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/tuskegeesite_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.943889,
+          21.349167
+        ]
+      },
+      "properties": {
+        "name": "United States Naval Base Pearl Harbor",
+        "description": "Hawaii",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/prl.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/pearlharbor_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.95,
+          21.365
+        ]
+      },
+      "properties": {
+        "name": "USS Arizona Memorial",
+        "description": "Hawaii",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/ari.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/ussarizona_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.01,
+          21.685556
+        ]
+      },
+      "properties": {
+        "name": "Opana Radar Site",
+        "description": "Hawaii",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/opa.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/opanaradar_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.948333,
+          21.335278
+        ]
+      },
+      "properties": {
+        "name": "Hickam Field",
+        "description": "Hawaii",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/hic.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/hickamfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.043889,
+          21.486667
+        ]
+      },
+      "properties": {
+        "name": "Wheeler Field",
+        "description": "Hawaii",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/whe.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/wheelerfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -177.35,
+          28.2
+        ]
+      },
+      "properties": {
+        "name": "World War II Facilities at Midway",
+        "description": "Midway Atoll",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/mid.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/midway_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.079167,
+          41.522222
+        ]
+      },
+      "properties": {
+        "name": "Radar Station B-71",
+        "description": "California",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/rad.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/radarb71_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -166.531944,
+          53.901667
+        ]
+      },
+      "properties": {
+        "name": "Dutch Harbor Naval Operating Base and Fort Mears, U.S. Army",
+        "description": "Alaska",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/dut.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/dutchharbor_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.661389,
+          33.72
+        ]
+      },
+      "properties": {
+        "name": "Southwestern Proving Ground Airport Historic District",
+        "description": "Arkansas",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/swp.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/spgairport_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.573056,
+          40.586111
+        ]
+      },
+      "properties": {
+        "name": "Fairmont Army Airfield",
+        "description": "Nebraska",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/fai.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/fairmontairfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.466667,
+          47.049167
+        ]
+      },
+      "properties": {
+        "name": "Lewistown Satellite Airfield Historic District",
+        "description": "Montana",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/lew.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/lewistownairfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.909444,
+          52.9025
+        ]
+      },
+      "properties": {
+        "name": "Attu Battlefield and U.S. Army and Navy Airfields on Attu",
+        "description": "Alaska",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/att.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/attubattlefield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.783333,
+          7.416667
+        ]
+      },
+      "properties": {
+        "name": "Truk Lagoon Underwater Fleet, Truk Atoll",
+        "description": "Truk Atoll",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/tru.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/truklagoon_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.641667,
+          13.436944
+        ]
+      },
+      "properties": {
+        "name": "Orote Field",
+        "description": "Guam",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/oro.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/orotefield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.638369,
+          15.072044
+        ]
+      },
+      "properties": {
+        "name": "Tinian Landing Beaches, Ushi Point and North Fields",
+        "description": "Guam",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/tin.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/tinianbeach_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.701944,
+          40.306944
+        ]
+      },
+      "properties": {
+        "name": "Second-Generation Norden Bombsight Vault",
+        "description": "Nebraska",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/sec.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/nordenvault_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.804167,
+          45.417778
+        ]
+      },
+      "properties": {
+        "name": "U.S. Naval Air Station Dirigible Hangar B",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/usb.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/dirigiblehangarb_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.823056,
+          33.703611
+        ]
+      },
+      "properties": {
+        "name": "Lighter-than-Air Ship Hangars",
+        "description": "California",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/lig.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/lighterthanair_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.90827,
+          39.00418
+        ]
+      },
+      "properties": {
+        "name": "Hangar No. 1 US Naval Air Station Wildwood",
+        "description": "New Jersey",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/wil.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/wildwoodhangar1_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.464722,
+          39.128333
+        ]
+      },
+      "properties": {
+        "name": "Building 1301, Dover Air Force Base",
+        "description": "Delaware",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/dov.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/building1301_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7058,
+          35.2194
+        ]
+      },
+      "properties": {
+        "name": "Douglas DC-3 Airplane, N34",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/dou.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/douglasdc3_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1302795410156,
+          40.669506072998
+        ]
+      },
+      "properties": {
+        "name": "B-17G \"Flying Fortress\" No. 44-83690",
+        "description": "Indiana",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/b17.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/b17g_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -174.445278,
+          52.138056
+        ]
+      },
+      "properties": {
+        "name": "Atka B-24D Liberator",
+        "description": "Alaska",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/atk.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/atkab24d_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.665901362896,
+          39.8412933200598
+        ]
+      },
+      "properties": {
+        "name": "U.S. Army Aircraft P-51D-25NA 44-73287",
+        "description": "Illinois",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/p51.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/p51d_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.90827,
+          39.00418
+        ]
+      },
+      "properties": {
+        "name": "TBM-3E \"Avenger\" Torpedo Bomber Warplane",
+        "description": "New Jersey",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/tbm.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/avenger_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3905238509178,
+          27.8166914731264
+        ]
+      },
+      "properties": {
+        "name": "USS Lexington",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/lex.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/usslexington_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90821,
+          32.790377
+        ]
+      },
+      "properties": {
+        "name": "USS Yorktown",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/yor.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/ussyorktown_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.000763,
+          40.764832
+        ]
+      },
+      "properties": {
+        "name": "USS Intrepid",
+        "description": "New York",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/int.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/ussintrepid_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.302842,
+          37.772542
+        ]
+      },
+      "properties": {
+        "name": "USS Hornet",
+        "description": "California",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/hor.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/usshornet_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.858333,
+          38.990278
+        ]
+      },
+      "properties": {
+        "name": "United States Air Force Academy, Cadet Area",
+        "description": "Colorado",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/aca.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/airforceacademy_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.812778,
+          42.218333
+        ]
+      },
+      "properties": {
+        "name": "Goddard Rocket Launching Site",
+        "description": "Massachusetts",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/god.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/goddardrocket_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.377778,
+          32.401111
+        ]
+      },
+      "properties": {
+        "name": "White Sands V-2 Launching Site",
+        "description": "New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/whi.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/whitesands_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.628760188818,
+          34.3680848926306
+        ]
+      },
+      "properties": {
+        "name": "US Naval Ordnance Test Facilities, Topsail",
+        "description": "North Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/usn.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/topsailtesting_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.577778,
+          28.488889
+        ]
+      },
+      "properties": {
+        "name": "Cape Canaveral Air Force Station",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/cap.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/capecanaveral_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.060475,
+          37.416917
+        ]
+      },
+      "properties": {
+        "name": "Unitary Plan Wind Tunnel",
+        "description": "California",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/uni.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/unitarywindtunnel_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.676775,
+          34.653756
+        ]
+      },
+      "properties": {
+        "name": "Neutral Buoyancy Space Simulator",
+        "description": "Alabama",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/neu.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/spacesimulator_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.658556,
+          34.625417
+        ]
+      },
+      "properties": {
+        "name": "Propulsion and Structural Test Facility",
+        "description": "Alabama",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/pro.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/pstestfacility_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.666528,
+          34.632639
+        ]
+      },
+      "properties": {
+        "name": "Redstone Test Stand",
+        "description": "Alabama",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/red.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/redstone_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.622222,
+          34.765278
+        ]
+      },
+      "properties": {
+        "name": "Space Launch Complex 10",
+        "description": "California",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/spa.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/slcomplex10_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.173614,
+          34.201086
+        ]
+      },
+      "properties": {
+        "name": "Space Flight Operations Facility",
+        "description": "California",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/ops.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/sfoperations_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.650849,
+          28.524058
+        ]
+      },
+      "properties": {
+        "name": "John F. Kennedy Space Center",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/jfk.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/jfkspace_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.088333,
+          29.558056
+        ]
+      },
+      "properties": {
+        "name": "Apollo Mission Control Center",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/apo.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/apollomc_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.088056,
+          29.560556
+        ]
+      },
+      "properties": {
+        "name": "Space Environment Simulation Laboratory",
+        "description": "Texas",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/lab.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/simlab_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.587111,
+          30.72813
+        ]
+      },
+      "properties": {
+        "name": "Rocket Propulsion Test Complex",
+        "description": "Mississippi",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/roc.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/testcomplex_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.657111,
+          34.710611
+        ]
+      },
+      "properties": {
+        "name": "Saturn V Launch Vehicle",
+        "description": "Alabama",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/sal.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/saturnvvehicle_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.661147,
+          34.630825
+        ]
+      },
+      "properties": {
+        "name": "Saturn V Dynamic Test Stand",
+        "description": "Alabama",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/sat.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/teststand_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.378056,
+          37.085556
+        ]
+      },
+      "properties": {
+        "name": "Rendezvous Docking Simulator",
+        "description": "Virginia",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/ren.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/dockingsim_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.389722,
+          37.102222
+        ]
+      },
+      "properties": {
+        "name": "Lunar Landing Research Facility",
+        "description": "Virginia",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/lun.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/lunarlanding_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.684444,
+          25.373611
+        ]
+      },
+      "properties": {
+        "name": "Nike Missile Site HM69",
+        "description": "Florida",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/NikeMissileSiteHM69.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/hm69_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.153143,
+          41.535949
+        ]
+      },
+      "properties": {
+        "name": "Nike Missile Site C47",
+        "description": "Indiana",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/nik.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/nikec47_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.504165649414,
+          61.2630615234375
+        ]
+      },
+      "properties": {
+        "name": "Site Summit",
+        "description": "Alaska",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/sum.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/sitesummit_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.160556,
+          43.931111
+        ]
+      },
+      "properties": {
+        "name": "Minuteman Missile National Historic Site",
+        "description": "South Dakota",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/min.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/minuteman_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.998414,
+          31.903028
+        ]
+      },
+      "properties": {
+        "name": "Air Force Facility Missile Site 8 (571-7)",
+        "description": "Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/aviation/air.htm",
+        "description_url": "http://www.nps.gov/nr/travel/aviation/bingmap_images/missilesite8_mapimage.jpg"
+      }
+    }
+  ]
+}

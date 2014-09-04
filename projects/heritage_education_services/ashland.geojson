@@ -1,0 +1,517 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.725863531232,
+          42.2094116359949
+        ]
+      },
+      "properties": {
+        "name": "Hargadine Cemetery",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/har.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/hargadine_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.717567443848,
+          42.1995048522949
+        ]
+      },
+      "properties": {
+        "name": "Orlando Coolidge House",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/coo.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/coolidgehouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.717292785645,
+          42.1993293762207
+        ]
+      },
+      "properties": {
+        "name": "Issac Woolen House",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/woo.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/woolenhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.717178344727,
+          42.1990776062012
+        ]
+      },
+      "properties": {
+        "name": "W.H. Atkinson House",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/atk.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/atkinsonhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.717384338379,
+          42.1972923278809
+        ]
+      },
+      "properties": {
+        "name": "G. M. and Kate Grainger House",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/gra.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/graingerhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.716995239258,
+          42.1965217590332
+        ]
+      },
+      "properties": {
+        "name": "Emil and Alice Applegate Peil House",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/pei.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/applegatehouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.717384338379,
+          42.1954917907715
+        ]
+      },
+      "properties": {
+        "name": "Domingo Perozzi House",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/per.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/perozzihouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.716789245605,
+          42.1958427429199
+        ]
+      },
+      "properties": {
+        "name": "Women's Civic Improvement Clubhouse",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/wci.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/wciclubhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.716789245605,
+          42.1958427429199
+        ]
+      },
+      "properties": {
+        "name": "Lithia Park",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/lit.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/lithiapark_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.712532043457,
+          42.1968879699707
+        ]
+      },
+      "properties": {
+        "name": "Ashland Downtown Historic District",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/dhd.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/ashlandhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.715866,
+          42.197723
+        ]
+      },
+      "properties": {
+        "name": "IOOF Building",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/iof.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/ioof_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.714599609375,
+          42.1975746154785
+        ]
+      },
+      "properties": {
+        "name": "Whittle Garage Building",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/wgb.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/whittlegarage_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.713804319501,
+          42.196594029665
+        ]
+      },
+      "properties": {
+        "name": "First National Bank, Vaupel Store, & Oregon Hotel Buildings",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/fir.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/vaupelstore_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.713043212891,
+          42.1955909729004
+        ]
+      },
+      "properties": {
+        "name": "Mark Antony Motor Hotel (Ashland Springs Hotel)",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/mah.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/antonyhotel_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71240234375,
+          42.1956176757813
+        ]
+      },
+      "properties": {
+        "name": "Citizen's Banking & Trust Co. Building",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/cit.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/citizensbank_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.711950242519,
+          42.1956183761358
+        ]
+      },
+      "properties": {
+        "name": "Enders Building",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/end.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/endersbuilding_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.712097167969,
+          42.19482421875
+        ]
+      },
+      "properties": {
+        "name": "Fordyce Roper House--Southern Oregon Hospital",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/for.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/roperhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.712768554688,
+          42.1950073242188
+        ]
+      },
+      "properties": {
+        "name": "First Baptist Church",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/fbc.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/firstbaptist_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.710578918457,
+          42.1956100463867
+        ]
+      },
+      "properties": {
+        "name": "Trinity Episcopal Church",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/tri.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/trinitychurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.711654663086,
+          42.1993980407715
+        ]
+      },
+      "properties": {
+        "name": "Ashland Railroad Addition Historic District",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/rra.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/railroadhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.714431762695,
+          42.1982269287109
+        ]
+      },
+      "properties": {
+        "name": "John McCall House",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/mcc.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/mccallhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.714027404785,
+          42.198802947998
+        ]
+      },
+      "properties": {
+        "name": "Ashland National Guard Armory",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/arm.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/armory_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.71134185791,
+          42.1975212097168
+        ]
+      },
+      "properties": {
+        "name": "John and Charlotte Pelton House",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/pel.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/peltonhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.707824707031,
+          42.197566986084
+        ]
+      },
+      "properties": {
+        "name": "Peerless Rooms Building",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/prl.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/peerlessrooms_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.705589294434,
+          42.1976356506348
+        ]
+      },
+      "properties": {
+        "name": "Ashland Depot Hotel, South Wing",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/adb.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/depothotel_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.705711364746,
+          42.1971740722656
+        ]
+      },
+      "properties": {
+        "name": "Nils Ahlstrom House",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/ahl.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/ahlstromhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.704986572266,
+          42.1936111450195
+        ]
+      },
+      "properties": {
+        "name": "Ashland Cemetery",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/acm.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/ashlandcemetery_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.701164245605,
+          42.1894111633301
+        ]
+      },
+      "properties": {
+        "name": "George Taverner House",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/tav.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/tavernerhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.698709517717,
+          42.1887820959091
+        ]
+      },
+      "properties": {
+        "name": "Chappell-Swendenburh House",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/swe.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/chappellhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.688453674316,
+          42.1974563598633
+        ]
+      },
+      "properties": {
+        "name": "John P. Walker House",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/wal.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/walkerhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682989090681,
+          42.1865612268448
+        ]
+      },
+      "properties": {
+        "name": "Mountain View Cemetery",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/mtn.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/mountainview_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.713180541992,
+          42.1732292175293
+        ]
+      },
+      "properties": {
+        "name": "Ashland Municipal Powerhouse",
+        "description": "Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ashland/amp.htm",
+        "description_url": "http://www.nps.gov/nr/travel/ashland/bingmap_images/powerhouse_mapimage.jpg"
+      }
+    }
+  ]
+}

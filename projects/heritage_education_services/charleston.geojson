@@ -1,0 +1,693 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.948889,
+          32.801389
+        ]
+      },
+      "properties": {
+        "name": "William Enston House",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/ens.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/enstonhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.964167,
+          32.774167
+        ]
+      },
+      "properties": {
+        "name": "Porter Military Academy",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/por.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/porteracademy_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.942778,
+          32.789722
+        ]
+      },
+      "properties": {
+        "name": "Coming Street Cemetery",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/cem.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/comingst_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.941111,
+          32.788333
+        ]
+      },
+      "properties": {
+        "name": "Central Baptist Church",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/cen.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/centralbaptist_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9440195411444,
+          32.7809976786375
+        ]
+      },
+      "properties": {
+        "name": "Avery Institute",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/ave.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/avery_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.941944,
+          32.784444
+        ]
+      },
+      "properties": {
+        "name": "Old Bethel United Methodist Church",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/obm.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/oldbethel_mapimage.jpg\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9412002563477,
+          32.7838973999023
+        ]
+      },
+      "properties": {
+        "name": "Bethel Methodist Church",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/bet.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/bethelchurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.938056,
+          32.784167
+        ]
+      },
+      "properties": {
+        "name": "College of Charleston",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/col.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/coc_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9372,
+          32.7868
+        ]
+      },
+      "properties": {
+        "name": "St. Matthew's Church",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/smt.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/stmatthews_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.935833,
+          32.786944
+        ]
+      },
+      "properties": {
+        "name": "Marion Square",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/mar.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/marionsquare_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.936389,
+          32.787222
+        ]
+      },
+      "properties": {
+        "name": "South Carolina State Arsenal",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/ssa.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/scaresenal_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9331817626953,
+          32.7875556945801
+        ]
+      },
+      "properties": {
+        "name": "Emanuel A.M.E. Church",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/ema.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/emanuelame_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.932778,
+          32.782222
+        ]
+      },
+      "properties": {
+        "name": "Kahal Kadosh Beth Elohim Synagogue",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/kah.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/elohim_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.932778,
+          32.781667
+        ]
+      },
+      "properties": {
+        "name": "St. Mary's Roman Catholic Church",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/sma.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/stmarys_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.931389,
+          32.780278
+        ]
+      },
+      "properties": {
+        "name": "Market Hall and Sheds",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/mrk.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/markethall_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.926944,
+          32.780556
+        ]
+      },
+      "properties": {
+        "name": "United States Custom House",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/usc.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/uscustoms_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.930833,
+          32.779167
+        ]
+      },
+      "properties": {
+        "name": "Powder Magazine",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/pow.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/powdermagazine_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.931111,
+          32.778889
+        ]
+      },
+      "properties": {
+        "name": "Circular Congregational Church & Parish House",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/cir.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/circularchurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9340667724609,
+          32.7788696289063
+        ]
+      },
+      "properties": {
+        "name": "St. John's Lutheran Church",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/stj.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/stjohns_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.933889,
+          32.772222
+        ]
+      },
+      "properties": {
+        "name": "Unitarian Church",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/uni.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/unitarianchurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9364221841097,
+          32.7787198126316
+        ]
+      },
+      "properties": {
+        "name": "Old Jail",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/old.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/oldjail_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.937222,
+          32.777778
+        ]
+      },
+      "properties": {
+        "name": "Old Marine Hospital",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/omh.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/oldmarine_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.932778,
+          32.778333
+        ]
+      },
+      "properties": {
+        "name": "Charleston Library Society",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/cls.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/librarysociety_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.929167,
+          32.779167
+        ]
+      },
+      "properties": {
+        "name": "St. Philip's Episcopal Church",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/stp.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/stphilips_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93,
+          32.777778
+        ]
+      },
+      "properties": {
+        "name": "Dock Street Theatre",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/doc.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/dockstreet_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.929167,
+          32.780556
+        ]
+      },
+      "properties": {
+        "name": "French Huguenot Church",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/fre.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/huguenotchurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93,
+          32.777222
+        ]
+      },
+      "properties": {
+        "name": "Old Slave Mart",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/osm.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/slavemart_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9302825927734,
+          32.7773704528809
+        ]
+      },
+      "properties": {
+        "name": "German Friendly Society",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/ger.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/friendlysociety_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.931944,
+          32.776667
+        ]
+      },
+      "properties": {
+        "name": "Fireproof Building",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/fir.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/fireproof_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.931667,
+          32.777222
+        ]
+      },
+      "properties": {
+        "name": "Hibernian Hall",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/hib.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/hibernianhall_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.931667,
+          32.775833
+        ]
+      },
+      "properties": {
+        "name": "Charleston County Courthouse",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/ccc.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/courthouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9306106567383,
+          32.7769927978516
+        ]
+      },
+      "properties": {
+        "name": "Charleston City Hall",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/cch.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/cityhall_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.930833,
+          32.776111
+        ]
+      },
+      "properties": {
+        "name": "St. Michael's Episcopal Church",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/smi.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/stmichaels_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.931667,
+          32.775833
+        ]
+      },
+      "properties": {
+        "name": "United States Post Office",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/usp.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/uspo_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9304885864258,
+          32.7755584716797
+        ]
+      },
+      "properties": {
+        "name": "South Carolina Society Hall",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/ssh.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/societyhall_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9314422607422,
+          32.7742347717285
+        ]
+      },
+      "properties": {
+        "name": "First Scots Presbyterian",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/sct.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/firstscots_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93,
+          32.776667
+        ]
+      },
+      "properties": {
+        "name": "Citizens and Southern National Bank of South Carolina",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/cit.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/nationalbank_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9275,
+          32.776944
+        ]
+      },
+      "properties": {
+        "name": "South Carolina Bank of Charleston",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/sbc.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/scbank_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.927222,
+          32.7775
+        ]
+      },
+      "properties": {
+        "name": "Farmers and Exchange Bank",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/far.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/exchangebank_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.927222,
+          32.775278
+        ]
+      },
+      "properties": {
+        "name": "Exchange and Provost Building",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/exc.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/provostbuilding_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.929444,
+          32.774167
+        ]
+      },
+      "properties": {
+        "name": "First Baptist Church",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/bap.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/firstbaptist_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.874722,
+          32.752222
+        ]
+      },
+      "properties": {
+        "name": "Fort Sumter National Monument and Fort Moultrie",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/sum.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/fortsumter_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8232242465019,
+          32.8470785915852
+        ]
+      },
+      "properties": {
+        "name": "Charles Pinckney National Historic Site",
+        "description": "South Carolina",
+        "name_url": "http://www.nps.gov/nr/travel/charleston/pin.htm",
+        "description_url": "http://www.nps.gov/nr/travel/charleston/bingmap_images/pinckney_mapimage.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.239632,
+          32.674286
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca1.htm",
+        "name": "Cabrillo National Monument",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/cabrillo_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.193382,
+          32.758793
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca2.htm",
+        "name": "Presidio Park",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/sandiegopresidio_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.105942,
+          32.783802
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca3.htm",
+        "name": "The San Diego Mission",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/sandiegochurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.144119,
+          32.734383
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca4.htm",
+        "name": "The California Quadrangle",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/quadrangle_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.169243,
+          32.716774
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca5.htm",
+        "name": "The Santa Fe Depot (Union Station)",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/unionstation_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.31321,
+          33.230015
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca6.htm",
+        "name": "Mission San Luis Rey",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/sanluisrey_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.788277,
+          33.384865
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca7.htm",
+        "name": "Oak Grove Butterfield Station",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/oakgrove_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.662628,
+          33.501995
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca8.htm",
+        "name": "Mission San Juan Capistrano",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/capistrano_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.663611,
+          33.501667
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca9.htm",
+        "name": "Los Rios Street Historic District",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/losriosstreet_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.106944,
+          33.776667
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca10.htm",
+        "name": "Ranchos Los Alamitos & Los Cerritos Ranch House",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/ranchoslosalamitos_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.372913226485,
+          33.9676512032747
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca11.htm",
+        "name": "Centinela Adobe",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/centinela_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.237778,
+          34.056944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca12.htm",
+        "name": "Los Angeles Plaza Historic District (El Pueblo de Los Angeles)",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/laplaza_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.128,
+          34.119
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca13.htm",
+        "name": "El Molino Viejo",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/elmolinoviejo_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.149353,
+          34.143925
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca14.htm",
+        "name": "Old Pasadena Historic District",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/oldpasadena_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.472778,
+          34.159992
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca15.htm",
+        "name": "Rancho el Encino",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/ranchoelencino_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.801003,
+          34.274453
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca16.htm",
+        "name": "Simi Adobe/Strathearn House",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/simiadobe_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.297449886799,
+          34.2808547616005
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca17.htm",
+        "name": "Mission San Buenaventura and the Mission Compound Site",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/sanbuenaventura_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.241111,
+          34.244444
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca18.htm",
+        "name": "Olivas Adobe",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/olivasadobe_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6971,
+          34.422567
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca19.htm",
+        "name": "Santa Barbara Presidio Historic District",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/santabarbara_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.421981811523,
+          34.6786499023438
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca21.htm",
+        "name": "Mission de la Purisima Concepcion de Maria Santisima Site",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/purisima_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.714004516602,
+          34.4377746582031
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca20.htm",
+        "name": "Santa Barbara Mission",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/sbmission_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.421981811523,
+          34.6786499023438
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca22.htm",
+        "name": "La Purisima Mission",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/purisimamission_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.697860717773,
+          35.744312286377
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca23.htm",
+        "name": "Mission San Miguel",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/sanmiguel_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.698889,
+          35.738056
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca24.htm",
+        "name": "Caledonia Adobe",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/caledoniaadobe_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.251251220703,
+          36.0558204650879
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca25.htm",
+        "name": "San Antonio de Padua Mission",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/paduamission_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.918611,
+          36.542778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca26.htm",
+        "name": "Carmel Mission",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/carmelmission_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.893611,
+          36.599722
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca27.htm",
+        "name": "Monterey Old Town Historic District",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/montereyhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.889167,
+          36.595278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca28.htm",
+        "name": "Royal Presidio Chapel",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/royalpresidio_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.895,
+          36.606667
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca29.htm",
+        "name": "El Castillo",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/elcastillo_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.537207067013,
+          36.8458592891693
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca30.htm",
+        "name": "San Juan Bautista Plaza Historic District",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/bautistaplaza_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.028611,
+          36.9775
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca31.htm",
+        "name": "Mission Hill Area Historic District",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/missionhill_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.894753,
+          37.336403
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca32.htm",
+        "name": "Luis Maria Peralta Adobe",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/peraltaadobe_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.457778,
+          37.604444
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca33.htm",
+        "name": "San Francisco Bay Discovery Site",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/discoverysite_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4925,
+          37.5875
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca34.htm",
+        "name": "Sanchez Adobe Park",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/sanchezpark_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.920115202665,
+          37.5337426364422
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca35.htm",
+        "name": "Mission San Jose District",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/missionsanjose_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426469996572,
+          37.7643220871687
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca36.htm",
+        "name": "Mission Dolores",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/missionsdolores_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.402908,
+          37.7964
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca37.htm",
+        "name": "Jackson Square Historic District",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/jacksonsquare_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.465833,
+          37.798056
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca38.htm",
+        "name": "Presidio of San Francisco",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/sanfran_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477222,
+          37.810556
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca39.htm",
+        "name": "Fort Point National Historic Site",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/fortpoint_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.423333,
+          37.82667
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca40.htm",
+        "name": "Alcatraz",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/alcatraz_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.43,
+          37.86
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca41.htm",
+        "name": "Angel Island",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/angelisland_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.133298,
+          37.991311
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca42.htm",
+        "name": "John Muir National Historic Site",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/johnmuir_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.58451,
+          38.25547
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca43.htm",
+        "name": "Petaluma Adobe",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/petalumaadobe_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.453333,
+          38.293611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca44.htm",
+        "name": "Sonoma Plaza",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/sonomaplaza_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.242778,
+          38.514167
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/ca/ca45.htm",
+        "name": "Fort Ross",
+        "description": "California",
+        "description_url": "http://www.nps.gov/nr/travel/ca/bingmap_images/fortross_mapimage.jpg"
+      }
+    }
+  ]
+}

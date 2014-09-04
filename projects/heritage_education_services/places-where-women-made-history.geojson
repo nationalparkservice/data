@@ -1,0 +1,1221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.538333,
+          42.003889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny1.htm",
+        "name": "Waverly Junior and Senior High School",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/waverly_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.814722,
+          42.097778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny2.htm",
+        "name": "Elmira College Old Campus",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/elmira_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.093611,
+          42.158333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny3.htm",
+        "name": "Painted Post Post Office",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/painted_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6,
+          43.051389
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny4.htm",
+        "name": "Antoinette Blackwell Childhood Home",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/blackwell_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.618333,
+          43.151389
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny5.htm",
+        "name": "Hervey Ely House Irondequoit Chapter, DAR",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/ely_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.628111,
+          43.153278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny6.htm",
+        "name": "Susan B. Anthony House",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/anthony_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.165,
+          42.653333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny7.htm",
+        "name": "Jemima Wilkinson House",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/wilkinson_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.801389,
+          42.910833
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny8.htm",
+        "name": "Women's Rights National Historical Park",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/wrnhp_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.846111,
+          42.9625
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny9.htm",
+        "name": "Wesleyan Chapel",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/wesleyan_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.788378,
+          42.912628
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny10.htm",
+        "name": "Elizabeth Cady Stanton House",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/stanton_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.861667,
+          42.905278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny11.htm",
+        "name": "M'Clintock House",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/mclintock_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.844444,
+          42.906111
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny12.htm",
+        "name": "Hunt House",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/hunt_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.567781,
+          42.911103
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny13.htm",
+        "name": "Harriet Tubman Home for the Aged",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/tubman_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.137244,
+          43.038475
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny14.htm",
+        "name": "Crouse College, Syracuse University",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/crouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.966111,
+          42.827222
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny15.htm",
+        "name": "Scotia Station Post Office",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/scotia_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.818333,
+          42.739722
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny16.htm",
+        "name": "Watervliet Shaker Historic District",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/watervliet_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.663747,
+          42.712181
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny17.htm",
+        "name": "Emma Willard School",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/willard_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.681803,
+          42.7399
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny18.htm",
+        "name": "Kate Mullany House",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/mullany_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.444167,
+          42.321111
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny19.htm",
+        "name": "Steepletop",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/steepletop_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.898889,
+          41.763056
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny20.htm",
+        "name": "Eleanor Roosevelt National Historic Site",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/roosevelt_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.895189,
+          41.686867
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny21.htm",
+        "name": "Vassar College Observatory",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/vassar_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.863889,
+          41.043111
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny22.htm",
+        "name": "Villa Lewaro",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/lewaro_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.938611,
+          40.834528
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny23.htm",
+        "name": "Morris-Jumel Mansion",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/jumel_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.944361,
+          40.816164
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny24.htm",
+        "name": "Florence Mills House",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/mills_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.966239,
+          40.764664
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny25.htm",
+        "name": "Barbizon Hotel for Women",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/barbizon_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986389,
+          40.739389
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny26.htm",
+        "name": "United Charities Building",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/charity_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.993199,
+          40.73812
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny27.htm",
+        "name": "Margaret Sanger Clinic",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/sanger_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9875,
+          40.729722
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny28.htm",
+        "name": "Stuyvesant Polyclinic and Ottendorfer Library",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/polyclinic_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.998306,
+          40.73295
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny29.htm",
+        "name": "New York Studio School (Whitney Museum)",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/whitney_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.995833,
+          40.73
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny30.htm",
+        "name": "Triangle Shirtwaist Factory",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/triangle_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985278,
+          40.713889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny31.htm",
+        "name": "Henry Street Settlement",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/henry_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.063611,
+          40.614917
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny32.htm",
+        "name": "Alice Austen House",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/austen_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.467222,
+          40.861944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny33.htm",
+        "name": "Cold Spring Harbor Laboratory Historic District",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/coldspring_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.691111,
+          43.423889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny34.htm",
+        "name": "Wiawaka Holiday House",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/wiawaka_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.008395,
+          43.028943
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ny35.htm",
+        "name": "Matilda Joslyn Gage Home",
+        "description": "New York",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/gage_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.282,
+          42.3311
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma34.htm",
+        "name": "The Mount",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/mount_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.253578,
+          42.446937
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma35.htm",
+        "name": "Berkshire Home for Aged Women",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/berkshire_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.252841,
+          42.4464
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma36.htm",
+        "name": "Pittsfield Women's Club",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/pittsfield_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.253944,
+          42.446192
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma37.htm",
+        "name": "Colonial Theatre",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/colonial_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.102284,
+          42.615617
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma38.htm",
+        "name": "Susan B. Anthony Birthplace",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/anthony2_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.791667,
+          42.59
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma39.htm",
+        "name": "Major Joseph Griswold House",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/griswold_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.514483,
+          42.375939
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma40.htm",
+        "name": "Emily Dickinson House",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/dickinson_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.895833,
+          42.153333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma41.htm",
+        "name": "Clara Barton Homestead",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/barton_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.86,
+          42.280556
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma42.htm",
+        "name": "Liberty Farm",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/liberty_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.658333,
+          42.443056
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma43.htm",
+        "name": "Lancaster Industrial School for Girls",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/lancaster_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.559167,
+          42.5325
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma44.htm",
+        "name": "Harvard Shaker Village Historic District",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/harvard_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.613056,
+          42.493611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma45.htm",
+        "name": "Fruitlands Museum Historic District",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/fruitlands_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.335556,
+          42.458889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma46.htm",
+        "name": "Orchard House",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/orchard_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.333056,
+          42.458889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma47.htm",
+        "name": "The Wayside (Minute Man National Historical Park)",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/wayside_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.310278,
+          42.646667
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma48.htm",
+        "name": "Lowell National Historical Park",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/lowell_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.138688,
+          42.652523
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma49.htm",
+        "name": "November Club and Cutler-Handy House",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/november_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.144501,
+          42.651358
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma50.htm",
+        "name": "John Lovejoy Abott House and Solomon Higgins House",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/higgins_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.776422,
+          42.638009
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma51.htm",
+        "name": "Cogswell's Grant",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/cogswell_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.930556,
+          42.575
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma52.htm",
+        "name": "Salem Village",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/salem_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.935135,
+          42.463944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma53.htm",
+        "name": "Mary Baker Eddy House",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/eddy_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.086389,
+          42.503056
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma54.htm",
+        "name": "Elizabeth Boit House",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/boit_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.136944,
+          42.378889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma55.htm",
+        "name": "Hooper Eliot House",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/hooper_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.133611,
+          42.377778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma56.htm",
+        "name": "Lois Lilley Howe House",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/howe_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12233,
+          42.37581
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma57.htm",
+        "name": "Radcliffe College Yard",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/radcliffe_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.104175,
+          42.36645
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma58.htm",
+        "name": "Cambridge YWCA",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/ywca_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.098056,
+          42.364444
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma59.htm",
+        "name": "Margaret Fuller House",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/fuller_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.101111,
+          42.37
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma60.htm",
+        "name": "Maria Baldwin House",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/baldwin_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.066806,
+          42.35775
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma61.htm",
+        "name": "Samuel Gridley and Julia Howe House",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/gridley_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.174444,
+          42.3325
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma62.htm",
+        "name": "Mary Baker Eddy House at 400 Beacon Street",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/beacon_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.069942,
+          42.354112
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma63.htm",
+        "name": "Theo Ruggles Kitson Sculpture and the Boston Public Gardens",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/kitson_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0925,
+          42.341944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma64.htm",
+        "name": "Students' House",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/students_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.098889,
+          42.338611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma65.htm",
+        "name": "Isabella Stewart Gardner Museum",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/gardner_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.097139,
+          42.319306
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma66.htm",
+        "name": "Dimock Community Health Center Complex",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/dimock_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.117639,
+          42.311528
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma67.htm",
+        "name": "Ellen Swallow Richards House",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/richards_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.209722,
+          42.361389
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma68.htm",
+        "name": "Celia Thaxter House",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/thaxter_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12634,
+          42.375387
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma69.htm",
+        "name": "Lois Lilley Howe Architecture in Cambridge and Brookline",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/lilley_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.236111,
+          42.375556
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma70.htm",
+        "name": "Theo Ruggles Kitson Sculpture in Massachusetts",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/ruggles_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.010931,
+          42.256086
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma71.htm",
+        "name": "Adams National Historical Site",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/adams_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.156731,
+          42.067136
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma72.htm",
+        "name": "Ames Mansion",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/ames_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.154744,
+          41.70182
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma73.htm",
+        "name": "Maude Darling-Parlin Architecture in Fall River",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/parlin_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.104317,
+          41.280614
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/pwwmh/ma74.htm",
+        "name": "Maria Mitchell House",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/pwwmh/bingmap_images/mitchell_mapimage.jpg"
+      }
+    }
+  ]
+}

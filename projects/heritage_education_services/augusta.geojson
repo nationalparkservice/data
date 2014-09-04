@@ -1,0 +1,1101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.98156,
+          33.477703
+        ]
+      },
+      "properties": {
+        "name": "Enterprise Mill LLC",
+        "description": "1450 Greene Street, Augusta, GA. 30901-5200, Tel. (706) 262-4001",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/enterprisemill.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/EnterpriseMilltower.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.98719,
+          33.48304
+        ]
+      },
+      "properties": {
+        "name": "King Mill",
+        "description": "1701 Goodrich Street",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/kingmill.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Mill5.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.989769,
+          33.488247
+        ]
+      },
+      "properties": {
+        "name": "Sibley Mill and Confederate Powder Works Chimney",
+        "description": "1717 Goodrich Street",
+        "name_url": "http://www.nps.gov/nr/travel/Augusta/sibleymill.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Sibley%20Mill%20Photo%201.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.962166,
+          33.46983
+        ]
+      },
+      "properties": {
+        "name": "Academy of Richmond County",
+        "description": "540 Telfair Street",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/oldacademyrc.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Old%20Academy%20of%20Richmond%20County%20(Historic)%20Phot%201.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.964394,
+          33.477097
+        ]
+      },
+      "properties": {
+        "name": "The Augusta Cotton Exchange Building",
+        "description": "32 8th Street (at the corner of 8th and Reynolds Streets),  Tel. 706-432-3332",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/augustacottonex.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Cotton%20Exch%20circa%201910.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.960258,
+          33.469421
+        ]
+      },
+      "properties": {
+        "name": "Brahe House",
+        "description": "456 Telfair Street, Not open for tours",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/brahehouse.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Brahe%20House%20Photo%201.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.966759,
+          33.471432
+        ]
+      },
+      "properties": {
+        "name": "Church of the Most Holy Trinity",
+        "description": "720 Telfair Street, Tel. 706-722-4944  Open hour: Monday-Friday, 9:00am to 4:30pm ",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/mostholytrinity.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Ch%20of%20Most%20Holy%20Trinity%20Historic.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.959023,
+          33.471649
+        ]
+      },
+      "properties": {
+        "name": "Engine Company Number One",
+        "description": "452 Ellis Street,  Not open to the public",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/enginecompany1.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Engine_Co_One_2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.96682,
+          33.472973
+        ]
+      },
+      "properties": {
+        "name": "First Baptist Church of Augusta",
+        "description": "802 Greene Street, The church is not open to the public.",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/firstbaptists.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/First%20Bapt%20Ch%201.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.964363,
+          33.470589
+        ]
+      },
+      "properties": {
+        "name": "First Presbyterian Church of Augusta",
+        "description": "642 Telfair Street, Tel. 706-823-2450, Open Monday-Friday, 8:30am to 5:00pm",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/firstpresbyterian.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Dwntn-1st-Preby-&-azaleas.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.960861,
+          33.469955
+        ]
+      },
+      "properties": {
+        "name": "Gertrude Herbert Institute of Art",
+        "description": "506 Telfair Street, Tel. 706-722-5495, Open Tuesday–Friday, 10:00am to 5:00 pm",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/ghinstituteart.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Getrude%20Herbert%20Inst.%20of%20Art%20Photo%201.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.96505,
+          33.471874
+        ]
+      },
+      "properties": {
+        "name": "Joseph Rucker Lamar Boyhood Home",
+        "description": "415 7th Street, Open Monday-Friday, 8:30am to 5:00pm, and Saturday, 10:00am to 5:00pm",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/lamarhouse.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Lamar%20House%20Photo%201.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.959343,
+          33.468975
+        ]
+      },
+      "properties": {
+        "name": "Lamar Building",
+        "description": "432 Telfair Street, Tel. 706-821-1812, Open to the public for free, 8:30am to 5:00pm, Monday-Friday",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/lamarbuilding.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Lamar%20Building%20Photo%201.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.963303,
+          33.470798
+        ]
+      },
+      "properties": {
+        "name": "Old Medical College of Georgia",
+        "description": "598 Telfair Street, Tel. 706-721-7238, Open for self-guided tours by appointment only, Monday-Friday, 9:00am to 12:00 noon",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/oldmedicalcollega.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Old%20Medical%20College%20%20Photo%201.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.978294,
+          33.477909
+        ]
+      },
+      "properties": {
+        "name": "Sacred Heart Catholic Church",
+        "description": "1301 Greene Street,  Tel. 706-826-4700",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/sacredheartcc.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Sacred%20Heart%20Photo%201.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.97168,
+          33.478828
+        ]
+      },
+      "properties": {
+        "name": "Springfield Baptist Church",
+        "description": "114 12th Street, Tel. 706-724-1056",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/springfieldbaptists.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Springfield%20Bapt%20Church%20Photo%201.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.961128,
+          33.476044
+        ]
+      },
+      "properties": {
+        "name": "St. Paul’s Episcopal Church",
+        "description": "605 Reynolds Street, Tel. 706-724-2485",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/stpauls.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/St.%20Pauls%20Photo%201.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.967796,
+          33.472374
+        ]
+      },
+      "properties": {
+        "name": "United States Post Office and Courthouse",
+        "description": "500 E. Ford Street, Not open to the public for tours",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/uspocourthouse.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/U.S%20Post%20Office%20Historic%20Photo%201.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.96448266506195,
+          33.473025796233806
+        ]
+      },
+      "properties": {
+        "name": "Woodrow Wilson Boyhood Home",
+        "description": "419 7th Street, Tel. 706-722-9828, Open for tours, Tuesday-Saturday, 10:00am to 5:00pm",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/wilsonhouse.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Wilson%20House%20Photo%201.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.996758,
+              33.463131
+            ],
+            [
+              -81.992599,
+              33.465244
+            ],
+            [
+              -81.991226,
+              33.465172
+            ],
+            [
+              -81.986633,
+              33.463203
+            ],
+            [
+              -81.988953,
+              33.454323
+            ],
+            [
+              -81.991226,
+              33.453499
+            ],
+            [
+              -81.996758,
+              33.463131
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Bethlehem Historic District",
+        "description": "Bethlehem Historic District is roughly bounded by Wrightsboro Road, Martin Luther King, Jr. Blvd., Railroad, Poplar, and Clay Streets. Most of the buildings are not open to the public.",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/bethlehemhistoricdistrict.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Bethlehem%200013.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.994484,
+          33.484509
+        ]
+      },
+      "properties": {
+        "name": "Harris-Pearson-Walker House",
+        "description": "1822 Broad Street, Tel. 706-737-2820, Open Tuesday through Friday by appointment only and Saturday, 10:00am to 4:30pm",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/ezekialharrishouse.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Ezekial%20Harris%20House%204.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.006676,
+          33.474552
+        ]
+      },
+      "properties": {
+        "name": "Academy of Richmond County—1926 Campus",
+        "description": "910 Russell Street, Tel. 706-826-1118 or 706-737-7152, Not open for public tours,sports events and other activities on campus open to the public.",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/academyrc.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/ARC%202.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.021004,
+          33.507587
+        ]
+      },
+      "properties": {
+        "name": "Fruitlands/Augusta National Golf Club",
+        "description": "2604 Washington Road, Public access is limited to ticket holders during the week of the tournament. ",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/fruitlands.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Fruitlands[1]%20copy.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.979591,
+          33.473797
+        ]
+      },
+      "properties": {
+        "name": "Meadow Garden",
+        "description": "1320 Independence Drive, Tel. 706-724-4174, Open to the public, Monday-Friday, 10:00am to 4:00pm",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/meadowgarden.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Meadow%20Garden%20Photo%201.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.998405,
+          33.458691
+        ]
+      },
+      "properties": {
+        "name": "Shiloh Orphanage",
+        "description": "1635 15th Street, Tours are by appointment only  Tel. 706-481-0952",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/shilohorphanagecc.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Shiloh%20Orphanage%20Boy's%20Dorm%201.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.997383,
+          33.473885
+        ]
+      },
+      "properties": {
+        "name": "Tubman High School",
+        "description": "1740 Walton Way, Not open for public tours, Tel. 706-826-1118",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/tubmanhigh.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Tubman%200006.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.983498,
+              33.467392
+            ],
+            [
+              -81.979935,
+              33.469791
+            ],
+            [
+              -81.978561,
+              33.47047
+            ],
+            [
+              -81.977966,
+              33.470863
+            ],
+            [
+              -81.976974,
+              33.470543
+            ],
+            [
+              -81.977448,
+              33.471222
+            ],
+            [
+              -81.977234,
+              33.471043
+            ],
+            [
+              -81.976547,
+              33.470901
+            ],
+            [
+              -81.974998,
+              33.470398
+            ],
+            [
+              -81.972687,
+              33.469467
+            ],
+            [
+              -81.96711,
+              33.467319
+            ],
+            [
+              -81.968391,
+              33.464386
+            ],
+            [
+              -81.970024,
+              33.462379
+            ],
+            [
+              -81.974144,
+              33.463741
+            ],
+            [
+              -81.983498,
+              33.467392
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Laney—Walker North Historic District",
+        "description": "Bounded on the north by D’Antignac Street and Walton Way, on the east by Seventh and Twiggs Streets, on the south by Laney-Walker Blvd., and on the west by Phillips and Harrison Streets. The district includes private homes not open to the public and a number of commercial and institutional buildings accessible to the public.",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/laneywalkerhd.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Laney%20Walker%20Lucy%20Craft%20Photo%201.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.981255,
+          33.467106
+        ]
+      },
+      "properties": {
+        "name": "The Lucy Craft Laney Museum of Black History and Conference Center",
+        "description": "1116 Phillips Street, Tel. 706-724-3576, Open Tuesday-Friday, 10:00am to 5:00pm",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/lclaneymuseum.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Lucy%20Laney%200014.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.979858,
+          33.466274
+        ]
+      },
+      "properties": {
+        "name": "Tabernacle Baptist Church",
+        "description": "1223 Laney—Walker Blvd.,  Tours are by appointment only, Tel. 706-724-1230",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/tabernaclebaptist.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Laney%20Walker021%20Tabernacle%20Baptist%20Church.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.953712,
+              33.457653
+            ],
+            [
+              -81.955605,
+              33.457367
+            ],
+            [
+              -81.958694,
+              33.45837
+            ],
+            [
+              -81.966415,
+              33.46109
+            ],
+            [
+              -81.962814,
+              33.464527
+            ],
+            [
+              -81.959465,
+              33.468182
+            ],
+            [
+              -81.956291,
+              33.47448
+            ],
+            [
+              -81.952774,
+              33.472473
+            ],
+            [
+              -81.949341,
+              33.470829
+            ],
+            [
+              -81.947533,
+              33.470257
+            ],
+            [
+              -81.948563,
+              33.468037
+            ],
+            [
+              -81.949425,
+              33.466248
+            ],
+            [
+              -81.950539,
+              33.463741
+            ],
+            [
+              -81.951912,
+              33.461376
+            ],
+            [
+              -81.953712,
+              33.457653
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Pinched Gut Historic District",
+        "description": "Is roughly bounded by Gordon Highway, East Boundary and Reynolds Streets and Laney-Walker Blvd; The district includes mostly private homes not open to the public, but also some bed and breakfasts and other commercial and institutional buildings that may be open to the public.",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/pinchedguthd.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/pinched%20gut%201.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.02684,
+              33.481602
+            ],
+            [
+              -82.026672,
+              33.483643
+            ],
+            [
+              -82.026115,
+              33.486328
+            ],
+            [
+              -82.024483,
+              33.486149
+            ],
+            [
+              -82.022812,
+              33.485756
+            ],
+            [
+              -82.021309,
+              33.485611
+            ],
+            [
+              -82.01976,
+              33.485363
+            ],
+            [
+              -82.018349,
+              33.485252
+            ],
+            [
+              -82.016975,
+              33.485039
+            ],
+            [
+              -82.01577,
+              33.484825
+            ],
+            [
+              -82.015511,
+              33.484612
+            ],
+            [
+              -82.015472,
+              33.484108
+            ],
+            [
+              -82.015427,
+              33.48357
+            ],
+            [
+              -82.01545,
+              33.482964
+            ],
+            [
+              -82.015495,
+              33.481853
+            ],
+            [
+              -82.015427,
+              33.480782
+            ],
+            [
+              -82.018219,
+              33.480923
+            ],
+            [
+              -82.019333,
+              33.481014
+            ],
+            [
+              -82.020447,
+              33.481083
+            ],
+            [
+              -82.022163,
+              33.481136
+            ],
+            [
+              -82.022873,
+              33.481243
+            ],
+            [
+              -82.023582,
+              33.481316
+            ],
+            [
+              -82.024445,
+              33.481354
+            ],
+            [
+              -82.025299,
+              33.481461
+            ],
+            [
+              -82.026176,
+              33.481495
+            ],
+            [
+              -82.02684,
+              33.481602
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Sand Hills Historic District",
+        "description": "Bounded roughly by Monte Sano Avenue on the west, North View Avenue and Mount Auburn Street on the south, Johns Road on the east, and the Augusta Country Club on the north.",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/sandhillshd.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Sands%20Hills%20Photo%201%20Board%20&%20Batten%20Cottage.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.031822,
+              33.469326
+            ],
+            [
+              -82.025726,
+              33.468895
+            ],
+            [
+              -82.022552,
+              33.468609
+            ],
+            [
+              -82.018776,
+              33.468037
+            ],
+            [
+              -82.010963,
+              33.46714
+            ],
+            [
+              -82.010368,
+              33.468754
+            ],
+            [
+              -82.00972,
+              33.470329
+            ],
+            [
+              -82.007919,
+              33.47337
+            ],
+            [
+              -82.006203,
+              33.478062
+            ],
+            [
+              -82.005775,
+              33.478882
+            ],
+            [
+              -82.013885,
+              33.479919
+            ],
+            [
+              -82.022385,
+              33.480782
+            ],
+            [
+              -82.030106,
+              33.481495
+            ],
+            [
+              -82.032166,
+              33.481781
+            ],
+            [
+              -82.031822,
+              33.469326
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Summerville Historic District",
+        "description": "Roughly bounded by Milledge Rd., Wrightsboro Rd. Highland and Heard Aves., Cumming Rd., and Henry St., Most buildings in the district are private homes not open to the public.",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/summervillehd.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Summerville%20Photo%201.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.01622,
+          33.477173
+        ]
+      },
+      "properties": {
+        "name": "Appleby Library",
+        "description": "2260 Walton Way, Tel. 706-736-6244 ",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/applebylibrary.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/18%20Appleby%20Walton%20Way%20view.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.010109,
+          33.475079
+        ]
+      },
+      "properties": {
+        "name": "The Partridge Inn",
+        "description": "2110 Walton Way, Tel. 706-262-1111",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/partridgeinn.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Partridge%20Inn%20Night%20View.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.023262,
+          33.47591
+        ]
+      },
+      "properties": {
+        "name": "Stephen Vincent Benét House",
+        "description": "2500 Walton Way, Tel. 706-737-1632",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/svbenethouse.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/SVBenet%20House%20Photo%201.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.987701,
+              33.475483
+            ],
+            [
+              -81.984871,
+              33.478348
+            ],
+            [
+              -81.986847,
+              33.480064
+            ],
+            [
+              -81.99054,
+              33.481853
+            ],
+            [
+              -81.992165,
+              33.484432
+            ],
+            [
+              -81.994743,
+              33.488083
+            ],
+            [
+              -81.99543,
+              33.490517
+            ],
+            [
+              -81.995857,
+              33.49202
+            ],
+            [
+              -81.997314,
+              33.493809
+            ],
+            [
+              -81.998436,
+              33.494667
+            ],
+            [
+              -81.999123,
+              33.495167
+            ],
+            [
+              -82.000237,
+              33.496029
+            ],
+            [
+              -82.000237,
+              33.495384
+            ],
+            [
+              -81.999809,
+              33.495457
+            ],
+            [
+              -82.00058,
+              33.496098
+            ],
+            [
+              -82.000839,
+              33.495811
+            ],
+            [
+              -82.00058,
+              33.495811
+            ],
+            [
+              -82.00032,
+              33.49567
+            ],
+            [
+              -81.999634,
+              33.495167
+            ],
+            [
+              -82.000664,
+              33.49567
+            ],
+            [
+              -82.000496,
+              33.495457
+            ],
+            [
+              -82.000069,
+              33.495312
+            ],
+            [
+              -81.999809,
+              33.495525
+            ],
+            [
+              -82.000923,
+              33.495811
+            ],
+            [
+              -82.001007,
+              33.495811
+            ],
+            [
+              -82.00032,
+              33.49617
+            ],
+            [
+              -82.00032,
+              33.496243
+            ],
+            [
+              -82.000496,
+              33.495956
+            ],
+            [
+              -82.00058,
+              33.496243
+            ],
+            [
+              -82.001183,
+              33.495956
+            ],
+            [
+              -82.001007,
+              33.495457
+            ],
+            [
+              -82.001183,
+              33.495884
+            ],
+            [
+              -82.001099,
+              33.49567
+            ],
+            [
+              -82.001007,
+              33.49567
+            ],
+            [
+              -82.001434,
+              33.495811
+            ],
+            [
+              -82.001183,
+              33.495743
+            ],
+            [
+              -82.000237,
+              33.496029
+            ],
+            [
+              -82.000839,
+              33.495884
+            ],
+            [
+              -82.00135,
+              33.495884
+            ],
+            [
+              -82.001869,
+              33.496029
+            ],
+            [
+              -82.001953,
+              33.495098
+            ],
+            [
+              -82.004616,
+              33.492233
+            ],
+            [
+              -82.005219,
+              33.490158
+            ],
+            [
+              -82.006927,
+              33.487652
+            ],
+            [
+              -82.008217,
+              33.485504
+            ],
+            [
+              -82.010452,
+              33.483143
+            ],
+            [
+              -82.010536,
+              33.480923
+            ],
+            [
+              -82.005989,
+              33.480564
+            ],
+            [
+              -82.0047,
+              33.479565
+            ],
+            [
+              -82.004959,
+              33.476414
+            ],
+            [
+              -81.994316,
+              33.475555
+            ],
+            [
+              -81.987701,
+              33.475483
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Harrisburg—West End Historic District",
+        "description": "Roughly bounded by 15th St., Walton Way, Heard Ave., Milledge Rd.",
+        "name_url": "http://www.nps.gov/history/nr/travel/Augusta/harriswesthd.html",
+        "description_url": "http://www.nps.gov/nr/travel/Augusta/web_photos/Harrisburg%20Commercial%20Building%20Photo%201.gif"
+      }
+    }
+  ]
+}

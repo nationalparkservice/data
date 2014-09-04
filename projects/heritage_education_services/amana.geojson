@@ -14,7 +14,7 @@
         "name": "Homestead Dwellings",
         "name_url": "http://www.nps.gov/nr/travel/amana/hod.htm",
         "description": "Iowa",
-        "description_image": "http://www.cr.nps.gov/nr/travel/amana/bingmap_images/homesteaddwellings_mapimage.jpg"
+        "description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/homesteaddwellings_mapimage.jpg"
       }
     },
     {
@@ -27,8 +27,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/bls.htm\">Blacksmith Shop</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/blacksmithshop_mapimage.jpg\" /></div>"
+        "name": "Blacksmith Shop",
+		"name_url":  "http://www.nps.gov/nr/travel/amana/bls.htm",
+        "description": "Iowa",
+		"description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/blacksmithshop_mapimage.jpg"
       }
     },
     {
@@ -41,8 +43,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/dry.htm\">Drying House</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/dryinghouse_mapimage.jpg\" /></div>"
+        "name": "Drying House",
+		"name_url": "http://www.nps.gov/nr/travel/amana/dry.htm",
+        "description": "Iowa",
+		"description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/dryinghouse_mapimage.jpg"
       }
     },
     {
@@ -55,8 +59,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/ams.htm\">Homestead Meat Shop and Smokehouse</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/meatshop_mapimage.jpg\" /></div>"
+        "name": "Homestead Meat Shop and Smokehouse",
+		"name_url": "http://www.nps.gov/nr/travel/amana/ams.htm",
+        "description": "Iowa",
+		"description_url": "http://www.nps.gov/nr/travel/amana/bingmap_images/meatshop_mapimage.jpg"
       }
     },
     {
@@ -69,8 +75,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/ccm.htm\">Community Church Museum</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/communitychurch_mapimage.jpg\" /></div>"
+        "name": "Community Church Museum",
+		"name_url": "http://www.nps.gov/nr/travel/amana/ccm.htm",
+        "description": "Iowa",
+		"description_url": "http://www.nps.gov/nr/travel/amana/bingmap_images/communitychurch_mapimage.jpg"
       }
     },
     {
@@ -83,8 +91,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/die.htm\">Die Heimat Country Inn</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/dieheimat_mapimage.jpg\" /></div>"
+        "name": "Die Heimat Country Inn",
+		"name_url": "http://www.nps.gov/nr/travel/amana/die.htm",
+        "description": "Iowa",
+		"description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/dieheimat_mapimage.jpg"
       }
     },
     {
@@ -97,8 +107,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/mil.htm\">Mill Race</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/millrace_mapimage.jpg\" /></div>"
+        "name": "Mill Race",
+		"name_url": "http://www.nps.gov/nr/travel/amana/mil.htm",
+        "description": "Iowa",
+		"description_url": "http://www.nps.gov/nr/travel/amana/bingmap_images/bingmap_images/millrace_mapimage.jpg"
       }
     },
     {
@@ -111,8 +123,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/mah.htm\">Museum of Amana History</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/museumofah_mapimage.jpg\" /></div>"
+        "name": "Museum of Amana History",
+		"name_url": "http://www.nps.gov/nr/travel/amana/mah.htm",
+        "description": "Iowa",
+		"description_url": "http://www.nps.gov/nr/travel/amana/bingmap_images/museumofah_mapimage.jpg"
       }
     },
     {
@@ -125,8 +139,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/hog.htm\">Powder House</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/powderhouse_mapimage.jpg\" /></div>"
+        "name": "Powder House",
+		"name_url": "http://www.nps.gov/nr/travel/amana/hog.htm",
+        "description": "Iowa",
+		"description_url": "http://www.nps.gov/nr/travel/amana/bingmap_images/powderhouse_mapimage.jpg"
       }
     },
     {
@@ -139,8 +155,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/oxy.htm\">Ox Yoke Inn</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/oxyoke_mapimage.jpg\" /></div>"
+        "name": "Ox Yoke Inn",
+		"name_url": "http://www.nps.gov/nr/travel/amana/oxy.htm",
+        "description": "Iowa",
+		"description_url": "http://www.nps.gov/nr/travel/amana/bingmap_images/oxyoke_mapimage.jpg"
       }
     },
     {
@@ -153,8 +171,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/inn.htm\">Colony Inn Restaurant</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/colonyinn_mapimage.jpg\" /></div>"
+        "name": "Colony Inn Restaurant",
+		"name_url": "http://www.nps.gov/nr/travel/amana/inn.htm",
+        "description": "Iowa",
+		"description_url": "http://www.nps.gov/nr/travel/amana/bingmap_images/colonyinn_mapimage.jpg"
       }
     },
     {
@@ -167,8 +187,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/awm.htm\">Amana Woolen Mill</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/woolenmill_mapimage.jpg\" /></div>"
+        "name": "Amana Woolen Mill",
+		"name_url": "http://www.nps.gov/nr/travel/amana/awm.htm",
+        "description": "Iowa",
+		"description_url": "http://www.nps.gov/nr/travel/amana/bingmap_images/woolenmill_mapimage.jpg"
       }
     },
     {
@@ -181,8 +203,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/rog.htm\">Roger's Anvil/Industrial Machine Shop Museum</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/rogers_mapimage.jpg\" /></div>"
+        "name": "Roger's Anvil/Industrial Machine Shop Museum",
+		"name_url": "http://www.nps.gov/nr/travel/amana/rog.htm",
+        "description": "Iowa",
+		"description_url": "http://www.nps.gov/nr/travel/amana/bingmap_images/rogers_mapimage.jpg"
       }
     },
     {
@@ -195,8 +219,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/afs.htm\">Amana Furniture Shop</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/amanafurniture_mapimage.jpg\" /></div>"
+        "name": "Amana Furniture Shop",
+		"name_url": "http://www.nps.gov/nr/travel/amana/afs.htm",
+        "description": "Iowa",
+		"description_url": "http://www.nps.gov/nr/travel/amana/bingmap_images/amanafurniture_mapimage.jpg"
       }
     },
     {
@@ -209,8 +235,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/lil.htm\">Lily Lake</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/lilylake_mapimage.jpg\" /></div>"
+        "name": "Lily Lake",
+		"name_url": "http://www.nps.gov/nr/travel/amana/lil.htm",
+        "description": "Iowa",
+		"description_url": "http://www.nps.gov/nr/travel/amana/bingmap_images/lilylake_mapimage.jpg"
       }
     },
     {
@@ -223,8 +251,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/kit.htm\">Communal Kitchen and Coopershop Museum</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/communalkitchen_mapimage.jpg\" /></div>"
+        "name": "Communal Kitchen and Coopershop Museum",
+		"name_url": "http://www.nps.gov/nr/travel/amana/kit.htm",
+        "description": "Iowa",
+		"description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/communalkitchen_mapimage.jpg"
       }
     },
     {
@@ -237,8 +267,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/hah.htm\">Hahn's Hearth Oven Bakery</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/hahns_mapimage.jpg\" /></div>"
+        "name": "Hahn's Hearth Oven Bakery",
+		"name_url": "http://www.nps.gov/nr/travel/amana/hah.htm",
+        "description": "Iowa",
+		"description_url": "http://www.nps.gov/nr/travel/amana/bingmap_images/hahns_mapimage.jpg"
       }
     },
     {
@@ -251,8 +283,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/far.htm\">High Amana Farm Complex</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/highamanafarm_mapimage.jpg\" /></div>"
+        "name": "High Amana Farm Complex",
+		"name_url": "http://www.nps.gov/nr/travel/amana/far.htm",
+        "description": "Iowa",
+		"dewscription_url": "http://www.nps.gov/nr/travel/amana/bingmap_images/highamanafarm_mapimage.jpg"
       }
     },
     {
@@ -265,8 +299,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/tag.htm\">Tagloehner Houses</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/tagloehner_mapimage.jpg\" /></div>"
+        "name": "Tagloehner Houses",
+		"name_url": "http://www.nps.gov/nr/travel/amana/tag.htm",
+        "description": "Iowa",
+		"description_url": "http://www.nps.gov/nr/travel/amana/bingmap_images/tagloehner_mapimage.jpg"
       }
     },
     {
@@ -279,8 +315,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/art.htm\">Amana Arts Guild Center</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/amanaarts_mapimage.jpg\" /></div>"
+        "name": "Amana Arts Guild Center",
+		"name_url": "http://www.nps.gov/nr/travel/amana/art.htm",
+        "description": "Iowa",
+		"description_url": "http://www.nps.gov/nr/travel/amana/bingmap_images/amanaarts_mapimage.jpg"
       }
     },
     {
@@ -293,8 +331,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/has.htm\">High Amana Store</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/amanastore_mapimage.jpg\" /></div>"
+        "name": "High Amana Store",
+		"name_url": "http://www.nps.gov/nr/travel/amana/has.htm",
+        "description": "Iowa",
+		"description_url": "http://www.nps.gov/nr/travel/amana/bingmap_images/amanastore_mapimage.jpg"
       }
     },
     {
@@ -307,8 +347,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/cem.htm\">High Amana Cemetery</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/amanacemetery_mapimage.jpg\" /></div>"
+        "name": "High Amana Cemetery",
+		"name_url":"http://www.nps.gov/nr/travel/amana/cem.htm",
+        "description": "Iowa",
+		"description_url": "http://www.nps.gov/nr/travel/amana/bingmap_images/amanacemetery_mapimage.jpg"
       }
     },
     {
@@ -321,8 +363,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/bar.htm\">West Amana Barns</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/amanabarns_mapimage.jpg\" /></div>"
+        "name": "West Amana Barns",
+		"name_url": "http://www.nps.gov/nr/travel/amana/bar.htm",
+        "description": "Iowa",
+		"description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/amanabarns_mapimage.jpg"
       }
     },
     {
@@ -335,8 +379,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/hot.htm\">Lower South Hotel</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/lowersouth_mapimage.jpg\" /></div>"
+        "name": "Lower South Hotel",
+		"name_url": "http://www.nps.gov/nr/travel/amana/hot.htm",
+        "description": "Iowa",
+		"description_url": "http://www.nps.gov/nr/travel/amana/bingmap_images/lowersouth_mapimage.jpg"
       }
     },
     {
@@ -349,8 +395,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/agr.htm\">Barn Museum and Communal Agriculture Museum</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/barnmuseum_mapimage.jpg\" /></div>"
+        "name": "Barn Museum and Communal Agriculture Museum",
+		"name_url": "http://www.nps.gov/nr/travel/amana/agr.htm",
+        "description": "Iowa",
+		"description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/barnmuseum_mapimage.jpg"
       }
     },
     {
@@ -363,8 +411,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/bae.htm\">Baeckerei Bed and Breakfast</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/baeckerei_mapimage.jpg\" /></div>"
+        "name": "Baeckerei Bed and Breakfast",
+		"name_url": "http://www.nps.gov/nr/travel/amana/bae.htm",
+        "description": "Iowa",
+		"description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/baeckerei_mapimage.jpg"
       }
     },
     {
@@ -377,8 +427,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/sas.htm\">South Amana School</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/amanaschool_mapimage.jpg\" /></div>"
+        "name": "South Amana School",
+		"name_url": "http://www.nps.gov/nr/travel/amana/sas.htm",
+        "description": "Iowa",
+		"description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/amanaschool_mapimage.jpg"
       }
     },
     {
@@ -391,8 +443,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/usa.htm\">Upper South Amana Communal Kitchen</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/uppersouth_mapimage.jpg\" /></div>"
+        "name": "Upper South Amana Communal Kitchen",
+		"name_url": "http://www.nps.gov/nr/travel/amana/usa.htm",
+        "description": "Iowa",
+		"description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/uppersouth_mapimage.jpg"
       }
     },
     {
@@ -405,8 +459,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/asb.htm\">Amana Society Bakery</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/amanabakery_mapimage.jpg\" /></div>"
+        "name": "Amana Society Bakery",
+		"name_url": "http://www.nps.gov/nr/travel/amana/asb.htm",
+        "description": "Iowa",
+		"description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/amanabakery_mapimage.jpg"
       }
     },
     {
@@ -419,8 +475,10 @@
         ]
       },
       "properties": {
-        "name": "<a href=\"http://www.nps.gov/nr/travel/amana/sch.htm\">Schulwald</a>",
-        "description": "<div>Iowa</div><div style=\"margin-top:10px;text-align:center;\"><img src=\"http://www.cr.nps.gov/nr/travel/amana/bingmap_images/schulwald_mapimage.jpg\" /></div>"
+        "name": "Schulwald",
+		"name_url": "http://www.nps.gov/nr/travel/amana/sch.htm",
+        "description": "Iowa",
+		"description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/schulwald_mapimage.jpg"
       }
     }
   ]

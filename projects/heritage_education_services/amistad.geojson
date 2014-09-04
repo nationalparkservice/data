@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0955983549356,
+          41.3523741066456
+        ]
+      },
+      "properties": {
+        "name": "New London Customhouse",
+        "description": "Connecticut",
+        "description_url": "http://www.nps.gov/nr/travel/amistad/bingmap_images/customhouse_mapimage.jpg",
+        "name_url": "http://www.nps.gov/nr/travel/amistad/lon.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.673170492053,
+          41.7662074416876
+        ]
+      },
+      "properties": {
+        "name": "Old Statehouse",
+        "description": "Connecticut",
+        "description_url": "http://www.nps.gov/nr/travel/amistad/bingmap_images/statehouse_mapimage.jpg",
+        "name_url": "http://www.nps.gov/nr/travel/amistad/sta.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6827151328325,
+          41.7628365755081
+        ]
+      },
+      "properties": {
+        "name": "Conneticut State Library and Supreme Court Building",
+        "description": "Connecticut",
+        "name_url": "http://www.nps.gov/nr/travel/amistad/lib.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amistad/bingmap_images/statelibrary_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.92698,
+          41.308031
+        ]
+      },
+      "properties": {
+        "name": "New Haven Green",
+        "description": "Connecticut",
+        "name_url": "http://www.nps.gov/nr/travel/amistad/gre.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amistad/bingmap_images/newhavengreen_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9245444387197,
+          41.3098778575659
+        ]
+      },
+      "properties": {
+        "name": "United Church on the Green",
+        "description": "Connecticut",
+        "name_url": "http://www.nps.gov/nr/travel/amistad/unt.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amistad/bingmap_images/unitedchurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9215115308762,
+          41.314225718379
+        ]
+      },
+      "properties": {
+        "name": "New Haven Colony Historic District",
+        "description": "Connecticut",
+        "name_url": "http://www.nps.gov/nr/travel/amistad/new.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amistad/bingmap_images/colonyhs_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8338817507029,
+          41.7177761346102
+        ]
+      },
+      "properties": {
+        "name": "Austin F. Williams Carriagehouse and House",
+        "description": "Connecticut",
+        "name_url": "http://www.nps.gov/nr/travel/amistad/wil.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amistad/bingmap_images/williams_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8332427144051,
+          41.7184983193874
+        ]
+      },
+      "properties": {
+        "name": "Noah Porter House",
+        "description": "Connecticut",
+        "name_url": "http://www.nps.gov/nr/travel/amistad/por.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amistad/bingmap_images/porterhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8306054323912,
+          41.7209646105766
+        ]
+      },
+      "properties": {
+        "name": "Timothy Cowles House",
+        "description": "Connecticut",
+        "name_url": "http://www.nps.gov/nr/travel/amistad/tim.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amistad/bingmap_images/cowles_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8287084400654,
+          41.7198313772678
+        ]
+      },
+      "properties": {
+        "name": "Union Hall",
+        "description": "Connecticut",
+        "name_url": "http://www.nps.gov/nr/travel/amistad/uni.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amistad/bingmap_images/unionhall_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8300803899765,
+          41.7214199155569
+        ]
+      },
+      "properties": {
+        "name": "First Church of Christ",
+        "description": "Connecticut",
+        "name_url": "http://www.nps.gov/nr/travel/amistad/fir.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amistad/bingmap_images/firstchurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8296861052513,
+          41.721879914403
+        ]
+      },
+      "properties": {
+        "name": "Samuel Deming House",
+        "description": "Connecticut",
+        "name_url": "http://www.nps.gov/nr/travel/amistad/dem.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amistad/bingmap_images/deming_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8263239562511,
+          41.7247009277344
+        ]
+      },
+      "properties": {
+        "name": "Horace Cowles House",
+        "description": "Connecticut",
+        "name_url": "http://www.nps.gov/nr/travel/amistad/cow.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amistad/bingmap_images/hcowles_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.82386302948,
+          41.7227831482887
+        ]
+      },
+      "properties": {
+        "name": "Stanley-Whitman House",
+        "description": "Connecticut",
+        "name_url": "http://www.nps.gov/nr/travel/amistad/whi.htm",
+        "description_url": "http://www.nps.gov/nr/travel/amistad/bingmap_images/stanleywhitman_mapimage.jpg"
+      }
+    }
+  ]
+}

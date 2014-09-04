@@ -1,0 +1,757 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.856667,
+          44.113611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv1.htm",
+        "name": "Warren Historic District",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/warrenhistoricdistrict_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.856944,
+          44.111111
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv42.htm",
+        "name": "Woodbury Graded School",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/woodburyschool_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.856944,
+          44.111111
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv41.htm",
+        "name": "Kent's Corner Historic District",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/kenthd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.856944,
+          44.111111
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv43.htm",
+        "name": "Woodbury Town Hall",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/woodburytownhall_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.856944,
+          44.111111
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv2.htm",
+        "name": "Warren Covered Bridge",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/warrencoveredbridge_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.845833,
+          44.193611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv3.htm",
+        "name": "McLaughlin/Knoll Farm Historic District",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/knollfarm_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.822778,
+          44.190556
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv4.htm",
+        "name": "Waitsfield Historic District",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/waitsfieldhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.81,
+          44.168611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv5.htm",
+        "name": "Joslin Round Barn Farm",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/joslin_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.791944,
+          44.205833
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv6.htm",
+        "name": "Covered Bridges of Waitsfield",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/waitsfieldcoveredbridge_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.791389,
+          44.221111
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv3.htm",
+        "name": "McLaughlin/Knoll Farm Historic District",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/knollfarm_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.754722,
+          44.335
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv4.htm",
+        "name": "Waitsfield Historic District",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/waitsfieldhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.747778,
+          44.343056
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv5.htm",
+        "name": "Joslin Round Barn Farm",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/joslin_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.743056,
+          44.349722
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv6.htm",
+        "name": "Covered Bridges of Waitsfield",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/waitsfieldcoveredbridge_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.720278,
+          44.380833
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv7.htm",
+        "name": "Mad River Valley Rural Historic District",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/madriverhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.718056,
+          44.3775
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv8.htm",
+        "name": "Waterbury Village Historic District",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/waterburyhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.696667,
+          44.306111
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv9.htm",
+        "name": "Mill Village Historic District",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/millvillagehd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6767349243164,
+          44.190242767334
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv10.htm",
+        "name": "Colby Mansion",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/colbymansion_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.658333,
+          44.148611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv11.htm",
+        "name": "Waterbury Center Methodist Church",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/waterburychurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.656111,
+          44.148333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv12.htm",
+        "name": "Green Mountain Seminary",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/gmseminary_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6575,
+          44.118611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv13.htm",
+        "name": "Middlesex-Winooski River Bridge",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/middlesexbridge_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.743889,
+          44.062778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv14.htm",
+        "name": "Covered Bridges of Northfield",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/northfieldbridges_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.576944,
+          44.261389
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv15.htm",
+        "name": "Central Vermont Rail Depot",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/cvraildepot_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.580833,
+          44.262222
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv16.htm",
+        "name": "Mayo Building",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/mayobuilding_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.579722,
+          44.255833
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv17.htm",
+        "name": "Old Red Mill",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/oldredmill_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.567778,
+          44.255278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv18.htm",
+        "name": "Roxbury Fish Hatchery",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/roxburyfish_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.58,
+          44.210833
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv19.htm",
+        "name": "Montpelier Historic District",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/montpelierhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.512778,
+          44.205
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv20.htm",
+        "name": "Vermont State House",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/statehouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.509444,
+          44.203611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv21.htm",
+        "name": "Athenwood and Thomas W. Wood Studio",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/athenwoodstudio_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5075,
+          44.198333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv22.htm",
+        "name": "College Hall, Vermont College",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/collegehall_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.503611,
+          44.198056
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv23.htm",
+        "name": "Chauncey B. Leonard House",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/leonardhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.502778,
+          44.196667
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv24.htm",
+        "name": "Twing Gristmill",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/twinggristmill_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5025,
+          44.197222
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv25.htm",
+        "name": "Italian Baptist Church",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/italianbaptist_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.553333,
+          44.198056
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv26.htm",
+        "name": "Socialist Labor Party Hall",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/socialisthall_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.458611,
+          44.149722
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv27.htm",
+        "name": "Wheelock Law Office",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/wheelock_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.692268371582,
+          44.6357383728027
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv28.htm",
+        "name": "Barre City Hall and Opera House",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/barrecityhall_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5275,
+          44.283333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv29.htm",
+        "name": "Barre City Downtown Historic District",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/barrehd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.487778,
+          44.271944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv30.htm",
+        "name": "Currier Park Historic District",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/currierhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.455,
+          44.280833
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv31.htm",
+        "name": "Nichols House",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/nicholshouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.434444,
+          44.278611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv32.htm",
+        "name": "Parley Davis House",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/davishouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.433889,
+          44.278333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv33.htm",
+        "name": "Union Meeting House",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/unionhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.425556,
+          44.278611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv34.htm",
+        "name": "East Village Meeting House",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/eastvillage_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.423611,
+          44.275278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv35.htm",
+        "name": "Coburn Covered Bridge",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/coburnbridge_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.493611,
+          44.358611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv36.htm",
+        "name": "Goddard College Greatwood Campus",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/goddardcollege_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.488333,
+          44.365
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv37.htm",
+        "name": "Allenwood Farm",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/allenwood_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.416291,
+          44.440008
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv40.htm",
+        "name": "Old West Church",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/oldwestchurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.416291,
+          44.440008
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv38.htm",
+        "name": "Plainfield Village Historic District",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/plainfieldhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.55,
+          44.375278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/centralvermont/cv39.htm",
+        "name": "Gale-Bancroft House",
+        "description": "Vermont",
+        "description_url": "http://www.nps.gov/nr/travel/centralvermont/googlemap_images/galebancroft_mapimage.jpg"
+      }
+    }
+  ]
+}

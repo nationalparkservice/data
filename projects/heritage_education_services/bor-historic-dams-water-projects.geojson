@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.448611,
+          43.3575
+        ]
+      },
+      "properties": {
+        "name": "Anderson Ranch Dam and Power Plant",
+        "description": "Elmore County, Idaho",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Anderson_Ranch_Dam_and_Powerplant.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/anderson.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.922222,
+          43.595556
+        ]
+      },
+      "properties": {
+        "name": "Arrowrock Dam",
+        "description": "Boise and Elmore Counties, Idaho",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/arrowrock.jpg",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Arrowrock_Dam.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.2538403,
+          32.4901173
+        ]
+      },
+      "properties": {
+        "name": "Avalon Dam",
+        "description": "Eddy County, New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Avalon_Dam.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/avalon.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.631667,
+          33.818056
+        ]
+      },
+      "properties": {
+        "name": "Bartlett Dam",
+        "description": "Maricopa County, Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Bartlett_Dam.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/bartlett.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6774189,
+          44.731096
+        ]
+      },
+      "properties": {
+        "name": "Belle Fourche Dam",
+        "description": "Butte County, South Dakota",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Belle_Fourche_Dam.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/belle.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.184167,
+          44.501667
+        ]
+      },
+      "properties": {
+        "name": "Buffalo Bill Dam",
+        "description": "Park County, Wyoming",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Buffalo_Bill_Dam.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/buffalo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.446944,
+          39.585833
+        ]
+      },
+      "properties": {
+        "name": "Derby Diversion Dam",
+        "description": "Storey and Washoe Counties, Nevada",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Derby_Diversion_Dam.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/derby.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.192113,
+          33.153969
+        ]
+      },
+      "properties": {
+        "name": "Elephant Butte Dam and Spillway",
+        "description": "Sierra, New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Elephant_Butte_Dam_and_Spillway.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/elephant.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.760833,
+          47.601111
+        ]
+      },
+      "properties": {
+        "name": "Gibson Dam",
+        "description": "Teton and Lewis and Clark Counties, Montana",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Gibson_Dam.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/gibson.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9483,
+          42.4797
+        ]
+      },
+      "properties": {
+        "name": "Glendo Dam",
+        "description": "Casso, Wyoming",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Glendo_Dam.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/glendo.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.981667,
+          47.955833
+        ]
+      },
+      "properties": {
+        "name": "Grand Coulee Dam",
+        "description": "Grant and Okanogan Counties, Washington",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Grand_Coulee_Dam.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/coulee.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.763737,
+          42.290167
+        ]
+      },
+      "properties": {
+        "name": "Guernsey Dam",
+        "description": "Platte County, Wyoming",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Guernsey_Dam.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/guernsey.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.721389,
+          38.493333
+        ]
+      },
+      "properties": {
+        "name": "Gunnison Tunnel",
+        "description": "Montrose County, Colorado",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Gunnison_Tunnel.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/gunnison.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.737778,
+          36.015556
+        ]
+      },
+      "properties": {
+        "name": "Hoover Dam",
+        "description": "Clark County, Nevada and Mohave County, Arizona",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Hoover_Dam.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/hoover.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.014167,
+          48.341667
+        ]
+      },
+      "properties": {
+        "name": "Hungry Horse Dam",
+        "description": "Flathead County, Montana",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Hungry_Horse_Dam.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/horse.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.494167,
+          32.823056
+        ]
+      },
+      "properties": {
+        "name": "Laguna Dam District",
+        "description": "Yuma County, Arizona and Imperial County, California",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Laguna_Dam_District.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/laguna.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.064722,
+          39.4625
+        ]
+      },
+      "properties": {
+        "name": "Lahontan Dam and Power Station",
+        "description": "Churchill County, Nevada",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Lahontan_Dam_and_Power_Station.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/lahontan.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9238997,
+          32.4967541
+        ]
+      },
+      "properties": {
+        "name": "Leasburg Diversion Dam",
+        "description": "Doa Ana County, New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Leasburg_Diversion_Dam.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/leasburg.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.483611,
+          42.669444
+        ]
+      },
+      "properties": {
+        "name": "Minidoka Dam and Power Plant",
+        "description": "Minidoka and Cassia Counties, Idaho",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Minidoka_Dam_and_Power_plant.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/minidoka.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2425,
+          43.641944
+        ]
+      },
+      "properties": {
+        "name": "Owyhee Dam",
+        "description": "Malheur County, Oregon",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Owyhee_Dam.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/owyhee.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.139167,
+          34.296389
+        ]
+      },
+      "properties": {
+        "name": "Parker Dam",
+        "description": "LaPaz County, Arizona and San Bernardino County, California",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Parker_Dam.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/parker.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.861274719238,
+          42.469669342041
+        ]
+      },
+      "properties": {
+        "name": "Pathfinder Dam",
+        "description": "Natrona County, Wyoming",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Pathfinder_Dam.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/pathfinder.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.303333,
+          32.868333
+        ]
+      },
+      "properties": {
+        "name": "Percha Diversion Dam",
+        "description": "Sierra County, New Mexico",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Percha_Diversion_Dam.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/percha.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.429420471191,
+          40.715518951416
+        ]
+      },
+      "properties": {
+        "name": "Shasta Dam",
+        "description": "Shasta County, California",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Shasta_Dam.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/shasta.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.129444,
+          46.656389
+        ]
+      },
+      "properties": {
+        "name": "Tieton Dam",
+        "description": "Yakima County, Washington",
+        "name_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/Tieton_Dam.html",
+        "description_url": "http://www.nps.gov/nr/travel/ReclamationDamsAndWaterProjects/map_images/tieton.jpg"
+      }
+    }
+  ]
+}
