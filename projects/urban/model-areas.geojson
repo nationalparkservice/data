@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tucson, Arizona",
+        "url": "http://www.nps.gov/sagu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.92620849609375,
+          32.22180539324502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richmond, California",
+        "url": "http://www.nps.gov/rori/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34769821166991,
+          37.93573614631329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Louis, Missouri",
+        "url": "http://www.nps.gov/jeff/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1974105834961,
+          38.62719737165611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chicago, Illinois"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62557983398438,
+          41.87416255688654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Detroit, Michigan",
+        "url": "http://www.nps.gov/auto/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.056640625,
+          42.348395259793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jacksonville, Florida",
+        "url": "http://www.nps.gov/foca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.65725708007812,
+          30.331398006092723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New York, New York",
+        "url": "http://www.nps.gov/npnh/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98674011230469,
+          40.73034831215804
+        ]
+      }
+    }
+  ]
+}
