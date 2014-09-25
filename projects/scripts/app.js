@@ -44,7 +44,7 @@ App = {
 
 NPMap = {
   baseLayers: [
-    nps-parkTiles
+    "nps-parkTiles"
   ],
   center: {
     lat: 36.70806354647625,
