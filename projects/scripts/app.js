@@ -42,7 +42,6 @@ App = {
   }
 };
 
-
 NPMap = {
   baseLayers: [
     nps-parkTiles
