@@ -66,17 +66,17 @@ var NPMap = {
             var layer = response.layers[i],
             name = layer.name;
 
-            if (name === 'SEKI_SOCIO_ViewshedInsideWildernes') {
+          if (name === 'SEKI_SOCIO_ViewshedInsideWildernes') {
               html += '' +
               '<tr>' +
               '<td style="vertical-align:bottom !important;padding-right: 2px;"><input id="' + name + '" name="checkLayers" onchange="layerVisible();return false;" type="checkbox" checked></td>' +
-              '<td><label for="'+ name + '">'+ name.splice(0,10) + '</label></td>' +
+              '<td><label for="'+ name + '">'+ name.slice(11, name.length) + '</label></td>' +
             '</tr>'
             } else {
               html += '' +
               '<tr>' +
               '<td style="vertical-align:bottom !important;padding-right: 2px;"><input id="' + name + '" name="checkLayers" onchange="layerVisible();return false;" type="checkbox"></td>' +
-              '<td><label for="'+ name + '">'+ name + '</label></td>' +
+              '<td><label for="'+ name + '">'+ name.slice(11, name.length) + '</label></td>' +
             '</tr>'
             }
           };
