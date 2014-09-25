@@ -29,7 +29,7 @@ var NPMap = {
       L.npmap.util._.reqwest({
         success: function(response) {
 
-            layerVisible = function() {
+            layerVisible = function(){
               var active = [],
               overlay = NPMap.config.overlays[0],
               i;
@@ -39,19 +39,19 @@ var NPMap = {
 
               if (document.getElementById(type).checked) {
                 active.push(type);
-              } else {
-                for (i = 0; i < response.layers.length; i++) {
-                  response.layers[i].defaultVisibility = false;
-                }
+              }
             }
-          }
 
             for (i = 0; i < response.layers.length; i++) {
-                if (response.layers[i].name.indexOf(active) > -1){
-                  response.layers[i].defaultVisibility = true;
+              var layer = response.layers[i];
+
+                if (layer.name.indexOf(active) === -1){
+                  layer.defaultVisibility = true;
+                } else {
+                  layer.defaultVisibility = false;
                 }
 
-              if (response.layers[i].defaultVisibility === true) {
+              if (layer.defaultVisibility) {
                 NPMap.config.L.addLayer(overlay.L);
               } else {
                 NPMap.config.L.removeLayer(overlay.L);
@@ -66,11 +66,11 @@ var NPMap = {
             var layer = response.layers[i],
             name = layer.name;
 
-            if (name === 'SEKI_SOCIO_WCMUntrammeledQuality') {
+            if (name === 'SEKI_SOCIO_ViewshedInsideWildernes') {
               html += '' +
               '<tr>' +
               '<td style="vertical-align:bottom !important;padding-right: 2px;"><input id="' + name + '" name="checkLayers" onchange="layerVisible();return false;" type="checkbox" checked></td>' +
-              '<td><label for="'+ name + '">'+ name + '</label></td>' +
+              '<td><label for="'+ name + '">'+ name.splice(0,10) + '</label></td>' +
             '</tr>'
             } else {
               html += '' +
