@@ -63,13 +63,13 @@ NPMap = {
       layers: "0,1,2,3,4,5,6",
       opacity: 1,
       tiled: false,
-      type: arcgisserver,
+      type: "arcgisserver",
       url: "http://inpsekigistest/arcgis/rest/services/SEKI/SEKI_SOCIO/MapServer",
-      attribution: "{Value}",
+      attribution: "{{Value}}",
       description: "SEKI SOCIO Rasters",
       name: "SEKI SOCIO Rasters",
       popup: {
-        description: "{Pixel Value}",
+        description: "{{Pixel Value}}",
         title: "{{[Pixel Value]}}"
       }
     }
