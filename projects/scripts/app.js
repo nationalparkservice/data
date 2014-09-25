@@ -1,3 +1,5 @@
+var App, NPMap;
+
 App = {
   types: [
     'travelTime',
@@ -41,7 +43,7 @@ App = {
 };
 
 
-var NPMap = {
+NPMap = {
   baseLayers: [
     nps-parkTiles
   ],
@@ -105,7 +107,8 @@ var NPMap = {
       '</tr>' +
     '</table>',
     position: 'bottomleft'
-  },
+  }
+};
 
 var s = document.createElement('script');
 s.src = 'http://www.nps.gov/npmap/npmap.js/2.0.0/npmap-bootstrap.min.js';
