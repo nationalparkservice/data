@@ -1,0 +1,1045 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -131.639609,
+          55.34038
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Stedman-Thomas-Historic-District.htm",
+        "name": "Stedman Thomas Historic District",
+        "description": "Ketchikan, Alaska",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Stedman Thomas Historic District-Thomas Street and Basin-NPS.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.947222,
+          56.975833
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Kake-Cannery.htm",
+        "name": "Kake Cannery",
+        "description": "Kake, Alaska",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Kake Cannery-dock and buildings-LOC.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.696945,
+          -14.274385
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/National-Park-of-American-Samoa.htm",
+        "name": "National Park of American Samoa",
+        "description": "American Samoa",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/National Park of American Samoa-beach.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.401611,
+          33.987748
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Poston-Elementary-School-Unit-I.htm",
+        "name": "Poston Elementary School Unit I",
+        "description": "Poston, Arizona",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Poston_Elementary_School_Building_Image.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.279909,
+          33.766515
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Rohwer-Relocation-Center-Memorial-Cemetery.htm",
+        "name": "Rohwer Relocation Center Memorial Cemetery",
+        "description": "Rohwer, Arkansas",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Rohwer_cemetery_monument_Brandonrush_2014_Wikimedia.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426006,
+          37.869712
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/US-Immigration-Station-Angel-Island.htm",
+        "name": "US Immigration Station Angel Island",
+        "description": "San Francisco Bay, California",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/US Immigration Station Angel Island_Carol M Highsmith_2013_LOC.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421002,
+          37.808547
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Sailing-Ship-Balclutha.htm",
+        "name": "Sailing Ship Balclutha",
+        "description": "San Francisco, California",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Balclutha at Hyde St.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.012222,
+          38.212222
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Bodie-Historic-District.htm",
+        "name": "Bodie Historic District",
+        "description": "Bodie, California",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Bodie_house_Jon Sullivan_Wikipedia.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.039072,
+          37.253978
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Hakone-Historic-District.htm",
+        "name": "Hakone Historic District",
+        "description": "Saratoga, California",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Hakone_stepping stone path to Upper House_NRHP.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.605843,
+          38.162574
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Isleton-Chinese-and-Japanese-Commercial-Districts.htm",
+        "name": "Isleton Chinese and Japanese Commercial Districts",
+        "description": "Isleton, California",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Isleton_Chinese_and_Japanese_Commercial_Districts_Stierch_Wikimedia 2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.239147,
+          34.049234
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Little-Tokyo-Historic-District.htm",
+        "name": "Little Tokyo Historic District",
+        "description": "Los Angeles, California",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Little Tokyo_FarEastCafe.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.509973,
+          38.251289
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Locke-Historic-District.htm",
+        "name": "Locke Historic District",
+        "description": "Locke, California",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/LockeChineseSchool.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.147147,
+          36.728094
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Manzanar-National-Historic-Site.htm",
+        "name": "Manzanar National Historic Site",
+        "description": "Independence, California",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/ManzanarWatchTowerReplica_small.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.980858,
+          37.578231
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Niles-Canyon-Transcontinental-Railroad-Historic-District.htm",
+        "name": "Niles Canyon Transcontinental Railroad Historic District",
+        "description": "Fremont and Sunol, California",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Niles Canyon Railway_Shawn Clover_2014_Flickr.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.462443,
+          37.802935
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Presidio-of-San-Francisco.htm",
+        "name": "Presidio of San Francisco",
+        "description": "San Francisco, California",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/PresidioBuilding 35.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.173347,
+          32.720287
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Star-of-India.htm",
+        "name": "Star of India",
+        "description": "San Diego, California",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Star of India at Maritime Museum-Ted Rufus Ross-Wikipedia.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.287501,
+          35.76326
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/The-Forty-Acres.htm",
+        "name": "The Forty Acres",
+        "description": "Delano, California",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/The Forty Acres-Health Clinic-HABS-HAER-HALS.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.476922,
+          41.950837
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Tule-Lake-Unit-WWII-Valor-in-the-Pacific-National-Monument.htm",
+        "name": "Tule Lake Unit WWII Valor in the Pacific National Monument",
+        "description": "Tulelake, California",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/TuleLake_streets_historic.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.51325,
+          38.242768
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Walnut-Grove-Chinese-Historic-District.htm",
+        "name": "Walnut Grove Chinese Historic District",
+        "description": "Walnut Grove, California",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Walnut Grove Chinese Historic District-Jasperdo-2010-Flickr.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.511659,
+          38.243581
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Walnut-Grove-Japanese-American-Historic-District.htm",
+        "name": "Walnut Grove Japanese American Historic District",
+        "description": "Walnut Grove, California",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Walnut Grove Japanese American Historic District-Wayne Hseih-Flickr.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.32912,
+          38.056308
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Granada-Relocation-Center.htm",
+        "name": "Granada Relocation Center",
+        "description": "Granada, Colorado",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/GranadaLandscape-J Stephen Conn-Flickr.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.021698,
+          38.89983
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Downtown-Historic-District.htm",
+        "name": "Downtown Historic District (Chinatown)",
+        "description": "District of Columbia",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Downtown historic district-DC_gate_Postdlf_Wikipedia.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.334634,
+          6.842123
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Nan-Madol.htm",
+        "name": "Nan Madol",
+        "description": "Pohnpei Island, Federated State of Micronesia",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Nan Modal-Kelepwei-CTsnow-Flickr.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.675916,
+          13.421992
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/War-In-The-Pacific-National-Historical-Park.htm",
+        "name": "War in the Pacific National Historical Park",
+        "description": "Guam",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/War in the Pacific_DOI Office of Insular Affairs.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.824996,
+          19.990682
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Ala-Kahakai-National-Historic-Trail.htm",
+        "name": "Ala Kahakai National Historic Trail",
+        "description": "Island of Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Ala Kahakia trail_NPS.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.862524,
+          21.311778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Chinatown-Historic-District.htm",
+        "name": "Chinatown Historic District",
+        "description": "Honolulu, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Chinatown-Honolulu-Wo Fat Building-Loren Javier-2010-Flickr.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.666103,
+          21.952983
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Cook-Landing-Site.htm",
+        "name": "Cook Landing Site",
+        "description": "Waimea, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Cook landing Waimea Beach Picture.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.2511,
+          20.714713
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Haleakala-National-Park.htm",
+        "name": "Haleakala National Park",
+        "description": "Island of Maui, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/HaleakalaCrater_NPS.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.288883,
+          19.420543
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Hawaii-Volcanoes-National-Park.htm",
+        "name": "Hawaii Volcanoes National Park",
+        "description": "Island of Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Hawaii Volcanoes-Mauna Loa_David Boyle_NPS.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.832901,
+          21.059149
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Hokukano-Ualapue-Complex.htm",
+        "name": "Hokukano-Ualapue Complex",
+        "description": "Island of Molokai, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Hokukano Ualapue Fishpond_Google Maps.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.868647,
+          21.557387
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Huilua-Fishpond.htm",
+        "name": "Huilua Fishpond",
+        "description": "Island of Oahu, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Huiluafishpond-Kahanabay_Joel Bradshaw_wikipedia.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.858738,
+          21.306817
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Iolani-Palace.htm",
+        "name": "Iolani Palace",
+        "description": "Honolulu, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Iolani Palace Exterior.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.984242,
+          21.190283
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Kalaupapa-National-Park.htm",
+        "name": "Kalaupapa National Historical Park",
+        "description": "Island of Moloka'i, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/KalaupapaVillageCliffs_ Sanba38_Wikimedia_2006.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.021745,
+          19.678723
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Kaloko-Honokohau-National-Historical-Park.htm",
+        "name": "Kaloko Honokohau National Historical Park",
+        "description": "Kona Coast, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Kaloko_Aiopio fish pond-NPS.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.997566,
+          19.638828
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Kamakahonu.htm",
+        "name": "Kamakahonu",
+        "description": "Kailua-Kona, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Kamakahonu Ahuena_Heiau-Calbear22-2007-Wikimedia.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.963256,
+          20.73407
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Kaunolu-Village-Site.htm",
+        "name": "Kaunolu Village Site",
+        "description": "Island of Lanai, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Kaunolu-Kahekili-leap-gap-Joel Bradshaw-Wikimedia.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.857982,
+          21.304709
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Kawaiahao-Church-and-Mission-Houses.htm",
+        "name": "Kawaiahao Church and Mission Houses",
+        "description": "Honolulu, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Kawaiahao-church-front.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.678044,
+          20.871597
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Lahaina-Historic-District.htm",
+        "name": "Lahaina Historic District",
+        "description": "Lahaina, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Lahaina Historic District.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.121577,
+          20.636871
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Loaloa-Heiau.htm",
+        "name": "Loaloa Heiau",
+        "description": "Island of Maui, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Loaloa Heiau_Manawainui Valley-NPS.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.456076,
+          19.758774
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Mauna-Kea-Adze-Quarry.htm",
+        "name": "Mauna Kea Adze Quarry",
+        "description": "Mauna Kea Ice Age Natural Area Reserve, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Mauna Kea Adze Quarry.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.883248,
+          20.255911
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Mookini-Heiau.htm",
+        "name": "Mo'okini Heiau",
+        "description": "Hawi, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Mookini Heiau 4_Rose Say_2012_Flickr.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.465491,
+          21.90487
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Old-Sugar-Mill-of-Koloa.htm",
+        "name": "Old Sugar Mill of Koloa",
+        "description": "Koloa, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/old-sugar-mill-Koloa-chimney-Joel Bradshaw_Wikipedia.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.038501,
+          20.798992
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Piilanihale-Heiau.htm",
+        "name": "Pi'ilanihale Heiau",
+        "description": "Hana, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Piilanihale Heiau slope-Flickr-2009.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.909943,
+          19.422747
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Puuhonua-o-Honaunau-National-Historical-Park.htm",
+        "name": "Pu'uhonua O Honaunau National Historical Park",
+        "description": "Honaunau, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Puuhonua_Fully_restored_NPS.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.058477,
+          21.641606
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Puu-o-Mahuka-Heiau.htm",
+        "name": "Pu'u O Mahuka Heiau",
+        "description": "Pupukea, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Puu-o-Mahuka.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.821522,
+          20.025364
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Puukohola-Heiau-National-Historic-Site.htm",
+        "name": "Pu'ukohola Heiau National Historic Site",
+        "description": "Kawaihae, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Puukahola Heiau aerial view.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.662819,
+          21.95221
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Russian-Fort.htm",
+        "name": "Russian Fort",
+        "description": "Island of Kauai, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Russian Fort-Hey Skinny-Flickr-2012.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.681793,
+          18.912216
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/South-Point-Complex.htm",
+        "name": "South Point Complex",
+        "description": "Island of Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/South Point-beach.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.336657,
+          22.047807
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Wailua-Complex-of-Heiaus.htm",
+        "name": "Wailua Complex of Heiaus",
+        "description": "Wailua, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Wailua Complex-Heiau-Poliahu-WailuaRiver-overlook_Joel Bradshaw_wiki_publicdomain (1).jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.857148,
+          21.30849
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Washington-Place.htm",
+        "name": "Washington Place",
+        "description": "Honolulu, Hawaii",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Washington Place.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.244281,
+          42.678113
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Minidoka-National-Historic-Site.htm",
+        "name": "Minidoka National Historic Site",
+        "description": "Jerome County, Idaho",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Minidoka entrance area.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.070803,
+          42.359729
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/McGregor-Memorial-Conference-Center.htm",
+        "name": "McGregor Memorial Conference Center",
+        "description": "Detroit, Michigan",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/McGregor Conference Center.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.535446,
+          46.0117
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Butte-Anaconda-Historic-District.htm",
+        "name": "Butte Anaconda Historic District",
+        "description": "Butte, Anaconda, and Walkerville, Montana",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Butte pekin noodle parlour_Richard Gibson _butte-anaconda-nhl-district.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.649979,
+          39.309514
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Virginia-City-Historic-District.htm",
+        "name": "Virignia City Historic District",
+        "description": "Virginia City, Nevada",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Virginia City-C Street-Don Graham-2010-Flickr.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.997881,
+          40.716626
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Chinatown-and-Little-Italy-Historic-District.htm",
+        "name": "Chinatown and Little Italy Historic District",
+        "description": "New York, New York",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Chinatown_NYC__NRHP.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.956019,
+          44.417462
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Kam-Wah-Chung-Company-Building.htm",
+        "name": "Kam Wah Chung Company Building",
+        "description": "John Day, Oregon",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Kam_Wah_Chung_Museum_Gary Halvorson, Oregon State Archives_2009.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.674423,
+          45.52456
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Portland-New-Chinatown-Japantown-Historic-District.htm",
+        "name": "Portland New Chinatown Japantown Historic District",
+        "description": "Portland, Oregon",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Portland Portland Chinatown-Hung Far Low sign-Mike Krezesak-Flickr.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.955189,
+          40.340382
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/George-Nakashima-Woodworker-Complex.htm",
+        "name": "George Nakashima Woodworker Complex",
+        "description": "New Hope, Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/George Nakashima_Conoid Studio_HABS.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.779211,
+          39.418368
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Central-Utah-Relocation-Center-Topaz-Site.htm",
+        "name": "Central Utah Relocation Center (Topaz) Site",
+        "description": "Delta, Utah",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Central Utah_Topaz_PhilKonstantin_2008.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.510269,
+          47.614411
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Bainbridge-Island-Japanese-American-Exclusion-Memorial.htm",
+        "name": "Bainbridge Island Japanese American Exclusion Memorial",
+        "description": "Bainbridge Island, Washington",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Bainbridge Island map image.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.326367,
+          47.600033
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Panama-Hotel.htm",
+        "name": "Panama Hotel",
+        "description": "Seattle, Washington",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Panama Hotel_Joe Mabel_Wiki.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.325066,
+          47.598364
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Seattle-Chinatown-Historic-District.htm",
+        "name": "Seattle Chinatown Historic District",
+        "description": "Seattle, Washington",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Seattle Chinatown-Hing Hay Park pavilion-canopic-2008-Flickr.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.322856,
+          47.598367
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Wing-Luke-Museum-of-the-Asian-Pacific-American-Experience.htm",
+        "name": "Wing Luke Museum of the Asian Pacific American Experience",
+        "description": "Seattle, Washington",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Wing Luke Museum-Kong Yick Building.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.941374,
+          44.670392
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Heart-Mountain-Relocation-Center.htm",
+        "name": "Heart Mountain Relocation Center",
+        "description": "Park County, Wyoming",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Heart Mountain Relocation Center_NPS.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.55029,
+          41.616751
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/Golden-Spike-National-Historic-Site.htm",
+        "name": "Golden Spike National Historc Site",
+        "description": "Box Elder County, Utah",
+        "description_url": "http://www.nps.gov/nr/testing/travel/Asian_American_and_Pacific_Islander_Heritage/mapimages/Golden Spike_engines_at_the_NHS_Carol M Highsmith_LOC.jpg"
+      }
+    }
+  ]
+}
