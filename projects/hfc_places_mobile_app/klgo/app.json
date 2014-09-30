@@ -655,16 +655,6 @@
       "type": "image"
     },
     {
-      "alt": "A modern photograph of Brackett’s Trading Post which later became Boss Bakery.",
-      "caption": "Boss Bakery, originally Brackett’s Trading Post. Photo Credit: KLGO Collections.",
-      "id": 40,
-      "relative_url": "40.jpg",
-      "relative_url_@2x": null,
-      "size_in_kb": null,
-      "size_in_kb_@2x": null,
-      "type": "image"
-    },
-    {
       "alt": "A modern photograph of the historic Goldberg Cigar Store.",
       "caption": "The historic Goldberg Cigar Store. Photo Credit: KLGO Collections.",
       "id": 41,
@@ -763,6 +753,16 @@
       "size_in_kb": null,
       "size_in_kb_@2x": null,
       "type": "map_thumbnail"
+    },
+    {
+      "alt": "A modern photograph of Brackett’s Trading Post which later became Boss Bakery.",
+      "caption": "Boss Bakery, originally Brackett’s Trading Post. Photo Credit: KLGO Collections.",
+      "id": 40,
+      "relative_url": "40.jpg",
+      "relative_url_@2x": null,
+      "size_in_kb": null,
+      "size_in_kb_@2x": null,
+      "type": "image"
     },
     {
       "alt": "Modern photograph of the Frye Bruhn refrigerated warehouse in its dilapidated state.",
@@ -1115,20 +1115,20 @@
       "type": "image"
     },
     {
-      "alt": "A historic photograph of the Arctic Brotherhood Hall with elaborate façade made of thousands of pieces of driftwood. The White Pass and Yukon Route railroad tracks stretch down Broadway in the foreground.",
-      "caption": "Historic photograph of the Arctic Brotherhood Building.",
-      "id": 70,
-      "relative_url": "70.jpg",
+      "alt": "A modern photograph of the Lynch and Kennedy Building, with stylish false front painted white with green trim.",
+      "caption": "The Lynch and Kennedy Building. Photo Credit: KLGO Collections.",
+      "id": 39,
+      "relative_url": "39.jpg",
       "relative_url_@2x": null,
       "size_in_kb": null,
       "size_in_kb_@2x": null,
       "type": "image"
     },
     {
-      "alt": "A modern photograph of the Lynch and Kennedy Building, with stylish false front painted white with green trim.",
-      "caption": "The Lynch and Kennedy Building. Photo Credit: KLGO Collections.",
-      "id": 39,
-      "relative_url": "39.jpg",
+      "alt": "A historic photograph of the Arctic Brotherhood Hall with elaborate façade made of thousands of pieces of driftwood. The White Pass and Yukon Route railroad tracks stretch down Broadway in the foreground.",
+      "caption": "Historic photograph of the Arctic Brotherhood Building.",
+      "id": 70,
+      "relative_url": "70.jpg",
       "relative_url_@2x": null,
       "size_in_kb": null,
       "size_in_kb_@2x": null,
