@@ -82,11 +82,27 @@
   "events": [
     {
       "dates": null,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun",
+      "home_description": "Visitor Center – Hourly from 8 to 5",
+      "name": null,
+      "title": "Movie \"Gold Fever: Race to the Klondike\" "
+    },
+    {
+      "dates": null,
       "description": "During the summer, join Park Rangers at our Junior Ranger Activity Center. The center gives kids the chance to dress up as a stampeder, play victorian games, touch wild animal pelts, and earn a Junior Ranger badge!\n\nJunior Ranger Activity Center\nLocated at 4th & Broadway Ave\nOpen Monday- Friday\n10 am-12 pm & 1-3 pm\nOpen May-September",
-      "frequency": "daily",
+      "frequency": "Mon,Tue,Wed,Thur,Fri",
       "home_description": "Pantheon – 4th & Broadway\nM-F 10 to 12 & 1 to 3",
       "name": null,
       "title": "Hey Kids! Visit the Junior Ranger Activity Center"
+    },
+    {
+      "dates": null,
+      "description": "Free tickets available at the Visitor Center, 2nd Avenue and Broadway. Walks are limited to 30 participants. Tours are given on a first-come, first-serve basis. Tours are wheelchair accessible and service animals are welcome.",
+      "frequency": "Mon,Wed,Fri",
+      "home_description": "Visitor Center – 9,10,11, 2, 3",
+      "name": "ranger",
+      "title": "Historic District Walking Tours"
     },
     {
       "dates": [
@@ -97,22 +113,6 @@
       "home_description": "Park Museum Auditorium 3pm - Free",
       "name": "special",
       "title": "The sinking of the S.S. Oak. Special presentation"
-    },
-    {
-      "dates": null,
-      "description": "Free tickets available at the Visitor Center, 2nd Avenue and Broadway. Walks are limited to 30 participants. Tours are given on a first-come, first-serve basis. Tours are wheelchair accessible and service animals are welcome.",
-      "frequency": "daily",
-      "home_description": "Visitor Center – 9,10,11, 2, 3",
-      "name": "ranger",
-      "title": "Historic District Walking Tours"
-    },
-    {
-      "dates": null,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "frequency": "daily\n",
-      "home_description": "Visitor Center – Hourly from 8 to 5",
-      "name": null,
-      "title": "Movie \"Gold Fever: Race to the Klondike\" "
     }
   ],
   "faqs": [
@@ -3718,7 +3718,7 @@
     }
   ],
   "urls": {
-    "base_url_icon": "http://nationalparkservice.github.io/data/places_mobile/klgo/icons/",
+    "base_url_icon": "http://nationalparkservice.github.io/data/places_mobile/icons/",
     "base_url_media": "http://nationalparkservice.github.io/data/places_mobile/klgo/media/"
   }
 }
