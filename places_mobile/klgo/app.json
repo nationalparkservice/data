@@ -2197,7 +2197,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
@@ -2232,7 +2232,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
@@ -2267,7 +2267,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
@@ -2298,7 +2298,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
@@ -2333,7 +2333,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
@@ -2362,7 +2362,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
@@ -2391,7 +2391,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
@@ -2426,7 +2426,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
@@ -2545,7 +2545,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
@@ -2580,7 +2580,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
@@ -2637,7 +2637,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
@@ -2666,7 +2666,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
@@ -2693,16 +2693,16 @@
       "type": "Trail Center",
       "services": [
         {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
-          "type": "Handicapped Access"
-        },
-        {
           "description": "Staffed by Ranger",
           "icon": "ranger.png",
           "icon_@2x": "ranger@2x.png",
           "type": "Staffed by Ranger"
+        },
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
         }
       ]
     },
@@ -2730,7 +2730,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
@@ -2759,7 +2759,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
@@ -2987,16 +2987,16 @@
       "type": "Museum",
       "services": [
         {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
-          "type": "Handicapped Access"
-        },
-        {
           "description": "Staffed by Ranger",
           "icon": "ranger.png",
           "icon_@2x": "ranger@2x.png",
           "type": "Staffed by Ranger"
+        },
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
         }
       ]
     },
@@ -3026,16 +3026,16 @@
           "type": "Restroom"
         },
         {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
-          "type": "Handicapped Access"
-        },
-        {
           "description": "Tcoil",
           "icon": null,
           "icon_@2x": null,
           "type": "Tcoil"
+        },
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
         }
       ]
     },
@@ -3129,7 +3129,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
@@ -3190,7 +3190,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
@@ -3287,7 +3287,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
@@ -3329,12 +3329,6 @@
           "type": "Restroom"
         },
         {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
-          "type": "Handicapped Access"
-        },
-        {
           "description": "Staffed by Ranger",
           "icon": "ranger.png",
           "icon_@2x": "ranger@2x.png",
@@ -3345,6 +3339,12 @@
           "icon": null,
           "icon_@2x": null,
           "type": "Tcoil"
+        },
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
         }
       ]
     },
@@ -3373,16 +3373,16 @@
       "type": "Children's Center",
       "services": [
         {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
-          "type": "Handicapped Access"
-        },
-        {
           "description": "Staffed by Ranger",
           "icon": "ranger.png",
           "icon_@2x": "ranger@2x.png",
           "type": "Staffed by Ranger"
+        },
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
         }
       ]
     },
@@ -3410,7 +3410,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
@@ -3442,7 +3442,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
@@ -3555,7 +3555,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
@@ -3584,7 +3584,7 @@
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
-          "icon_@2x": "wheelchar@2x.png",
+          "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
         }
       ]
