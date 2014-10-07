@@ -82,19 +82,21 @@
   "events": [
     {
       "dates": null,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun",
-      "home_description": "Visitor Center – Hourly from 8 to 5",
-      "name": null,
-      "title": "Movie \"Gold Fever: Race to the Klondike\" "
-    },
-    {
-      "dates": null,
       "description": "Free tickets available at the Visitor Center, 2nd Avenue and Broadway. Walks are limited to 30 participants. Tours are given on a first-come, first-serve basis. Tours are wheelchair accessible and service animals are welcome.",
       "frequency": "Mon,Wed,Fri",
       "home_description": "Visitor Center – 9,10,11, 2, 3",
       "name": "ranger",
+      "site_id": "1",
       "title": "Historic District Walking Tours"
+    },
+    {
+      "dates": null,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun",
+      "home_description": "Visitor Center – Hourly from 8 to 5",
+      "name": null,
+      "site_id": "1",
+      "title": "Movie \"Gold Fever: Race to the Klondike\" "
     },
     {
       "dates": null,
@@ -102,6 +104,7 @@
       "frequency": "Mon,Tue,Wed,Thur,Fri",
       "home_description": "Pantheon – 4th & Broadway\nM-F 10 to 12 & 1 to 3",
       "name": null,
+      "site_id": "6",
       "title": "Hey Kids! Visit the Junior Ranger Activity Center"
     },
     {
@@ -112,6 +115,7 @@
       "frequency": null,
       "home_description": "Park Museum Auditorium 3pm - Free",
       "name": "special",
+      "site_id": null,
       "title": "The sinking of the S.S. Oak. Special presentation"
     }
   ],
@@ -2086,11 +2090,13 @@
   ],
   "more": [
     "ACCESSIBILITY",
-    "AUGMENTED_REALITY",
     "DOWNLOAD",
     "EVENTS",
     "INFORMATION",
-    "POSTCARD"
+    "AUGMENTED_REALITY",
+    "POSTCARD",
+    "SEARCH",
+    "SCAVENGER HUNT"
   ],
   "more_extras": [
     {
