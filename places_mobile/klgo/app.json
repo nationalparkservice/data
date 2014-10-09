@@ -131,7 +131,8 @@
           "question": "How many people come in with the cruise ships?",
           "answer": "Each cruise ship can hold anywhere between 2500 and 4000 people, so on the busiest days there can be almost 20,000 cruise ship visitors to Skagway."
         }
-      ]
+      ],
+      "type": null
     }
   ],
   "map_thumbnail_zoom": 16,
@@ -2100,8 +2101,12 @@
   ],
   "more_extras": [
     {
+      "description": null,
       "icon": null,
+      "image_position": null,
       "name": "Park Hours",
+      "primary_image": null,
+      "title": null,
       "url": "http://www.nps.gov/klgo/planyourvisit/hours.htm"
     }
   ],
@@ -3598,59 +3603,6 @@
   ],
   "tours": [
     {
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae vulputate elit. In non feugiat metus, ac commodo felis. Proin ultricies pulvinar dapibus. Vestibulum malesuada posuere laoreet. Nulla ullamcorper nec augue a porta. Nullam ac tristique metus.",
-      "id": 2,
-      "name": "Explore Dyea Townsite",
-      "primary_image": null,
-      "sites": [
-        {
-          "id": 3,
-          "media": [
-            69,
-            79
-          ],
-          "primary_audio": null
-        },
-        {
-          "id": 16,
-          "media": [
-            76
-          ],
-          "primary_audio": null
-        },
-        {
-          "id": 9,
-          "media": null,
-          "primary_audio": null
-        },
-        {
-          "id": 13,
-          "media": null,
-          "primary_audio": null
-        },
-        {
-          "id": 7,
-          "media": [
-            73,
-            82
-          ],
-          "primary_audio": null
-        },
-        {
-          "id": 4,
-          "media": [
-            70
-          ],
-          "primary_audio": null
-        },
-        {
-          "id": 18,
-          "media": null,
-          "primary_audio": null
-        }
-      ]
-    },
-    {
       "description": "This seven-block corridor along Broadway will take you back in time with its restored historic buildings, wooden sidewalks and locals in period costumes.",
       "id": 1,
       "name": "Walking Downtown Skagway",
@@ -3718,6 +3670,59 @@
             14,
             68
           ],
+          "primary_audio": null
+        }
+      ]
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae vulputate elit. In non feugiat metus, ac commodo felis. Proin ultricies pulvinar dapibus. Vestibulum malesuada posuere laoreet. Nulla ullamcorper nec augue a porta. Nullam ac tristique metus.",
+      "id": 2,
+      "name": "Explore Dyea Townsite",
+      "primary_image": null,
+      "sites": [
+        {
+          "id": 3,
+          "media": [
+            69,
+            79
+          ],
+          "primary_audio": null
+        },
+        {
+          "id": 16,
+          "media": [
+            76
+          ],
+          "primary_audio": null
+        },
+        {
+          "id": 9,
+          "media": null,
+          "primary_audio": null
+        },
+        {
+          "id": 13,
+          "media": null,
+          "primary_audio": null
+        },
+        {
+          "id": 7,
+          "media": [
+            73,
+            82
+          ],
+          "primary_audio": null
+        },
+        {
+          "id": 4,
+          "media": [
+            70
+          ],
+          "primary_audio": null
+        },
+        {
+          "id": 18,
+          "media": null,
           "primary_audio": null
         }
       ]
