@@ -1,0 +1,677 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.376754,
+          38.739695
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/African_Methodist_Episcopal_Church.html",
+        "name": "African Methodist Episcopal Church",
+        "description": "309 E. Fifth St., Madison, IN, 812-265-2967",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/AMEChurch_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.377794,
+          38.740898
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Ben_Schroeder_Saddletree_Factory.html",
+        "name": "Ben Schroeder Saddletree Factory",
+        "description": "106 Milton St., Madison, IN, 812-265-2967",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/BenSchroederSaddletree_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.38299,
+          38.737429
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Broadway_Fountain.html",
+        "name": "Broadway Fountain",
+        "description": "N. Broadway St., Madison, IN",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/BroadwayFountain_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.38273,
+          38.73476
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Charles_Shrewsbury_House.html",
+        "name": "Charles Shrewsbury House",
+        "description": "103 W. First St.,  Madison, IN, 812-265-2967",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/Shrewsbury_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.378404,
+          38.737779
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Christ_Episcopal_Church.html",
+        "name": "Christ Episcopal Church",
+        "description": "506 Mulberry St.,  Madison, IN, 812-265-2158",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/ChristEpiscopal_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.412673,
+          38.742176
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Clifty_Falls_State_Park.html",
+        "name": "Clifty Falls State Park",
+        "description": "2221 Clifty Dr.,  Madison, IN, 812-273-8885",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/CliftyFalls_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.385133,
+          38.737388
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Crawford_Whitehead_Ross_House.html",
+        "name": "Crawford-Whitehead-Ross House",
+        "description": "510 W. Main St.,  Madison, IN, 812-274-4059",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/CrawfordRoss_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.384884,
+          38.73405
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Crystal_Beach_Pool_and_Bath_House.html",
+        "name": "Crystal Beach Pool and Bath House",
+        "description": "400 W. Vaughn Dr.,  Madison, IN, 812-265-8308",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/crystalbeach_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.372739,
+          38.73336
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Eagle_Cotton_Mill.html",
+        "name": "Eagle Cotton Mill",
+        "description": "108 St. Michaels Ave.,  Madison, IN, 812-801-4603",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/eaglecottonmill_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.379863,
+          38.737457
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/East_Third_Street.html",
+        "name": "East Third Street",
+        "description": "E. Third St.,  Madison, IN",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/Mulberry_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.516205,
+          38.830974
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Eleutherian_College_Classroom_and_Chapel_Building.html",
+        "name": "Eleutherian College Classroom and Chapel Building",
+        "description": "6927 W. SR 250,  Lancaster, IN, 812-866-7291",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/Eleutherian_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.386083,
+          38.737676
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Emilie_Todd_Helm_House.html",
+        "name": "Emilie Todd Helm House",
+        "description": "610 W. Main St.,  Madison, IN",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/HelmHome_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3754,
+          38.736456
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Fair_Play_Fire_Company_No_1_Fire_House.html",
+        "name": "Fair Play Fire Company No. 1 Fire House",
+        "description": "403-405 E. Main St.,  Madison, IN, 812-265-8350",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/FairPlay_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.383619,
+          38.737953
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Federal_Housing_Administration_Model_Home.html",
+        "name": "Federal Housing Administration Model Home",
+        "description": "311 W. Third St.,  Madison, IN, 812-265-9820",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/HouseFuture_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.385362,
+          38.73826
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/First_Baptist_Church.html",
+        "name": "First Baptist Church",
+        "description": "416 Vine St.,  Madison, IN, 812-265-2331",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/FirstBaptist_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.38482,
+          38.738423
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Francis_Costigan_House.html",
+        "name": "Francis Costigan House",
+        "description": "408 W. Third St., Madison, IN, 812-265-2967",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/FrancisCostigan_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.377101,
+          38.739644
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Georgetown_Historic_District.html",
+        "name": "Georgetown Historic District",
+        "description": "Jefferson St. and N. Fifth St.,  Madison, IN, 812-265-2965",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/Georgetown_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.367707,
+          38.734841
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Greiner_Brewery.html",
+        "name": "Greiner Brewery",
+        "description": "928 Park Ave.,  Madison, IN, 812-274-2614",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/GreinerBrewery_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.385182,
+          38.734747
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/HMI_Warehouses.html",
+        "name": "HMI Warehouses",
+        "description": "116-120 Elm St.,  Madison, IN, 812-265-2967",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/HMIWarehouses_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.376751,
+          38.735982
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Jefferson_County_Courthouse.html",
+        "name": "Jefferson County Courthouse",
+        "description": "300 E. Main St.,  Madison, IN, 812-265-8900",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/JeffCocourthouse_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.383537,
+          38.738206
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Jesse_Bright_House.html",
+        "name": "Jesse Bright House",
+        "description": "312 W. Third St.,  Madison, IN",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/JesseBright_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.386364,
+          38.738821
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/John_Paul_Park.html",
+        "name": "John Paul Park",
+        "description": "W. Third St.,  Madison, IN, 812-265-8308",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/JohnPaulPark_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.382483,
+          38.73567
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Judge_Jeremiah_Sullivan_House.html",
+        "name": "Judge Jeremiah Sullivan House",
+        "description": "304 W. Second St.,  Madison, IN, 812-265-2967",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/JudgeJeremiah_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.385946,
+          38.735323
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Lanier_Mansion.html",
+        "name": "Lanier Mansion",
+        "description": "601 W. First St.,  Madison, IN, 812-265-3526",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/LanierMansion_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.520389,
+          38.832255
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Lyman_and_Asenath_Hoyt_House.html",
+        "name": "Lyman and Asenath Hoyt House",
+        "description": "7147 W. SR 250,  Lancaster, IN, 812-866-7291",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/Lyman_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.396525,
+          38.744001
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Madison_Railroad_Incline_Cut.html",
+        "name": "Madison Railroad Incline Cut",
+        "description": "Madison, IN, 812-265-2965",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/InclineCut_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.387386,
+          38.735699
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Madison_Railroad_Station.html",
+        "name": "Madison Railroad Station",
+        "description": "615 W. First St., Madison, IN, 812-265-2335",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/MadisonRailroadStation_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.379026,
+          38.73251
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Madison_Regatta.html",
+        "name": "Madison Regatta",
+        "description": "Madison Riverfront, Madison, IN, 812-265-5000",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/MadisonRegatta_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.382878,
+          38.741875
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Michigan_Road.html",
+        "name": "Michigan Road",
+        "description": "Michigan Road, Madison, IN, 812-265-2965",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/MichiganRoad_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.380753,
+          38.736377
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Main_Street_Commercial_Buildings.html",
+        "name": "Main Street Commercial Buildings",
+        "description": "Main Street, Madison, IN, 812-265-3270",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/MainStreet_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.380059,
+          38.737011
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Old_Madison_City_Hall.html",
+        "name": "Old Madison City Hall",
+        "description": "416 West St., Madison, IN",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/OldCityHall_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.380013,
+          38.73759
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Second_Presbyterian_Church.html",
+        "name": "Second Presbyterian Church",
+        "description": "101 E. Third St. , Madison, IN, 812-265-2967",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/SecondPresbyterian_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.389649,
+          38.741582
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Springdale_Cemetery.html",
+        "name": "Springdale Cemetery",
+        "description": "600 W. Fifth St., Madison, IN, 812-265-3915",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/Springdale_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.373034,
+          38.73771
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/St_Michael_the_Archangel_Church.html",
+        "name": "St. Michael the Archangel Church",
+        "description": "521 E. Third St., Madison, IN, 812-265-2967",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/StMichaelChurch_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.383213,
+          38.73744
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Trinity_United_Methodist_Church.html",
+        "name": "Trinity United Methodist Church",
+        "description": "412 W. Main St., Madison, IN, 812-265-3059",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/TrinityUnited_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.38839,
+          38.737657
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Trolley_Barn.html",
+        "name": "Trolley Barn",
+        "description": "719 W. Main St., Madison, IN, 812-274-2794",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/TrolleyBarn_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.380542,
+          38.737726
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Washington_Fire_Company_No2.html",
+        "name": "Washington Fire Company No. 2",
+        "description": "104 W. Third St., Madison, IN, 812-265-8350",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/WashingtonFire2_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.382062,
+          38.735425
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/West_Second_Street.html",
+        "name": "West Second Street",
+        "description": "West Second St., Madison, IN, 812-265-2965",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/WestSecondStreet_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.380866,
+          38.737561
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/West_Third_Street.html",
+        "name": "West Third Street",
+        "description": "West Third St., Madison, IN, 812-265-2965",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/WestThirdStreet_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.38689,
+          38.735469
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Special_Events.html",
+        "name": "VisitMadison.org - Visitor Center and Special Events",
+        "description": "601 W. First St., Madison, IN, 812-265-2965",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/SpecialEvents_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.384017,
+          38.737013
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/madison/Madison_Historic_District.html",
+        "name": "Madison Historic District",
+        "description": "812-265-2967",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/madisonhistoricdistrict_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.391602,
+          38.735314
+        ]
+      },
+      "properties": {
+        "name_url": "https://www.facebook.com/HeritageTrail",
+        "name": "The Heritage Trail of Madison, IN",
+        "description": "Trailhead located at the bottom of Vernon St. on Vaughn Dr.",
+        "description_url": "http://www.nps.gov/nr/travel/madison/googlemap_images/heritagetrail_map.jpg"
+      }
+    }
+  ]
+}
