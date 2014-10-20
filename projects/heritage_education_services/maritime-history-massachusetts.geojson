@@ -1,0 +1,1445 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.914444,
+          42.842222
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/low.htm",
+        "name": "Lowell's Boat Shop",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/lowell_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.870278,
+          42.811111
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/mrk.htm",
+        "name": "Market Square Historic District",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/marketsquare_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.869167,
+          42.812222
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/usn.htm",
+        "name": "U.S. Customhouse",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/customhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.864861,
+          42.811528
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/ran.htm",
+        "name": "Newburyport Harbor Front Range Light",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/frontrange_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.866078,
+          42.811256
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/ran.htm",
+        "name": "Newburyport Harbor Rear Range Light",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/rearrange_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.819218,
+          42.815231
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/new.htm",
+        "name": "Newburyport Harbor Light",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/newburyportlight_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.681511,
+          42.661884
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/ann.htm",
+        "name": "Annisquam Harbor Light Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/annisquamlight_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.588071,
+          42.662262
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/str.htm",
+        "name": "Straitsmouth Island Light",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/straitsmouth_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.574931,
+          42.63679
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/twi.htm",
+        "name": "Twin Lights Historic District--Cape Ann Light Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/twinlights_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.668611,
+          42.620833
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/net.htm",
+        "name": "Gloucester Net and Twine Company",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/gloucester_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.657778,
+          42.616944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/lad.htm",
+        "name": "Our Lady of Good Voyage Church",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/voyagechurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.651944,
+          42.607778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/egl.htm",
+        "name": "East Gloucester Square Historic District",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/eastgloucester_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.671389,
+          42.61
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/glo.htm",
+        "name": "Gloucester Fisherman's Memorial",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/fishermanmem_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.654097,
+          42.615653
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/adv.htm",
+        "name": "Adventure",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/adventure_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.665556,
+          42.601861
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/ten.htm",
+        "name": "Ten Pound Island Light",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/tenpound_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.664444,
+          42.580167
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/ept.htm",
+        "name": "Eastern Point Light Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/easternpoint_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.855966,
+          42.546491
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/hos.htm",
+        "name": "Hospital Point Light Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/hospitalpoint_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.883889,
+          42.541389
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/fis.htm",
+        "name": "Fish Flake Hill Historic District",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/fishflake_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.887222,
+          42.520556
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/sal.htm",
+        "name": "Salem Maritime National Historic Site",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/salem_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.885,
+          42.521667
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/der.htm",
+        "name": "Derby Waterfront District",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/derby_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.883583,
+          42.516556
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/dli.htm",
+        "name": "Derby Wharf Light Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/derbywharf_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.899444,
+          42.521667
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/bow.htm",
+        "name": "Nathaniel Bowditch House",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/bowditch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.833741,
+          42.505401
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/mbl.htm",
+        "name": "Marblehead Light",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/marblehead_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.045833,
+          42.388611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/nav.htm",
+        "name": "Naval Hospital Boston Historic District (Chelsea Naval Hospital)",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/chelseanaval_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0525,
+          42.376111
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/bns.htm",
+        "name": "Boston Naval Shipyard (Charlestown Navy Yard)",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/bostonnaval_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.055578,
+          42.372083
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/uss.htm",
+        "name": "USS Constitution",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/ussconstitution_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.054444,
+          42.372222
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/cas.htm",
+        "name": "USS Cassin Young",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/usscassinyoung_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.074167,
+          42.367778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/lun.htm",
+        "name": "Luna (tugboat)",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/luna_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.056944,
+          42.361389
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/oys.htm",
+        "name": "Union Oyster House",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/unionoyster_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.050833,
+          42.365556
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/uni.htm",
+        "name": "Union Wharf",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/unionwharf_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.049722,
+          42.360278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/lon.htm",
+        "name": "Long Wharf and Custom House Block",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/longwharf_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.053333,
+          42.357778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/cus.htm",
+        "name": "Custom House District",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/customhousehd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.053056,
+          42.353333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/rus.htm",
+        "name": "Russia Wharf Buildings",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/russiawharf_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.053611,
+          42.363889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/mrn.htm",
+        "name": "Mariner's House",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/marinershouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.957673,
+          42.330216
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/lis.htm",
+        "name": "Long Island Head Light",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/longisland_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.94425,
+          42.331528
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/nix.htm",
+        "name": "Nix's Mate Daybeacon",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/daybeacon_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.890074,
+          42.328015
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/bos.htm",
+        "name": "Boston Light",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/bostonlight_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.801667,
+          42.240778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/wil.htm",
+        "name": "Captain John Wilson House and Bates Ship Chandlery",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/wilson_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.869083,
+          42.364889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/gra.htm",
+        "name": "Graves Light Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/graveslight_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.900278,
+          42.305556
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/poi.htm",
+        "name": "Point Allerton Lifesaving Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/allerton_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.759083,
+          42.269722
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/min.htm",
+        "name": "Minot's Ledge Light",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/minotsledge_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.715833,
+          42.20475
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/sci.htm",
+        "name": "Scituate Light",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/Scituate_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.675278,
+          42.038056
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/shi.htm",
+        "name": "Old Shipbuilder's Historic District",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/Shipbuilder_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.689167,
+          42.037778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/bra.htm",
+        "name": "Bradford Family Houses in Duxbury",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/bradford_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.601111,
+          42.003333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/ply.htm",
+        "name": "Plymouth Light Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/plymouth_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.660556,
+          41.955278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/brd.htm",
+        "name": "Bradford-Union Street Historic District",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/bradfordunion_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.795649,
+          41.65087
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/ned.htm",
+        "name": "Ned Point Light",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/nedpoint_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.71735,
+          41.669433
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/bir.htm",
+        "name": "Bird Island Light",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/birdisland_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.694179,
+          41.630964
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/cle.htm",
+        "name": "Cleveland Ledge Light Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/cleveland_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.660278,
+          41.682222
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/win.htm",
+        "name": "Wing's Neck Light",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/wingsneck_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.299167,
+          41.700278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/usb.htm",
+        "name": "U.S. Customshouse (Barnstable)",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/barnstable_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.950154,
+          41.671307
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/cha.htm",
+        "name": "Chatham Light Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/chatham_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.929444,
+          41.697778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/old.htm",
+        "name": "Old Harbor U.S. Livesaving Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/oldharbor_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.993722,
+          41.559333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/mon.htm",
+        "name": "Monomoy Point Lighthouse",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/monomoy_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.965667,
+          41.818472
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/pen.htm",
+        "name": "Edward Penniman House",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/penniman_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.008889,
+          41.799444
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/cg3.htm",
+        "name": "Coast Guard Motor Lifeboat CG36500",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/lifeboat_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.96,
+          41.845
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/thr.htm",
+        "name": "Three Sisters of Nauset (Twin Lights)",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/nauset_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.952944,
+          41.860139
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/nau.htm",
+        "name": "Nauset Beach Light",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/nausetbeach_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.028611,
+          41.936667
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/wel.htm",
+        "name": "Wellfleet Center Historic District",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/wellfleet_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.060938,
+          42.039523
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/hig.htm",
+        "name": "Highland Light Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/highland_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.168653,
+          42.033119
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/lpt.htm",
+        "name": "Long Point Light Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/longpoint_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.193508,
+          42.021272
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/woo.htm",
+        "name": "Wood End Light Lookout Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/woodend_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.244722,
+          42.062333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/rac.htm",
+        "name": "Race Point Light Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/racepoint_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6575,
+          41.516389
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/nob.htm",
+        "name": "Nobska Point Light Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/nobska_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.757498,
+          41.468817
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/tar.htm",
+        "name": "Tarpaulin Cove Light",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/tarpaulin_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.834955,
+          41.348445
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/gay.htm",
+        "name": "Gay Head Light",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/gayheadlight_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.599781,
+          41.480796
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/wes.htm",
+        "name": "West Chop Light Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/westchop_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.567451,
+          41.470264
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/ech.htm",
+        "name": "East Chop (Telegraph Hill) Light",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/eastchop_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5125,
+          41.390278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/edg.htm",
+        "name": "Edgartown Village Historic District",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/edgartown_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.503022,
+          41.390847
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/ehl.htm",
+        "name": "Edgartown Harbor Light",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/edgartownharbor_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.452319,
+          41.419442
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/pog.htm",
+        "name": "Cape Poge Light",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/capepoge_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.097581,
+          41.283225
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/nan.htm",
+        "name": "Nantucket Historic District",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/nantucket_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.090285,
+          41.28992
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/brn.htm",
+        "name": "Brant Point Light Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/brantpoint_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.965194,
+          41.283611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/san.htm",
+        "name": "Sankaty Head Light",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/sankaty_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.924167,
+          41.635278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/bed.htm",
+        "name": "New Bedford Historic District",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/newbedford_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.923333,
+          41.635556
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/nhp.htm",
+        "name": "New Bedford Whaling National Historical Park",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/whalingnhp_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.924722,
+          41.635278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/usc.htm",
+        "name": "U.S. Custom House (New Bedford)",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/nbcustomhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.920833,
+          41.633056
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/mer.htm",
+        "name": "Merrill's Wharf Historic District",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/merrillwharf_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.921111,
+          41.635556
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/lig.htm",
+        "name": "Lightship No. 114",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/lightship_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.920617,
+          41.634006
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/ern.htm",
+        "name": "Ernestina",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/ernestina_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.909722,
+          41.626111
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/pal.htm",
+        "name": "Palmer Island Light Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/palmerisland_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.894444,
+          41.60375
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/but.htm",
+        "name": "Butler Flats Light Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/butlerflats_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.174396,
+          41.704441
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/bor.htm",
+        "name": "Borden Flats Light Station",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/bordenflats_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.163333,
+          41.705278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/796.htm",
+        "name": "PT 796",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/pt796_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.163333,
+          41.705278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/617.htm",
+        "name": "PT 617",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/pt617_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.163,
+          41.70565
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/jpk.htm",
+        "name": "USS Joseph P. Kennedy Jr.",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/ussjpk_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.162919,
+          41.706067
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/lio.htm",
+        "name": "USS Lionfish",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/usslionfish_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.163333,
+          41.706194
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/mas.htm",
+        "name": "USS Massachusetts",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/ussmass_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.121111,
+          41.808611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/dig.htm",
+        "name": "Dighton Wharves Historic District",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/dightonwharves_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.117222,
+          41.812778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/maritime/cor.htm",
+        "name": "Coram Shipyard Historic District",
+        "description": "Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/maritime/bingmap_images/coram_mapimage.jpg"
+      }
+    }
+  ]
+}
