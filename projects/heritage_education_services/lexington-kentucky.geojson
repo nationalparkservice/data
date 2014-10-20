@@ -1,0 +1,469 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.610556,
+          38.045556
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/kee.htm",
+        "name": "Keeneland Racetrack",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/keeneland_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5175,
+          38.040833
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/flo.htm",
+        "name": "Floral Hall",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/floralhall_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.527778,
+          38.055278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/mcc.htm",
+        "name": "McConnell Springs",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/mcconnell_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.508059695363,
+          38.0556763708591
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/lce.htm",
+        "name": "Lexington Cemetery and Henry Clay Monument",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/henryclay_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.502786,
+          38.051353
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/mtl.htm",
+        "name": "Mary Todd Lincoln House",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/lincolnhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5,
+          38.049444
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/vic.htm",
+        "name": "Victorian Commercial Block",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/victorian_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.498889,
+          38.05
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/lop.htm",
+        "name": "Lexington Opera House",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/operahouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.501944,
+          38.045
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/shi.htm",
+        "name": "South Hill Historic District",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/southhill_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.497222,
+          38.047222
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/dcd.htm",
+        "name": "Downtown Commercial District",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/downtown_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.496944,
+          38.049167
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/fpc.htm",
+        "name": "First Presbyterian Church",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/firstpresbyterian_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.496944,
+          38.049444
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/hco.htm",
+        "name": "Henry Clay's Law Office",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/claylaw_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.494722,
+          38.048889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/nlc.htm",
+        "name": "North Limestone Commercial District",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/northlimestone_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.496389,
+          38.048333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/cce.htm",
+        "name": "Christ Church Episcopal",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/christchurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.496111,
+          38.05
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/gra.htm",
+        "name": "Gratz Park Historic District",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/gratzpark_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.496389,
+          38.05
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/hun.htm",
+        "name": "Hunt-Morgan House",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/huntmorgan_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4960246235132,
+          38.0497372895479
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/car.htm",
+        "name": "Carnegie Library",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/carnegielib_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4954071044922,
+          38.0495491027832
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/bod.htm",
+        "name": "Bodley-Bullock House",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/bullockhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4946553558111,
+          38.0504051595926
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/kit.htm",
+        "name": "Old Kitchen Building",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/oldkitchen_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.49387,
+          38.052379
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/olm.htm",
+        "name": "Old Morrison, Transylvania College",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/oldmorrison_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.491944,
+          38.048333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/chd.htm",
+        "name": "Constitution Historic District",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/constitutionhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.489167,
+          38.046944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/oeb.htm",
+        "name": "Old Episcopal Burying Ground",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/buryingground_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.458611,
+          38.043056
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/fab.htm",
+        "name": "First African Baptist Church",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/fabchurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.485833,
+          38.039444
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/bel.htm",
+        "name": "Bell Court Historic Neighborhood District",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/bellcourt_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.475833,
+          38.055278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/lou.htm",
+        "name": "Loudoun House",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/loudounhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.482222,
+          38.029167
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/aph.htm",
+        "name": "Ashland Park Historic District",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/ashlandpark_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.48,
+          38.028611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/ahc.htm",
+        "name": "Ashland, Henry Clay Estate",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/ashland_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.537222,
+          37.971389
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/wav.htm",
+        "name": "Waveland",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/waveland_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.424722,
+          37.968611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/wal.htm",
+        "name": "Walnut Hill Presbyterian Church",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/walnuthill_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.364722,
+          37.949444
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lexington/ath.htm",
+        "name": "Athens Historic District",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lexington/bingmap_images/athenshd_mapimage.jpg"
+      }
+    }
+  ]
+}
