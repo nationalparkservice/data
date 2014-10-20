@@ -1,0 +1,613 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4523,
+          38.010281
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/mon.htm",
+        "name": "Monticello",
+        "description": "Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/monticello_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.729722,
+          39.322778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/har.htm",
+        "name": "Harpers Ferry National Historical Park",
+        "description": "West Virginia",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/harpersferry_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.149839,
+          39.948753
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/ame.htm",
+        "name": "American Philosophical Society",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/aps_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.748,
+          38.8869
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/bbo.htm",
+        "name": "Big Bone Lick State Park",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/bigbone_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.763611,
+          38.275556
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/ocs.htm",
+        "name": "Old Clarksville Site",
+        "description": "Indiana",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/clarksville_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.687222,
+          37.143889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/mas.htm",
+        "name": "Fort Massac Site",
+        "description": "Illinois",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/fortmassac_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.191711,
+          38.570764
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/old.htm",
+        "name": "Old Cahokia Courthouse",
+        "description": "Illinois",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/cahokia_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.18497,
+          38.6246
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/jef.htm",
+        "name": "Jefferson National Expansion Memorial National Historic Site",
+        "description": "Missouri",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/jnememorial_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.478056,
+          38.775833
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/stc.htm",
+        "name": "St. Charles Historic District",
+        "description": "Missouri",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/stcharles_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.563611,
+          38.978611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/rhd.htm",
+        "name": "Rocheport Historic District",
+        "description": "Missouri",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/rocheport_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.9475,
+          39.07
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/arr.htm",
+        "name": "Arrow Rock",
+        "description": "Missouri",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/arrowrock_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.192121,
+          39.187562
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/osa.htm",
+        "name": "Fort Osage",
+        "description": "Missouri",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/fortosage_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0125,
+          41.452222
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/atk.htm",
+        "name": "Fort Atkinson",
+        "description": "Nebraska",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/atkinson_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.377522,
+          42.462569
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/ser.htm",
+        "name": "Sergeant Floyd Monument",
+        "description": "Iowa",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/floydmonument_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.959167,
+          42.874444
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/spi.htm",
+        "name": "Spirit Mound",
+        "description": "South Dakota",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/spiritmound_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.385833,
+          47.354167
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/kni.htm",
+        "name": "Knife River Indian Villages National Historic Site",
+        "description": "North Dakota",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/kniferiver_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.386340036988,
+          47.3278684169054
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/big.htm",
+        "name": "Big Hidatsa Village Site",
+        "description": "North Dakota",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/bighidasta_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.040556,
+          47.999444
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/uni.htm",
+        "name": "Fort Union Trading Post National Historic Site",
+        "description": "North Dakota",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/fortunion_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.849722,
+          47.717778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/sla.htm",
+        "name": "Camp at Slaughter River",
+        "description": "Montana",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/slaughterriver_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.151389,
+          47.531111
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/gre.htm",
+        "name": "Great Falls Portage",
+        "description": "Montana",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/greatfalls_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.35,
+          47.31
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/tow.htm",
+        "name": "Tower Rock",
+        "description": "Montana",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/towerrock_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.498,
+          45.9207
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/thr.htm",
+        "name": "Three Forks of the Missouri",
+        "description": "Montana",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/threeforks_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.459722,
+          45.386389
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/bea.htm",
+        "name": "Beaverhead Rock",
+        "description": "Montana",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/beaverheadrock_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.445,
+          44.974167
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/lem.htm",
+        "name": "Lemhi Pass",
+        "description": "Montana",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/lemhipass_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6325,
+          45.235
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/cla.htm",
+        "name": "Clark's Lookout, August 13, 1805",
+        "description": "Montana",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/clarkslookout_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.080556,
+          46.738889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/tra.htm",
+        "name": "Traveler's Rest",
+        "description": "Montana",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/travelersrest_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.579722,
+          46.635278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/lol.htm",
+        "name": "Lolo Trail",
+        "description": "Montana",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/lolotrail_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.359444,
+          46.141944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/nez.htm",
+        "name": "Nez Perce National Historical Park",
+        "description": "Idaho",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/nezperce_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.951944,
+          45.991389
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/pom.htm",
+        "name": "Pompey's Pillar",
+        "description": "Montana",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/pompeyspillar_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.798056,
+          48.599167
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/dis.htm",
+        "name": "Camp Disappointment",
+        "description": "Montana",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/disappointment_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.466667,
+          48.466667
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/two.htm",
+        "name": "Two Medicine Fight Sight",
+        "description": "Montana",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/twomedicine_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.643611,
+          45.6375
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/wei.htm",
+        "name": "Weippe Prairie",
+        "description": "Idaho",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/weippeprairie_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.188056,
+          45.606944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/roc.htm",
+        "name": "Rock Fort Campsite",
+        "description": "Oregon",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/rockfort_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.8775,
+          46.133611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/clt.htm",
+        "name": "Fort Clatsop National Memorial",
+        "description": "Oregon",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/fortclatsop_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.072099,
+          46.291211
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/cap.htm",
+        "name": "Cape Disappointment Historic District",
+        "description": "Washington",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/capedhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.921944,
+          46.251389
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/chi.htm",
+        "name": "Chinook Point",
+        "description": "Washington",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/chinookpoint_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.473056,
+          46.464444
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/lew.htm",
+        "name": "Travois Road",
+        "description": "Washington",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/travoisroad_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.661917,
+          38.287056
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/lewisandclark/loc.htm",
+        "name": "Locust Grove",
+        "description": "Kentucky",
+        "description_url": "http://www.nps.gov/nr/travel/lewisandclark/bingmap_images/locustgrove_mapimage.jpg"
+      }
+    }
+  ]
+}
