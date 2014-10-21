@@ -2069,102 +2069,209 @@
       "disp_order": 1,
       "is_feature": null,
       "text": null,
-      "type": "ACCESSIBILITY"
+      "type": "ACCESSIBILITY",
+      "pages": [
+        {
+          "audio_description": null,
+          "description": "This is the Accessibility page!",
+          "header": null,
+          "image_position": "top",
+          "media": null,
+          "name": "Accessibility",
+          "subsections": [
+            {
+              "audio_description": null,
+              "description": "This is the Landscape Overview page!",
+              "header": null,
+              "image_position": "top",
+              "media": null,
+              "name": "Landscape Overview",
+              "subsections": null
+            },
+            {
+              "audio_description": null,
+              "description": "This is the more accessibility resources page!",
+              "header": null,
+              "image_position": "bottom",
+              "media": null,
+              "name": "More Accessibility Resouces",
+              "subsections": null
+            }
+          ]
+        }
+      ]
     },
     {
       "description": null,
       "disp_order": 2,
       "is_feature": true,
       "text": null,
-      "type": "AUGMENTED_REALITY"
+      "type": "AUGMENTED_REALITY",
+      "pages": [
+        {
+          "audio_description": null,
+          "description": "This is the AR View page!",
+          "header": null,
+          "image_position": "top",
+          "media": null,
+          "name": "AR View",
+          "subsections": null
+        }
+      ]
     },
     {
       "description": null,
       "disp_order": 3,
       "is_feature": null,
       "text": null,
-      "type": "DOWNLOAD"
+      "type": "DOWNLOAD",
+      "pages": [
+        {
+          "audio_description": null,
+          "description": "This is the Download Contents page!",
+          "header": null,
+          "image_position": "bottom",
+          "media": null,
+          "name": "Download Contents",
+          "subsections": null
+        }
+      ]
     },
     {
       "description": null,
       "disp_order": 4,
       "is_feature": null,
       "text": null,
-      "type": "EVENTS"
+      "type": "EVENTS",
+      "pages": [
+        {
+          "audio_description": null,
+          "description": "This is the Events page!",
+          "header": null,
+          "image_position": "top",
+          "media": null,
+          "name": "Events",
+          "subsections": [
+            {
+              "audio_description": null,
+              "description": "1st alert description... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam volutpat convallis urna ac tempus. Vivamus bibendum quam nunc, at placerat metus consectetur vitae. ",
+              "header": "Bridge Closure",
+              "image_position": null,
+              "media": null,
+              "name": "Alerts",
+              "subsections": null
+            },
+            {
+              "audio_description": null,
+              "description": "2nd alert description. Vivamus bibendum quam nunc, at placerat metus consectetur vitae. ",
+              "header": null,
+              "image_position": null,
+              "media": null,
+              "name": "Path Rehabilitation ",
+              "subsections": null
+            }
+          ]
+        }
+      ]
     },
     {
       "description": null,
       "disp_order": 5,
       "is_feature": null,
       "text": null,
-      "type": "INFORMATION"
+      "type": "INFORMATION",
+      "pages": [
+        {
+          "audio_description": null,
+          "description": "This is the park info page!",
+          "header": null,
+          "image_position": "bottom",
+          "media": null,
+          "name": "Park Info",
+          "subsections": [
+            {
+              "audio_description": null,
+              "description": "This is the About page!",
+              "header": null,
+              "image_position": "top",
+              "media": null,
+              "name": "About",
+              "subsections": null
+            },
+            {
+              "audio_description": null,
+              "description": "This is the Credits page!",
+              "header": "Credits",
+              "image_position": "top",
+              "media": null,
+              "name": "Alerts",
+              "subsections": null
+            }
+          ]
+        }
+      ]
     },
     {
       "description": null,
       "disp_order": 6,
       "is_feature": true,
       "text": null,
-      "type": "POSTCARD"
+      "type": "POSTCARD",
+      "pages": [
+        {
+          "audio_description": null,
+          "description": "This is the postcard page!",
+          "header": null,
+          "image_position": "top",
+          "media": null,
+          "name": "Postcard",
+          "subsections": null
+        }
+      ]
     },
     {
       "description": null,
       "disp_order": 7,
       "is_feature": true,
       "text": null,
-      "type": "SCAVENGER HUNT"
+      "type": "SCAVENGER HUNT",
+      "pages": [
+        {
+          "audio_description": null,
+          "description": "This is the Scavenger Hunt page!",
+          "header": null,
+          "image_position": "top",
+          "media": null,
+          "name": "Scavenger Hunt",
+          "subsections": null
+        }
+      ]
     },
     {
       "description": null,
       "disp_order": 8,
       "is_feature": null,
       "text": null,
-      "type": "SEARCH"
+      "type": "SEARCH",
+      "pages": null
     }
   ],
-  "more_data": {
-    "about": [],
-    "accessibility": [],
-    "alerts": [
-      {
-        "description": "1st alert description... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam volutpat convallis urna ac tempus. Vivamus bibendum quam nunc, at placerat metus consectetur vitae. ",
-        "name": "Bridge Closure"
-      },
-      {
-        "description": "2nd alert description. Vivamus bibendum quam nunc, at placerat metus consectetur vitae. ",
-        "name": "Path Rehabilitation "
-      }
-    ],
-    "ar_view": [],
-    "credits": [],
-    "download_content": [],
-    "faqs": [
-      {
-        "name": "General Information",
-        "questions": [
-          {
-            "question": "How many cruise ships come into Skagway each day?",
-            "answer": "It depends on the time of year. In the peak cruise ship season, up to five cruise ships can dock at a time."
-          },
-          {
-            "question": "How many people come in with the cruise ships?",
-            "answer": "Each cruise ship can hold anywhere between 2500 and 4000 people, so on the busiest days there can be almost 20,000 cruise ship visitors to Skagway."
-          }
-        ],
-        "type": null
-      }
-    ],
-    "historical_overlay": [],
-    "park_info": [],
-    "postcard": [
-      {
-        "text": "Postcard One"
-      },
-      {
-        "text": "Postcard Two"
-      }
-    ],
-    "scavenger_hunt": []
-  },
+  "faqs": [
+    {
+      "name": "General Information",
+      "questions": [
+        {
+          "question": "How many cruise ships come into Skagway each day?",
+          "answer": "It depends on the time of year. In the peak cruise ship season, up to five cruise ships can dock at a time."
+        },
+        {
+          "question": "How many people come in with the cruise ships?",
+          "answer": "Each cruise ship can hold anywhere between 2500 and 4000 people, so on the busiest days there can be almost 20,000 cruise ship visitors to Skagway."
+        }
+      ],
+      "type": null
+    }
+  ],
   "more_extras": [
     {
       "description": null,
@@ -3263,6 +3370,45 @@
       "primary_image": 60,
       "type": "Wayside Exhibit",
       "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "audio_description": null,
+      "description": "Start your visit with an introduction to Herbert Hoover and his hometown of West Branch.",
+      "geofence_buffer_in_meters": 10,
+      "id": 80,
+      "information": [
+        {
+          "description": "Allow yourself at least 30 minutes in the Visitor Center, which is open from 9:00 a.m. to 5:00 p.m. daily. Multimedia exhibits, which include Herbert Hoover’s original cradle and high chair, tell about his childhood in West Branch and his later involvement in developing the park which commemorates his life. The 12-minute film Adventure and Great Undertakings: Herbert Hoover's Childhood in West Branch is played on request. Children can get started on their activity books to become Junior Rangers. An art gallery interprets the park through the works of artists-in-residence.\nFederal Recreational Lands Passes are on sale at the Visitor Center. Books, educational items, and gifts are available for purchase from the Eastern National Bookstore inside the Visitor Center.",
+          "name": "Visiting\n"
+        },
+        {
+          "description": "Open daily from 9:00 a.m. to 5:00 p.m., except on Thanksgiving Day, December 25, and January 1.",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 41.670851,
+      "longitude": -91.34572,
+      "map_thumbnail_image": null,
+      "media": null,
+      "name": "Visitor Center",
+      "name_description": "Start your visit with an introduction to Herbert Hoover and his hometown of West Branch.",
+      "primary_audio": null,
+      "primary_image": null,
+      "type": "Building",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        },
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
