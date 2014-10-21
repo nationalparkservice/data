@@ -1,0 +1,418 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.119911,
+          42.307705,
+          0
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/arnold_arboretum.html",
+        "name": "Arnold Arboretum",
+        "description": "125 Arborway, Boston, MA, 617-524-1718",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/ArnoldArboretum_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.069938,
+          42.354136
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/boston_public_garden.html",
+        "name": "Boston Public Gardens",
+        "description": "147 Tremont St, Boston, MA, 888-733-2678",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/Boston Public Garden1_small_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.134293,
+          42.366535
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/charles_river_reservation.html",
+        "name": "Charles River Reservation in the Charles River Basin Historic District",
+        "description": "Cambridge, Massachusetts",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/CharlesRiver1_small_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.205167,
+          42.422316
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/dana_common.html",
+        "name": "Dana Common",
+        "description": "Off Route 32A, Petersham, MA.",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/danacommon_small.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.348879,
+          42.460546
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/concord_monument_square.html",
+        "name": "Concord Monument Square",
+        "description": "Main St, Concord, MA 01742, 978-369-3120,",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/MonumentSquare1_small_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.105385,
+          42.299335,
+          0
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/forest_hills_cemetery.html",
+        "name": "Forest Hills Cemetery",
+        "description": "95 Forest Hills Ave, Boston, MA",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/ForestHillsAngel_small_map.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.132034,
+          42.325466,
+          0
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/frederick_law_olmsted.html",
+        "name": "Frederick Law Olmsted National Historic Site",
+        "description": "99 Warren St., Brookline, MA 02445, 617-566-1689",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/FLOlmstead1_small.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.60791,
+          42.506912,
+          0
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/fruitlands.html",
+        "name": "Fruitlands Museums Historic District",
+        "description": "102 Prospect Hill Rd, Harvard, MA 01451, 978-456-3924",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/Fruitlands2_small.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.312378,
+          42.282368,
+          0
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/laurel_hill.html",
+        "name": "Laurel Hill Park in Main St Historic District",
+        "description": "Stockbridge, MA 01262, 413-298-5200",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/LaurelHill1_small.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.992966,
+          42.489059,
+          0
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/lynnwoods.html",
+        "name": "Lynn Woods Historic District",
+        "description": "Lynn, MA, 781-477-7123",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/LynnWoods3_small.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.067388,
+          42.462283
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/metro_park_system_of_greater_boston.html",
+        "name": "Metropolitan Park System of Greater Boston",
+        "description": "Melrose, MA 02176, 617-626-1250",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/MPS2_small.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.088949,
+          42.457233
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/middlesex_fells.html",
+        "name": "Middlesex Fells Reservation",
+        "description": "4 Woodland Rd, Stoneham, MA 02180, 617-626-1250",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/Middlesex1_small.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.965035,
+          42.638592
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/mohawk_trail.html",
+        "name": "Mohawk Trail",
+        "description": "Massachusetts Route 2, MA, 866-743-8127",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/Mohawk1_small.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.144943,
+          42.375294,
+          0
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/mount_auburn.html",
+        "name": "Mount Auburn Cemetery",
+        "description": "580 Mt Auburn St., Watertown, MA 02472, 617-547-7105",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/MountAuburn3_small.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.168459,
+          42.637242
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/mount_greylock.html",
+        "name": "Mt Greylock Summit Historic District",
+        "description": "Adams, MA 01220, 413-499-4263",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/MtGreylock2_small.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.593222,
+          42.297754
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/mount_holyoke.html",
+        "name": "Mount Holyoke in the Hockanum Rural Historic District",
+        "description": "Hadley, MA 01035, 413-586-0350",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/MountHolyoke1_small.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.348999,
+          42.468384,
+          0
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/the_old_manse.html",
+        "name": "The Old Manse",
+        "description": "269 Monument St., Concord, MA 01742, 978-369-3909",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/OldManse2_small.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.121162,
+          42.331764,
+          0
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/olmsted_park_system.html",
+        "name": "Olmsted Park System",
+        "description": "Brookline, MA, 617-635-4505",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/OlmsteadPS1_small.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.342117,
+          42.457348,
+          0
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/ralph_waldo_emerson_house.html",
+        "name": "Ralph Waldo Emerson House",
+        "description": "28 Cambridge Turnpike, Concord, MA 01742, 978-369-2236",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/Emerson2_small.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.985603,
+          42.42091,
+          0
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/revere_beach_reservation.html",
+        "name": "Revere Beach Reservation Historic District",
+        "description": "Revere Beach Blvd, Revere, MA 02151, 781-289-3020",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/Boulevard_Revere_Beach_c1910_small.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.648079,
+          42.568653,
+          0
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/shirley_center.html",
+        "name": "Shirley Center Historic District",
+        "description": "Brown Rd., Shirley, MA 01464, 978-425-2600",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/Shirley4_small.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.343296,
+          42.463328
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/sleepy_hollow.html",
+        "name": "Sleepy Hollow Cemetery",
+        "description": "Concord, MA 01742, Court St and Bedford Rd., 978-318-3233",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/SleepyHollow1_small.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.935112,
+          42.470791
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/william_bryant_homestead.html",
+        "name": "William Cullant Bryant Homestead",
+        "description": "Bryant Rd., Cummington, MA 01026, 413-634-2244",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/WCBHomestead_small.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.334518,
+          42.440456,
+          0
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/walden_pond.html",
+        "name": "Walden Pond",
+        "description": "915 Walden St., Concord, MA 01773, 978-369-3254",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/WaldenPond1_small.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.066294,
+          42.355246
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/boston_common.html",
+        "name": "Boston Common",
+        "description": "148 Tremont St., Boston, MA, 607-357-8300",
+        "description_url": "http://www.nps.gov/nr/travel/massachusetts_conservation/photos/list_of_sites/Bostoncommon1_small.jpg"
+      }
+    }
+  ]
+}
