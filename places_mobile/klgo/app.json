@@ -1,4 +1,14 @@
 {
+  "alerts": [
+    {
+      "description": "1st alert description... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam volutpat convallis urna ac tempus. Vivamus bibendum quam nunc, at placerat metus consectetur vitae. ",
+      "name": "Bridge Closure"
+    },
+    {
+      "description": "This is the Credits page!",
+      "name": "Credits"
+    }
+  ],
   "categories": [
     {
       "description": "Visit these twelve “must-see” sites for a glimpse into Skagway’s colorful past—and present.",
@@ -65,6 +75,16 @@
         35,
         36
       ]
+    },
+    {
+      "description": "For BETA Test only",
+      "name": "HEHO/FOSM",
+      "sites": [
+        80,
+        81,
+        82,
+        83
+      ]
     }
   ],
   "description": "This is a description for the home screen.",
@@ -107,6 +127,22 @@
       "name": "special",
       "site_id": null,
       "title": "The sinking of the S.S. Oak. Special presentation"
+    }
+  ],
+  "faqs": [
+    {
+      "name": "General Information",
+      "questions": [
+        {
+          "question": "How many cruise ships come into Skagway each day?",
+          "answer": "It depends on the time of year. In the peak cruise ship season, up to five cruise ships can dock at a time."
+        },
+        {
+          "question": "How many people come in with the cruise ships?",
+          "answer": "Each cruise ship can hold anywhere between 2500 and 4000 people, so on the busiest days there can be almost 20,000 cruise ship visitors to Skagway."
+        }
+      ],
+      "type": null
     }
   ],
   "map_thumbnail_zoom": 16,
@@ -878,6 +914,21 @@
       "type": "image"
     },
     {
+      "alt": "Visitor Center front view",
+      "caption": "Visitor Center front view",
+      "first_image": null,
+      "id": 167,
+      "name": "Visitor Center front view",
+      "relative_url": "167.jpg",
+      "relative_url_@2x": "167@2x.jpg",
+      "relative_url_tablet": "167_tablet.jpg",
+      "relative_url_tablet_@2x": "167_tablet@2x.jpg",
+      "second_image": null,
+      "thumbnail_image": null,
+      "transcript": null,
+      "type": "image"
+    },
+    {
       "alt": "Map Thumbnail for Snow Plow (id: 10)",
       "caption": "Map Thumbnail for Snow Plow (id: 10)",
       "first_image": null,
@@ -932,6 +983,51 @@
       "relative_url_@2x": "2@2x.jpg",
       "relative_url_tablet": "2_tablet.jpg",
       "relative_url_tablet_@2x": "2_tablet@2x.jpg",
+      "second_image": null,
+      "thumbnail_image": null,
+      "transcript": null,
+      "type": "image"
+    },
+    {
+      "alt": "Visitor Center Parking Lot View",
+      "caption": "Visitor Center Parking Lot View",
+      "first_image": null,
+      "id": 164,
+      "name": "Visitor Center Parking Lot View",
+      "relative_url": "164.jpg",
+      "relative_url_@2x": "164@2x.jpg",
+      "relative_url_tablet": "164_tablet.jpg",
+      "relative_url_tablet_@2x": "164_tablet@2x.jpg",
+      "second_image": null,
+      "thumbnail_image": null,
+      "transcript": null,
+      "type": "image"
+    },
+    {
+      "alt": "View of the Cottage",
+      "caption": "View of the Cottage",
+      "first_image": null,
+      "id": 165,
+      "name": "View of the Cottage",
+      "relative_url": "165.jpg",
+      "relative_url_@2x": "165@2x.jpg",
+      "relative_url_tablet": "165_tablet.jpg",
+      "relative_url_tablet_@2x": "165_tablet@2x.jpg",
+      "second_image": null,
+      "thumbnail_image": null,
+      "transcript": null,
+      "type": "image"
+    },
+    {
+      "alt": "Flagpole",
+      "caption": "Flagpole",
+      "first_image": null,
+      "id": 166,
+      "name": "Flagpole",
+      "relative_url": "166.jpg",
+      "relative_url_@2x": "166@2x.jpg",
+      "relative_url_tablet": "166_tablet.jpg",
+      "relative_url_tablet_@2x": "166_tablet@2x.jpg",
       "second_image": null,
       "thumbnail_image": null,
       "transcript": null,
@@ -1523,6 +1619,66 @@
       "type": "audio"
     },
     {
+      "alt": "Map thumbnail for Visitor Center",
+      "caption": "Map thumbnail for Visitor Center",
+      "first_image": null,
+      "id": 170,
+      "name": "Map thumbnail for Visitor Center",
+      "relative_url": "170.png",
+      "relative_url_@2x": "170@2x.png",
+      "relative_url_tablet": "170_tablet.png",
+      "relative_url_tablet_@2x": "170_tablet_2x.png",
+      "second_image": null,
+      "thumbnail_image": null,
+      "transcript": null,
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map thumbnail for Flag Pole",
+      "caption": "Map thumbnail for Flag Pole",
+      "first_image": null,
+      "id": 171,
+      "name": "Map thumbnail for Flag Pole",
+      "relative_url": "171.png",
+      "relative_url_@2x": "171@2x.png",
+      "relative_url_tablet": "171_tablet.png",
+      "relative_url_tablet_@2x": "171_tablet_2x.png",
+      "second_image": null,
+      "thumbnail_image": null,
+      "transcript": null,
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map thumbnail for Visitor Center",
+      "caption": "Map thumbnail for Visitor Center",
+      "first_image": null,
+      "id": 168,
+      "name": "Map thumbnail for Visitor Center",
+      "relative_url": "168.png",
+      "relative_url_@2x": "168@2x.png",
+      "relative_url_tablet": "168_tablet.png",
+      "relative_url_tablet_@2x": "168_tablet_2x.png",
+      "second_image": null,
+      "thumbnail_image": null,
+      "transcript": null,
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map thumbnail for Birthplace Cottage",
+      "caption": "Map thumbnail for Birthplace Cottage",
+      "first_image": null,
+      "id": 169,
+      "name": "Map thumbnail for Birthplace Cottage",
+      "relative_url": "169.png",
+      "relative_url_@2x": "169@2x.png",
+      "relative_url_tablet": "169_tablet.png",
+      "relative_url_tablet_@2x": "169_tablet_2x.png",
+      "second_image": null,
+      "thumbnail_image": null,
+      "transcript": null,
+      "type": "map_thumbnail"
+    },
+    {
       "alt": "Gateway to the Interior. Quote: \"I fully expect before many years to see a pack trail through the pass, followed by a wagon road, and I would not be at all surprised to see a railroad through to the lakes.\" Caption: Captain William Moore, quoted by Ben Moore. Photograph of Captain William Moore superimposed on background photo. Photo Caption: Captain William Moore. Photo Credit: Photo courtesy of Howard Clifford Collection/Klondike Gold Rush National Historical Park. KLGO, SP-180-6151. Photograph of Ben Moore superimposed on background photo. Photo Caption: Ben (J.B.) Moore at Victoria, 1904 PERMISSION PENDING. Photo Credit: Photo courtesy of J. Bernard Moore Family Papers, Album #1. UAF-1978-35-5. The Alaskan Coast Mountains, with precipitous peaks and massive glaciers, present a nearly impenetrable barrier; however, a few ice-free river valleys pierce this rugged landscape. Background photo: Sepia colored aerial photo of the Taiya and Skagway River valleys. Dyea labelled, with Tlingit definition meaning \"To Pack,\" and Skagway labelled with Tlingit definition meaning \"Windy Place.\" Photo Credit: Background image from Google Earth Pro. Main body text: Since prehistoric times, the coastal Tlingit Natives traded extensively with the inland Tagish First Nations using the Chilkoot corridor beginning at nearby Dyea. The White Pass corridor that began in Skagway was also used, but not as extensively. These routes allowed trade and cultural exchange to develop between peoples on both sides of the mountains. The Tlingit were not the only people to see the advantages of these corridors. Euroamerican prospectors began using the Chilkoot Trail in the 1880s to search for gold in the interior. In 1887, Skookum Jim (Keish), a Tagish man, guided Captain William Moore over the White Pass. That autumn, the Captain, his son Ben, and a Tlingit helper, Nan Suk, began building a wharf and cabin in what became Skagway. Captain Moore saw Skagway's potential with its deep water harbor and access to the interior. He believed many gold discoveries would occur in the north, and he intended to capitalize on the migration of people. With this in mind, Ben Moore filed a 160-acre land claim and both father and son began developing what was to become Skagway--the Gateway to the Interior. Historic photograph of Tlingit woman hiking. Photo caption: Tlingit woman packs her goods over a rocky shore about two miles from the Chilkoot summit, 1897. Photo Credit: Anchorage Museum at Rasmuson Center, Fridley Collection. B1970_022_44. Photograph of Skookum Jim Mason. Photo Caption: Skookum Jim Mason (Keish). Photo Credit: Candy Waugaman Collection/Klondike Gold Rush National Historical Park. KLGO, DP-116-10570.",
       "caption": null,
       "first_image": null,
@@ -2064,220 +2220,21 @@
     }
   ],
   "more": [
-    {
-      "description": null,
-      "disp_order": 1,
-      "is_feature": null,
-      "text": null,
-      "type": "ACCESSIBILITY",
-      "pages": [
-        {
-          "audio_description": null,
-          "description": "This is the Accessibility page!",
-          "header": null,
-          "image_position": "top",
-          "media": null,
-          "name": "Accessibility",
-          "subsections": [
-            {
-              "audio_description": null,
-              "description": "This is the Landscape Overview page!",
-              "header": null,
-              "image_position": "top",
-              "media": null,
-              "name": "Landscape Overview",
-              "subsections": null
-            },
-            {
-              "audio_description": null,
-              "description": "This is the more accessibility resources page!",
-              "header": null,
-              "image_position": "bottom",
-              "media": null,
-              "name": "More Accessibility Resouces",
-              "subsections": null
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": null,
-      "disp_order": 2,
-      "is_feature": true,
-      "text": null,
-      "type": "AUGMENTED_REALITY",
-      "pages": [
-        {
-          "audio_description": null,
-          "description": "This is the AR View page!",
-          "header": null,
-          "image_position": "top",
-          "media": null,
-          "name": "AR View",
-          "subsections": null
-        }
-      ]
-    },
-    {
-      "description": null,
-      "disp_order": 3,
-      "is_feature": null,
-      "text": null,
-      "type": "DOWNLOAD",
-      "pages": [
-        {
-          "audio_description": null,
-          "description": "This is the Download Contents page!",
-          "header": null,
-          "image_position": "bottom",
-          "media": null,
-          "name": "Download Contents",
-          "subsections": null
-        }
-      ]
-    },
-    {
-      "description": null,
-      "disp_order": 4,
-      "is_feature": null,
-      "text": null,
-      "type": "EVENTS",
-      "pages": [
-        {
-          "audio_description": null,
-          "description": "This is the Events page!",
-          "header": null,
-          "image_position": "top",
-          "media": null,
-          "name": "Events",
-          "subsections": [
-            {
-              "audio_description": null,
-              "description": "1st alert description... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam volutpat convallis urna ac tempus. Vivamus bibendum quam nunc, at placerat metus consectetur vitae. ",
-              "header": "Bridge Closure",
-              "image_position": null,
-              "media": null,
-              "name": "Alerts",
-              "subsections": null
-            },
-            {
-              "audio_description": null,
-              "description": "2nd alert description. Vivamus bibendum quam nunc, at placerat metus consectetur vitae. ",
-              "header": null,
-              "image_position": null,
-              "media": null,
-              "name": "Path Rehabilitation ",
-              "subsections": null
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": null,
-      "disp_order": 5,
-      "is_feature": null,
-      "text": null,
-      "type": "INFORMATION",
-      "pages": [
-        {
-          "audio_description": null,
-          "description": "This is the park info page!",
-          "header": null,
-          "image_position": "bottom",
-          "media": null,
-          "name": "Park Info",
-          "subsections": [
-            {
-              "audio_description": null,
-              "description": "This is the About page!",
-              "header": null,
-              "image_position": "top",
-              "media": null,
-              "name": "About",
-              "subsections": null
-            },
-            {
-              "audio_description": null,
-              "description": "This is the Credits page!",
-              "header": "Credits",
-              "image_position": "top",
-              "media": null,
-              "name": "Alerts",
-              "subsections": null
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "description": null,
-      "disp_order": 6,
-      "is_feature": true,
-      "text": null,
-      "type": "POSTCARD",
-      "pages": [
-        {
-          "audio_description": null,
-          "description": "This is the postcard page!",
-          "header": null,
-          "image_position": "top",
-          "media": null,
-          "name": "Postcard",
-          "subsections": null
-        }
-      ]
-    },
-    {
-      "description": null,
-      "disp_order": 7,
-      "is_feature": true,
-      "text": null,
-      "type": "SCAVENGER HUNT",
-      "pages": [
-        {
-          "audio_description": null,
-          "description": "This is the Scavenger Hunt page!",
-          "header": null,
-          "image_position": "top",
-          "media": null,
-          "name": "Scavenger Hunt",
-          "subsections": null
-        }
-      ]
-    },
-    {
-      "description": null,
-      "disp_order": 8,
-      "is_feature": null,
-      "text": null,
-      "type": "SEARCH",
-      "pages": null
-    }
-  ],
-  "faqs": [
-    {
-      "name": "General Information",
-      "questions": [
-        {
-          "question": "How many cruise ships come into Skagway each day?",
-          "answer": "It depends on the time of year. In the peak cruise ship season, up to five cruise ships can dock at a time."
-        },
-        {
-          "question": "How many people come in with the cruise ships?",
-          "answer": "Each cruise ship can hold anywhere between 2500 and 4000 people, so on the busiest days there can be almost 20,000 cruise ship visitors to Skagway."
-        }
-      ],
-      "type": null
-    }
+    "SEARCH",
+    "ACCESSIBILITY",
+    "AUGMENTED_REALITY",
+    "DOWNLOAD",
+    "EVENTS",
+    "INFORMATION",
+    "POSTCARD",
+    "SCAVENGER HUNT"
   ],
   "more_extras": [
     {
       "description": null,
       "icon": null,
       "image_position": "top",
-      "name": null,
+      "name": "Hours",
       "primary_image": null,
       "title": null,
       "url": "http://www.nps.gov/klgo/planyourvisit/hours.htm"
@@ -3385,22 +3342,22 @@
       "id": 80,
       "information": [
         {
-          "description": "Allow yourself at least 30 minutes in the Visitor Center, which is open from 9:00 a.m. to 5:00 p.m. daily. Multimedia exhibits, which include Herbert Hoover’s original cradle and high chair, tell about his childhood in West Branch and his later involvement in developing the park which commemorates his life. The 12-minute film Adventure and Great Undertakings: Herbert Hoover's Childhood in West Branch is played on request. Children can get started on their activity books to become Junior Rangers. An art gallery interprets the park through the works of artists-in-residence.\nFederal Recreational Lands Passes are on sale at the Visitor Center. Books, educational items, and gifts are available for purchase from the Eastern National Bookstore inside the Visitor Center.",
-          "name": "Visiting\n"
-        },
-        {
           "description": "Open daily from 9:00 a.m. to 5:00 p.m., except on Thanksgiving Day, December 25, and January 1.",
           "name": "Hours"
+        },
+        {
+          "description": "Allow yourself at least 30 minutes in the Visitor Center, which is open from 9:00 a.m. to 5:00 p.m. daily. Multimedia exhibits, which include Herbert Hoover’s original cradle and high chair, tell about his childhood in West Branch and his later involvement in developing the park which commemorates his life. The 12-minute film Adventure and Great Undertakings: Herbert Hoover's Childhood in West Branch is played on request. Children can get started on their activity books to become Junior Rangers. An art gallery interprets the park through the works of artists-in-residence.\nFederal Recreational Lands Passes are on sale at the Visitor Center. Books, educational items, and gifts are available for purchase from the Eastern National Bookstore inside the Visitor Center.",
+          "name": "Visiting\n"
         }
       ],
       "latitude": 41.670851,
       "longitude": -91.34572,
-      "map_thumbnail_image": null,
+      "map_thumbnail_image": 168,
       "media": null,
       "name": "Visitor Center",
       "name_description": "Start your visit with an introduction to Herbert Hoover and his hometown of West Branch.",
       "primary_audio": null,
-      "primary_image": null,
+      "primary_image": 164,
       "type": "Building",
       "services": [
         {
@@ -3437,6 +3394,35 @@
       "primary_audio": null,
       "primary_image": 63,
       "type": "Cemetery",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        }
+      ]
+    },
+    {
+      "audio_description": null,
+      "description": "Herbert called his birthplace \"physical proof of the unbounded opportunity of American life.\"",
+      "geofence_buffer_in_meters": 10,
+      "id": 81,
+      "information": [
+        {
+          "description": "In the years following his presidency, Herbert and Lou Hoover restored the president's humble birthplace, which he called \"physical proof of the unbounded opportunity of American life.\" The small spaces and dearth of material possession reflect an ethic of thrift, and the cottage's status as a starter home for a young family. Antique furnishings from the mid and late 19th century represent common household items for a simply furnished two room rural home.",
+          "name": "Post Presidency"
+        }
+      ],
+      "latitude": 41.67027,
+      "longitude": -91.346873,
+      "map_thumbnail_image": 169,
+      "media": null,
+      "name": "Birthplace Cottage",
+      "name_description": "Herbert called his birthplace \"physical proof of the unbounded opportunity of American life.\"",
+      "primary_audio": null,
+      "primary_image": 165,
+      "type": "Historic Home",
       "services": [
         {
           "description": "Restroom",
@@ -3618,6 +3604,36 @@
     },
     {
       "audio_description": null,
+      "description": "Park’s Visitor Center, served as a soldiers’ barracks (1838-1871), converted to jail and courthouse in 1872. ",
+      "geofence_buffer_in_meters": 20,
+      "id": 82,
+      "information": [],
+      "latitude": 35.388135,
+      "longitude": -94.429883,
+      "map_thumbnail_image": 170,
+      "media": null,
+      "name": "Visitor Center",
+      "name_description": "Park’s Visitor Center, served as a soldiers’ barracks (1838-1871), converted to jail and courthouse in 1872. ",
+      "primary_audio": null,
+      "primary_image": 167,
+      "type": "Barracks, Courthouse, Jail ",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        },
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "audio_description": null,
       "description": "Built in 1899 by Frederick and Nathalie Verbauwhede, this store took full advantage of its corner location near the newly constructed train depot to attract business. Here travelers could easily purchase the candies, nuts, fruits, cigars, and pastries they desired before boarding their train north. This structure is indicative of a story common in Skagway’s history, of abundant opportunities for entrepreneurship, as it has housed more than seven different businesses in the last hundred years. After a series of uses as a barber, gun, and curio shop, the building became the Alaska Transfer Company express office. Today the building is part of Klondike Gold Rush National Historical Park’s Lease Back Program and houses a private business.",
       "geofence_buffer_in_meters": 10,
       "id": 17,
@@ -3644,6 +3660,23 @@
           "type": "Handicapped Access"
         }
       ]
+    },
+    {
+      "audio_description": null,
+      "description": "The flagpole (99 ft.) is a reproduction of the original built in 1846. This height allows the flag to be seen for miles.",
+      "geofence_buffer_in_meters": 10,
+      "id": 83,
+      "information": null,
+      "latitude": 35.388542,
+      "longitude": -94.430162,
+      "map_thumbnail_image": 171,
+      "media": null,
+      "name": "Flag Pole",
+      "name_description": "The flagpole (99 ft.) is a reproduction of the original built in 1846. This height allows the flag to be seen for miles.",
+      "primary_audio": null,
+      "primary_image": 166,
+      "type": "Parade Field",
+      "services": null
     },
     {
       "audio_description": "White Pass & Yukon Route Depot.  1 ¼ minutes.  The White Pass & Yukon Route Depot is situated on the south side of Second Avenue, between Broadway and Spring Street.  It’s painted white with green trim.  The western half of the wooden building is two stories tall, dropping to just one story on the eastern side.  Further to the east is a large parking area.  On both the north- and south-facing facades, maroon letters on the second story read “White Pass & Yukon Route, Established 1898.”  \n\nYou may enter the building on the north side from Second Avenue.  It’s two steps up to the door from the sidewalk, and there’s a ramp near the right-hand edge of the building.  Or you can enter the depot from the south.  A covered cement porch runs the length of the building on the south side and a doorway provides access from the porch.  The porch also serves as the railroad platform; the tracks are located a few feet to the south, parallel to it.  Please watch your step near the tracks and listen for oncoming trains.\n\nEnd of message.",
