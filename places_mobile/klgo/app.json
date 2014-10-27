@@ -1,12 +1,12 @@
 {
   "alerts": [
     {
-      "description": "1st alert description... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam volutpat convallis urna ac tempus. Vivamus bibendum quam nunc, at placerat metus consectetur vitae. ",
-      "name": "Bridge Closure"
+      "description": "2nd alert description. Vivamus bibendum quam nunc, at placerat metus consectetur vitae. ",
+      "name": "Path Rehabilitation"
     },
     {
-      "description": "This is the Credits page!",
-      "name": "Credits"
+      "description": "1st alert description... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam volutpat convallis urna ac tempus. Vivamus bibendum quam nunc, at placerat metus consectetur vitae. ",
+      "name": "Bridge Closure"
     }
   ],
   "categories": [
@@ -1034,6 +1034,21 @@
       "type": "image"
     },
     {
+      "alt": "Park Info Header",
+      "caption": "Park Info Header",
+      "first_image": null,
+      "id": 172,
+      "name": "Park Info Header",
+      "relative_url": "172.jpg",
+      "relative_url_@2x": "172@2x.jpg",
+      "relative_url_tablet": "172_tablet.jpg",
+      "relative_url_tablet_@2x": "172_tablet_2x.jpg",
+      "second_image": null,
+      "thumbnail_image": null,
+      "transcript": null,
+      "type": "image"
+    },
+    {
       "alt": "Modern photograph of Soapy Smith’s parlor.",
       "caption": "Historic Soapy’s Parlor Museum. Photo Credit: KLGO Collections.",
       "first_image": null,
@@ -2024,21 +2039,6 @@
       "type": "image"
     },
     {
-      "alt": null,
-      "caption": null,
-      "first_image": null,
-      "id": 1,
-      "name": null,
-      "relative_url": "1.jpg",
-      "relative_url_@2x": "1@2x.jpg",
-      "relative_url_tablet": "1_tablet.jpg",
-      "relative_url_tablet_@2x": "1_tablet@2x.jpg",
-      "second_image": null,
-      "thumbnail_image": null,
-      "transcript": null,
-      "type": "image"
-    },
-    {
       "alt": "Modern photograph of the rhubarb and native plants garden maintained by the National Park Service.",
       "caption": "Rhubarb and native plants garden maintained by the National Park Service. Photo Credit: KLGO Collections.",
       "first_image": null,
@@ -2183,6 +2183,21 @@
       "relative_url_@2x": "9@2x.jpg",
       "relative_url_tablet": "9_tablet.jpg",
       "relative_url_tablet_@2x": "9_tablet@2x.jpg",
+      "second_image": null,
+      "thumbnail_image": null,
+      "transcript": null,
+      "type": "image"
+    },
+    {
+      "alt": null,
+      "caption": null,
+      "first_image": null,
+      "id": 1,
+      "name": null,
+      "relative_url": "1.jpg",
+      "relative_url_@2x": "1@2x.jpg",
+      "relative_url_tablet": "1_tablet.jpg",
+      "relative_url_tablet_@2x": "1_tablet@2x.jpg",
       "second_image": null,
       "thumbnail_image": null,
       "transcript": null,
