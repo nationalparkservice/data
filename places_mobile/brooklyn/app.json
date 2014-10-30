@@ -45,7 +45,6 @@
   "description": "Brooklyn is the most populous of New York City's five boroughs.",
   "designation": "Borough (New York City)",
   "events": [],
-  "faqs": [],
   "map_thumbnail_zoom": 16,
   "max_distance_in_meters": 1609.3,
   "media": [
@@ -351,6 +350,7 @@
     }
   ],
   "more": [],
+  "faqs": [],
   "more_extras": [],
   "name": "Brooklyn",
   "overview_video": null,
