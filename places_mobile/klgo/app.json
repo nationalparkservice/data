@@ -1018,6 +1018,36 @@
       "type": "image"
     },
     {
+      "alt": null,
+      "caption": null,
+      "first_image": null,
+      "id": 174,
+      "name": null,
+      "relative_url": "174.jpg",
+      "relative_url_@2x": "174@2x.jpg",
+      "relative_url_tablet": "174_tablet.jpg",
+      "relative_url_tablet_@2x": "174_tablet@2x.jpg",
+      "second_image": null,
+      "thumbnail_image": null,
+      "transcript": null,
+      "type": "image"
+    },
+    {
+      "alt": null,
+      "caption": null,
+      "first_image": null,
+      "id": 173,
+      "name": null,
+      "relative_url": "173.jpg",
+      "relative_url_@2x": "173@2x.jpg",
+      "relative_url_tablet": "173_tablet.jpg",
+      "relative_url_tablet_@2x": "173_tablet@2x.jpg",
+      "second_image": null,
+      "thumbnail_image": null,
+      "transcript": null,
+      "type": "image"
+    },
+    {
       "alt": "Park Info Header",
       "caption": "Park Info Header",
       "first_image": null,
@@ -4059,10 +4089,63 @@
   ],
   "tours": [
     {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae vulputate elit. In non feugiat metus, ac commodo felis. Proin ultricies pulvinar dapibus. Vestibulum malesuada posuere laoreet. Nulla ullamcorper nec augue a porta. Nullam ac tristique metus.",
+      "id": 2,
+      "name": "Explore Dyea Townsite",
+      "primary_image": 173,
+      "sites": [
+        {
+          "id": 3,
+          "media": [
+            69,
+            79
+          ],
+          "primary_audio": null
+        },
+        {
+          "id": 16,
+          "media": [
+            76
+          ],
+          "primary_audio": null
+        },
+        {
+          "id": 9,
+          "media": null,
+          "primary_audio": null
+        },
+        {
+          "id": 13,
+          "media": null,
+          "primary_audio": null
+        },
+        {
+          "id": 7,
+          "media": [
+            73,
+            82
+          ],
+          "primary_audio": null
+        },
+        {
+          "id": 4,
+          "media": [
+            70
+          ],
+          "primary_audio": null
+        },
+        {
+          "id": 18,
+          "media": null,
+          "primary_audio": null
+        }
+      ]
+    },
+    {
       "description": "This seven-block corridor along Broadway will take you back in time with its restored historic buildings, wooden sidewalks and locals in period costumes.",
       "id": 1,
       "name": "Walking Downtown Skagway",
-      "primary_image": null,
+      "primary_image": 174,
       "sites": [
         {
           "id": 3,
@@ -4126,59 +4209,6 @@
             14,
             68
           ],
-          "primary_audio": null
-        }
-      ]
-    },
-    {
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae vulputate elit. In non feugiat metus, ac commodo felis. Proin ultricies pulvinar dapibus. Vestibulum malesuada posuere laoreet. Nulla ullamcorper nec augue a porta. Nullam ac tristique metus.",
-      "id": 2,
-      "name": "Explore Dyea Townsite",
-      "primary_image": null,
-      "sites": [
-        {
-          "id": 3,
-          "media": [
-            69,
-            79
-          ],
-          "primary_audio": null
-        },
-        {
-          "id": 16,
-          "media": [
-            76
-          ],
-          "primary_audio": null
-        },
-        {
-          "id": 9,
-          "media": null,
-          "primary_audio": null
-        },
-        {
-          "id": 13,
-          "media": null,
-          "primary_audio": null
-        },
-        {
-          "id": 7,
-          "media": [
-            73,
-            82
-          ],
-          "primary_audio": null
-        },
-        {
-          "id": 4,
-          "media": [
-            70
-          ],
-          "primary_audio": null
-        },
-        {
-          "id": 18,
-          "media": null,
           "primary_audio": null
         }
       ]
