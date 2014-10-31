@@ -1,6 +1,47 @@
 {
   "alerts": [],
-  "categories": [],
+  "categories": [
+    {
+      "description": "Visit these twelve “must-see” sites for a glimpse into HFC’s colorful past—and present.",
+      "name": "Highlights",
+      "sites": [
+        70,
+        71,
+        72,
+        73
+      ]
+    },
+    {
+      "description": null,
+      "name": "Favorites",
+      "sites": [
+        74,
+        75
+      ]
+    },
+    {
+      "description": null,
+      "name": "Nearby",
+      "sites": [
+        76
+      ]
+    },
+    {
+      "description": null,
+      "name": "Good for Families",
+      "sites": [
+        77
+      ]
+    },
+    {
+      "description": null,
+      "name": "Lesser Know",
+      "sites": [
+        78,
+        79
+      ]
+    }
+  ],
   "description": "The center for mapping for the NPS.",
   "designation": "NPS Center",
   "events": [],
