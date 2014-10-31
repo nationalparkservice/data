@@ -129,22 +129,6 @@
       "title": "The sinking of the S.S. Oak. Special presentation"
     }
   ],
-  "faqs": [
-    {
-      "name": "General Information",
-      "questions": [
-        {
-          "question": "How many cruise ships come into Skagway each day?",
-          "answer": "It depends on the time of year. In the peak cruise ship season, up to five cruise ships can dock at a time."
-        },
-        {
-          "question": "How many people come in with the cruise ships?",
-          "answer": "Each cruise ship can hold anywhere between 2500 and 4000 people, so on the busiest days there can be almost 20,000 cruise ship visitors to Skagway."
-        }
-      ],
-      "type": null
-    }
-  ],
   "map_thumbnail_zoom": 16,
   "max_distance_in_meters": 1609.3,
   "media": [
@@ -2235,14 +2219,215 @@
     }
   ],
   "more": [
-    "SEARCH",
-    "ACCESSIBILITY",
-    "AUGMENTED_REALITY",
-    "DOWNLOAD",
-    "EVENTS",
-    "INFORMATION",
-    "POSTCARD",
-    "SCAVENGER HUNT"
+    {
+      "description": null,
+      "disp_order": 1,
+      "is_feature": null,
+      "text": null,
+      "type": "ACCESSIBILITY",
+      "pages": [
+        {
+          "audio_description": null,
+          "description": "This is the Accessibility page!",
+          "header": null,
+          "image_position": "top",
+          "media": null,
+          "name": "Accessibility",
+          "subsections": [
+            {
+              "audio_description": null,
+              "description": "This is the Landscape Overview page!",
+              "header": null,
+              "image_position": "top",
+              "media": null,
+              "name": "Landscape Overview",
+              "subsections": null
+            },
+            {
+              "audio_description": null,
+              "description": "This is the more accessibility resources page!",
+              "header": null,
+              "image_position": "bottom",
+              "media": null,
+              "name": "More Accessibility Resouces",
+              "subsections": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": null,
+      "disp_order": 2,
+      "is_feature": true,
+      "text": null,
+      "type": "AUGMENTED_REALITY",
+      "pages": [
+        {
+          "audio_description": null,
+          "description": "This is the AR View page!",
+          "header": null,
+          "image_position": "top",
+          "media": null,
+          "name": "AR View",
+          "subsections": null
+        }
+      ]
+    },
+    {
+      "description": null,
+      "disp_order": 3,
+      "is_feature": null,
+      "text": null,
+      "type": "DOWNLOAD",
+      "pages": [
+        {
+          "audio_description": null,
+          "description": "This is the Download Contents page!",
+          "header": null,
+          "image_position": "bottom",
+          "media": null,
+          "name": "Download Contents",
+          "subsections": null
+        }
+      ]
+    },
+    {
+      "description": null,
+      "disp_order": 4,
+      "is_feature": null,
+      "text": null,
+      "type": "EVENTS",
+      "pages": [
+        {
+          "audio_description": null,
+          "description": "This is the Events page!",
+          "header": null,
+          "image_position": "top",
+          "media": null,
+          "name": "Events",
+          "subsections": [
+            {
+              "audio_description": null,
+              "description": "1st alert description... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam volutpat convallis urna ac tempus. Vivamus bibendum quam nunc, at placerat metus consectetur vitae. ",
+              "header": "Bridge Closure",
+              "image_position": null,
+              "media": null,
+              "name": "Alerts",
+              "subsections": null
+            },
+            {
+              "audio_description": null,
+              "description": "2nd alert description. Vivamus bibendum quam nunc, at placerat metus consectetur vitae. ",
+              "header": "Path Rehabilitation",
+              "image_position": null,
+              "media": null,
+              "name": "Alerts",
+              "subsections": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": null,
+      "disp_order": 5,
+      "is_feature": null,
+      "text": null,
+      "type": "INFORMATION",
+      "pages": [
+        {
+          "audio_description": null,
+          "description": "This is the park info page!",
+          "header": null,
+          "image_position": "bottom",
+          "media": [
+            172
+          ],
+          "name": "Park Info",
+          "subsections": [
+            {
+              "audio_description": null,
+              "description": "This is the About page!",
+              "header": null,
+              "image_position": "top",
+              "media": null,
+              "name": "About",
+              "subsections": null
+            },
+            {
+              "audio_description": null,
+              "description": "This is the Credits page!",
+              "header": "Credits",
+              "image_position": "top",
+              "media": null,
+              "name": "Alerts",
+              "subsections": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "description": null,
+      "disp_order": 6,
+      "is_feature": true,
+      "text": null,
+      "type": "POSTCARD",
+      "pages": [
+        {
+          "audio_description": null,
+          "description": "This is the postcard page!",
+          "header": null,
+          "image_position": "top",
+          "media": null,
+          "name": "Postcard",
+          "subsections": null
+        }
+      ]
+    },
+    {
+      "description": null,
+      "disp_order": 7,
+      "is_feature": true,
+      "text": null,
+      "type": "SCAVENGER HUNT",
+      "pages": [
+        {
+          "audio_description": null,
+          "description": "This is the Scavenger Hunt page!",
+          "header": null,
+          "image_position": "top",
+          "media": null,
+          "name": "Scavenger Hunt",
+          "subsections": null
+        }
+      ]
+    },
+    {
+      "description": null,
+      "disp_order": 8,
+      "is_feature": null,
+      "text": null,
+      "type": "SEARCH",
+      "pages": null
+    }
+  ],
+  "faqs": [
+    {
+      "name": "General Information",
+      "questions": [
+        {
+          "question": "How many cruise ships come into Skagway each day?",
+          "answer": "It depends on the time of year. In the peak cruise ship season, up to five cruise ships can dock at a time."
+        },
+        {
+          "question": "How many people come in with the cruise ships?",
+          "answer": "Each cruise ship can hold anywhere between 2500 and 4000 people, so on the busiest days there can be almost 20,000 cruise ship visitors to Skagway."
+        }
+      ],
+      "type": null
+    }
   ],
   "more_extras": [
     {
