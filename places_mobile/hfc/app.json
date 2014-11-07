@@ -166,7 +166,13 @@
       "type": "map_thumbnail"
     }
   ],
-  "more": [],
+  "more": [
+    {
+      "disp_order": 1,
+      "name": "Augmented Reality",
+      "type": "AUGMENTED_REALITY"
+    }
+  ],
   "name": "Harpers Ferry Center",
   "searches": [],
   "sites": [
