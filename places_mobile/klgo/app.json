@@ -1475,12 +1475,12 @@
       "type": "INFORMATION",
       "pages": [
         {
-          "description": "This is the park info page!",
+          "description": "The Visitors' Center, gallows, and Commissary building are open daily from 9:00 a.m. to 5:00 p.m. \n\nWe are closed on New Year's, Thanksgiving and Christmas.\n\nFor more information visit:\nhttp://www.nps.gov/fosm/",
           "image_position": "bottom",
           "name": "Park Info",
           "subsections": [
             {
-              "description": "This is the About page!",
+              "description": "“Gold!” is what the headlines read in 1897, starting the Klondike Gold Rush. Thousands, hoping to ease the woes of economic depression, sold farms, dropped businesses and boarded ships to follow their dreams north. Today Klondike Gold Rush NHP commemorates the bravery of the stampeders who voyaged north by protecting the trails, historic boomtowns and buildings of the Klondike Gold Rush era.",
               "image_position": "top",
               "media": [
                 172
@@ -1491,7 +1491,7 @@
               "description": "This is the Credits page!",
               "header": "Credits",
               "image_position": "top",
-              "name": "Alerts"
+              "name": "Credits"
             },
             {
               "faq_subsections": [
