@@ -1529,7 +1529,7 @@
   ],
   "tours": [],
   "urls": {
-    "base_url_icon": "http://192.168.33.10:3002/places_mobile/icons/",
-    "base_url_media": "http://192.168.33.10:3002/places_mobile/fosm/media/"
+    "base_url_icon": "http://nationalparkservice.github.io/data/places_mobile/icons/",
+    "base_url_media": "http://nationalparkservice.github.io/data/places_mobile/fosm/media/"
   }
 }
