@@ -1,6 +1,27 @@
 {
   "alerts": [],
-  "categories": [],
+  "categories": [
+    {
+      "description": "Visit these twelve “must-see” sites for a glimpse into Skagway’s colorful past—and present.",
+      "name": "Highlights"
+    },
+    {
+      "name": "Favorites"
+    },
+    {
+      "name": "Nearby"
+    },
+    {
+      "name": "Good for Families"
+    },
+    {
+      "name": "Lesser Know"
+    },
+    {
+      "description": "For BETA Test only",
+      "name": "HEHO/FOSM"
+    }
+  ],
   "description": "This is a description for the home screen.",
   "designation": "National Historic Site",
   "events": [],
@@ -965,7 +986,85 @@
       "type": "image"
     }
   ],
-  "more": [],
+  "more": [
+    {
+      "disp_order": 1,
+      "name": "Accessibility",
+      "type": "ACCESSIBILITY"
+    },
+    {
+      "disp_order": 2,
+      "is_feature": true,
+      "name": "Augmented Reality",
+      "type": "AUGMENTED_REALITY"
+    },
+    {
+      "disp_order": 3,
+      "type": "DOWNLOAD"
+    },
+    {
+      "disp_order": 4,
+      "name": "Today",
+      "type": "EVENTS"
+    },
+    {
+      "disp_order": 5,
+      "name": "Park Info",
+      "type": "INFORMATION",
+      "pages": [
+        {
+          "description": "Visitors' Center",
+          "image_position": "bottom",
+          "name": "Park Info",
+          "subsections": [
+            {
+              "name": "Visiting FAQ's"
+            },
+            {
+              "description": "About Headline",
+              "image_position": "top",
+              "name": "About"
+            },
+            {
+              "description": "This is the Credits page!",
+              "header": "Credits",
+              "image_position": "top",
+              "name": "Credits"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "disp_order": 6,
+      "is_feature": true,
+      "name": "Postcard",
+      "type": "POSTCARD"
+    },
+    {
+      "disp_order": 7,
+      "is_feature": true,
+      "name": "Scavenger Hunt",
+      "type": "SCAVENGER HUNT"
+    },
+    {
+      "disp_order": 8,
+      "name": "Search",
+      "type": "SEARCH"
+    },
+    {
+      "disp_order": 9,
+      "name": "Hiking Info",
+      "type": "SPECIAL_INFO1",
+      "pages": [
+        {
+          "description": "This is the Special Info page!",
+          "image_position": "top",
+          "name": "Hiking Info"
+        }
+      ]
+    }
+  ],
   "name": "Fort Smith",
   "searches": [],
   "sites": [
