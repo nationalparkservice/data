@@ -1,6 +1,27 @@
 {
   "alerts": [],
-  "categories": [],
+  "categories": [
+    {
+      "description": "Visit these twelve “must-see” sites for a glimpse into Skagway’s colorful past—and present.",
+      "name": "Highlights"
+    },
+    {
+      "name": "Favorites"
+    },
+    {
+      "name": "Nearby"
+    },
+    {
+      "name": "Good for Families"
+    },
+    {
+      "name": "Lesser Know"
+    },
+    {
+      "description": "For BETA Test only",
+      "name": "HEHO/FOSM"
+    }
+  ],
   "description": "The landscape and buildings of HEHO tell how family, faith, education, and hard work opened a world of opportunity to a child of simple beginnings.",
   "designation": "National Historic Site",
   "events": [],
