@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.318056,
+          44.000278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/phd.htm",
+        "name": "Pipestone Commercial Historic District",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/commercial_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3192911446095,
+          44.0005633234978
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/syn.htm",
+        "name": "Syndicate Block",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/syndicate_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3179507106543,
+          44.0005646646023
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/che.htm",
+        "name": "Cheverton I.O.O.F. Block",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/cheverton_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3179279118776,
+          44.0005646646023
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/ban.htm",
+        "name": "First National Bank (113 W. Main St.)",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/firstbank_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.317905113101,
+          44.0005646646023
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/obe.htm",
+        "name": "Ober-Hubbard Building",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/hubbard_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3178360462189,
+          44.0005646646023
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/col.htm",
+        "name": "The Colonial",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/colonial_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3177904486656,
+          44.0005646646023
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/fir.htm",
+        "name": "First National Bank (101 W. Main St.)",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/firstnat_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.317905113101,
+          44.0004748106003
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/mac.htm",
+        "name": "Mackay Block",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/mackay_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3173780590296,
+          44.0004748106003
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/fer.htm",
+        "name": "Ferris Grand Block",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/ferrisgrand_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3173887878656,
+          44.0004748106003
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/lll.htm",
+        "name": "The L",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/thel_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3173988461494,
+          44.0004748106003
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/moo.htm",
+        "name": "Moore Block",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/moore_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3176663964987,
+          44.0003145486116
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/cit.htm",
+        "name": "Pipestone City Hall",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/cityhall_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3178360462189,
+          44.0004748106003
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/cal.htm",
+        "name": "Calumet Hotel",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/calumet_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3178588449955,
+          44.0004748106003
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/wal.htm",
+        "name": "Walker Block and Cook Drug",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/drug_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3179507106543,
+          44.0004748106003
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/cly.htm",
+        "name": "Clymer Block",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/clymer_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3180191069841,
+          44.0004748106003
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/mas.htm",
+        "name": "Masonic Temple",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/masonictemple_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3180647045374,
+          44.0004748106003
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/aus.htm",
+        "name": "J.H. Austin Block",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/austin_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3190416991711,
+          44.0002904087305
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/bro.htm",
+        "name": "Brown Hospital",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/brown_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.627232,
+          43.622186
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/sup.htm",
+        "name": "Pipestone Indian School Superintendent's House",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/indianschool_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.325,
+          44.013333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/pnm.htm",
+        "name": "Pipestone National Monument",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/monument_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3175477087498,
+          44.0035472810268
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/rid.htm",
+        "name": "Rock Island Depot",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/rockisland_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.311649531126,
+          44.0013847500086
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/pwt.htm",
+        "name": "Pipestone Water Tower",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/watertower_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3176576793194,
+          43.9991350471973
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/car.htm",
+        "name": "Pipestone Public Library",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/library_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3175524026155,
+          43.9969651401043
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/cou.htm",
+        "name": "Pipestone County Courthouse",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/courthouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3685090094805,
+          43.9082832634449
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/ihl.htm",
+        "name": "Ihlen Mercantile Company",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/ihlen_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3117273151875,
+          43.997907936573
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/srb.htm",
+        "name": "Split Rock Bridge",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/splitrock_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3954290002584,
+          43.8509322702885
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/jrh.htm",
+        "name": "John Rowe House",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/rowe_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3967479765415,
+          43.8498694449663
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/ger.htm",
+        "name": "Gerber Hospital and Garage",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/gerber_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4083082973957,
+          43.8494013994932
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/bau.htm",
+        "name": "Bauman Hall",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/bauman_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3969645649195,
+          43.8498721271753
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/pipestone/jsq.htm",
+        "name": "Jasper Stone Company and Quarry",
+        "description": "Minnesota",
+        "description_url": "http://www.nps.gov/history/nr/travel/pipestone/bingmap_images/jasperstone_mapimage.jpg"
+      }
+    }
+  ]
+}
