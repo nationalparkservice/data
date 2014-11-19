@@ -1,0 +1,837 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.110278,
+          18.4675
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr1.htm",
+        "name": "San Juan National Historic Site",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/sanjuanhs_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.119167,
+          18.463889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr2.htm",
+        "name": "La Fortaleza",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/fortaleza_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.085,
+          18.460278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr3.htm",
+        "name": "Fortin de San Geronimo de Boqueron",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/geronimo_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.090556,
+          18.464167
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr4.htm",
+        "name": "Polvorin de San Geronimo",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/polvorin_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.106111,
+          18.468889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr5.htm",
+        "name": "El Capitolio de Puerto Rico",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/capitol_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.107778,
+          18.469444
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr6.htm",
+        "name": "Casa de Espana",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/casaespana_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.883333,
+          18.433333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr7.htm",
+        "name": "Parroquia del Espiritu Santo y San Patricio",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/sanpatricio_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.618247,
+          18.381122
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr8.htm",
+        "name": "Faro De Las Cabezas De San Juan",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/cabezas_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.826944,
+          18.150833
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr9.htm",
+        "name": "Casa Roig",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/casaroig_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.113611,
+          17.987778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr10.htm",
+        "name": "Casa Cautino",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/cautino_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.138119,
+          18.134325
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr11.htm",
+        "name": "Arenas Bridge",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/arenas_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.307083,
+          18.186111
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr12.htm",
+        "name": "Casa Natal de Luis Munoz Rivera",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/natal_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.356667,
+          18.0825
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr13.htm",
+        "name": "Church of San Blas de Illescas of Coamo",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/sanblas_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.356389,
+          18.082222
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr14.htm",
+        "name": "Pico Pomar Residence",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/pomar_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.621781,
+          18.042236
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr15.htm",
+        "name": "Centro Ceremonial Indigena",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/indigena_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.614167,
+          18.013611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr16.htm",
+        "name": "Parque de Bombas de Ponce",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/ponce_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.619167,
+          18.018611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr17.htm",
+        "name": "Castillo de Seralles",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/seralles_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.654444,
+          18.084444
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr18.htm",
+        "name": "Hacienda Buena Vista",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/hacienda_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.044444,
+          18.084444
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr19.htm",
+        "name": "Convento de Porta Coeli",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/coeli_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.043703,
+          18.082314
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr20.htm",
+        "name": "Church of San German Auxerre",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/auxerre_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67,
+          18
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr21.htm",
+        "name": "San German Historic District",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/sangerman_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.192197,
+          17.933653
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr22.htm",
+        "name": "Faro de Los Morrillos de Cabo Rojo",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/caborojo_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.139103,
+          18.201108
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr23.htm",
+        "name": "Plaza Publica",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/publica_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.140208,
+          18.201219
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr24.htm",
+        "name": "Teatro Yaguez",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/yaguez_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.781944,
+          18.296944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr25.htm",
+        "name": "Caguana Ceremonial Ball Courts Site",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/caguana_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.260556,
+          18.463056
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr26.htm",
+        "name": "Casa del Ray",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/casadelray_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.114167,
+          18.405
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr27.htm",
+        "name": "Caparra",
+        "description": "Puerto Rico",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/caparra_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.951667,
+          18.338611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr28.htm",
+        "name": "Estate Niesky",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/niesky_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.929722,
+          18.340556
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr29.htm",
+        "name": "Fort Christian",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/christian_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.931944,
+          18.345
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr30.htm",
+        "name": "Charlotte Amalia Historic District",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/amalia_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.935556,
+          18.329444
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr31.htm",
+        "name": "Hassel Island Historic District",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/hassal_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.901389,
+          18.336944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr32.htm",
+        "name": "New Herrnhut Moravian Church",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/herrnhut_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.733333,
+          18.333333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr33.htm",
+        "name": "Virgin Islands National Park",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/park_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.760833,
+          18.346944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr34.htm",
+        "name": "The Catherineberg-Jockumsdahl-Herman Farm",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/herman_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.744444,
+          18.325278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr35.htm",
+        "name": "Reef Bay Sugar Factory Historic District",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/reefbay_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.744444,
+          18.325278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr36.htm",
+        "name": "Reef Bay Great House Historic District",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/greathouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.718611,
+          18.349444
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr37.htm",
+        "name": "Estate Carolina Sugar Plantation",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/carolina_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.758333,
+          18.3425
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr38.htm",
+        "name": "Lameshur Plantation",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/lameshur_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.713333,
+          18.350278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr39.htm",
+        "name": "The Emmaus Moravian Church and Manse",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/emmaus_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.705556,
+          18.345833
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr40.htm",
+        "name": "Fortsberg",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/fortsberg_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.699722,
+          18.358889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr41.htm",
+        "name": "Hermitage Plantation Historic District",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/fortsberg_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.738333,
+          18.364722
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr42.htm",
+        "name": "Annaberg Historic District",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/annaberg_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.741389,
+          18.368333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr43.htm",
+        "name": "Mary Point Great House and Factory",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/marypoint_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.754167,
+          18.354167
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr44.htm",
+        "name": "Cinnamon Bay Plantation",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/cinnamon_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.702222,
+          17.748889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr45.htm",
+        "name": "Christiansted Historic District/Christiansted National Historic Site",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/christiansted_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.709722,
+          17.744028
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr46.htm",
+        "name": "Friedensthal Mission",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/mission_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.758889,
+          17.778889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr47.htm",
+        "name": "Columbus Landing Site",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/columbus_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.78,
+          17.748194
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr48.htm",
+        "name": "Friedensfeld Midlands and Moravian Church",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/moravian_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.881389,
+          17.712222
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr49.htm",
+        "name": "Frederiksted Historic District",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/frederiksted_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.863056,
+          17.702639
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr50.htm",
+        "name": "Whim Museum",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/whim_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.830139,
+          17.717917
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr51.htm",
+        "name": "Estate St. George Historic District",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/stgeorge_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.771111,
+          17.731667
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/prvi/pr52.htm",
+        "name": "Slob Historic District",
+        "description": "Virgin Islands",
+        "description_url": "http://www.nps.gov/history/nr/travel/prvi/bingmap_images/slob_mapimage.jpg"
+      }
+    }
+  ]
+}
