@@ -93,13 +93,6 @@
       "title": "Historic District Walking Tours"
     },
     {
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun",
-      "home_description": "Visitor Center – Hourly from 8 to 5",
-      "site_id": "1",
-      "title": "Movie \"Gold Fever: Race to the Klondike\" "
-    },
-    {
       "description": "During the summer, join Park Rangers at our Junior Ranger Activity Center. The center gives kids the chance to dress up as a stampeder, play victorian games, touch wild animal pelts, and earn a Junior Ranger badge!\n\n**Junior Ranger Activity Center**\nLocated at 4th & Broadway Ave\n*Open Monday- Friday*\n10 am-12 pm & 1-3 pm\n*Open May-September*",
       "frequency": "Mon,Tue,Wed,Thur,Fri",
       "home_description": "Pantheon – 4th & Broadway\nM-F 10 to 12 & 1 to 3",
@@ -114,6 +107,13 @@
       "home_description": "Park Museum Auditorium 3pm - Free",
       "name": "special",
       "title": "The sinking of the S.S. Oak. Special presentation"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun",
+      "home_description": "Visitor Center – Hourly from 8 to 5",
+      "site_id": "1",
+      "title": "Movie \"Gold Fever: Race to the Klondike\""
     }
   ],
   "map_thumbnail_zoom": 16,
@@ -1598,37 +1598,6 @@
       "type": "Wayside Exhibit"
     },
     {
-      "audio_description": "Soapy's Parlor Museum.  1 ½ minutes.  Jefferson “Soapy” Smith’s parlor is a narrow, one-story building, 15 feet wide.  It stretches back 60 feet from street, and a simple pitched, shingled roof tops the building behind its false front.  Soapy’s is located on the south side of Second Avenue, between State Street and Broadway.  A metal fence five feet high separates the building from the boardwalk.  Grassy areas on both sides of the structure set it apart from the neighboring buildings.  The exterior walls on either side of the building are windowless..  Soapy’s is not currently open to the public. \n\t\nThe building’s wooden, flat-topped façade is painted white, except for a black strip about a foot wide across the top, just below the roofline.  The words “Jeff. Smiths Parlor” have been stenciled in white capital letters on the black strip, but are badly faded.  A single windowed doorway is set into the right-hand side of the façade; a large square window is located immediately to its left.  The window and door, both trimmed in beige, together stretch across almost the entire width of the building.  White lace curtains adorn the window and door from inside.\n\nEnd of message.\n",
-      "description": "Jeff. Smiths Parlor” was the saloon and headquarters of Jefferson Randolph Smith, better known as “Soapy Smith.” Smith was Skagway’s most infamous con-man, who arrived in Skagway sometime in 1897 and began operating from this building on 6th Avenue, May 1898. The interior during Soapy’s reign has been described as a restaurant with a large mahogany bar. The back room “parlor” was where victims were sometimes robbed while gang members ran away with the loot. Soapy met his demise soon after J. D. Stewart, a gold miner returning from the Klondike, was robbed by his gang. Soapy was killed in a shoot-out by Frank Reid on July 8, 1898 and both are buried in Skagway’s Gold Rush Cemetery. In the years following Soapy’s death, this false-front wood-frame building changed hands several times.  As new owner Martin Itjen took over in 1935, restoration efforts and improvements soon followed, based on historical photographs.  Itjen reconstructed the building to a version of what Soapy’s Parlor had been, and papered the interior walls with newspapers dating from the gold rush to the 1930s. When he reopened the building as a museum, Itjen used his wizardry at mechanics and installed a manikin of Soapy Smith that turned from the bar and greeted visitors to the museum.  The Jeff. Smith Parlor Museum became a highlight on his Skagway tours. Upon Itjen’s death in 1924, George Rapuzzi, a collector of gold rush memorabilia, and Itjen’s long-time friend, took over the museum and moved the building to the current location in 1964. With his wife Edna, George repaired and renovated the building which was open to the public from 1967 to 1986.  In December 2008, the Rasmuson Foundation donated the ‘George and Edna Rapuzzi Collection,’ which included five historic buildings and a large collection of artifacts from 1898 through the late 1960’s to the National Park Service. Original artifacts and memorabilia depicting Soapy Smith’s life in Skagway will be on display when restoration is completed in 2016.",
-      "geofence_buffer_in_meters": 10,
-      "id": 3,
-      "information": [
-        {
-          "description": "Open by Ranger Tour Only - 2016",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45382107,
-      "longitude": -135.319148,
-      "map_thumbnail_image": 88,
-      "media": [
-        69,
-        79
-      ],
-      "name": "Soapy's Parlor Museum",
-      "name_description": "Opening in 2016, this building was once headquarters for town villain “Soapy,” then a museum by a local entrepreneur.",
-      "primary_image": 17,
-      "type": "Historic Building",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
       "geofence_buffer_in_meters": 10,
       "id": 41,
       "information": [
@@ -2399,35 +2368,6 @@
     },
     {
       "geofence_buffer_in_meters": 10,
-      "id": 8,
-      "information": [
-        {
-          "description": "Open Seasonally Monday through Friday, 9 – 5, Saturday 10 – 5, Sunday 1 – 4.",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45566541,
-      "longitude": -135.3117585,
-      "map_thumbnail_image": 93,
-      "media": [
-        74,
-        83
-      ],
-      "name": "Skagway City Museum and CIty Hall",
-      "name_description": "Built as the McCabe College in 1899-1900, this unique stone-faced building now houses the City Hall and Museum.",
-      "primary_image": 22,
-      "type": "Museum",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        }
-      ]
-    },
-    {
-      "geofence_buffer_in_meters": 10,
       "id": 45,
       "information": [
         {
@@ -2563,6 +2503,35 @@
       "name_description": "A modern photograph of the Portland House, a false front building undergoing renovation.",
       "primary_image": 46,
       "type": "Historic Building (NPS)"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 8,
+      "information": [
+        {
+          "description": "Open Seasonally Monday through Friday, 9 – 5, Saturday 10 – 5, Sunday 1 – 4.",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45566541,
+      "longitude": -135.3117585,
+      "map_thumbnail_image": 93,
+      "media": [
+        74,
+        83
+      ],
+      "name": "Skagway City Museum and City Hall",
+      "name_description": "Built as the McCabe College in 1899-1900, this unique stone-faced building now houses the City Hall and Museum.",
+      "primary_image": 22,
+      "type": "Museum",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        }
+      ]
     },
     {
       "description": "The Red Front Building was originally a paint and wallpaper company built during the gold rush. The structure changed hands frequently, much like other historical structures in Skagway, as entrepreneurs came to town, made money, and moved on to their next opportunity. The Red Front was later used as a hardware store and liquor storage for the Pantheon Saloon before it was demolished sometime between 1926 and 1934. The NPS acquired the Pantheon Saloon in 1977 and during its restoration, and replica of the gold rush era Red front building was constructed on the same site as the original structure. Today this building is operated by the Lease Back Program.",
@@ -2751,41 +2720,6 @@
       "type": "Parade Field"
     },
     {
-      "audio_description": "White Pass & Yukon Route Depot.  1 ¼ minutes.  The White Pass & Yukon Route Depot is situated on the south side of Second Avenue, between Broadway and Spring Street.  It’s painted white with green trim.  The western half of the wooden building is two stories tall, dropping to just one story on the eastern side.  Further to the east is a large parking area.  On both the north- and south-facing facades, maroon letters on the second story read “White Pass & Yukon Route, Established 1898.”  \n\nYou may enter the building on the north side from Second Avenue.  It’s two steps up to the door from the sidewalk, and there’s a ramp near the right-hand edge of the building.  Or you can enter the depot from the south.  A covered cement porch runs the length of the building on the south side and a doorway provides access from the porch.  The porch also serves as the railroad platform; the tracks are located a few feet to the south, parallel to it.  Please watch your step near the tracks and listen for oncoming trains.\n\nEnd of message.",
-      "description": "This ornate building was designed by Seattle architect Henry Dozier to house the White Pass and Yukon Route Railroad administration.  Completed in 1900, the building today serves as headquarters for Klondike Gold Rush National Historical Park, featuring a museum with exhibits about the gold rush.",
-      "geofence_buffer_in_meters": 10,
-      "id": 2,
-      "information": [
-        {
-          "description": "Elaborate woodwork and plastered walls and ceilings adorn a handsome interior. The entire building was erected around a two-story fireproof vault made of brick and steel over a stone foundation. Offices and a baggage room completed the plan. ",
-          "name": "Architecture of the Park Museum Building"
-        },
-        {
-          "description": "Open Seasonally Monday through Friday, 10am-12pm and 1pm-3pm, Closed Saturday and Sunday",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45339166,
-      "longitude": -135.3184238,
-      "map_thumbnail_image": 87,
-      "media": [
-        14,
-        68
-      ],
-      "name": "Park Museum Building",
-      "name_description": "The historic Railroad Administration office houses Klondike Gold Rush National Historical Park’s museum and offices.",
-      "primary_image": 16,
-      "type": "Museum",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
       "description": "The Peniel Mission, built in 1900, offered religious and humanitarian services to the stampeders. Between 1900 and 1910 the mission kept its doors open. Just a block from the heart of Skagway's saloons, gambling halls, and the red-light district, the mission offered nightly meetings, Sunday services, shelter, and warmth. As Skagway declined, support for the mission dwindled. By 1911 the building fell into disuse, although it continued to serve as a home for missionaries. In 1937 it was remodeled as a doctor's office and residence. After the National Park Service acquired the building in 1978 the interior was altered to provide housing for park seasonal staff.",
       "geofence_buffer_in_meters": 10,
       "id": 30,
@@ -2903,6 +2837,72 @@
       "name_description": "The Red Light District lined 7th Ave until moral trends forced its dissolution; these cribs were relocated in 1902.",
       "primary_image": 37,
       "type": "Historic Building (NPS)",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "audio_description": "White Pass & Yukon Route Depot.  1 ¼ minutes.  The White Pass & Yukon Route Depot is situated on the south side of Second Avenue, between Broadway and Spring Street.  It is painted white with green trim.  The western half of the wooden building is two stories tall, dropping to just one story on the eastern side.  Further to the east is a large parking area.  On both the north and south-facing facades, maroon letters on the second story read “White Pass & Yukon Route, Established 1898.”  \n\nYou may enter the building on the north side from Second Avenue.  It’s two steps up to the door from the sidewalk, and there’s a ramp near the right-hand edge of the building.  Or you can enter the depot from the south.  A covered cement porch runs the length of the building on the south side and a doorway provides access from the porch.  The porch also serves as the railroad platform; the tracks are located a few feet to the south, parallel to it.  Please watch your step near the tracks and listen for oncoming trains.\n\nEnd of message.",
+      "description": "This ornate building was designed by Seattle architect Henry Dozier to house the White Pass and Yukon Route Railroad administration.  Completed in 1900, the building today serves as headquarters for Klondike Gold Rush National Historical Park, featuring a museum with exhibits about the gold rush.",
+      "geofence_buffer_in_meters": 10,
+      "id": 2,
+      "information": [
+        {
+          "description": "Elaborate woodwork and plastered walls and ceilings adorn a handsome interior. The entire building was erected around a two-story fireproof vault made of brick and steel over a stone foundation. Offices and a baggage room completed the plan. ",
+          "name": "Architecture of the Park Museum Building"
+        },
+        {
+          "description": "Open Seasonally Monday through Friday, 10am-12pm and 1pm-3pm, Closed Saturday and Sunday",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45339166,
+      "longitude": -135.3184238,
+      "map_thumbnail_image": 87,
+      "media": [
+        14,
+        68
+      ],
+      "name": "Park Museum Building",
+      "name_description": "The historic Railroad Administration office houses Klondike Gold Rush National Historical Park’s museum and offices.",
+      "primary_image": 16,
+      "type": "Museum",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "audio_description": "Soapy's Parlor Museum.  1 ½ minutes.  Jefferson “Soapy” Smith’s parlor is a narrow, one-story building, 15 feet wide.  It stretches back 60 feet from street, and a simple pitched, shingled roof tops the building behind its false front.  Soapy’s is located on the south side of Second Avenue, between State Street and Broadway.  A metal fence five feet high separates the building from the boardwalk.  Grassy areas on both sides of the structure set it apart from the neighboring buildings.  The exterior walls on either side of the building are windowless..  Soapy’s is not currently open to the public. \n\t\nThe building’s wooden, flat-topped facade is painted white, except for a black strip about a foot wide across the top, just below the roofline.  The words “Jeff. Smiths Parlor” have been stenciled in white capital letters on the black strip, but are badly faded.  A single windowed doorway is set into the right-hand side of the façade; a large square window is located immediately to its left.  The window and door, both trimmed in beige, together stretch across almost the entire width of the building.  White lace curtains adorn the window and door from inside.\n\nEnd of message.\n",
+      "description": "Jeff. Smiths Parlor” was the saloon and headquarters of Jefferson Randolph Smith, better known as “Soapy Smith.” Smith was Skagway’s most infamous con-man, who arrived in Skagway sometime in 1897 and began operating from this building on 6th Avenue, May 1898. The interior during Soapy’s reign has been described as a restaurant with a large mahogany bar. The back room “parlor” was where victims were sometimes robbed while gang members ran away with the loot. Soapy met his demise soon after J. D. Stewart, a gold miner returning from the Klondike, was robbed by his gang. Soapy was killed in a shoot-out by Frank Reid on July 8, 1898 and both are buried in Skagway’s Gold Rush Cemetery. In the years following Soapy’s death, this false-front wood-frame building changed hands several times.  As new owner Martin Itjen took over in 1935, restoration efforts and improvements soon followed, based on historical photographs.  Itjen reconstructed the building to a version of what Soapy’s Parlor had been, and papered the interior walls with newspapers dating from the gold rush to the 1930s. When he reopened the building as a museum, Itjen used his wizardry at mechanics and installed a manikin of Soapy Smith that turned from the bar and greeted visitors to the museum.  The Jeff. Smith Parlor Museum became a highlight on his Skagway tours. Upon Itjen’s death in 1924, George Rapuzzi, a collector of gold rush memorabilia, and Itjen’s long-time friend, took over the museum and moved the building to the current location in 1964. With his wife Edna, George repaired and renovated the building which was open to the public from 1967 to 1986.  In December 2008, the Rasmuson Foundation donated the ‘George and Edna Rapuzzi Collection,’ which included five historic buildings and a large collection of artifacts from 1898 through the late 1960’s to the National Park Service. Original artifacts and memorabilia depicting Soapy Smith’s life in Skagway will be on display when restoration is completed in 2016.",
+      "geofence_buffer_in_meters": 10,
+      "id": 3,
+      "information": [
+        {
+          "description": "Open by Ranger Tour Only - 2016",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45382107,
+      "longitude": -135.319148,
+      "map_thumbnail_image": 88,
+      "media": [
+        69,
+        79
+      ],
+      "name": "Soapy's Parlor Museum",
+      "name_description": "Opening in 2016, this building was once headquarters for town villain “Soapy,” then a museum by a local entrepreneur.",
+      "primary_image": 17,
+      "type": "Historic Building",
       "services": [
         {
           "description": "Handicapped Access",
