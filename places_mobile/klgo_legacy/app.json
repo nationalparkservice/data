@@ -2525,67 +2525,6 @@
       ]
     },
     {
-      "audio_description": "Klondike Gold Rush National Historical Park Visitor Center.  1 ½ minutes.  The visitor center for the Klondike Gold Rush National Historical Park is located at the southeast corner of Broadway and Second Avenue.  The visitor center is housed in the historic 1898 White Pass and Yukon Route Railroad Depot.  It’s a two-story wooden building painted a muted shade of red with mustard-yellow trim.  The pitched, shingled roof is topped with several brick chimneys.\n\nBoth buildings can be accessed through entrances on Second Avenue, off the wooden boardwalk that wraps around the building.  The boardwalk is three steps up from the street here, and there are railings at the corner to guide you. Alternatively, a ramp at the south end of Broadway provides access from the street to the boardwalk.  Please be aware that the wooden boardwalks can be slippery in rainy weather, so watch your step.\n\nThese entrances are on the left side of the Second Avenue facade, where the visitor center abuts the National Park Service museum building next door.  A breezeway between the two structures extends perpendicularly from the Second Avenue boardwalk.  Find the breezeway and walk in as far as you can.  The entrance to the Visitor Center will be on your right.  The entrance to the Park museum will be to your left.\n\nEnd of message.",
-      "description": "The Visitor Center was built as a depot for the White Pass and Yukon Route Railroad.  From the second-floor bay windows the dispatcher could see approaching and departing trains on the tracks that once curved around the southwest corner and headed north on Broadway toward the gold fields of the Klondike. ",
-      "geofence_buffer_in_meters": 10,
-      "id": 1,
-      "information": [
-        {
-          "description": "After a rushed construction during the Gold Rush boom in Skagway, the depot opened in 1898 as the headquarters for the White Pass and Yukon Route Railroad. Due to a shortage of supplies, the depots creators resorted to the use of a patchwork of old crates and secondhand lumber as building material. ",
-          "name": "Building The Depot"
-        },
-        {
-          "description": "Listen for the train’s whistle blow - during the Second World War, twelve trains left Skagway for the Interior every day!  During this era, the depot and adjacent administration building were leased and operated by the U.S. Army, and played a critical role in the construction of the Alaska-Canada Highway. ",
-          "name": "Second World War"
-        },
-        {
-          "description": "The depot was eventually vacated in 1969 in favor of a more modern building to the east, and was acquired by the National Park Foundation before transfer to the National Park Service in 1976. The building was restored during the early 1980s to resemble its 1908-1915 appearance, and is now home to the Klondike Gold Rush National Historical Park Visitor Center and Park Headquarters. ",
-          "name": "Restoration of the Building"
-        },
-        {
-          "description": "Summer hours: Monday through Friday 8-6, Saturday 8-4, Sunday 8-5, Winter hours: Monday through Friday 9-4",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45350072,
-      "longitude": -135.3186089,
-      "map_thumbnail_image": 85,
-      "media": [
-        68,
-        78,
-        80,
-        14
-      ],
-      "name": "Visitor Center",
-      "name_description": "This historic train depot is home to Klondike Gold Rush National Historical Park, starting point for park activities.",
-      "primary_image": 15,
-      "type": "Visitor Center",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        },
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        },
-        {
-          "description": "Tcoil",
-          "type": "Tcoil"
-        },
-        {
-          "description": "Staffed by Ranger",
-          "icon": "ranger.png",
-          "icon_@2x": "ranger@2x.png",
-          "type": "Staffed by Ranger"
-        }
-      ]
-    },
-    {
       "description": "Park’s Visitor Center, served as a soldiers’ barracks (1838-1871), converted to jail and courthouse in 1872. ",
       "geofence_buffer_in_meters": 20,
       "id": 82,
@@ -2649,6 +2588,63 @@
       "name_description": "The flagpole (99 ft.) is a reproduction of the original built in 1846. This height allows the flag to be seen for miles.",
       "primary_image": 166,
       "type": "Parade Field"
+    },
+    {
+      "audio_description": "Klondike Gold Rush National Historical Park Visitor Center.  1 ½ minutes.  The visitor center for the Klondike Gold Rush National Historical Park is located at the southeast corner of Broadway and Second Avenue.  The visitor center is housed in the historic 1898 White Pass and Yukon Route Railroad Depot.  It’s a two-story wooden building painted a muted shade of red with mustard-yellow trim.  The pitched, shingled roof is topped with several brick chimneys.\n\nBoth buildings can be accessed through entrances on Second Avenue, off the wooden boardwalk that wraps around the building.  The boardwalk is three steps up from the street here, and there are railings at the corner to guide you. Alternatively, a ramp at the south end of Broadway provides access from the street to the boardwalk.  Please be aware that the wooden boardwalks can be slippery in rainy weather, so watch your step.\n\nThese entrances are on the left side of the Second Avenue facade, where the visitor center abuts the National Park Service museum building next door.  A breezeway between the two structures extends perpendicularly from the Second Avenue boardwalk.  Find the breezeway and walk in as far as you can.  The entrance to the Visitor Center will be on your right.  The entrance to the Park museum will be to your left.\n\nEnd of message.",
+      "description": "The Visitor Center was built as a depot for the White Pass and Yukon Route Railroad.  From the second-floor bay windows the dispatcher could see approaching and departing trains on the tracks that once curved around the southwest corner and headed north on Broadway toward the gold fields of the Klondike. ",
+      "geofence_buffer_in_meters": 10,
+      "id": 1,
+      "information": [
+        {
+          "description": "After a rushed construction during the Gold Rush boom in Skagway, the depot opened in 1898 as the headquarters for the White Pass and Yukon Route Railroad. Due to a shortage of supplies, the depots creators resorted to the use of a patchwork of old crates and secondhand lumber as building material. ",
+          "name": "Building The Depot"
+        },
+        {
+          "description": "Listen for the train’s whistle blow - during the Second World War, twelve trains left Skagway for the Interior every day!  During this era, the depot and adjacent administration building were leased and operated by the U.S. Army, and played a critical role in the construction of the Alaska-Canada Highway. ",
+          "name": "Second World War"
+        },
+        {
+          "description": "The depot was eventually vacated in 1969 in favor of a more modern building to the east, and was acquired by the National Park Foundation before transfer to the National Park Service in 1976. The building was restored during the early 1980s to resemble its 1908-1915 appearance, and is now home to the Klondike Gold Rush National Historical Park Visitor Center and Park Headquarters. ",
+          "name": "Restoration of the Building"
+        },
+        {
+          "description": "Summer hours: Monday through Friday 8-6, Saturday 8-4, Sunday 8-5, Winter hours: Monday through Friday 9-4",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45350072,
+      "longitude": -135.3186089,
+      "map_thumbnail_image": 85,
+      "media": [
+        68,
+        78,
+        80,
+        14
+      ],
+      "name": "Visitor Center",
+      "name_description": "This historic train depot is home to Klondike Gold Rush National Historical Park, starting point for park activities.",
+      "primary_image": 15,
+      "type": "Visitor Center",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        },
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        },
+        {
+          "description": "Staffed by Ranger",
+          "icon": "ranger.png",
+          "icon_@2x": "ranger@2x.png",
+          "type": "Staffed by Ranger"
+        }
+      ]
     },
     {
       "description": "The Peniel Mission, built in 1900, offered religious and humanitarian services to the stampeders. Between 1900 and 1910 the mission kept its doors open. Just a block from the heart of Skagway's saloons, gambling halls, and the red-light district, the mission offered nightly meetings, Sunday services, shelter, and warmth. As Skagway declined, support for the mission dwindled. By 1911 the building fell into disuse, although it continued to serve as a home for missionaries. In 1937 it was remodeled as a doctor's office and residence. After the National Park Service acquired the building in 1978 the interior was altered to provide housing for park seasonal staff.",
