@@ -1462,6 +1462,7 @@
     },
     {
       "disp_order": 3,
+      "name": "Download",
       "type": "DOWNLOAD"
     },
     {
