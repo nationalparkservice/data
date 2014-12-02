@@ -55,7 +55,17 @@
       ]
     },
     {
-      "name": "Lesser Know",
+      "description": "For BETA Test only",
+      "name": "HEHO/FOSM",
+      "sites": [
+        80,
+        81,
+        82,
+        83
+      ]
+    },
+    {
+      "name": "Lesser Known",
       "sites": [
         26,
         27,
@@ -68,16 +78,6 @@
         34,
         35,
         36
-      ]
-    },
-    {
-      "description": "For BETA Test only",
-      "name": "HEHO/FOSM",
-      "sites": [
-        80,
-        81,
-        82,
-        83
       ]
     }
   ],
@@ -1554,1114 +1554,8 @@
   ],
   "sites": [
     {
-      "geofence_buffer_in_meters": 10,
-      "id": 36,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.51381,
-      "longitude": -135.251729,
-      "map_thumbnail_image": 120,
-      "name": "White Pass Highway Wayside #3",
-      "name_description": "Deadhorse Trail",
-      "primary_image": 53,
-      "type": "Wayside Exhibit"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 37,
-      "latitude": 59.537924,
-      "longitude": -135.21277,
-      "map_thumbnail_image": 121,
-      "name": "White Pass Highway Wayside #4",
-      "name_description": "White Pass City",
-      "primary_image": 54,
-      "type": "Wayside Exhibit"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 39,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.587932,
-      "longitude": -135.191209,
-      "map_thumbnail_image": 123,
-      "name": "White Pass Highway Wayside #6",
-      "name_description": "Migration Corridor",
-      "primary_image": 56,
-      "type": "Wayside Exhibit"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 41,
-      "information": [
-        {
-          "description": "Available Year-Round",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.462472,
-      "longitude": -135.3204587,
-      "map_thumbnail_image": 125,
-      "name": "Skagway Town Overlook",
-      "name_description": "Located at Mile 2 on the Dyea Rd, this overlook provides an amazing panoramic view of town and the surrounding landscape.",
-      "type": "Overlook",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        },
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 33,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.4730831,
-      "longitude": -135.289414,
-      "map_thumbnail_image": 118,
-      "name": "Gold Rush Cemetery and Reid Falls",
-      "name_description": "This Gold Rush-era cemetery includes wayside exhibits highlighting significant historical people and serves as trailhead to beautiful Reid falls.",
-      "primary_image": 50,
-      "type": "Cemetery, Trail",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        },
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 16,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45431999,
-      "longitude": -135.317992,
-      "map_thumbnail_image": 101,
-      "media": [
-        76
-      ],
-      "name": "Golden North Hotel",
-      "name_description": "First built in 1898 by a trading company, a third story and dome were added in 1908 to make this Skagway’s largest hotel.",
-      "primary_image": 35,
-      "type": "Business",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "description": "The Dyea Campground is located 9 miles from Skagway and .5 miles from the the Chilkoot trailhead. The campground is within a short drive or bike ride of the historic townsite of Dyea. The campground is monitored by National Park Service rangers and is open when free of snow. The campground provides 22 sites for vehicle and walk-in camping. Hook-ups are not available for recreational vehicles. Campers are advised to bring drinking water and firewood. Facilities include pit toilets, fire rings, picnic tables, and garbage receptacles. Fee is $10 per site per night. Self-registration at the campground entrance.",
-      "geofence_buffer_in_meters": 10,
-      "id": 46,
-      "information": [
-        {
-          "description": "Available Year-Round",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.505698,
-      "longitude": -135.3482168,
-      "map_thumbnail_image": 128,
-      "name": "Dyea Campground",
-      "name_description": "Camp near the historic Dyea Townsite. Self-registration available on-site.",
-      "type": "Campground",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        },
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 43,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.4790251,
-      "longitude": -135.3470676,
-      "map_thumbnail_image": 127,
-      "name": "Dyea Flats Overlook",
-      "name_description": "Dyea",
-      "primary_image": 58,
-      "type": "Wayside Exhibit",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 9,
-      "information": [
-        {
-          "description": "Available Year-Round",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45301951,
-      "longitude": -135.3192392,
-      "map_thumbnail_image": 94,
-      "name": "Centennial Park",
-      "name_description": "Constructed in 1997, this park celebrates the centennial of the Klondike Gold Rush with a statue of a Tlingit packer and stampeder.",
-      "primary_image": 28,
-      "type": "Park",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 11,
-      "information": [
-        {
-          "description": "Open daily in the summer from 7:15am to 5:00pm.",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45330169,
-      "longitude": -135.3181744,
-      "map_thumbnail_image": 96,
-      "name": "White Pass & Yukon Route Depot",
-      "name_description": "This modern depot belongs to the White Pass and Yukon Route Railroad, which was constructed between 1898 and 1900.",
-      "primary_image": 30,
-      "type": "Business",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        },
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 15,
-      "information": [
-        {
-          "description": "PRIVATE",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45469213,
-      "longitude": -135.3158355,
-      "map_thumbnail_image": 100,
-      "name": "St. James Hotel",
-      "name_description": "Thomas Tancred and Mike Heney formed the idea of a train over the White Pass at this hotel in 1897.",
-      "primary_image": 34,
-      "type": "Historic Building"
-    },
-    {
-      "description": "During the early gold rush years in Skagway, this building was associated with one of two businesses that provided retail and wholesale meat to stampeders and commercial clients.  Known as the Frye-Bruhn refrigerated warehouse, it was owned by brothers Frank and Charles Frye and Charles Bruhn and was part of the Frye-Bruhn Meat Packing Company, of Seattle, Washington.  Incorporated in 1891, the company rapidly expanded during the gold rush and soon had stores in several locations in Alaska including Haines, Juneau, Seward, Skagway, Valdez, and a cattle ranch in Katmai.  This building, part of the Frye-Bruhn meat packing empire, was first used briefly as a slaughter house.  It was remodeled in May 1900 and turned into a refrigerated warehouse for meat.  The Frye-Bruhn Company sold the warehouse in September 1919 to Anthony Dortero, a Skagway fruit dealer and clothier to men, for $450, but continued to operate in Skagway until the mid-1930s.  Mr. Dortero died in 1920 but his widow, Sabina, kept the property until 1945.  After that it was owned by several people before being donated to the National Park Service. Exactly when the refrigeration equipment in the old building quit working is unknown but it still contains parts of the original refrigeration coils and overhead track used to keep the meat cool and to move it around.  What is the future of the warehouse? The National Park Service recently moved it across 5th Avenue to where you see it now. The next step is to decide whether it should stay here or be moved to another location and stabilize it. Research and preservation work will need to be done to save the warehouse and put it back into use either as a storage building, interpretive facility, or commercial lease.",
-      "geofence_buffer_in_meters": 10,
-      "id": 25,
-      "information": [
-        {
-          "description": "Closed to the Public (Undergoing Restoration)",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45526329,
-      "longitude": -135.3144675,
-      "map_thumbnail_image": 110,
-      "name": "Frye Bruhn Building",
-      "name_description": "Once a refrigerated warehouse for the Frye Bruhn Meat Packing Company, this building is slated for rehabilitation.",
-      "primary_image": 42,
-      "type": "Historic Building"
-    },
-    {
-      "description": "This little structure typifies early gold rush era businesses. There was nothing pretentious about Goldberg’s Cigar Store—just four walls, a shop and a residence in the back. Stores like this one were quickly assembled of wood and lined the streets at the start of the gold rush. Goldberg sold his cigars, candy and tobacco from this shop and like many other merchants, followed the stampeders elsewhere after making his money in Skagway.",
-      "geofence_buffer_in_meters": 10,
-      "id": 24,
-      "information": [
-        {
-          "description": "PRIVATE",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45518832,
-      "longitude": -135.3146902,
-      "map_thumbnail_image": 109,
-      "name": "Goldberg Cigar Store",
-      "name_description": "This small structure is where entrepreneur D. Goldberg sold cigars, candy, and tobacco, and is an example of early Skagway architecture.",
-      "primary_image": 41,
-      "type": "Historic Building"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 34,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "name": "White Pass Highway Wayside #1",
-      "name_description": "White Pass and Yukon Route Railroad",
-      "primary_image": 51,
-      "type": "Wayside Exhibit"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 10,
-      "information": [
-        {
-          "description": "Available Seasonally",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45342165,
-      "longitude": -135.3190541,
-      "map_thumbnail_image": 95,
-      "media": [
-        75
-      ],
-      "name": "Snow Plow",
-      "name_description": "A caboose trails Rotary Snowplow No. 1, built in 1899 and used by the White Pass & Yukon Route to clear up to 12 feet of snow.",
-      "primary_image": 29,
-      "type": "Outdoor Exhibit",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 31,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45566405,
-      "longitude": -135.3133062,
-      "map_thumbnail_image": 116,
-      "name": "Molly Walsh Park and Statue",
-      "name_description": "A fun children’s playground, see wayside exhibits to learn more about Ms. Walsh’s tragic story.",
-      "primary_image": 48,
-      "type": "Park",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        },
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "description": "Managed by the municipality of Skagway, the Dyea Flats offer a natural area for wildlife viewing, photography and exploring a coastal community teeming with life.  In the spring and summer, colorful wildflowers blanket the area. The Long Wharf, originally 7,500 feet in length, was constructed at the height of the Klondike Gold Rush to stretch the distance of the tidal mud flats. Remnants of its piling are still visible on the Dyea Flats.",
-      "geofence_buffer_in_meters": 10,
-      "id": 53,
-      "information": [
-        {
-          "description": "Available Year-round",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.4978573,
-      "longitude": -135.3600796,
-      "map_thumbnail_image": 132,
-      "name": "Dyea Flats",
-      "name_description": "Managed by the municipality of Skagway, the Dyea Flats offer a natural area and coastal community teeming with wildlife.",
-      "primary_image": 67,
-      "type": "Park"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 32,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45198753,
-      "longitude": -135.3167528,
-      "map_thumbnail_image": 117,
-      "name": "Pullen Pond",
-      "name_description": "Pullen Pond, named for Gold Rush entrepreneur Harriet Pullen, is a beautiful spot to relax, picnic, and see salmon run.",
-      "primary_image": 49,
-      "type": "Park",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        },
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "description": "This building was constructed in 1897 by James Brackett. He operated a small trading post here until his expanding business forced a move to a larger structure. In 1898 baker Stephen Baur bought Brackett’s store. Baur, the “Boss Baker,” opened a restaurant specializing in fresh pastries and breads. He made minor repairs to the building and extended the false front. The building also served as a grocery store, a restaurant, and a military mess hall during WW II. Today is looks much like it did in the gold rush and is operated as a store under the Lease Back Program.",
-      "geofence_buffer_in_meters": 10,
-      "id": 23,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45547048,
-      "longitude": -135.3148618,
-      "map_thumbnail_image": 108,
-      "name": "Boss Bakery",
-      "name_description": "A trading post turned bakery, this structure embodies the zeal for entrepreneurship during the Klondike Gold Rush.",
-      "primary_image": 40,
-      "type": "Building (NPS)",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "description": "The international Chilkoot Trail is managed by the National Park Service and Parks Canada, operating in the Chilkoot Trail Center.  Skagway's booming tourism industry began just as the Gold Rush was ending in the summer of 1898 with the first boatload of sightseers to the city. Martin Itjen, a Gold rush stampeder and Skagway’s premier tour operator bought this house in 1922 and originally stood on piers near Moore’s Wharf.  From that location, Martin and his wife Lucy greeted passing tourists, sold fruit and candies, and booked rides on Itjen’s innovative Skagway Streetcars. As the streetcar toured, Itjen recited poetry and told humorous anecdotes about the town, keeping the gold rush tales alive. The Itjen House was later moved several times to other locations before finding its present home in 1978. Today the building is used as the National Park Service and Parks Canada Chilkoot Trail Center.",
-      "geofence_buffer_in_meters": 10,
-      "id": 12,
-      "information": [
-        {
-          "description": "Open 7 days a week, 8 – 5. Closed on Tuesdays 12 – 1.",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45360977,
-      "longitude": -135.319148,
-      "map_thumbnail_image": 97,
-      "name": "Chilkoot Trail Center (Itjen House)",
-      "name_description": "This building houses the NPS Trail Center. It belonged to eccentric entrepreneur Martin Itjen who helped initiate Skagway tourism.",
-      "primary_image": 31,
-      "type": "Trail Center",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        },
-        {
-          "description": "Staffed by Ranger",
-          "icon": "ranger.png",
-          "icon_@2x": "ranger@2x.png",
-          "type": "Staffed by Ranger"
-        }
-      ]
-    },
-    {
-      "description": "By 1907-1908, Skagway’s glory days of the Klondike Gold Rush had passed. Vacant, derelict buildings lined the streets, giving Skagway the appearance, as described by one visitor, of “the scrap-heap of creation.” In an attempt to centralize businesses in the downtown area and create a new Skagway, several buildings, including this one, were moved to new locations along Broadway in 1908. In 1900 it originally housed the all black Company L, 24th Infantry as a two-story army barracks. Brought here to protect American territory during the gold rush, the troops departed in 1904 for Fort William Seward in Haines, Alaska. After the barracks was moved to its present location, an open store area was built with a flowing stairway leading upstairs and a new false-front attached. Partners Lynch & Kennedy were the first owners of the new store and sold men’s attire and dry goods, and theirs is one of the town’s finest examples of false front architecture and reflects the hoped-for stability in Skagway. The local paper, The Daily Alaskan, reported that “The store is just about the handsomest in the city… It is a fine addition to business life of the city.” It remains a fine example of Gold Rush era architecture, and today continues its role in Skagway’s commercial present as part of the National Park Service’s Lease Back Program.",
-      "geofence_buffer_in_meters": 10,
-      "id": 20,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45450402,
-      "longitude": -135.3166991,
-      "map_thumbnail_image": 105,
-      "name": "Lynch & Kennedy",
-      "name_description": "The story of the Lynch and Kennedy exemplifies the entrepreneurial spirit and architecture of early Skagway.",
-      "primary_image": 39,
-      "type": "Business (NPS)",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "description": "In many ways, Skagway was one of the last Western frontier towns. In two years’ time, Skagway’s population soared from just a handful to over 8,000 people and creating bountiful opportunities to start businesses and sell goods and services. Stampeder and entrepreneur Henry Boas constructed this building in September 1899, out of which he operated a tailor shop and fur business until 1903. This shop fits the stereotypical appearance of a western boomtown false front building, common in Gold Rush era architecture in Skagway. To grab the attention of thousands of potential customers, elaborate false fronts such as this projected an image of size, prosperity, and stability. A look at the roofline from the side will reveal its false front, which masked the simple, gabled-roof building behind. The use of this structure is also common to false-front structures in Skagway; a small shop on the first floor and the shopkeeper’s residence upstairs. The history of Boas Tailor and Furrier Shop mirror’s Skagway’s up-and-down, boom-and-bust frontier economy. Today it is part of the National Park Service’s Lease Back program, and is rented by a private business.",
-      "geofence_buffer_in_meters": 10,
-      "id": 19,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45399419,
-      "longitude": -135.3176969,
-      "map_thumbnail_image": 104,
-      "name": "Boas Tailor & Furrier Shop",
-      "name_description": "Seizing his chance among ample business opportunity, stampeder Herman Boas built his residence and shop in late 1899.",
-      "primary_image": 38,
-      "type": "Business (NPS)",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "description": "This was the original home of Skagway’s founder, Captain William Moore. It is one of the oldest surviving structures in Skagway and was built circa 1897. It served as the center for all of Moore’s Alaska and Northwest Trading Company business and his personal residence.  Over the years, the building provided office space for the Skagway Chamber of Commerce, the Alaska Road Commission and has housed a hotel, a retail outlet, a bank, law offices, a dentist, and most recently a restaurant and apartments. Today, it is privately owned and was restored under guidance of the National Historic Landmark Technical Assistance program.  Who was Captain Moore? Moore was born in Emden, Germany on March 30, 1822. As an adult, he was in almost every Pacific Coast gold rush from California to the Klondike. Skagway provided his final success. After completing an exploration of White Pass with Skookum Jim Mason for the Canadian government in 1887, Moore realized the commercial potential of Skagway. He and his son Ben built a log cabin and Skagway’s first wharf. When Skagway became the gateway to the Klondike 10 years later, Moore’s prediction about a gold rush to Alaska and the Yukon came true. The Portland House is privately owned and was restored under guidance of the National Historic Landmark Technical Assistance program.",
-      "geofence_buffer_in_meters": 10,
-      "id": 28,
-      "information": [
-        {
-          "description": "PRIVATE",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45586579,
-      "longitude": -135.3167689,
-      "map_thumbnail_image": 113,
-      "name": "Portland House",
-      "name_description": "The Portland House was built by Skagway’s founder, Captain William Moore, in 1897 as a residence and business office.",
-      "primary_image": 45,
-      "type": "Historic Building"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 42,
-      "information": [
-        {
-          "description": "Available Year-Round",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.4792294,
-      "longitude": -135.3379159,
-      "map_thumbnail_image": 126,
-      "name": "Bark Canada Wreck (Nahku/Long Bay)",
-      "name_description": "Built in 1859, this 176’ vessel was caught in a storm and wrecked while heading to Skagway in 1898.",
-      "type": "Ruins"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 13,
-      "information": [
-        {
-          "description": "Available Year-Round",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45380062,
-      "longitude": -135.3209639,
-      "map_thumbnail_image": 98,
-      "name": "Soapy and Reed Gunfight Plaque",
-      "name_description": "A shootout at this spot ended town villain “Soapy” Smith’s life on July 8, 1898.",
-      "primary_image": 32,
-      "type": "Plaque"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 35,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.504024,
-      "longitude": -135.353427,
-      "map_thumbnail_image": 119,
-      "name": "White Pass Highway Wayside #2",
-      "name_description": "Brackett Wagon Road",
-      "primary_image": 52,
-      "type": "Wayside Exhibit"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 26,
-      "information": [
-        {
-          "description": "Available Year-Round",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45557681,
-      "longitude": -135.3154734,
-      "map_thumbnail_image": 111,
-      "name": "Corrington Lot - Rhubarb Garden",
-      "name_description": "Located at 5th and Broadway, this garden is a great place to see gigantic rhubarb plants and beautiful native flowers.",
-      "primary_image": 43,
-      "type": "Park"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 27,
-      "information": [
-        {
-          "description": "PRIVATE",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45601573,
-      "longitude": -135.3163666,
-      "map_thumbnail_image": 112,
-      "name": "Historic City Hall",
-      "name_description": "This log structure, built in 1897, served as Skagway’s first city hall and courthouse.",
-      "primary_image": 44,
-      "type": "Historic Building"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 38,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.556471,
-      "longitude": -135.200099,
-      "map_thumbnail_image": 122,
-      "name": "White Pass Highway Wayside #5",
-      "name_description": "Klondike Highway",
-      "primary_image": 55,
-      "type": "Wayside Exhibit"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 40,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.462472,
-      "longitude": -135.163622,
-      "map_thumbnail_image": 124,
-      "name": "White Pass Highway Wayside #7",
-      "name_description": "International Boundary",
-      "primary_image": 57,
-      "type": "Wayside Exhibit"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 14,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45456809,
-      "longitude": -135.3173831,
-      "map_thumbnail_image": 99,
-      "name": "Sweet Tooth lot on Broadway",
-      "name_description": "Learn the traditional Tlingit words for several surrounding land marks at this wayside.",
-      "primary_image": 33,
-      "type": "Wayside Exhibit"
-    },
-    {
-      "description": "The log-cabin home of Captain William Moore marks the birthplace of Skagway. Constructed in 1887-1888 by Captain Moore, his son, Ben, and Nan-Suk, a Tlingit native, it is the oldest structure in town. Original newspapers from the late nineteenth century, once used as interior decoration, still adhere to the walls and ceiling of the cabin. Captain Moore was a veteran of gold rushes. He predicted that there would one day be a great gold rush in the Yukon and Alaska and that stampeders would make their way up the Skagway River Valley to get there. He and his son claimed a homestead, built a cabin, and constructed a wharf. When the rush finally came, his land was overrun by a flood of stampeders. Nevertheless, Captain William Moore and his family prospered, and he lived to see his homestead turn into a significant port and railroad town. The life of Ben Moore exemplifies the pioneer spirit of Alaska. As a young man he plied the Inside Passage and traveled up and down the Yukon River, looking for gold and working at various jobs in fishing, mining, and packing. Ben Moore married Klinget-Sai-Yet, daughter of a Tlingit leader, and named her Minnie. In 1897 he began constructing a frame house just south of his father's cabin. This small beginning became the nucleus of the present Ben Moore House. Over the years, continued additions and remodeling created a sizeable home. By 1907 Ben Moore and his family moved to Tacoma, Washington. The house was rented by jeweler Herman Kirmse and later purchased by his wife Hazel in 1914. Today the house is open to the public and depicts life in a pioneer home around 1904.",
-      "geofence_buffer_in_meters": 10,
-      "id": 7,
-      "information": [
-        {
-          "description": "Open Seasonally Monday through Thursday, 10am-5:30pm, Friday through Sunday, 10am-5pm",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.4550631,
-      "longitude": -135.3142038,
-      "map_thumbnail_image": 92,
-      "media": [
-        73,
-        82
-      ],
-      "name": "Moore Homestead",
-      "name_description": "Observe Skagway’s change from frontier to family town at this homestead belonging to its founding family, the Moores.",
-      "primary_image": 21,
-      "type": "Museum",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        },
-        {
-          "description": "Staffed by Ranger",
-          "icon": "ranger.png",
-          "icon_@2x": "ranger@2x.png",
-          "type": "Staffed by Ranger"
-        }
-      ]
-    },
-    {
-      "description": "Listen for the clinking of bottles, laughter, and chatter from the interior of the Mascot, a Gold Rush-era saloon that supplied alcohol to thirsty stampeders and served as a gathering place where men could play pool, gamble, and listen to music. Originally constructed in 1898, a corner entry led to the “Mascotte” saloon, owned by Charles Rohbak, who sold liquor, cigars, and fresh beer on draft for ten cents. In early 1899, however, a new law came into force as Skagway transitioned from frontier town to family town, requiring Skagway’s saloons to pay a $1,500 license fee in order to remain open. Of the 80 saloons reported open in January 1899, all but a dozen had closed by April, including Rohbak’s “Mascotte.” After its closure, entrepreneur Albert Reinert and a partner purchased the building, paid the license fee, and began remodeling the interior. As a former restaurant owner, Reinert knew how to keep customers with offers of free lunches including clam chowder, spareribs, enchiladas, and more, along with locally brewed pilsner beer for a nickel a schooner. But moral reforms were sweeping Skagway at the start of the 20th century, and by 1916 Skagway had voted itself a “dry” town. Impressively, the renamed “Mascot” was one of only three Gold Rush-era saloons that survived until local prohibition. Eventually Reinert sold the Mascot to Perry Hern, who converted the interior to a pharmacy, and owned the complex for the next thirty years. In 1974 the National Park Foundation acquired the structure from George Rapuzzi and Charles Hermans, and in 1976, building ownership transferred to the National Park Service. The Mascot Saloon was restored to its 1905-1916 appearance and today exhibits within depict town life, and replica beer bottles of the brand distributed by the Mascot during its heyday line the shelves.",
-      "geofence_buffer_in_meters": 10,
-      "id": 5,
-      "latitude": 59.45401328,
-      "longitude": -135.3174019,
-      "map_thumbnail_image": 90,
-      "media": [
-        71,
-        80
-      ],
-      "name": "Mascot Saloon",
-      "name_description": "Learn about Gold Rush-era saloon culture and entrepreneurship at the historic Mascot saloon, now a museum.",
-      "primary_image": 19,
-      "type": "Museum",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        },
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        },
-        {
-          "description": "Tcoil",
-          "type": "Tcoil"
-        }
-      ]
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 52,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "name_description": "This Is Why We Gained Strength Of Mind",
-      "primary_image": 66,
-      "type": "Wayside Exhibit"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 50,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "name_description": "Respect for All Things - A Tlingit Tradition",
-      "primary_image": 64,
-      "type": "Wayside Exhibit"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 48,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "name_description": "From Long Ago, This Has Been Tlingit Land",
-      "primary_image": 62,
-      "type": "Wayside Exhibit"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 44,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "name_description": "Transportation Corridor",
-      "primary_image": 59,
-      "type": "Wayside Exhibit",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 45,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "name": "Dyea Wharf Overlook",
-      "name_description": "Dyea - Port Town for the Chilkoot Trail",
-      "primary_image": 60,
-      "type": "Wayside Exhibit",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "description": "Start your visit with an introduction to Herbert Hoover and his hometown of West Branch.",
-      "geofence_buffer_in_meters": 10,
-      "id": 80,
-      "information": [
-        {
-          "description": "Allow yourself at least 30 minutes in the Visitor Center, which is open from 9:00 a.m. to 5:00 p.m. daily. Multimedia exhibits, which include Herbert Hoover’s original cradle and high chair, tell about his childhood in West Branch and his later involvement in developing the park which commemorates his life. The 12-minute film Adventure and Great Undertakings: Herbert Hoover's Childhood in West Branch is played on request. Children can get started on their activity books to become Junior Rangers. An art gallery interprets the park through the works of artists-in-residence.\nFederal Recreational Lands Passes are on sale at the Visitor Center. Books, educational items, and gifts are available for purchase from the Eastern National Bookstore inside the Visitor Center.",
-          "name": "Visiting\n"
-        },
-        {
-          "description": "Open daily from 9:00 a.m. to 5:00 p.m., except on Thanksgiving Day, December 25, and January 1.",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 41.670851,
-      "longitude": -91.34572,
-      "map_thumbnail_image": 168,
-      "name": "Visitor Center",
-      "name_description": "Start your visit with an introduction to Herbert Hoover and his hometown of West Branch.",
-      "primary_image": 164,
-      "type": "Building",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        },
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "description": "The Slide Cemetery in Dyea remains a tangible reminder of the Palm Sunday Avalanche, which occurred on April 3, 1898 on the Chilkoot Trail.  Over the decades, maintenance work has been done sporadically to keep the site cleaned up. Beginning in 1940s and continuing until the 1960s, groups such as the Civilian Conservation Corps and the Alaska Youth Adult Authority have performed major cleanups, erected fences, replaced headboards, and constructed a path to the cemetery.",
-      "geofence_buffer_in_meters": 10,
-      "id": 49,
-      "information": [
-        {
-          "description": "Available Year-Round",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.5103459,
-      "longitude": -135.3589585,
-      "map_thumbnail_image": 130,
-      "name": "Slide Cemetery",
-      "name_description": "Approximately 60 stampeders are buried here, killed by the Palm Sunday Avalanche, on April 3, 1898 on the Chilkoot Trail.",
-      "primary_image": 63,
-      "type": "Cemetery",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        }
-      ]
-    },
-    {
-      "description": "Herbert called his birthplace \"physical proof of the unbounded opportunity of American life.\"",
-      "geofence_buffer_in_meters": 10,
-      "id": 81,
-      "information": [
-        {
-          "description": "In the years following his presidency, Herbert and Lou Hoover restored the president's humble birthplace, which he called \"physical proof of the unbounded opportunity of American life.\" The small spaces and dearth of material possession reflect an ethic of thrift, and the cottage's status as a starter home for a young family. Antique furnishings from the mid and late 19th century represent common household items for a simply furnished two room rural home.",
-          "name": "Post Presidency"
-        }
-      ],
-      "latitude": 41.67027,
-      "longitude": -91.346873,
-      "map_thumbnail_image": 169,
-      "name": "Birthplace Cottage",
-      "name_description": "Herbert called his birthplace \"physical proof of the unbounded opportunity of American life.\"",
-      "primary_image": 165,
-      "type": "Historic Home",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        }
-      ]
-    },
-    {
-      "description": "The First Bloom garden located on the National Park Service lot at 4th and Broadway in downtown Skagway was designed and constructed from an empty grass lot by local youth. It features native plants in a historic Victorian style landscaped garden.  First Bloom gardens were funded by the National Park Foundation to provide seeds for a stronger relationship between Americans and their national parks, beginning with our youngest citizens.  Skagway youth have been engaged in hands-on activities with the First Bloom garden since 2011. Park partners include the Skagway Recreation Center, Skagway School District and the Taiya Inlet Watershed Council.",
-      "geofence_buffer_in_meters": 10,
-      "id": 22,
-      "latitude": 59.4547194,
-      "longitude": -135.3170478,
-      "map_thumbnail_image": 107,
-      "name": "First Bloom Garden",
-      "type": "Park"
-    },
-    {
-      "description": "The building was home to the first YMCA in Alaska in 1898. A gymnasium was constructed in 1900 and contained baths, handball court, photo darkroom and reading room. After the gold rush, population declined and In 1902, Herman Meyer bought the building and remodeled it as meat locker. A string of businesses later operated here after the meat company closed, and lastly it was used by George Rapuzzi as a warehouse for his gold rush era collections. In December 2008, The Rasmuson Foundation donated the Meyer Building to the National Park Service. The YMCA and Meyer Complex is being restored for future use as public museum.",
-      "geofence_buffer_in_meters": 10,
-      "id": 29,
-      "information": [
-        {
-          "description": "Open by Ranger tour only until rehabilitated.",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45604026,
-      "longitude": -135.3172383,
-      "map_thumbnail_image": 114,
-      "name": "Meyers Complex - YMCA",
-      "name_description": "A modern photograph of the Portland House, a false front building undergoing renovation.",
-      "primary_image": 46,
-      "type": "Historic Building (NPS)"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 8,
-      "information": [
-        {
-          "description": "Open Seasonally Monday through Friday, 9 – 5, Saturday 10 – 5, Sunday 1 – 4.",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45566541,
-      "longitude": -135.3117585,
-      "map_thumbnail_image": 93,
-      "media": [
-        74,
-        83
-      ],
-      "name": "Skagway City Museum and City Hall",
-      "name_description": "Built as the McCabe College in 1899-1900, this unique stone-faced building now houses the City Hall and Museum.",
-      "primary_image": 22,
-      "type": "Museum",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        }
-      ]
-    },
-    {
-      "description": "The Red Front Building was originally a paint and wallpaper company built during the gold rush. The structure changed hands frequently, much like other historical structures in Skagway, as entrepreneurs came to town, made money, and moved on to their next opportunity. The Red Front was later used as a hardware store and liquor storage for the Pantheon Saloon before it was demolished sometime between 1926 and 1934. The NPS acquired the Pantheon Saloon in 1977 and during its restoration, and replica of the gold rush era Red front building was constructed on the same site as the original structure. Today this building is operated by the Lease Back Program.",
-      "geofence_buffer_in_meters": 10,
-      "id": 21,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45479573,
-      "longitude": -135.3168923,
-      "map_thumbnail_image": 106,
-      "name": "Red Front Building",
-      "type": "Building (NPS)",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "description": "The Pantheon’s history is a diverse one, much like the history of Skagway itself. Constructed in increments over the decades, it began as a simple flop house called the “Rosalie Hotel.” Lodging houses like the Rosalie were usually board and batten structures that went up quickly to meet the lodging needs of the stampeders. With thousands of anxious prospectors wildly making their way through Skagway on their way to the Klondike Gold Fields, some could find rest on the many bunks and cots within, and feast on meals served en masse. As the Gold Rush era waned, the hotel was remodeled in 1898 to serve as a hardware store. The new owner transformed the shack-like building into a more permanent, sturdy structure and added the false front facing Broadway. Today the Pantheon Saloon is a kid-friendly Junior Ranger Center, where children complete their own journey of the Klondike Gold Rush.",
-      "geofence_buffer_in_meters": 10,
-      "id": 6,
-      "information": [
-        {
-          "description": "Open Seasonally Monday through Friday, 10am-12pm and 1pm-3pm, Closed Saturday and Sunday",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45486116,
-      "longitude": -135.3167957,
-      "map_thumbnail_image": 91,
-      "media": [
-        72,
-        81
-      ],
-      "name": "Pantheon Saloon",
-      "name_description": "The Pantheon’s historic use ranges from hotel to saloon to hardware store and is now the Junior Ranger Activity Center.",
-      "primary_image": 20,
-      "type": "Children's Center",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        },
-        {
-          "description": "Staffed by Ranger",
-          "icon": "ranger.png",
-          "icon_@2x": "ranger@2x.png",
-          "type": "Staffed by Ranger"
-        }
-      ]
-    },
-    {
-      "description": "Park’s Visitor Center, served as a soldiers’ barracks (1838-1871), converted to jail and courthouse in 1872. ",
-      "geofence_buffer_in_meters": 20,
-      "id": 82,
-      "information": [],
-      "latitude": 35.388135,
-      "longitude": -94.429883,
-      "map_thumbnail_image": 170,
-      "name": "Visitor Center",
-      "name_description": "Park’s Visitor Center, served as a soldiers’ barracks (1838-1871), converted to jail and courthouse in 1872. ",
-      "primary_image": 167,
-      "type": "Barracks, Courthouse, Jail ",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        },
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "description": "Built in 1899 by Frederick and Nathalie Verbauwhede, this store took full advantage of its corner location near the newly constructed train depot to attract business. Here travelers could easily purchase the candies, nuts, fruits, cigars, and pastries they desired before boarding their train north. This structure is indicative of a story common in Skagway’s history, of abundant opportunities for entrepreneurship, as it has housed more than seven different businesses in the last hundred years. After a series of uses as a barber, gun, and curio shop, the building became the Alaska Transfer Company express office. Today the building is part of Klondike Gold Rush National Historical Park’s Lease Back Program and houses a private business.",
-      "geofence_buffer_in_meters": 10,
-      "id": 17,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.4539533,
-      "longitude": -135.3177989,
-      "map_thumbnail_image": 102,
-      "name": "Verbauwhede Cigar Store & Confectionery",
-      "name_description": "The Verbauwhede Cigar Store and Confectionery opened shortly after the Gold Rush to sell snacks to train passengers.",
-      "primary_image": 36,
-      "type": "Business (NPS)",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "description": "The flagpole (99 ft.) is a reproduction of the original built in 1846. This height allows the flag to be seen for miles.",
-      "geofence_buffer_in_meters": 10,
-      "id": 83,
-      "latitude": 35.388542,
-      "longitude": -94.430162,
-      "map_thumbnail_image": 171,
-      "name": "Flag Pole",
-      "name_description": "The flagpole (99 ft.) is a reproduction of the original built in 1846. This height allows the flag to be seen for miles.",
-      "primary_image": 166,
-      "type": "Parade Field"
-    },
-    {
       "audio_description": "Klondike Gold Rush National Historical Park Visitor Center.  1 ½ minutes.  The visitor center for the Klondike Gold Rush National Historical Park is located at the southeast corner of Broadway and Second Avenue.  The visitor center is housed in the historic 1898 White Pass and Yukon Route Railroad Depot.  It’s a two-story wooden building painted a muted shade of red with mustard-yellow trim.  The pitched, shingled roof is topped with several brick chimneys.\n\nBoth buildings can be accessed through entrances on Second Avenue, off the wooden boardwalk that wraps around the building.  The boardwalk is three steps up from the street here, and there are railings at the corner to guide you. Alternatively, a ramp at the south end of Broadway provides access from the street to the boardwalk.  Please be aware that the wooden boardwalks can be slippery in rainy weather, so watch your step.\n\nThese entrances are on the left side of the Second Avenue facade, where the visitor center abuts the National Park Service museum building next door.  A breezeway between the two structures extends perpendicularly from the Second Avenue boardwalk.  Find the breezeway and walk in as far as you can.  The entrance to the Visitor Center will be on your right.  The entrance to the Park museum will be to your left.\n\nEnd of message.",
-      "description": "The Visitor Center was built as a depot for the White Pass and Yukon Route Railroad.  From the second-floor bay windows the dispatcher could see approaching and departing trains on the tracks that once curved around the southwest corner and headed north on Broadway toward the gold fields of the Klondike. ",
+      "description": "The Visitor Center was built as a depot for the White Pass and Yukon Route Railroad.  From the second-floor bay windows the dispatcher could see approaching and departing trains on the tracks that once curved around the southwest corner and headed north on Broadway toward the gold fields of the Klondike.",
       "geofence_buffer_in_meters": 10,
       "id": 1,
       "information": [
@@ -2717,22 +1611,463 @@
       ]
     },
     {
-      "description": "The Peniel Mission, built in 1900, offered religious and humanitarian services to the stampeders. Between 1900 and 1910 the mission kept its doors open. Just a block from the heart of Skagway's saloons, gambling halls, and the red-light district, the mission offered nightly meetings, Sunday services, shelter, and warmth. As Skagway declined, support for the mission dwindled. By 1911 the building fell into disuse, although it continued to serve as a home for missionaries. In 1937 it was remodeled as a doctor's office and residence. After the National Park Service acquired the building in 1978 the interior was altered to provide housing for park seasonal staff.",
+      "audio_description": "White Pass & Yukon Route Depot.  1 ¼ minutes.  The White Pass & Yukon Route Depot is situated on the south side of Second Avenue, between Broadway and Spring Street.  It is painted white with green trim.  The western half of the wooden building is two stories tall, dropping to just one story on the eastern side.  Further to the east is a large parking area.  On both the north and south-facing facades, maroon letters on the second story read “White Pass & Yukon Route, Established 1898.”  \n\nYou may enter the building on the north side from Second Avenue.  It’s two steps up to the door from the sidewalk, and there’s a ramp near the right-hand edge of the building.  Or you can enter the depot from the south.  A covered cement porch runs the length of the building on the south side and a doorway provides access from the porch.  The porch also serves as the railroad platform; the tracks are located a few feet to the south, parallel to it.  Please watch your step near the tracks and listen for oncoming trains.\n\nEnd of message.",
+      "description": "This ornate building was designed by Seattle architect Henry Dozier to house the White Pass and Yukon Route Railroad administration.  Completed in 1900, the building today serves as headquarters for Klondike Gold Rush National Historical Park, featuring a museum with exhibits about the gold rush.",
       "geofence_buffer_in_meters": 10,
-      "id": 30,
+      "id": 2,
       "information": [
         {
-          "description": "PRIVATE",
+          "description": "Elaborate woodwork and plastered walls and ceilings adorn a handsome interior. The entire building was erected around a two-story fireproof vault made of brick and steel over a stone foundation. Offices and a baggage room completed the plan. ",
+          "name": "Architecture of the Park Museum Building"
+        },
+        {
+          "description": "Open Seasonally Monday through Friday, 10am-12pm and 1pm-3pm, Closed Saturday and Sunday",
           "name": "Hours"
         }
       ],
-      "latitude": 59.45533145,
-      "longitude": -135.3136924,
-      "map_thumbnail_image": 115,
-      "name": "Peniel Mission",
-      "name_description": "The Peniel Mission, built in 1900, offered religious and humanitarian services to stampeders until 1910.",
-      "primary_image": 47,
-      "type": "Building"
+      "latitude": 59.45339166,
+      "longitude": -135.3184238,
+      "map_thumbnail_image": 87,
+      "media": [
+        14,
+        68
+      ],
+      "name": "Park Museum Building",
+      "name_description": "The historic Railroad Administration office houses Klondike Gold Rush National Historical Park’s museum and offices.",
+      "primary_image": 16,
+      "type": "Museum",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "audio_description": "Soapy's Parlor Museum.  1 ½ minutes.  Jefferson “Soapy” Smith’s parlor is a narrow, one-story building, 15 feet wide.  It stretches back 60 feet from street, and a simple pitched, shingled roof tops the building behind its false front.  Soapy’s is located on the south side of Second Avenue, between State Street and Broadway.  A metal fence five feet high separates the building from the boardwalk.  Grassy areas on both sides of the structure set it apart from the neighboring buildings.  The exterior walls on either side of the building are windowless..  Soapy’s is not currently open to the public. \n        \nThe building’s wooden, flat-topped facade is painted white, except for a black strip about a foot wide across the top, just below the roofline.  The words “Jeff. Smiths Parlor” have been stenciled in white capital letters on the black strip, but are badly faded.  A single windowed doorway is set into the right-hand side of the façade; a large square window is located immediately to its left.  The window and door, both trimmed in beige, together stretch across almost the entire width of the building.  White lace curtains adorn the window and door from inside.\n\nEnd of message.\n",
+      "description": "Jeff. Smiths Parlor” was the saloon and headquarters of Jefferson Randolph Smith, better known as “Soapy Smith.” Smith was Skagway’s most infamous con-man, who arrived in Skagway sometime in 1897 and began operating from this building on 6th Avenue, May 1898. The interior during Soapy’s reign has been described as a restaurant with a large mahogany bar. The back room “parlor” was where victims were sometimes robbed while gang members ran away with the loot. Soapy met his demise soon after J. D. Stewart, a gold miner returning from the Klondike, was robbed by his gang. Soapy was killed in a shoot-out by Frank Reid on July 8, 1898 and both are buried in Skagway’s Gold Rush Cemetery. In the years following Soapy’s death, this false-front wood-frame building changed hands several times.  As new owner Martin Itjen took over in 1935, restoration efforts and improvements soon followed, based on historical photographs.  Itjen reconstructed the building to a version of what Soapy’s Parlor had been, and papered the interior walls with newspapers dating from the gold rush to the 1930s. When he reopened the building as a museum, Itjen used his wizardry at mechanics and installed a manikin of Soapy Smith that turned from the bar and greeted visitors to the museum.  The Jeff. Smith Parlor Museum became a highlight on his Skagway tours. Upon Itjen’s death in 1924, George Rapuzzi, a collector of gold rush memorabilia, and Itjen’s long-time friend, took over the museum and moved the building to the current location in 1964. With his wife Edna, George repaired and renovated the building which was open to the public from 1967 to 1986.  In December 2008, the Rasmuson Foundation donated the ‘George and Edna Rapuzzi Collection,’ which included five historic buildings and a large collection of artifacts from 1898 through the late 1960’s to the National Park Service. Original artifacts and memorabilia depicting Soapy Smith’s life in Skagway will be on display when restoration is completed in 2016.",
+      "geofence_buffer_in_meters": 10,
+      "id": 3,
+      "information": [
+        {
+          "description": "Open by Ranger Tour Only - 2016",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45382107,
+      "longitude": -135.319148,
+      "map_thumbnail_image": 88,
+      "media": [
+        69,
+        79
+      ],
+      "name": "Soapy's Parlor Museum",
+      "name_description": "Opening in 2016, this building was once headquarters for town villain “Soapy,” then a museum by a local entrepreneur.",
+      "primary_image": 17,
+      "type": "Historic Building",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 14,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45456809,
+      "longitude": -135.3173831,
+      "map_thumbnail_image": 99,
+      "name": "Sweet Tooth lot on Broadway",
+      "name_description": "Learn the traditional Tlingit words for several surrounding land marks at this wayside.",
+      "primary_image": 33,
+      "type": "Wayside Exhibit"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 43,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.4790251,
+      "longitude": -135.3470676,
+      "map_thumbnail_image": 127,
+      "name": "Dyea Flats Overlook",
+      "name_description": "Dyea",
+      "primary_image": 58,
+      "type": "Wayside Exhibit",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "description": "The Red Front Building was originally a paint and wallpaper company built during the gold rush. The structure changed hands frequently, much like other historical structures in Skagway, as entrepreneurs came to town, made money, and moved on to their next opportunity. The Red Front was later used as a hardware store and liquor storage for the Pantheon Saloon before it was demolished sometime between 1926 and 1934. The NPS acquired the Pantheon Saloon in 1977 and during its restoration, and replica of the gold rush era Red front building was constructed on the same site as the original structure. Today this building is operated by the Lease Back Program.",
+      "geofence_buffer_in_meters": 10,
+      "id": 21,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45479573,
+      "longitude": -135.3168923,
+      "map_thumbnail_image": 106,
+      "name": "Red Front Building",
+      "type": "Building (NPS)",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 31,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45566405,
+      "longitude": -135.3133062,
+      "map_thumbnail_image": 116,
+      "name": "Molly Walsh Park and Statue",
+      "name_description": "A fun children’s playground, see wayside exhibits to learn more about Ms. Walsh’s tragic story.",
+      "primary_image": 48,
+      "type": "Park",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        },
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 8,
+      "information": [
+        {
+          "description": "Open Seasonally Monday through Friday, 9 – 5, Saturday 10 – 5, Sunday 1 – 4.",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45566541,
+      "longitude": -135.3117585,
+      "map_thumbnail_image": 93,
+      "media": [
+        74,
+        83
+      ],
+      "name": "Skagway City Museum and City Hall",
+      "name_description": "Built as the McCabe College in 1899-1900, this unique stone-faced building now houses the City Hall and Museum.",
+      "primary_image": 22,
+      "type": "Museum",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        }
+      ]
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 10,
+      "information": [
+        {
+          "description": "Available Seasonally",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45342165,
+      "longitude": -135.3190541,
+      "map_thumbnail_image": 95,
+      "media": [
+        75
+      ],
+      "name": "Snow Plow",
+      "name_description": "A caboose trails Rotary Snowplow No. 1, built in 1899 and used by the White Pass & Yukon Route to clear up to 12 feet of snow.",
+      "primary_image": 29,
+      "type": "Outdoor Exhibit",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "description": "Start your visit with an introduction to Herbert Hoover and his hometown of West Branch.",
+      "geofence_buffer_in_meters": 10,
+      "id": 80,
+      "information": [
+        {
+          "description": "Allow yourself at least 30 minutes in the Visitor Center, which is open from 9:00 a.m. to 5:00 p.m. daily. Multimedia exhibits, which include Herbert Hoover’s original cradle and high chair, tell about his childhood in West Branch and his later involvement in developing the park which commemorates his life. The 12-minute film Adventure and Great Undertakings: Herbert Hoover's Childhood in West Branch is played on request. Children can get started on their activity books to become Junior Rangers. An art gallery interprets the park through the works of artists-in-residence.\nFederal Recreational Lands Passes are on sale at the Visitor Center. Books, educational items, and gifts are available for purchase from the Eastern National Bookstore inside the Visitor Center.",
+          "name": "Visiting\n"
+        },
+        {
+          "description": "Open daily from 9:00 a.m. to 5:00 p.m., except on Thanksgiving Day, December 25, and January 1.",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 41.670851,
+      "longitude": -91.34572,
+      "map_thumbnail_image": 168,
+      "name": "Visitor Center",
+      "name_description": "Start your visit with an introduction to Herbert Hoover and his hometown of West Branch.",
+      "primary_image": 164,
+      "type": "Building",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        },
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 9,
+      "information": [
+        {
+          "description": "Available Year-Round",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45301951,
+      "longitude": -135.3192392,
+      "map_thumbnail_image": 94,
+      "name": "Centennial Park",
+      "name_description": "Constructed in 1997, this park celebrates the centennial of the Klondike Gold Rush with a statue of a Tlingit packer and stampeder.",
+      "primary_image": 28,
+      "type": "Park",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 39,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.587932,
+      "longitude": -135.191209,
+      "map_thumbnail_image": 123,
+      "name": "White Pass Highway Wayside #6",
+      "name_description": "Migration Corridor",
+      "primary_image": 56,
+      "type": "Wayside Exhibit"
+    },
+    {
+      "description": "The local chapter of the fraternal organization Arctic Brotherhood first met here in August 1899. An example of Victorian Rustic architecture, the ornate driftwood façade was completed in 1900 after lodge members collected over 8,800 pieces of driftwood from the beaches of Skagway to create it. The Arctic Brotherhood was active until the 1920s, and now houses an informational center run by Skagway’s Convention and Visitors Bureau.",
+      "geofence_buffer_in_meters": 10,
+      "id": 4,
+      "information": [
+        {
+          "description": "Summer hours: Monday through Friday 8-6, Saturday 8-4, Sunday 8-5, Winter hours: Monday through Friday 9-4",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45405826,
+      "longitude": -135.3183031,
+      "map_thumbnail_image": 89,
+      "media": [
+        70
+      ],
+      "name": "Arctic Brotherhood Building (City Visitor Center)",
+      "name_description": "The City Visitor Center is housed in this 1900 structure built by the Arctic Brotherhood, a fraternal group of miners.",
+      "primary_image": 18,
+      "type": "Visitor Center",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "description": "The Pantheon’s history is a diverse one, much like the history of Skagway itself. Constructed in increments over the decades, it began as a simple flop house called the “Rosalie Hotel.” Lodging houses like the Rosalie were usually board and batten structures that went up quickly to meet the lodging needs of the stampeders. With thousands of anxious prospectors wildly making their way through Skagway on their way to the Klondike Gold Fields, some could find rest on the many bunks and cots within, and feast on meals served en masse. As the Gold Rush era waned, the hotel was remodeled in 1898 to serve as a hardware store. The new owner transformed the shack-like building into a more permanent, sturdy structure and added the false front facing Broadway. Today the Pantheon Saloon is a kid-friendly Junior Ranger Center, where children complete their own journey of the Klondike Gold Rush.",
+      "geofence_buffer_in_meters": 10,
+      "id": 6,
+      "information": [
+        {
+          "description": "Open Seasonally Monday through Friday, 10am-12pm and 1pm-3pm, Closed Saturday and Sunday",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45486116,
+      "longitude": -135.3167957,
+      "map_thumbnail_image": 91,
+      "media": [
+        72,
+        81
+      ],
+      "name": "Pantheon Saloon",
+      "name_description": "The Pantheon’s historic use ranges from hotel to saloon to hardware store and is now the Junior Ranger Activity Center.",
+      "primary_image": 20,
+      "type": "Children's Center",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        },
+        {
+          "description": "Staffed by Ranger",
+          "icon": "ranger.png",
+          "icon_@2x": "ranger@2x.png",
+          "type": "Staffed by Ranger"
+        }
+      ]
+    },
+    {
+      "description": "In many ways, Skagway was one of the last Western frontier towns. In two years’ time, Skagway’s population soared from just a handful to over 8,000 people and creating bountiful opportunities to start businesses and sell goods and services. Stampeder and entrepreneur Henry Boas constructed this building in September 1899, out of which he operated a tailor shop and fur business until 1903. This shop fits the stereotypical appearance of a western boomtown false front building, common in Gold Rush era architecture in Skagway. To grab the attention of thousands of potential customers, elaborate false fronts such as this projected an image of size, prosperity, and stability. A look at the roofline from the side will reveal its false front, which masked the simple, gabled-roof building behind. The use of this structure is also common to false-front structures in Skagway; a small shop on the first floor and the shopkeeper’s residence upstairs. The history of Boas Tailor and Furrier Shop mirror’s Skagway’s up-and-down, boom-and-bust frontier economy. Today it is part of the National Park Service’s Lease Back program, and is rented by a private business.",
+      "geofence_buffer_in_meters": 10,
+      "id": 19,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45399419,
+      "longitude": -135.3176969,
+      "map_thumbnail_image": 104,
+      "name": "Boas Tailor & Furrier Shop",
+      "name_description": "Seizing his chance among ample business opportunity, stampeder Herman Boas built his residence and shop in late 1899.",
+      "primary_image": 38,
+      "type": "Business (NPS)",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "description": "The Dyea Campground is located 9 miles from Skagway and .5 miles from the the Chilkoot trailhead. The campground is within a short drive or bike ride of the historic townsite of Dyea. The campground is monitored by National Park Service rangers and is open when free of snow. The campground provides 22 sites for vehicle and walk-in camping. Hook-ups are not available for recreational vehicles. Campers are advised to bring drinking water and firewood. Facilities include pit toilets, fire rings, picnic tables, and garbage receptacles. Fee is $10 per site per night. Self-registration at the campground entrance.",
+      "geofence_buffer_in_meters": 10,
+      "id": 46,
+      "information": [
+        {
+          "description": "Available Year-Round",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.505698,
+      "longitude": -135.3482168,
+      "map_thumbnail_image": 128,
+      "name": "Dyea Campground",
+      "name_description": "Camp near the historic Dyea Townsite. Self-registration available on-site.",
+      "type": "Campground",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        },
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "description": "Managed by the municipality of Skagway, the Dyea Flats offer a natural area for wildlife viewing, photography and exploring a coastal community teeming with life.  In the spring and summer, colorful wildflowers blanket the area. The Long Wharf, originally 7,500 feet in length, was constructed at the height of the Klondike Gold Rush to stretch the distance of the tidal mud flats. Remnants of its piling are still visible on the Dyea Flats.",
+      "geofence_buffer_in_meters": 10,
+      "id": 53,
+      "information": [
+        {
+          "description": "Available Year-round",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.4978573,
+      "longitude": -135.3600796,
+      "map_thumbnail_image": 132,
+      "name": "Dyea Flats",
+      "name_description": "Managed by the municipality of Skagway, the Dyea Flats offer a natural area and coastal community teeming with wildlife.",
+      "primary_image": 67,
+      "type": "Park"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 44,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "name_description": "Transportation Corridor",
+      "primary_image": 59,
+      "type": "Wayside Exhibit",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
     },
     {
       "description": "With the onset of the gold rush, Dyea rapidly grew from a small settlement of native packers and a trading post into one of the largest towns in Alaska. At the height of the gold rush, Dyea bustled with a transient population of 5,000 to 8,000 with over 150 businesses. Stampeders could purchase supplies, post letters, get a hot meal and a dry bunk. Dyea died after the White Pass and Yukon Route railroad was completed from Skagway to Bennett in July 1899.",
@@ -2757,6 +2092,121 @@
           "icon": "restroom.png",
           "icon_@2x": "restroom@2x.png",
           "type": "Restroom"
+        }
+      ]
+    },
+    {
+      "description": "Herbert called his birthplace \"physical proof of the unbounded opportunity of American life.\"",
+      "geofence_buffer_in_meters": 10,
+      "id": 81,
+      "information": [
+        {
+          "description": "In the years following his presidency, Herbert and Lou Hoover restored the president's humble birthplace, which he called \"physical proof of the unbounded opportunity of American life.\" The small spaces and dearth of material possession reflect an ethic of thrift, and the cottage's status as a starter home for a young family. Antique furnishings from the mid and late 19th century represent common household items for a simply furnished two room rural home.",
+          "name": "Post Presidency"
+        }
+      ],
+      "latitude": 41.67027,
+      "longitude": -91.346873,
+      "map_thumbnail_image": 169,
+      "name": "Birthplace Cottage",
+      "name_description": "Herbert called his birthplace \"physical proof of the unbounded opportunity of American life.\"",
+      "primary_image": 165,
+      "type": "Historic Home",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        }
+      ]
+    },
+    {
+      "description": "Park’s Visitor Center, served as a soldiers’ barracks (1838-1871), converted to jail and courthouse in 1872. ",
+      "geofence_buffer_in_meters": 20,
+      "id": 82,
+      "information": [],
+      "latitude": 35.388135,
+      "longitude": -94.429883,
+      "map_thumbnail_image": 170,
+      "name": "Visitor Center",
+      "name_description": "Park’s Visitor Center, served as a soldiers’ barracks (1838-1871), converted to jail and courthouse in 1872. ",
+      "primary_image": 167,
+      "type": "Barracks, Courthouse, Jail ",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        },
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 27,
+      "information": [
+        {
+          "description": "PRIVATE",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45601573,
+      "longitude": -135.3163666,
+      "map_thumbnail_image": 112,
+      "name": "Historic City Hall",
+      "name_description": "This log structure, built in 1897, served as Skagway’s first city hall and courthouse.",
+      "primary_image": 44,
+      "type": "Historic Building"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 13,
+      "information": [
+        {
+          "description": "Available Year-Round",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45380062,
+      "longitude": -135.3209639,
+      "map_thumbnail_image": 98,
+      "name": "Soapy and Reed Gunfight Plaque",
+      "name_description": "A shootout at this spot ended town villain “Soapy” Smith’s life on July 8, 1898.",
+      "primary_image": 32,
+      "type": "Plaque"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 16,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45431999,
+      "longitude": -135.317992,
+      "map_thumbnail_image": 101,
+      "media": [
+        76
+      ],
+      "name": "Golden North Hotel",
+      "name_description": "First built in 1898 by a trading company, a third story and dome were added in 1908 to make this Skagway’s largest hotel.",
+      "primary_image": 35,
+      "type": "Business",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
         }
       ]
     },
@@ -2789,25 +2239,483 @@
       ]
     },
     {
-      "description": "The local chapter of the fraternal organization Arctic Brotherhood first met here in August 1899. An example of Victorian Rustic architecture, the ornate driftwood façade was completed in 1900 after lodge members collected over 8,800 pieces of driftwood from the beaches of Skagway to create it. The Arctic Brotherhood was active until the 1920s, and now houses an informational center run by Skagway’s Convention and Visitors Bureau.",
       "geofence_buffer_in_meters": 10,
-      "id": 4,
+      "id": 36,
       "information": [
         {
-          "description": "Summer hours: Monday through Friday 8-6, Saturday 8-4, Sunday 8-5, Winter hours: Monday through Friday 9-4",
+          "description": "Seasonal",
           "name": "Hours"
         }
       ],
-      "latitude": 59.45405826,
-      "longitude": -135.3183031,
-      "map_thumbnail_image": 89,
-      "media": [
-        70
+      "latitude": 59.51381,
+      "longitude": -135.251729,
+      "map_thumbnail_image": 120,
+      "name": "White Pass Highway Wayside #3",
+      "name_description": "Deadhorse Trail",
+      "primary_image": 53,
+      "type": "Wayside Exhibit"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 38,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
       ],
-      "name": "Arctic Brotherhood Building (City Visitor Center)",
-      "name_description": "The City Visitor Center is housed in this 1900 structure built by the Arctic Brotherhood, a fraternal group of miners.",
-      "primary_image": 18,
-      "type": "Visitor Center",
+      "latitude": 59.556471,
+      "longitude": -135.200099,
+      "map_thumbnail_image": 122,
+      "name": "White Pass Highway Wayside #5",
+      "name_description": "Klondike Highway",
+      "primary_image": 55,
+      "type": "Wayside Exhibit"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 40,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.462472,
+      "longitude": -135.163622,
+      "map_thumbnail_image": 124,
+      "name": "White Pass Highway Wayside #7",
+      "name_description": "International Boundary",
+      "primary_image": 57,
+      "type": "Wayside Exhibit"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 15,
+      "information": [
+        {
+          "description": "PRIVATE",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45469213,
+      "longitude": -135.3158355,
+      "map_thumbnail_image": 100,
+      "name": "St. James Hotel",
+      "name_description": "Thomas Tancred and Mike Heney formed the idea of a train over the White Pass at this hotel in 1897.",
+      "primary_image": 34,
+      "type": "Historic Building"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 42,
+      "information": [
+        {
+          "description": "Available Year-Round",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.4792294,
+      "longitude": -135.3379159,
+      "map_thumbnail_image": 126,
+      "name": "Bark Canada Wreck (Nahku/Long Bay)",
+      "name_description": "Built in 1859, this 176’ vessel was caught in a storm and wrecked while heading to Skagway in 1898.",
+      "type": "Ruins"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 35,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.504024,
+      "longitude": -135.353427,
+      "map_thumbnail_image": 119,
+      "name": "White Pass Highway Wayside #2",
+      "name_description": "Brackett Wagon Road",
+      "primary_image": 52,
+      "type": "Wayside Exhibit"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 34,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "name": "White Pass Highway Wayside #1",
+      "name_description": "White Pass and Yukon Route Railroad",
+      "primary_image": 51,
+      "type": "Wayside Exhibit"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 45,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "name": "Dyea Wharf Overlook",
+      "name_description": "Dyea - Port Town for the Chilkoot Trail",
+      "primary_image": 60,
+      "type": "Wayside Exhibit",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 50,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "name_description": "Respect for All Things - A Tlingit Tradition",
+      "primary_image": 64,
+      "type": "Wayside Exhibit"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 52,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "name_description": "This Is Why We Gained Strength Of Mind",
+      "primary_image": 66,
+      "type": "Wayside Exhibit"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 37,
+      "latitude": 59.537924,
+      "longitude": -135.21277,
+      "map_thumbnail_image": 121,
+      "name": "White Pass Highway Wayside #4",
+      "name_description": "White Pass City",
+      "primary_image": 54,
+      "type": "Wayside Exhibit"
+    },
+    {
+      "description": "This little structure typifies early gold rush era businesses. There was nothing pretentious about Goldberg’s Cigar Store—just four walls, a shop and a residence in the back. Stores like this one were quickly assembled of wood and lined the streets at the start of the gold rush. Goldberg sold his cigars, candy and tobacco from this shop and like many other merchants, followed the stampeders elsewhere after making his money in Skagway.",
+      "geofence_buffer_in_meters": 10,
+      "id": 24,
+      "information": [
+        {
+          "description": "PRIVATE",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45518832,
+      "longitude": -135.3146902,
+      "map_thumbnail_image": 109,
+      "name": "Goldberg Cigar Store",
+      "name_description": "This small structure is where entrepreneur D. Goldberg sold cigars, candy, and tobacco, and is an example of early Skagway architecture.",
+      "primary_image": 41,
+      "type": "Historic Building"
+    },
+    {
+      "description": "The building was home to the first YMCA in Alaska in 1898. A gymnasium was constructed in 1900 and contained baths, handball court, photo darkroom and reading room. After the gold rush, population declined and In 1902, Herman Meyer bought the building and remodeled it as meat locker. A string of businesses later operated here after the meat company closed, and lastly it was used by George Rapuzzi as a warehouse for his gold rush era collections. In December 2008, The Rasmuson Foundation donated the Meyer Building to the National Park Service. The YMCA and Meyer Complex is being restored for future use as public museum.",
+      "geofence_buffer_in_meters": 10,
+      "id": 29,
+      "information": [
+        {
+          "description": "Open by Ranger tour only until rehabilitated.",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45604026,
+      "longitude": -135.3172383,
+      "map_thumbnail_image": 114,
+      "name": "Meyers Complex - YMCA",
+      "name_description": "A modern photograph of the Portland House, a false front building undergoing renovation.",
+      "primary_image": 46,
+      "type": "Historic Building (NPS)"
+    },
+    {
+      "description": "Listen for the clinking of bottles, laughter, and chatter from the interior of the Mascot, a Gold Rush-era saloon that supplied alcohol to thirsty stampeders and served as a gathering place where men could play pool, gamble, and listen to music. Originally constructed in 1898, a corner entry led to the “Mascotte” saloon, owned by Charles Rohbak, who sold liquor, cigars, and fresh beer on draft for ten cents. In early 1899, however, a new law came into force as Skagway transitioned from frontier town to family town, requiring Skagway’s saloons to pay a $1,500 license fee in order to remain open. Of the 80 saloons reported open in January 1899, all but a dozen had closed by April, including Rohbak’s “Mascotte.” After its closure, entrepreneur Albert Reinert and a partner purchased the building, paid the license fee, and began remodeling the interior. As a former restaurant owner, Reinert knew how to keep customers with offers of free lunches including clam chowder, spareribs, enchiladas, and more, along with locally brewed pilsner beer for a nickel a schooner. But moral reforms were sweeping Skagway at the start of the 20th century, and by 1916 Skagway had voted itself a “dry” town. Impressively, the renamed “Mascot” was one of only three Gold Rush-era saloons that survived until local prohibition. Eventually Reinert sold the Mascot to Perry Hern, who converted the interior to a pharmacy, and owned the complex for the next thirty years. In 1974 the National Park Foundation acquired the structure from George Rapuzzi and Charles Hermans, and in 1976, building ownership transferred to the National Park Service. The Mascot Saloon was restored to its 1905-1916 appearance and today exhibits within depict town life, and replica beer bottles of the brand distributed by the Mascot during its heyday line the shelves.",
+      "geofence_buffer_in_meters": 10,
+      "id": 5,
+      "latitude": 59.45401328,
+      "longitude": -135.3174019,
+      "map_thumbnail_image": 90,
+      "media": [
+        71,
+        80
+      ],
+      "name": "Mascot Saloon",
+      "name_description": "Learn about Gold Rush-era saloon culture and entrepreneurship at the historic Mascot saloon, now a museum.",
+      "primary_image": 19,
+      "type": "Museum",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        },
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        },
+        {
+          "description": "Tcoil",
+          "type": "Tcoil"
+        }
+      ]
+    },
+    {
+      "description": "The log-cabin home of Captain William Moore marks the birthplace of Skagway. Constructed in 1887-1888 by Captain Moore, his son, Ben, and Nan-Suk, a Tlingit native, it is the oldest structure in town. Original newspapers from the late nineteenth century, once used as interior decoration, still adhere to the walls and ceiling of the cabin. Captain Moore was a veteran of gold rushes. He predicted that there would one day be a great gold rush in the Yukon and Alaska and that stampeders would make their way up the Skagway River Valley to get there. He and his son claimed a homestead, built a cabin, and constructed a wharf. When the rush finally came, his land was overrun by a flood of stampeders. Nevertheless, Captain William Moore and his family prospered, and he lived to see his homestead turn into a significant port and railroad town. The life of Ben Moore exemplifies the pioneer spirit of Alaska. As a young man he plied the Inside Passage and traveled up and down the Yukon River, looking for gold and working at various jobs in fishing, mining, and packing. Ben Moore married Klinget-Sai-Yet, daughter of a Tlingit leader, and named her Minnie. In 1897 he began constructing a frame house just south of his father's cabin. This small beginning became the nucleus of the present Ben Moore House. Over the years, continued additions and remodeling created a sizeable home. By 1907 Ben Moore and his family moved to Tacoma, Washington. The house was rented by jeweler Herman Kirmse and later purchased by his wife Hazel in 1914. Today the house is open to the public and depicts life in a pioneer home around 1904.",
+      "geofence_buffer_in_meters": 10,
+      "id": 7,
+      "information": [
+        {
+          "description": "Open Seasonally Monday through Thursday, 10am-5:30pm, Friday through Sunday, 10am-5pm",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.4550631,
+      "longitude": -135.3142038,
+      "map_thumbnail_image": 92,
+      "media": [
+        73,
+        82
+      ],
+      "name": "Moore Homestead",
+      "name_description": "Observe Skagway’s change from frontier to family town at this homestead belonging to its founding family, the Moores.",
+      "primary_image": 21,
+      "type": "Museum",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        },
+        {
+          "description": "Staffed by Ranger",
+          "icon": "ranger.png",
+          "icon_@2x": "ranger@2x.png",
+          "type": "Staffed by Ranger"
+        }
+      ]
+    },
+    {
+      "description": "The international Chilkoot Trail is managed by the National Park Service and Parks Canada, operating in the Chilkoot Trail Center.  Skagway's booming tourism industry began just as the Gold Rush was ending in the summer of 1898 with the first boatload of sightseers to the city. Martin Itjen, a Gold rush stampeder and Skagway’s premier tour operator bought this house in 1922 and originally stood on piers near Moore’s Wharf.  From that location, Martin and his wife Lucy greeted passing tourists, sold fruit and candies, and booked rides on Itjen’s innovative Skagway Streetcars. As the streetcar toured, Itjen recited poetry and told humorous anecdotes about the town, keeping the gold rush tales alive. The Itjen House was later moved several times to other locations before finding its present home in 1978. Today the building is used as the National Park Service and Parks Canada Chilkoot Trail Center.",
+      "geofence_buffer_in_meters": 10,
+      "id": 12,
+      "information": [
+        {
+          "description": "Open 7 days a week, 8 – 5. Closed on Tuesdays 12 – 1.",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45360977,
+      "longitude": -135.319148,
+      "map_thumbnail_image": 97,
+      "name": "Chilkoot Trail Center (Itjen House)",
+      "name_description": "This building houses the NPS Trail Center. It belonged to eccentric entrepreneur Martin Itjen who helped initiate Skagway tourism.",
+      "primary_image": 31,
+      "type": "Trail Center",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        },
+        {
+          "description": "Staffed by Ranger",
+          "icon": "ranger.png",
+          "icon_@2x": "ranger@2x.png",
+          "type": "Staffed by Ranger"
+        }
+      ]
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 41,
+      "information": [
+        {
+          "description": "Available Year-Round",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.462472,
+      "longitude": -135.3204587,
+      "map_thumbnail_image": 125,
+      "name": "Skagway Town Overlook",
+      "name_description": "Located at Mile 2 on the Dyea Rd, this overlook provides an amazing panoramic view of town and the surrounding landscape.",
+      "type": "Overlook",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        },
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 32,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45198753,
+      "longitude": -135.3167528,
+      "map_thumbnail_image": 117,
+      "name": "Pullen Pond",
+      "name_description": "Pullen Pond, named for Gold Rush entrepreneur Harriet Pullen, is a beautiful spot to relax, picnic, and see salmon run.",
+      "primary_image": 49,
+      "type": "Park",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        },
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 33,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.4730831,
+      "longitude": -135.289414,
+      "map_thumbnail_image": 118,
+      "name": "Gold Rush Cemetery and Reid Falls",
+      "name_description": "This Gold Rush-era cemetery includes wayside exhibits highlighting significant historical people and serves as trailhead to beautiful Reid falls.",
+      "primary_image": 50,
+      "type": "Cemetery, Trail",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        },
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "description": "The Slide Cemetery in Dyea remains a tangible reminder of the Palm Sunday Avalanche, which occurred on April 3, 1898 on the Chilkoot Trail.  Over the decades, maintenance work has been done sporadically to keep the site cleaned up. Beginning in 1940s and continuing until the 1960s, groups such as the Civilian Conservation Corps and the Alaska Youth Adult Authority have performed major cleanups, erected fences, replaced headboards, and constructed a path to the cemetery.",
+      "geofence_buffer_in_meters": 10,
+      "id": 49,
+      "information": [
+        {
+          "description": "Available Year-Round",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.5103459,
+      "longitude": -135.3589585,
+      "map_thumbnail_image": 130,
+      "name": "Slide Cemetery",
+      "name_description": "Approximately 60 stampeders are buried here, killed by the Palm Sunday Avalanche, on April 3, 1898 on the Chilkoot Trail.",
+      "primary_image": 63,
+      "type": "Cemetery",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        }
+      ]
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 11,
+      "information": [
+        {
+          "description": "Open daily in the summer from 7:15am to 5:00pm.",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45330169,
+      "longitude": -135.3181744,
+      "map_thumbnail_image": 96,
+      "name": "White Pass & Yukon Route Depot",
+      "name_description": "This modern depot belongs to the White Pass and Yukon Route Railroad, which was constructed between 1898 and 1900.",
+      "primary_image": 30,
+      "type": "Business",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        },
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "description": "Built in 1899 by Frederick and Nathalie Verbauwhede, this store took full advantage of its corner location near the newly constructed train depot to attract business. Here travelers could easily purchase the candies, nuts, fruits, cigars, and pastries they desired before boarding their train north. This structure is indicative of a story common in Skagway’s history, of abundant opportunities for entrepreneurship, as it has housed more than seven different businesses in the last hundred years. After a series of uses as a barber, gun, and curio shop, the building became the Alaska Transfer Company express office. Today the building is part of Klondike Gold Rush National Historical Park’s Lease Back Program and houses a private business.",
+      "geofence_buffer_in_meters": 10,
+      "id": 17,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.4539533,
+      "longitude": -135.3177989,
+      "map_thumbnail_image": 102,
+      "name": "Verbauwhede Cigar Store & Confectionery",
+      "name_description": "The Verbauwhede Cigar Store and Confectionery opened shortly after the Gold Rush to sell snacks to train passengers.",
+      "primary_image": 36,
+      "type": "Business (NPS)",
       "services": [
         {
           "description": "Handicapped Access",
@@ -2844,31 +2752,22 @@
       ]
     },
     {
-      "audio_description": "White Pass & Yukon Route Depot.  1 ¼ minutes.  The White Pass & Yukon Route Depot is situated on the south side of Second Avenue, between Broadway and Spring Street.  It is painted white with green trim.  The western half of the wooden building is two stories tall, dropping to just one story on the eastern side.  Further to the east is a large parking area.  On both the north and south-facing facades, maroon letters on the second story read “White Pass & Yukon Route, Established 1898.”  \n\nYou may enter the building on the north side from Second Avenue.  It’s two steps up to the door from the sidewalk, and there’s a ramp near the right-hand edge of the building.  Or you can enter the depot from the south.  A covered cement porch runs the length of the building on the south side and a doorway provides access from the porch.  The porch also serves as the railroad platform; the tracks are located a few feet to the south, parallel to it.  Please watch your step near the tracks and listen for oncoming trains.\n\nEnd of message.",
-      "description": "This ornate building was designed by Seattle architect Henry Dozier to house the White Pass and Yukon Route Railroad administration.  Completed in 1900, the building today serves as headquarters for Klondike Gold Rush National Historical Park, featuring a museum with exhibits about the gold rush.",
+      "description": "By 1907-1908, Skagway’s glory days of the Klondike Gold Rush had passed. Vacant, derelict buildings lined the streets, giving Skagway the appearance, as described by one visitor, of “the scrap-heap of creation.” In an attempt to centralize businesses in the downtown area and create a new Skagway, several buildings, including this one, were moved to new locations along Broadway in 1908. In 1900 it originally housed the all black Company L, 24th Infantry as a two-story army barracks. Brought here to protect American territory during the gold rush, the troops departed in 1904 for Fort William Seward in Haines, Alaska. After the barracks was moved to its present location, an open store area was built with a flowing stairway leading upstairs and a new false-front attached. Partners Lynch & Kennedy were the first owners of the new store and sold men’s attire and dry goods, and theirs is one of the town’s finest examples of false front architecture and reflects the hoped-for stability in Skagway. The local paper, The Daily Alaskan, reported that “The store is just about the handsomest in the city… It is a fine addition to business life of the city.” It remains a fine example of Gold Rush era architecture, and today continues its role in Skagway’s commercial present as part of the National Park Service’s Lease Back Program.",
       "geofence_buffer_in_meters": 10,
-      "id": 2,
+      "id": 20,
       "information": [
         {
-          "description": "Elaborate woodwork and plastered walls and ceilings adorn a handsome interior. The entire building was erected around a two-story fireproof vault made of brick and steel over a stone foundation. Offices and a baggage room completed the plan. ",
-          "name": "Architecture of the Park Museum Building"
-        },
-        {
-          "description": "Open Seasonally Monday through Friday, 10am-12pm and 1pm-3pm, Closed Saturday and Sunday",
+          "description": "Seasonal",
           "name": "Hours"
         }
       ],
-      "latitude": 59.45339166,
-      "longitude": -135.3184238,
-      "map_thumbnail_image": 87,
-      "media": [
-        14,
-        68
-      ],
-      "name": "Park Museum Building",
-      "name_description": "The historic Railroad Administration office houses Klondike Gold Rush National Historical Park’s museum and offices.",
-      "primary_image": 16,
-      "type": "Museum",
+      "latitude": 59.45450402,
+      "longitude": -135.3166991,
+      "map_thumbnail_image": 105,
+      "name": "Lynch & Kennedy",
+      "name_description": "The story of the Lynch and Kennedy exemplifies the entrepreneurial spirit and architecture of early Skagway.",
+      "primary_image": 39,
+      "type": "Business (NPS)",
       "services": [
         {
           "description": "Handicapped Access",
@@ -2879,27 +2778,22 @@
       ]
     },
     {
-      "audio_description": "Soapy's Parlor Museum.  1 ½ minutes.  Jefferson “Soapy” Smith’s parlor is a narrow, one-story building, 15 feet wide.  It stretches back 60 feet from street, and a simple pitched, shingled roof tops the building behind its false front.  Soapy’s is located on the south side of Second Avenue, between State Street and Broadway.  A metal fence five feet high separates the building from the boardwalk.  Grassy areas on both sides of the structure set it apart from the neighboring buildings.  The exterior walls on either side of the building are windowless..  Soapy’s is not currently open to the public. \n\t\nThe building’s wooden, flat-topped facade is painted white, except for a black strip about a foot wide across the top, just below the roofline.  The words “Jeff. Smiths Parlor” have been stenciled in white capital letters on the black strip, but are badly faded.  A single windowed doorway is set into the right-hand side of the façade; a large square window is located immediately to its left.  The window and door, both trimmed in beige, together stretch across almost the entire width of the building.  White lace curtains adorn the window and door from inside.\n\nEnd of message.\n",
-      "description": "Jeff. Smiths Parlor” was the saloon and headquarters of Jefferson Randolph Smith, better known as “Soapy Smith.” Smith was Skagway’s most infamous con-man, who arrived in Skagway sometime in 1897 and began operating from this building on 6th Avenue, May 1898. The interior during Soapy’s reign has been described as a restaurant with a large mahogany bar. The back room “parlor” was where victims were sometimes robbed while gang members ran away with the loot. Soapy met his demise soon after J. D. Stewart, a gold miner returning from the Klondike, was robbed by his gang. Soapy was killed in a shoot-out by Frank Reid on July 8, 1898 and both are buried in Skagway’s Gold Rush Cemetery. In the years following Soapy’s death, this false-front wood-frame building changed hands several times.  As new owner Martin Itjen took over in 1935, restoration efforts and improvements soon followed, based on historical photographs.  Itjen reconstructed the building to a version of what Soapy’s Parlor had been, and papered the interior walls with newspapers dating from the gold rush to the 1930s. When he reopened the building as a museum, Itjen used his wizardry at mechanics and installed a manikin of Soapy Smith that turned from the bar and greeted visitors to the museum.  The Jeff. Smith Parlor Museum became a highlight on his Skagway tours. Upon Itjen’s death in 1924, George Rapuzzi, a collector of gold rush memorabilia, and Itjen’s long-time friend, took over the museum and moved the building to the current location in 1964. With his wife Edna, George repaired and renovated the building which was open to the public from 1967 to 1986.  In December 2008, the Rasmuson Foundation donated the ‘George and Edna Rapuzzi Collection,’ which included five historic buildings and a large collection of artifacts from 1898 through the late 1960’s to the National Park Service. Original artifacts and memorabilia depicting Soapy Smith’s life in Skagway will be on display when restoration is completed in 2016.",
+      "description": "This building was constructed in 1897 by James Brackett. He operated a small trading post here until his expanding business forced a move to a larger structure. In 1898 baker Stephen Baur bought Brackett’s store. Baur, the “Boss Baker,” opened a restaurant specializing in fresh pastries and breads. He made minor repairs to the building and extended the false front. The building also served as a grocery store, a restaurant, and a military mess hall during WW II. Today is looks much like it did in the gold rush and is operated as a store under the Lease Back Program.",
       "geofence_buffer_in_meters": 10,
-      "id": 3,
+      "id": 23,
       "information": [
         {
-          "description": "Open by Ranger Tour Only - 2016",
+          "description": "Seasonal",
           "name": "Hours"
         }
       ],
-      "latitude": 59.45382107,
-      "longitude": -135.319148,
-      "map_thumbnail_image": 88,
-      "media": [
-        69,
-        79
-      ],
-      "name": "Soapy's Parlor Museum",
-      "name_description": "Opening in 2016, this building was once headquarters for town villain “Soapy,” then a museum by a local entrepreneur.",
-      "primary_image": 17,
-      "type": "Historic Building",
+      "latitude": 59.45547048,
+      "longitude": -135.3148618,
+      "map_thumbnail_image": 108,
+      "name": "Boss Bakery",
+      "name_description": "A trading post turned bakery, this structure embodies the zeal for entrepreneurship during the Klondike Gold Rush.",
+      "primary_image": 40,
+      "type": "Building (NPS)",
       "services": [
         {
           "description": "Handicapped Access",
@@ -2908,6 +2802,112 @@
           "type": "Handicapped Access"
         }
       ]
+    },
+    {
+      "description": "The First Bloom garden located on the National Park Service lot at 4th and Broadway in downtown Skagway was designed and constructed from an empty grass lot by local youth. It features native plants in a historic Victorian style landscaped garden.  First Bloom gardens were funded by the National Park Foundation to provide seeds for a stronger relationship between Americans and their national parks, beginning with our youngest citizens.  Skagway youth have been engaged in hands-on activities with the First Bloom garden since 2011. Park partners include the Skagway Recreation Center, Skagway School District and the Taiya Inlet Watershed Council.",
+      "geofence_buffer_in_meters": 10,
+      "id": 22,
+      "latitude": 59.4547194,
+      "longitude": -135.3170478,
+      "map_thumbnail_image": 107,
+      "name": "First Bloom Garden",
+      "type": "Park"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 26,
+      "information": [
+        {
+          "description": "Available Year-Round",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45557681,
+      "longitude": -135.3154734,
+      "map_thumbnail_image": 111,
+      "name": "Corrington Lot - Rhubarb Garden",
+      "name_description": "Located at 5th and Broadway, this garden is a great place to see gigantic rhubarb plants and beautiful native flowers.",
+      "primary_image": 43,
+      "type": "Park"
+    },
+    {
+      "description": "The flagpole (99 ft.) is a reproduction of the original built in 1846. This height allows the flag to be seen for miles.",
+      "geofence_buffer_in_meters": 10,
+      "id": 83,
+      "latitude": 35.388542,
+      "longitude": -94.430162,
+      "map_thumbnail_image": 171,
+      "name": "Flag Pole",
+      "name_description": "The flagpole (99 ft.) is a reproduction of the original built in 1846. This height allows the flag to be seen for miles.",
+      "primary_image": 166,
+      "type": "Parade Field"
+    },
+    {
+      "description": "During the early gold rush years in Skagway, this building was associated with one of two businesses that provided retail and wholesale meat to stampeders and commercial clients.  Known as the Frye-Bruhn refrigerated warehouse, it was owned by brothers Frank and Charles Frye and Charles Bruhn and was part of the Frye-Bruhn Meat Packing Company, of Seattle, Washington.  Incorporated in 1891, the company rapidly expanded during the gold rush and soon had stores in several locations in Alaska including Haines, Juneau, Seward, Skagway, Valdez, and a cattle ranch in Katmai.  This building, part of the Frye-Bruhn meat packing empire, was first used briefly as a slaughter house.  It was remodeled in May 1900 and turned into a refrigerated warehouse for meat.  The Frye-Bruhn Company sold the warehouse in September 1919 to Anthony Dortero, a Skagway fruit dealer and clothier to men, for $450, but continued to operate in Skagway until the mid-1930s.  Mr. Dortero died in 1920 but his widow, Sabina, kept the property until 1945.  After that it was owned by several people before being donated to the National Park Service. Exactly when the refrigeration equipment in the old building quit working is unknown but it still contains parts of the original refrigeration coils and overhead track used to keep the meat cool and to move it around.  What is the future of the warehouse? The National Park Service recently moved it across 5th Avenue to where you see it now. The next step is to decide whether it should stay here or be moved to another location and stabilize it. Research and preservation work will need to be done to save the warehouse and put it back into use either as a storage building, interpretive facility, or commercial lease.",
+      "geofence_buffer_in_meters": 10,
+      "id": 25,
+      "information": [
+        {
+          "description": "Closed to the Public (Undergoing Restoration)",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45526329,
+      "longitude": -135.3144675,
+      "map_thumbnail_image": 110,
+      "name": "Frye Bruhn Building",
+      "name_description": "Once a refrigerated warehouse for the Frye Bruhn Meat Packing Company, this building is slated for rehabilitation.",
+      "primary_image": 42,
+      "type": "Historic Building"
+    },
+    {
+      "description": "This was the original home of Skagway’s founder, Captain William Moore. It is one of the oldest surviving structures in Skagway and was built circa 1897. It served as the center for all of Moore’s Alaska and Northwest Trading Company business and his personal residence.  Over the years, the building provided office space for the Skagway Chamber of Commerce, the Alaska Road Commission and has housed a hotel, a retail outlet, a bank, law offices, a dentist, and most recently a restaurant and apartments. Today, it is privately owned and was restored under guidance of the National Historic Landmark Technical Assistance program.  Who was Captain Moore? Moore was born in Emden, Germany on March 30, 1822. As an adult, he was in almost every Pacific Coast gold rush from California to the Klondike. Skagway provided his final success. After completing an exploration of White Pass with Skookum Jim Mason for the Canadian government in 1887, Moore realized the commercial potential of Skagway. He and his son Ben built a log cabin and Skagway’s first wharf. When Skagway became the gateway to the Klondike 10 years later, Moore’s prediction about a gold rush to Alaska and the Yukon came true. The Portland House is privately owned and was restored under guidance of the National Historic Landmark Technical Assistance program.",
+      "geofence_buffer_in_meters": 10,
+      "id": 28,
+      "information": [
+        {
+          "description": "PRIVATE",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45586579,
+      "longitude": -135.3167689,
+      "map_thumbnail_image": 113,
+      "name": "Portland House",
+      "name_description": "The Portland House was built by Skagway’s founder, Captain William Moore, in 1897 as a residence and business office.",
+      "primary_image": 45,
+      "type": "Historic Building"
+    },
+    {
+      "description": "The Peniel Mission, built in 1900, offered religious and humanitarian services to the stampeders. Between 1900 and 1910 the mission kept its doors open. Just a block from the heart of Skagway's saloons, gambling halls, and the red-light district, the mission offered nightly meetings, Sunday services, shelter, and warmth. As Skagway declined, support for the mission dwindled. By 1911 the building fell into disuse, although it continued to serve as a home for missionaries. In 1937 it was remodeled as a doctor's office and residence. After the National Park Service acquired the building in 1978 the interior was altered to provide housing for park seasonal staff.",
+      "geofence_buffer_in_meters": 10,
+      "id": 30,
+      "information": [
+        {
+          "description": "PRIVATE",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45533145,
+      "longitude": -135.3136924,
+      "map_thumbnail_image": 115,
+      "name": "Peniel Mission",
+      "name_description": "The Peniel Mission, built in 1900, offered religious and humanitarian services to stampeders until 1910.",
+      "primary_image": 47,
+      "type": "Building"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 48,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "name_description": "From Long Ago, This Has Been Tlingit Land",
+      "primary_image": 62,
+      "type": "Wayside Exhibit"
     }
   ],
   "tours": [
