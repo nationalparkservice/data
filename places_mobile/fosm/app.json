@@ -15,11 +15,11 @@
       "name": "Good for Families"
     },
     {
-      "name": "Lesser Know"
-    },
-    {
       "description": "For BETA Test only",
       "name": "HEHO/FOSM"
+    },
+    {
+      "name": "Lesser Known"
     }
   ],
   "description": "This is a description for the home screen.",
@@ -1070,231 +1070,6 @@
   "searches": [],
   "sites": [
     {
-      "description": "Currently serving as the park’s Visitor Center, the building has served many purposes and undergone major architectural changes through the years. It was originally built as a one-story structure with basement during the second Fort Smith period (1838-1871). It served as the enlisted soldiers’ barracks and basement dining room. During the Federal Court period (1872-1896), the barracks became the courtroom, the basement became the “Hell on the Border” jail, and a second story was added. In 1888, the building changed again with the completion of a new three-story jail. Tour the building to experience the first jail and see first- hand why it earned the nickname of being “Hell on the Border”, and compare the improvement of conditions with the construction of the second jail. There are exhibits about tough outlaws, tougher lawmen, and the toughest of them all, Judge Isaac C. Parker. Other exhibits explore Fort Smith’s role in Westward Expansion and Federal Indian Policy.",
-      "geofence_buffer_in_meters": 10,
-      "id": 94,
-      "latitude": 35.3882758926279,
-      "longitude": -94.4297379255295,
-      "map_thumbnail_image": 229,
-      "media": [
-        186,
-        216
-      ],
-      "name": "Barracks, Courthouse, Jail (WS) / Visitor Center",
-      "name_description": "Park’s Visitor Center, served as a soldiers’ barracks (1838-1871), converted to jail and courthouse in 1872.",
-      "type": "Visitor Center",
-      "services": []
-    },
-    {
-      "description": "The guardhouse, constructed in 1849, was a focal point of daily activity at the second Fort Smith serving as the initial check-in point for soldiers, supplies, and visitors. The guardhouse was also the place of confinement for soldiers under arrest for such offenses as drunkenness, desertion, or fighting. After the U.S. Army closed Fort Smith in 1871, the federal court converted the guardhouse into a jail for women.   If a female prisoner had a child and no family members or friends to take care of the child, he or she went to jail too. During the day, the children were allowed to play on the grounds. We know of at least to two children who served time with their mothers.  Crimes committed by women ranged from the illegal sale of whiskey to murder. When convicted, they received the same sentences as men – fines, jail time, or death by hanging. Although four women were sentenced to hang, none were executed at Fort Smith.",
-      "geofence_buffer_in_meters": 10,
-      "id": 96,
-      "latitude": 35.3889843676842,
-      "longitude": -94.4293570518494,
-      "map_thumbnail_image": 231,
-      "media": [
-        188,
-        218
-      ],
-      "name": "The Guardhouse (includes 2 WS)",
-      "name_description": "Guardhouse/jail for 2nd Fort Smith (1838-1871), became the women's jail during Federal Court period (1872-1896).",
-      "type": "Gazebo",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 106,
-      "name": "Defending Freedom (WS)",
-      "name_description": "During the Civil War, four regiments of United States Colored Troops served in here, including one unit from the city.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 105,
-      "latitude": 35.387913,
-      "longitude": -94.43054,
-      "map_thumbnail_image": 240,
-      "name": "Fort Wall (WS)",
-      "name_description": "Originally, the fort was surrounded by a stone wall 12’ high and 2’ feet thick. This fort was one of the last this type.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 109,
-      "latitude": 35.38855578,
-      "longitude": -94.43016708,
-      "map_thumbnail_image": 244,
-      "media": [
-        195,
-        222
-      ],
-      "name": "Flag Pole (includes Wayside)",
-      "name_description": "The flagpole (99 ft.) is a reproduction of the original built in 1846. This height allows the flag to be seen for miles.",
-      "type": "Flag Pole and Sign"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 113,
-      "latitude": 35.3889078351847,
-      "longitude": -94.4302394986153,
-      "map_thumbnail_image": 248,
-      "media": [
-        198
-      ],
-      "name": "Second Fort Smith Officers Quarters #2",
-      "name_description": "One of two officers quarters constructed and used from 1838-1871. By 1870, chimney fires destroyed both buildings.",
-      "type": "Cement foundation",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 114,
-      "latitude": 35.3890084207405,
-      "longitude": -94.4303950667381,
-      "map_thumbnail_image": 249,
-      "media": [
-        199
-      ],
-      "name": "Officers' Garden (includes WS)",
-      "name_description": "The officers' garden is a re-creation of the 1860's garden. The officers’ wives and children cared for the garden.",
-      "type": "Garden",
-      "services": []
-    },
-    {
-      "description": "Under the Indian Removal Act of 1830, the U.S. government using treaties exchanged tribal lands in the east belonging to Choctaws, Cherokees, Chickasaws, Muscogee (Creeks), and Seminoles for land west of the Mississippi River. This removal process left a bitter legacy remembered today as the Trail of Tears. From 1830-1842 each of the Five Tribes traveled various land and water routes to Indian Territory (today Oklahoma). Groups from each tribe traveled the Arkansas River, stopped in the Fort Smith area and received supplies before reaching their destinations. These are just five of the 64 tribes removed from their ancestral homelands to Indian Territory.",
-      "geofence_buffer_in_meters": 10,
-      "id": 99,
-      "latitude": 35.3877467189272,
-      "longitude": -94.4333213567734,
-      "map_thumbnail_image": 234,
-      "media": [
-        191,
-        221
-      ],
-      "name": "Trail of Tears Scenic Overlook (includes 6 WS) ",
-      "name_description": "Scenic view of Arkansas River offering interpretive panels featuring five tribal perspectives of Indian removal.",
-      "type": "Scenic Overlook",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 100,
-      "latitude": 35.3882037327822,
-      "longitude": -94.4289010763168,
-      "map_thumbnail_image": 235,
-      "name": "Welcome to Fort Smith - Main Entrance (WS)",
-      "name_description": "Welcome to Fort Smith National Historic Site, the remains of two military forts and a federal court are preserved here.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 102,
-      "latitude": 35.3875827181086,
-      "longitude": -94.4295662641525,
-      "map_thumbnail_image": 237,
-      "name": "Welcome to Fort Smith - Near Maintenance Building (WS)",
-      "name_description": "Welcome to Fort Smith National Historic Site, the remains of two military forts and a federal court are preserved here.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 104,
-      "latitude": 35.3876636252208,
-      "longitude": -94.4308537244797,
-      "map_thumbnail_image": 239,
-      "media": [
-        194
-      ],
-      "name": "Gazebo by Parking Lot (includes WS)",
-      "name_description": "Welcome to Fort Smith National Historic Site, the remains of two military forts and a federal court are preserved here.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
-      "description": "Why execution by hanging? At the time, hanging was considered the most humane method of execution. When done properly, the neck is broken and death comes quickly.Murder, rape, treason, and obstruction of an execution were the only Federal crimes with an automatic death sentence. In Fort Smith, 81 men were hanged for murder and 5 for rape. Crowds in the thousands came to Fort Smith to watch the earlier executions before the fence was erected. Executions became private two years after Judge Parker arrived. In order to attend an execution one had to get permission from the U.S. Marshal by providing a reason to be there. Those who attended executions included reporters, clergy, medical personnel, family members of both the victim and the condemned.  The current gallows are a reproduction based on images and historic records. The original gallows was destroyed by the city of Fort Smith in 1897 because of the negative reputation it gave the city. Today the gallows stand as a stark reminder of the struggle for justice on the western frontier.",
-      "geofence_buffer_in_meters": 10,
-      "id": 95,
-      "latitude": 35.38755866,
-      "longitude": -94.4301939,
-      "map_thumbnail_image": 230,
-      "media": [
-        187,
-        217,
-        226
-      ],
-      "name": "The Gallows (includes 2 WS)",
-      "name_description": "Reproduction built on the location of the original gallows. From 1872 to 1896, 86 men were executed here.",
-      "type": "Building",
-      "services": []
-    },
-    {
-      "description": "In 1845, Quartermaster General Thomas Jesup inspected Fort Smith and ordered the fort to be converted into a supply depot. With its new mission, Fort Smith became one of the largest and busiest supply posts in the south.The commissary is the oldest building still standing in Fort Smith. Over the years its appearance and use changed dramatically. The building held food supplies for soldiers in Fort Smith and forts further west.  From 1875 – 1890, Federal Judge Isaac C. Parker’s office was on the second floor. The Hamersley family used the first floor as their home from 1890-1896.Today, the commissary is furnished with reproductions of supplies that the U.S. Army stored there in the 1850’s and as the 1890 Hamersley home.",
-      "geofence_buffer_in_meters": 10,
-      "id": 97,
-      "latitude": 35.38950479,
-      "longitude": -94.42999542,
-      "map_thumbnail_image": 232,
-      "media": [
-        189,
-        219,
-        227
-      ],
-      "name": "The Commissary (includes 2 WS outside and 2 WS inside)",
-      "name_description": "Built in 1846, when the fort’s mission shifted from defensive to a supply depot.",
-      "type": "Building",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 101,
-      "media": [
-        192
-      ],
-      "name": "Bastion #4",
-      "name_description": "One of five bastions or gun emplacements that would have defended the fort if attacked.",
-      "type": "Fort Wall Foundation"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 103,
-      "media": [
-        193
-      ],
-      "name": "Bastion #3",
-      "name_description": "One of five bastions or gun emplacements that would have defended the fort if attacked",
-      "type": "Fort Wall Foundation"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 111,
-      "latitude": 35.389153,
-      "longitude": 94.429466,
-      "map_thumbnail_image": 246,
-      "name": "The Parade Ground (WS)",
-      "name_description": "From 1846-1871 soldiers performed drill and ceremonies on the parade grounds, making it the center of life at the fort.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 112,
-      "latitude": 35.38992462,
-      "longitude": -94.42993909,
-      "map_thumbnail_image": 247,
-      "media": [
-        197,
-        223
-      ],
-      "name": "Frisco Train Depot",
-      "name_description": "Frisco Train Depot was used from the early 1900s to the mid-1940s.",
-      "type": "Train Station",
-      "services": []
-    },
-    {
       "description": "Established on Christmas Day 1817 when the first soldiers arrived to begin building. Their assignment was to stop the fighting between the long established Osage and newly arriving Cherokees moving into Indian Territory. Interesting Fact: Fort Smith was located on the edge of the United States at that time. Far removed from other towns and supply resources, the first soldiers had to be self-sufficient during long periods of time between supply shipments.",
       "geofence_buffer_in_meters": 10,
       "id": 98,
@@ -1312,136 +1087,19 @@
       "services": []
     },
     {
+      "description": "Under the Indian Removal Act of 1830, the U.S. government using treaties exchanged tribal lands in the east belonging to Choctaws, Cherokees, Chickasaws, Muscogee (Creeks), and Seminoles for land west of the Mississippi River. This removal process left a bitter legacy remembered today as the Trail of Tears. From 1830-1842 each of the Five Tribes traveled various land and water routes to Indian Territory (today Oklahoma). Groups from each tribe traveled the Arkansas River, stopped in the Fort Smith area and received supplies before reaching their destinations. These are just five of the 64 tribes removed from their ancestral homelands to Indian Territory.",
       "geofence_buffer_in_meters": 10,
-      "id": 115,
-      "latitude": 35.3886716773,
-      "longitude": -94.4304460287094,
-      "map_thumbnail_image": 250,
+      "id": 99,
+      "latitude": 35.3877467189272,
+      "longitude": -94.4333213567734,
+      "map_thumbnail_image": 234,
       "media": [
-        200
+        191,
+        221
       ],
-      "name": "Cistern",
-      "name_description": "Before running water and indoor plumbing, soldiers dug this cistern in 1869 to collect rainwater.",
-      "type": "Stone Water Collector"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 116,
-      "latitude": 35.3885164249806,
-      "longitude": -94.4306311011314,
-      "map_thumbnail_image": 251,
-      "media": [
-        201
-      ],
-      "name": "Second Fort Smith Officers Quarters #1 (includes WS)",
-      "name_description": "One of two officers quarters constructed and used from 1838-1871. By 1870, chimney fires destroyed both buildings.",
-      "type": "Cement foundation"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 117,
-      "latitude": 35.387852,
-      "longitude": -94.431206,
-      "map_thumbnail_image": 252,
-      "name": "A Disputed Boundary (WS)",
-      "name_description": "The boundary between Arkansas and Choctaw territory was originally incorrect due to a survey error.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 119,
-      "latitude": 35.388069,
-      "longitude": -94.431625,
-      "map_thumbnail_image": 254,
-      "name": "Whiskey War (WS)",
-      "name_description": "Soldiers fired a cannon in to the Bigalows tavern after the Bigalows beat-up the fort’s commander.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 120,
-      "latitude": 35.3873553030884,
-      "longitude": -94.4323182106018,
-      "map_thumbnail_image": 255,
-      "media": [
-        203
-      ],
-      "name": "Gazebo near First Fort (Includes 3 WS)",
-      "name_description": "The panels discuss the founding of Fort Smith and those who served here from 1817-1824.",
-      "type": "Wayside Exhibit Panels",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 121,
-      "latitude": 35.387497,
-      "longitude": -94.432312,
-      "map_thumbnail_image": 256,
-      "name": "Abandoned and Forgotten (WS)",
-      "name_description": "A pencil drawing of the first Fort Smith superimposed on a modern picture of the fort’s foundations.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 122,
-      "latitude": 35.3876854919939,
-      "longitude": -94.4325596094131,
-      "map_thumbnail_image": 257,
-      "media": [
-        204
-      ],
-      "name": "Flag of First Fort",
-      "name_description": "The first flag to fly over Fort Smith had 15 stars and 15 stripes, one for each state.",
-      "type": "Flag Pole",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 123,
-      "latitude": 35.38744,
-      "longitude": -94.432541,
-      "map_thumbnail_image": 258,
-      "media": [
-        205
-      ],
-      "name": "Block House of First Fort",
-      "name_description": "Built by soldiers, the blockhouse was a defensive structure. All that remains is the foundation.",
-      "type": "Stone foundation"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 124,
-      "latitude": 35.387814,
-      "longitude": 94.43264,
-      "map_thumbnail_image": 259,
-      "name": "Request Denied (WS)",
-      "name_description": "In April 1821, 400 Osage warriors attempted to attack Fort Smith, hoping to scare the soldiers.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 125,
-      "latitude": 35.387581,
-      "longitude": -94.432739,
-      "map_thumbnail_image": 260,
-      "name": "Pioneering Solders (WS)",
-      "name_description": "Along with their military duties, soldiers were responsible for hunting, gardening, and building the fort.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 126,
-      "latitude": 35.387016,
-      "longitude": -94.433029,
-      "map_thumbnail_image": 261,
-      "name": "Osage Nation (WS)",
-      "name_description": "Over 72 years the Osage were forced through treaties to surrender a majority of their homeland.",
-      "type": "Wayside Exhibit Panel",
+      "name": "Trail of Tears Scenic Overlook (includes 6 WS) ",
+      "name_description": "Scenic view of Arkansas River offering interpretive panels featuring five tribal perspectives of Indian removal.",
+      "type": "Scenic Overlook",
       "services": []
     },
     {
@@ -1488,16 +1146,30 @@
     },
     {
       "geofence_buffer_in_meters": 10,
-      "id": 131,
-      "latitude": 35.3862510191151,
-      "longitude": -94.4271200895309,
-      "map_thumbnail_image": 266,
+      "id": 120,
+      "latitude": 35.3873553030884,
+      "longitude": -94.4323182106018,
+      "map_thumbnail_image": 255,
       "media": [
-        209
+        203
       ],
-      "name": "Isaac C. Parker Federal Courthouse",
-      "name_description": "Named for Judge Isaac C. Parker, this building is the current federal courthouse for the Western District of Arkansas.",
-      "type": "Federal Courthouse",
+      "name": "Gazebo near First Fort (Includes 3 WS)",
+      "name_description": "The panels discuss the founding of Fort Smith and those who served here from 1817-1824.",
+      "type": "Wayside Exhibit Panels",
+      "services": []
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 122,
+      "latitude": 35.3876854919939,
+      "longitude": -94.4325596094131,
+      "map_thumbnail_image": 257,
+      "media": [
+        204
+      ],
+      "name": "Flag of First Fort",
+      "name_description": "The first flag to fly over Fort Smith had 15 stars and 15 stripes, one for each state.",
+      "type": "Flag Pole",
       "services": []
     },
     {
@@ -1516,19 +1188,6 @@
     },
     {
       "geofence_buffer_in_meters": 10,
-      "id": 133,
-      "latitude": 35.3863341142767,
-      "longitude": -94.4270288944244,
-      "map_thumbnail_image": 268,
-      "media": [
-        211
-      ],
-      "name": "U.S. Marshall’s Museum Administrative Offices (Does this need AD?)",
-      "name_description": "Current location of the US Marshal Museum administrative offices, education, and fund-raising activities.",
-      "type": "Office Building"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
       "id": 134,
       "latitude": 35.387576158069,
       "longitude": -94.4283646345139,
@@ -1540,6 +1199,59 @@
       "name_description": "The museum focuses on the Fort Smith community, includes an operating soda fountain.  Open Tue - Sat 10-5 and Sun 12-5.",
       "type": "Public Museum",
       "services": []
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 116,
+      "latitude": 35.3885164249806,
+      "longitude": -94.4306311011314,
+      "map_thumbnail_image": 251,
+      "media": [
+        201
+      ],
+      "name": "Second Fort Smith Officers Quarters #1 (includes WS)",
+      "name_description": "One of two officers quarters constructed and used from 1838-1871. By 1870, chimney fires destroyed both buildings.",
+      "type": "Cement foundation"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 118,
+      "latitude": 35.388226,
+      "longitude": -94.431229,
+      "map_thumbnail_image": 253,
+      "media": [
+        202,
+        224
+      ],
+      "name": "Bastion #2 (includes Initial Point Marker and Belle Point Historical Marker)",
+      "name_description": "The quartermaster’s storehouse was built on top of the bastion. Nearby is a survey marker for the Arkansas border.",
+      "type": "Stone Markers"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 123,
+      "latitude": 35.38744,
+      "longitude": -94.432541,
+      "map_thumbnail_image": 258,
+      "media": [
+        205
+      ],
+      "name": "Block House of First Fort",
+      "name_description": "Built by soldiers, the blockhouse was a defensive structure. All that remains is the foundation.",
+      "type": "Stone foundation"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 133,
+      "latitude": 35.3863341142767,
+      "longitude": -94.4270288944244,
+      "map_thumbnail_image": 268,
+      "media": [
+        211
+      ],
+      "name": "U.S. Marshall’s Museum Administrative Offices (Does this need AD?)",
+      "name_description": "Current location of the US Marshal Museum administrative offices, education, and fund-raising activities.",
+      "type": "Office Building"
     },
     {
       "geofence_buffer_in_meters": 10,
@@ -1556,30 +1268,258 @@
     },
     {
       "geofence_buffer_in_meters": 10,
-      "id": 137,
-      "latitude": 35.383781,
-      "longitude": -94.429112,
-      "map_thumbnail_image": 272,
-      "media": [
-        215
-      ],
-      "name": "Grave Marker Issac C. Parker",
-      "name_description": "Located in the Fort Smith National Cemetery, the white headstone is inscribed with just his name and grave number.",
-      "type": "Stone Marker"
+      "id": 106,
+      "name": "Defending Freedom (WS)",
+      "name_description": "During the Civil War, four regiments of United States Colored Troops served in here, including one unit from the city.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
     },
     {
       "geofence_buffer_in_meters": 10,
-      "id": 118,
-      "latitude": 35.388226,
-      "longitude": -94.431229,
-      "map_thumbnail_image": 253,
+      "id": 105,
+      "latitude": 35.387913,
+      "longitude": -94.43054,
+      "map_thumbnail_image": 240,
+      "name": "Fort Wall (WS)",
+      "name_description": "Originally, the fort was surrounded by a stone wall 12’ high and 2’ feet thick. This fort was one of the last this type.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
+    },
+    {
+      "description": "Currently serving as the park’s Visitor Center, the building has served many purposes and undergone major architectural changes through the years. It was originally built as a one-story structure with basement during the second Fort Smith period (1838-1871). It served as the enlisted soldiers’ barracks and basement dining room. During the Federal Court period (1872-1896), the barracks became the courtroom, the basement became the “Hell on the Border” jail, and a second story was added. In 1888, the building changed again with the completion of a new three-story jail. Tour the building to experience the first jail and see first- hand why it earned the nickname of being “Hell on the Border”, and compare the improvement of conditions with the construction of the second jail. There are exhibits about tough outlaws, tougher lawmen, and the toughest of them all, Judge Isaac C. Parker. Other exhibits explore Fort Smith’s role in Westward Expansion and Federal Indian Policy.",
+      "geofence_buffer_in_meters": 10,
+      "id": 94,
+      "latitude": 35.3882758926279,
+      "longitude": -94.4297379255295,
+      "map_thumbnail_image": 229,
       "media": [
-        202,
-        224
+        186,
+        216
       ],
-      "name": "Bastion #2 (includes Initial Point Marker and Belle Point Historical Marker)",
-      "name_description": "The quartermaster’s storehouse was built on top of the bastion. Nearby is a survey marker for the Arkansas border.",
-      "type": "Stone Markers"
+      "name": "Barracks, Courthouse, Jail (WS) / Visitor Center",
+      "name_description": "Park’s Visitor Center, served as a soldiers’ barracks (1838-1871), converted to jail and courthouse in 1872.",
+      "type": "Visitor Center",
+      "services": []
+    },
+    {
+      "description": "Why execution by hanging? At the time, hanging was considered the most humane method of execution. When done properly, the neck is broken and death comes quickly.Murder, rape, treason, and obstruction of an execution were the only Federal crimes with an automatic death sentence. In Fort Smith, 81 men were hanged for murder and 5 for rape. Crowds in the thousands came to Fort Smith to watch the earlier executions before the fence was erected. Executions became private two years after Judge Parker arrived. In order to attend an execution one had to get permission from the U.S. Marshal by providing a reason to be there. Those who attended executions included reporters, clergy, medical personnel, family members of both the victim and the condemned.  The current gallows are a reproduction based on images and historic records. The original gallows was destroyed by the city of Fort Smith in 1897 because of the negative reputation it gave the city. Today the gallows stand as a stark reminder of the struggle for justice on the western frontier.",
+      "geofence_buffer_in_meters": 10,
+      "id": 95,
+      "latitude": 35.38755866,
+      "longitude": -94.4301939,
+      "map_thumbnail_image": 230,
+      "media": [
+        187,
+        217,
+        226
+      ],
+      "name": "The Gallows (includes 2 WS)",
+      "name_description": "Reproduction built on the location of the original gallows. From 1872 to 1896, 86 men were executed here.",
+      "type": "Building",
+      "services": []
+    },
+    {
+      "description": "The guardhouse, constructed in 1849, was a focal point of daily activity at the second Fort Smith serving as the initial check-in point for soldiers, supplies, and visitors. The guardhouse was also the place of confinement for soldiers under arrest for such offenses as drunkenness, desertion, or fighting. After the U.S. Army closed Fort Smith in 1871, the federal court converted the guardhouse into a jail for women.   If a female prisoner had a child and no family members or friends to take care of the child, he or she went to jail too. During the day, the children were allowed to play on the grounds. We know of at least to two children who served time with their mothers.  Crimes committed by women ranged from the illegal sale of whiskey to murder. When convicted, they received the same sentences as men – fines, jail time, or death by hanging. Although four women were sentenced to hang, none were executed at Fort Smith.",
+      "geofence_buffer_in_meters": 10,
+      "id": 96,
+      "latitude": 35.3889843676842,
+      "longitude": -94.4293570518494,
+      "map_thumbnail_image": 231,
+      "media": [
+        188,
+        218
+      ],
+      "name": "The Guardhouse (includes 2 WS)",
+      "name_description": "Guardhouse/jail for 2nd Fort Smith (1838-1871), became the women's jail during Federal Court period (1872-1896).",
+      "type": "Gazebo",
+      "services": []
+    },
+    {
+      "description": "In 1845, Quartermaster General Thomas Jesup inspected Fort Smith and ordered the fort to be converted into a supply depot. With its new mission, Fort Smith became one of the largest and busiest supply posts in the south.The commissary is the oldest building still standing in Fort Smith. Over the years its appearance and use changed dramatically. The building held food supplies for soldiers in Fort Smith and forts further west.  From 1875 – 1890, Federal Judge Isaac C. Parker’s office was on the second floor. The Hamersley family used the first floor as their home from 1890-1896.Today, the commissary is furnished with reproductions of supplies that the U.S. Army stored there in the 1850’s and as the 1890 Hamersley home.",
+      "geofence_buffer_in_meters": 10,
+      "id": 97,
+      "latitude": 35.38950479,
+      "longitude": -94.42999542,
+      "map_thumbnail_image": 232,
+      "media": [
+        189,
+        219,
+        227
+      ],
+      "name": "The Commissary (includes 2 WS outside and 2 WS inside)",
+      "name_description": "Built in 1846, when the fort’s mission shifted from defensive to a supply depot.",
+      "type": "Building",
+      "services": []
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 131,
+      "latitude": 35.3862510191151,
+      "longitude": -94.4271200895309,
+      "map_thumbnail_image": 266,
+      "media": [
+        209
+      ],
+      "name": "Isaac C. Parker Federal Courthouse",
+      "name_description": "Named for Judge Isaac C. Parker, this building is the current federal courthouse for the Western District of Arkansas.",
+      "type": "Federal Courthouse",
+      "services": []
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 104,
+      "latitude": 35.3876636252208,
+      "longitude": -94.4308537244797,
+      "map_thumbnail_image": 239,
+      "media": [
+        194
+      ],
+      "name": "Gazebo by Parking Lot (includes WS)",
+      "name_description": "Welcome to Fort Smith National Historic Site, the remains of two military forts and a federal court are preserved here.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 112,
+      "latitude": 35.38992462,
+      "longitude": -94.42993909,
+      "map_thumbnail_image": 247,
+      "media": [
+        197,
+        223
+      ],
+      "name": "Frisco Train Depot",
+      "name_description": "Frisco Train Depot was used from the early 1900s to the mid-1940s.",
+      "type": "Train Station",
+      "services": []
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 113,
+      "latitude": 35.3889078351847,
+      "longitude": -94.4302394986153,
+      "map_thumbnail_image": 248,
+      "media": [
+        198
+      ],
+      "name": "Second Fort Smith Officers Quarters #2",
+      "name_description": "One of two officers quarters constructed and used from 1838-1871. By 1870, chimney fires destroyed both buildings.",
+      "type": "Cement foundation",
+      "services": []
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 114,
+      "latitude": 35.3890084207405,
+      "longitude": -94.4303950667381,
+      "map_thumbnail_image": 249,
+      "media": [
+        199
+      ],
+      "name": "Officers' Garden (includes WS)",
+      "name_description": "The officers' garden is a re-creation of the 1860's garden. The officers’ wives and children cared for the garden.",
+      "type": "Garden",
+      "services": []
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 100,
+      "latitude": 35.3882037327822,
+      "longitude": -94.4289010763168,
+      "map_thumbnail_image": 235,
+      "name": "Welcome to Fort Smith - Main Entrance (WS)",
+      "name_description": "Welcome to Fort Smith National Historic Site, the remains of two military forts and a federal court are preserved here.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 102,
+      "latitude": 35.3875827181086,
+      "longitude": -94.4295662641525,
+      "map_thumbnail_image": 237,
+      "name": "Welcome to Fort Smith - Near Maintenance Building (WS)",
+      "name_description": "Welcome to Fort Smith National Historic Site, the remains of two military forts and a federal court are preserved here.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 111,
+      "latitude": 35.389153,
+      "longitude": 94.429466,
+      "map_thumbnail_image": 246,
+      "name": "The Parade Ground (WS)",
+      "name_description": "From 1846-1871 soldiers performed drill and ceremonies on the parade grounds, making it the center of life at the fort.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 117,
+      "latitude": 35.387852,
+      "longitude": -94.431206,
+      "map_thumbnail_image": 252,
+      "name": "A Disputed Boundary (WS)",
+      "name_description": "The boundary between Arkansas and Choctaw territory was originally incorrect due to a survey error.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 119,
+      "latitude": 35.388069,
+      "longitude": -94.431625,
+      "map_thumbnail_image": 254,
+      "name": "Whiskey War (WS)",
+      "name_description": "Soldiers fired a cannon in to the Bigalows tavern after the Bigalows beat-up the fort’s commander.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 121,
+      "latitude": 35.387497,
+      "longitude": -94.432312,
+      "map_thumbnail_image": 256,
+      "name": "Abandoned and Forgotten (WS)",
+      "name_description": "A pencil drawing of the first Fort Smith superimposed on a modern picture of the fort’s foundations.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 124,
+      "latitude": 35.387814,
+      "longitude": 94.43264,
+      "map_thumbnail_image": 259,
+      "name": "Request Denied (WS)",
+      "name_description": "In April 1821, 400 Osage warriors attempted to attack Fort Smith, hoping to scare the soldiers.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 125,
+      "latitude": 35.387581,
+      "longitude": -94.432739,
+      "map_thumbnail_image": 260,
+      "name": "Pioneering Solders (WS)",
+      "name_description": "Along with their military duties, soldiers were responsible for hunting, gardening, and building the fort.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 126,
+      "latitude": 35.387016,
+      "longitude": -94.433029,
+      "map_thumbnail_image": 261,
+      "name": "Osage Nation (WS)",
+      "name_description": "Over 72 years the Osage were forced through treaties to surrender a majority of their homeland.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
     },
     {
       "geofence_buffer_in_meters": 10,
@@ -1599,6 +1539,74 @@
     },
     {
       "geofence_buffer_in_meters": 10,
+      "id": 127,
+      "name": "Desperate for Survival (WS)",
+      "name_description": "From 1863-1865, the riverfront landing was often filled with refugees  hoping to escape the devastation of Civil War.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 109,
+      "latitude": 35.38855578,
+      "longitude": -94.43016708,
+      "map_thumbnail_image": 244,
+      "media": [
+        195,
+        222
+      ],
+      "name": "Flag Pole (includes Wayside)",
+      "name_description": "The flagpole (99 ft.) is a reproduction of the original built in 1846. This height allows the flag to be seen for miles.",
+      "type": "Flag Pole and Sign"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 115,
+      "latitude": 35.3886716773,
+      "longitude": -94.4304460287094,
+      "map_thumbnail_image": 250,
+      "media": [
+        200
+      ],
+      "name": "Cistern",
+      "name_description": "Before running water and indoor plumbing, soldiers dug this cistern in 1869 to collect rainwater.",
+      "type": "Stone Water Collector"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 137,
+      "latitude": 35.383781,
+      "longitude": -94.429112,
+      "map_thumbnail_image": 272,
+      "media": [
+        215
+      ],
+      "name": "Grave Marker Issac C. Parker",
+      "name_description": "Located in the Fort Smith National Cemetery, the white headstone is inscribed with just his name and grave number.",
+      "type": "Stone Marker"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 101,
+      "media": [
+        192
+      ],
+      "name": "Bastion #4",
+      "name_description": "One of five bastions or gun emplacements that would have defended the fort if attacked.",
+      "type": "Fort Wall Foundation"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 103,
+      "media": [
+        193
+      ],
+      "name": "Bastion #3",
+      "name_description": "One of five bastions or gun emplacements that would have defended the fort if attacked",
+      "type": "Fort Wall Foundation"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
       "id": 110,
       "media": [
         196
@@ -1606,14 +1614,6 @@
       "name": "Bastion #5",
       "name_description": "One of five bastions or gun emplacements that would have defended the fort if attacked",
       "type": "Fort Wall Foundation"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 127,
-      "name": "Desperate for Survival (WS)",
-      "name_description": "From 1863-1865, the riverfront landing was often filled with refugees  hoping to escape the devastation of Civil War.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
     },
     {
       "geofence_buffer_in_meters": 10,
