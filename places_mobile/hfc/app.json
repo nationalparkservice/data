@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "Lesser Know",
+      "name": "Lesser Known",
       "sites": [
         78,
         79
@@ -178,6 +178,24 @@
   "sites": [
     {
       "geofence_buffer_in_meters": 10,
+      "id": 75,
+      "latitude": 39.3231353,
+      "longitude": -77.7423531,
+      "map_thumbnail_image": 159,
+      "name": "Point 6",
+      "primary_image": 143
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 76,
+      "latitude": 39.3234714,
+      "longitude": -77.7417925,
+      "map_thumbnail_image": 160,
+      "name": "Point 7",
+      "primary_image": 143
+    },
+    {
+      "geofence_buffer_in_meters": 10,
       "id": 77,
       "latitude": 39.3242723,
       "longitude": -77.7413875,
@@ -196,6 +214,15 @@
     },
     {
       "geofence_buffer_in_meters": 10,
+      "id": 71,
+      "latitude": 39.3241105,
+      "longitude": -77.7428681,
+      "map_thumbnail_image": 155,
+      "name": "Point 2",
+      "primary_image": 143
+    },
+    {
+      "geofence_buffer_in_meters": 10,
       "id": 79,
       "latitude": 39.3248658,
       "longitude": -77.7426562,
@@ -210,15 +237,6 @@
       "longitude": -77.7433616,
       "map_thumbnail_image": 154,
       "name": "Point 1",
-      "primary_image": 143
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 71,
-      "latitude": 39.3241105,
-      "longitude": -77.7428681,
-      "map_thumbnail_image": 155,
-      "name": "Point 2",
       "primary_image": 143
     },
     {
@@ -246,24 +264,6 @@
       "longitude": -77.7425314,
       "map_thumbnail_image": 158,
       "name": "Point 5",
-      "primary_image": 143
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 75,
-      "latitude": 39.3231353,
-      "longitude": -77.7423531,
-      "map_thumbnail_image": 159,
-      "name": "Point 6",
-      "primary_image": 143
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 76,
-      "latitude": 39.3234714,
-      "longitude": -77.7417925,
-      "map_thumbnail_image": 160,
-      "name": "Point 7",
       "primary_image": 143
     }
   ],
