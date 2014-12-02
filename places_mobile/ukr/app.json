@@ -153,6 +153,33 @@
   "searches": [],
   "sites": [
     {
+      "description": "Ukr Site #3",
+      "geofence_buffer_in_meters": 10,
+      "id": 86,
+      "latitude": 49.98984,
+      "longitude": 36.234605,
+      "map_thumbnail_image": 177,
+      "name": "Ukr Site 3"
+    },
+    {
+      "description": "Ukr Site #6",
+      "geofence_buffer_in_meters": 10,
+      "id": 89,
+      "latitude": 49.980948,
+      "longitude": 36.147245,
+      "map_thumbnail_image": 180,
+      "name": "Ukr Site 6"
+    },
+    {
+      "description": "Ukr Site #10",
+      "geofence_buffer_in_meters": 10,
+      "id": 93,
+      "latitude": 50.035205,
+      "longitude": 36.220644,
+      "map_thumbnail_image": 184,
+      "name": "Ukr Site 10"
+    },
+    {
       "description": "Ukr Site #1",
       "geofence_buffer_in_meters": 10,
       "id": 84,
@@ -160,15 +187,6 @@
       "longitude": 36.232275,
       "map_thumbnail_image": 175,
       "name": "Ukr Site 1"
-    },
-    {
-      "description": "Ukr Site #4",
-      "geofence_buffer_in_meters": 10,
-      "id": 87,
-      "latitude": 49.996943,
-      "longitude": 36.189767,
-      "map_thumbnail_image": 178,
-      "name": "Ukr Site 4"
     },
     {
       "description": "Ukr Site #2",
@@ -189,42 +207,6 @@
       "name": "Ukr Site 7"
     },
     {
-      "description": "Ukr Site #3",
-      "geofence_buffer_in_meters": 10,
-      "id": 86,
-      "latitude": 49.98984,
-      "longitude": 36.234605,
-      "map_thumbnail_image": 177,
-      "name": "Ukr Site 3"
-    },
-    {
-      "description": "Ukr Site #5",
-      "geofence_buffer_in_meters": 10,
-      "id": 88,
-      "latitude": 49.993455,
-      "longitude": 36.239619,
-      "map_thumbnail_image": 179,
-      "name": "Ukr Site 5"
-    },
-    {
-      "description": "Ukr Site #10",
-      "geofence_buffer_in_meters": 10,
-      "id": 93,
-      "latitude": 50.035205,
-      "longitude": 36.220644,
-      "map_thumbnail_image": 184,
-      "name": "Ukr Site 10"
-    },
-    {
-      "description": "Ukr Site #6",
-      "geofence_buffer_in_meters": 10,
-      "id": 89,
-      "latitude": 49.980948,
-      "longitude": 36.147245,
-      "map_thumbnail_image": 180,
-      "name": "Ukr Site 6"
-    },
-    {
       "description": "Ukr Site #8",
       "geofence_buffer_in_meters": 10,
       "id": 91,
@@ -241,6 +223,24 @@
       "longitude": 36.231708,
       "map_thumbnail_image": 183,
       "name": "Ukr Site 9"
+    },
+    {
+      "description": "Ukr Site #4",
+      "geofence_buffer_in_meters": 10,
+      "id": 87,
+      "latitude": 49.996943,
+      "longitude": 36.189767,
+      "map_thumbnail_image": 178,
+      "name": "Ukr Site 4"
+    },
+    {
+      "description": "Ukr Site #5",
+      "geofence_buffer_in_meters": 10,
+      "id": 88,
+      "latitude": 49.993455,
+      "longitude": 36.239619,
+      "map_thumbnail_image": 179,
+      "name": "Ukr Site 5"
     }
   ],
   "tours": [],
