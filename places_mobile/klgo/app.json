@@ -1457,12 +1457,12 @@
     {
       "disp_order": 2,
       "is_feature": true,
-      "name": "Augmented Reality",
+      "name": "Park Lens",
       "type": "AUGMENTED_REALITY"
     },
     {
       "disp_order": 3,
-      "name": "Download",
+      "name": "Settings",
       "type": "DOWNLOAD"
     },
     {
@@ -1472,7 +1472,7 @@
     },
     {
       "disp_order": 5,
-      "name": "Park Info",
+      "name": "Park Info & FAQs",
       "type": "INFORMATION",
       "pages": [
         {
