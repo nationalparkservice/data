@@ -1489,12 +1489,6 @@
               "name": "About"
             },
             {
-              "description": "This is the Credits page!",
-              "header": "Credits",
-              "image_position": "top",
-              "name": "Credits"
-            },
-            {
               "faq_subsections": [
                 {
                   "question": "How many cruise ships come into Skagway each day?",
@@ -1506,6 +1500,12 @@
                 }
               ],
               "name": "Visiting FAQ's"
+            },
+            {
+              "description": "This is the Credits page!",
+              "header": "Credits",
+              "image_position": "top",
+              "name": "Credits"
             }
           ]
         }
