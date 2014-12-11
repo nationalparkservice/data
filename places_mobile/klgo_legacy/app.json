@@ -1101,12 +1101,6 @@
       "type": "image"
     },
     {
-      "id": 13,
-      "name": "A Demo Audio File",
-      "relative_url": "13.m4a",
-      "type": "audio"
-    },
-    {
       "alt": "Map thumbnail for Visitor Center",
       "caption": "Map thumbnail for Visitor Center",
       "id": 170,
@@ -1461,6 +1455,13 @@
       "caption": "Background image: Historic photograph of man in canoe with mountains in background. Photo Caption: Tlingit canoe, Dyea, 1899. Tlingit language translation courtesy Skagway Traditional Council. Photo Credit: Vogee photograph, courtesy Yukon Archives.",
       "id": 58,
       "type": "image"
+    },
+    {
+      "id": 13,
+      "name": "A Demo Audio File",
+      "relative_url": "13.m4a",
+      "transcript": "Sample transcript text for tour audio",
+      "type": "audio"
     }
   ],
   "more": [
