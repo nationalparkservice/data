@@ -1832,42 +1832,6 @@
       ]
     },
     {
-      "description": "Start your visit with an introduction to Herbert Hoover and his hometown of West Branch.",
-      "geofence_buffer_in_meters": 10,
-      "id": 80,
-      "information": [
-        {
-          "description": "Allow yourself at least 30 minutes in the Visitor Center, which is open from 9:00 a.m. to 5:00 p.m. daily. Multimedia exhibits, which include Herbert Hoover’s original cradle and high chair, tell about his childhood in West Branch and his later involvement in developing the park which commemorates his life. The 12-minute film Adventure and Great Undertakings: Herbert Hoover's Childhood in West Branch is played on request. Children can get started on their activity books to become Junior Rangers. An art gallery interprets the park through the works of artists-in-residence.\nFederal Recreational Lands Passes are on sale at the Visitor Center. Books, educational items, and gifts are available for purchase from the Eastern National Bookstore inside the Visitor Center.",
-          "name": "Visiting\n"
-        },
-        {
-          "description": "Open daily from 9:00 a.m. to 5:00 p.m., except on Thanksgiving Day, December 25, and January 1.",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 41.670851,
-      "longitude": -91.34572,
-      "map_thumbnail_image": 168,
-      "name": "Visitor Center",
-      "name_description": "Start your visit with an introduction to Herbert Hoover and his hometown of West Branch.",
-      "primary_image": 164,
-      "type": "Building",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        },
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
       "geofence_buffer_in_meters": 10,
       "id": 9,
       "information": [
