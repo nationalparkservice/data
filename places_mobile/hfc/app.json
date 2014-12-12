@@ -232,15 +232,6 @@
     },
     {
       "geofence_buffer_in_meters": 10,
-      "id": 70,
-      "latitude": 39.3237287,
-      "longitude": -77.7433616,
-      "map_thumbnail_image": 154,
-      "name": "Point 1",
-      "primary_image": 143
-    },
-    {
-      "geofence_buffer_in_meters": 10,
       "id": 72,
       "latitude": 39.323655,
       "longitude": -77.7428573,
@@ -264,6 +255,15 @@
       "longitude": -77.7425314,
       "map_thumbnail_image": 158,
       "name": "Point 5",
+      "primary_image": 143
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 70,
+      "latitude": 39.323513,
+      "longitude": -77.740514,
+      "map_thumbnail_image": 154,
+      "name": "Point 1",
       "primary_image": 143
     }
   ],
