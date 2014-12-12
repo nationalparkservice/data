@@ -100,20 +100,20 @@
       "title": "Hey Kids! Visit the Junior Ranger Activity Center"
     },
     {
-      "dates": [
-        "2014-10-2\n"
-      ],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "home_description": "Park Museum Auditorium 3pm - Free",
-      "name": "special",
-      "title": "The sinking of the S.S. Oak. Special presentation"
-    },
-    {
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun",
       "home_description": "Visitor Center – Hourly from 8 to 5",
       "site_id": "1",
       "title": "Movie \"Gold Fever: Race to the Klondike\""
+    },
+    {
+      "dates": [
+        "2014-12-18\n"
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "home_description": "Park Museum Auditorium 3pm - Free",
+      "name": "special",
+      "title": "The sinking of the S.S. Oak. Special presentation"
     }
   ],
   "faqs": [
@@ -1962,6 +1962,32 @@
       ]
     },
     {
+      "description": "Herbert called his birthplace \"physical proof of the unbounded opportunity of American life.\"",
+      "geofence_buffer_in_meters": 10,
+      "id": 81,
+      "information": [
+        {
+          "description": "In the years following his presidency, Herbert and Lou Hoover restored the president's humble birthplace, which he called \"physical proof of the unbounded opportunity of American life.\" The small spaces and dearth of material possession reflect an ethic of thrift, and the cottage's status as a starter home for a young family. Antique furnishings from the mid and late 19th century represent common household items for a simply furnished two room rural home.",
+          "name": "Post Presidency"
+        }
+      ],
+      "latitude": 41.67027,
+      "longitude": -91.346873,
+      "map_thumbnail_image": 169,
+      "name": "Birthplace Cottage",
+      "name_description": "Herbert called his birthplace \"physical proof of the unbounded opportunity of American life.\"",
+      "primary_image": 165,
+      "type": "Historic Home",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        }
+      ]
+    },
+    {
       "description": "Managed by the municipality of Skagway, the Dyea Flats offer a natural area for wildlife viewing, photography and exploring a coastal community teeming with life.  In the spring and summer, colorful wildflowers blanket the area. The Long Wharf, originally 7,500 feet in length, was constructed at the height of the Klondike Gold Rush to stretch the distance of the tidal mud flats. Remnants of its piling are still visible on the Dyea Flats.",
       "geofence_buffer_in_meters": 10,
       "id": 53,
@@ -2017,32 +2043,6 @@
       "name_description": "This is the historic townsite of Dyea, Alaska, a boomtown gone bust. Picnic tables, exhibits, and brochures can be found here.",
       "primary_image": 65,
       "type": "Park",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        }
-      ]
-    },
-    {
-      "description": "Herbert called his birthplace \"physical proof of the unbounded opportunity of American life.\"",
-      "geofence_buffer_in_meters": 10,
-      "id": 81,
-      "information": [
-        {
-          "description": "In the years following his presidency, Herbert and Lou Hoover restored the president's humble birthplace, which he called \"physical proof of the unbounded opportunity of American life.\" The small spaces and dearth of material possession reflect an ethic of thrift, and the cottage's status as a starter home for a young family. Antique furnishings from the mid and late 19th century represent common household items for a simply furnished two room rural home.",
-          "name": "Post Presidency"
-        }
-      ],
-      "latitude": 41.67027,
-      "longitude": -91.346873,
-      "map_thumbnail_image": 169,
-      "name": "Birthplace Cottage",
-      "name_description": "Herbert called his birthplace \"physical proof of the unbounded opportunity of American life.\"",
-      "primary_image": 165,
-      "type": "Historic Home",
       "services": [
         {
           "description": "Restroom",
