@@ -43,61 +43,6 @@
   "max_distance_in_meters": 1609.3,
   "media": [
     {
-      "alt": "Test Data Set Images 10032014/1.jpg",
-      "caption": "Test Data Set Images 10032014/1.jpg",
-      "id": 133,
-      "name": "Test Data Set Images 10032014/1.jpg",
-      "relative_url": "133.png",
-      "relative_url_@2x": "133@2x.png",
-      "relative_url_tablet": "133_tablet.png",
-      "relative_url_tablet_@2x": "133_tablet_2x.png",
-      "type": "image"
-    },
-    {
-      "alt": "Map Thumbnail for Red Front Building (id: 150)",
-      "caption": "Map Thumbnail for Red Front Building (id: 150)",
-      "id": 150,
-      "name": "Map Thumbnail for Red Front Building (id: 150)",
-      "relative_url": "150.png",
-      "relative_url_@2x": "150@2x.png",
-      "relative_url_tablet": "150_tablet.png",
-      "relative_url_tablet_@2x": "150_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Red Front Building (id: 149)",
-      "caption": "Map Thumbnail for Red Front Building (id: 149)",
-      "id": 149,
-      "name": "Map Thumbnail for Red Front Building (id: 149)",
-      "relative_url": "149.png",
-      "relative_url_@2x": "149@2x.png",
-      "relative_url_tablet": "149_tablet.png",
-      "relative_url_tablet_@2x": "149_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Red Front Building (id: 148)",
-      "caption": "Map Thumbnail for Red Front Building (id: 148)",
-      "id": 148,
-      "name": "Map Thumbnail for Red Front Building (id: 148)",
-      "relative_url": "148.png",
-      "relative_url_@2x": "148@2x.png",
-      "relative_url_tablet": "148_tablet.png",
-      "relative_url_tablet_@2x": "148_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Red Front Building (id: 147)",
-      "caption": "Map Thumbnail for Red Front Building (id: 147)",
-      "id": 147,
-      "name": "Map Thumbnail for Red Front Building (id: 147)",
-      "relative_url": "147.png",
-      "relative_url_@2x": "147@2x.png",
-      "relative_url_tablet": "147_tablet.png",
-      "relative_url_tablet_@2x": "147_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
       "alt": "Map Thumbnail for Red Front Building (id: 146)",
       "caption": "Map Thumbnail for Red Front Building (id: 146)",
       "id": 146,
@@ -128,6 +73,39 @@
       "relative_url_@2x": "144@2x.png",
       "relative_url_tablet": "144_tablet.png",
       "relative_url_tablet_@2x": "144_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Red Front Building (id: 147)",
+      "caption": "Map Thumbnail for Red Front Building (id: 147)",
+      "id": 147,
+      "name": "Map Thumbnail for Red Front Building (id: 147)",
+      "relative_url": "147.png",
+      "relative_url_@2x": "147@2x.png",
+      "relative_url_tablet": "147_tablet.png",
+      "relative_url_tablet_@2x": "147_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Test Data Set Images 10032014/6.jpg",
+      "caption": "Test Data Set Images 10032014/6.jpg",
+      "id": 138,
+      "name": "Test Data Set Images 10032014/6.jpg",
+      "relative_url": "138.png",
+      "relative_url_@2x": "138@2x.png",
+      "relative_url_tablet": "138_tablet.png",
+      "relative_url_tablet_@2x": "138_tablet_2x.png",
+      "type": "image"
+    },
+    {
+      "alt": "Map Thumbnail for Red Front Building (id: 148)",
+      "caption": "Map Thumbnail for Red Front Building (id: 148)",
+      "id": 148,
+      "name": "Map Thumbnail for Red Front Building (id: 148)",
+      "relative_url": "148.png",
+      "relative_url_@2x": "148@2x.png",
+      "relative_url_tablet": "148_tablet.png",
+      "relative_url_tablet_@2x": "148_tablet_2x.png",
       "type": "map_thumbnail"
     },
     {
@@ -186,15 +164,37 @@
       "type": "image"
     },
     {
-      "alt": "Test Data Set Images 10032014/6.jpg",
-      "caption": "Test Data Set Images 10032014/6.jpg",
-      "id": 138,
-      "name": "Test Data Set Images 10032014/6.jpg",
-      "relative_url": "138.png",
-      "relative_url_@2x": "138@2x.png",
-      "relative_url_tablet": "138_tablet.png",
-      "relative_url_tablet_@2x": "138_tablet_2x.png",
+      "alt": "Test Data Set Images 10032014/1.jpg",
+      "caption": "Test Data Set Images 10032014/1.jpg",
+      "id": 133,
+      "name": "Test Data Set Images 10032014/1.jpg",
+      "relative_url": "133.png",
+      "relative_url_@2x": "133@2x.png",
+      "relative_url_tablet": "133_tablet.png",
+      "relative_url_tablet_@2x": "133_tablet_2x.png",
       "type": "image"
+    },
+    {
+      "alt": "Map Thumbnail for Red Front Building (id: 150)",
+      "caption": "Map Thumbnail for Red Front Building (id: 150)",
+      "id": 150,
+      "name": "Map Thumbnail for Red Front Building (id: 150)",
+      "relative_url": "150.png",
+      "relative_url_@2x": "150@2x.png",
+      "relative_url_tablet": "150_tablet.png",
+      "relative_url_tablet_@2x": "150_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Red Front Building (id: 149)",
+      "caption": "Map Thumbnail for Red Front Building (id: 149)",
+      "id": 149,
+      "name": "Map Thumbnail for Red Front Building (id: 149)",
+      "relative_url": "149.png",
+      "relative_url_@2x": "149@2x.png",
+      "relative_url_tablet": "149_tablet.png",
+      "relative_url_tablet_@2x": "149_tablet_2x.png",
+      "type": "map_thumbnail"
     },
     {
       "alt": "Test Data Set Images 10032014/7.jpg",
