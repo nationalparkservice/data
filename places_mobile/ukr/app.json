@@ -38,17 +38,6 @@
   "max_distance_in_meters": 1609.3,
   "media": [
     {
-      "alt": "Alt text for Ukr Site 1",
-      "caption": "Caption text for Ukr Site 1",
-      "id": 175,
-      "name": "Name text for Ukr Site 1",
-      "relative_url": "175.png",
-      "relative_url_@2x": "175@2x.png",
-      "relative_url_tablet": "175_tablet.png",
-      "relative_url_tablet_@2x": "175_tablet@2x.png",
-      "type": "map_thumbnail"
-    },
-    {
       "alt": "Alt text for Ukr Site 9",
       "caption": "Caption text for Ukr Site 9",
       "id": 183,
@@ -145,6 +134,17 @@
       "relative_url_@2x": "182@2x.png",
       "relative_url_tablet": "182_tablet.png",
       "relative_url_tablet_@2x": "182_tablet@2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Alt text for Ukr Site 1",
+      "caption": "Caption text for Ukr Site 1",
+      "id": 175,
+      "name": "Name text for Ukr Site 1",
+      "relative_url": "175.png",
+      "relative_url_@2x": "175@2x.png",
+      "relative_url_tablet": "175_tablet.png",
+      "relative_url_tablet_@2x": "175_tablet@2x.png",
       "type": "map_thumbnail"
     }
   ],
