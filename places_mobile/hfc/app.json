@@ -45,6 +45,28 @@
   "max_distance_in_meters": 1609.3,
   "media": [
     {
+      "alt": "Map Thumbnail for Red Front Building (id: 159)",
+      "caption": "Map Thumbnail for Red Front Building (id: 159)",
+      "id": 159,
+      "name": "Map Thumbnail for Red Front Building (id: 159)",
+      "relative_url": "159.png",
+      "relative_url_@2x": "159@2x.png",
+      "relative_url_tablet": "159_tablet.png",
+      "relative_url_tablet_@2x": "159_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Red Front Building (id: 158)",
+      "caption": "Map Thumbnail for Red Front Building (id: 158)",
+      "id": 158,
+      "name": "Map Thumbnail for Red Front Building (id: 158)",
+      "relative_url": "158.png",
+      "relative_url_@2x": "158@2x.png",
+      "relative_url_tablet": "158_tablet.png",
+      "relative_url_tablet_@2x": "158_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
       "alt": "Test Data Set Images 10032014/11.jpg",
       "caption": "Test Data Set Images 10032014/11.jpg",
       "id": 143,
@@ -54,6 +76,28 @@
       "relative_url_tablet": "143_tablet.png",
       "relative_url_tablet_@2x": "143_tablet_2x.png",
       "type": "image"
+    },
+    {
+      "alt": "Map Thumbnail for Red Front Building (id: 155)",
+      "caption": "Map Thumbnail for Red Front Building (id: 155)",
+      "id": 155,
+      "name": "Map Thumbnail for Red Front Building (id: 155)",
+      "relative_url": "155.png",
+      "relative_url_@2x": "155@2x.png",
+      "relative_url_tablet": "155_tablet.png",
+      "relative_url_tablet_@2x": "155_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Red Front Building (id: 154)",
+      "caption": "Map Thumbnail for Red Front Building (id: 154)",
+      "id": 154,
+      "name": "Map Thumbnail for Red Front Building (id: 154)",
+      "relative_url": "154.png",
+      "relative_url_@2x": "154@2x.png",
+      "relative_url_tablet": "154_tablet.png",
+      "relative_url_tablet_@2x": "154_tablet_2x.png",
+      "type": "map_thumbnail"
     },
     {
       "alt": "Map Thumbnail for Red Front Building (id: 161)",
@@ -78,28 +122,6 @@
       "type": "map_thumbnail"
     },
     {
-      "alt": "Map Thumbnail for Red Front Building (id: 159)",
-      "caption": "Map Thumbnail for Red Front Building (id: 159)",
-      "id": 159,
-      "name": "Map Thumbnail for Red Front Building (id: 159)",
-      "relative_url": "159.png",
-      "relative_url_@2x": "159@2x.png",
-      "relative_url_tablet": "159_tablet.png",
-      "relative_url_tablet_@2x": "159_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Red Front Building (id: 158)",
-      "caption": "Map Thumbnail for Red Front Building (id: 158)",
-      "id": 158,
-      "name": "Map Thumbnail for Red Front Building (id: 158)",
-      "relative_url": "158.png",
-      "relative_url_@2x": "158@2x.png",
-      "relative_url_tablet": "158_tablet.png",
-      "relative_url_tablet_@2x": "158_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
       "alt": "Map Thumbnail for Red Front Building (id: 157)",
       "caption": "Map Thumbnail for Red Front Building (id: 157)",
       "id": 157,
@@ -119,28 +141,6 @@
       "relative_url_@2x": "156@2x.png",
       "relative_url_tablet": "156_tablet.png",
       "relative_url_tablet_@2x": "156_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Red Front Building (id: 155)",
-      "caption": "Map Thumbnail for Red Front Building (id: 155)",
-      "id": 155,
-      "name": "Map Thumbnail for Red Front Building (id: 155)",
-      "relative_url": "155.png",
-      "relative_url_@2x": "155@2x.png",
-      "relative_url_tablet": "155_tablet.png",
-      "relative_url_tablet_@2x": "155_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Red Front Building (id: 154)",
-      "caption": "Map Thumbnail for Red Front Building (id: 154)",
-      "id": 154,
-      "name": "Map Thumbnail for Red Front Building (id: 154)",
-      "relative_url": "154.png",
-      "relative_url_@2x": "154@2x.png",
-      "relative_url_tablet": "154_tablet.png",
-      "relative_url_tablet_@2x": "154_tablet_2x.png",
       "type": "map_thumbnail"
     },
     {
