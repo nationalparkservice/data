@@ -3,7 +3,17 @@
   "categories": [
     {
       "description": "Visit these twelve “must-see” sites for a glimpse into Skagway’s colorful past—and present.",
-      "name": "Highlights"
+      "name": "Highlights",
+      "sites": [
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390
+      ]
     },
     {
       "name": "Favorites"
@@ -99,15 +109,6 @@
       "type": "Church"
     },
     {
-      "description": "Herbert Hoover recalled, “Iowa in those years was filled with days of school, and who does not remember with a glow, some gentle woman, who with infinite patience and kindness, drilled into us those foundations of all we know today.”",
-      "geofence_buffer_in_meters": 10,
-      "id": 386,
-      "latitude": 41.6705436591218,
-      "longitude": -91.3473808765411,
-      "name": "Schoolhouse",
-      "type": "School"
-    },
-    {
       "description": "Jesse Hoover owned and operated a blacksmith shop from 1871 to 1878. Although there were other smithies in town, Jesse earned a reputation as a good-natured, fair, and industrious businessman. Skilled and ambitious, he advertised to farmers, “Horse shoeing and plow work a specialty. Also dealer in all kinds of pumps. Prices to suit the times.”",
       "geofence_buffer_in_meters": 10,
       "id": 385,
@@ -124,6 +125,15 @@
       "longitude": -91.3457044959068,
       "name": "Birthplace Cottage",
       "type": "Home"
+    },
+    {
+      "description": "Herbert Hoover recalled, “Iowa in those years was filled with days of school, and who does not remember with a glow, some gentle woman, who with infinite patience and kindness, drilled into us those foundations of all we know today.”",
+      "geofence_buffer_in_meters": 10,
+      "id": 386,
+      "latitude": 41.6705426573434,
+      "longitude": -91.3473741710186,
+      "name": "Schoolhouse",
+      "type": "School"
     },
     {
       "description": "For thirty-six years Dr. L.J. Leech, a Civil War veteran and graduate of Iowa State University, had lived in the Laban Miles House next door; renting it at first in 1884, and then buying it two years later when the bank foreclosed on the home. By 1920, the well-liked country doctor and Iowa legislator decided to have a new home built for himself.",
@@ -144,24 +154,6 @@
       "type": "Office"
     },
     {
-      "description": "West Branch boomed between 1869 and 1873. New buildings constructed in the neighborhood near the Hoovers’ small cottage on Downey Street included the Laban Miles House, the Garvin House, and the Methodist Church, which is no longer standing. When the Burlington, Cedar Rapids & Northern Railroad arrived in West Branch on December 20, 1870, two hundred of the town’s residents celebrated with a picnic dinner.",
-      "geofence_buffer_in_meters": 10,
-      "id": 397,
-      "latitude": 41.6701850214702,
-      "longitude": -91.3460397720337,
-      "name": "Historic Homes on Downey Street (incl. WS)",
-      "type": "Block"
-    },
-    {
-      "description": "The South Downey Street Bridge extends across a tributary of the West Branch of the Wapsinonoc Creek. When Herbert Hoover was a boy, it was just a small stream of water trickling through marshy wetlands. Young Herbert and the neighborhood kids took their willow fishing poles about a quarter mile east to catch sunfish and catfish in the main creek.",
-      "geofence_buffer_in_meters": 10,
-      "id": 396,
-      "latitude": 41.670187025038,
-      "longitude": -91.3459673523903,
-      "name": "Hoover Creek at the South Downey Street Bridge",
-      "type": "Bridge"
-    },
-    {
       "description": "The 81 acres of tallgrass prairie reconstructed here offer a glimpse of an Iowa landscape that had almost vanished by the time Herbert Hoover's grandparents moved here in 1854. Prior to the settlement of West Branch, prairie covered 85 percent of Iowa. Trees were scarce until planted; the Hoovers imported lumber from farther north for construction of the president’s birthplace. Tall native grasses, sprinkled with brilliantly colored wildflowers once covered these rolling hills for as far as the eye could see.",
       "geofence_buffer_in_meters": 10,
       "id": 395,
@@ -169,24 +161,6 @@
       "longitude": -91.3512325286865,
       "name": "Tallgrass Prairie at the Observation Deck",
       "type": "Trailhead"
-    },
-    {
-      "description": "In 1951 Herbert Hoover became the first recipient of the prestigious Iowa Award, which is bestowed to “recognize the outstanding service of Iowans in the fields of science, medicine, law, religion, social welfare education, agriculture, industry, government and other public service.” Only 12 other Iowans have received this award.",
-      "geofence_buffer_in_meters": 10,
-      "id": 394,
-      "latitude": 41.670187025038,
-      "longitude": -91.345908343792,
-      "name": "Iowa Award",
-      "type": "Plaque"
-    },
-    {
-      "description": "In 1871 young Jesse Hoover constructed a blacksmith and wagon repair shop here on the corner of Penn and Downey streets. His business thrived in the rapidly growing village. In 1878 Jesse sold both his shop and the small cottage he had built across Penn Street, and opened a farm implement business a few blocks away on Main Street. In 1888 the original building was moved to another part of town, and was subsequently lost to history.",
-      "geofence_buffer_in_meters": 10,
-      "id": 393,
-      "latitude": 41.6701830179022,
-      "longitude": -91.3458439707756,
-      "name": "Blacksmith Shop Original Site",
-      "type": "Site"
     },
     {
       "geofence_buffer_in_meters": 10,
@@ -214,40 +188,40 @@
       "type": "Graves"
     },
     {
-      "description": "In 1938 Lou Henry Hoover suggested establishing an organization to own and manage the birthplace. The Herbert Hoover Birthplace Society was organized the following year.",
+      "description": "In 1871 young Jesse Hoover constructed a blacksmith and wagon repair shop here on the corner of Penn and Downey streets. His business thrived in the rapidly growing village. In 1878 Jesse sold both his shop and the small cottage he had built across Penn Street, and opened a farm implement business a few blocks away on Main Street. In 1888 the original building was moved to another part of town, and was subsequently lost to history.",
       "geofence_buffer_in_meters": 10,
-      "id": 412,
-      "latitude": 41.6702351106477,
-      "longitude": -91.3458627462387,
-      "name": "Hoover Presidential Foundation",
-      "type": "Nonprofit"
-    },
-    {
-      "description": "Isaac Miles was a widower with two young daughters when he moved to West Branch in 1874 and opened a drugstore. Three years later, he met and married a young woman, who had inherited 100 acres of farmland to the southwest of the Hoover cottage. So Miles sold his drugstore and decided to give farming a try. And as soon as the two-story frame house and barn were built, the new family moved in. Isaac's daughters, Providence and Abbie were around the same age as the Hoover children, and it's likely they played together in this rural playground filled with natural wonders.",
-      "geofence_buffer_in_meters": 10,
-      "id": 410,
-      "latitude": 41.6702691712661,
-      "longitude": -91.3458117842674,
-      "name": "Isaac Miles Farmstead",
-      "type": "Historic Buildings"
-    },
-    {
-      "description": "The P.T. Smith House is the only house that Herbert Hoover remembered when he visited West Branch many years later. While living in the House of Maples, the Hoover children and Smith children were playmates. Their homes stood at the base of Cook's Hill, a favorite winter sledding spot. Hoover recalled, \"That was a great long hill where on winters’ nights, to satisfy our human craving for speed, we slid down at terrific pace with our tummies tight to home-made sleds.\"",
-      "geofence_buffer_in_meters": 10,
-      "id": 409,
-      "latitude": 41.6702311035149,
-      "longitude": -91.3458117842674,
-      "name": "P.T. Smith House",
-      "type": "Historic Building"
-    },
-    {
-      "description": "A lone maple tree grows on the land where the Hoover family's second home once stood. The one-acre parcel, on the corner of Downey and Cedar streets, had a two-story frame house with two chimneys. Maple trees lined the front yard and a wild crabapple tree grew in back of the spacious four-room home.",
-      "geofence_buffer_in_meters": 10,
-      "id": 408,
-      "latitude": 41.6702651641355,
-      "longitude": -91.3457581400871,
-      "name": "House of the Maples Site",
+      "id": 393,
+      "latitude": 41.6704414776481,
+      "longitude": -91.3468243181705,
+      "name": "Blacksmith Shop Original Site",
       "type": "Site"
+    },
+    {
+      "description": "In 1951 Herbert Hoover became the first recipient of the prestigious Iowa Award, which is bestowed to “recognize the outstanding service of Iowans in the fields of science, medicine, law, religion, social welfare education, agriculture, industry, government and other public service.” Only 12 other Iowans have received this award.",
+      "geofence_buffer_in_meters": 10,
+      "id": 394,
+      "latitude": 41.6697041633829,
+      "longitude": -91.3468819856644,
+      "name": "Iowa Award",
+      "type": "Plaque"
+    },
+    {
+      "description": "The South Downey Street Bridge extends across a tributary of the West Branch of the Wapsinonoc Creek. When Herbert Hoover was a boy, it was just a small stream of water trickling through marshy wetlands. Young Herbert and the neighborhood kids took their willow fishing poles about a quarter mile east to catch sunfish and catfish in the main creek.",
+      "geofence_buffer_in_meters": 10,
+      "id": 396,
+      "latitude": 41.6699936804532,
+      "longitude": -91.3466472923756,
+      "name": "Hoover Creek at the South Downey Street Bridge",
+      "type": "Bridge"
+    },
+    {
+      "description": "West Branch boomed between 1869 and 1873. New buildings constructed in the neighborhood near the Hoovers’ small cottage on Downey Street included the Laban Miles House, the Garvin House, and the Methodist Church, which is no longer standing. When the Burlington, Cedar Rapids & Northern Railroad arrived in West Branch on December 20, 1870, two hundred of the town’s residents celebrated with a picnic dinner.",
+      "geofence_buffer_in_meters": 10,
+      "id": 397,
+      "latitude": 41.6703653423269,
+      "longitude": -91.3466191291809,
+      "name": "Historic Homes on Downey Street (incl. WS)",
+      "type": "Block"
     },
     {
       "description": "In 1870, real-estate developer J.M. Wetherell sold three lots to E.S. Hayhurst. Hayhurst built his house here in 1872. Unfortunately, Hayhurst and his family were only able to call this place home for less than a decade. When they couldn't make the payments, the mortgage was foreclosed and the family left town in 1878. Ever the businessman, Wetherell repossessed the lots and turned the house into a rental property.",
@@ -286,15 +260,6 @@
       "type": "Residence"
     },
     {
-      "description": "West Branch was barely a settlement in 1852 when Baltimore native Aaron Baker came here to claim the free land he'd received from the United States government for his service in the Mexican War. He promptly sold all 160 acres of it for about a dollar apiece.",
-      "geofence_buffer_in_meters": 10,
-      "id": 403,
-      "latitude": 41.6702290999484,
-      "longitude": -91.3457635045051,
-      "name": "Historic Homes on Poplar Street",
-      "type": "Block"
-    },
-    {
       "description": "Charles E. Smith was a carpenter and a Civil War veteran. In 1903, he completed his dream home for himself and his wife, Deborah, atop Cooks Hill where each spring, he would tap his maple trees to make maple syrup. The National Park Service relocated it here in 1969.",
       "geofence_buffer_in_meters": 10,
       "id": 402,
@@ -311,6 +276,60 @@
       "longitude": -91.3469222187996,
       "name": "Amanda Garvin House",
       "type": "Office"
+    },
+    {
+      "description": "West Branch was barely a settlement in 1852 when Baltimore native Aaron Baker came here to claim the free land he'd received from the United States government for his service in the Mexican War. He promptly sold all 160 acres of it for about a dollar apiece.",
+      "geofence_buffer_in_meters": 10,
+      "id": 403,
+      "latitude": 41.6710084826023,
+      "longitude": -91.3475766777992,
+      "name": "Historic Homes on Poplar Street",
+      "type": "Block"
+    },
+    {
+      "description": "The P.T. Smith House is the only house that Herbert Hoover remembered when he visited West Branch many years later. While living in the House of Maples, the Hoover children and Smith children were playmates. Their homes stood at the base of Cook's Hill, a favorite winter sledding spot. Hoover recalled, \"That was a great long hill where on winters’ nights, to satisfy our human craving for speed, we slid down at terrific pace with our tummies tight to home-made sleds.\"",
+      "geofence_buffer_in_meters": 10,
+      "id": 409,
+      "latitude": 41.6685971743425,
+      "longitude": -91.3464595377445,
+      "name": "P.T. Smith House",
+      "type": "Historic Building"
+    },
+    {
+      "description": "In 1938 Lou Henry Hoover suggested establishing an organization to own and manage the birthplace. The Herbert Hoover Birthplace Society was organized the following year.",
+      "geofence_buffer_in_meters": 10,
+      "id": 412,
+      "latitude": 41.668303643739,
+      "longitude": -91.3470911979675,
+      "name": "Hoover Presidential Foundation",
+      "type": "Nonprofit"
+    },
+    {
+      "description": "A lone maple tree grows on the land where the Hoover family's second home once stood. The one-acre parcel, on the corner of Downey and Cedar streets, had a two-story frame house with two chimneys. Maple trees lined the front yard and a wild crabapple tree grew in back of the spacious four-room home.",
+      "geofence_buffer_in_meters": 10,
+      "id": 408,
+      "latitude": 41.6688105592313,
+      "longitude": -91.3463777303696,
+      "name": "House of the Maples Site",
+      "type": "Site"
+    },
+    {
+      "description": "Isaac Miles was a widower with two young daughters when he moved to West Branch in 1874 and opened a drugstore. Three years later, he met and married a young woman, who had inherited 100 acres of farmland to the southwest of the Hoover cottage. So Miles sold his drugstore and decided to give farming a try. And as soon as the two-story frame house and barn were built, the new family moved in. Isaac's daughters, Providence and Abbie were around the same age as the Hoover children, and it's likely they played together in this rural playground filled with natural wonders.",
+      "geofence_buffer_in_meters": 10,
+      "id": 410,
+      "latitude": 41.666173753608,
+      "longitude": -91.3476249575615,
+      "name": "Isaac Miles Farmstead",
+      "type": "Historic Buildings"
+    },
+    {
+      "description": "The Hoover Nature Trail follows the railroad that passed through the president’s hometown.",
+      "geofence_buffer_in_meters": 10,
+      "id": 414,
+      "latitude": 41.6676264144421,
+      "longitude": -91.3510823249817,
+      "name": "Hoover Nature Trail",
+      "type": "Trailhead"
     },
     {
       "description": "In March 1890 Lavina Patterson opened a millinery shop here and lived with ther family upstairs. Dr. L.J. Leech moved his medical offices here after fire damaged the buildings across the street in 1895. It remained Dr. Leech's office until his death in 1937.",
@@ -401,15 +420,6 @@
       "longitude": -91.345921754837,
       "name": "Traveler's Rest",
       "type": "Inn"
-    },
-    {
-      "description": "The Hoover Nature Trail follows the railroad that passed through the president’s hometown.",
-      "geofence_buffer_in_meters": 10,
-      "id": 414,
-      "latitude": 41.6702391177802,
-      "longitude": -91.345916390419,
-      "name": "Hoover Nature Trail",
-      "type": "Trailhead"
     },
     {
       "description": "In 1904 Huldah Enlow donated the land and building for a public library. Later, an anonymous monetary gift financed construction of an expansion. In 1963, the front entrance was enclosed and in 1974, the basement was converted into a children's library. It remained a library until 1993.",
