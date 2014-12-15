@@ -120,12 +120,485 @@
   "max_distance_in_meters": 1609.3,
   "media": [
     {
+      "alt": "Map thumbnail for Visitor Center",
+      "caption": "Map thumbnail for Visitor Center",
+      "id": 168,
+      "name": "Map thumbnail for Visitor Center",
+      "relative_url": "168.png",
+      "relative_url_@2x": "168@2x.png",
+      "relative_url_tablet": "168_tablet.png",
+      "relative_url_tablet_@2x": "168_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map thumbnail for Birthplace Cottage",
+      "caption": "Map thumbnail for Birthplace Cottage",
+      "id": 169,
+      "name": "Map thumbnail for Birthplace Cottage",
+      "relative_url": "169.png",
+      "relative_url_@2x": "169@2x.png",
+      "relative_url_tablet": "169_tablet.png",
+      "relative_url_tablet_@2x": "169_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
       "first_image": 11,
       "id": 10,
       "name": "Mascot Saloon Renovations",
       "second_image": 12,
       "thumbnail_image": 11,
       "type": "then_and_now"
+    },
+    {
+      "alt": "Map Thumbnail for Park Museum Building (id: 2)",
+      "caption": "Map Thumbnail for Park Museum Building (id: 2)",
+      "id": 87,
+      "name": "Map Thumbnail for Park Museum Building (id: 2)",
+      "relative_url": "87.png",
+      "relative_url_@2x": "87@2x.png",
+      "relative_url_tablet": "87_tablet.png",
+      "relative_url_tablet_@2x": "87_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Soapy's Parlor Museum (id: 3)",
+      "caption": "Map Thumbnail for Soapy's Parlor Museum (id: 3)",
+      "id": 88,
+      "name": "Map Thumbnail for Soapy's Parlor Museum (id: 3)",
+      "relative_url": "88.png",
+      "relative_url_@2x": "88@2x.png",
+      "relative_url_tablet": "88_tablet.png",
+      "relative_url_tablet_@2x": "88_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Arctic Brotherhood Building (City Visitor Center) (id: 4)",
+      "caption": "Map Thumbnail for Arctic Brotherhood Building (City Visitor Center) (id: 4)",
+      "id": 89,
+      "name": "Map Thumbnail for Arctic Brotherhood Building (City Visitor Center) (id: 4)",
+      "relative_url": "89.png",
+      "relative_url_@2x": "89@2x.png",
+      "relative_url_tablet": "89_tablet.png",
+      "relative_url_tablet_@2x": "89_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Mascot Saloon (id: 5)",
+      "caption": "Map Thumbnail for Mascot Saloon (id: 5)",
+      "id": 90,
+      "name": "Map Thumbnail for Mascot Saloon (id: 5)",
+      "relative_url": "90.png",
+      "relative_url_@2x": "90@2x.png",
+      "relative_url_tablet": "90_tablet.png",
+      "relative_url_tablet_@2x": "90_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Pantheon Saloon (id: 6)",
+      "caption": "Map Thumbnail for Pantheon Saloon (id: 6)",
+      "id": 91,
+      "name": "Map Thumbnail for Pantheon Saloon (id: 6)",
+      "relative_url": "91.png",
+      "relative_url_@2x": "91@2x.png",
+      "relative_url_tablet": "91_tablet.png",
+      "relative_url_tablet_@2x": "91_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Moore Homestead (id: 7)",
+      "caption": "Map Thumbnail for Moore Homestead (id: 7)",
+      "id": 92,
+      "name": "Map Thumbnail for Moore Homestead (id: 7)",
+      "relative_url": "92.png",
+      "relative_url_@2x": "92@2x.png",
+      "relative_url_tablet": "92_tablet.png",
+      "relative_url_tablet_@2x": "92_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Skagway City Museum and CIty Hall (id: 8)",
+      "caption": "Map Thumbnail for Skagway City Museum and CIty Hall (id: 8)",
+      "id": 93,
+      "name": "Map Thumbnail for Skagway City Museum and CIty Hall (id: 8)",
+      "relative_url": "93.png",
+      "relative_url_@2x": "93@2x.png",
+      "relative_url_tablet": "93_tablet.png",
+      "relative_url_tablet_@2x": "93_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Centennial Park (id: 9)",
+      "caption": "Map Thumbnail for Centennial Park (id: 9)",
+      "id": 94,
+      "name": "Map Thumbnail for Centennial Park (id: 9)",
+      "relative_url": "94.png",
+      "relative_url_@2x": "94@2x.png",
+      "relative_url_tablet": "94_tablet.png",
+      "relative_url_tablet_@2x": "94_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Pullen Pond (id: 32)",
+      "caption": "Map Thumbnail for Pullen Pond (id: 32)",
+      "id": 117,
+      "name": "Map Thumbnail for Pullen Pond (id: 32)",
+      "relative_url": "117.png",
+      "relative_url_@2x": "117@2x.png",
+      "relative_url_tablet": "117_tablet.png",
+      "relative_url_tablet_@2x": "117_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Gold Rush Cemetery and Reid Falls (id: 33)",
+      "caption": "Map Thumbnail for Gold Rush Cemetery and Reid Falls (id: 33)",
+      "id": 118,
+      "name": "Map Thumbnail for Gold Rush Cemetery and Reid Falls (id: 33)",
+      "relative_url": "118.png",
+      "relative_url_@2x": "118@2x.png",
+      "relative_url_tablet": "118_tablet.png",
+      "relative_url_tablet_@2x": "118_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for White Pass Highway Wayside #5 (id: 38)",
+      "caption": "Map Thumbnail for White Pass Highway Wayside #5 (id: 38)",
+      "id": 122,
+      "name": "Map Thumbnail for White Pass Highway Wayside #5 (id: 38)",
+      "relative_url": "122.png",
+      "relative_url_@2x": "122@2x.png",
+      "relative_url_tablet": "122_tablet.png",
+      "relative_url_tablet_@2x": "122_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for White Pass Highway Wayside #6 (id: 39)",
+      "caption": "Map Thumbnail for White Pass Highway Wayside #6 (id: 39)",
+      "id": 123,
+      "name": "Map Thumbnail for White Pass Highway Wayside #6 (id: 39)",
+      "relative_url": "123.png",
+      "relative_url_@2x": "123@2x.png",
+      "relative_url_tablet": "123_tablet.png",
+      "relative_url_tablet_@2x": "123_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for White Pass Highway Wayside #7 (id: 40)",
+      "caption": "Map Thumbnail for White Pass Highway Wayside #7 (id: 40)",
+      "id": 124,
+      "name": "Map Thumbnail for White Pass Highway Wayside #7 (id: 40)",
+      "relative_url": "124.png",
+      "relative_url_@2x": "124@2x.png",
+      "relative_url_tablet": "124_tablet.png",
+      "relative_url_tablet_@2x": "124_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Skagway Town Overlook (id: 41)",
+      "caption": "Map Thumbnail for Skagway Town Overlook (id: 41)",
+      "id": 125,
+      "name": "Map Thumbnail for Skagway Town Overlook (id: 41)",
+      "relative_url": "125.png",
+      "relative_url_@2x": "125@2x.png",
+      "relative_url_tablet": "125_tablet.png",
+      "relative_url_tablet_@2x": "125_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Bark Canada Wreck (Nahku/Long Bay) (id: 42)",
+      "caption": "Map Thumbnail for Bark Canada Wreck (Nahku/Long Bay) (id: 42)",
+      "id": 126,
+      "name": "Map Thumbnail for Bark Canada Wreck (Nahku/Long Bay) (id: 42)",
+      "relative_url": "126.png",
+      "relative_url_@2x": "126@2x.png",
+      "relative_url_tablet": "126_tablet.png",
+      "relative_url_tablet_@2x": "126_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Dyea Flats Overlook (id: 43)",
+      "caption": "Map Thumbnail for Dyea Flats Overlook (id: 43)",
+      "id": 127,
+      "name": "Map Thumbnail for Dyea Flats Overlook (id: 43)",
+      "relative_url": "127.png",
+      "relative_url_@2x": "127@2x.png",
+      "relative_url_tablet": "127_tablet.png",
+      "relative_url_tablet_@2x": "127_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Dyea Campground (id: 46)",
+      "caption": "Map Thumbnail for Dyea Campground (id: 46)",
+      "id": 128,
+      "name": "Map Thumbnail for Dyea Campground (id: 46)",
+      "relative_url": "128.png",
+      "relative_url_@2x": "128@2x.png",
+      "relative_url_tablet": "128_tablet.png",
+      "relative_url_tablet_@2x": "128_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Snow Plow (id: 10)",
+      "caption": "Map Thumbnail for Snow Plow (id: 10)",
+      "id": 95,
+      "name": "Map Thumbnail for Snow Plow (id: 10)",
+      "relative_url": "95.png",
+      "relative_url_@2x": "95@2x.png",
+      "relative_url_tablet": "95_tablet.png",
+      "relative_url_tablet_@2x": "95_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for White Pass & Yukon Route Depot (id: 11)",
+      "caption": "Map Thumbnail for White Pass & Yukon Route Depot (id: 11)",
+      "id": 96,
+      "name": "Map Thumbnail for White Pass & Yukon Route Depot (id: 11)",
+      "relative_url": "96.png",
+      "relative_url_@2x": "96@2x.png",
+      "relative_url_tablet": "96_tablet.png",
+      "relative_url_tablet_@2x": "96_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Chilkoot Trail Center (Itjen House) (id: 12)",
+      "caption": "Map Thumbnail for Chilkoot Trail Center (Itjen House) (id: 12)",
+      "id": 97,
+      "name": "Map Thumbnail for Chilkoot Trail Center (Itjen House) (id: 12)",
+      "relative_url": "97.png",
+      "relative_url_@2x": "97@2x.png",
+      "relative_url_tablet": "97_tablet.png",
+      "relative_url_tablet_@2x": "97_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Soapy and Reed Gunfight Plaque (id: 13)",
+      "caption": "Map Thumbnail for Soapy and Reed Gunfight Plaque (id: 13)",
+      "id": 98,
+      "name": "Map Thumbnail for Soapy and Reed Gunfight Plaque (id: 13)",
+      "relative_url": "98.png",
+      "relative_url_@2x": "98@2x.png",
+      "relative_url_tablet": "98_tablet.png",
+      "relative_url_tablet_@2x": "98_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Sweet Tooth lot on Broadway (id: 14)",
+      "caption": "Map Thumbnail for Sweet Tooth lot on Broadway (id: 14)",
+      "id": 99,
+      "name": "Map Thumbnail for Sweet Tooth lot on Broadway (id: 14)",
+      "relative_url": "99.png",
+      "relative_url_@2x": "99@2x.png",
+      "relative_url_tablet": "99_tablet.png",
+      "relative_url_tablet_@2x": "99_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for St. James Hotel (id: 15)",
+      "caption": "Map Thumbnail for St. James Hotel (id: 15)",
+      "id": 100,
+      "name": "Map Thumbnail for St. James Hotel (id: 15)",
+      "relative_url": "100.png",
+      "relative_url_@2x": "100@2x.png",
+      "relative_url_tablet": "100_tablet.png",
+      "relative_url_tablet_@2x": "100_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Golden North Hotel (id: 16)",
+      "caption": "Map Thumbnail for Golden North Hotel (id: 16)",
+      "id": 101,
+      "name": "Map Thumbnail for Golden North Hotel (id: 16)",
+      "relative_url": "101.png",
+      "relative_url_@2x": "101@2x.png",
+      "relative_url_tablet": "101_tablet.png",
+      "relative_url_tablet_@2x": "101_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Verbauwhede Cigar Store & Confectionery (id: 17)",
+      "caption": "Map Thumbnail for Verbauwhede Cigar Store & Confectionery (id: 17)",
+      "id": 102,
+      "name": "Map Thumbnail for Verbauwhede Cigar Store & Confectionery (id: 17)",
+      "relative_url": "102.png",
+      "relative_url_@2x": "102@2x.png",
+      "relative_url_tablet": "102_tablet.png",
+      "relative_url_tablet_@2x": "102_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Cribs (id: 18)",
+      "caption": "Map Thumbnail for Cribs (id: 18)",
+      "id": 103,
+      "name": "Map Thumbnail for Cribs (id: 18)",
+      "relative_url": "103.png",
+      "relative_url_@2x": "103@2x.png",
+      "relative_url_tablet": "103_tablet.png",
+      "relative_url_tablet_@2x": "103_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Boas Tailor & Furrier Shop (id: 19)",
+      "caption": "Map Thumbnail for Boas Tailor & Furrier Shop (id: 19)",
+      "id": 104,
+      "name": "Map Thumbnail for Boas Tailor & Furrier Shop (id: 19)",
+      "relative_url": "104.png",
+      "relative_url_@2x": "104@2x.png",
+      "relative_url_tablet": "104_tablet.png",
+      "relative_url_tablet_@2x": "104_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Lynch & Kennedy (id: 20)",
+      "caption": "Map Thumbnail for Lynch & Kennedy (id: 20)",
+      "id": 105,
+      "name": "Map Thumbnail for Lynch & Kennedy (id: 20)",
+      "relative_url": "105.png",
+      "relative_url_@2x": "105@2x.png",
+      "relative_url_tablet": "105_tablet.png",
+      "relative_url_tablet_@2x": "105_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Red Front Building (id: 21)",
+      "caption": "Map Thumbnail for Red Front Building (id: 21)",
+      "id": 106,
+      "name": "Map Thumbnail for Red Front Building (id: 21)",
+      "relative_url": "106.png",
+      "relative_url_@2x": "106@2x.png",
+      "relative_url_tablet": "106_tablet.png",
+      "relative_url_tablet_@2x": "106_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for First Bloom Garden (id: 22)",
+      "caption": "Map Thumbnail for First Bloom Garden (id: 22)",
+      "id": 107,
+      "name": "Map Thumbnail for First Bloom Garden (id: 22)",
+      "relative_url": "107.png",
+      "relative_url_@2x": "107@2x.png",
+      "relative_url_tablet": "107_tablet.png",
+      "relative_url_tablet_@2x": "107_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Boss Bakery (id: 23)",
+      "caption": "Map Thumbnail for Boss Bakery (id: 23)",
+      "id": 108,
+      "name": "Map Thumbnail for Boss Bakery (id: 23)",
+      "relative_url": "108.png",
+      "relative_url_@2x": "108@2x.png",
+      "relative_url_tablet": "108_tablet.png",
+      "relative_url_tablet_@2x": "108_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Goldberg Cigar Store (id: 24)",
+      "caption": "Map Thumbnail for Goldberg Cigar Store (id: 24)",
+      "id": 109,
+      "name": "Map Thumbnail for Goldberg Cigar Store (id: 24)",
+      "relative_url": "109.png",
+      "relative_url_@2x": "109@2x.png",
+      "relative_url_tablet": "109_tablet.png",
+      "relative_url_tablet_@2x": "109_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Frye Bruhn Building (id: 25)",
+      "caption": "Map Thumbnail for Frye Bruhn Building (id: 25)",
+      "id": 110,
+      "name": "Map Thumbnail for Frye Bruhn Building (id: 25)",
+      "relative_url": "110.png",
+      "relative_url_@2x": "110@2x.png",
+      "relative_url_tablet": "110_tablet.png",
+      "relative_url_tablet_@2x": "110_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Corrington Lot - Rhubarb Garden (id: 26)",
+      "caption": "Map Thumbnail for Corrington Lot - Rhubarb Garden (id: 26)",
+      "id": 111,
+      "name": "Map Thumbnail for Corrington Lot - Rhubarb Garden (id: 26)",
+      "relative_url": "111.png",
+      "relative_url_@2x": "111@2x.png",
+      "relative_url_tablet": "111_tablet.png",
+      "relative_url_tablet_@2x": "111_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Historic City Hall (id: 27)",
+      "caption": "Map Thumbnail for Historic City Hall (id: 27)",
+      "id": 112,
+      "name": "Map Thumbnail for Historic City Hall (id: 27)",
+      "relative_url": "112.png",
+      "relative_url_@2x": "112@2x.png",
+      "relative_url_tablet": "112_tablet.png",
+      "relative_url_tablet_@2x": "112_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Portland House (id: 28)",
+      "caption": "Map Thumbnail for Portland House (id: 28)",
+      "id": 113,
+      "name": "Map Thumbnail for Portland House (id: 28)",
+      "relative_url": "113.png",
+      "relative_url_@2x": "113@2x.png",
+      "relative_url_tablet": "113_tablet.png",
+      "relative_url_tablet_@2x": "113_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Meyers Complex - YMCA (id: 29)",
+      "caption": "Map Thumbnail for Meyers Complex - YMCA (id: 29)",
+      "id": 114,
+      "name": "Map Thumbnail for Meyers Complex - YMCA (id: 29)",
+      "relative_url": "114.png",
+      "relative_url_@2x": "114@2x.png",
+      "relative_url_tablet": "114_tablet.png",
+      "relative_url_tablet_@2x": "114_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Peniel Mission (id: 30)",
+      "caption": "Map Thumbnail for Peniel Mission (id: 30)",
+      "id": 115,
+      "name": "Map Thumbnail for Peniel Mission (id: 30)",
+      "relative_url": "115.png",
+      "relative_url_@2x": "115@2x.png",
+      "relative_url_tablet": "115_tablet.png",
+      "relative_url_tablet_@2x": "115_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Molly Walsh Park and Statue (id: 31)",
+      "caption": "Map Thumbnail for Molly Walsh Park and Statue (id: 31)",
+      "id": 116,
+      "name": "Map Thumbnail for Molly Walsh Park and Statue (id: 31)",
+      "relative_url": "116.png",
+      "relative_url_@2x": "116@2x.png",
+      "relative_url_tablet": "116_tablet.png",
+      "relative_url_tablet_@2x": "116_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for White Pass Highway Wayside #2 (id: 35)",
+      "caption": "Map Thumbnail for White Pass Highway Wayside #2 (id: 35)",
+      "id": 119,
+      "name": "Map Thumbnail for White Pass Highway Wayside #2 (id: 35)",
+      "relative_url": "119.png",
+      "relative_url_@2x": "119@2x.png",
+      "relative_url_tablet": "119_tablet.png",
+      "relative_url_tablet_@2x": "119_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for White Pass Highway Wayside #3 (id: 36)",
+      "caption": "Map Thumbnail for White Pass Highway Wayside #3 (id: 36)",
+      "id": 120,
+      "name": "Map Thumbnail for White Pass Highway Wayside #3 (id: 36)",
+      "relative_url": "120.png",
+      "relative_url_@2x": "120@2x.png",
+      "relative_url_tablet": "120_tablet.png",
+      "relative_url_tablet_@2x": "120_tablet_2x.png",
+      "type": "map_thumbnail"
     },
     {
       "alt": "A modern photograph of Brackett’s Trading Post which later became Boss Bakery.",
@@ -329,37 +802,6 @@
       "type": "image"
     },
     {
-      "id": 13,
-      "name": "A Demo Audio File",
-      "relative_url": "13.m4a",
-      "transcript": "Sample transcript text for tour audio",
-      "type": "audio"
-    },
-    {
-      "id": 83,
-      "relative_url": "83.jpg",
-      "relative_url_@2x": "83@2x.jpg",
-      "relative_url_tablet": "83_tablet.jpg",
-      "relative_url_tablet_@2x": "83_tablet@2x.jpg",
-      "type": "image"
-    },
-    {
-      "id": 5,
-      "relative_url": "5.jpg",
-      "relative_url_@2x": "5@2x.jpg",
-      "relative_url_tablet": "5_tablet.jpg",
-      "relative_url_tablet_@2x": "5_tablet@2x.jpg",
-      "type": "image"
-    },
-    {
-      "id": 7,
-      "relative_url": "7.jpg",
-      "relative_url_@2x": "7@2x.jpg",
-      "relative_url_tablet": "7_tablet.jpg",
-      "relative_url_tablet_@2x": "7_tablet@2x.jpg",
-      "type": "image"
-    },
-    {
       "alt": "Map Thumbnail for White Pass Highway Wayside #4 (id: 37)",
       "caption": "Map Thumbnail for White Pass Highway Wayside #4 (id: 37)",
       "id": 121,
@@ -423,6 +865,48 @@
       "relative_url_@2x": "170@2x.png",
       "relative_url_tablet": "170_tablet.png",
       "relative_url_tablet_@2x": "170_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "id": 13,
+      "name": "A Demo Audio File",
+      "relative_url": "13.m4a",
+      "transcript": "Sample transcript text for tour audio",
+      "type": "audio"
+    },
+    {
+      "id": 83,
+      "relative_url": "83.jpg",
+      "relative_url_@2x": "83@2x.jpg",
+      "relative_url_tablet": "83_tablet.jpg",
+      "relative_url_tablet_@2x": "83_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "id": 5,
+      "relative_url": "5.jpg",
+      "relative_url_@2x": "5@2x.jpg",
+      "relative_url_tablet": "5_tablet.jpg",
+      "relative_url_tablet_@2x": "5_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "id": 7,
+      "relative_url": "7.jpg",
+      "relative_url_@2x": "7@2x.jpg",
+      "relative_url_tablet": "7_tablet.jpg",
+      "relative_url_tablet_@2x": "7_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "Map thumbnail for Flag Pole",
+      "caption": "Map thumbnail for Flag Pole",
+      "id": 171,
+      "name": "Map thumbnail for Flag Pole",
+      "relative_url": "171.png",
+      "relative_url_@2x": "171@2x.png",
+      "relative_url_tablet": "171_tablet.png",
+      "relative_url_tablet_@2x": "171_tablet_2x.png",
       "type": "map_thumbnail"
     },
     {
@@ -504,17 +988,6 @@
       "relative_url_tablet": "76_tablet.jpg",
       "relative_url_tablet_@2x": "76_tablet@2x.jpg",
       "type": "image"
-    },
-    {
-      "alt": "Map thumbnail for Flag Pole",
-      "caption": "Map thumbnail for Flag Pole",
-      "id": 171,
-      "name": "Map thumbnail for Flag Pole",
-      "relative_url": "171.png",
-      "relative_url_@2x": "171@2x.png",
-      "relative_url_tablet": "171_tablet.png",
-      "relative_url_tablet_@2x": "171_tablet_2x.png",
-      "type": "map_thumbnail"
     },
     {
       "alt": "A modern photograph of the Lynch and Kennedy Building, with stylish false front painted white with green trim.",
@@ -974,479 +1447,6 @@
       "relative_url_tablet": "1_tablet.jpg",
       "relative_url_tablet_@2x": "1_tablet@2x.jpg",
       "type": "image"
-    },
-    {
-      "alt": "Map thumbnail for Visitor Center",
-      "caption": "Map thumbnail for Visitor Center",
-      "id": 168,
-      "name": "Map thumbnail for Visitor Center",
-      "relative_url": "168.png",
-      "relative_url_@2x": "168@2x.png",
-      "relative_url_tablet": "168_tablet.png",
-      "relative_url_tablet_@2x": "168_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map thumbnail for Birthplace Cottage",
-      "caption": "Map thumbnail for Birthplace Cottage",
-      "id": 169,
-      "name": "Map thumbnail for Birthplace Cottage",
-      "relative_url": "169.png",
-      "relative_url_@2x": "169@2x.png",
-      "relative_url_tablet": "169_tablet.png",
-      "relative_url_tablet_@2x": "169_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Park Museum Building (id: 2)",
-      "caption": "Map Thumbnail for Park Museum Building (id: 2)",
-      "id": 87,
-      "name": "Map Thumbnail for Park Museum Building (id: 2)",
-      "relative_url": "87.png",
-      "relative_url_@2x": "87@2x.png",
-      "relative_url_tablet": "87_tablet.png",
-      "relative_url_tablet_@2x": "87_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Soapy's Parlor Museum (id: 3)",
-      "caption": "Map Thumbnail for Soapy's Parlor Museum (id: 3)",
-      "id": 88,
-      "name": "Map Thumbnail for Soapy's Parlor Museum (id: 3)",
-      "relative_url": "88.png",
-      "relative_url_@2x": "88@2x.png",
-      "relative_url_tablet": "88_tablet.png",
-      "relative_url_tablet_@2x": "88_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Arctic Brotherhood Building (City Visitor Center) (id: 4)",
-      "caption": "Map Thumbnail for Arctic Brotherhood Building (City Visitor Center) (id: 4)",
-      "id": 89,
-      "name": "Map Thumbnail for Arctic Brotherhood Building (City Visitor Center) (id: 4)",
-      "relative_url": "89.png",
-      "relative_url_@2x": "89@2x.png",
-      "relative_url_tablet": "89_tablet.png",
-      "relative_url_tablet_@2x": "89_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Mascot Saloon (id: 5)",
-      "caption": "Map Thumbnail for Mascot Saloon (id: 5)",
-      "id": 90,
-      "name": "Map Thumbnail for Mascot Saloon (id: 5)",
-      "relative_url": "90.png",
-      "relative_url_@2x": "90@2x.png",
-      "relative_url_tablet": "90_tablet.png",
-      "relative_url_tablet_@2x": "90_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Pantheon Saloon (id: 6)",
-      "caption": "Map Thumbnail for Pantheon Saloon (id: 6)",
-      "id": 91,
-      "name": "Map Thumbnail for Pantheon Saloon (id: 6)",
-      "relative_url": "91.png",
-      "relative_url_@2x": "91@2x.png",
-      "relative_url_tablet": "91_tablet.png",
-      "relative_url_tablet_@2x": "91_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Moore Homestead (id: 7)",
-      "caption": "Map Thumbnail for Moore Homestead (id: 7)",
-      "id": 92,
-      "name": "Map Thumbnail for Moore Homestead (id: 7)",
-      "relative_url": "92.png",
-      "relative_url_@2x": "92@2x.png",
-      "relative_url_tablet": "92_tablet.png",
-      "relative_url_tablet_@2x": "92_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Skagway City Museum and CIty Hall (id: 8)",
-      "caption": "Map Thumbnail for Skagway City Museum and CIty Hall (id: 8)",
-      "id": 93,
-      "name": "Map Thumbnail for Skagway City Museum and CIty Hall (id: 8)",
-      "relative_url": "93.png",
-      "relative_url_@2x": "93@2x.png",
-      "relative_url_tablet": "93_tablet.png",
-      "relative_url_tablet_@2x": "93_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Centennial Park (id: 9)",
-      "caption": "Map Thumbnail for Centennial Park (id: 9)",
-      "id": 94,
-      "name": "Map Thumbnail for Centennial Park (id: 9)",
-      "relative_url": "94.png",
-      "relative_url_@2x": "94@2x.png",
-      "relative_url_tablet": "94_tablet.png",
-      "relative_url_tablet_@2x": "94_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Pullen Pond (id: 32)",
-      "caption": "Map Thumbnail for Pullen Pond (id: 32)",
-      "id": 117,
-      "name": "Map Thumbnail for Pullen Pond (id: 32)",
-      "relative_url": "117.png",
-      "relative_url_@2x": "117@2x.png",
-      "relative_url_tablet": "117_tablet.png",
-      "relative_url_tablet_@2x": "117_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Gold Rush Cemetery and Reid Falls (id: 33)",
-      "caption": "Map Thumbnail for Gold Rush Cemetery and Reid Falls (id: 33)",
-      "id": 118,
-      "name": "Map Thumbnail for Gold Rush Cemetery and Reid Falls (id: 33)",
-      "relative_url": "118.png",
-      "relative_url_@2x": "118@2x.png",
-      "relative_url_tablet": "118_tablet.png",
-      "relative_url_tablet_@2x": "118_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for White Pass Highway Wayside #5 (id: 38)",
-      "caption": "Map Thumbnail for White Pass Highway Wayside #5 (id: 38)",
-      "id": 122,
-      "name": "Map Thumbnail for White Pass Highway Wayside #5 (id: 38)",
-      "relative_url": "122.png",
-      "relative_url_@2x": "122@2x.png",
-      "relative_url_tablet": "122_tablet.png",
-      "relative_url_tablet_@2x": "122_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for White Pass Highway Wayside #6 (id: 39)",
-      "caption": "Map Thumbnail for White Pass Highway Wayside #6 (id: 39)",
-      "id": 123,
-      "name": "Map Thumbnail for White Pass Highway Wayside #6 (id: 39)",
-      "relative_url": "123.png",
-      "relative_url_@2x": "123@2x.png",
-      "relative_url_tablet": "123_tablet.png",
-      "relative_url_tablet_@2x": "123_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for White Pass Highway Wayside #7 (id: 40)",
-      "caption": "Map Thumbnail for White Pass Highway Wayside #7 (id: 40)",
-      "id": 124,
-      "name": "Map Thumbnail for White Pass Highway Wayside #7 (id: 40)",
-      "relative_url": "124.png",
-      "relative_url_@2x": "124@2x.png",
-      "relative_url_tablet": "124_tablet.png",
-      "relative_url_tablet_@2x": "124_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Skagway Town Overlook (id: 41)",
-      "caption": "Map Thumbnail for Skagway Town Overlook (id: 41)",
-      "id": 125,
-      "name": "Map Thumbnail for Skagway Town Overlook (id: 41)",
-      "relative_url": "125.png",
-      "relative_url_@2x": "125@2x.png",
-      "relative_url_tablet": "125_tablet.png",
-      "relative_url_tablet_@2x": "125_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Bark Canada Wreck (Nahku/Long Bay) (id: 42)",
-      "caption": "Map Thumbnail for Bark Canada Wreck (Nahku/Long Bay) (id: 42)",
-      "id": 126,
-      "name": "Map Thumbnail for Bark Canada Wreck (Nahku/Long Bay) (id: 42)",
-      "relative_url": "126.png",
-      "relative_url_@2x": "126@2x.png",
-      "relative_url_tablet": "126_tablet.png",
-      "relative_url_tablet_@2x": "126_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Dyea Flats Overlook (id: 43)",
-      "caption": "Map Thumbnail for Dyea Flats Overlook (id: 43)",
-      "id": 127,
-      "name": "Map Thumbnail for Dyea Flats Overlook (id: 43)",
-      "relative_url": "127.png",
-      "relative_url_@2x": "127@2x.png",
-      "relative_url_tablet": "127_tablet.png",
-      "relative_url_tablet_@2x": "127_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Dyea Campground (id: 46)",
-      "caption": "Map Thumbnail for Dyea Campground (id: 46)",
-      "id": 128,
-      "name": "Map Thumbnail for Dyea Campground (id: 46)",
-      "relative_url": "128.png",
-      "relative_url_@2x": "128@2x.png",
-      "relative_url_tablet": "128_tablet.png",
-      "relative_url_tablet_@2x": "128_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Snow Plow (id: 10)",
-      "caption": "Map Thumbnail for Snow Plow (id: 10)",
-      "id": 95,
-      "name": "Map Thumbnail for Snow Plow (id: 10)",
-      "relative_url": "95.png",
-      "relative_url_@2x": "95@2x.png",
-      "relative_url_tablet": "95_tablet.png",
-      "relative_url_tablet_@2x": "95_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for White Pass & Yukon Route Depot (id: 11)",
-      "caption": "Map Thumbnail for White Pass & Yukon Route Depot (id: 11)",
-      "id": 96,
-      "name": "Map Thumbnail for White Pass & Yukon Route Depot (id: 11)",
-      "relative_url": "96.png",
-      "relative_url_@2x": "96@2x.png",
-      "relative_url_tablet": "96_tablet.png",
-      "relative_url_tablet_@2x": "96_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Chilkoot Trail Center (Itjen House) (id: 12)",
-      "caption": "Map Thumbnail for Chilkoot Trail Center (Itjen House) (id: 12)",
-      "id": 97,
-      "name": "Map Thumbnail for Chilkoot Trail Center (Itjen House) (id: 12)",
-      "relative_url": "97.png",
-      "relative_url_@2x": "97@2x.png",
-      "relative_url_tablet": "97_tablet.png",
-      "relative_url_tablet_@2x": "97_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Soapy and Reed Gunfight Plaque (id: 13)",
-      "caption": "Map Thumbnail for Soapy and Reed Gunfight Plaque (id: 13)",
-      "id": 98,
-      "name": "Map Thumbnail for Soapy and Reed Gunfight Plaque (id: 13)",
-      "relative_url": "98.png",
-      "relative_url_@2x": "98@2x.png",
-      "relative_url_tablet": "98_tablet.png",
-      "relative_url_tablet_@2x": "98_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Sweet Tooth lot on Broadway (id: 14)",
-      "caption": "Map Thumbnail for Sweet Tooth lot on Broadway (id: 14)",
-      "id": 99,
-      "name": "Map Thumbnail for Sweet Tooth lot on Broadway (id: 14)",
-      "relative_url": "99.png",
-      "relative_url_@2x": "99@2x.png",
-      "relative_url_tablet": "99_tablet.png",
-      "relative_url_tablet_@2x": "99_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for St. James Hotel (id: 15)",
-      "caption": "Map Thumbnail for St. James Hotel (id: 15)",
-      "id": 100,
-      "name": "Map Thumbnail for St. James Hotel (id: 15)",
-      "relative_url": "100.png",
-      "relative_url_@2x": "100@2x.png",
-      "relative_url_tablet": "100_tablet.png",
-      "relative_url_tablet_@2x": "100_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Golden North Hotel (id: 16)",
-      "caption": "Map Thumbnail for Golden North Hotel (id: 16)",
-      "id": 101,
-      "name": "Map Thumbnail for Golden North Hotel (id: 16)",
-      "relative_url": "101.png",
-      "relative_url_@2x": "101@2x.png",
-      "relative_url_tablet": "101_tablet.png",
-      "relative_url_tablet_@2x": "101_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Verbauwhede Cigar Store & Confectionery (id: 17)",
-      "caption": "Map Thumbnail for Verbauwhede Cigar Store & Confectionery (id: 17)",
-      "id": 102,
-      "name": "Map Thumbnail for Verbauwhede Cigar Store & Confectionery (id: 17)",
-      "relative_url": "102.png",
-      "relative_url_@2x": "102@2x.png",
-      "relative_url_tablet": "102_tablet.png",
-      "relative_url_tablet_@2x": "102_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Cribs (id: 18)",
-      "caption": "Map Thumbnail for Cribs (id: 18)",
-      "id": 103,
-      "name": "Map Thumbnail for Cribs (id: 18)",
-      "relative_url": "103.png",
-      "relative_url_@2x": "103@2x.png",
-      "relative_url_tablet": "103_tablet.png",
-      "relative_url_tablet_@2x": "103_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Boas Tailor & Furrier Shop (id: 19)",
-      "caption": "Map Thumbnail for Boas Tailor & Furrier Shop (id: 19)",
-      "id": 104,
-      "name": "Map Thumbnail for Boas Tailor & Furrier Shop (id: 19)",
-      "relative_url": "104.png",
-      "relative_url_@2x": "104@2x.png",
-      "relative_url_tablet": "104_tablet.png",
-      "relative_url_tablet_@2x": "104_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Lynch & Kennedy (id: 20)",
-      "caption": "Map Thumbnail for Lynch & Kennedy (id: 20)",
-      "id": 105,
-      "name": "Map Thumbnail for Lynch & Kennedy (id: 20)",
-      "relative_url": "105.png",
-      "relative_url_@2x": "105@2x.png",
-      "relative_url_tablet": "105_tablet.png",
-      "relative_url_tablet_@2x": "105_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Red Front Building (id: 21)",
-      "caption": "Map Thumbnail for Red Front Building (id: 21)",
-      "id": 106,
-      "name": "Map Thumbnail for Red Front Building (id: 21)",
-      "relative_url": "106.png",
-      "relative_url_@2x": "106@2x.png",
-      "relative_url_tablet": "106_tablet.png",
-      "relative_url_tablet_@2x": "106_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for First Bloom Garden (id: 22)",
-      "caption": "Map Thumbnail for First Bloom Garden (id: 22)",
-      "id": 107,
-      "name": "Map Thumbnail for First Bloom Garden (id: 22)",
-      "relative_url": "107.png",
-      "relative_url_@2x": "107@2x.png",
-      "relative_url_tablet": "107_tablet.png",
-      "relative_url_tablet_@2x": "107_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Boss Bakery (id: 23)",
-      "caption": "Map Thumbnail for Boss Bakery (id: 23)",
-      "id": 108,
-      "name": "Map Thumbnail for Boss Bakery (id: 23)",
-      "relative_url": "108.png",
-      "relative_url_@2x": "108@2x.png",
-      "relative_url_tablet": "108_tablet.png",
-      "relative_url_tablet_@2x": "108_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Goldberg Cigar Store (id: 24)",
-      "caption": "Map Thumbnail for Goldberg Cigar Store (id: 24)",
-      "id": 109,
-      "name": "Map Thumbnail for Goldberg Cigar Store (id: 24)",
-      "relative_url": "109.png",
-      "relative_url_@2x": "109@2x.png",
-      "relative_url_tablet": "109_tablet.png",
-      "relative_url_tablet_@2x": "109_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Frye Bruhn Building (id: 25)",
-      "caption": "Map Thumbnail for Frye Bruhn Building (id: 25)",
-      "id": 110,
-      "name": "Map Thumbnail for Frye Bruhn Building (id: 25)",
-      "relative_url": "110.png",
-      "relative_url_@2x": "110@2x.png",
-      "relative_url_tablet": "110_tablet.png",
-      "relative_url_tablet_@2x": "110_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Corrington Lot - Rhubarb Garden (id: 26)",
-      "caption": "Map Thumbnail for Corrington Lot - Rhubarb Garden (id: 26)",
-      "id": 111,
-      "name": "Map Thumbnail for Corrington Lot - Rhubarb Garden (id: 26)",
-      "relative_url": "111.png",
-      "relative_url_@2x": "111@2x.png",
-      "relative_url_tablet": "111_tablet.png",
-      "relative_url_tablet_@2x": "111_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Historic City Hall (id: 27)",
-      "caption": "Map Thumbnail for Historic City Hall (id: 27)",
-      "id": 112,
-      "name": "Map Thumbnail for Historic City Hall (id: 27)",
-      "relative_url": "112.png",
-      "relative_url_@2x": "112@2x.png",
-      "relative_url_tablet": "112_tablet.png",
-      "relative_url_tablet_@2x": "112_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Portland House (id: 28)",
-      "caption": "Map Thumbnail for Portland House (id: 28)",
-      "id": 113,
-      "name": "Map Thumbnail for Portland House (id: 28)",
-      "relative_url": "113.png",
-      "relative_url_@2x": "113@2x.png",
-      "relative_url_tablet": "113_tablet.png",
-      "relative_url_tablet_@2x": "113_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Meyers Complex - YMCA (id: 29)",
-      "caption": "Map Thumbnail for Meyers Complex - YMCA (id: 29)",
-      "id": 114,
-      "name": "Map Thumbnail for Meyers Complex - YMCA (id: 29)",
-      "relative_url": "114.png",
-      "relative_url_@2x": "114@2x.png",
-      "relative_url_tablet": "114_tablet.png",
-      "relative_url_tablet_@2x": "114_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Peniel Mission (id: 30)",
-      "caption": "Map Thumbnail for Peniel Mission (id: 30)",
-      "id": 115,
-      "name": "Map Thumbnail for Peniel Mission (id: 30)",
-      "relative_url": "115.png",
-      "relative_url_@2x": "115@2x.png",
-      "relative_url_tablet": "115_tablet.png",
-      "relative_url_tablet_@2x": "115_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Molly Walsh Park and Statue (id: 31)",
-      "caption": "Map Thumbnail for Molly Walsh Park and Statue (id: 31)",
-      "id": 116,
-      "name": "Map Thumbnail for Molly Walsh Park and Statue (id: 31)",
-      "relative_url": "116.png",
-      "relative_url_@2x": "116@2x.png",
-      "relative_url_tablet": "116_tablet.png",
-      "relative_url_tablet_@2x": "116_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for White Pass Highway Wayside #2 (id: 35)",
-      "caption": "Map Thumbnail for White Pass Highway Wayside #2 (id: 35)",
-      "id": 119,
-      "name": "Map Thumbnail for White Pass Highway Wayside #2 (id: 35)",
-      "relative_url": "119.png",
-      "relative_url_@2x": "119@2x.png",
-      "relative_url_tablet": "119_tablet.png",
-      "relative_url_tablet_@2x": "119_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for White Pass Highway Wayside #3 (id: 36)",
-      "caption": "Map Thumbnail for White Pass Highway Wayside #3 (id: 36)",
-      "id": 120,
-      "name": "Map Thumbnail for White Pass Highway Wayside #3 (id: 36)",
-      "relative_url": "120.png",
-      "relative_url_@2x": "120@2x.png",
-      "relative_url_tablet": "120_tablet.png",
-      "relative_url_tablet_@2x": "120_tablet_2x.png",
-      "type": "map_thumbnail"
     }
   ],
   "more": [
@@ -1554,63 +1554,6 @@
     "Where is Canada?"
   ],
   "sites": [
-    {
-      "audio_description": "Klondike Gold Rush National Historical Park Visitor Center.  1 ½ minutes.  The visitor center for the Klondike Gold Rush National Historical Park is located at the southeast corner of Broadway and Second Avenue.  The visitor center is housed in the historic 1898 White Pass and Yukon Route Railroad Depot.  It’s a two-story wooden building painted a muted shade of red with mustard-yellow trim.  The pitched, shingled roof is topped with several brick chimneys.\n\nBoth buildings can be accessed through entrances on Second Avenue, off the wooden boardwalk that wraps around the building.  The boardwalk is three steps up from the street here, and there are railings at the corner to guide you. Alternatively, a ramp at the south end of Broadway provides access from the street to the boardwalk.  Please be aware that the wooden boardwalks can be slippery in rainy weather, so watch your step.\n\nThese entrances are on the left side of the Second Avenue facade, where the visitor center abuts the National Park Service museum building next door.  A breezeway between the two structures extends perpendicularly from the Second Avenue boardwalk.  Find the breezeway and walk in as far as you can.  The entrance to the Visitor Center will be on your right.  The entrance to the Park museum will be to your left.\n\nEnd of message.",
-      "description": "The Visitor Center was built as a depot for the White Pass and Yukon Route Railroad.  From the second-floor bay windows the dispatcher could see approaching and departing trains on the tracks that once curved around the southwest corner and headed north on Broadway toward the gold fields of the Klondike.",
-      "geofence_buffer_in_meters": 10,
-      "id": 1,
-      "information": [
-        {
-          "description": "After a rushed construction during the Gold Rush boom in Skagway, the depot opened in 1898 as the headquarters for the White Pass and Yukon Route Railroad. Due to a shortage of supplies, the depots creators resorted to the use of a patchwork of old crates and secondhand lumber as building material. ",
-          "name": "Building The Depot"
-        },
-        {
-          "description": "Listen for the train’s whistle blow - during the Second World War, twelve trains left Skagway for the Interior every day!  During this era, the depot and adjacent administration building were leased and operated by the U.S. Army, and played a critical role in the construction of the Alaska-Canada Highway. ",
-          "name": "Second World War"
-        },
-        {
-          "description": "The depot was eventually vacated in 1969 in favor of a more modern building to the east, and was acquired by the National Park Foundation before transfer to the National Park Service in 1976. The building was restored during the early 1980s to resemble its 1908-1915 appearance, and is now home to the Klondike Gold Rush National Historical Park Visitor Center and Park Headquarters. ",
-          "name": "Restoration of the Building"
-        },
-        {
-          "description": "Summer hours: Monday through Friday 8-6, Saturday 8-4, Sunday 8-5, Winter hours: Monday through Friday 9-4",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45350072,
-      "longitude": -135.3186089,
-      "map_thumbnail_image": 85,
-      "media": [
-        68,
-        78,
-        80,
-        14
-      ],
-      "name": "Visitor Center",
-      "name_description": "This historic train depot is home to Klondike Gold Rush National Historical Park, starting point for park activities.",
-      "primary_image": 15,
-      "type": "Visitor Center",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        },
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        },
-        {
-          "description": "Staffed by Ranger",
-          "icon": "ranger.png",
-          "icon_@2x": "ranger@2x.png",
-          "type": "Staffed by Ranger"
-        }
-      ]
-    },
     {
       "audio_description": "White Pass & Yukon Route Depot.  1 ¼ minutes.  The White Pass & Yukon Route Depot is situated on the south side of Second Avenue, between Broadway and Spring Street.  It is painted white with green trim.  The western half of the wooden building is two stories tall, dropping to just one story on the eastern side.  Further to the east is a large parking area.  On both the north and south-facing facades, maroon letters on the second story read “White Pass & Yukon Route, Established 1898.”  \n\nYou may enter the building on the north side from Second Avenue.  It’s two steps up to the door from the sidewalk, and there’s a ramp near the right-hand edge of the building.  Or you can enter the depot from the south.  A covered cement porch runs the length of the building on the south side and a doorway provides access from the porch.  The porch also serves as the railroad platform; the tracks are located a few feet to the south, parallel to it.  Please watch your step near the tracks and listen for oncoming trains.\n\nEnd of message.",
       "description": "This ornate building was designed by Seattle architect Henry Dozier to house the White Pass and Yukon Route Railroad administration.  Completed in 1900, the building today serves as headquarters for Klondike Gold Rush National Historical Park, featuring a museum with exhibits about the gold rush.",
@@ -1771,6 +1714,63 @@
           "icon": "wheelchair.png",
           "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "audio_description": "Klondike Gold Rush National Historical Park Visitor Center.  1 ½ minutes.  The visitor center for the Klondike Gold Rush National Historical Park is located at the southeast corner of Broadway and Second Avenue.  The visitor center is housed in the historic 1898 White Pass and Yukon Route Railroad Depot.  It’s a two-story wooden building painted a muted shade of red with mustard-yellow trim.  The pitched, shingled roof is topped with several brick chimneys.\n\nBoth buildings can be accessed through entrances on Second Avenue, off the wooden boardwalk that wraps around the building.  The boardwalk is three steps up from the street here, and there are railings at the corner to guide you. Alternatively, a ramp at the south end of Broadway provides access from the street to the boardwalk.  Please be aware that the wooden boardwalks can be slippery in rainy weather, so watch your step.\n\nThese entrances are on the left side of the Second Avenue facade, where the visitor center abuts the National Park Service museum building next door.  A breezeway between the two structures extends perpendicularly from the Second Avenue boardwalk.  Find the breezeway and walk in as far as you can.  The entrance to the Visitor Center will be on your right.  The entrance to the Park museum will be to your left.\n\nEnd of message.",
+      "description": "The Visitor Center was built as a depot for the White Pass and Yukon Route Railroad.  From the second-floor bay windows the dispatcher could see approaching and departing trains on the tracks that once curved around the southwest corner and headed north on Broadway toward the gold fields of the Klondike.",
+      "geofence_buffer_in_meters": 10,
+      "id": 1,
+      "information": [
+        {
+          "description": "After a rushed construction during the Gold Rush boom in Skagway, the depot opened in 1898 as the headquarters for the White Pass and Yukon Route Railroad. Due to a shortage of supplies, the depots creators resorted to the use of a patchwork of old crates and secondhand lumber as building material. ",
+          "name": "Building The Depot"
+        },
+        {
+          "description": "Listen for the train’s whistle blow - during the Second World War, twelve trains left Skagway for the Interior every day!  During this era, the depot and adjacent administration building were leased and operated by the U.S. Army, and played a critical role in the construction of the Alaska-Canada Highway. ",
+          "name": "Second World War"
+        },
+        {
+          "description": "The depot was eventually vacated in 1969 in favor of a more modern building to the east, and was acquired by the National Park Foundation before transfer to the National Park Service in 1976. The building was restored during the early 1980s to resemble its 1908-1915 appearance, and is now home to the Klondike Gold Rush National Historical Park Visitor Center and Park Headquarters. ",
+          "name": "Restoration of the Building"
+        },
+        {
+          "description": "Summer hours: Monday through Friday 8-6, Saturday 8-4, Sunday 8-5, Winter hours: Monday through Friday 9-4",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.453501,
+      "longitude": -135.318609,
+      "map_thumbnail_image": 85,
+      "media": [
+        68,
+        78,
+        80,
+        14
+      ],
+      "name": "Visitor Center",
+      "name_description": "This historic train depot is home to Klondike Gold Rush National Historical Park, starting point for park activities.",
+      "primary_image": 15,
+      "type": "Visitor Center",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        },
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        },
+        {
+          "description": "Staffed by Ranger",
+          "icon": "ranger.png",
+          "icon_@2x": "ranger@2x.png",
+          "type": "Staffed by Ranger"
         }
       ]
     },
