@@ -82,6 +82,15 @@
   ],
   "sites": [
     {
+      "description": "In the years following his presidency, Herbert and Lou Hoover restored the president's humble birthplace, which he called \"physical proof of the unbounded opportunity of American life.\" The small spaces and dearth of material possession reflect an ethic of thrift, and the cottage's status as a starter home for a young family. Antique furnishings from the mid and late 19th century represent common household items for a simply furnished two room rural home.",
+      "geofence_buffer_in_meters": 10,
+      "id": 384,
+      "latitude": 41.6702711748314,
+      "longitude": -91.3468685746193,
+      "name": "Birthplace Cottage",
+      "type": "Home"
+    },
+    {
       "description": "Start your visit at the Visitor Center, where you can pick up a map and guide. Park rangers are available to answer questions and help you get oriented.",
       "geofence_buffer_in_meters": 10,
       "id": 383,
@@ -118,15 +127,6 @@
       "type": "Shop"
     },
     {
-      "description": "In the years following his presidency, Herbert and Lou Hoover restored the president's humble birthplace, which he called \"physical proof of the unbounded opportunity of American life.\" The small spaces and dearth of material possession reflect an ethic of thrift, and the cottage's status as a starter home for a young family. Antique furnishings from the mid and late 19th century represent common household items for a simply furnished two room rural home.",
-      "geofence_buffer_in_meters": 10,
-      "id": 384,
-      "latitude": 41.6701790107662,
-      "longitude": -91.3457044959068,
-      "name": "Birthplace Cottage",
-      "type": "Home"
-    },
-    {
       "description": "Herbert Hoover recalled, “Iowa in those years was filled with days of school, and who does not remember with a glow, some gentle woman, who with infinite patience and kindness, drilled into us those foundations of all we know today.”",
       "geofence_buffer_in_meters": 10,
       "id": 386,
@@ -134,6 +134,15 @@
       "longitude": -91.3473741710186,
       "name": "Schoolhouse",
       "type": "School"
+    },
+    {
+      "description": "On August 12, 1965, an act of Congress established this park as a national historic site. Since then, the National Park Service has preserved and interpreted the historic structures and landscape of this 187-acre park. In the late 1930's, President Hoover and his wife, Lou Henry Hoover, chose this place to celebrate the values they believed helped shape his life.",
+      "geofence_buffer_in_meters": 10,
+      "id": 391,
+      "latitude": 41.6704234456064,
+      "longitude": -91.3461765646935,
+      "name": "Visitor Center Orientation Wayside",
+      "type": "Exhibit"
     },
     {
       "description": "For thirty-six years Dr. L.J. Leech, a Civil War veteran and graduate of Iowa State University, had lived in the Laban Miles House next door; renting it at first in 1884, and then buying it two years later when the bank foreclosed on the home. By 1920, the well-liked country doctor and Iowa legislator decided to have a new home built for himself.",
@@ -168,15 +177,6 @@
       "latitude": 41.6702611570046,
       "longitude": -91.346989274025,
       "name": "Birthplace Cottage Back Porch and Garden"
-    },
-    {
-      "description": "On August 12, 1965, an act of Congress established this park as a national historic site. Since then, the National Park Service has preserved and interpreted the historic structures and landscape of this 187-acre park. In the late 1930's, President Hoover and his wife, Lou Henry Hoover, chose this place to celebrate the values they believed helped shape his life.",
-      "geofence_buffer_in_meters": 10,
-      "id": 391,
-      "latitude": 41.6701850214702,
-      "longitude": -91.3457876443863,
-      "name": "Visitor Center Orientation Wayside",
-      "type": "Exhibit"
     },
     {
       "description": "Herbert Hoover wrote of West Branch, \"My grandparents and my parents came here in a covered wagon. In this community they toiled and worshipped God. The most formative years of my boyhood were spent here. My roots are in this soil.\"",
@@ -332,74 +332,20 @@
       "type": "Trailhead"
     },
     {
-      "description": "In March 1890 Lavina Patterson opened a millinery shop here and lived with ther family upstairs. Dr. L.J. Leech moved his medical offices here after fire damaged the buildings across the street in 1895. It remained Dr. Leech's office until his death in 1937.",
+      "description": "James Townsend owned Traveler's Rest, an inn where abolitionist John Brown stayed when passing through West Branch in 1856. Brown later trained part of his army in nearby Springdale for their 1859 attack on Harper's Ferry, Virigina. The raiders included two young local men, brothers Barclay and Edwin Coppock.",
       "geofence_buffer_in_meters": 10,
-      "id": 425,
-      "latitude": 41.6702351106477,
-      "longitude": -91.3461685180664,
-      "name": "Patterson-Leech Building (1890), 107 W. Main Street",
-      "type": "Shop"
-    },
-    {
-      "description": "T. Butler and Dr. L.J. Leech agreed to jointly finance this structure in 1895. The west half of the building housed a meat market on the first floor and the lodge of the Modern Woodmen of American on the second. The east side was rented to Bert Gill for the union Block Drug Store. Since then the building has housed several shops, cafes, and offices.",
-      "geofence_buffer_in_meters": 10,
-      "id": 424,
-      "latitude": 41.670237114214,
-      "longitude": -91.3462328910828,
-      "name": "The Union Block (1895),  106-108 W. Main Street",
-      "type": "Market"
-    },
-    {
-      "description": "The War Memorial Building, built in 1948, honors veterans of World War II. The first floor served as the post office and the local American Legion used the basement and upstairs. An antique shop replaced the post office in 1970.",
-      "geofence_buffer_in_meters": 10,
-      "id": 423,
-      "latitude": 41.6702771855267,
-      "longitude": -91.3462409377098,
-      "name": "War Memorial Building (1947), 105 W. Main Street",
-      "type": "Post Office"
-    },
-    {
-      "description": "West Branch Bank was founded here in 1875 but moved across Main Street three years later. A variety of shops used this building over the years. In 1965 owners closed the original front door and cut an interior passage on the east into the building next door.",
-      "geofence_buffer_in_meters": 10,
-      "id": 422,
-      "latitude": 41.6702771855267,
-      "longitude": -91.3461899757385,
-      "name": "West Branch Bank (1875), 104 W. Main Street",
-      "type": "Bank"
-    },
-    {
-      "description": "Nate Crook owned and operated a barber shop and restaurant in this building in 1871. By 1877 he had expanded his operation to include a hotel and livery. Over the years the building has housed several hotels and restaurants.",
-      "geofence_buffer_in_meters": 10,
-      "id": 421,
-      "latitude": 41.6702771855267,
-      "longitude": -91.3461390137672,
-      "name": "Crook's Hotel (1870), 102 W. Main Street",
-      "type": "Hotel"
-    },
-    {
-      "description": "Charles A. Macomber constructed the most ambitious project of the era in 1895. The two-story Opera Block is still the largest commercial building downtown. Three stores shared the first floor. the top floor included the Masonic Lodge and a 500 seat heater with a 20 by 40 foot stage. “The Pastime” motion picture house took the upper space in 1912. A woodworking and antique store occupied the first floor prior to its restoration in 1986.",
-      "geofence_buffer_in_meters": 10,
-      "id": 419,
-      "latitude": 41.6702751819617,
-      "longitude": -91.3460317254066,
-      "name": "The Opera Block (1895) 107-109 N. Downey Street",
-      "type": "Theater"
-    },
-    {
-      "description": "Bert Leech and Harry Gruwell entered a partnership to build a garage and plumbing shop here in 1911. the members of the local masonic Lodge helped construct this two-story brick building that would house the garage and plumbing shop on the street level and the lodge rooms on the second floor.",
-      "geofence_buffer_in_meters": 10,
-      "id": 418,
-      "latitude": 41.6702351106477,
-      "longitude": -91.3460317254066,
-      "name": "Leech-Gruwell Garage (1911) 105 N. Downey",
-      "type": "Shop"
+      "id": 415,
+      "latitude": 41.6714522656813,
+      "longitude": -91.3362523913383,
+      "name": "Traveler's Rest",
+      "type": "Inn"
     },
     {
       "description": "Charles F. Schroeder had this building constructed in 1912 for his men’s clothing store. The modern store boasted large display windows and electric lights. since that time, several shops have used the building and made alterations to its interior.",
       "geofence_buffer_in_meters": 10,
       "id": 417,
-      "latitude": 41.6702751819617,
-      "longitude": -91.3459753990173,
+      "latitude": 41.6715955178053,
+      "longitude": -91.3465386629105,
       "name": "Leech Building (1912), 103 N. Downey Street",
       "type": "Store"
     },
@@ -407,82 +353,127 @@
       "description": "In 1909 Citizens' Savings Bank relocated here on the northeast corner of North Downey and Main streets. Surviving the collapse of farm prices in 1921 but not the Great Depression, it was absorbed in 1934 by the West Branch State Bank, creating the First State Bank.",
       "geofence_buffer_in_meters": 10,
       "id": 416,
-      "latitude": 41.670237114214,
-      "longitude": -91.3459700345993,
+      "latitude": 41.6715354120579,
+      "longitude": -91.3465386629105,
       "name": "Citizens' Savings Bank (1908), 101 N. Downey Street",
       "type": "Bank"
     },
     {
-      "description": "James Townsend owned Traveler's Rest, an inn where abolitionist John Brown stayed when passing through West Branch in 1856. Brown later trained part of his army in nearby Springdale for their 1859 attack on Harper's Ferry, Virigina. The raiders included two young local men, brothers Barclay and Edwin Coppock.",
+      "description": "Charles A. Macomber constructed the most ambitious project of the era in 1895. The two-story Opera Block is still the largest commercial building downtown. Three stores shared the first floor. the top floor included the Masonic Lodge and a 500 seat heater with a 20 by 40 foot stage. “The Pastime” motion picture house took the upper space in 1912. A woodworking and antique store occupied the first floor prior to its restoration in 1986.",
       "geofence_buffer_in_meters": 10,
-      "id": 415,
-      "latitude": 41.6702751819617,
-      "longitude": -91.345921754837,
-      "name": "Traveler's Rest",
-      "type": "Inn"
+      "id": 419,
+      "latitude": 41.6718319332009,
+      "longitude": -91.3465413451195,
+      "name": "The Opera Block (1895) 107-109 N. Downey Street",
+      "type": "Theater"
     },
     {
-      "description": "In 1904 Huldah Enlow donated the land and building for a public library. Later, an anonymous monetary gift financed construction of an expansion. In 1963, the front entrance was enclosed and in 1974, the basement was converted into a children's library. It remained a library until 1993.",
+      "description": "The War Memorial Building, built in 1948, honors veterans of World War II. The first floor served as the post office and the local American Legion used the basement and upstairs. An antique shop replaced the post office in 1970.",
       "geofence_buffer_in_meters": 10,
-      "id": 430,
-      "latitude": 41.6702270963819,
-      "longitude": -91.3457071781158,
-      "name": "Enlow Building (1904), 124 W. Main Street",
-      "type": "Library"
-    },
-    {
-      "description": "Built by Mayor S.C. Gruwell and businessman J.C. Crew shortly after the land was deeded in 1894, this is one of the older storefronts remaining along West Main Street, having been built shortly after the land was deeded in 1894. C.M. Paulsen had a music store here until a harness shop occupied the building in about 1910. it because a variety store in 1960. In recent years it has been the home of the West Branch Heritage Museum.",
-      "geofence_buffer_in_meters": 10,
-      "id": 426,
-      "latitude": 41.670237114214,
-      "longitude": -91.346088051796,
-      "name": "Gruwell-Crew Building (1894), 109 W. Main Street)",
-      "type": "Store"
-    },
-    {
-      "description": "Caleb H. Wickersham, postmaster of West Branch, contracted construction of this building in 1906. One year later, Wickersham signed the federal government to a 10 year lease to house the post office. The post office relocated in 1928 and in the ensuing years the building housed a number of different business. The Old Post Office collapsed during renovation in 2011. The present building incorporates bricks and design features, like the arch, from the Old Post Office in its facade.",
-      "geofence_buffer_in_meters": 10,
-      "id": 429,
-      "latitude": 41.6701850214702,
-      "longitude": -91.34610414505,
-      "name": "Old Post Office (1907), 116 W. Main Street",
+      "id": 423,
+      "latitude": 41.67152940148,
+      "longitude": -91.3470321893692,
+      "name": "War Memorial Building (1947), 105 W. Main Street",
       "type": "Post Office"
     },
     {
-      "description": "Behind the brick facade stands the wood frame building of Edwin Grinnell's drug store and H.T. Hollingsworth's watch repair. This building, the oldest surviving store, may date back to 1869. A series of jewelers and druggists occupied the building until 1924 when Fred Albin bought it for his meat market. He added the back room and brick facade.",
+      "description": "Bert Leech and Harry Gruwell entered a partnership to build a garage and plumbing shop here in 1911. the members of the local masonic Lodge helped construct this two-story brick building that would house the garage and plumbing shop on the street level and the lodge rooms on the second floor.",
       "geofence_buffer_in_meters": 10,
-      "id": 428,
-      "latitude": 41.6702651641355,
-      "longitude": -91.3457098603249,
-      "name": "Grinnell Building (1869) 112 W. Main Street",
-      "type": "Store"
+      "id": 418,
+      "latitude": 41.6716896833636,
+      "longitude": -91.3465440273285,
+      "name": "Leech-Gruwell Garage (1911) 105 N. Downey",
+      "type": "Shop"
     },
     {
-      "description": "This building's exterior has had only minor alterations since its construction in 1895. Originally Rich's Golden Rule general store occupied one side of the building and Dr. J. I. bailey's medical offices occupied the other. Over the years a bakery, dry cleaning and men's clothing store, furnace and tin shop, antique shop, and grocery store were located here.",
+      "description": "T. Butler and Dr. L.J. Leech agreed to jointly finance this structure in 1895. The west half of the building housed a meat market on the first floor and the lodge of the Modern Woodmen of American on the second. The east side was rented to Bert Gill for the union Block Drug Store. Since then the building has housed several shops, cafes, and offices.",
       "geofence_buffer_in_meters": 10,
-      "id": 431,
-      "latitude": 41.6701890286058,
-      "longitude": -91.3462355732918,
-      "name": "Rich and Bailey Block (1895), 109 E. Main Street",
-      "type": "Store"
+      "id": 424,
+      "latitude": 41.6712709461022,
+      "longitude": -91.3471072912216,
+      "name": "The Union Block (1895),  106-108 W. Main Street",
+      "type": "Market"
+    },
+    {
+      "description": "West Branch Bank was founded here in 1875 but moved across Main Street three years later. A variety of shops used this building over the years. In 1965 owners closed the original front door and cut an interior passage on the east into the building next door.",
+      "geofence_buffer_in_meters": 10,
+      "id": 422,
+      "latitude": 41.6712789602381,
+      "longitude": -91.3461631536484,
+      "name": "West Branch Bank (1875), 104 W. Main Street",
+      "type": "Bank"
+    },
+    {
+      "description": "Nate Crook owned and operated a barber shop and restaurant in this building in 1871. By 1877 he had expanded his operation to include a hotel and livery. Over the years the building has housed several hotels and restaurants.",
+      "geofence_buffer_in_meters": 10,
+      "id": 421,
+      "latitude": 41.6712649354997,
+      "longitude": -91.3458117842674,
+      "name": "Crook's Hotel (1870), 102 W. Main Street",
+      "type": "Hotel"
+    },
+    {
+      "description": "In March 1890 Lavina Patterson opened a millinery shop here and lived with ther family upstairs. Dr. L.J. Leech moved his medical offices here after fire damaged the buildings across the street in 1895. It remained Dr. Leech's office until his death in 1937.",
+      "geofence_buffer_in_meters": 10,
+      "id": 425,
+      "latitude": 41.671531405006,
+      "longitude": -91.3471287488937,
+      "name": "Patterson-Leech Building (1890), 107 W. Main Street",
+      "type": "Shop"
     },
     {
       "description": "Commercial growth prompted the establishment of a second downtown bank in 1898. In 1898 the Citizens' Savings Bank moved into the new brick building. The principal shareholders used local material dealers and contractors for construction. The front featured a dazzling 8 by 11 foot plate glass window. Since 1909 this building has been occupied by small businesses.",
       "geofence_buffer_in_meters": 10,
       "id": 427,
-      "latitude": 41.6701910321735,
-      "longitude": -91.3461765646935,
+      "latitude": 41.6712709461022,
+      "longitude": -91.3472387194633,
       "name": "Earliest Citizen's Savings Bank (1898), 110 W. Main Street",
       "type": "Bank"
     },
     {
-      "description": "This large brick structure, built in 1916, housed the West Branch State Bank (previously named West Branch Bank). It replaced a bank building (circa 1877) which stood on the same site, but was razed to make room for the new, larger building. The bank took temporary quarters across the street during construction. It then occupied this building until 1974. Fred Albin rented the back for his meat market until 1924. The West Branch Telephone Company shared the second floor with Hubbard & Hubbard Chiropractors.",
+      "description": "This building's exterior has had only minor alterations since its construction in 1895. Originally Rich's Golden Rule general store occupied one side of the building and Dr. J. I. bailey's medical offices occupied the other. Over the years a bakery, dry cleaning and men's clothing store, furnace and tin shop, antique shop, and grocery store were located here.",
       "geofence_buffer_in_meters": 10,
-      "id": 420,
-      "latitude": 41.6702791890917,
-      "longitude": -91.3460800051689,
-      "name": "Old West Branch State Bank (1916), 101 W. Main Street",
-      "type": "Bank"
+      "id": 431,
+      "latitude": 41.6715855001847,
+      "longitude": -91.3457179069519,
+      "name": "Rich and Bailey Block (1895), 109 E. Main Street",
+      "type": "Store"
+    },
+    {
+      "description": "Behind the brick facade stands the wood frame building of Edwin Grinnell's drug store and H.T. Hollingsworth's watch repair. This building, the oldest surviving store, may date back to 1869. A series of jewelers and druggists occupied the building until 1924 when Fred Albin bought it for his meat market. He added the back room and brick facade.",
+      "geofence_buffer_in_meters": 10,
+      "id": 428,
+      "latitude": 41.6712709461022,
+      "longitude": -91.3474184274673,
+      "name": "Grinnell Building (1869) 112 W. Main Street",
+      "type": "Store"
+    },
+    {
+      "description": "Built by Mayor S.C. Gruwell and businessman J.C. Crew shortly after the land was deeded in 1894, this is one of the older storefronts remaining along West Main Street, having been built shortly after the land was deeded in 1894. C.M. Paulsen had a music store here until a harness shop occupied the building in about 1910. it because a variety store in 1960. In recent years it has been the home of the West Branch Heritage Museum.",
+      "geofence_buffer_in_meters": 10,
+      "id": 426,
+      "latitude": 41.6715253944278,
+      "longitude": -91.3472601771355,
+      "name": "Gruwell-Crew Building (1894), 109 W. Main Street)",
+      "type": "Store"
+    },
+    {
+      "description": "In 1904 Huldah Enlow donated the land and building for a public library. Later, an anonymous monetary gift financed construction of an expansion. In 1963, the front entrance was enclosed and in 1974, the basement was converted into a children's library. It remained a library until 1993.",
+      "geofence_buffer_in_meters": 10,
+      "id": 430,
+      "latitude": 41.6712709461022,
+      "longitude": -91.347895860672,
+      "name": "Enlow Building (1904), 124 W. Main Street",
+      "type": "Library"
+    },
+    {
+      "description": "Caleb H. Wickersham, postmaster of West Branch, contracted construction of this building in 1906. One year later, Wickersham signed the federal government to a 10 year lease to house the post office. The post office relocated in 1928 and in the ensuing years the building housed a number of different business. The Old Post Office collapsed during renovation in 2011. The present building incorporates bricks and design features, like the arch, from the Old Post Office in its facade.",
+      "geofence_buffer_in_meters": 10,
+      "id": 429,
+      "latitude": 41.6712729496363,
+      "longitude": -91.3474828004837,
+      "name": "Old Post Office (1907), 116 W. Main Street",
+      "type": "Post Office"
     },
     {
       "description": "Boy Scouts built a picnic shelter in 1953 as a tribute to Herbert Hoover's long legacy of service to youth around the world. The next year, the former president accepted an invitation from the Iowa legislature to celebrate his 80th birthday in West Branch. After a speech at the new Herbert Hoover Elementary School, where an audience of 20,000 greeted him, Hoover arrived at the picnic shelter for a birthday lunch of fried chicken, corn, potato salad, and cake.",
@@ -503,11 +494,20 @@
       "type": "Museum"
     },
     {
+      "description": "This large brick structure, built in 1916, housed the West Branch State Bank (previously named West Branch Bank). It replaced a bank building (circa 1877) which stood on the same site, but was razed to make room for the new, larger building. The bank took temporary quarters across the street during construction. It then occupied this building until 1974. Fred Albin rented the back for his meat market until 1924. The West Branch Telephone Company shared the second floor with Hubbard & Hubbard Chiropractors.",
+      "geofence_buffer_in_meters": 10,
+      "id": 420,
+      "latitude": 41.6715213873754,
+      "longitude": -91.3468685746193,
+      "name": "Old West Branch State Bank (1916), 101 W. Main Street",
+      "type": "Bank"
+    },
+    {
       "description": "Herbert Hoover's father and mother, Jesse and Hulda, are buried among relatives at West Branch city cemetery.",
       "geofence_buffer_in_meters": 10,
       "id": 413,
-      "latitude": 41.6702711748314,
-      "longitude": -91.3458707928658,
+      "latitude": 41.67726,
+      "longitude": -91.35117,
       "name": "Graves of Jesse and Hulda Hoover - West Branch Cemetery",
       "type": "Graves"
     },
