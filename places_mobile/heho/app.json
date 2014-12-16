@@ -22,10 +22,57 @@
       "name": "Nearby"
     },
     {
-      "name": "Good for Families"
+      "name": "Good for Families",
+      "sites": [
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390,
+        395
+      ]
     },
     {
-      "name": "Lesser Known"
+      "name": "Historic Downtown\n",
+      "sites": [
+        416,
+        417,
+        418,
+        419,
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        431
+      ]
+    },
+    {
+      "name": "A Memory And A Legacy",
+      "sites": [
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390,
+        391,
+        395,
+        396,
+        411,
+        412,
+        414
+      ]
     }
   ],
   "description": "Like the small town of the 31st president's early childhood, Herbert Hoover National Historic Site may be explored on foot in less than a day. Buildings from President Hoover's boyhood stand side by side with monuments to his achievements. The president's modest birthplace, his presidential library, and final resting place together recall what Hoover called \"the unbounded opportunity of American life./\"",
@@ -74,7 +121,11 @@
   ],
   "name": "Herbert Hoover",
   "searches": [
-    "HEHO suggested search 1"
+    "Herbert Hoover birthplace",
+    "Blacksmith",
+    "Presidential Library",
+    "Herbert Hoover Grave",
+    "Park admission fee"
   ],
   "sites": [
     {
