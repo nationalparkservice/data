@@ -25,10 +25,6 @@
       "name": "Good for Families"
     },
     {
-      "description": "For BETA Test only",
-      "name": "HEHO/FOSM"
-    },
-    {
       "name": "Lesser Known"
     }
   ],
@@ -82,6 +78,15 @@
   ],
   "sites": [
     {
+      "description": "Herbert Hoover recalled, “Iowa in those years was filled with days of school, and who does not remember with a glow, some gentle woman, who with infinite patience and kindness, drilled into us those foundations of all we know today.”",
+      "geofence_buffer_in_meters": 10,
+      "id": 386,
+      "latitude": 41.670562,
+      "longitude": -91.347367,
+      "name": "Schoolhouse",
+      "type": "School"
+    },
+    {
       "description": "In the years following his presidency, Herbert and Lou Hoover restored the president's humble birthplace, which he called \"physical proof of the unbounded opportunity of American life.\" The small spaces and dearth of material possession reflect an ethic of thrift, and the cottage's status as a starter home for a young family. Antique furnishings from the mid and late 19th century represent common household items for a simply furnished two room rural home.",
       "geofence_buffer_in_meters": 10,
       "id": 384,
@@ -89,6 +94,33 @@
       "longitude": -91.3468685746193,
       "name": "Birthplace Cottage",
       "type": "Home"
+    },
+    {
+      "description": "Jesse Hoover owned and operated a blacksmith shop from 1871 to 1878. Although there were other smithies in town, Jesse earned a reputation as a good-natured, fair, and industrious businessman. Skilled and ambitious, he advertised to farmers, “Horse shoeing and plow work a specialty. Also dealer in all kinds of pumps. Prices to suit the times.”",
+      "geofence_buffer_in_meters": 10,
+      "id": 385,
+      "latitude": 41.670435,
+      "longitude": -91.347062,
+      "name": "Blacksmith Shop",
+      "type": "Shop"
+    },
+    {
+      "description": "In 1869, carpenter David Mackey, who designed and built this humble two-story home. The cheerful yellow house would have been a familiar landmark to the young Herbert Hoover.  Just a few years after construction was complete, David’s wife Mary died, leaving the carpenter with a baby son named Charles. The young widower, one of the town's few Democrats, was elected the Mayor of West Branch in 1879. Of the homes in the core area dating back to Hoover's boyhood, this house and the Wright House, across the street, have been the least altered in appearance.",
+      "geofence_buffer_in_meters": 10,
+      "id": 404,
+      "latitude": 41.67083,
+      "longitude": -91.347448,
+      "name": "David Mackey House",
+      "type": "Residence"
+    },
+    {
+      "description": "Herbert Hoover grew up in a religious community that valued peace, simplicity, integrity, and service to others. The plainly furnished Friends Meetinghouse, built by the Society of Friends, or Quakers, in 1857, is the physical expression of those values. Now two blocks from its original location, the Herbert Hoover Birthplace Foundation relocated and restored this meetinghouse in 1964.",
+      "geofence_buffer_in_meters": 10,
+      "id": 387,
+      "latitude": 41.66975,
+      "longitude": -91.346337,
+      "name": "Friends Meetinghouse",
+      "type": "Church"
     },
     {
       "description": "Start your visit at the Visitor Center, where you can pick up a map and guide. Park rangers are available to answer questions and help you get oriented.",
@@ -107,33 +139,6 @@
       "longitude": -91.3469356298447,
       "name": "Statue of Isis",
       "type": "Statue"
-    },
-    {
-      "description": "Herbert Hoover grew up in a religious community that valued peace, simplicity, integrity, and service to others. The plainly furnished Friends Meetinghouse, built by the Society of Friends, or Quakers, in 1857, is the physical expression of those values. Now two blocks from its original location, the Herbert Hoover Birthplace Foundation relocated and restored this meetinghouse in 1964.",
-      "geofence_buffer_in_meters": 10,
-      "id": 387,
-      "latitude": 41.6697642708402,
-      "longitude": -91.3463267683983,
-      "name": "Friends Meetinghouse",
-      "type": "Church"
-    },
-    {
-      "description": "Jesse Hoover owned and operated a blacksmith shop from 1871 to 1878. Although there were other smithies in town, Jesse earned a reputation as a good-natured, fair, and industrious businessman. Skilled and ambitious, he advertised to farmers, “Horse shoeing and plow work a specialty. Also dealer in all kinds of pumps. Prices to suit the times.”",
-      "geofence_buffer_in_meters": 10,
-      "id": 385,
-      "latitude": 41.6704454847677,
-      "longitude": -91.3470885157585,
-      "name": "Blacksmith Shop",
-      "type": "Shop"
-    },
-    {
-      "description": "Herbert Hoover recalled, “Iowa in those years was filled with days of school, and who does not remember with a glow, some gentle woman, who with infinite patience and kindness, drilled into us those foundations of all we know today.”",
-      "geofence_buffer_in_meters": 10,
-      "id": 386,
-      "latitude": 41.6705426573434,
-      "longitude": -91.3473741710186,
-      "name": "Schoolhouse",
-      "type": "School"
     },
     {
       "description": "On August 12, 1965, an act of Congress established this park as a national historic site. Since then, the National Park Service has preserved and interpreted the historic structures and landscape of this 187-acre park. In the late 1930's, President Hoover and his wife, Lou Henry Hoover, chose this place to celebrate the values they believed helped shape his life.",
@@ -224,6 +229,24 @@
       "type": "Block"
     },
     {
+      "description": "Amanda Garvin was a single 35-year old woman when she bought this property in 1870 for $90.00. She had this cottage built by 1872. The Garvin house is a wonderful example of the Gothic Revival style with its steeply pitched roof, gingerbread bargeboard trim, and ornamental arches framing the open front porch. By 1878, Miss Garvin was renting her cottage to tenants. During the fifteen years she owned the property, she mortgaged it several times but lost the home to foreclosure in 1885.",
+      "geofence_buffer_in_meters": 10,
+      "id": 401,
+      "latitude": 41.670862,
+      "longitude": -91.346893,
+      "name": "Amanda Garvin House",
+      "type": "Office"
+    },
+    {
+      "description": "Charles E. Smith was a carpenter and a Civil War veteran. In 1903, he completed his dream home for himself and his wife, Deborah, atop Cooks Hill where each spring, he would tap his maple trees to make maple syrup. The National Park Service relocated it here in 1969.",
+      "geofence_buffer_in_meters": 10,
+      "id": 402,
+      "latitude": 41.670704,
+      "longitude": -91.34692,
+      "name": "C.E. Smith House",
+      "type": "Office"
+    },
+    {
       "description": "In 1870, real-estate developer J.M. Wetherell sold three lots to E.S. Hayhurst. Hayhurst built his house here in 1872. Unfortunately, Hayhurst and his family were only able to call this place home for less than a decade. When they couldn't make the payments, the mortgage was foreclosed and the family left town in 1878. Ever the businessman, Wetherell repossessed the lots and turned the house into a rental property.",
       "geofence_buffer_in_meters": 10,
       "id": 407,
@@ -249,33 +272,6 @@
       "longitude": -91.3478395342827,
       "name": "James Staples House",
       "type": "Residence"
-    },
-    {
-      "description": "In 1869, carpenter David Mackey, who designed and built this humble two-story home. The cheerful yellow house would have been a familiar landmark to the young Herbert Hoover.  Just a few years after construction was complete, David’s wife Mary died, leaving the carpenter with a baby son named Charles. The young widower, one of the town's few Democrats, was elected the Mayor of West Branch in 1879. Of the homes in the core area dating back to Hoover's boyhood, this house and the Wright House, across the street, have been the least altered in appearance.",
-      "geofence_buffer_in_meters": 10,
-      "id": 404,
-      "latitude": 41.6708542096641,
-      "longitude": -91.3474291563034,
-      "name": "David Mackey House",
-      "type": "Residence"
-    },
-    {
-      "description": "Charles E. Smith was a carpenter and a Civil War veteran. In 1903, he completed his dream home for himself and his wife, Deborah, atop Cooks Hill where each spring, he would tap his maple trees to make maple syrup. The National Park Service relocated it here in 1969.",
-      "geofence_buffer_in_meters": 10,
-      "id": 402,
-      "latitude": 41.6707099541147,
-      "longitude": -91.3469302654266,
-      "name": "C.E. Smith House",
-      "type": "Office"
-    },
-    {
-      "description": "Amanda Garvin was a single 35-year old woman when she bought this property in 1870 for $90.00. She had this cottage built by 1872. The Garvin house is a wonderful example of the Gothic Revival style with its steeply pitched roof, gingerbread bargeboard trim, and ornamental arches framing the open front porch. By 1878, Miss Garvin was renting her cottage to tenants. During the fifteen years she owned the property, she mortgaged it several times but lost the home to foreclosure in 1885.",
-      "geofence_buffer_in_meters": 10,
-      "id": 401,
-      "latitude": 41.6708762486779,
-      "longitude": -91.3469222187996,
-      "name": "Amanda Garvin House",
-      "type": "Office"
     },
     {
       "description": "West Branch was barely a settlement in 1852 when Baltimore native Aaron Baker came here to claim the free land he'd received from the United States government for his service in the Mexican War. He promptly sold all 160 acres of it for about a dollar apiece.",
@@ -479,8 +475,8 @@
       "description": "Boy Scouts built a picnic shelter in 1953 as a tribute to Herbert Hoover's long legacy of service to youth around the world. The next year, the former president accepted an invitation from the Iowa legislature to celebrate his 80th birthday in West Branch. After a speech at the new Herbert Hoover Elementary School, where an audience of 20,000 greeted him, Hoover arrived at the picnic shelter for a birthday lunch of fried chicken, corn, potato salad, and cake.",
       "geofence_buffer_in_meters": 10,
       "id": 411,
-      "latitude": 41.6700547894262,
-      "longitude": -91.3500174880028,
+      "latitude": 41.670027,
+      "longitude": -91.35002,
       "name": "Boy Scout Picnic Shelter",
       "type": "Picnic Shelter"
     },
