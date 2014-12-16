@@ -55,16 +55,6 @@
       ]
     },
     {
-      "description": "For BETA Test only",
-      "name": "HEHO/FOSM",
-      "sites": [
-        80,
-        81,
-        82,
-        83
-      ]
-    },
-    {
       "name": "Lesser Known",
       "sites": [
         26,
@@ -2083,7 +2073,7 @@
               "name": "Visiting FAQ's"
             },
             {
-              "description": "This is the Credits page!\n\nEntry 1\n\nEntry 2\n",
+              "description": "All images featured are provided by the National Park Service (NPS) and National Records and Archives Administration (NARA).",
               "header": "Credits",
               "image_position": "top",
               "name": "Credits"
