@@ -2356,6 +2356,31 @@
     },
     {
       "geofence_buffer_in_meters": 10,
+      "id": 9,
+      "information": [
+        {
+          "description": "Available Year-Round",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.453018,
+      "longitude": -135.319247,
+      "map_thumbnail_image": 94,
+      "name": "Centennial Park",
+      "name_description": "Constructed in 1997, this park celebrates the centennial of the Klondike Gold Rush with a statue of a Tlingit packer and stampeder.",
+      "primary_image": 28,
+      "type": "Park",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "geofence_buffer_in_meters": 10,
       "id": 8,
       "information": [
         {
@@ -2402,31 +2427,6 @@
       "name_description": "A caboose trails Rotary Snowplow No. 1, built in 1899 and used by the White Pass & Yukon Route to clear up to 12 feet of snow.",
       "primary_image": 29,
       "type": "Outdoor Exhibit",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 9,
-      "information": [
-        {
-          "description": "Available Year-Round",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45301951,
-      "longitude": -135.3192392,
-      "map_thumbnail_image": 94,
-      "name": "Centennial Park",
-      "name_description": "Constructed in 1997, this park celebrates the centennial of the Klondike Gold Rush with a statue of a Tlingit packer and stampeder.",
-      "primary_image": 28,
-      "type": "Park",
       "services": [
         {
           "description": "Handicapped Access",
@@ -2731,6 +2731,22 @@
     },
     {
       "geofence_buffer_in_meters": 10,
+      "id": 42,
+      "information": [
+        {
+          "description": "Available Year-Round",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.479067,
+      "longitude": -135.338747,
+      "map_thumbnail_image": 126,
+      "name": "Bark Canada Wreck (Nahku/Long Bay)",
+      "name_description": "Built in 1859, this 176’ vessel was caught in a storm and wrecked while heading to Skagway in 1898.",
+      "type": "Ruins"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
       "id": 47,
       "information": [
         {
@@ -2824,22 +2840,6 @@
       "name_description": "Thomas Tancred and Mike Heney formed the idea of a train over the White Pass at this hotel in 1897.",
       "primary_image": 34,
       "type": "Historic Building"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 42,
-      "information": [
-        {
-          "description": "Available Year-Round",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.4792294,
-      "longitude": -135.3379159,
-      "map_thumbnail_image": 126,
-      "name": "Bark Canada Wreck (Nahku/Long Bay)",
-      "name_description": "Built in 1859, this 176’ vessel was caught in a storm and wrecked while heading to Skagway in 1898.",
-      "type": "Ruins"
     },
     {
       "geofence_buffer_in_meters": 10,
