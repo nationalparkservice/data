@@ -2226,8 +2226,8 @@
           "name": "Hours"
         }
       ],
-      "latitude": 59.4790251,
-      "longitude": -135.3470676,
+      "latitude": 59.479002,
+      "longitude": -135.346708,
       "map_thumbnail_image": 127,
       "name": "Dyea Flats Overlook",
       "name_description": "Dyea",
@@ -2252,8 +2252,8 @@
           "name": "Hours"
         }
       ],
-      "latitude": 59.45479573,
-      "longitude": -135.3168923,
+      "latitude": 59.45479,
+      "longitude": -135.3169,
       "map_thumbnail_image": 106,
       "name": "Red Front Building",
       "type": "Building (NPS)",
@@ -2275,8 +2275,8 @@
           "name": "Hours"
         }
       ],
-      "latitude": 59.45566405,
-      "longitude": -135.3133062,
+      "latitude": 59.455701,
+      "longitude": -135.313416,
       "map_thumbnail_image": 116,
       "name": "Molly Walsh Park and Statue",
       "name_description": "A fun children’s playground, see wayside exhibits to learn more about Ms. Walsh’s tragic story.",
@@ -2284,16 +2284,16 @@
       "type": "Park",
       "services": [
         {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        },
-        {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
           "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
+        },
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
         }
       ]
     },
@@ -2381,6 +2381,23 @@
     },
     {
       "geofence_buffer_in_meters": 10,
+      "id": 39,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.588115,
+      "longitude": -135.191976,
+      "map_thumbnail_image": 123,
+      "name": "White Pass Highway Wayside #6",
+      "name_description": "Migration Corridor",
+      "primary_image": 56,
+      "type": "Wayside Exhibit"
+    },
+    {
+      "geofence_buffer_in_meters": 10,
       "id": 8,
       "information": [
         {
@@ -2435,23 +2452,6 @@
           "type": "Handicapped Access"
         }
       ]
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 39,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.587932,
-      "longitude": -135.191209,
-      "map_thumbnail_image": 123,
-      "name": "White Pass Highway Wayside #6",
-      "name_description": "Migration Corridor",
-      "primary_image": 56,
-      "type": "Wayside Exhibit"
     },
     {
       "description": "The local chapter of the fraternal organization Arctic Brotherhood first met here in August 1899. An example of Victorian Rustic architecture, the ornate driftwood façade was completed in 1900 after lodge members collected over 8,800 pieces of driftwood from the beaches of Skagway to create it. The Arctic Brotherhood was active until the 1920s, and now houses an informational center run by Skagway’s Convention and Visitors Bureau.",
@@ -2669,6 +2669,34 @@
     },
     {
       "geofence_buffer_in_meters": 10,
+      "id": 16,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.454347,
+      "longitude": -135.318064,
+      "map_thumbnail_image": 101,
+      "media": [
+        76
+      ],
+      "name": "Golden North Hotel",
+      "name_description": "First built in 1898 by a trading company, a third story and dome were added in 1908 to make this Skagway’s largest hotel.",
+      "primary_image": 35,
+      "type": "Business",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "geofence_buffer_in_meters": 10,
       "id": 27,
       "information": [
         {
@@ -2700,34 +2728,6 @@
       "name_description": "A shootout at this spot ended town villain “Soapy” Smith’s life on July 8, 1898.",
       "primary_image": 32,
       "type": "Plaque"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 16,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45431999,
-      "longitude": -135.317992,
-      "map_thumbnail_image": 101,
-      "media": [
-        76
-      ],
-      "name": "Golden North Hotel",
-      "name_description": "First built in 1898 by a trading company, a third story and dome were added in 1908 to make this Skagway’s largest hotel.",
-      "primary_image": 35,
-      "type": "Business",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
     },
     {
       "geofence_buffer_in_meters": 10,
@@ -2923,8 +2923,8 @@
     {
       "geofence_buffer_in_meters": 10,
       "id": 37,
-      "latitude": 59.537924,
-      "longitude": -135.21277,
+      "latitude": 59.537903,
+      "longitude": -135.213252,
       "map_thumbnail_image": 121,
       "name": "White Pass Highway Wayside #4",
       "name_description": "White Pass City",
@@ -3038,38 +3038,6 @@
       ]
     },
     {
-      "description": "The international Chilkoot Trail is managed by the National Park Service and Parks Canada, operating in the Chilkoot Trail Center.  Skagway's booming tourism industry began just as the Gold Rush was ending in the summer of 1898 with the first boatload of sightseers to the city. Martin Itjen, a Gold rush stampeder and Skagway’s premier tour operator bought this house in 1922 and originally stood on piers near Moore’s Wharf.  From that location, Martin and his wife Lucy greeted passing tourists, sold fruit and candies, and booked rides on Itjen’s innovative Skagway Streetcars. As the streetcar toured, Itjen recited poetry and told humorous anecdotes about the town, keeping the gold rush tales alive. The Itjen House was later moved several times to other locations before finding its present home in 1978. Today the building is used as the National Park Service and Parks Canada Chilkoot Trail Center.",
-      "geofence_buffer_in_meters": 10,
-      "id": 12,
-      "information": [
-        {
-          "description": "Open 7 days a week, 8 – 5. Closed on Tuesdays 12 – 1.",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45360977,
-      "longitude": -135.319148,
-      "map_thumbnail_image": 97,
-      "name": "Chilkoot Trail Center (Itjen House)",
-      "name_description": "This building houses the NPS Trail Center. It belonged to eccentric entrepreneur Martin Itjen who helped initiate Skagway tourism.",
-      "primary_image": 31,
-      "type": "Trail Center",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        },
-        {
-          "description": "Staffed by Ranger",
-          "icon": "ranger.png",
-          "icon_@2x": "ranger@2x.png",
-          "type": "Staffed by Ranger"
-        }
-      ]
-    },
-    {
       "geofence_buffer_in_meters": 10,
       "id": 41,
       "information": [
@@ -3162,6 +3130,38 @@
       ]
     },
     {
+      "description": "The international Chilkoot Trail is managed by the National Park Service and Parks Canada, operating in the Chilkoot Trail Center. Skagway's booming tourism industry began just as the Gold Rush was ending in the summer of 1898 with the first boatload of sightseers to the city. Martin Itjen, a Gold rush stampeder and Skagway’s premier tour operator bought this house in 1922 and originally stood on piers near Moore’s Wharf. From that location, Martin and his wife Lucy greeted passing tourists, sold fruit and candies, and booked rides on Itjen’s innovative Skagway Streetcars. As the streetcar toured, Itjen recited poetry and told humorous anecdotes about the town, keeping the gold rush tales alive. The Itjen House was later moved several times to other locations before finding its present home in 1978. Today the building is used as the National Park Service and Parks Canada Chilkoot Trail Center.",
+      "geofence_buffer_in_meters": 10,
+      "id": 12,
+      "information": [
+        {
+          "description": "Open 7 days a week, 8 – 5. Closed on Tuesdays 12 – 1.",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.453617,
+      "longitude": -135.319169,
+      "map_thumbnail_image": 97,
+      "name": "Chilkoot Trail Center (Itjen House)",
+      "name_description": "This building houses the NPS Trail Center. It belonged to eccentric entrepreneur Martin Itjen who helped initiate Skagway tourism.",
+      "primary_image": 31,
+      "type": "Trail Center",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        },
+        {
+          "description": "Staffed by Ranger",
+          "icon": "ranger.png",
+          "icon_@2x": "ranger@2x.png",
+          "type": "Staffed by Ranger"
+        }
+      ]
+    },
+    {
       "description": "The Slide Cemetery in Dyea remains a tangible reminder of the Palm Sunday Avalanche, which occurred on April 3, 1898 on the Chilkoot Trail.  Over the decades, maintenance work has been done sporadically to keep the site cleaned up. Beginning in 1940s and continuing until the 1960s, groups such as the Civilian Conservation Corps and the Alaska Youth Adult Authority have performed major cleanups, erected fences, replaced headboards, and constructed a path to the cemetery.",
       "geofence_buffer_in_meters": 10,
       "id": 49,
@@ -3196,8 +3196,8 @@
           "name": "Hours"
         }
       ],
-      "latitude": 59.45330169,
-      "longitude": -135.3181744,
+      "latitude": 59.453274,
+      "longitude": -135.318217,
       "map_thumbnail_image": 96,
       "name": "White Pass & Yukon Route Depot",
       "name_description": "This modern depot belongs to the White Pass and Yukon Route Railroad, which was constructed between 1898 and 1900.",
@@ -3205,16 +3205,16 @@
       "type": "Business",
       "services": [
         {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        },
-        {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
           "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
+        },
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
         }
       ]
     },
@@ -3341,8 +3341,8 @@
           "name": "Hours"
         }
       ],
-      "latitude": 59.45557681,
-      "longitude": -135.3154734,
+      "latitude": 59.455578,
+      "longitude": -135.315495,
       "map_thumbnail_image": 111,
       "name": "Corrington Lot - Rhubarb Garden",
       "name_description": "Located at 5th and Broadway, this garden is a great place to see gigantic rhubarb plants and beautiful native flowers.",
