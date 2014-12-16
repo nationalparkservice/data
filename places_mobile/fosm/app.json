@@ -15,10 +15,6 @@
       "name": "Good for Families"
     },
     {
-      "description": "For BETA Test only",
-      "name": "HEHO/FOSM"
-    },
-    {
       "name": "Lesser Known"
     }
   ],
@@ -1460,7 +1456,7 @@
               "name": "About"
             },
             {
-              "description": "This is the Credits page!",
+              "description": "All images featured are provided by the National Park Service (NPS) and National Records and Archives Administration (NARA).",
               "header": "Credits",
               "image_position": "top",
               "name": "Credits"
