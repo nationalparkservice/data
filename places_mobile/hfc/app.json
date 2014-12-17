@@ -45,6 +45,17 @@
   "max_distance_in_meters": 1609.3,
   "media": [
     {
+      "alt": "Test Data Set Images 10032014/11.jpg",
+      "caption": "Test Data Set Images 10032014/11.jpg",
+      "id": 143,
+      "name": "Test Data Set Images 10032014/11.jpg",
+      "relative_url": "143.png",
+      "relative_url_@2x": "143@2x.png",
+      "relative_url_tablet": "143_tablet.png",
+      "relative_url_tablet_@2x": "143_tablet_2x.png",
+      "type": "image"
+    },
+    {
       "alt": "Map Thumbnail for Red Front Building (id: 155)",
       "caption": "Map Thumbnail for Red Front Building (id: 155)",
       "id": 155,
@@ -183,17 +194,6 @@
       "relative_url_tablet": "158_tablet.png",
       "relative_url_tablet_@2x": "158_tablet_2x.png",
       "type": "map_thumbnail"
-    },
-    {
-      "alt": "Test Data Set Images 10032014/11.jpg",
-      "caption": "Test Data Set Images 10032014/11.jpg",
-      "id": 143,
-      "name": "Test Data Set Images 10032014/11.jpg",
-      "relative_url": "143.png",
-      "relative_url_@2x": "143@2x.png",
-      "relative_url_tablet": "143_tablet.png",
-      "relative_url_tablet_@2x": "143_tablet_2x.png",
-      "type": "image"
     }
   ],
   "more": [
