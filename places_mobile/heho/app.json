@@ -36,6 +36,7 @@
       ]
     },
     {
+      "description": "The West Branch Commercial Historic District illustrates the prosperous decades (1870-1916) when West Branch grew from a country town of wooden storefronts into a bustling center of rural commerce and decorative brick business blocks. ",
       "name": "Historic Downtown\n",
       "sites": [
         416,
@@ -57,6 +58,7 @@
       ]
     },
     {
+      "description": "The Hoover family, with support from friends and allies in West Branch, shaped this presidential memorial to show the public a fuller picture of Herbert Hoover's life.",
       "name": "A Memory And A Legacy",
       "sites": [
         384,
@@ -75,6 +77,7 @@
       ]
     },
     {
+      "description": "\"In no other land could a boy from a country village, without inheritance or influential friends, look forward with unbounded hope.\" - Herbert Hoover",
       "name": "Simple Beginnings",
       "sites": [
         384,
@@ -90,7 +93,7 @@
       ]
     }
   ],
-  "description": "Like the small town of the 31st president's early childhood, Herbert Hoover National Historic Site may be explored on foot in less than a day. Buildings from President Hoover's boyhood stand side by side with monuments to his achievements. The president's modest birthplace, his presidential library, and final resting place together recall what Hoover called \"the unbounded opportunity of American life./\"",
+  "description": "Herbert Hoover National Historic Site may be explored on foot in less than a day. Buildings from President Hoover's boyhood stand side by side with monuments to his achievements. The president's birthplace, his presidential library, and final resting place together recall what Hoover called \"the unbounded opportunity of American life.\"",
   "designation": "National Historic Site",
   "events": [
     {
@@ -1210,123 +1213,15 @@
       "type": "map_thumbnail"
     },
     {
-      "id": 385,
-      "name": "STAPLES HOUSE",
-      "type": "audio"
-    },
-    {
-      "id": 387,
-      "name": "WRIGHT HOUSE",
-      "type": "audio"
-    },
-    {
-      "id": 388,
-      "name": "HOOVER PRESIDENTIAL LIBRARY_MUSEUM",
-      "type": "audio"
-    },
-    {
-      "id": 390,
-      "name": "HISTORIC HOMES POPLAR STREET-OVERVIEW",
-      "type": "audio"
-    },
-    {
       "id": 391,
       "name": "SOUTH DOWNEY STREET BRIDGE",
-      "type": "audio"
-    },
-    {
-      "id": 392,
-      "name": "LAYER HOVERS HIGHER EDUCATION",
+      "transcript": "The South Downey Street Bridge extends across an unnamed tributary of the West Branch of the Wapsinonoc Creek. (sound effects: running creek, children) When Hoover was a boy, it was just a small stream of water trickling through marshy wetlands, which is why the neighborhood kids took their willow fishing poles about a quarter mile east to catch sunfish and catfish in the main creek.\nIn March 1875, the citizens of West Branch petitioned Cedar County to build \"a bridge on Downey Street, near Jesse Hoover's blacksmith shop\" so wagons could get across. Twice constructed out of wood, it was finally rebuilt in 1917 as a steel beam and concrete span. \nOver time, farmers plowed the rain-absorbing prairie into cultivated fields, and as urban pavement increased rainfall runoff, the creek suffered from too little water in dry seasons and too much water in wet seasons. In 1993, floodwaters nearly reached the foundation of the nearby Friends Meeting House where Bertie and his family once worshipped.\nTake a look at the stream below, and notice how narrow the waterway is. Studies by the National Park Service, in their efforts to create a Stream Management Plan, have revealed that floods have cut a channel in the streambed. That means when floodwaters come, soil is carved from the stream banks. This erosion is threatening the park's historic structures, artifacts, and documents. The National Park Service is looking for ways to control the force of the stream and reduce this erosion. These efforts will help prevent the loss of vegetation that supports native wildlife and anchors this protective green space.\nAs Commerce Secretary for President Warren Harding and later as President, Herbert Hoover supported several environmental conservation measures, especially in regard to water resources development and fisheries management. Perhaps these viewpoints got their start in a young boy’s memories of sun-dappled streams and the joy of exploring with his childhood friends the waters of Wapsinonoc Creek. (sound effects: running creek, children laughing, calling out).\nIf you’d like to hear a story about Herbert Hoover’s love of fishing, please press the # key.\n",
       "type": "audio"
     },
     {
       "id": 393,
       "name": "CHILDREN AT MEETING",
-      "type": "audio"
-    },
-    {
-      "id": 395,
-      "name": "LAYER WOMEN IN THE QUAKER FAITH",
-      "type": "audio"
-    },
-    {
-      "id": 398,
-      "name": "WAYSIDE 2 PRESIDENTIAL LIBRARY",
-      "type": "audio"
-    },
-    {
-      "id": 400,
-      "name": "BIRTHPLACE COTTAGE",
-      "type": "audio"
-    },
-    {
-      "id": 401,
-      "name": "DOWNTOWN HISTORIC DISTRICT",
-      "type": "audio"
-    },
-    {
-      "id": 402,
-      "name": "MACKEY HOUSE",
-      "type": "audio"
-    },
-    {
-      "id": 406,
-      "name": "WAYSIDE 3 WETHERELL AND DOWNEY STREETS",
-      "type": "audio"
-    },
-    {
-      "id": 409,
-      "name": "LAYER HOOVER FISHING STORY",
-      "type": "audio"
-    },
-    {
-      "id": 410,
-      "name": "LAYER HOOVERS DEDICATION TO CHILDRENS CAUSES",
-      "type": "audio"
-    },
-    {
-      "id": 411,
-      "name": "GRAVESITE",
-      "type": "audio"
-    },
-    {
-      "id": 414,
-      "name": "HAYHURST HOUSE",
-      "type": "audio"
-    },
-    {
-      "id": 417,
-      "name": "SCHOOLHOUSE",
-      "type": "audio"
-    },
-    {
-      "id": 418,
-      "name": "LAYER EARLY INTEREST IN GEOLOGY",
-      "type": "audio"
-    },
-    {
-      "id": 419,
-      "name": "HOUSE OF THE MAPLES",
-      "type": "audio"
-    },
-    {
-      "id": 420,
-      "name": "TALL GRASS PRAIRIE",
-      "type": "audio"
-    },
-    {
-      "id": 421,
-      "name": "WAYSIDE 1 VISITOR CENTER",
-      "type": "audio"
-    },
-    {
-      "id": 422,
-      "name": "ISAAC MILES FARM",
-      "type": "audio"
-    },
-    {
-      "id": 423,
-      "name": "FRIENDS MEETING HOUSE",
+      "transcript": "(sound effects: baby crying) This small addition to the Friends Meetinghouse was the “retiring room” or what many would call today, “the crying room.” Here, women could bring restless or hungry infants and avoid disturbing the congregation.\nRuthie Tippin: (music) “Children came from the time they were born, and were introduced to meeting for worship right away – they were babes in arms. And as they came to meeting, they would sit with their mothers, on the women's side of the meeting house, and if they were crying or disturbing others, the mother would have taken them out to the nursery area. But by and large, they remained in the meeting room. \nWhen they got of a certain age the boys would move over to sit with their fathers, and brothers, and grandfathers on the men's side of the meeting. But they were instructed in the ways to behave simply by watching the folk around them, and they were taught that this was a time not to just sit, but to sit in silence – an expectant silence. And that's a very hard thing for a young, squirmy child to learn, but over time they began this understanding of waiting.”\nFor Herbert Hoover, those times made a lasting impression on the future President.\nHerbert Hoover: (actor) “Those acquainted with the Quaker faith, and who know the primitive furnishings of the Quaker meetinghouse, the solemnity of the long hours of meeting awaiting the spirit to move someone, will know the intense repression upon a ten-year old boy who might not even count his toes. All this may not have been recreation, but it was strong training in patience.” \n",
       "type": "audio"
     },
     {
@@ -1336,9 +1231,9 @@
       "type": "audio"
     },
     {
-      "id": 416,
-      "name": "HOOVER CAMPAIGN VISIT",
-      "transcript": "(sound effects: click-clack of train wheels; whistle in the distance) By 1874, five railroads had spread across the Iowa countryside. Distant farms and small towns were now connected by miles of timber and track, bringing with it new jobs, new products, and new markets for harvests & livestock. For a curious and enterprising Bertie Hoover, the railroad tracks east of Downey Street brought something else - a fascination with geology.\nIn his memoirs, published in 1951, Herbert Hoover wrote: (actor) “I have mentioned the Burlington track. It was an aspiring place. It was ballasted with glacial gravels where, by hard search, you discovered gems of agate and fossil coral, which could, with infinite backaches, be polished on the grindstone. Their fine points came out wonderfully when wet, and you had to lick them with your tongue before each exhibit.”\nThe railroad no longer rumbles through West Branch, but a few of those semi-precious rocks may still be found along the tracks that once inspired and encouraged the dreams of a future President.\n",
+      "id": 409,
+      "name": "LAYER HOOVER FISHING STORY",
+      "transcript": "Herbert Hoover once said, “There are only two occasions when Americans respect privacy, especially in Presidents. Those are prayer and fishing.” He also half-seriously joked, “All men are equal before fish.”\nPete Hoover, grandson of the 31st President, recalls those lessons learned at his grandfather’s side. \nPete Hoover: “And my grandfather was a consummate fisherman. He said that really there’s only one kind of fishing and that’s trout fishing in streams. And we were at a ranch in Wyoming in the Grand Teton or Jackson Hole area. \nAnd I noticed that at one point the guide, a cowboy, took his hat off and went through the grass with his hat. And I thought, you know, that’s an unusual behavior, even for a Wyoming cowboy.\n I just quit fishing and watched. And he reached in and pulled out a grasshopper, and he put it on the hook. My grandfather cast it into the stream and I thought, oh-oh, you know, the sun is not going to come up tomorrow morning because my grandfather is using live bait! \nAnd what he did, he cast in, got a fish just like that. He took it and handed it to the cowboy, who cut it open and examined the trout’s stomach contents. And my grandfather went through his box of dry flies and found one that resembled what the trout had been eating and put that on. And he was the only one that caught fish. And at lunch I asked him about that. He said, “Well, you know, the idea is to catch fish and you do it the best way you can given the limits.”\nBut he said don’t use too much skill … now, this is not quoting directly, but it’s in effect – “Don’t try too hard because you have to eat everything you bring in.” If you bring in the limit of twelve fish in the afternoon, you know that you’re going to have trout for every meal until those twelve are gone. So that is “catch and release” lessons early on.”\n",
       "type": "audio"
     },
     {
@@ -1357,6 +1252,48 @@
       "id": 413,
       "name": "LAYER COTTAGE FURNISHINGS BEDROOM",
       "transcript": "On September 1, 1876, this cottage became home to five people with the birth of a baby girl. Jesse Hoover built young Mary a graceful walnut cradle, and Hulda rocked her daughter to sleep in it, just like she had done for both Tad and Bertie. This cradle is a replica of that family treasure. The original, sold after Hulda’s death, was surprisingly found in a West Branch barn sometime in the 1930’s and eventually returned to the Hoover family.\n(music) Having long outgrown the rocking bed, 2-year old Herbert and his 5-year old brother, Tad shared a trundle bed, which was pulled out each night from underneath their parents’ four-poster. Do you think the ropes supporting the larger mattress made that bed a comfortable place to sleep? Decorative patchwork quilts, along with wool bedspreads woven on family looms, kept everyone warm when the woodstove’s fire died out in the middle of the night. \nThe dresser in the corner is very similar in style to the one Grandmother Minthorn gave as wedding presents to each of her daughters, Hulda and Agnes. Made by Herbert Hoover's great uncle, a cabinet-maker in Detroit, the drawers were once filled with household linens. The sewing machine, while not original to the family, is a reminder of Jesse’s growing success as a businessman, and how he provided for the needs of his wife and family. \n(music) If you’re wondering about what is covering the floors of the cottage, they’re called “rag rugs.” American families in the 19th century practiced recycling long before we did. Because cloth goods were relatively scarce and expensive, they would take discarded family garments, cut them into long strips and weave them into sections that were sewn together. The colorful rug is similar to the ones Hulda’s mother made for the house in the 1870’s. By putting layers of old newspapers underneath and fitting the rugs snugly against the walls, the floors would stay warm all winter. \nAs you exit, take a moment to look at the partially enclosed and covered areas at the rear of the cottage. They may have served several purposes over time, including a woodshed, storeroom, summer kitchen, and spare bedroom. It was here, in the dark of night on August 10, 1874, that blacksmith shop assistant, Elwood King was awakened to go and fetch the doctor. (sound effects: knock on door, footsteps running, newborn baby cry) \nJust before midnight, Herbert Clark Hoover was born.\n",
+      "type": "audio"
+    },
+    {
+      "id": 423,
+      "name": "FRIENDS MEETING HOUSE",
+      "transcript": "Located two blocks from its original site, the Friends Meetinghouse is the physical expression of the values of the Quaker faith practiced by Hoover’s family and the community of West Branch. Built by the Society of Friends in 1857, this single story wood frame building was relocated and restored in 1964 to reflect how it looked when Hoover attended services here as a child.\nRuthie Tippin: “The first thing that you notice is how simple it is. The simplicity of the meeting room was intentional, the way it's laid out, the lack of ornamentation, the clarity of it, and that was to allow absolutely nothing to distract one from the presence of God. And that had a great impact on Herbert Hoover, and all others who worship as Friends.” \nTwo meetings for worship were held each week, on First Day, Sunday, and Fourth Day, Wednesday. Quakers used numbers to mark their days and months because they didn’t believe in the mythological gods whose names were used in Roman calendars – like March – named for Mars, the god of war.\nWhat Quakers did believe in according to Ruthie Tippin, pastor of the West Branch Friends Church, was the concept of the Inner Light being present in every human soul.\nRuthie Tippin: “Friends started out without a pastor and then, this division came between those who were satisfied and loved the sense of quiet waiting, against those who felt like there was something more to be had in a pastoral setting.” \nWhen Hoover was a child, there were no paid ministers. For 60 to 90 minutes, without benefit of music, or sacraments, the congregation would sit on the rows of long wooden benches. Find out how long you can sit still for. Just like in the 1870’s, women and girls on the left, and men and boys to the right. \nNow did you notice the raised benches at the front of the room? Who sat there?\nRuthie Tippin: “So the elders – the ministry and oversight would sit on the facing benches, and they would sit in silence waiting – just waiting to see what God would do – what God would say – through the membership.” \nAs the spirit moved them, people rose and spoke spontaneously. When there seemed to be no more messages, the elders rose, shook hands, and the meeting ended. Aware of how their actions might affect the world around them, the Friends tried earnestly to live lives that honored their commitments to love, integrity, equality, and peace. Those testimonies that Herbert Hoover experienced here as a child, instilled in him a drive to become a successful leader and one of the world’s great humanitarians.\nTo learn more about the role of women and Hoover’s mother in the Quaker faith, please press the # key. \n",
+      "type": "audio"
+    },
+    {
+      "id": 419,
+      "name": "HOUSE OF THE MAPLES",
+      "transcript": "A lone maple tree grows on the land, where the Hoover family’s second home once stood. The one- acre parcel, on the corner of Downey and Cedar Streets, had a two-story frame house with two chimneys. Maple trees lined the front yard and a wild crabapple tree grew in back of the spacious four-room home.\nLife was good for the young couple and their three children. At age thirty-three, Jesse Hoover had become a successful businessman. Ready to take on new challenges, he sold his blacksmith shop and bought a large farm implement store on Main Street. Like any hard-working husband, Jesse wanted to use his improved economic fortunes to provide for the comforts of his family.  \nIn March of 1879, Jesse purchased the House of the Maples at auction for $140. It had, he said, “rooms big enough to swing a cat in.” On May 27th of that year, the family moved their belongings out of the tiny Cottage Jesse had lovingly built. Their spacious new house had an actual parlor and a modern little oil stove. (sound effects: crickets) A four-board whitewashed fence with a swinging picket gate framed the front yard. In the summer, they would catch lightning bugs. (sound effects: sled on snow, children laughing) In the winter, they’d sled down nearby Cook’s hill as Hulda watched with her heart in her mouth. It was this house, and not the Cottage that would hold the most memories for the Hoover children… both good and bad. \n(music) On December 13, 1880, nineteen months after moving into the House of the Maples, Jesse Hoover died in his upstairs bedroom from rheumatism of the heart. Herbert “Bertie” Hoover was only six years old. His mother, Hulda bravely kept the family together by carefully managing the money from Jesse’s business holdings and by taking in sewing and an occasional boarder. \nBut death would come to visit the House of the Maples once more. On February 24, 1884, at the age of 35, Hulda Hoover died from typhoid fever. Tad had just turned 13, Bertie was 9, and May was 7. The three children, now orphans, were separated and sent to live with relatives. It would be twelve years before they would be together again, this time in California – 2,000 miles from their childhood Iowa home. ",
+      "type": "audio"
+    },
+    {
+      "id": 410,
+      "name": "LAYER HOOVERS DEDICATION TO CHILDRENS CAUSES",
+      "transcript": "The loss of both parents before his tenth birthday made Herbert Hoover deeply sympathetic to children in need. When World War I started in 1914, Hoover was a successful businessman living in London. (sound effects: planes, machine guns, bombs) But when the 40-year old mining engineer learned that the people of Belgium were facing starvation because of military blockades of vital food imports, he could not stand idly by.\nHoover stepped forward to organize and direct the Commission for Relief of Belgium – a non-political agency that helped feed millions of people in Belgium and northern France for almost four and a half years. It was a mission that defined Herbert Hoover around the world as a man of moral courage, initiative, and compassion.\nAs President, Hoover increased the budget for children’s programs and called a landmark White House Conference on Child Health and Protection. In 1936, the former President found a new cause to inspire him. As chairman of the Boys’ Clubs of America – a post Hoover held for more than 25 years – he helped open 500 new chapters, while his fundraising skills laid the groundwork for the nonprofit organization to grow and provide after-school programs to more than four million boys and girls throughout the U.S. But his work still wasn’t done. In 1946, Hoover was instrumental in the creation of UNICEF, the United Nations Children’s Fund - a leading advocate for children’s welfare and rights around the world.\n",
+      "type": "audio"
+    },
+    {
+      "id": 422,
+      "name": "ISAAC MILES FARM",
+      "transcript": "If you look beyond the tallgrass prairie, on the horizon, you can see a red barn with white trim tucked beneath some trees. This 3-level wooden barn, part of the Miles Farmstead, is the only agricultural structure in the area that survives from the time when Hoover was a young boy.\n(sound effects: native birds) Isaac Miles was a widower with two young daughters when he moved to West Branch in 1874 and opened a drugstore. Three years later, he met and married a young woman, who had inherited 100 acres of farmland to the southwest of the Hoover cottage. So Miles sold his drugstore and decided to give farming a try. And as soon as the two-story frame house and barn were built, the new family moved in. Isaac’s daughters, Providence and Abbie were around the same age as the Hoover children, and it’s likely they played together in this rural playground filled with natural wonders.\n(music) Iowa farmsteads were laid out according to the character of the land. Rolling hills could serve as pasture or as a partial support for buildings like a barn. Where the ground was flat, crops were planted; (sound effects: chickens, rooster) outbuildings like chicken coops were constructed close to the home, but definitely downwind, to make for a short walk in the winter. And a road was leveled to give the farmer access to railroads and markets where he could sell his harvest. \nAn 1880 census showed that Miles had managed to get 73 acres under cultivation with corn, oats, rye, potatoes, and apples. He also raised 5 milk cows, 5 beef cattle, 55 pigs, and 20 chickens. Farming did provide for Isaac and his family, but in 1882, Isaac became involved with his father Benjamin in the establishment of a Quaker-inspired school to educate Native American children in the industrial arts. It was during this time, when some of the Osage, Cheyenne, and Arapaho children lived and worked on the Miles Farm, that 8-year old Bert Hoover fished and hunted the countryside with them, learned the lore of the woods, and how to make bows and arrows. ",
+      "type": "audio"
+    },
+    {
+      "id": 420,
+      "name": "TALL GRASS PRAIRIE",
+      "transcript": "When you step onto the pathway that winds through the 81 acres of tallgrass prairie restored here by the National Park Service, you have the opportunity to step back in time and get a glimpse of an Iowa landscape that had almost vanished by the time Herbert Hoover’s grandparents moved here in 1854. \nNative plants like big bluestem and Indian grass, sprinkled with brilliantly colored wildflowers such as purple and yellow Coneflowers and orange Butterfly Milkweed, once covered these rolling hills for as far as the eye could see. But a farmer and his family faced many hardships in this beautiful new frontier: an invasion of locusts, an extended drought, a killing frost, or one of the most terrifying, yet spectacular events on Iowa's treeless plains – the prairie fire. (sound effects: low roar of fire burning, crackling)\nDespite its sometimes-devastating consequences, fires were common and critical for the health of a diverse prairie ecosystem. (sound effects: native birds chirping) (music) It cleared the land of dead and dying plants, returned organic nutrients to the soil, and kept invasive trees and shrubs under control so native flowers and grasses had space to grow. Which is why each year, the National Park Service attempts one or more prescribed burns to help keep this spacious landscape fresh and alive. \nIowa’s prairies became some of the most valuable farmland in the world. The tradeoff however, was that between 1833 and 1920, 30 million acres of it was lost to agricultural cultivation. Today, less than 1 percent of prairie land still exists in Hoover’s home state, which is one of the reasons the NPS restored this historic cultivated field to much of its original splendor. \nHerbert Hoover saw the value in nature. During his Presidency, the size of our national forests expanded by more than two million acres, and the land designated for new national parks and monuments increased by 40 percent. Spend some time here watching the native grasses sway. Smell the richness of the earth, and savor this wonderful recreational experience. (sound effects: birds chirping)\n",
+      "type": "audio"
+    },
+    {
+      "id": 411,
+      "name": "GRAVESITE",
+      "transcript": "Hoover: (actor) \"My grandparents and my parents came here in a covered wagon. In this community they toiled and worshipped God. The most formative years of my boyhood were spent here. My roots are in this soil.”\n(music) Those words from his memoirs, illustrate Herbert Hoover’s connection to history and place. When Hoover died on October 20, 1964 at the age of 90, the 31st President was laid to rest five days later in this quiet, grassy hillside. More than 100,000 people lined the funeral procession route from Cedar Rapids to West Branch on that warm fall day. \nIowa architect William Wagner designed the memorial while working closely with the Hoover family to commemorate his life. The tall stand of chestnut, hickory, and black walnut trees planted behind the gravesite were chosen because Hoover remembered them from his childhood. The two plainly inscribed ledger stones of Vermont white marble are in keeping with the Quaker ideal of simplicity. Across the curved walkway, the American flag waves in tribute. Did you know that it was Herbert Hoover who signed the congressional resolution making The Star Spangled Banner the national anthem during his Presidency?\nNow take a moment and look past the towering flagpole. There on the horizon, at the end of the two rows of trees, is a direct view of the white, wood-frame cottage where Herbert “Bertie” Hoover was born. As the first President born west of the Mississippi River, Hoover believed that anyone could start from simple beginnings and achieve great things.\nPete Hoover reflects on the qualities that not only made his grandfather so successful, but encouraged the success of others.\nPete Hoover: “Granddad was an interesting guy to be around. There was not a subject that you could raise that he couldn’t contribute something on. He never commandeered the conversation. He could contribute to it and do it in an unobtrusive way so that people would understand and learn a little maybe.”\nThe second marble gravestone is for Lou Henry Hoover, the tireless and intelligent First Lady from Waterloo, Iowa. Following her death in 1944, she was buried in Palo Alto, California, but was moved to rest beside her husband in 1964. Partners in life for almost forty-five years, they had both come back to touch the Iowa soil.\f",
+      "type": "audio"
+    },
+    {
+      "id": 400,
+      "name": "BIRTHPLACE COTTAGE",
+      "transcript": "Welcome to the Birthplace Cottage of Herbert Hoover. Before we begin, please note there are three entrance steps to the front door. Wheelchair access is through the back door. From November through March however, the cottage can only be entered through the front door. \nLike any couple just starting out, 21-year old Hulda Minthorn and 23-year old Jesse Hoover were eager to have a place to call their own. Shortly after their first wedding anniversary, and with the help of his father Eli, Jesse built this simple, but sturdy two-room cottage in the spring of 1871 on the corner of Downey and Penn Streets. Although the house only measured 14 x 20 feet, building it was a challenge. The home’s large foundation stones had to be brought by wagon from the open prairie to the west, while the timber used for the board and batten cottage followed an amazing journey of its own. \nLook up at the rafters and see if you can find any that have holes drilled into them. (sound effects: rushing river, saw cutting wood)That’s where the trees were lashed together into a giant raft, which was floated down the Mississippi River to a sawmill in Muscatine, about 40 miles southeast of West Branch. There they were turned into lumber, then hauled by ox teams to the home site. Some of the wood was used for the cottage’s straight board doors, while more was used for the large vertical wallboards inside the home. Did you know that during the cottage’s restoration, architects found strips of cotton fabric stuffed between the seams? (sound effects: winds whirling, blowing) Jesse Hoover installed these to be sure his family would be protected from the winter winds that swept across the Iowa prairie. The small twelve-paned windows also helped by preventing too much heat from escaping the cottage.\n(music) Hulda soon set about arranging the home to suit herself, both inside and out. A chicken coop provided fresh eggs. She grew her vegetable garden behind the cottage, while flower gardens of marigolds, peonies, and snapdragons filled the front and side yards. And just like today, seeds, cuttings and bulbs, were traded with family and friends.  The dark red double-petaled tulips that once grew here came from the bulbs Hulda’s mother had brought with her from Canada.\nLooking around this house, you may think the Hoover family was poor. But their prudent spending, strong work ethic, and resourceful ways were actually a reflection of their Quaker beliefs. With that in mind, you can understand why Herbert Hoover was inspired to write these heartfelt words in his memoirs. \nHoover: (actor) “This cottage where I was born is physical proof of the unbounded opportunity of American life. In no other land could a boy from a country village, without inheritance or influential friends, look forward with unbound hope.”\nTo learn more about some of the furnishings in the parlor, please press 105 #.\n",
       "type": "audio"
     },
     {
@@ -2080,6 +2017,12 @@
       "type": "image"
     },
     {
+      "id": 416,
+      "name": "HOOVER CAMPAIGN VISIT",
+      "transcript": "Considering the almost “round-the-clock” media coverage of speeches by modern day presidential candidates, Herbert Hoover was by comparison, according to Timothy Walch, Director of the Herbert Hoover Presidential Library, practically a political wallflower.  \nTim Walch: “In fact, Herbert Hoover gave very few major addresses during the '28 campaign. To be sure, there were these motion picture trucks traveling the country, playing a silent and sound version of ‘Master of Emergencies,’ which portrayed Herbert Hoover as something of a superman, helping people in need. But Hoover, himself, was shy, and so he was really giving relatively few addresses, one of them was going to be in his hometown. And so the idea was, you return home to reaffirm that your values were shaped by the community where you were born, and to carry-forward as a representative of those values as a candidate for President of the United States.”\nA select group of the community’s business and agricultural leaders were chosen to make arrangements for Hoover’s August 21st homecoming. Well aware of what a history making event this would be, the newly formed “Hoover Birthplace Committee” set about making sure that West Branch put its best face forward to the world. (sound effects: marching band music) Along Downey and other streets, houses were painted and lawns were trimmed. Dozens of food stands were set up. Bundles of tall Iowa corn shocks decorated the town. And given the unpredictability of Iowa weather in August, two canvas tents were brought in from Chicago to provide covered seating for 18,000 people. (sound effects: crowds, cheering) They were set up, along with the speaking platform, which was draped in yards of red, white and blue bunting, in the athletic field between Poplar and Oliphant streets, about two blocks north of here.\n(sound effects: train whistle) Hoover and his family arrived by train early on the morning of the 21st. In the tiny cottage where he was born, they ate a breakfast of Iowa ham and farm-fresh eggs, and then visited the graves of his parents, Jesse and Hulda. They even stopped by the swimming hole on the West Branch of the Wapsinonoc Creek. For Herbert Hoover, the powerful connection to home and family was very much alive.\nTim Walch: “And the pride – the derivative pride that everybody from West Branch had that one of their sons \"whose roots were in this soil,\" as he was fond of saying from time-to-time, would grow up to become a multi-millionaire, and a worldwide humanitarian, and most likely the next President of the United States was a source of great pride. So the tent is long gone, but the memories are still here.”\n",
+      "type": "audio"
+    },
+    {
       "id": 375,
       "image_1080": "375_1080x810.jpg",
       "image_1536": "375_1536x1152.jpg",
@@ -2444,6 +2387,12 @@
       "type": "map_thumbnail"
     },
     {
+      "id": 401,
+      "name": "DOWNTOWN HISTORIC DISTRICT",
+      "transcript": "When Hoover was born in 1874, West Branch was beginning a long period of growth and general prosperity that lasted through the early part of the 20th century. \nJust a few blocks from Hoover’s Birthplace Cottage, the West Branch Commercial Historic District, located along Main and Downey streets, features many fine examples of turn-of-the-century buildings that housed the businesses of this thriving farming community: Banks, doctor’s offices, a hotel, a barber shop, a drug store, a millinery shop and a music store among others. \nWhile most of these buildings were not in existence during Hoover’s childhood, together they illustrate the evolution of downtown West Branch - between 1875 and 1916 - from a collection of ramshackle wooden storefronts into a bustling commercial center anchored by blocks of ornate brick buildings. Tim Walch of the Herbert Hoover Presidential Library, shares his thoughts about one block in particular. \n(music: Brahms) Tim Walch: “I was always impressed with the opera block; the fact that so many communities in Iowa had opera houses, the aspirations for culture and entertainment, even in a town of a few thousand people, makes one smile, but it also makes one proud that even adults who worked long days in the fields were eager to have a form of entertainment and education, and that's what our little opera block symbolizes.” \nWe invite you to stroll down Main Street and discover the notable places built by the hands of hardworking craftsmen during the “Golden Era of American Architecture.” Sixteen of these structures were considered worthy of preservation and have been listed on the National Register of Historic Places. That designation was the result of a proud community’s recognition of West Branch’s place in history and a tireless effort to preserve their past. See for yourself why these buildings embody the spirit of rural America and the history of a time gone by. ",
+      "type": "audio"
+    },
+    {
       "id": 449,
       "image_thumbnail_1x": "449_thumbnail.png",
       "image_thumbnail_2x": "449_thumbnail@2x.png",
@@ -2732,6 +2681,12 @@
       "type": "map_thumbnail"
     },
     {
+      "id": 390,
+      "name": "HISTORIC HOMES POPLAR STREET-OVERVIEW",
+      "transcript": "West Branch was barely a settlement in 1852 when Baltimore native Aaron Baker came here to claim the free land he’d received from the United States government for his service in the Mexican War. He promptly sold all 160 acres of it for about a dollar apiece.\nBy the time John Wetherell purchased five acres in 1869, the price of land had risen considerably. The new real estate developer set about subdividing his property into town lots, and also decided to name a nearby street after himself. \nAs you look around, you might be surprised to learn that Herbert Hoover didn’t live in one of these larger homes. By comparison, his home measured only 14 x 20 feet in size. You will get the chance to go inside the cottage where America’s 31st President was born; however, the homes here on Poplar Street are not open to the public and are used as offices or private residences. \nTo discover more about individual houses along this street, please press the number on your keypad that corresponds to the building’s location listed on your guide. Enter number 116 # for the Hayhurst house.\n",
+      "type": "audio"
+    },
+    {
       "id": 389,
       "name": "VISITOR CENTER_TUTORIAL_WANDS_POUND KEY REV 2",
       "transcript": "Welcome to Herbert Hoover National Historic Site. As part of the National Park System, and in cooperation with the Herbert Hoover Presidential Library-Museum, the Herbert Hoover Presidential Library Association, and the city of West Branch, this 187-acre park commemorates and interprets the life, career, and accomplishments of our nation’s 31st President. \n(music) Today you will explore the neighborhood where Herbert Hoover was born and spent much of his early childhood. As you explore the site’s historic grounds and buildings, you’ll have the chance to immerse yourself in the landscape Hoover saw, and the activities he participated in as a child. \nTo ensure that you experience all of the park’s resources and history during your visit, please stop by the Visitor Center, or any of the three waysides, to pick up a free copy of the park’s site map. The message stops for the cell phone tour are numbered and titled on this helpful guide, which means you can enjoy the audio program in any order you like.\nTo learn more about the natural or cultural significance of a particular building or feature on the map, please enter the corresponding three-digit number on your phone’s keypad, followed by the pound (#) key. In some locations the messages are ‘layered,’ so after the main message is finished, you will be prompted to press the # key again to access the additional information. \nYou can stop a message at any time, by pressing the star key. If your cell phone service is interrupted, just re-dial the toll-free access number, 888-244-4178, and you’ll be welcomed back and invited to enter a message number again.\nFor your convenience, the Visitor Center and its restrooms are handicapped-accessible. Visitors may borrow a wheelchair, and scripts of the audio program. A limited number of hand-held audio wands are also available. In addition, there is a short film about Herbert Hoover’s early life. Park rangers and volunteers are available to assist you and answer questions from 9 am to 5 pm. \nReady to begin? Please remember to watch your step while you visit the site, and keep an eye out for posted safety messages.\nEnjoy the program!\n",
@@ -2768,6 +2723,12 @@
       "type": "audio"
     },
     {
+      "id": 388,
+      "name": "HOOVER PRESIDENTIAL LIBRARY_MUSEUM",
+      "transcript": "Presidential Libraries give the American people the opportunity to explore the legacy of American Presidential leadership. It is an amazing opportunity to see, hear, and appreciate many of the events that changed our lives and made us who we are as a nation. The Herbert Hoover Presidential Library-Museum was opened to the public on August 10, 1962, Mr. Hoover's 88th birthday. The dedication took place at the library’s original entrance, which is the small portico at the east end of the building supported by four white pillars and topped with an earlier version of the presidential seal. \nTimothy Walch, Director of the Herbert Hoover Presidential Library shares a story about that historic day. Tim Walch: “Herbert Hoover went to the dedication of the Truman library in 1957…Well, Harry Truman reciprocates by coming to the dedication of the Hoover library, and when they walk through those doors Truman looks around and with typical Truman bluntness says, \"Mr. President\" – turning to Herbert Hoover – \"Mr. President, this museum is too damn small.\" And Herbert Hoover looks over at Mr. Truman and says, \"Yes, Mr. President, but knowing the federal government, I'm sure it will grow over time.\" And both of them were right.” \n(music) Since that day, the museum has been expanded and renovated several times, with the most recent change funded by a partnership between the U.S. government and the non-profit Hoover Presidential Library Association.\n(music) Although it is located on a National Park Service Historic Site, the Library-Museum is independently operated and maintained by the National Archives and Records Administration. Open from 9 am to 5 pm, 362 days a year, the museum houses millions of papers and over 300 collections relating to both President and Mrs. Hoover, their friends and associates. Permanent galleries take you from President Hoover’s boyhood in Iowa and continue on to a recreation of the Waldorf Towers apartment in New York where he spent the final years of his life.\nHerbert Hoover was proud of the modest museum here because it fit within the context of the other buildings on the site. Tim Walch: “He was determined to locate it on a lower terrain than others had suggested; they wanted to locate it up on the top of Cook's Hill. And he said, \"No, no, I want it down with the other buildings. I don't want it any taller than any of the other buildings on the site. It should fit in, in a very modest way with the other buildings.\" \nPerhaps what Herbert Hoover didn’t foresee back in 1962, was how this Library-Museum would be transformed into a nationally recognized center of study. Tim Walch: “When the Hoover Presidential Library was opened, the expectation was that we would put a few trinkets, trophies, and so forth, on display for the public to see, and that we would have the documents available just for post-doctoral scholars. Well, now these institutions have schools of public service where young people begin to study the values of the president, and)(There are research think-tanks where people prepare policy papers for future governmental administrations.” \nTake some time and come inside for a visit. You’ll learn the story of Hoover’s fifty years of public service and gain a fuller understanding of the life and times of America’s 31st President.\n",
+      "type": "audio"
+    },
+    {
       "id": 403,
       "name": "METHODIST CHURCH-C_E_SMITH HOUSE",
       "transcript": "When Herbert Hoover was growing up, a Methodist Church, built in 1870, occupied the lot where C.E. Smith’s house now stands. A towering three-story steeple impressively pointed to the heavens, and it’s likely the Hoover household heard its ringing bell on Sunday mornings. (sound effects: church bell) This 11-foot tall street lamp is a historic reconstruction of the copper lantern box and post that stood in front of that Church. The original lamp burned kerosene oil, and was one of eleven that were lighting the streets of West Branch by 1883. \nThe house that you see here today is known as the C.E. Smith House. Charles E. Smith was a carpenter and a Civil War veteran. In 1903, he completed his dream home for himself and his wife, Deborah atop Cooks Hill where each spring, he would tap his maple trees to make maple syrup. Although this home was built eighteen years after Herbert Hoover left West Branch, the National Park Service decided to relocate it here in 1969.\n(music) This large, white, one and a half story Queen Anne style house includes intersecting gables. Cut cedar shingles painted a robin’s egg blue, are used for the siding underneath the gables. One of the most unusual features of this house is the open octagon-shaped front porch; its’ sloping tent roof is supported by four machine turned posts framed with decoratively scrolled brackets. The Smith home’s graceful and charming appearance fits comfortably in the neighborhood, and contributes to the historic setting of the Iowa village that President Hoover called home. Interestingly, Mr. Smith’s wife, Deborah, was also the sister of Mr. Leech, whose own home on Downey Street is described in stop 112.\nFor the Amanda Garvin cottage, please press 110 #.\n",
@@ -2789,6 +2750,72 @@
       "id": 412,
       "name": "DR LEECH HOUSE",
       "transcript": "For thirty-six years Dr. L.J. Leech, a Civil War veteran and graduate of Iowa State University, had lived in the Laban Miles House; renting it at first in 1884, and then purchasing it two years later when the bank foreclosed on the home. By 1920, the well-liked country doctor and Iowa legislator decided to have a new home built for himself. The result was this white, one and a half story wood frame house with large overhanging eaves, an airy L-shaped veranda supported by four Doric columns, and a small inset balcony above the front porch that overlooks Downey Street. \n(music) However, at the turn of the century when Dr. Leech was still living in the Miles house, the empty lot where this home now sits became one of the most popular social centers in West Branch. (sound effects: talking, laughing, fireworks) Here during the hot Midwest summers, Dr. Leech held ice cream socials church groups and 4th of July celebrations for the whole town. His lawn parties grew in popularity when box supper socials to benefit the volunteer fire company became an annual event. The West Branch Times wrote, “All gentlemen are invited to come and buy a box and take supper with your own or someone’s best girl!” \nAlthough this home was built many years after Herbert Hoover’s childhood, there is still a connection between the physician who practiced medicine in West Branch for 55 years and the young boy who left and became the nation’s 31st President. When Dr. Leech passed away at the age of 91 in 1937, services were held at the West Branch Methodist Church. Herbert Hoover, ever guided by the understanding that it takes a community to raise a child, sent a personal message of sympathy that was read at the funeral. In it, the former President remembered and praised Dr. Leech’s “long life of usefulness to the community and loyalty to his neighbors and friends.” \nIf you haven’t been there already, you can go one block west to learn about the historic West Branch homes located on Poplar Street.\n",
+      "type": "audio"
+    },
+    {
+      "id": 414,
+      "name": "HAYHURST HOUSE",
+      "transcript": "In 1870, real-estate developer J. M. Wetherell managed to sell three lots to E.S. Hayhurst for $325. This cream-colored house with brown trim, completed in 1872, has an open porch with machine-turned posts framed by decorative brackets. Three steps span the full width of the entryway. Notice how the roof lines intersect with each other. Can you see the similarity between this 1-1/2 story T-shaped building and the Staples house at the North end of Poplar Street? It’s possible that the same carpenters had a hand in building both. \nUnfortunately, Hayhurst and his family were only able to call this place home for less than a decade. When they couldn’t make the payments, the mortgage was foreclosed and the family left town in 1878. Ever the businessman, Wetherell repossessed the lots and turned the house into a rental property. Press 117 # to learn about the Wright House.\n",
+      "type": "audio"
+    },
+    {
+      "id": 387,
+      "name": "WRIGHT HOUSE",
+      "transcript": "On April 30, 1873, J. M. Wetherell sold Lots 23 & 24 to Mary Wright for $270. She owned the property for the next 48 years. If you’re wondering why the deed was in her name, it might have something to do with the fact that in 1870, Mary had learned some surprising news. Even though she and her husband, William “Billy” Wright had been married for thirteen years, and she’d given him six children, he had never divorced his first wife. When the first Mrs. Wright tracked down her deserting husband, Billy sent her $40 and she agreed to never trouble him again. \nThe Wright House features a clapboard-sided front porch with a pyramid-shaped hip roof that’s supported by two short, square columns painted brown like the rest of the home’s trim. This large white house also features a few other architectural embellishments. You’ve probably already noticed the beautiful bay window that faces the street. But can you find the triple-paned piano window?\nFor a time, Wright owned a blacksmith shop at the southwest corner of Main and Poplar. Perhaps the competition from neighbor Jesse Hoover, Herbert’s dad, was what led Billy to sell his business in 1875 and open a harness and boot shop. To learn about the Staples House, enter 118 #.\n",
+      "type": "audio"
+    },
+    {
+      "id": 385,
+      "name": "STAPLES HOUSE",
+      "transcript": "The main wing of this white, two-story wood frame structure was completed in 1872, two years before Hoover was born. Did you know that the yellow-trimmed door on the left was the original entry to the home? Another owner added the enclosed five-windowed porch in the early 1900’s. After Wetherell’s death in 1876, his widow, Mary sold the three lots, along with the home, to Dr. John Staples and his wife Eliza for $1,500.00. \nThe couple, originally from Vermont, had decided to retire in West Branch. When the 76-year old doctor passed away in 1891, he left the home to his four grandchildren. The Staples house has since become a part of the historic village landscape from Herbert Hoover's youth.\nTo find out where one of the Mayor’s of West Branch lived, press 119 #.\n",
+      "type": "audio"
+    },
+    {
+      "id": 402,
+      "name": "MACKEY HOUSE",
+      "transcript": "In 1869, after subdividing his recently purchased five-acre real estate investment, John Wetherell sold two of the lots to David Mackey for $50 each. The Mackey house is one of the oldest homes in the historic core of West Branch. This cheerful yellow wood framed home would have been a familiar landmark to the young Herbert “Bertie” Hoover while growing up. \nDid you notice the small, simple hood over the entryway? Mackey designed and built this humble two-story house with a gable roof and a red brick chimney. Just a few years after construction was complete, his wife Mary died, leaving the carpenter with a baby son named Charles. Soon after, Mackey’s sister, Martha moved in to help take care of the child. \nThe young widower, one of the town’s few Democrats, was surprisingly elected the Mayor of West Branch in 1879. Of the homes in the core area dating back to Hoover’s boyhood, this house and the Wright home, across the street, have been the least altered in appearance.\n",
+      "type": "audio"
+    },
+    {
+      "id": 417,
+      "name": "SCHOOLHOUSE",
+      "transcript": "By 1853, enough settlers lived in West Branch to support and build a public school. Hard work was a core value of the Quaker faith, but so too, was the importance of education for both boys and girls - Hoover’s own mother, Hulda had been a teacher before she married. Because the Society of Friends raised much of the money for the construction of this one-room schoolhouse, it was also used as the first Quaker meetinghouse, which might explain its simple, unadorned architecture.\nOriginally located at the corner of Main and Downey streets, the school was sold and moved several times before its final relocation here in 1968. While it is unknown if Hoover attended school in this building, it is the oldest building at Herbert Hoover National Historic Site.\nWhen 5-year old Herbert “Bertie” Hoover started primary school in 1879, he was following in the footsteps of his big brother, eight-year old “Tad.” (sound effects: bell, children talking, laughing) Mornings were greeted with the ringing of the school bell and the activity of hanging coats and hats on the cloak room hooks just inside the doorway. As you step inside, you’ll find a classroom restored to the time of Hoover’s youth. Double-seated wooden desks trimmed in cast iron vary in size from large to small. Did you notice the ones directly in front of the teacher’s desk? Children sat here when it was time to recite their lessons.\nMiss Lizzie Chandler taught Bertie Hoover for first and second grade. Each day, her blackboard was filled with lessons of arithmetic and spelling. No computers or overhead projectors here. Students shared reading books, and practiced penmanship on slate chalkboards, like the ones sitting on these desktops. \nThe only source of heat in this schoolhouse came from a pot-bellied wood stove located at the back of the room. In the winter, you can imagine that depending on where you sat, you might be sweating or freezing!  The eight large windows let in lots of natural light, but on cloudy days, it was the kerosene lamps that helped to brighten the room. \nYou probably recognize the portraits of George Washington and Abraham Lincoln, the country’s first and sixteenth Presidents. Little did Miss Lizzie Chandler know that in less than 50 years, Bertie Hoover would add his name to that distinguished list when he was elected the 31st President of the United States of America. \nTo learn more about Hoover’s later education, please press the # key.\n",
+      "type": "audio"
+    },
+    {
+      "id": 392,
+      "name": "LAYER HOVERS HIGHER EDUCATION",
+      "transcript": "Some may say sending an 11-year old boy from Iowa to Oregon after the death of his mother would be a life-changing event… and not necessarily in a good way. But going to live with his maternal uncle, a doctor in Newberg, Oregon, turned out to bring two very important things into the young orphan’s life. Tim Walch, Executive Director of the Herbert Hoover Presidential Library reveals one of them. \n(music) Tim Walch: “His Uncle John – Henry John Minthorn – obviously was concerned about Hoover's future education because he worked for his uncle in the land surveyor's office, did a fair amount of reading on his own, and when he expressed a desire to go to college it was not dismissed by Uncle John. And apparently there was a traveling recruiter from Stanford who was a Quaker himself, who convinced Uncle John that Bert could certainly attend Stanford University where he wanted to go, without losing his faith, and Bert applied, and was able to be a member of the first class.” \nIn 1891, 17-year old Bert Hoover enrolled in Stanford determined to become a mining engineer. With just $850 from his mother’s estate to supplement his education, Bert Hoover’s tireless work ethic resulted in a wide variety of jobs including a paper route and a laundry business.\nTim Walch: “I'm told at least for the first year because he had very little money to support room and board, that he lived in the barracks with the workmen who was constructing the campus because the campus was still under construction. So self-made, I think, is a fair statement, and that really helped shape his friendships, and his future view on life.”\nHoover’s senior year at Stanford brought the second very important thing into his life. It was in geology class, that he met the love of his life – Miss Lou Henry. Bert felt compelled to help the striking freshman with her studies. \n(Celtic music) In his Memoirs, Hoover wrote: (actor) “And this call to duty was stimulated by her whimsical mind, her blue eyes, and a broad grinnish smile that came from an Irish ancestor. I was not long in learning that she also was born in Iowa, the same year as myself, and that she was the daughter of a hunting-fishing country banker at Monterey who had no sons and therefore had raised his daughter in the out-of-door life of a boy.”\nBert graduated in 1895 with a degree in geology and quickly became a successful mining engineer in Australia. Three years later, Lou received her geology degree – making her one of the first women in America to do so. When Bert’s marriage proposal came by telegram, Lou cabled back her consent. They were married on February 10, 1899, and the next day, set sail for China. Their life of travel and adventure had begun.\n",
+      "type": "audio"
+    },
+    {
+      "id": 395,
+      "name": "LAYER WOMEN IN THE QUAKER FAITH",
+      "transcript": "Ruthie Tippin: “When you walk into the meeting house, and you see the divided wall, and you understand that the women sat on one side and the men sat on the other, you wonder: Is this some kind of discriminatory practice among Friends? Actually, it was a very freeing thing.” \nGeorge Fox, founder of the Religious Society of Friends in 17th century England, was quite forward thinking about the role of women in the Quaker faith. Pastor Ruthie Tippin of the West Branch Friends Church reveals that in 1671, Fox requested that women have their own place to do business at their “monthly meetings.” It was during those meetings that the sliding wooden partitions dividing the room were pulled down. \n(sound effects: roller partition closing)\nRuthie Tippin: (music) “The idea was to give women opportunities to learn how to lead, to learn how to clerk or chair a meeting, to take roles in leadership within their community. And oftentimes he had seen that men would take over those roles in mixed company, and it was better, he felt, for women to exercise those kinds of qualities on their own. And from that came this divided business meeting concept, and it flourished, and it strengthened women’s' voices; it strengthened women’s place in leadership, not only in the Friends church, but in all of life.” \nHoover’s mother Hulda was one who did not hesitate to take on a leadership role within the meeting. She helped conduct revivals, founded and led a young people’s prayer meeting, and took an active role in prohibition campaigns. After her husband’s death, the thirty-two year old widow became even more focused on the two things that brought her joy: her children and her faith. Imagine the power of one voice echoing off the walls while everyone else sits in silence. Hulda spoke often in meeting, and over time, her testimonies and insights were not only welcomed and encouraged, but also formally acknowledged by the congregation’s elders. \n",
+      "type": "audio"
+    },
+    {
+      "id": 421,
+      "name": "WAYSIDE 1 VISITOR CENTER",
+      "transcript": "Welcome to Herbert Hoover National Historic Site. As part of the National Park System and in cooperation with the Herbert Hoover Presidential Library-Museum, the Herbert Hoover Presidential Library Association, and the city of West Branch, this 187-acre park commemorates and interprets the life, career, and accomplishments of our nation’s 31st President. \nToday you’ll have the chance to immerse yourself in the landscape Hoover saw and the activities he participated in as a child. His father’s craft as a blacksmith, Hoover’s religious upbringing, his love of fishing, the education he received - many of the influences which Herbert Hoover carried into his adult life, and that contributed to his character.\nTo ensure that you experience all of the park’s resources and history during your visit, we invite you to listen to our interpretive, self-guided cell phone audio tour. Pick up a free copy of the park’s site map at the Visitor Center or at any of the three outdoor waysides. This helpful guide gives directions on how to access each of the numbered and titled audio messages in the program.\nFor your convenience, the Visitor Center and its restrooms are handicapped-accessible. Visitors may borrow a wheelchair, scripts of the audio program and a  limited number of hand-held audio wands are also available. In addition, there is a short film about Herbert Hoover’s early life. Park rangers and volunteers are available to assist you and answer questions daily from 9 am to 5 pm, except for Thanksgiving, Christmas, and New Year’s Day. \nEnjoy your visit! \n",
+      "type": "audio"
+    },
+    {
+      "id": 406,
+      "name": "WAYSIDE 3 WETHERELL AND DOWNEY STREETS",
+      "transcript": "Welcome to Herbert Hoover National Historic Site. As part of the National Park System and in cooperation with the Herbert Hoover Presidential Library-Museum, the Herbert Hoover Presidential Library Association, and the city of West Branch, this 187-acre park commemorates and interprets the life, career, and accomplishments of our nation’s 31st President.\nJust a few blocks north of Hoover’s Birthplace Cottage is the West Branch Commercial Historic District. Take a stroll along Main Street and you will find many wonderful examples of turn-of-the-century buildings that, between 1875 and 1916, housed the businesses of a bustling commercial center.\nBuilt by the hands of hardworking craftsmen during the “Golden Era of American Architecture,” sixteen of these structures have been listed on the National Register of Historic Places. Their designation is the result of a proud community’s recognition of West Branch’s place in history and a tireless effort to preserve their past. Take a journey back in time and see for yourself why these buildings embody the spirit of rural America and the history of a time gone by. \nTo learn more about this place, and where Hoover was born and lived as a child, you can listen to the park’s self-guided cell phone audio tour. Pick up a free copy of the park’s site map at the Visitor Center or at any of the three outdoor waysides. This helpful guide gives directions on how to access each of the numbered and titled audio messages in the program.\nEnjoy your visit!",
+      "type": "audio"
+    },
+    {
+      "id": 398,
+      "name": "WAYSIDE 2 PRESIDENTIAL LIBRARY",
+      "transcript": "Welcome to Herbert Hoover National Historic Site. As part of the National Park System and in cooperation with the Herbert Hoover Presidential Library-Museum, the Herbert Hoover Presidential Library Association, and the city of West Branch, this 187-acre park commemorates and interprets the life, career, and accomplishments of our nation’s 31st President.\nThe Herbert Hoover Presidential Library-Museum was opened to the public on August 10, 1962, Mr. Hoover's 88th birthday. Although it is located on a National Park Service Historic Site, the Library-Museum is independently operated and maintained by the National Archives and Records Administration. \nWheelchair accessible, the museum is open from 9 am to 5 pm, 362 days a year. The library houses millions of papers in over 300 collections relating to both President and Mrs. Hoover, their friends and associates. Permanent galleries take you from President Hoover’s boyhood in Iowa and continue on to a recreation of the Waldorf Towers apartment in New York where he spent the final years of his life. Stop by to find out about upcoming exhibits and events.\nAfter visiting the Presidential Library-Museum, we invite you to experience the additional resources and history of the Herbert Hoover National Historic Site by listening to our interpretive, self-guided cell phone audio tour. Pick up a free copy of the park’s site map at the Visitor Center or at any of the three outdoor waysides. This helpful guide gives directions on how to access each of the numbered and titled audio messages in the program.\nThanks for spending some time with us today!",
+      "type": "audio"
+    },
+    {
+      "id": 418,
+      "name": "LAYER EARLY INTEREST IN GEOLOGY",
+      "transcript": "(sound effects: click-clack of train wheels; whistle in the distance) By 1874, five railroads had spread across the Iowa countryside. Distant farms and small towns were now connected by miles of timber and track, bringing with it new jobs, new products, and new markets for harvests & livestock. For a curious and enterprising Bertie Hoover, the railroad tracks east of Downey Street brought something else - a fascination with geology.\nIn his memoirs, published in 1951, Herbert Hoover wrote: (actor) “I have mentioned the Burlington track. It was an aspiring place. It was ballasted with glacial gravels where, by hard search, you discovered gems of agate and fossil coral, which could, with infinite backaches, be polished on the grindstone. Their fine points came out wonderfully when wet, and you had to lick them with your tongue before each exhibit.”\nThe railroad no longer rumbles through West Branch, but a few of those semi-precious rocks may still be found along the tracks that once inspired and encouraged the dreams of a future President.\n",
       "type": "audio"
     }
   ],
@@ -2832,11 +2859,11 @@
   ],
   "name": "Herbert Hoover",
   "searches": [
-    "Herbert Hoover birthplace",
-    "Blacksmith",
-    "Presidential Library",
-    "Herbert Hoover Grave",
-    "Park admission fee"
+    "Where is President Hoover's Birthplace?",
+    "Where is the Blacksmith shop?",
+    "How do I get to the Presidential Library",
+    "Where is President Hoover buried?",
+    "Is there an admission fee to the park?"
   ],
   "sites": [
     {
