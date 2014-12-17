@@ -2,7 +2,7 @@
   "alerts": [],
   "categories": [
     {
-      "description": "Visit these twelve “must-see” sites for a glimpse into Skagway’s colorful past—and present.",
+      "description": "Visit these twelve “must-see” sites to learn more about Herbert Hoover's past and present",
       "name": "Highlights",
       "sites": [
         383,
@@ -2867,40 +2867,50 @@
   ],
   "sites": [
     {
-      "description": "Herbert Hoover recalled, “Iowa in those years was filled with days of school, and who does not remember with a glow, some gentle woman, who with infinite patience and kindness, drilled into us those foundations of all we know today.”",
-      "geofence_buffer_in_meters": 10,
-      "id": 386,
-      "latitude": 41.670562,
-      "longitude": -91.347367,
-      "map_thumbnail_image": 427,
-      "name": "Schoolhouse",
-      "name_description": "West Branch's largely Quaker population valued education as a way to make good, productive citizens.",
-      "type": "School",
-      "services": []
-    },
-    {
       "description": "In the years following his presidency, Herbert and Lou Hoover restored the president's humble birthplace, which he called \"physical proof of the unbounded opportunity of American life.\" The small spaces and dearth of material possession reflect an ethic of thrift, and the cottage's status as a starter home for a young family. Antique furnishings from the mid and late 19th century represent common household items for a simply furnished two room rural home.",
       "geofence_buffer_in_meters": 10,
       "id": 384,
-      "latitude": 41.6702711748314,
-      "longitude": -91.3468685746193,
+      "latitude": 41.67027117,
+      "longitude": -91.34686857,
       "map_thumbnail_image": 425,
       "name": "Birthplace Cottage",
       "name_description": "Hoover called his modest birthplace \"physical proof of the unbounded opportunity of American life.\"",
+      "primary_image": 425,
       "type": "Home",
       "services": []
     },
     {
-      "description": "Jesse Hoover owned and operated a blacksmith shop from 1871 to 1878. Although there were other smithies in town, Jesse earned a reputation as a good-natured, fair, and industrious businessman. Skilled and ambitious, he advertised to farmers, “Horse shoeing and plow work a specialty. Also dealer in all kinds of pumps. Prices to suit the times.”",
+      "description": "Herbert Hoover grew up in a religious community that valued peace, simplicity, integrity, and service to others. The plainly furnished Friends Meetinghouse, built by the Society of Friends, or Quakers, in 1857, is the physical expression of those values. Now two blocks from its original location, the Herbert Hoover Birthplace Foundation relocated and restored this meetinghouse in 1964.",
       "geofence_buffer_in_meters": 10,
-      "id": 385,
-      "latitude": 41.670435,
-      "longitude": -91.347062,
-      "map_thumbnail_image": 426,
-      "name": "Blacksmith Shop",
-      "name_description": "Hoover’s father, a blacksmith, earned a reputation as a fair and hard working shop owner.",
-      "type": "Shop",
+      "id": 387,
+      "latitude": 41.66975,
+      "longitude": -91.346337,
+      "map_thumbnail_image": 428,
+      "name": "Friends Meetinghouse",
+      "name_description": "The Quakers of West Branch valued peace, simplicity, integrity, and service to others.",
+      "primary_image": 428,
+      "type": "Church",
       "services": []
+    },
+    {
+      "description": "Start your visit at the Visitor Center, where you can pick up a map and guide. Park rangers are available to answer questions and help you get oriented.",
+      "geofence_buffer_in_meters": 10,
+      "id": 383,
+      "latitude": 41.67087224,
+      "longitude": -91.34569108,
+      "map_thumbnail_image": 424,
+      "name": "Visitor Center",
+      "name_description": "Start your visit with an introduction to Herbert Hoover and his hometown of West Branch.",
+      "primary_image": 424,
+      "type": "Information",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        }
+      ]
     },
     {
       "description": "In 1869, carpenter David Mackey, who designed and built this humble two-story home. The cheerful yellow house would have been a familiar landmark to the young Herbert Hoover.  Just a few years after construction was complete, David’s wife Mary died, leaving the carpenter with a baby son named Charles. The young widower, one of the town's few Democrats, was elected the Mayor of West Branch in 1879. Of the homes in the core area dating back to Hoover's boyhood, this house and the Wright House, across the street, have been the least altered in appearance.",
@@ -2914,49 +2924,6 @@
       "type": "Residence"
     },
     {
-      "description": "Herbert Hoover grew up in a religious community that valued peace, simplicity, integrity, and service to others. The plainly furnished Friends Meetinghouse, built by the Society of Friends, or Quakers, in 1857, is the physical expression of those values. Now two blocks from its original location, the Herbert Hoover Birthplace Foundation relocated and restored this meetinghouse in 1964.",
-      "geofence_buffer_in_meters": 10,
-      "id": 387,
-      "latitude": 41.66975,
-      "longitude": -91.346337,
-      "map_thumbnail_image": 428,
-      "name": "Friends Meetinghouse",
-      "name_description": "The Quakers of West Branch valued peace, simplicity, integrity, and service to others.",
-      "type": "Church",
-      "services": []
-    },
-    {
-      "description": "Start your visit at the Visitor Center, where you can pick up a map and guide. Park rangers are available to answer questions and help you get oriented.",
-      "geofence_buffer_in_meters": 10,
-      "id": 383,
-      "latitude": 41.6708722415851,
-      "longitude": -91.3456910848618,
-      "map_thumbnail_image": 424,
-      "name": "Visitor Center",
-      "name_description": "Start your visit with an introduction to Herbert Hoover and his hometown of West Branch.",
-      "type": "Information",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        }
-      ]
-    },
-    {
-      "description": "The bronze, seven and a half foot tall statue “Isis, Goddess of Life” is the work of Belgian sculptor Auguste Puttemans, and was a gift from the people of Belgium in gratitude for Hoover's famine relief efforts on their behalf during the First World War.",
-      "geofence_buffer_in_meters": 10,
-      "id": 388,
-      "latitude": 41.6696881347181,
-      "longitude": -91.3469356298447,
-      "map_thumbnail_image": 429,
-      "name": "Statue of Isis",
-      "name_description": "The people of Belgium presented “Isis, Goddess of Life” to Hoover as a gift of gratitude.",
-      "type": "Statue",
-      "services": []
-    },
-    {
       "description": "For thirty-six years Dr. L.J. Leech, a Civil War veteran and graduate of Iowa State University, had lived in the Laban Miles House next door; renting it at first in 1884, and then buying it two years later when the bank foreclosed on the home. By 1920, the well-liked country doctor and Iowa legislator decided to have a new home built for himself.",
       "geofence_buffer_in_meters": 10,
       "id": 399,
@@ -2968,14 +2935,79 @@
       "type": "Office"
     },
     {
+      "description": "Jesse Hoover owned and operated a blacksmith shop from 1871 to 1878. Although there were other smithies in town, Jesse earned a reputation as a good-natured, fair, and industrious businessman. Skilled and ambitious, he advertised to farmers, “Horse shoeing and plow work a specialty. Also dealer in all kinds of pumps. Prices to suit the times.”",
+      "geofence_buffer_in_meters": 10,
+      "id": 385,
+      "latitude": 41.670435,
+      "longitude": -91.347062,
+      "map_thumbnail_image": 426,
+      "name": "Blacksmith Shop",
+      "name_description": "Hoover’s father, a blacksmith, earned a reputation as a fair and hard working shop owner.",
+      "primary_image": 426,
+      "type": "Shop",
+      "services": []
+    },
+    {
+      "description": "Herbert Hoover recalled, “Iowa in those years was filled with days of school, and who does not remember with a glow, some gentle woman, who with infinite patience and kindness, drilled into us those foundations of all we know today.”",
+      "geofence_buffer_in_meters": 10,
+      "id": 386,
+      "latitude": 41.670562,
+      "longitude": -91.347367,
+      "map_thumbnail_image": 427,
+      "name": "Schoolhouse",
+      "name_description": "West Branch's largely Quaker population valued education as a way to make good, productive citizens.",
+      "primary_image": 427,
+      "type": "School",
+      "services": []
+    },
+    {
+      "description": "The bronze, seven and a half foot tall statue “Isis, Goddess of Life” is the work of Belgian sculptor Auguste Puttemans, and was a gift from the people of Belgium in gratitude for Hoover's famine relief efforts on their behalf during the First World War.",
+      "geofence_buffer_in_meters": 10,
+      "id": 388,
+      "latitude": 41.66968813,
+      "longitude": -91.34693563,
+      "map_thumbnail_image": 429,
+      "name": "Statue of Isis",
+      "name_description": "The people of Belgium presented “Isis, Goddess of Life” to Hoover as a gift of gratitude.",
+      "primary_image": 429,
+      "type": "Statue",
+      "services": []
+    },
+    {
+      "description": "Herbert Hoover wrote of West Branch, \"My grandparents and my parents came here in a covered wagon. In this community they toiled and worshipped God. The most formative years of my boyhood were spent here. My roots are in this soil.\"",
+      "geofence_buffer_in_meters": 10,
+      "id": 390,
+      "latitude": 41.66816539,
+      "longitude": -91.35199696,
+      "map_thumbnail_image": 431,
+      "name": "Gravesite of President and Mrs. Hoover",
+      "name_description": "The president’s gravesite overlooks his birthplace, a reminder of his simple beginnings.",
+      "primary_image": 431,
+      "type": "Graves",
+      "services": []
+    },
+    {
+      "description": "In 1871 young Jesse Hoover constructed a blacksmith and wagon repair shop here on the corner of Penn and Downey streets. His business thrived in the rapidly growing village. In 1878 Jesse sold both his shop and the small cottage he had built across Penn Street, and opened a farm implement business a few blocks away on Main Street. In 1888 the original building was moved to another part of town, and was subsequently lost to history.",
+      "geofence_buffer_in_meters": 10,
+      "id": 393,
+      "latitude": 41.67044148,
+      "longitude": -91.34682432,
+      "map_thumbnail_image": 434,
+      "name": "Blacksmith Shop Original Site",
+      "name_description": "Jesse Hoover's original blacksmith shop stood across Penn Street from his modest home.",
+      "primary_image": 434,
+      "type": "Site"
+    },
+    {
       "description": "On August 12, 1965, an act of Congress established this park as a national historic site. Since then, the National Park Service has preserved and interpreted the historic structures and landscape of this 187-acre park. In the late 1930's, President Hoover and his wife, Lou Henry Hoover, chose this place to celebrate the values they believed helped shape his life.",
       "geofence_buffer_in_meters": 10,
       "id": 391,
-      "latitude": 41.6704234456064,
-      "longitude": -91.3461765646935,
+      "latitude": 41.67042345,
+      "longitude": -91.34617656,
       "map_thumbnail_image": 432,
       "name": "Visitor Center Orientation Wayside",
       "name_description": "Herbert Hoover National Historic Site commemorates the life of the 31st President.",
+      "primary_image": 432,
       "type": "Exhibit"
     },
     {
@@ -3001,29 +3033,6 @@
       "type": "Trailhead"
     },
     {
-      "description": "Herbert Hoover wrote of West Branch, \"My grandparents and my parents came here in a covered wagon. In this community they toiled and worshipped God. The most formative years of my boyhood were spent here. My roots are in this soil.\"",
-      "geofence_buffer_in_meters": 10,
-      "id": 390,
-      "latitude": 41.6681653933666,
-      "longitude": -91.3519969582558,
-      "map_thumbnail_image": 431,
-      "name": "Gravesite of President and Mrs. Hoover",
-      "name_description": "The president’s gravesite overlooks his birthplace, a reminder of his simple beginnings.",
-      "type": "Graves",
-      "services": []
-    },
-    {
-      "description": "In 1871 young Jesse Hoover constructed a blacksmith and wagon repair shop here on the corner of Penn and Downey streets. His business thrived in the rapidly growing village. In 1878 Jesse sold both his shop and the small cottage he had built across Penn Street, and opened a farm implement business a few blocks away on Main Street. In 1888 the original building was moved to another part of town, and was subsequently lost to history.",
-      "geofence_buffer_in_meters": 10,
-      "id": 393,
-      "latitude": 41.6704414776481,
-      "longitude": -91.3468243181705,
-      "map_thumbnail_image": 434,
-      "name": "Blacksmith Shop Original Site",
-      "name_description": "Jesse Hoover's original blacksmith shop stood across Penn Street from his modest home.",
-      "type": "Site"
-    },
-    {
       "description": "In 1951 Herbert Hoover became the first recipient of the prestigious Iowa Award, which is bestowed to “recognize the outstanding service of Iowans in the fields of science, medicine, law, religion, social welfare education, agriculture, industry, government and other public service.” Only 12 other Iowans have received this award.",
       "geofence_buffer_in_meters": 10,
       "id": 394,
@@ -3047,10 +3056,10 @@
     },
     {
       "description": "Amanda Garvin was a single 35-year old woman when she bought this property in 1870 for $90.00. She had this cottage built by 1872. The Garvin house is a wonderful example of the Gothic Revival style with its steeply pitched roof, gingerbread bargeboard trim, and ornamental arches framing the open front porch. By 1878, Miss Garvin was renting her cottage to tenants. During the fifteen years she owned the property, she mortgaged it several times but lost the home to foreclosure in 1885.",
-      "geofence_buffer_in_meters": 10,
+      "geofence_buffer_in_meters": 9.390400019507199,
       "id": 401,
-      "latitude": 41.670862,
-      "longitude": -91.346893,
+      "latitude": 41.670874,
+      "longitude": -91.34689,
       "map_thumbnail_image": 442,
       "name": "Amanda Garvin House",
       "name_description": "Amanda Garvin’s house with its ornamented arches is an example of Gothic Revival style.",
@@ -3332,18 +3341,6 @@
       "type": "Post Office"
     },
     {
-      "description": "Herbert Hoover Presidential Library and Museum opened to the public on August 10, 1962, Herbert Hoover's 88th birthday. The dedication took place at the library's original entrance, which is the small portico at the east end of the building supported by four white pillars and topped with an earlier version of the presidential seal. Since its opening, Herbert Hoover Presidential Library and Museum has been expanded and renovated several times, with the most recent change funded by a partnership between the U.S. government and the non-profit Hoover Presidential Foundation.",
-      "geofence_buffer_in_meters": 10,
-      "id": 389,
-      "latitude": 41.6690029055671,
-      "longitude": -91.3477778434753,
-      "map_thumbnail_image": 430,
-      "name": "Herbert Hoover Presidential Library and Museum (incl. WS)",
-      "name_description": "Museum galleries tell of the triumphs and tragedies of Hoover’s long career in public service. ",
-      "type": "Museum",
-      "services": []
-    },
-    {
       "description": "This large brick structure, built in 1916, housed the West Branch State Bank (previously named West Branch Bank). It replaced a bank building (circa 1877) which stood on the same site, but was razed to make room for the new, larger building. The bank took temporary quarters across the street during construction. It then occupied this building until 1974. Fred Albin rented the back for his meat market until 1924. The West Branch Telephone Company shared the second floor with Hubbard & Hubbard Chiropractors.",
       "geofence_buffer_in_meters": 10,
       "id": 420,
@@ -3374,7 +3371,21 @@
       "longitude": -91.34698927,
       "map_thumbnail_image": 433,
       "name": "Birthplace Cottage Back Porch and Garden",
-      "name_description": "The Hoovers used their porch and yard as extensions of their modest dwelling."
+      "name_description": "The Hoovers used their porch and yard as extensions of their modest dwelling.",
+      "primary_image": 433
+    },
+    {
+      "description": "Herbert Hoover Presidential Library and Museum opened to the public on August 10, 1962, Herbert Hoover's 88th birthday. The dedication took place at the library's original entrance, which is the small portico at the east end of the building supported by four white pillars and topped with an earlier version of the presidential seal. Since its opening, Herbert Hoover Presidential Library and Museum has been expanded and renovated several times, with the most recent change funded by a partnership between the U.S. government and the non-profit Hoover Presidential Foundation.",
+      "geofence_buffer_in_meters": 10,
+      "id": 389,
+      "latitude": 41.66900291,
+      "longitude": -91.34777784,
+      "map_thumbnail_image": 430,
+      "name": "Herbert Hoover Presidential Library and Museum (incl. WS)",
+      "name_description": "Museum galleries tell of the triumphs and tragedies of Hoover’s long career in public service. ",
+      "primary_image": 430,
+      "type": "Museum",
+      "services": []
     },
     {
       "description": "In 1870, Laban Miles had married Hulda Hoover’s younger sister, Agnes Minthorn, just five days after Hulda and Jesse Hoover were wed. By 1875 they were settling down in this house, built sometime between 1869 and 1872, with a family of their own.",
