@@ -110,6 +110,52 @@
   "max_distance_in_meters": 1609.3,
   "media": [
     {
+      "id": 38,
+      "type": "image"
+    },
+    {
+      "alt": "A historic photograph of Jeff. “Soapy” Parlor, with a group of men, including “Soapy” Smith standing in front.",
+      "caption": "Soapy Smith in front of his parlor.",
+      "id": 79,
+      "type": "image"
+    },
+    {
+      "alt": "A modern photograph of Soapy’s Parlor Museum before renovation, with boarded up window and door.",
+      "caption": "Soapy’s Parlor Museum before Rehabilitation. Photo Credit: KLGO Collections.",
+      "id": 69,
+      "type": "image"
+    },
+    {
+      "alt": "Map thumbnail for Visitor Center",
+      "caption": "Map thumbnail for Visitor Center",
+      "id": 170,
+      "image_thumbnail_1x": "170_thumbnail.png",
+      "image_thumbnail_2x": "170_thumbnail@2x.png",
+      "image_thumbnail_3x": "170_thumbnail@3x.png",
+      "name": "Map thumbnail for Visitor Center",
+      "relative_url": "170.png",
+      "relative_url_@2x": "170@2x.png",
+      "relative_url_tablet": "170_tablet.png",
+      "relative_url_tablet_@2x": "170_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "caption": "A historic photo of the Mascot Saloon",
+      "id": 9,
+      "image_1080": "9_1080x810.jpg",
+      "image_1536": "9_1536x1152.jpg",
+      "image_350": "9_350x260.jpg",
+      "image_480": "9_480x320.jpg",
+      "image_640": "9_640x504.jpg",
+      "image_768": "9_768x480.jpg",
+      "image_960": "9_960x640.jpg",
+      "relative_url": "9.jpg",
+      "relative_url_@2x": "9@2x.jpg",
+      "relative_url_tablet": "9_tablet.jpg",
+      "relative_url_tablet_@2x": "9_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
       "first_image": 11,
       "id": 10,
       "name": "Mascot Saloon Renovations",
@@ -343,6 +389,16 @@
       "relative_url_tablet": "124_tablet.png",
       "relative_url_tablet_@2x": "124_tablet_2x.png",
       "type": "map_thumbnail"
+    },
+    {
+      "id": 14,
+      "name": "A Demo Video File",
+      "relative_url": "14.mp4",
+      "relative_url_@2x": "14@2x.mp4",
+      "relative_url_tablet": "14_tablet.jpg",
+      "relative_url_tablet_@2x": "14_tablet@2x.jpg",
+      "thumbnail_image": 12,
+      "type": "video"
     },
     {
       "alt": "Map Thumbnail for Skagway Town Overlook (id: 41)",
@@ -752,20 +808,6 @@
       "type": "image"
     },
     {
-      "id": 38,
-      "type": "image"
-    },
-    {
-      "id": 14,
-      "name": "A Demo Video File",
-      "relative_url": "14.mp4",
-      "relative_url_@2x": "14@2x.mp4",
-      "relative_url_tablet": "14_tablet.jpg",
-      "relative_url_tablet_@2x": "14_tablet@2x.jpg",
-      "thumbnail_image": 12,
-      "type": "video"
-    },
-    {
       "alt": "Gateway to the Interior. Quote: \"I fully expect before many years to see a pack trail through the pass, followed by a wagon road, and I would not be at all surprised to see a railroad through to the lakes.\" Caption: Captain William Moore, quoted by Ben Moore. Photograph of Captain William Moore superimposed on background photo. Photo Caption: Captain William Moore. Photo Credit: Photo courtesy of Howard Clifford Collection/Klondike Gold Rush National Historical Park. KLGO, SP-180-6151. Photograph of Ben Moore superimposed on background photo. Photo Caption: Ben (J.B.) Moore at Victoria, 1904 PERMISSION PENDING. Photo Credit: Photo courtesy of J. Bernard Moore Family Papers, Album #1. UAF-1978-35-5. The Alaskan Coast Mountains, with precipitous peaks and massive glaciers, present a nearly impenetrable barrier; however, a few ice-free river valleys pierce this rugged landscape. Background photo: Sepia colored aerial photo of the Taiya and Skagway River valleys. Dyea labelled, with Tlingit definition meaning \"To Pack,\" and Skagway labelled with Tlingit definition meaning \"Windy Place.\" Photo Credit: Background image from Google Earth Pro. Main body text: Since prehistoric times, the coastal Tlingit Natives traded extensively with the inland Tagish First Nations using the Chilkoot corridor beginning at nearby Dyea. The White Pass corridor that began in Skagway was also used, but not as extensively. These routes allowed trade and cultural exchange to develop between peoples on both sides of the mountains. The Tlingit were not the only people to see the advantages of these corridors. Euroamerican prospectors began using the Chilkoot Trail in the 1880s to search for gold in the interior. In 1887, Skookum Jim (Keish), a Tagish man, guided Captain William Moore over the White Pass. That autumn, the Captain, his son Ben, and a Tlingit helper, Nan Suk, began building a wharf and cabin in what became Skagway. Captain Moore saw Skagway's potential with its deep water harbor and access to the interior. He believed many gold discoveries would occur in the north, and he intended to capitalize on the migration of people. With this in mind, Ben Moore filed a 160-acre land claim and both father and son began developing what was to become Skagway--the Gateway to the Interior. Historic photograph of Tlingit woman hiking. Photo caption: Tlingit woman packs her goods over a rocky shore about two miles from the Chilkoot summit, 1897. Photo Credit: Anchorage Museum at Rasmuson Center, Fridley Collection. B1970_022_44. Photograph of Skookum Jim Mason. Photo Caption: Skookum Jim Mason (Keish). Photo Credit: Candy Waugaman Collection/Klondike Gold Rush National Historical Park. KLGO, DP-116-10570.",
       "id": 23,
       "type": "image"
@@ -865,6 +907,23 @@
       "type": "image"
     },
     {
+      "alt": "Modern photograph of the McCable College Building with stone and painted orange façade.",
+      "caption": "The McCabe College Building. Photo Credit: KLGO Collections.",
+      "id": 22,
+      "image_1080": "22_1080x810.jpg",
+      "image_1536": "22_1536x1152.jpg",
+      "image_350": "22_350x260.jpg",
+      "image_480": "22_480x320.jpg",
+      "image_640": "22_640x504.jpg",
+      "image_768": "22_768x480.jpg",
+      "image_960": "22_960x640.jpg",
+      "relative_url": "22.jpg",
+      "relative_url_@2x": "22@2x.jpg",
+      "relative_url_tablet": "22_tablet.jpg",
+      "relative_url_tablet_@2x": "22_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
       "alt": "Transportation Corridor. Text: During the gold rush of 1897-1898, the Taiya Inlet became a busy transportation corridor for travelers heading to the Klondike. Steamships departing from Seattle and San Francisco sailed the Inside Passage, much as cruise ships do today. At Skagway a deep water port was available, but here at Dyea the bay was shallow and mud flats guarded the shore. Steamships stopped far offshore, and goods and passengers were loaded onto smaller boats called \"lighters.\" Once the lighters reached shallow water, they were hastily unloaded to beat the rising tide. The town of Dyea boomed rapidly from a Tlingit village to a busy gold rush supply town. From here, stampeders carried loads of supplies up the famous Chilkoot Trail and over the pass to the headwayers of the Yukon River. Imagine the noise and chaos of hundreds of stampeders unloading their supplies on the tidal mud flats. Consider the impacts this influx of outsiders had on the Native people living here.",
       "caption": "Bottom left photo, historic photograph of ship on the water. Photo caption: Wharves under construction with lighters heading toward shore, 1898. Photo Credit: Hegg photograph, courtesy University of Washington. Top Right photo, historic photograph of goods piled on shore. Photo Caption: Freight yard on Scow Street, Dyea, 1898. Photo Credit: Photo courtesy University of Washington. Bottom right photo, historic photograph of two boats on water with people on lighter in between. Photo Caption: Transferring of cargo from ship to lighter, 1897. Photo Credit: Photo courtesy of University of Washington.",
       "id": 59,
@@ -892,6 +951,23 @@
       "type": "image"
     },
     {
+      "alt": "A modern photograph of Skagway’s first city hall and courthouse in a dilapidated state.",
+      "caption": "Skagway’s first city hall and courthouse. Photo Credit: KLGO Collections.",
+      "id": 44,
+      "image_1080": "44_1080x810.jpg",
+      "image_1536": "44_1536x1152.jpg",
+      "image_350": "44_350x260.jpg",
+      "image_480": "44_480x320.jpg",
+      "image_640": "44_640x504.jpg",
+      "image_768": "44_768x480.jpg",
+      "image_960": "44_960x640.jpg",
+      "relative_url": "44.jpg",
+      "relative_url_@2x": "44@2x.jpg",
+      "relative_url_tablet": "44_tablet.jpg",
+      "relative_url_tablet_@2x": "44_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
       "alt": "White Pass City: Hidden from view by the distant, sloping ridge is the site of the abandoned gold rush settlement of White Pass City. It evolved quickly in 1897 as a good place to rest before making the grueling climb to the summit. A mass of 1,500 to 2,000 eager stampeders briefly congregated here in tents, log cabins and makeshift shanties. The “city” grew with the influx of teamsters, packers and railroad workers busily constructing the White Pass & Yukon Route. The completion of the railroad marked the swift end to this boom-to-bust town. Quote by Tappan Adney: \"They come from the desks and counters; they have never packed, and are not even accustomed to hard labor.\"",
       "caption": "Main Photo Caption: White Pass city, a frontier settlement with all the makeshift provisions of home in the wild. Main Photo Credit: Yukon Archives. Top Inset Photo Caption: Exhausted by the rigors of the trail, a stampeder naps along the White Pass trail. Top Inset Photo Credit: University of Washington. Bottom Inset Photo Caption: At White Pass City the wagons were unloaded and pack horses temporarily relieved of their load, fed and rested before making the steep climb to the summit. Bottom Inset Photo Credit: Alaska State Library.",
       "id": 54,
@@ -910,18 +986,6 @@
       "type": "image"
     },
     {
-      "alt": "A historic photograph of Jeff. “Soapy” Parlor, with a group of men, including “Soapy” Smith standing in front.",
-      "caption": "Soapy Smith in front of his parlor.",
-      "id": 79,
-      "type": "image"
-    },
-    {
-      "alt": "A modern photograph of Soapy’s Parlor Museum before renovation, with boarded up window and door.",
-      "caption": "Soapy’s Parlor Museum before Rehabilitation. Photo Credit: KLGO Collections.",
-      "id": 69,
-      "type": "image"
-    },
-    {
       "alt": "U.S. Army Invades Skagway. Text: During April 1942, the sleepy little town of Skagway was startled awake by the sudden arrival of thousands of American troops. Text: Alaska was thrown into the spotlight in June 1942 after the Japanese bombed Dutch Harbor and invaded Attu and Kiska islands in the Aleutian archipelago. Even before these attacks, the U.S. Army recognized Alaska's strategic location and began using the White Pass and Yukon Route (WP&YR) railroad to supply defense projects in the interior, such as the Alcan (Alaska) Highway, Canol Pipeline, and airfields along the Northwest Staging Route. The WP&YR previously operated two trains daily to Whitehorse, but it now needed to run 17 to 20 trains each day. The 770th Railway Operating Battalion took command of the railroad line spanning 110 miles of tough terrain. Conditions were often extreme, leading Private Howard Foley to state, \"That line's too steep for a goat and too cold for a polar bear.\" As many as 5,000 people were stationed in Skagway where Quonset huts sprouted like weeds in vacant lots and the Army took over many existing buildings. Cement, pipe, bulldozers, and approximately 22,000 troops and construction workers passed through the town. After the war ended in 1946, the WP&YR and Skagway residents resumed peacetime operations, proud of the transportation role they played during World War II. Historic photograph of vehicles loaded onto train cars. Photo Caption: Army trucks and heavy equipment on flatcars at WP&YR Depot in Skagway, 1942. The railroad carried soldiers and supplies to the base camp construction site of the Alaska Highway to Whitehorse. Photo Credit: U.S. Army Signal Corps. Alaska State Library Historical Collections, #175-69. Historic photograph of quonset hut in the snow superimposed on background photo. Photo caption: Quonset huts constructed by the Army in Skagway, circa 1944. Photo Credit: Photo courtesy of Skagway Museum, Dedman Collection. Historic Photograph of large group of men standing on train engine superimposed on background photo. Photo Caption: Company B, 770th Railway Operating Battalion of the Military Railway Service and U.S. Army locomotive USA196, Skagway, March 24, 1944. Photo Credit: Skagway Museum, Dedman Collection.",
       "id": 27,
       "type": "image"
@@ -930,6 +994,39 @@
       "alt": "Ách Áyá Haa Toowú Wlitseen, This Is Why We Gained Strength of Mind. The Death and Rebirth of a Village. Text: This place is the village of Deiyáa, which can be translated to “Pack Trail”\nand it is a key area of Northern Tlingit country. It is one of many areas that link the coast to the interior, and has been a valuable trade route for the Tlingit people for much longer than written history in this area. According to traditional history, the Tlingit migrated to the coast from the interior in several areas: Shtaxhéen (Stikine River - “Silty River”), T’aawákw Galakú (T’aakú - Taku - “Flooding Geese”), Naadaashaahéeni (Carcross\n- “Water Flowing off the Mountain”), Lkóot (Chilkoot - “The Lake that Puked”), and Jilkáat (Chilkat - “Food Cache”). While Shgagwéi (Skagway - “Roughed up or bunched up water” or\n“Whitecaps”) served mostly as an area for seasonal hunting and fishing camps, Deiyáa was a village that local elders have described as smaller than Deishú (Haines - “End of the Trail”) and Tlákw Aan (Klukwan - “Eternal Village”). It was a place for families who did not want to live in a village with several hundred residents. This area was occupied by families from Deishú, Tlákw Aan, and Naadaashaahéeni. The primary clans in the area are Lukaax.ádi (Raven-Sockeye), Kaagwaantaan (Eagle-Wolf ), Deisheetaan (Raven-Beaver), Dakl’aweidí (Eagle-Killer Whale) and Yanyeidí (Wolf ). There was a time when dugout canoes made of cedar or cottonwood lined the beaches of Deiyáa. Valuable foods from the sea like salmon, eulachon, seaweeds, seal, and clams, as well as seal and eulachon grease, were packed into the interior. These foods are collectively referred to as Haa Shagóon Atxáyi (“Our Ancestor’s Food”) and are central to the culture of the Tlingit people. They were traded with interior Tlingit and other Tribes for moose, beaver, copper, mountain goat, and mountain sheep. Today, they remain an important part of the traditional lifestyle, ceremony, and diet of the Tlingit people.The village of Deiyáa vanished beneath the stampede of the gold rush. With an influx of over 10,000 foreigners, the landscape was forever changed. A rapid decline in traditional\nTlingit presence, rights, and activities in the area began, and has\ncontinued ever since. Tribal activity has resurged in the area as the Skagway Traditional Council is working to revitalize their cultural ties to the land and to their ancestral partnership with the Carcross/Tagish First Nations of Canada. Skagway is in many ways symbolic of the fate of the Tlingit people. Where traditions and cultural activity were once dormant or dissipating, they are resurging and becoming more visible and shared. In turn, the community is recognizing the value of understanding this knowledge, whose origin pre-dates any written history. Quote: \"Tsu heidei shugaaxtootaan yaa yakoosge daakeit a jeex’ anak has kawdikeet.\" Quote by: Kichnáalx, Sheet’ká. Quote: We will once again open this container of wisdom left in our care.\" Quote by: George Davis, Sitka. The ways of the Tlingit culture are based on cultural knowledge, respect, and a tradition of loving\nand helping one another. Today, there are children and adults working to learn the Tlingit language, which has been ranked as one of the most difficult languages in the world. Through these efforts, more of the culture will be understood, given life again,\nand taught to future generations. The most important fact to retain is that the Tlingit people of Skagway are here today and forever, reviving their culture, telling their own story, and honoring ancestors who created the Tlingit history of this traditional land. This project was a collaborative effort between tribes and the federal government. Skagway Traditional Council, a federally recognized tribe, Shgagwei Kwaan. Bureau of Indian Affairs, Alaska Region, ANCSA Office. National Park Service, Klondike Gold Rush National Historical Park.",
       "caption": "Top left historical photograph of cemetery in front of mountains. Photo Caption: Deiyaa Cemetery Site - Near the Old Village. Photo Credit: British Columbia Archives, D-02064. Top middle historical photograph of canoes docked on shore. Photo Caption: Traditional Handcarved Canoes Line the Beaches in Deiyaa. Photo Credit: Library of Congress, LC-USZ62-69435. Bottom middle historical photograph of tents among trees. Photo Caption: Skagway Indian Town, Segregated Community On East Side of Skagway. Photo Credit: Library of Congress, LC-USZ62-69436. Right top modern photo of building on river bank. Photo Caption: Héen Agunatáani Hít - Home of the Skagway Traditional Council. Middle right modern photograph of group of people, in foreground woman presses hand to man's forehead. Photo Caption: Dwayne Madden receiving his Língit name (Teetla Sáa) from Ruth Kasko. Looking on are Lance Twitchell, Beau and Lachlan Dennis. Credit: Dr. Charles Ilif. Bottom right modern photograph of man with traditional clothing and young man standing to his left. Photo Caption: Ray Dennis Jr. speaks about the Gheisán Tunic, at.óow (clan property) of the Lukaax.ádi clan and formerly worn by the late Bert Dennis of Haines and Skagway. Makeah Twitchell prepares to receive the tunic and the Língit name Aan Kadaxtseen, which belonged to his great-grandfather Bert Dennis.",
       "id": 66,
+      "type": "image"
+    },
+    {
+      "alt": "A modern photograph of the Portland House, a false front building undergoing renovation.",
+      "caption": "The Portland House undergoing restoration. Photo Credit: KLGO Collections.",
+      "id": 45,
+      "image_1080": "45_1080x810.jpg",
+      "image_1536": "45_1536x1152.jpg",
+      "image_350": "45_350x260.jpg",
+      "image_480": "45_480x320.jpg",
+      "image_640": "45_640x504.jpg",
+      "image_768": "45_768x480.jpg",
+      "image_960": "45_960x640.jpg",
+      "relative_url": "45.jpg",
+      "relative_url_@2x": "45@2x.jpg",
+      "relative_url_tablet": "45_tablet.jpg",
+      "relative_url_tablet_@2x": "45_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "caption": "A historic photograph of the Golden North Hotel. Photo Credit: KLGO Archive Photos.",
+      "id": 76,
+      "image_1080": "76_1080x810.jpg",
+      "image_1536": "76_1536x1152.jpg",
+      "image_350": "76_350x260.jpg",
+      "image_480": "76_480x320.jpg",
+      "image_640": "76_640x504.jpg",
+      "image_768": "76_768x480.jpg",
+      "image_960": "76_960x640.jpg",
+      "relative_url": "76.jpg",
+      "relative_url_@2x": "76@2x.jpg",
+      "relative_url_tablet": "76_tablet.jpg",
+      "relative_url_tablet_@2x": "76_tablet@2x.jpg",
       "type": "image"
     },
     {
@@ -1012,20 +1109,6 @@
       "relative_url_@2x": "132@2x.png",
       "relative_url_tablet": "132_tablet.png",
       "relative_url_tablet_@2x": "132_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map thumbnail for Visitor Center",
-      "caption": "Map thumbnail for Visitor Center",
-      "id": 170,
-      "image_thumbnail_1x": "170_thumbnail.png",
-      "image_thumbnail_2x": "170_thumbnail@2x.png",
-      "image_thumbnail_3x": "170_thumbnail@3x.png",
-      "name": "Map thumbnail for Visitor Center",
-      "relative_url": "170.png",
-      "relative_url_@2x": "170@2x.png",
-      "relative_url_tablet": "170_tablet.png",
-      "relative_url_tablet_@2x": "170_tablet_2x.png",
       "type": "map_thumbnail"
     },
     {
@@ -1161,73 +1244,6 @@
       "relative_url_@2x": "15@2x.jpg",
       "relative_url_tablet": "15_tablet.jpg",
       "relative_url_tablet_@2x": "15_tablet@2x.jpg",
-      "type": "image"
-    },
-    {
-      "alt": "Modern photograph of the McCable College Building with stone and painted orange façade.",
-      "caption": "The McCabe College Building. Photo Credit: KLGO Collections.",
-      "id": 22,
-      "image_1080": "22_1080x810.jpg",
-      "image_1536": "22_1536x1152.jpg",
-      "image_350": "22_350x260.jpg",
-      "image_480": "22_480x320.jpg",
-      "image_640": "22_640x504.jpg",
-      "image_768": "22_768x480.jpg",
-      "image_960": "22_960x640.jpg",
-      "relative_url": "22.jpg",
-      "relative_url_@2x": "22@2x.jpg",
-      "relative_url_tablet": "22_tablet.jpg",
-      "relative_url_tablet_@2x": "22_tablet@2x.jpg",
-      "type": "image"
-    },
-    {
-      "alt": "A modern photograph of Skagway’s first city hall and courthouse in a dilapidated state.",
-      "caption": "Skagway’s first city hall and courthouse. Photo Credit: KLGO Collections.",
-      "id": 44,
-      "image_1080": "44_1080x810.jpg",
-      "image_1536": "44_1536x1152.jpg",
-      "image_350": "44_350x260.jpg",
-      "image_480": "44_480x320.jpg",
-      "image_640": "44_640x504.jpg",
-      "image_768": "44_768x480.jpg",
-      "image_960": "44_960x640.jpg",
-      "relative_url": "44.jpg",
-      "relative_url_@2x": "44@2x.jpg",
-      "relative_url_tablet": "44_tablet.jpg",
-      "relative_url_tablet_@2x": "44_tablet@2x.jpg",
-      "type": "image"
-    },
-    {
-      "alt": "A modern photograph of the Portland House, a false front building undergoing renovation.",
-      "caption": "The Portland House undergoing restoration. Photo Credit: KLGO Collections.",
-      "id": 45,
-      "image_1080": "45_1080x810.jpg",
-      "image_1536": "45_1536x1152.jpg",
-      "image_350": "45_350x260.jpg",
-      "image_480": "45_480x320.jpg",
-      "image_640": "45_640x504.jpg",
-      "image_768": "45_768x480.jpg",
-      "image_960": "45_960x640.jpg",
-      "relative_url": "45.jpg",
-      "relative_url_@2x": "45@2x.jpg",
-      "relative_url_tablet": "45_tablet.jpg",
-      "relative_url_tablet_@2x": "45_tablet@2x.jpg",
-      "type": "image"
-    },
-    {
-      "caption": "A historic photograph of the Golden North Hotel. Photo Credit: KLGO Archive Photos.",
-      "id": 76,
-      "image_1080": "76_1080x810.jpg",
-      "image_1536": "76_1536x1152.jpg",
-      "image_350": "76_350x260.jpg",
-      "image_480": "76_480x320.jpg",
-      "image_640": "76_640x504.jpg",
-      "image_768": "76_768x480.jpg",
-      "image_960": "76_960x640.jpg",
-      "relative_url": "76.jpg",
-      "relative_url_@2x": "76@2x.jpg",
-      "relative_url_tablet": "76_tablet.jpg",
-      "relative_url_tablet_@2x": "76_tablet@2x.jpg",
       "type": "image"
     },
     {
@@ -1985,22 +2001,6 @@
       "relative_url_@2x": "4@2x.jpg",
       "relative_url_tablet": "4_tablet.jpg",
       "relative_url_tablet_@2x": "4_tablet@2x.jpg",
-      "type": "image"
-    },
-    {
-      "caption": "A historic photo of the Mascot Saloon",
-      "id": 9,
-      "image_1080": "9_1080x810.jpg",
-      "image_1536": "9_1536x1152.jpg",
-      "image_350": "9_350x260.jpg",
-      "image_480": "9_480x320.jpg",
-      "image_640": "9_640x504.jpg",
-      "image_768": "9_768x480.jpg",
-      "image_960": "9_960x640.jpg",
-      "relative_url": "9.jpg",
-      "relative_url_@2x": "9@2x.jpg",
-      "relative_url_tablet": "9_tablet.jpg",
-      "relative_url_tablet_@2x": "9_tablet@2x.jpg",
       "type": "image"
     },
     {
