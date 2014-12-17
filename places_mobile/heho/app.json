@@ -2843,7 +2843,13 @@
     {
       "disp_order": 5,
       "name": "Accessibility",
-      "type": "ACCESSIBILITY"
+      "type": "ACCESSIBILITY",
+      "pages": [
+        {
+          "description": "This audio description includes key sites and wayside panels within Herbert Hoover National Historic Site as well as a number of historic sites in the town of West Branch.  The landscape within the Historic Site is generally flat, and most sites can be accessed by gravel roads, cement paths, and wooden boardwalks.  The boardwalks can be slippery in wet weather, so please watch your step.  Most of the historic site in town are located a couple blocks north of the historic site along North Downey and Main Streets. \n\nPlease note that dimensions and distances used in these audio descriptions are approximate.",
+          "name": "Accessibility"
+        }
+      ]
     },
     {
       "disp_order": 6,
