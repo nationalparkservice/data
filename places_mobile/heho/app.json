@@ -187,6 +187,11 @@
       "name": "special",
       "site_id": "383",
       "title": "Herbert Hoover's National Parks"
+    },
+    {
+      "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun",
+      "home_description": "The visitor center is open from 9-5pm",
+      "title": "Stop by the Visitor Center to schedule a tour"
     }
   ],
   "map_thumbnail_zoom": 16,
