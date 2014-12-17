@@ -73,6 +73,21 @@
         412,
         414
       ]
+    },
+    {
+      "name": "Simple Beginnings",
+      "sites": [
+        384,
+        385,
+        386,
+        387,
+        395,
+        396,
+        403,
+        408,
+        413,
+        415
+      ]
     }
   ],
   "description": "Like the small town of the 31st president's early childhood, Herbert Hoover National Historic Site may be explored on foot in less than a day. Buildings from President Hoover's boyhood stand side by side with monuments to his achievements. The president's modest birthplace, his presidential library, and final resting place together recall what Hoover called \"the unbounded opportunity of American life./\"",
@@ -1200,11 +1215,6 @@
       "type": "audio"
     },
     {
-      "id": 386,
-      "name": "HOOVER NHS-CULTURAL LANDSCAPE",
-      "type": "audio"
-    },
-    {
       "id": 387,
       "name": "WRIGHT HOUSE",
       "type": "audio"
@@ -1212,11 +1222,6 @@
     {
       "id": 388,
       "name": "HOOVER PRESIDENTIAL LIBRARY_MUSEUM",
-      "type": "audio"
-    },
-    {
-      "id": 389,
-      "name": "VISITOR CENTER_TUTORIAL_WANDS_POUND KEY REV 2",
       "type": "audio"
     },
     {
@@ -1240,33 +1245,13 @@
       "type": "audio"
     },
     {
-      "id": 394,
-      "name": "AMANDA GARVIN COTTAGE",
-      "type": "audio"
-    },
-    {
       "id": 395,
       "name": "LAYER WOMEN IN THE QUAKER FAITH",
       "type": "audio"
     },
     {
-      "id": 396,
-      "name": "LABAN MILES HOUSE",
-      "type": "audio"
-    },
-    {
-      "id": 397,
-      "name": "BLACKSMITH SHOP",
-      "type": "audio"
-    },
-    {
       "id": 398,
       "name": "WAYSIDE 2 PRESIDENTIAL LIBRARY",
-      "type": "audio"
-    },
-    {
-      "id": 399,
-      "name": "HISTORIC HOMES DOWNEY STREET",
       "type": "audio"
     },
     {
@@ -1285,33 +1270,8 @@
       "type": "audio"
     },
     {
-      "id": 403,
-      "name": "METHODIST CHURCH-C_E_SMITH HOUSE",
-      "type": "audio"
-    },
-    {
-      "id": 404,
-      "name": "LAYER HOOVER AS SECRETARY OF COMMERCE",
-      "type": "audio"
-    },
-    {
-      "id": 405,
-      "name": "COTTAGE RESTORATION",
-      "type": "audio"
-    },
-    {
       "id": 406,
       "name": "WAYSIDE 3 WETHERELL AND DOWNEY STREETS",
-      "type": "audio"
-    },
-    {
-      "id": 407,
-      "name": "BIRTHPLACE COTTAGE REV",
-      "type": "audio"
-    },
-    {
-      "id": 408,
-      "name": "DOWNEY STREET",
       "type": "audio"
     },
     {
@@ -1330,28 +1290,8 @@
       "type": "audio"
     },
     {
-      "id": 412,
-      "name": "DR LEECH HOUSE",
-      "type": "audio"
-    },
-    {
-      "id": 413,
-      "name": "LAYER COTTAGE FURNISHINGS BEDROOM",
-      "type": "audio"
-    },
-    {
       "id": 414,
       "name": "HAYHURST HOUSE",
-      "type": "audio"
-    },
-    {
-      "id": 415,
-      "name": "COTTAGE FURNISHINGS-MAIN ROOM",
-      "type": "audio"
-    },
-    {
-      "id": 416,
-      "name": "HOOVER CAMPAIGN VISIT",
       "type": "audio"
     },
     {
@@ -1387,6 +1327,36 @@
     {
       "id": 423,
       "name": "FRIENDS MEETING HOUSE",
+      "type": "audio"
+    },
+    {
+      "id": 408,
+      "name": "DOWNEY STREET",
+      "transcript": "It may be hard to imagine, but the road you’re looking at now, was once a very important thoroughfare. Downey Street was the entrance into West Branch from the south. If you look up and down the road, you can still find scattered hitching posts in front of several of the homes. \n(music) In 1870, the U.S. census counted Iowa’s population at almost 1.2 million. The towns and farms that now covered the state had, within a single generation, replaced the traditional American Indian uses of the land. Herbert Hoover’s grandfather, Eli Hoover, was one of the first few settlers of West Branch, arriving by covered wagon in 1854. When the census takers came sixteen years later, the town’s population stood at about 200.  But the railroad’s arrival in West Branch that same year helped the town’s rapid expansion into a thriving agricultural and business centered community.  \nDuring Herbert Hoover’s childhood, the intersection of Downey and Main was the town crossroads. Although several of the streets that existed historically have been moved or no longer exist, you can still see the road trace of the original Downey Street as it runs past the little Birthplace Cottage. Because it wasn’t far, the Hoover family walked down this street into town to do their shopping.\n(sound effects: birds chirping) Did you notice how most of the homes along this street have either four-board or picket fencing in their front yards? For modern-day homeowners, what looks like a decorative choice was actually one of necessity for the folks living on Downey Street. When “Bertie” Hoover was a boy, he probably saw local farmers drive their livestock to market down the middle of this wide street - right past his front door.(sound effects: horse and buggy, cows, pigs) But if it weren’t for those fences, a stray pig or cow might have actually wound up eating the vegetables in his mother’s garden or stepping on the tulips in their front yard!\nIn the 1870’s, the streets of West Branch were either “dusty thoroughfares or muddy bogs.” (sound effects: rain, horse and buggy) When it rained Downey Street would turn sticky with mud and lots of wagon wheel ruts. It wasn’t unusual to see a team of oxen or even a horse and buggy get stuck. At the time of Hoover’s birth in 1874, West Branch didn’t have sidewalks. However, by 1885 the city had finished over three and a half miles of wood plank walkways. The sidewalks here today are representations of those late 19th century boardwalks; they may be slippery when wet, so please watch your step. \nIf you’d like to find out about one of the places young “Bertie Hoover” explored in his free time, please press the # key. \n",
+      "type": "audio"
+    },
+    {
+      "id": 416,
+      "name": "HOOVER CAMPAIGN VISIT",
+      "transcript": "(sound effects: click-clack of train wheels; whistle in the distance) By 1874, five railroads had spread across the Iowa countryside. Distant farms and small towns were now connected by miles of timber and track, bringing with it new jobs, new products, and new markets for harvests & livestock. For a curious and enterprising Bertie Hoover, the railroad tracks east of Downey Street brought something else - a fascination with geology.\nIn his memoirs, published in 1951, Herbert Hoover wrote: (actor) “I have mentioned the Burlington track. It was an aspiring place. It was ballasted with glacial gravels where, by hard search, you discovered gems of agate and fossil coral, which could, with infinite backaches, be polished on the grindstone. Their fine points came out wonderfully when wet, and you had to lick them with your tongue before each exhibit.”\nThe railroad no longer rumbles through West Branch, but a few of those semi-precious rocks may still be found along the tracks that once inspired and encouraged the dreams of a future President.\n",
+      "type": "audio"
+    },
+    {
+      "id": 407,
+      "name": "BIRTHPLACE COTTAGE REV",
+      "transcript": "Welcome to the Birthplace Cottage of Herbert Hoover. Before we begin, please note there are three entrance steps to the front door. Wheelchair access is through the back door. From November through March however, the cottage can only be entered through the front door. \nLike any couple just starting out, 21-year old Hulda Minthorn and 23-year old Jesse Hoover were eager to have a place to call their own. Shortly after their first wedding anniversary, and with the help of his father Eli, Jesse built this simple, but sturdy two-room cottage in the spring of 1871 on the corner of Downey and Penn Streets. Although the house only measured 14 x 20 feet, building it was a challenge. The home’s large foundation stones had to be brought by wagon from the open prairie to the west, while the timber used for the board and batten cottage followed an amazing journey of its own. \nLook up at the rafters and see if you can find any that have holes drilled into them. (sound effects: rushing river, saw cutting wood)That’s where the trees were lashed together into a giant raft, which was floated down the Mississippi River to a sawmill in Muscatine, about 40 miles southeast of West Branch. There they were turned into lumber, then hauled by ox teams to the home site. Some of the wood was used for the cottage’s straight board doors, while more was used for the large vertical wallboards inside the home. Did you know that during the cottage’s restoration, architects found strips of cotton fabric stuffed between the seams? (sound effects: winds whirling, blowing) Jesse Hoover installed these to be sure his family would be protected from the winter winds that swept across the Iowa prairie. The small twelve-paned windows also helped by preventing too much heat from escaping the cottage.\n(music) Hulda soon set about arranging the home to suit herself, both inside and out. A chicken coop provided fresh eggs. She grew her vegetable garden behind the cottage, while flower gardens of marigolds, peonies, and snapdragons filled the front and side yards. And just like today, seeds, cuttings and bulbs, were traded with family and friends.  The dark red double-petaled tulips that once grew here came from the bulbs Hulda’s mother had brought with her from Canada.\nLooking around this house, you may think the Hoover family was poor. But their prudent spending, strong work ethic, and resourceful ways were actually a reflection of their Quaker beliefs. With that in mind, you can understand why Herbert Hoover was inspired to write these heartfelt words in his memoirs. \nHoover: (actor) “This cottage where I was born is physical proof of the unbounded opportunity of American life. In no other land could a boy from a country village, without inheritance or influential friends, look forward with unbound hope.”\nTo learn more about some of the furnishings in the parlor, please press 105 #.\n",
+      "type": "audio"
+    },
+    {
+      "id": 415,
+      "name": "COTTAGE FURNISHINGS-MAIN ROOM",
+      "transcript": "During restoration work of the Birthplace Cottage in the late 1930s, Lou Henry Hoover reached out to the family’s relatives to see if any of the home’s original furnishings still existed. Unfortunately, most had been sold at auction after Hulda Hoover’s death in 1884. The furniture you see today is a combination of reproductions and period pieces.\nNow think about all the activities that take place in your house. The Hoovers’ first home, because of its compact size, needed to be multi-purpose. Mattie Pemberton, Jesse Hoover’s sister remembered that one end of the main room served as a sitting parlor. Two or three chairs and a straight-backed sofa would hold visiting friends and relatives, while a small table in the corner held a kerosene lamp to read by. A sewing basket filled with needles and thread was always within arm’s reach in case Hulda wanted to darn or sew the family’s clothes.\nThe other end of this room, which contains a drop-leaf table and a tall wooden storage hutch, functioned as both the family dining room and the kitchen. Take a closer look at the small high-chair with the rounded back. It’s a replica of the one used by President Hoover as a child. (sound effects: sounds of talking, dishes and pots being moved ) Now picture trying to cook a holiday meal for your family in this 14 x 20 cottage! You’d not only have to use the table to serve the food on, but to prepare it there as well. In the winter, the woodstove did double-duty as the home’s “central heating.” If you look high on the wall to the right of the bedroom door, you can see where the stovepipe was connected. When the weather got warm, the family would move the stove to the back porch, which became the summer kitchen. \nWith no electricity or indoor plumbing, you can imagine that washing the dishes in the 1870’s was a little more complicated than loading the dishwasher is for modern day families! Hulda no doubt, made sure that when the dish pan was placed on the table and filled with steaming water from the teakettle, that little “Bertie” Hoover was safely out of harm’s way.  \nTo learn more about where the family slept, press the # key.\n",
+      "type": "audio"
+    },
+    {
+      "id": 413,
+      "name": "LAYER COTTAGE FURNISHINGS BEDROOM",
+      "transcript": "On September 1, 1876, this cottage became home to five people with the birth of a baby girl. Jesse Hoover built young Mary a graceful walnut cradle, and Hulda rocked her daughter to sleep in it, just like she had done for both Tad and Bertie. This cradle is a replica of that family treasure. The original, sold after Hulda’s death, was surprisingly found in a West Branch barn sometime in the 1930’s and eventually returned to the Hoover family.\n(music) Having long outgrown the rocking bed, 2-year old Herbert and his 5-year old brother, Tad shared a trundle bed, which was pulled out each night from underneath their parents’ four-poster. Do you think the ropes supporting the larger mattress made that bed a comfortable place to sleep? Decorative patchwork quilts, along with wool bedspreads woven on family looms, kept everyone warm when the woodstove’s fire died out in the middle of the night. \nThe dresser in the corner is very similar in style to the one Grandmother Minthorn gave as wedding presents to each of her daughters, Hulda and Agnes. Made by Herbert Hoover's great uncle, a cabinet-maker in Detroit, the drawers were once filled with household linens. The sewing machine, while not original to the family, is a reminder of Jesse’s growing success as a businessman, and how he provided for the needs of his wife and family. \n(music) If you’re wondering about what is covering the floors of the cottage, they’re called “rag rugs.” American families in the 19th century practiced recycling long before we did. Because cloth goods were relatively scarce and expensive, they would take discarded family garments, cut them into long strips and weave them into sections that were sewn together. The colorful rug is similar to the ones Hulda’s mother made for the house in the 1870’s. By putting layers of old newspapers underneath and fitting the rugs snugly against the walls, the floors would stay warm all winter. \nAs you exit, take a moment to look at the partially enclosed and covered areas at the rear of the cottage. They may have served several purposes over time, including a woodshed, storeroom, summer kitchen, and spare bedroom. It was here, in the dark of night on August 10, 1874, that blacksmith shop assistant, Elwood King was awakened to go and fetch the doctor. (sound effects: knock on door, footsteps running, newborn baby cry) \nJust before midnight, Herbert Clark Hoover was born.\n",
       "type": "audio"
     },
     {
@@ -2760,6 +2730,66 @@
       "relative_url_tablet": "472_url_tablet.png",
       "relative_url_tablet_@2x": "472_url_tablet_2x.png",
       "type": "map_thumbnail"
+    },
+    {
+      "id": 389,
+      "name": "VISITOR CENTER_TUTORIAL_WANDS_POUND KEY REV 2",
+      "transcript": "Welcome to Herbert Hoover National Historic Site. As part of the National Park System, and in cooperation with the Herbert Hoover Presidential Library-Museum, the Herbert Hoover Presidential Library Association, and the city of West Branch, this 187-acre park commemorates and interprets the life, career, and accomplishments of our nation’s 31st President. \n(music) Today you will explore the neighborhood where Herbert Hoover was born and spent much of his early childhood. As you explore the site’s historic grounds and buildings, you’ll have the chance to immerse yourself in the landscape Hoover saw, and the activities he participated in as a child. \nTo ensure that you experience all of the park’s resources and history during your visit, please stop by the Visitor Center, or any of the three waysides, to pick up a free copy of the park’s site map. The message stops for the cell phone tour are numbered and titled on this helpful guide, which means you can enjoy the audio program in any order you like.\nTo learn more about the natural or cultural significance of a particular building or feature on the map, please enter the corresponding three-digit number on your phone’s keypad, followed by the pound (#) key. In some locations the messages are ‘layered,’ so after the main message is finished, you will be prompted to press the # key again to access the additional information. \nYou can stop a message at any time, by pressing the star key. If your cell phone service is interrupted, just re-dial the toll-free access number, 888-244-4178, and you’ll be welcomed back and invited to enter a message number again.\nFor your convenience, the Visitor Center and its restrooms are handicapped-accessible. Visitors may borrow a wheelchair, and scripts of the audio program. A limited number of hand-held audio wands are also available. In addition, there is a short film about Herbert Hoover’s early life. Park rangers and volunteers are available to assist you and answer questions from 9 am to 5 pm. \nReady to begin? Please remember to watch your step while you visit the site, and keep an eye out for posted safety messages.\nEnjoy the program!\n",
+      "type": "audio"
+    },
+    {
+      "id": 386,
+      "name": "HOOVER NHS-CULTURAL LANDSCAPE",
+      "transcript": "If you were going to make a park to commemorate yourself, what would you like future generations to know? What values would you share? Which mementos would be on display? And how many stories would there be to tell?\nHerbert Hoover National Historic Site includes many features of Hoover’s boyhood landscape that have endured over time and give the site its unique identity as a Presidential birthplace, boyhood home, and memorial. Although much has changed here since Herbert Hoover’s birth in 1874, the National Park Service and the Hoover family have worked to preserve key elements of the past that illuminate the life and times of America’s 31st president. \n(music) Herbert Hoover’s accomplished and public-spirited life drew inspiration from his birthplace. Today you’ll have the chance to immerse yourself in the landscape Hoover saw and the activities he participated in as a child. His father’s craft as a blacksmith, Hoover’s religious upbringing, his love of fishing, the education he received - many of the influences which Herbert Hoover carried into his adult life and that contributed to his character.\nYou’ll also hear eloquent accounts of the adversity that touched a Quaker family and shaped the path of a young boy from West Branch who went on to serve his country as President. \nOn August 12, 1965, an act of Congress established this park as a national historic site. Since then, the National Park Service has preserved and interpreted the historic structures and landscape of this park. In the late 1930’s, President Hoover and his wife, Lou Henry Hoover, chose this place to celebrate the values they believed helped shape his life. We hope you will find it to be an inspiring, accessible educational and recreational experience for years to come.\n",
+      "type": "audio"
+    },
+    {
+      "id": 405,
+      "name": "COTTAGE RESTORATION",
+      "transcript": "(music) Even before Hoover’s election to the Presidency in 1928, Mrs. Hoover had tried to purchase the Birthplace Cottage to return ownership to the family. Finally, in 1935, with the help of her sons, Herbert, Jr. and Allan, the property was acquired for the sum of $4,500.00, but there was much work to be done. Although previous owners had altered the two-room cottage, it was never moved off of the property and now sits within 1- 2 feet of its original location.\nRestoration began in the summer of 1938, with the removal of a two-story addition built in 1890. Then the Birthplace Cottage was re-positioned 90 degrees to the south, so that its front door would once again face Downey Street. Since most of the original furnishings were unavailable, the family decorated the cottage with period pieces they felt best represented the home in which Hoover and his family lived. Lou Henry Hoover relied on the recollection of various family members, including Herbert’s older brother, Tad, who was then the Dean of Mining Engineering at Stanford University. She turned those stories into a manuscript called “Memories of a Little House.” \nIn it she wrote, (actor) “There was a cellar, of course, where vegetables and other edibles were stored beyond the reach of the frost. In such a tiny house the cellar door was a necessity outside, demanding the throwing of shawl over head and shoulders, as one ran to it from the back door of the kitchen on a freezing day”. \nRestoration was still going on when Lou Henry Hoover began a search to hand over the historic property to an association that would be as vigilant of her husband’s legacy as she was. In 1939, the Hoover Birthplace Society was formed; a non-profit membership organization that evolved into the active support group known as the Herbert Hoover Presidential Library Association. \n",
+      "type": "audio"
+    },
+    {
+      "id": 397,
+      "name": "BLACKSMITH SHOP",
+      "transcript": "Jesse Hoover owned and operated a blacksmith shop in West Branch from 1871 to 1879. This reconstructed shop, built in 1957, is based on the sketches of Herbert’s older brother Tad, from his recollections of what their father’s shop looked like. Lumber salvaged from a nearby barn, which had stood since the 1870’s, was used in its construction. Located near its original location, the re-built blacksmith shop still sits just a stone’s throw from the Birthplace Cottage.\n(sound effects: iron being hammered, horse whinny) The excitement of banging iron, sparking fires, and new visitors, often brought Tad and his younger brother “Bertie” across old Penn street to investigate their father’s business. One time in particular, according to Hoover’s memoirs, left a “lasting impression” on the young Herbert.\nHoover: (actor) “Playing barefoot around the blacksmith shop, I stepped on a chip of hot iron and carry the brand of Iowa on my foot to this day.”\nAlthough there were other smithies in town, Jesse’s friendliness, honesty, and strong work ethic helped his business to grow. His wry sense of humor came across in the ads he ran in the local newspaper, which read: “Horse shoeing and plow work a specialty. Prices to suit the times. J. C. Hoover.”\n(sound effects: horse and buggy) The large double doors made it easy to maneuver horses around for shoeing or to bring in large wagon wheels or plows for repair. Inside the main building you’ll find a working forge, along with an anvil, and a rack filled with period tools of the trade. Look around and see how many different size horseshoes or wagon rims you can find.\nDuring select times of the year, park visitors can watch a blacksmith demonstrate the skill and hard work needed to turn ordinary iron into useful things. Items made during these demonstrations are for sale at the Visitor Center bookstore. \nTo learn more about the impact Herbert Hoover had on national and international business practices, please press the # key now.\n",
+      "type": "audio"
+    },
+    {
+      "id": 404,
+      "name": "LAYER HOOVER AS SECRETARY OF COMMERCE",
+      "transcript": "Between 1921 and 1928, Herbert Hoover served as Secretary of Commerce in the Cabinets of two Presidents – Harding and Coolidge. His position focused on promoting and developing foreign and domestic trade. For Hoover, the son of a Quaker blacksmith who believed in the value of personal initiative and the freedom of opportunity, it was a perfect fit.\nHoover’s work as head of the Belgian Relief Commission during World War I had given the humanitarian from West Branch world-wide recognition and credibility. His career as a mining engineer on four different continents gave the Stanford graduate a unique perspective on the future of global trade.\n(music) With the war’s end in 1919, Hoover worked hard during his first appointment as Secretary of Commerce to help the economies of war-torn Europe recover in an effort to promote stability and international trade, which he believed would ultimately benefit the United States. When the 1920’s brought about new technological advances such as radio broadcasting and aviation, Hoover gathered those involved, and challenged the top business and labor leaders in each group to come up with self-imposed operating guidelines and safety regulations that would benefit both business and society. \nPerhaps Herbert “Bertie” Hoover was recalling the time when his father, Jesse came up with an innovative process for dipping barbed wire in tar to seal it against corrosion, so livestock were protected from being scratched and infected by the rusty wire. Timothy Walch, Director of the Herbert Hoover Presidential Library believes it made an impact on the future President.\nTim Walch: “And that's not unlike Herbert Hoover as he applied these same principles during the time he was Secretary of Commerce; he didn't make the product, but he made the product better. So there's a line there from Jesse Hoover to his son in terms of making life better for individuals, and products better and more efficient.” \n",
+      "type": "audio"
+    },
+    {
+      "id": 399,
+      "name": "HISTORIC HOMES DOWNEY STREET",
+      "transcript": "West Branch boomed between 1869 and 1873. New buildings constructed in the neighborhood near the Hoovers’ small cottage on Downey Street included the Laban Miles house, the Garvin house, and the Methodist Church, which is no longer standing. When the Burlington, Cedar Rapids & Northern Railroad arrived in West Branch on December 20, 1870, two hundred of the town’s residents celebrated with a picnic dinner.\nYou might be surprised to learn that Herbert Hoover didn’t live in one of these larger, fancier-looking homes, even though they were built during the same time period. By comparison, his single story home measured only 14 x 20 feet in size. Although you will get the opportunity to go inside the cottage where America’s 31st President was born, the homes here on Downey Street are not open to the public and are used as offices.\nTo discover more about individual houses along this street, please press the number on your keypad that corresponds to the building’s location listed in your guide. \nEnter 109 # for the Methodist Church and C.E. Smith House.\n",
+      "type": "audio"
+    },
+    {
+      "id": 403,
+      "name": "METHODIST CHURCH-C_E_SMITH HOUSE",
+      "transcript": "When Herbert Hoover was growing up, a Methodist Church, built in 1870, occupied the lot where C.E. Smith’s house now stands. A towering three-story steeple impressively pointed to the heavens, and it’s likely the Hoover household heard its ringing bell on Sunday mornings. (sound effects: church bell) This 11-foot tall street lamp is a historic reconstruction of the copper lantern box and post that stood in front of that Church. The original lamp burned kerosene oil, and was one of eleven that were lighting the streets of West Branch by 1883. \nThe house that you see here today is known as the C.E. Smith House. Charles E. Smith was a carpenter and a Civil War veteran. In 1903, he completed his dream home for himself and his wife, Deborah atop Cooks Hill where each spring, he would tap his maple trees to make maple syrup. Although this home was built eighteen years after Herbert Hoover left West Branch, the National Park Service decided to relocate it here in 1969.\n(music) This large, white, one and a half story Queen Anne style house includes intersecting gables. Cut cedar shingles painted a robin’s egg blue, are used for the siding underneath the gables. One of the most unusual features of this house is the open octagon-shaped front porch; its’ sloping tent roof is supported by four machine turned posts framed with decoratively scrolled brackets. The Smith home’s graceful and charming appearance fits comfortably in the neighborhood, and contributes to the historic setting of the Iowa village that President Hoover called home. Interestingly, Mr. Smith’s wife, Deborah, was also the sister of Mr. Leech, whose own home on Downey Street is described in stop 112.\nFor the Amanda Garvin cottage, please press 110 #.\n",
+      "type": "audio"
+    },
+    {
+      "id": 394,
+      "name": "AMANDA GARVIN COTTAGE",
+      "transcript": "Amanda Garvin was a single 35-year old woman when she bought Lot number 6 in May of 1870 for the sum of $90.00. By 1872, the small, one and a half story wood frame cottage at 114 South Downey Street was built on her property. Herbert “Bertie” Hoover and his older brother Tad would have passed by this cottage on their way to school each day. \nThe cream-colored Garvin house is a wonderful example of the Gothic Revival style with its steeply pitched roof, gingerbread bargeboard trim, and ornamental arches framing the open front porch. If you’re familiar with Grant Wood’s painting of the pitch-fork holding farmer and his wife called “American Gothic,” you’ll recognize how the Cedar Rapids artist drew inspiration from an eastern Iowa architectural staple.\nBy 1878, Miss Garvin was using her cottage as a rental property. Two years later, and still single, the U.S. Census showed she was living and working as a housekeeper for the Presbyterian Minister A.M. Heizer and his family. During the fifteen years she owned the property, Amanda Garvin mortgaged it several times. It was however, one time too many. The shed addition on the back of the house, and the hipped roofed addition on the north side were added a few years after Miss Garvin lost the home to foreclosure in 1885. \nTo learn about the Laban Miles House, enter 111 #.\n",
+      "type": "audio"
+    },
+    {
+      "id": 396,
+      "name": "LABAN MILES HOUSE",
+      "transcript": "This yellow, two story L-shaped structure with the offset porch was built sometime between 1869 and 1872. Cedar County Deed Records show that in 1875, Laban Miles purchased the home at 113 S. Downey Street for $2,250.00. In 1870, Miles had married Hulda’s younger sister, Agnes Minthorn, just five days after Hulda and Jesse Hoover were wed. Now they were settling down with a family of their own.\nThere was much visiting back and forth between the Miles and Hoover homes, and the two families became close friends. The short walk on Downey Street often brought the Hoover children, Tad, Bertie, and Mary, together with their cousins for playtime or a shared pot of soup that had spent the day simmering on a wood stove. But their time together was short-lived.\nIn the spring of 1878, President Rutherford B. Hayes appointed Miles to serve as an agent responsible for the care and education of the Osage and Kaw tribes in the Oklahoma territory. When Laban, Agnes and their children left that summer, they rented their home first to the Methodist Church for a parsonage, and then to Dr. L.J. Leech, a well-known and respected physician in West Branch.\nBut the ties between the Miles and Hoover families remained strong. Following Jesse Hoover’s death, Laban Miles asked Hulda if his nephew could come to live with them on the Osage reservation. In 1882, eight-year-old Herbert spent eight months there with his aunt, uncle and cousins. For the future President, they were memories that lasted a lifetime. \nTo find out where some of the best ice cream socials in West Branch happened, enter 112 #.\n",
+      "type": "audio"
+    },
+    {
+      "id": 412,
+      "name": "DR LEECH HOUSE",
+      "transcript": "For thirty-six years Dr. L.J. Leech, a Civil War veteran and graduate of Iowa State University, had lived in the Laban Miles House; renting it at first in 1884, and then purchasing it two years later when the bank foreclosed on the home. By 1920, the well-liked country doctor and Iowa legislator decided to have a new home built for himself. The result was this white, one and a half story wood frame house with large overhanging eaves, an airy L-shaped veranda supported by four Doric columns, and a small inset balcony above the front porch that overlooks Downey Street. \n(music) However, at the turn of the century when Dr. Leech was still living in the Miles house, the empty lot where this home now sits became one of the most popular social centers in West Branch. (sound effects: talking, laughing, fireworks) Here during the hot Midwest summers, Dr. Leech held ice cream socials church groups and 4th of July celebrations for the whole town. His lawn parties grew in popularity when box supper socials to benefit the volunteer fire company became an annual event. The West Branch Times wrote, “All gentlemen are invited to come and buy a box and take supper with your own or someone’s best girl!” \nAlthough this home was built many years after Herbert Hoover’s childhood, there is still a connection between the physician who practiced medicine in West Branch for 55 years and the young boy who left and became the nation’s 31st President. When Dr. Leech passed away at the age of 91 in 1937, services were held at the West Branch Methodist Church. Herbert Hoover, ever guided by the understanding that it takes a community to raise a child, sent a personal message of sympathy that was read at the funeral. In it, the former President remembered and praised Dr. Leech’s “long life of usefulness to the community and loyalty to his neighbors and friends.” \nIf you haven’t been there already, you can go one block west to learn about the historic West Branch homes located on Poplar Street.\n",
+      "type": "audio"
     }
   ],
   "more": [
@@ -2920,15 +2950,6 @@
       "name": "Visitor Center Orientation Wayside",
       "name_description": "Herbert Hoover National Historic Site commemorates the life of the 31st President.",
       "type": "Exhibit"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 392,
-      "latitude": 41.6702611570046,
-      "longitude": -91.346989274025,
-      "map_thumbnail_image": 433,
-      "name": "Birthplace Cottage Back Porch and Garden",
-      "name_description": "The Hoovers used their porch and yard as extensions of their modest dwelling."
     },
     {
       "description": "Hannah Varney built this house in 1899 shortly after divorcing her husband. The West Branch Times described the house as being of \"fine appearance and finished in modern style.\" After living in the house with her six children for less than one year, Hannah Varney moved to Iowa City and married Robert Ward. She left the house to her daughters, Cora and Clara, who lived in it until 1915. In 1967 the National Park Service moved the Hannah Varney House from its original location on the lot just south of where it now stands on Downey Street.",
@@ -3319,6 +3340,16 @@
       "services": []
     },
     {
+      "description": "A chicken coop provided fresh eggs. Hulda grew her vegetable garden behind the cottage, while flower gardens of marigolds, peonies, and snapdragons filled the front and side yards. And just like today, seeds, cuttings and bulbs, were traded with family and friends. The dark red double-petaled tulips that once grew here came from the bulbs Hulda's mother had brought with her from Canada. A cellar under the cottage stored vegetables and other foods below the winter’s frost.",
+      "geofence_buffer_in_meters": 10,
+      "id": 392,
+      "latitude": 41.67026116,
+      "longitude": -91.34698927,
+      "map_thumbnail_image": 433,
+      "name": "Birthplace Cottage Back Porch and Garden",
+      "name_description": "The Hoovers used their porch and yard as extensions of their modest dwelling."
+    },
+    {
       "description": "In 1870, Laban Miles had married Hulda Hoover’s younger sister, Agnes Minthorn, just five days after Hulda and Jesse Hoover were wed. By 1875 they were settling down in this house, built sometime between 1869 and 1872, with a family of their own.",
       "geofence_buffer_in_meters": 10,
       "id": 400,
@@ -3363,7 +3394,42 @@
       "type": "Graves"
     }
   ],
-  "tours": [],
+  "tours": [
+    {
+      "id": 3,
+      "name": "Simple Beginnings\n",
+      "primary_image": 425,
+      "sites": [
+        {
+          "id": 384
+        },
+        {
+          "id": 391
+        },
+        {
+          "id": 385
+        },
+        {
+          "id": 386
+        },
+        {
+          "id": 387
+        },
+        {
+          "id": 403
+        },
+        {
+          "id": 408
+        },
+        {
+          "id": 413
+        },
+        {
+          "id": 414
+        }
+      ]
+    }
+  ],
   "urls": {
     "base_url_icon": "http://nationalparkservice.github.io/data/places_mobile/icons/",
     "base_url_media": "http://nationalparkservice.github.io/data/places_mobile/heho/media/"
