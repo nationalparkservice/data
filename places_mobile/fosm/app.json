@@ -1533,6 +1533,20 @@
     },
     {
       "geofence_buffer_in_meters": 10,
+      "id": 130,
+      "latitude": 35.389212,
+      "longitude": -94.428928,
+      "map_thumbnail_image": 265,
+      "media": [
+        208
+      ],
+      "name": "Bass Reeves Statue",
+      "name_description": "This larger than life bronze statue is dedicated to Deputy US Marshal Bass Reeves and his faithful dog.",
+      "type": "Statue",
+      "services": []
+    },
+    {
+      "geofence_buffer_in_meters": 10,
       "id": 128,
       "latitude": 35.3920696602575,
       "longitude": -94.4291827082634,
@@ -1557,20 +1571,6 @@
       "name": "River Front Park",
       "name_description": "Operated by the City of Fort Smith, on the bank of the Arkansas River, the amphitheater hosts concerts and other events.",
       "type": "City Park",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 130,
-      "latitude": 35.3892292711945,
-      "longitude": -94.428922533989,
-      "map_thumbnail_image": 265,
-      "media": [
-        208
-      ],
-      "name": "Bass Reeves Statue",
-      "name_description": "This larger than life bronze statue is dedicated to Deputy US Marshal Bass Reeves and his faithful dog.",
-      "type": "Statue",
       "services": []
     },
     {
