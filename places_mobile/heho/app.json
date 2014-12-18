@@ -207,9 +207,10 @@
       "title": "Herbert Hoover's National Parks"
     },
     {
+      "description": "Stop by the Visitor Center today to schedule a tour of Herbert Hoover NHS.",
       "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun",
       "home_description": "The visitor center is open from 9-5pm",
-      "title": "Stop by the Visitor Center to schedule a tour"
+      "title": "Schedule a tour"
     }
   ],
   "map_thumbnail_zoom": 16,
@@ -2826,7 +2827,7 @@
       "type": "SPECIAL_INFO1",
       "pages": [
         {
-          "description": "Herbert Hoover Presidential Library and Museum houses papers and collections relating to both President and Mrs. Hoover. It is administered by the National Archives and Records Administration (NARA). http://www.hoover.archives.gov/",
+          "description": "Herbert Hoover Presidential Library and Museum houses papers and collections relating to both President and Mrs. Hoover. \n\nIt is administered by the National Archives and Records Administration (NARA). \n\nhttp://www.hoover.archives.gov/",
           "name": "Presidential Library"
         }
       ]
@@ -2837,11 +2838,11 @@
       "type": "INFORMATION",
       "pages": [
         {
-          "description": "Buildings are open daily from 9 a.m. to 5 p.m., except on Thanksgiving Day, December 25, and January 1. The grounds of the historic site are open 24 hours. There is no charge to visit Herbert Hoover National Historic Site. Herbert Hoover Presidential Library and Museum charges adults a $6 admission fee. \nhttp://www.nps.gov/heho/index.htm https://www.facebook.com/HerbertHooverNHS, https://twitter.com/HooverNPS",
+          "description": "Buildings are open daily from 9 a.m. to 5 p.m., except on Thanksgiving Day, December 25, and January 1. \n\nThe grounds of the historic site are open 24 hours. There is no charge to visit Herbert Hoover National Historic Site. \n\nHerbert Hoover Presidential Library and Museum charges adults a $6 admission fee. \n\nhttp://www.nps.gov/heho/index.htm \n\nhttps://www.facebook.com/HerbertHooverNHS\n\nhttps://twitter.com/HooverNPS",
           "name": "Park Info",
           "subsections": [
             {
-              "description": "Born in a two-room cottage and orphaned at age nine Herbert Hoover left West Branch, never to live here again. The landscape and buildings of the early years remain, however, to tell how family, faith, education, and hard work opened a world of opportunity even the presidency of the United States to a child of simple beginnings.\nLike the small town of the 31st president's early childhood, the historic site may be explored on foot in less than a day. Buildings from Hoover's boyhood stand alongside monuments to his achievements. The president's modest birthplace, presidential library, and final resting place together recall what Hoover called \"the unbounded opportunity of American life.\"",
+              "description": "Born in a two-room cottage and orphaned at age nine Herbert Hoover left West Branch, never to live here again. \n\nThe landscape and buildings of the early years remain, however, to tell how family, faith, education, and hard work opened a world of opportunity even the presidency of the United States to a child of simple beginnings.\n\nLike the small town of the 31st president's early childhood, the historic site may be explored on foot in less than a day. Buildings from Hoover's boyhood stand alongside monuments to his achievements. The president's modest birthplace, presidential library, and final resting place together recall what Hoover called \"the unbounded opportunity of American life.\"",
               "name": "About"
             },
             {
@@ -2882,11 +2883,11 @@
               "name": "Visiting FAQ's"
             },
             {
-              "description": "\"Herbert Hoover National Historic Site\n110 Parkside Drive\nP.O. Box 607\nWest Branch, IA 52358\" (319) 643-2541 heho_interpretation@nps.gov\"",
+              "description": "Herbert Hoover National Historic Site\n110 Parkside Drive\nP.O. Box 607\nWest Branch, IA 52358\nPhone: (319) 643-2541 \nEmail: heho_interpretation@nps.gov",
               "name": "Contact Us"
             },
             {
-              "description": "Most images featured are provided by the National Park Service (NPS) and National Records and Archives Administration (NARA).\n\nWest Branch Post Office 'HEHO 47 WB Post Office C 1915.jpg' - Credit to the John Kofoed collection.\n\nMap Data:\nOpenStreetMap - http://openstreetmap.org/copyright\nMapbox - http://mapbox.com/about/maps\n",
+              "description": "Most images featured are provided by the National Park Service (NPS) and National Records and Archives Administration (NARA).\n\nWest Branch Post Office 'HEHO 47 WB Post Office C 1915.jpg' - Credit to the John Kofoed collection.\n\nMap Data:\nOpenStreetMap - http://openstreetmap.org/copyright\n\nMapbox - http://mapbox.com/about/maps\n",
               "name": "Credits"
             }
           ]
@@ -2909,7 +2910,7 @@
       "type": "ACCESSIBILITY",
       "pages": [
         {
-          "description": "This audio description includes key sites and wayside panels within Herbert Hoover National Historic Site as well as a number of historic sites in the town of West Branch.  The landscape within the Historic Site is generally flat, and most sites can be accessed by gravel roads, cement paths, and wooden boardwalks.  The boardwalks can be slippery in wet weather, so please watch your step.  Most of the historic site in town are located a couple blocks north of the historic site along North Downey and Main Streets. \n\nPlease note that dimensions and distances used in these audio descriptions are approximate.",
+          "description": "This audio description includes key sites and wayside panels within Herbert Hoover National Historic Site as well as a number of historic sites in the town of West Branch.  \n\nThe landscape within the Historic Site is generally flat, and most sites can be accessed by gravel roads, cement paths, and wooden boardwalks.  \n\nThe boardwalks can be slippery in wet weather, so please watch your step.  Most of the historic site in town are located a couple blocks north of the historic site along North Downey and Main Streets. \n\nPlease note that dimensions and distances used in these audio descriptions are approximate.",
           "name": "Accessibility"
         }
       ]
