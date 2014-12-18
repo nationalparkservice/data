@@ -3029,6 +3029,38 @@
       ]
     },
     {
+      "description": "The international Chilkoot Trail is managed by the National Park Service and Parks Canada, operating in the Chilkoot Trail Center. Skagway's booming tourism industry began just as the Gold Rush was ending in the summer of 1898 with the first boatload of sightseers to the city. Martin Itjen, a Gold rush stampeder and Skagway’s premier tour operator bought this house in 1922 and originally stood on piers near Moore’s Wharf. From that location, Martin and his wife Lucy greeted passing tourists, sold fruit and candies, and booked rides on Itjen’s innovative Skagway Streetcars. As the streetcar toured, Itjen recited poetry and told humorous anecdotes about the town, keeping the gold rush tales alive. The Itjen House was later moved several times to other locations before finding its present home in 1978. Today the building is used as the National Park Service and Parks Canada Chilkoot Trail Center.",
+      "geofence_buffer_in_meters": 10,
+      "id": 12,
+      "information": [
+        {
+          "description": "Open 7 days a week, 8 – 5. Closed on Tuesdays 12 – 1.",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.453617,
+      "longitude": -135.319169,
+      "map_thumbnail_image": 97,
+      "name": "Chilkoot Trail Center (Itjen House)",
+      "name_description": "This building houses the NPS Trail Center. It belonged to eccentric entrepreneur Martin Itjen who helped initiate Skagway tourism.",
+      "primary_image": 31,
+      "type": "Trail Center",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        },
+        {
+          "description": "Staffed by Ranger",
+          "icon": "ranger.png",
+          "icon_@2x": "ranger@2x.png",
+          "type": "Staffed by Ranger"
+        }
+      ]
+    },
+    {
       "geofence_buffer_in_meters": 10,
       "id": 41,
       "information": [
@@ -3117,38 +3149,6 @@
           "icon": "wheelchair.png",
           "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "description": "The international Chilkoot Trail is managed by the National Park Service and Parks Canada, operating in the Chilkoot Trail Center. Skagway's booming tourism industry began just as the Gold Rush was ending in the summer of 1898 with the first boatload of sightseers to the city. Martin Itjen, a Gold rush stampeder and Skagway’s premier tour operator bought this house in 1922 and originally stood on piers near Moore’s Wharf. From that location, Martin and his wife Lucy greeted passing tourists, sold fruit and candies, and booked rides on Itjen’s innovative Skagway Streetcars. As the streetcar toured, Itjen recited poetry and told humorous anecdotes about the town, keeping the gold rush tales alive. The Itjen House was later moved several times to other locations before finding its present home in 1978. Today the building is used as the National Park Service and Parks Canada Chilkoot Trail Center.",
-      "geofence_buffer_in_meters": 10,
-      "id": 12,
-      "information": [
-        {
-          "description": "Open 7 days a week, 8 – 5. Closed on Tuesdays 12 – 1.",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.453617,
-      "longitude": -135.319169,
-      "map_thumbnail_image": 97,
-      "name": "Chilkoot Trail Center (Itjen House)",
-      "name_description": "This building houses the NPS Trail Center. It belonged to eccentric entrepreneur Martin Itjen who helped initiate Skagway tourism.",
-      "primary_image": 31,
-      "type": "Trail Center",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        },
-        {
-          "description": "Staffed by Ranger",
-          "icon": "ranger.png",
-          "icon_@2x": "ranger@2x.png",
-          "type": "Staffed by Ranger"
         }
       ]
     },
