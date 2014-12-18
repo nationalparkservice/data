@@ -2834,7 +2834,64 @@
     {
       "disp_order": 2,
       "name": "Park Info & FAQs",
-      "type": "INFORMATION"
+      "type": "INFORMATION",
+      "pages": [
+        {
+          "description": "Buildings are open daily from 9 a.m. to 5 p.m., except on Thanksgiving Day, December 25, and January 1. The grounds of the historic site are open 24 hours. There is no charge to visit Herbert Hoover National Historic Site. Herbert Hoover Presidential Library and Museum charges adults a $6 admission fee. http://www.nps.gov/heho/index.htm https://www.facebook.com/HerbertHooverNHS, https://twitter.com/HooverNPS",
+          "name": "Park Info",
+          "subsections": [
+            {
+              "description": "Born in a two-room cottage and orphaned at age nine Herbert Hoover left West Branch, never to live here again. The landscape and buildings of the early years remain, however, to tell how family, faith, education, and hard work opened a world of opportunity even the presidency of the United States to a child of simple beginnings.\nLike the small town of the 31st president's early childhood, the historic site may be explored on foot in less than a day. Buildings from Hoover's boyhood stand alongside monuments to his achievements. The president's modest birthplace, presidential library, and final resting place together recall what Hoover called \"the unbounded opportunity of American life.\"",
+              "name": "About"
+            },
+            {
+              "faq_subsections": [
+                {
+                  "question": "Where is Herbert Hoover National Historic Site?",
+                  "answer": "The park is in West Branch, Iowa, less than a half-mile south of exit 254 off I-80."
+                },
+                {
+                  "question": "When is Herbert Hoover National Historic Site open?",
+                  "answer": "Buildings are open daily from 9 a.m. to 5 p.m., except on Thanksgiving Day, December 25, and January 1. The grounds of the historic site are open 24 hours."
+                },
+                {
+                  "question": "What does it cost to visit Herbert Hoover National Historic Site?",
+                  "answer": "Visiting the park is free; a ticket must be purchased to visit the Presidential Library and Museum."
+                },
+                {
+                  "question": "What is there to do at the Herbert Hoover National Historic Site?",
+                  "answer": "Perhaps more than you think. The park has several historic buildings, including the birthplace, gravesite, and presidential library of Herbert Hoover. It also has an 81-acre tallgrass prairie. "
+                },
+                {
+                  "question": "Where should I start?",
+                  "answer": "Much of your visit will be self-guided, so start at the Visitor Center where park staff can help you plan your visit. "
+                },
+                {
+                  "question": "What is the weather like in West Branch, Iowa?",
+                  "answer": "Temperatures may be hot in the summer, cold in the winter, with everything in between. "
+                },
+                {
+                  "question": "Can I bring my pet with me when I visit?",
+                  "answer": "You may visit with your pets, but must clean up after them and keep them leashed at all times. Pets are not allowed inside buildings."
+                },
+                {
+                  "question": "How many people visit the park each year?",
+                  "answer": "In recent years, the park receives between 100,000 and 150,000 visits. "
+                }
+              ],
+              "name": "Visiting FAQ's"
+            },
+            {
+              "description": "\"Herbert Hoover National Historic Site\n110 Parkside Drive\nP.O. Box 607\nWest Branch, IA 52358\" (319) 643-2541 heho_interpretation@nps.gov\"",
+              "name": "Contact Us"
+            },
+            {
+              "description": "Most images featured are provided by the National Park Service (NPS) and National Records and Archives Administration (NARA).\n\nWest Branch Post Office 'HEHO 47 WB Post Office C 1915.jpg' - Credit to the John Kofoed collection.\n\nMap Data:\nOpenStreetMap - http://openstreetmap.org/copyright\nMapbox - http://mapbox.com/about/maps\n",
+              "name": "Credits"
+            }
+          ]
+        }
+      ]
     },
     {
       "disp_order": 3,
@@ -2879,22 +2936,6 @@
   ],
   "sites": [
     {
-      "description": "Herbert Hoover grew up in a religious community that valued peace, simplicity, integrity, and service to others. The plainly furnished Friends Meetinghouse, built by the Society of Friends, or Quakers, in 1857, is the physical expression of those values. Now two blocks from its original location, the Herbert Hoover Birthplace Foundation relocated and restored this meetinghouse in 1964.",
-      "geofence_buffer_in_meters": 10,
-      "id": 387,
-      "latitude": 41.66975,
-      "longitude": -91.346337,
-      "map_thumbnail_image": 428,
-      "media": [
-        365
-      ],
-      "name": "Friends Meetinghouse",
-      "name_description": "The Quakers of West Branch valued peace, simplicity, integrity, and service to others.",
-      "primary_image": 428,
-      "type": "Church",
-      "services": []
-    },
-    {
       "description": "The bronze, seven and a half foot tall statue “Isis, Goddess of Life” is the work of Belgian sculptor Auguste Puttemans, and was a gift from the people of Belgium in gratitude for Hoover's famine relief efforts on their behalf during the First World War.",
       "geofence_buffer_in_meters": 10,
       "id": 388,
@@ -2906,7 +2947,6 @@
       ],
       "name": "Statue of Isis",
       "name_description": "The people of Belgium presented “Isis, Goddess of Life” to Hoover as a gift of gratitude.",
-      "primary_image": 429,
       "type": "Statue",
       "services": []
     },
@@ -2980,16 +3020,19 @@
       "type": "Office"
     },
     {
-      "description": "In 1871 young Jesse Hoover constructed a blacksmith and wagon repair shop here on the corner of Penn and Downey streets. His business thrived in the rapidly growing village. In 1878 Jesse sold both his shop and the small cottage he had built across Penn Street, and opened a farm implement business a few blocks away on Main Street. In 1888 the original building was moved to another part of town, and was subsequently lost to history.",
+      "description": "Herbert Hoover grew up in a religious community that valued peace, simplicity, integrity, and service to others. The plainly furnished Friends Meetinghouse, built by the Society of Friends, or Quakers, in 1857, is the physical expression of those values. Now two blocks from its original location, the Herbert Hoover Birthplace Foundation relocated and restored this meetinghouse in 1964.",
       "geofence_buffer_in_meters": 10,
-      "id": 393,
-      "latitude": 41.67044148,
-      "longitude": -91.34682432,
-      "map_thumbnail_image": 434,
-      "name": "Blacksmith Shop Original Site",
-      "name_description": "Jesse Hoover's original blacksmith shop stood across Penn Street from his modest home.",
-      "primary_image": 434,
-      "type": "Site"
+      "id": 387,
+      "latitude": 41.66975,
+      "longitude": -91.346337,
+      "map_thumbnail_image": 428,
+      "media": [
+        365
+      ],
+      "name": "Friends Meetinghouse",
+      "name_description": "The Quakers of West Branch valued peace, simplicity, integrity, and service to others.",
+      "type": "Church",
+      "services": []
     },
     {
       "description": "On August 12, 1965, an act of Congress established this park as a national historic site. Since then, the National Park Service has preserved and interpreted the historic structures and landscape of this 187-acre park. In the late 1930's, President Hoover and his wife, Lou Henry Hoover, chose this place to celebrate the values they believed helped shape his life.",
@@ -3000,24 +3043,7 @@
       "map_thumbnail_image": 432,
       "name": "Visitor Center Orientation Wayside",
       "name_description": "Herbert Hoover National Historic Site commemorates the life of the 31st President.",
-      "primary_image": 432,
       "type": "Exhibit"
-    },
-    {
-      "description": "Herbert Hoover wrote of West Branch, \"My grandparents and my parents came here in a covered wagon. In this community they toiled and worshipped God. The most formative years of my boyhood were spent here. My roots are in this soil.\"",
-      "geofence_buffer_in_meters": 10,
-      "id": 390,
-      "latitude": 41.66816539,
-      "longitude": -91.35199696,
-      "map_thumbnail_image": 431,
-      "media": [
-        358
-      ],
-      "name": "Gravesite of President and Mrs. Hoover",
-      "name_description": "The president’s gravesite overlooks his birthplace, a reminder of his simple beginnings.",
-      "primary_image": 431,
-      "type": "Graves",
-      "services": []
     },
     {
       "description": "In 1951 Herbert Hoover became the first recipient of the prestigious Iowa Award, which is bestowed to “recognize the outstanding service of Iowans in the fields of science, medicine, law, religion, social welfare education, agriculture, industry, government and other public service.” Only 12 other Iowans have received this award.",
@@ -3062,26 +3088,72 @@
       "type": "Trailhead"
     },
     {
+      "description": "In 1871 young Jesse Hoover constructed a blacksmith and wagon repair shop here on the corner of Penn and Downey streets. His business thrived in the rapidly growing village. In 1878 Jesse sold both his shop and the small cottage he had built across Penn Street, and opened a farm implement business a few blocks away on Main Street. In 1888 the original building was moved to another part of town, and was subsequently lost to history.",
+      "geofence_buffer_in_meters": 10,
+      "id": 393,
+      "latitude": 41.67044148,
+      "longitude": -91.34682432,
+      "map_thumbnail_image": 434,
+      "name": "Blacksmith Shop Original Site",
+      "name_description": "Jesse Hoover's original blacksmith shop stood across Penn Street from his modest home.",
+      "type": "Site"
+    },
+    {
+      "description": "Herbert Hoover wrote of West Branch, \"My grandparents and my parents came here in a covered wagon. In this community they toiled and worshipped God. The most formative years of my boyhood were spent here. My roots are in this soil.\"",
+      "geofence_buffer_in_meters": 10,
+      "id": 390,
+      "latitude": 41.66816539,
+      "longitude": -91.35199696,
+      "map_thumbnail_image": 431,
+      "media": [
+        358
+      ],
+      "name": "Gravesite of President and Mrs. Hoover",
+      "name_description": "The president’s gravesite overlooks his birthplace, a reminder of his simple beginnings.",
+      "type": "Graves",
+      "services": []
+    },
+    {
+      "description": "In 1870, real-estate developer J.M. Wetherell sold three lots to E.S. Hayhurst. Hayhurst built his house here in 1872. Unfortunately, Hayhurst and his family were only able to call this place home for less than a decade. When they couldn't make the payments, the mortgage was foreclosed and the family left town in 1878. Ever the businessman, Wetherell repossessed the lots and turned the house into a rental property.",
+      "geofence_buffer_in_meters": 10,
+      "id": 407,
+      "latitude": 41.67054967,
+      "longitude": -91.34778589,
+      "map_thumbnail_image": 448,
+      "media": [
+        333
+      ],
+      "name": "E.S. Hayhurst House",
+      "name_description": "The E.S. Hayhurst family left town after the bank foreclosed on their house.",
+      "type": "Residence"
+    },
+    {
+      "description": "The P.T. Smith House is the only house that Herbert Hoover remembered when he visited West Branch many years later. While living in the House of Maples, the Hoover children and Smith children were playmates. Their homes stood at the base of Cook's Hill, a favorite winter sledding spot. Hoover recalled, \"That was a great long hill where on winters’ nights, to satisfy our human craving for speed, we slid down at terrific pace with our tummies tight to home-made sleds.\"",
+      "geofence_buffer_in_meters": 10,
+      "id": 409,
+      "latitude": 41.66859717,
+      "longitude": -91.34645954,
+      "map_thumbnail_image": 450,
+      "media": [
+        340
+      ],
+      "name": "P.T. Smith House",
+      "name_description": "The Hoover and Smith children were playmates and neighbors near a favorite winter sledding spot.",
+      "type": "Historic Building"
+    },
+    {
       "description": "Amanda Garvin was a single 35-year old woman when she bought this property in 1870 for $90.00. She had this cottage built by 1872. The Garvin house is a wonderful example of the Gothic Revival style with its steeply pitched roof, gingerbread bargeboard trim, and ornamental arches framing the open front porch. By 1878, Miss Garvin was renting her cottage to tenants. During the fifteen years she owned the property, she mortgaged it several times but lost the home to foreclosure in 1885.",
       "geofence_buffer_in_meters": 9.390400019507199,
       "id": 401,
       "latitude": 41.670874,
       "longitude": -91.34689,
       "map_thumbnail_image": 442,
+      "media": [
+        353
+      ],
       "name": "Amanda Garvin House",
       "name_description": "Amanda Garvin’s house with its ornamented arches is an example of Gothic Revival style.",
       "type": "Office"
-    },
-    {
-      "description": "In 1870, real-estate developer J.M. Wetherell sold three lots to E.S. Hayhurst. Hayhurst built his house here in 1872. Unfortunately, Hayhurst and his family were only able to call this place home for less than a decade. When they couldn't make the payments, the mortgage was foreclosed and the family left town in 1878. Ever the businessman, Wetherell repossessed the lots and turned the house into a rental property.",
-      "geofence_buffer_in_meters": 10,
-      "id": 407,
-      "latitude": 41.6705496697917,
-      "longitude": -91.3477858901024,
-      "map_thumbnail_image": 448,
-      "name": "E.S. Hayhurst House",
-      "name_description": "The E.S. Hayhurst family left town after the bank foreclosed on their house.",
-      "type": "Residence"
     },
     {
       "description": "West Branch boomed between 1869 and 1873. New buildings constructed in the neighborhood near the Hoovers’ small cottage on Downey Street included the Laban Miles House, the Garvin House, and the Methodist Church, which is no longer standing. When the Burlington, Cedar Rapids & Northern Railroad arrived in West Branch on December 20, 1870, two hundred of the town’s residents celebrated with a picnic dinner.",
@@ -3093,17 +3165,6 @@
       "name": "Historic Homes on Downey Street (incl. WS)",
       "name_description": "The historic homes on Downey Street represent the neigborhood of Hoover's childhood.",
       "type": "Block"
-    },
-    {
-      "description": "In 1873, J. M. Wetherell sold two lots to Mary Wright. She owned the property for the next 48 years. Her husband, William “Billy” Wright, owned a blacksmith shop at the southwest corner of Main and Poplar streets. Perhaps the competition from neighbor Jesse Hoover, Herbert’s dad, was what led Billy to sell his business in 1875 and open a harness and boot shop.",
-      "geofence_buffer_in_meters": 10,
-      "id": 406,
-      "latitude": 41.6707420109314,
-      "longitude": -91.3478341698647,
-      "map_thumbnail_image": 447,
-      "name": "Mary Wright House",
-      "name_description": "Mary Wright bought the property on Poplar Street that she owned for 48 years.",
-      "type": "Residence"
     },
     {
       "description": "The main wing of this white, two-story wood frame structure was completed in 1872, two years before Herbert Hoover was born. Dr. James Staples and his wife Eliza bought it in 1876. The couple, originally from Vermont, had decided to retire in West Branch. When the 76-year old doctor passed away in 1891, he left the home to his four grandchildren. The Staples house has since become a part of the historic village landscape from Herbert Hoover's youth.",
@@ -3128,17 +3189,6 @@
       "type": "Block"
     },
     {
-      "description": "The P.T. Smith House is the only house that Herbert Hoover remembered when he visited West Branch many years later. While living in the House of Maples, the Hoover children and Smith children were playmates. Their homes stood at the base of Cook's Hill, a favorite winter sledding spot. Hoover recalled, \"That was a great long hill where on winters’ nights, to satisfy our human craving for speed, we slid down at terrific pace with our tummies tight to home-made sleds.\"",
-      "geofence_buffer_in_meters": 10,
-      "id": 409,
-      "latitude": 41.6685971743425,
-      "longitude": -91.3464595377445,
-      "map_thumbnail_image": 450,
-      "name": "P.T. Smith House",
-      "name_description": "The Hoover and Smith children were playmates and neighbors near a favorite winter sledding spot.",
-      "type": "Historic Building"
-    },
-    {
       "description": "In 1938 Lou Henry Hoover suggested establishing an organization to own and manage the birthplace. The Herbert Hoover Birthplace Society was organized the following year.",
       "geofence_buffer_in_meters": 10,
       "id": 412,
@@ -3148,6 +3198,20 @@
       "name": "Hoover Presidential Foundation",
       "name_description": "The Hoovers and their allies in West Branch have a long history of honoring the president’s life.",
       "type": "Nonprofit"
+    },
+    {
+      "description": "In 1873, J. M. Wetherell sold two lots to Mary Wright. She owned the property for the next 48 years. Her husband, William “Billy” Wright, owned a blacksmith shop at the southwest corner of Main and Poplar streets. Perhaps the competition from neighbor Jesse Hoover, Herbert’s dad, was what led Billy to sell his business in 1875 and open a harness and boot shop.",
+      "geofence_buffer_in_meters": 10,
+      "id": 406,
+      "latitude": 41.67074201,
+      "longitude": -91.34783417,
+      "map_thumbnail_image": 447,
+      "media": [
+        344
+      ],
+      "name": "Mary Wright House",
+      "name_description": "Mary Wright bought the property on Poplar Street that she owned for 48 years.",
+      "type": "Residence"
     },
     {
       "description": "The Hoover Nature Trail follows the railroad that passed through the president’s hometown.",
@@ -3364,6 +3428,19 @@
       "services": []
     },
     {
+      "description": "A chicken coop provided fresh eggs. Hulda grew her vegetable garden behind the cottage, while flower gardens of marigolds, peonies, and snapdragons filled the front and side yards. And just like today, seeds, cuttings and bulbs, were traded with family and friends. The dark red double-petaled tulips that once grew here came from the bulbs Hulda's mother had brought with her from Canada. A cellar under the cottage stored vegetables and other foods below the winter’s frost.",
+      "geofence_buffer_in_meters": 10,
+      "id": 392,
+      "latitude": 41.67026116,
+      "longitude": -91.34698927,
+      "map_thumbnail_image": 433,
+      "media": [
+        383
+      ],
+      "name": "Birthplace Cottage Back Porch and Garden",
+      "name_description": "The Hoovers used their porch and yard as extensions of their modest dwelling."
+    },
+    {
       "description": "In 1869, carpenter David Mackey, who designed and built this humble two-story home. The cheerful yellow house would have been a familiar landmark to the young Herbert Hoover.  Just a few years after construction was complete, David’s wife Mary died, leaving the carpenter with a baby son named Charles. The young widower, one of the town's few Democrats, was elected the Mayor of West Branch in 1879. Of the homes in the core area dating back to Hoover's boyhood, this house and the Wright House, across the street, have been the least altered in appearance.",
       "geofence_buffer_in_meters": 10,
       "id": 404,
@@ -3373,17 +3450,6 @@
       "name": "David Mackey House",
       "name_description": "David Mackey’s cheerful yellow home would have been a familiar landmark to young Herbert.",
       "type": "Residence"
-    },
-    {
-      "description": "Charles E. Smith was a carpenter and a Civil War veteran. In 1903, he completed his dream home for himself and his wife, Deborah, atop Cooks Hill where each spring, he would tap his maple trees to make maple syrup. The National Park Service relocated it here in 1969.",
-      "geofence_buffer_in_meters": 10,
-      "id": 402,
-      "latitude": 41.670704,
-      "longitude": -91.34692,
-      "map_thumbnail_image": 443,
-      "name": "C.E. Smith House",
-      "name_description": "A Methodist Church rang its bells Sunday mornings where C.E. Smith’s house now stands.",
-      "type": "Office"
     },
     {
       "description": "Boy Scouts built a picnic shelter in 1953 as a tribute to Herbert Hoover's long legacy of service to youth around the world. The next year, the former president accepted an invitation from the Iowa legislature to celebrate his 80th birthday in West Branch. After a speech at the new Herbert Hoover Elementary School, where an audience of 20,000 greeted him, Hoover arrived at the picnic shelter for a birthday lunch of fried chicken, corn, potato salad, and cake.",
@@ -3398,34 +3464,18 @@
       "services": []
     },
     {
-      "description": "A chicken coop provided fresh eggs. Hulda grew her vegetable garden behind the cottage, while flower gardens of marigolds, peonies, and snapdragons filled the front and side yards. And just like today, seeds, cuttings and bulbs, were traded with family and friends. The dark red double-petaled tulips that once grew here came from the bulbs Hulda's mother had brought with her from Canada. A cellar under the cottage stored vegetables and other foods below the winter’s frost.",
+      "description": "Charles E. Smith was a carpenter and a Civil War veteran. In 1903, he completed his dream home for himself and his wife, Deborah, atop Cooks Hill where each spring, he would tap his maple trees to make maple syrup. The National Park Service relocated it here in 1969.",
       "geofence_buffer_in_meters": 10,
-      "id": 392,
-      "latitude": 41.67026116,
-      "longitude": -91.34698927,
-      "map_thumbnail_image": 433,
+      "id": 402,
+      "latitude": 41.670704,
+      "longitude": -91.34692,
+      "map_thumbnail_image": 443,
       "media": [
-        383
+        338
       ],
-      "name": "Birthplace Cottage Back Porch and Garden",
-      "name_description": "The Hoovers used their porch and yard as extensions of their modest dwelling.",
-      "primary_image": 433
-    },
-    {
-      "description": "Herbert Hoover Presidential Library and Museum opened to the public on August 10, 1962, Herbert Hoover's 88th birthday. The dedication took place at the library's original entrance, which is the small portico at the east end of the building supported by four white pillars and topped with an earlier version of the presidential seal. Since its opening, Herbert Hoover Presidential Library and Museum has been expanded and renovated several times, with the most recent change funded by a partnership between the U.S. government and the non-profit Hoover Presidential Foundation.",
-      "geofence_buffer_in_meters": 10,
-      "id": 389,
-      "latitude": 41.66900291,
-      "longitude": -91.34777784,
-      "map_thumbnail_image": 430,
-      "media": [
-        361
-      ],
-      "name": "Herbert Hoover Presidential Library and Museum (incl. WS)",
-      "name_description": "Museum galleries tell of the triumphs and tragedies of Hoover’s long career in public service. ",
-      "primary_image": 430,
-      "type": "Museum",
-      "services": []
+      "name": "C.E. Smith House",
+      "name_description": "A Methodist Church rang its bells Sunday mornings where C.E. Smith’s house now stands.",
+      "type": "Office"
     },
     {
       "description": "Hannah Varney built this house in 1899 shortly after divorcing her husband. The West Branch Times described the house as being of \"fine appearance and finished in modern style.\" After living in the house with her six children for less than one year, Hannah Varney moved to Iowa City and married Robert Ward. She left the house to her daughters, Cora and Clara, who lived in it until 1915. In 1967 the National Park Service moved the Hannah Varney House from its original location on the lot just south of where it now stands on Downey Street.",
@@ -3440,6 +3490,21 @@
       "name": "Hannah Varney House",
       "name_description": "The newspaper described Hannah Varney’s house as of \"fine appearance and finished in modern style.\"",
       "type": "Office"
+    },
+    {
+      "description": "Herbert Hoover Presidential Library and Museum opened to the public on August 10, 1962, Herbert Hoover's 88th birthday. The dedication took place at the library's original entrance, which is the small portico at the east end of the building supported by four white pillars and topped with an earlier version of the presidential seal. Since its opening, Herbert Hoover Presidential Library and Museum has been expanded and renovated several times, with the most recent change funded by a partnership between the U.S. government and the non-profit Hoover Presidential Foundation.",
+      "geofence_buffer_in_meters": 10,
+      "id": 389,
+      "latitude": 41.66900291,
+      "longitude": -91.34777784,
+      "map_thumbnail_image": 430,
+      "media": [
+        361
+      ],
+      "name": "Herbert Hoover Presidential Library and Museum (incl. WS)",
+      "name_description": "Museum galleries tell of the triumphs and tragedies of Hoover’s long career in public service. ",
+      "type": "Museum",
+      "services": []
     },
     {
       "description": "In 1870, Laban Miles had married Hulda Hoover’s younger sister, Agnes Minthorn, just five days after Hulda and Jesse Hoover were wed. By 1875 they were settling down in this house, built sometime between 1869 and 1872, with a family of their own.",
