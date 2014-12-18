@@ -1112,13 +1112,6 @@
       "type": "map_thumbnail"
     },
     {
-      "id": 13,
-      "name": "A Demo Audio File",
-      "relative_url": "13.m4a",
-      "transcript": "Sample transcript text for tour audio",
-      "type": "audio"
-    },
-    {
       "id": 83,
       "image_1080": "83_1080x810.jpg",
       "image_1536": "83_1536x1152.jpg",
@@ -2017,6 +2010,13 @@
       "relative_url_tablet": "1_tablet.jpg",
       "relative_url_tablet_@2x": "1_tablet@2x.jpg",
       "type": "image"
+    },
+    {
+      "id": 13,
+      "name": "A Demo Audio File",
+      "relative_url": "13.m4a",
+      "transcript": "Sample transcript text for tour audio. Insert actual text into media/transcript",
+      "type": "audio"
     }
   ],
   "more": [
