@@ -2837,7 +2837,7 @@
       "type": "INFORMATION",
       "pages": [
         {
-          "description": "Buildings are open daily from 9 a.m. to 5 p.m., except on Thanksgiving Day, December 25, and January 1. The grounds of the historic site are open 24 hours. There is no charge to visit Herbert Hoover National Historic Site. Herbert Hoover Presidential Library and Museum charges adults a $6 admission fee. http://www.nps.gov/heho/index.htm https://www.facebook.com/HerbertHooverNHS, https://twitter.com/HooverNPS",
+          "description": "Buildings are open daily from 9 a.m. to 5 p.m., except on Thanksgiving Day, December 25, and January 1. The grounds of the historic site are open 24 hours. There is no charge to visit Herbert Hoover National Historic Site. Herbert Hoover Presidential Library and Museum charges adults a $6 admission fee. \nhttp://www.nps.gov/heho/index.htm https://www.facebook.com/HerbertHooverNHS, https://twitter.com/HooverNPS",
           "name": "Park Info",
           "subsections": [
             {
@@ -3393,8 +3393,8 @@
           "name": "Part Of The Commemorative Landscape"
         }
       ],
-      "latitude": 41.66900291,
-      "longitude": -91.34777784,
+      "latitude": 41.6689898821354,
+      "longitude": -91.3477818667889,
       "map_thumbnail_image": 430,
       "media": [
         361
@@ -3625,32 +3625,6 @@
       "type": "Historic Buildings"
     },
     {
-      "audio_description": "Hoover Nature Trail (Trailhead)\n177 words\n\nHoover Nature Trail (Trailhead).  1 ¼ minutes.  The Herbert Hoover Nature Trail begins on the north side of College Street and continues north from there.  It’s a flat gravel path seven feet wide.  Grass borders the trail on both sides, and a line of trees runs parallel about 15 feet to the left.  The area surrounding the trailhead includes a mixture of industrial buildings and suburban homes.\n\nAbout 20 feet north of the road, on the left side of the trail, is a plain wooden bulletin board.  The unpainted, unadorned structure is covered by a shallow pitched roof and incorporates a built-in plank bench.  It’s about nine feet tall and five feet wide.  On the right-hand side of the trail is a covered trash can as well as a six-foot signpost that displays three signs.  A narrow wooden sign at the top is carved with the words, “Hoover Nature Trail.”  Below that, a yellow metal sign reads, “No motorized vehicles,” and at the bottom a green sign reminds users to clean up after their pets.\n\nEnd of message.\n",
-      "description": "The Hoover Nature Trail follows the railroad that passed through the president’s hometown.",
-      "geofence_buffer_in_meters": 10,
-      "id": 414,
-      "information": [
-        {
-          "description": "In the decade after the railroad arrived in 1870, West Branch grew from a tiny crossroads community to a bustling village, despite the generally hard economic times that followed the panic of 1873. By 1910 fourteen passenger trains passed through town daily, as did numerous freight trains.",
-          "name": "Railroad And Prosperity"
-        },
-        {
-          "description": "The West Branch depot, built in 1871 and which once stood nearby, was the scene of orphaned eleven year old “Bert” Hoover's departure for a new and uncertain life in Oregon in 1885, and where Hoover made his triumphant return as the newly nominated Republican candidate for president in 1928.  ",
-          "name": "Train Depot"
-        },
-        {
-          "description": "The rail line was abandoned shortly after the Rock Island Railroad declared bankruptcy in 1980. Thanks to the efforts of local citizens, in 1990 the three miles of railroad right-of-way between West Branch and Oasis was reopened as a segment of the Herbert Hoover Nature Trail. The Cedar County Conservation Board operates the trail.",
-          "name": "Rail To Trail"
-        }
-      ],
-      "latitude": 41.66762641,
-      "longitude": -91.35108232,
-      "map_thumbnail_image": 455,
-      "name": "Hoover Nature Trail",
-      "name_description": "The Hoover Nature Trail follows the railroad that passed through the president’s hometown.",
-      "type": "Trailhead"
-    },
-    {
       "audio_description": "The Union Block\n191 words\n\nThe Union Block.  1 ¼ minutes.  The Union Block is a large brick building located on the south side of West Main Street between the former West Branch Bank Building on the left and the Earliest Citizens’ Savings Bank Building on the right.\n\nThe Union Block is 40 feet wide, housing two separate commercial spaces on it first floor.  Three central doors are flanked by two large storefront windows.  The doors are set back a few feet from the sidewalk and there’s small step up to reach the flagstone entryway.  The first-floor windows and doors are trimmed in a deep forest green.   \n\nOn the second floor, the natural brick is exposed, inset with seven narrow rectangular windows.  Rounded lintels of alternating brick and limestone top the windows.  Above that, an ornate wooden cornice runs below the horizontal roofline.  The cornice is custard-colored, accented with cream, and a central panel about 10 feet wide displays the words “Union Block” in cream-colored capital letters.\n\nIt’s just one step up from the street to the sidewalk here.  You can also use the ramp at the corner of Downey or Poplar Street.\n \nEnd of message.\n",
       "description": "T. Butler and Dr. L.J. Leech agreed to jointly finance this structure in 1895. The west half of the building housed a meat market on the first floor and the lodge of the Modern Woodmen of American on the second. The east side was rented to Bert Gill for the union Block Drug Store. Since then the building has housed several shops, cafes, and offices.",
       "geofence_buffer_in_meters": 10,
@@ -3663,30 +3637,6 @@
       "type": "Market"
     },
     {
-      "audio_description": "West Branch Bank Building\n160 words\n\nWest Branch Bank Building.  1 ¼ minutes.  The former West Branch Bank Building is a narrow, one-story structure tucked in between the former Crook’s Hotel and the Union Block Building on the south side of West Main Street.  \n\nGrey and white paint create an interplay of horizontal and vertical lines on the wooden façade, below the flat roofline.  A single door on the right-hand side is reached via a five-step stone staircase.  The stairs leads up from the left along the front of the building, and railings guide your way on either side.  A large, square four-paned window fills a large portion of the façade to the left of the front door.  The former bank building has housed a variety of commercial enterprises over the years.  \n\nIt’s one step up from the street to the sidewalk here.  There is also a ramp at the corner of Downey Street, about 25 feet to the east of the building.\n\nEnd of message.\n\n",
-      "description": "West Branch Bank was founded here in 1875 but moved across Main Street three years later. A variety of shops used this building over the years. In 1965 owners closed the original front door and cut an interior passage on the east into the building next door.",
-      "geofence_buffer_in_meters": 10,
-      "id": 422,
-      "latitude": 41.6712789602381,
-      "longitude": -91.3461631536484,
-      "map_thumbnail_image": 463,
-      "name": "West Branch Bank (1875), 104 W. Main Street",
-      "name_description": "West Branch’s first bank opened in 1875 before moving across the street three years later.",
-      "type": "Bank"
-    },
-    {
-      "audio_description": "Crook’s Hotel\n196 words\n\nCrook’s Hotel.  1 ½ minutes.  The former Crook’s Hotel is located at 102 West Main Street in downtown West Branch.  On the right, the building abuts the former West Branch Bank Building; on the left is the pedestrian extension of Downey Street, which leads into the Herbert Hoover National Historic Site.  \n\nThe mostly wooden structure stands on a cement base 2 to 3 feet high.  The rest of the building is painted a cream color and accented with light grey.   In the center of the 25-foot wide façade, a double set of stairs lead to a pair of entrances.  There are six steps up on either side of a central railing.  Large storefront windows are located to the left and right of the stairs, above the concrete base.  \n\nThe second story is of clapboard construction with three rectangular windows.  A small double third-floor window is set into the gable of the wide pitched roof.  A central chimney sticks up from the peak.  \n\nIt’s just one step up from the street to the sidewalk here, and there is a curb cut at the corner of Downey Street, just to the left of the building.  \n\nEnd of message.\n",
-      "description": "Nate Crook owned and operated a barber shop and restaurant in this building in 1871. By 1877 he had expanded his operation to include a hotel and livery. Over the years the building has housed several hotels and restaurants.",
-      "geofence_buffer_in_meters": 10,
-      "id": 421,
-      "latitude": 41.6712649354997,
-      "longitude": -91.3458117842674,
-      "map_thumbnail_image": 462,
-      "name": "Crook's Hotel (1870), 102 W. Main Street",
-      "name_description": "Nate Crook expanded his barber shop and restaurant to include hotel, livery, and stable in 1877.",
-      "type": "Hotel"
-    },
-    {
       "audio_description": "Grinnell Building\n157 words\n\nGrinnell Building.  One minute.  The Grinnell Building is located at 112 West Main Street, on the south side of the street.  The two story structure is currently home to a family dental practice.  \n\nThe façade is mostly brick, in hues ranging from red to orange to dark grey.  The various colors give the building a speckled look.  A single door stands between two oversized windows on the first floor.  Two smaller windows grace the second floor.  The door and window frames are painted a dusty rose color.  \n\nThere is a gap about three feet wide between the Grinnell Building and the Old Post Office Building to its right.  The gap reveals an older grey clapboard structure with a pitched roof behind the modern flat-topped brick façade. \nIt’s just one step up from the street to the sidewalk here, and there’s a ramp at the corner of Poplar Street, to the right of the building.\n\nEnd of message.\n",
       "description": "Behind the brick facade stands the wood frame building of Edwin Grinnell's drug store and H.T. Hollingsworth's watch repair. This building, the oldest surviving store, may date back to 1869. A series of jewelers and druggists occupied the building until 1924 when Fred Albin bought it for his meat market. He added the back room and brick facade.",
       "geofence_buffer_in_meters": 10,
@@ -3697,6 +3647,18 @@
       "name": "Grinnell Building (1869) 112 W. Main Street",
       "name_description": "Edwin Grinnell’s building housed a succession of druggists and jewelers as far back as 1869.",
       "type": "Store"
+    },
+    {
+      "audio_description": "Crook’s Hotel\n196 words\n\nCrook’s Hotel.  1 ½ minutes.  The former Crook’s Hotel is located at 102 West Main Street in downtown West Branch.  On the right, the building abuts the former West Branch Bank Building; on the left is the pedestrian extension of Downey Street, which leads into the Herbert Hoover National Historic Site.  \n\nThe mostly wooden structure stands on a cement base 2 to 3 feet high.  The rest of the building is painted a cream color and accented with light grey.   In the center of the 25-foot wide façade, a double set of stairs lead to a pair of entrances.  There are six steps up on either side of a central railing.  Large storefront windows are located to the left and right of the stairs, above the concrete base.  \n\nThe second story is of clapboard construction with three rectangular windows.  A small double third-floor window is set into the gable of the wide pitched roof.  A central chimney sticks up from the peak.  \n\nIt’s just one step up from the street to the sidewalk here, and there is a curb cut at the corner of Downey Street, just to the left of the building.  \n\nEnd of message.\n",
+      "description": "Nate Crook owned and operated a barber shop and restaurant in this building in 1871. By 1877 he had expanded his operation to include a hotel and livery. Over the years the building has housed several hotels and restaurants.",
+      "geofence_buffer_in_meters": 10,
+      "id": 421,
+      "latitude": 41.671260928431,
+      "longitude": -91.3468042016029,
+      "map_thumbnail_image": 462,
+      "name": "Crook's Hotel (1870), 102 W. Main Street",
+      "name_description": "Nate Crook expanded his barber shop and restaurant to include hotel, livery, and stable in 1877.",
+      "type": "Hotel"
     },
     {
       "audio_description": "Gruwell-Crew Building/Heritage Museum\n187 words\n\nGruwell-Crew Building.  1 ¼ minutes.  The Gruwell-Crew Building is located at 109 West Main Street, on the north side of the road.  The restored one-story structure is mostly wood, on a one-and-a-half-foot foundation of rough-hewn stone.  The building is home to the West Branch Heritage Museum.  It’s a small, colorful building, about 18 feet wide.   Four steps lead up to the rustic double-doors of carved wood and glass.  Wooden handrails on either side of the wide staircase will guide your way.  The central doors are flanked on either side by storefront windows framed in yellow and orange.  A rust-orange awning hangs down over the entire first-floor façade.  \n\nAbove the awning, a flat-topped false front hides the gently pitched roof behind it.  This rectangular strip of clapboard construction is about five feet high and painted dark green.   A yellow wooden plaque about one foot high and five feet wide near the top reads:  “Heritage Museum, West Branch, Iowa.”  \n\nThe sidewalk here is just one step up from the street, and there’s a ramp about 50 feet to your left at the corner of Poplar Street.\n\nEnd of message.\n",
@@ -3886,6 +3848,44 @@
       "type": "Office"
     },
     {
+      "audio_description": "West Branch Bank Building\n160 words\n\nWest Branch Bank Building.  1 ¼ minutes.  The former West Branch Bank Building is a narrow, one-story structure tucked in between the former Crook’s Hotel and the Union Block Building on the south side of West Main Street.  \n\nGrey and white paint create an interplay of horizontal and vertical lines on the wooden façade, below the flat roofline.  A single door on the right-hand side is reached via a five-step stone staircase.  The stairs leads up from the left along the front of the building, and railings guide your way on either side.  A large, square four-paned window fills a large portion of the façade to the left of the front door.  The former bank building has housed a variety of commercial enterprises over the years.  \n\nIt’s one step up from the street to the sidewalk here.  There is also a ramp at the corner of Downey Street, about 25 feet to the east of the building.\n\nEnd of message.\n\n",
+      "description": "West Branch Bank was founded here in 1875 but moved across Main Street three years later. A variety of shops used this building over the years. In 1965 owners closed the original front door and cut an interior passage on the east into the building next door.",
+      "geofence_buffer_in_meters": 10,
+      "id": 422,
+      "latitude": 41.6712629319654,
+      "longitude": -91.3469275832176,
+      "map_thumbnail_image": 463,
+      "name": "West Branch Bank (1875), 104 W. Main Street",
+      "name_description": "West Branch’s first bank opened in 1875 before moving across the street three years later.",
+      "type": "Bank"
+    },
+    {
+      "audio_description": "Hoover Nature Trail (Trailhead)\n177 words\n\nHoover Nature Trail (Trailhead).  1 ¼ minutes.  The Herbert Hoover Nature Trail begins on the north side of College Street and continues north from there.  It’s a flat gravel path seven feet wide.  Grass borders the trail on both sides, and a line of trees runs parallel about 15 feet to the left.  The area surrounding the trailhead includes a mixture of industrial buildings and suburban homes.\n\nAbout 20 feet north of the road, on the left side of the trail, is a plain wooden bulletin board.  The unpainted, unadorned structure is covered by a shallow pitched roof and incorporates a built-in plank bench.  It’s about nine feet tall and five feet wide.  On the right-hand side of the trail is a covered trash can as well as a six-foot signpost that displays three signs.  A narrow wooden sign at the top is carved with the words, “Hoover Nature Trail.”  Below that, a yellow metal sign reads, “No motorized vehicles,” and at the bottom a green sign reminds users to clean up after their pets.\n\nEnd of message.\n",
+      "description": "The Hoover Nature Trail follows the railroad that passed through the president’s hometown.",
+      "geofence_buffer_in_meters": 10,
+      "id": 414,
+      "information": [
+        {
+          "description": "In the decade after the railroad arrived in 1870, West Branch grew from a tiny crossroads community to a bustling village, despite the generally hard economic times that followed the panic of 1873. By 1910 fourteen passenger trains passed through town daily, as did numerous freight trains.",
+          "name": "Railroad And Prosperity"
+        },
+        {
+          "description": "The West Branch depot, built in 1871 and which once stood nearby, was the scene of orphaned eleven year old “Bert” Hoover's departure for a new and uncertain life in Oregon in 1885, and where Hoover made his triumphant return as the newly nominated Republican candidate for president in 1928.  ",
+          "name": "Train Depot"
+        },
+        {
+          "description": "The rail line was abandoned shortly after the Rock Island Railroad declared bankruptcy in 1980. Thanks to the efforts of local citizens, in 1990 the three miles of railroad right-of-way between West Branch and Oasis was reopened as a segment of the Herbert Hoover Nature Trail. The Cedar County Conservation Board operates the trail.",
+          "name": "Rail To Trail"
+        }
+      ],
+      "latitude": 41.6737412562246,
+      "longitude": -91.3434970378876,
+      "map_thumbnail_image": 455,
+      "name": "Hoover Nature Trail",
+      "name_description": "The Hoover Nature Trail follows the railroad that passed through the president’s hometown.",
+      "type": "Trailhead"
+    },
+    {
       "audio_description": "Patterson-Leech Building\n191 words\n\nPatterson-Leech Building.  1 ½ minutes.  The Patterson-Leech Building stands between the Veterans Memorial Building and the Gruwell-Crew Building on the north side of West Main Street.  Unlike most of the historic structures along Main Street, there is a small space—a foot or two wide—between the Patterson-Leech Building and its neighbors.  The building currently houses an antique shop.\n\nThe narrow wooden structure appears time- and weather-worn:  Some of the clapboard planks making up the second-floor façade are warped and uneven.  And the building as a whole seems to list slightly to the right.  Three wooden steps painted red lead up to the front door; there are handrails on both sides.  The first-floor is painted pale blue and trimmed with white.  There are two oversized four-paned windows on either side of the central door.  The second floor is mainly jade green, with blue and white around the windows.  The edges of a pitched roof poke out behind either side of the square-topped false façade.\n\nIt’s two small steps up from the street to the sidewalk here.  Or you can use the ramp at the corner of Poplar Street.\n End of message.\n",
       "description": "In March 1890 Lavina Patterson opened a millinery shop here and lived with ther family upstairs. Dr. L.J. Leech moved his medical offices here after fire damaged the buildings across the street in 1895. It remained Dr. Leech's office until his death in 1937.",
       "geofence_buffer_in_meters": 10,
@@ -3935,7 +3935,7 @@
     {
       "id": 3,
       "name": "Simple Beginnings\n",
-      "primary_image": 425,
+      "primary_image": 337,
       "sites": [
         {
           "id": 384,
