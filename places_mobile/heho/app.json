@@ -2823,7 +2823,13 @@
     {
       "disp_order": 1,
       "name": "Presidential Library",
-      "type": "SPECIAL_INFO1"
+      "type": "SPECIAL_INFO1",
+      "pages": [
+        {
+          "description": "Herbert Hoover Presidential Library and Museum houses papers and collections relating to both President and Mrs. Hoover. It is administered by the National Archives and Records Administration (NARA). http://www.hoover.archives.gov/",
+          "name": "Presidential Library"
+        }
+      ]
     },
     {
       "disp_order": 2,
@@ -2873,29 +2879,35 @@
   ],
   "sites": [
     {
-      "description": "In the years following his presidency, Herbert and Lou Hoover restored the president's humble birthplace, which he called \"physical proof of the unbounded opportunity of American life.\" The small spaces and dearth of material possession reflect an ethic of thrift, and the cottage's status as a starter home for a young family. Antique furnishings from the mid and late 19th century represent common household items for a simply furnished two room rural home.",
-      "geofence_buffer_in_meters": 10,
-      "id": 384,
-      "latitude": 41.67027117,
-      "longitude": -91.34686857,
-      "map_thumbnail_image": 425,
-      "name": "Birthplace Cottage",
-      "name_description": "Hoover called his modest birthplace \"physical proof of the unbounded opportunity of American life.\"",
-      "primary_image": 425,
-      "type": "Home",
-      "services": []
-    },
-    {
       "description": "Herbert Hoover grew up in a religious community that valued peace, simplicity, integrity, and service to others. The plainly furnished Friends Meetinghouse, built by the Society of Friends, or Quakers, in 1857, is the physical expression of those values. Now two blocks from its original location, the Herbert Hoover Birthplace Foundation relocated and restored this meetinghouse in 1964.",
       "geofence_buffer_in_meters": 10,
       "id": 387,
       "latitude": 41.66975,
       "longitude": -91.346337,
       "map_thumbnail_image": 428,
+      "media": [
+        365
+      ],
       "name": "Friends Meetinghouse",
       "name_description": "The Quakers of West Branch valued peace, simplicity, integrity, and service to others.",
       "primary_image": 428,
       "type": "Church",
+      "services": []
+    },
+    {
+      "description": "The bronze, seven and a half foot tall statue “Isis, Goddess of Life” is the work of Belgian sculptor Auguste Puttemans, and was a gift from the people of Belgium in gratitude for Hoover's famine relief efforts on their behalf during the First World War.",
+      "geofence_buffer_in_meters": 10,
+      "id": 388,
+      "latitude": 41.66968813,
+      "longitude": -91.34693563,
+      "map_thumbnail_image": 429,
+      "media": [
+        336
+      ],
+      "name": "Statue of Isis",
+      "name_description": "The people of Belgium presented “Isis, Goddess of Life” to Hoover as a gift of gratitude.",
+      "primary_image": 429,
+      "type": "Statue",
       "services": []
     },
     {
@@ -2905,6 +2917,9 @@
       "latitude": 41.67087224,
       "longitude": -91.34569108,
       "map_thumbnail_image": 424,
+      "media": [
+        339
+      ],
       "name": "Visitor Center",
       "name_description": "Start your visit with an introduction to Herbert Hoover and his hometown of West Branch.",
       "primary_image": 424,
@@ -2919,34 +2934,15 @@
       ]
     },
     {
-      "description": "In 1869, carpenter David Mackey, who designed and built this humble two-story home. The cheerful yellow house would have been a familiar landmark to the young Herbert Hoover.  Just a few years after construction was complete, David’s wife Mary died, leaving the carpenter with a baby son named Charles. The young widower, one of the town's few Democrats, was elected the Mayor of West Branch in 1879. Of the homes in the core area dating back to Hoover's boyhood, this house and the Wright House, across the street, have been the least altered in appearance.",
-      "geofence_buffer_in_meters": 10,
-      "id": 404,
-      "latitude": 41.67083,
-      "longitude": -91.347448,
-      "map_thumbnail_image": 445,
-      "name": "David Mackey House",
-      "name_description": "David Mackey’s cheerful yellow home would have been a familiar landmark to young Herbert.",
-      "type": "Residence"
-    },
-    {
-      "description": "For thirty-six years Dr. L.J. Leech, a Civil War veteran and graduate of Iowa State University, had lived in the Laban Miles House next door; renting it at first in 1884, and then buying it two years later when the bank foreclosed on the home. By 1920, the well-liked country doctor and Iowa legislator decided to have a new home built for himself.",
-      "geofence_buffer_in_meters": 10,
-      "id": 399,
-      "latitude": 41.6706899185961,
-      "longitude": -91.3464125990868,
-      "map_thumbnail_image": 440,
-      "name": "L.J. Leech House",
-      "name_description": "After years of renting next door, well-liked country doctor L.J. Leech built a new home for himself.",
-      "type": "Office"
-    },
-    {
       "description": "Jesse Hoover owned and operated a blacksmith shop from 1871 to 1878. Although there were other smithies in town, Jesse earned a reputation as a good-natured, fair, and industrious businessman. Skilled and ambitious, he advertised to farmers, “Horse shoeing and plow work a specialty. Also dealer in all kinds of pumps. Prices to suit the times.”",
       "geofence_buffer_in_meters": 10,
       "id": 385,
       "latitude": 41.670435,
       "longitude": -91.347062,
       "map_thumbnail_image": 426,
+      "media": [
+        380
+      ],
       "name": "Blacksmith Shop",
       "name_description": "Hoover’s father, a blacksmith, earned a reputation as a fair and hard working shop owner.",
       "primary_image": 426,
@@ -2954,43 +2950,34 @@
       "services": []
     },
     {
-      "description": "Herbert Hoover recalled, “Iowa in those years was filled with days of school, and who does not remember with a glow, some gentle woman, who with infinite patience and kindness, drilled into us those foundations of all we know today.”",
+      "description": "In the years following his presidency, Herbert and Lou Hoover restored the president's humble birthplace, which he called \"physical proof of the unbounded opportunity of American life.\" The small spaces and dearth of material possession reflect an ethic of thrift, and the cottage's status as a starter home for a young family. Antique furnishings from the mid and late 19th century represent common household items for a simply furnished two room rural home.",
       "geofence_buffer_in_meters": 10,
-      "id": 386,
-      "latitude": 41.670562,
-      "longitude": -91.347367,
-      "map_thumbnail_image": 427,
-      "name": "Schoolhouse",
-      "name_description": "West Branch's largely Quaker population valued education as a way to make good, productive citizens.",
-      "primary_image": 427,
-      "type": "School",
+      "id": 384,
+      "latitude": 41.67027117,
+      "longitude": -91.34686857,
+      "map_thumbnail_image": 425,
+      "media": [
+        337
+      ],
+      "name": "Birthplace Cottage",
+      "name_description": "Hoover called his modest birthplace \"physical proof of the unbounded opportunity of American life.\"",
+      "primary_image": 425,
+      "type": "Home",
       "services": []
     },
     {
-      "description": "The bronze, seven and a half foot tall statue “Isis, Goddess of Life” is the work of Belgian sculptor Auguste Puttemans, and was a gift from the people of Belgium in gratitude for Hoover's famine relief efforts on their behalf during the First World War.",
+      "description": "For thirty-six years Dr. L.J. Leech, a Civil War veteran and graduate of Iowa State University, had lived in the Laban Miles House next door; renting it at first in 1884, and then buying it two years later when the bank foreclosed on the home. By 1920, the well-liked country doctor and Iowa legislator decided to have a new home built for himself.",
       "geofence_buffer_in_meters": 10,
-      "id": 388,
-      "latitude": 41.66968813,
-      "longitude": -91.34693563,
-      "map_thumbnail_image": 429,
-      "name": "Statue of Isis",
-      "name_description": "The people of Belgium presented “Isis, Goddess of Life” to Hoover as a gift of gratitude.",
-      "primary_image": 429,
-      "type": "Statue",
-      "services": []
-    },
-    {
-      "description": "Herbert Hoover wrote of West Branch, \"My grandparents and my parents came here in a covered wagon. In this community they toiled and worshipped God. The most formative years of my boyhood were spent here. My roots are in this soil.\"",
-      "geofence_buffer_in_meters": 10,
-      "id": 390,
-      "latitude": 41.66816539,
-      "longitude": -91.35199696,
-      "map_thumbnail_image": 431,
-      "name": "Gravesite of President and Mrs. Hoover",
-      "name_description": "The president’s gravesite overlooks his birthplace, a reminder of his simple beginnings.",
-      "primary_image": 431,
-      "type": "Graves",
-      "services": []
+      "id": 399,
+      "latitude": 41.67068992,
+      "longitude": -91.3464126,
+      "map_thumbnail_image": 440,
+      "media": [
+        372
+      ],
+      "name": "L.J. Leech House",
+      "name_description": "After years of renting next door, well-liked country doctor L.J. Leech built a new home for himself.",
+      "type": "Office"
     },
     {
       "description": "In 1871 young Jesse Hoover constructed a blacksmith and wagon repair shop here on the corner of Penn and Downey streets. His business thrived in the rapidly growing village. In 1878 Jesse sold both his shop and the small cottage he had built across Penn Street, and opened a farm implement business a few blocks away on Main Street. In 1888 the original building was moved to another part of town, and was subsequently lost to history.",
@@ -3017,34 +3004,31 @@
       "type": "Exhibit"
     },
     {
-      "description": "Hannah Varney built this house in 1899 shortly after divorcing her husband. The West Branch Times described the house as being of \"fine appearance and finished in modern style.\" After living in the house with her six children for less than one year, Hannah Varney moved to Iowa City and married Robert Ward. She left the house to her daughters, Cora and Clara, who lived in it until 1915. In 1967 the National Park Service moved the Hannah Varney House from its original location on the lot just south of where it now stands on Downey Street.",
+      "description": "Herbert Hoover wrote of West Branch, \"My grandparents and my parents came here in a covered wagon. In this community they toiled and worshipped God. The most formative years of my boyhood were spent here. My roots are in this soil.\"",
       "geofence_buffer_in_meters": 10,
-      "id": 398,
-      "latitude": 41.6705196164367,
-      "longitude": -91.3464313745499,
-      "map_thumbnail_image": 439,
-      "name": "Hannah Varney House",
-      "name_description": "The newspaper described Hannah Varney’s house as of \"fine appearance and finished in modern style.\"",
-      "type": "Office"
-    },
-    {
-      "description": "The 81 acres of tallgrass prairie reconstructed here offer a glimpse of an Iowa landscape that had almost vanished by the time Herbert Hoover's grandparents moved here in 1854. Prior to the settlement of West Branch, prairie covered 85 percent of Iowa. Trees were scarce until planted; the Hoovers imported lumber from farther north for construction of the president’s birthplace. Tall native grasses, sprinkled with brilliantly colored wildflowers once covered these rolling hills for as far as the eye could see.",
-      "geofence_buffer_in_meters": 10,
-      "id": 395,
-      "latitude": 41.6676644837336,
-      "longitude": -91.3512325286865,
-      "map_thumbnail_image": 436,
-      "name": "Tallgrass Prairie at the Observation Deck",
-      "name_description": "The tallgrass prairie provides a quiet and dignified setting to commemorate the life of Herbert Hoover. ",
-      "type": "Trailhead"
+      "id": 390,
+      "latitude": 41.66816539,
+      "longitude": -91.35199696,
+      "map_thumbnail_image": 431,
+      "media": [
+        358
+      ],
+      "name": "Gravesite of President and Mrs. Hoover",
+      "name_description": "The president’s gravesite overlooks his birthplace, a reminder of his simple beginnings.",
+      "primary_image": 431,
+      "type": "Graves",
+      "services": []
     },
     {
       "description": "In 1951 Herbert Hoover became the first recipient of the prestigious Iowa Award, which is bestowed to “recognize the outstanding service of Iowans in the fields of science, medicine, law, religion, social welfare education, agriculture, industry, government and other public service.” Only 12 other Iowans have received this award.",
       "geofence_buffer_in_meters": 10,
       "id": 394,
-      "latitude": 41.6697041633829,
-      "longitude": -91.3468819856644,
+      "latitude": 41.66970416,
+      "longitude": -91.34688199,
       "map_thumbnail_image": 435,
+      "media": [
+        374
+      ],
       "name": "Iowa Award",
       "name_description": "In 1951 the state of Iowa honored Herbert Hoover with its highest citizen award.",
       "type": "Plaque"
@@ -3053,12 +3037,29 @@
       "description": "The South Downey Street Bridge extends across a tributary of the West Branch of the Wapsinonoc Creek. When Herbert Hoover was a boy, it was just a small stream of water trickling through marshy wetlands. Young Herbert and the neighborhood kids took their willow fishing poles about a quarter mile east to catch sunfish and catfish in the main creek.",
       "geofence_buffer_in_meters": 10,
       "id": 396,
-      "latitude": 41.6699936804532,
-      "longitude": -91.3466472923756,
+      "latitude": 41.66999368,
+      "longitude": -91.34664729,
       "map_thumbnail_image": 437,
+      "media": [
+        329
+      ],
       "name": "Hoover Creek at the South Downey Street Bridge",
       "name_description": "The South Downey Street Bridge crosses a small tributary of the West Branch of the Wapsinonoc Creek.",
       "type": "Bridge"
+    },
+    {
+      "description": "The 81 acres of tallgrass prairie reconstructed here offer a glimpse of an Iowa landscape that had almost vanished by the time Herbert Hoover's grandparents moved here in 1854. Prior to the settlement of West Branch, prairie covered 85 percent of Iowa. Trees were scarce until planted; the Hoovers imported lumber from farther north for construction of the president’s birthplace. Tall native grasses, sprinkled with brilliantly colored wildflowers once covered these rolling hills for as far as the eye could see.",
+      "geofence_buffer_in_meters": 10,
+      "id": 395,
+      "latitude": 41.66766448,
+      "longitude": -91.35123253,
+      "map_thumbnail_image": 436,
+      "media": [
+        382
+      ],
+      "name": "Tallgrass Prairie at the Observation Deck",
+      "name_description": "The tallgrass prairie provides a quiet and dignified setting to commemorate the life of Herbert Hoover. ",
+      "type": "Trailhead"
     },
     {
       "description": "Amanda Garvin was a single 35-year old woman when she bought this property in 1870 for $90.00. She had this cottage built by 1872. The Garvin house is a wonderful example of the Gothic Revival style with its steeply pitched roof, gingerbread bargeboard trim, and ornamental arches framing the open front porch. By 1878, Miss Garvin was renting her cottage to tenants. During the fifteen years she owned the property, she mortgaged it several times but lost the home to foreclosure in 1885.",
@@ -3069,17 +3070,6 @@
       "map_thumbnail_image": 442,
       "name": "Amanda Garvin House",
       "name_description": "Amanda Garvin’s house with its ornamented arches is an example of Gothic Revival style.",
-      "type": "Office"
-    },
-    {
-      "description": "Charles E. Smith was a carpenter and a Civil War veteran. In 1903, he completed his dream home for himself and his wife, Deborah, atop Cooks Hill where each spring, he would tap his maple trees to make maple syrup. The National Park Service relocated it here in 1969.",
-      "geofence_buffer_in_meters": 10,
-      "id": 402,
-      "latitude": 41.670704,
-      "longitude": -91.34692,
-      "map_thumbnail_image": 443,
-      "name": "C.E. Smith House",
-      "name_description": "A Methodist Church rang its bells Sunday mornings where C.E. Smith’s house now stands.",
       "type": "Office"
     },
     {
@@ -3358,6 +3348,44 @@
       "type": "Bank"
     },
     {
+      "description": "Herbert Hoover recalled, “Iowa in those years was filled with days of school, and who does not remember with a glow, some gentle woman, who with infinite patience and kindness, drilled into us those foundations of all we know today.”",
+      "geofence_buffer_in_meters": 10,
+      "id": 386,
+      "latitude": 41.670562,
+      "longitude": -91.347367,
+      "map_thumbnail_image": 427,
+      "media": [
+        366
+      ],
+      "name": "Schoolhouse",
+      "name_description": "West Branch's largely Quaker population valued education as a way to make good, productive citizens.",
+      "primary_image": 427,
+      "type": "School",
+      "services": []
+    },
+    {
+      "description": "In 1869, carpenter David Mackey, who designed and built this humble two-story home. The cheerful yellow house would have been a familiar landmark to the young Herbert Hoover.  Just a few years after construction was complete, David’s wife Mary died, leaving the carpenter with a baby son named Charles. The young widower, one of the town's few Democrats, was elected the Mayor of West Branch in 1879. Of the homes in the core area dating back to Hoover's boyhood, this house and the Wright House, across the street, have been the least altered in appearance.",
+      "geofence_buffer_in_meters": 10,
+      "id": 404,
+      "latitude": 41.67083,
+      "longitude": -91.347448,
+      "map_thumbnail_image": 445,
+      "name": "David Mackey House",
+      "name_description": "David Mackey’s cheerful yellow home would have been a familiar landmark to young Herbert.",
+      "type": "Residence"
+    },
+    {
+      "description": "Charles E. Smith was a carpenter and a Civil War veteran. In 1903, he completed his dream home for himself and his wife, Deborah, atop Cooks Hill where each spring, he would tap his maple trees to make maple syrup. The National Park Service relocated it here in 1969.",
+      "geofence_buffer_in_meters": 10,
+      "id": 402,
+      "latitude": 41.670704,
+      "longitude": -91.34692,
+      "map_thumbnail_image": 443,
+      "name": "C.E. Smith House",
+      "name_description": "A Methodist Church rang its bells Sunday mornings where C.E. Smith’s house now stands.",
+      "type": "Office"
+    },
+    {
       "description": "Boy Scouts built a picnic shelter in 1953 as a tribute to Herbert Hoover's long legacy of service to youth around the world. The next year, the former president accepted an invitation from the Iowa legislature to celebrate his 80th birthday in West Branch. After a speech at the new Herbert Hoover Elementary School, where an audience of 20,000 greeted him, Hoover arrived at the picnic shelter for a birthday lunch of fried chicken, corn, potato salad, and cake.",
       "geofence_buffer_in_meters": 10,
       "id": 411,
@@ -3376,6 +3404,9 @@
       "latitude": 41.67026116,
       "longitude": -91.34698927,
       "map_thumbnail_image": 433,
+      "media": [
+        383
+      ],
       "name": "Birthplace Cottage Back Porch and Garden",
       "name_description": "The Hoovers used their porch and yard as extensions of their modest dwelling.",
       "primary_image": 433
@@ -3387,6 +3418,9 @@
       "latitude": 41.66900291,
       "longitude": -91.34777784,
       "map_thumbnail_image": 430,
+      "media": [
+        361
+      ],
       "name": "Herbert Hoover Presidential Library and Museum (incl. WS)",
       "name_description": "Museum galleries tell of the triumphs and tragedies of Hoover’s long career in public service. ",
       "primary_image": 430,
@@ -3394,12 +3428,29 @@
       "services": []
     },
     {
+      "description": "Hannah Varney built this house in 1899 shortly after divorcing her husband. The West Branch Times described the house as being of \"fine appearance and finished in modern style.\" After living in the house with her six children for less than one year, Hannah Varney moved to Iowa City and married Robert Ward. She left the house to her daughters, Cora and Clara, who lived in it until 1915. In 1967 the National Park Service moved the Hannah Varney House from its original location on the lot just south of where it now stands on Downey Street.",
+      "geofence_buffer_in_meters": 10,
+      "id": 398,
+      "latitude": 41.67051962,
+      "longitude": -91.34643137,
+      "map_thumbnail_image": 439,
+      "media": [
+        357
+      ],
+      "name": "Hannah Varney House",
+      "name_description": "The newspaper described Hannah Varney’s house as of \"fine appearance and finished in modern style.\"",
+      "type": "Office"
+    },
+    {
       "description": "In 1870, Laban Miles had married Hulda Hoover’s younger sister, Agnes Minthorn, just five days after Hulda and Jesse Hoover were wed. By 1875 they were settling down in this house, built sometime between 1869 and 1872, with a family of their own.",
       "geofence_buffer_in_meters": 10,
       "id": 400,
-      "latitude": 41.6709063018664,
-      "longitude": -91.3463965058327,
+      "latitude": 41.6709063,
+      "longitude": -91.34639651,
       "map_thumbnail_image": 441,
+      "media": [
+        376
+      ],
       "name": "Laban Miles House",
       "name_description": "There was much visiting back and forth between the Hoovers and their friends the Miles family.",
       "type": "Office"
@@ -3445,19 +3496,31 @@
       "primary_image": 425,
       "sites": [
         {
-          "id": 384
+          "id": 384,
+          "media": [
+            337
+          ]
         },
         {
           "id": 391
         },
         {
-          "id": 385
+          "id": 385,
+          "media": [
+            380
+          ]
         },
         {
-          "id": 386
+          "id": 386,
+          "media": [
+            366
+          ]
         },
         {
-          "id": 387
+          "id": 387,
+          "media": [
+            365
+          ]
         },
         {
           "id": 403
