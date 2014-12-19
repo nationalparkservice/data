@@ -3462,16 +3462,6 @@
         {
           "id": 18
         }
-      ],
-      "tours_sites": [
-        {
-          "id": 3,
-          "primary_audio": 13
-        },
-        {
-          "id": 4,
-          "primary_audio": 13
-        }
       ]
     },
     {
@@ -3532,23 +3522,6 @@
           "media": [
             75
           ]
-        }
-      ],
-      "tours_sites": [
-        {
-          "id": 1,
-          "primary_audio": 13
-        },
-        {
-          "id": 1
-        },
-        {
-          "id": 2,
-          "primary_audio": 13
-        },
-        {
-          "id": 3,
-          "primary_audio": 13
         }
       ]
     }
