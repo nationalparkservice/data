@@ -2838,7 +2838,7 @@
       "type": "INFORMATION",
       "pages": [
         {
-          "description": "Buildings are open daily from 9 a.m. to 5 p.m., except on Thanksgiving Day, December 25, and January 1. \n\nThe grounds of the historic site are open 24 hours. There is no charge to visit Herbert Hoover National Historic Site. \n\nHerbert Hoover Presidential Library and Museum charges adults a $6 admission fee. \n\nhttp://www.nps.gov/heho/index.htm \n\nhttps://www.facebook.com/HerbertHooverNHS\n\nhttps://twitter.com/HooverNPS",
+          "description": "Buildings are open daily from 9 a.m. to 5 p.m., except on Thanksgiving Day, December 25, and January 1. \n\nThe grounds of the historic site are open 24 hours. There is no charge to visit Herbert Hoover National Historic Site. \n\nHerbert Hoover Presidential Library and Museum charges adults a $6 admission fee. \n\nhttp://www.nps.gov/heho/index.htm ",
           "name": "Park Info",
           "subsections": [
             {
@@ -3977,7 +3977,8 @@
         {
           "id": 414
         }
-      ]
+      ],
+      "tours_sites": []
     }
   ],
   "urls": {
