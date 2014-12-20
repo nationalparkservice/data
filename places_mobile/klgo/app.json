@@ -3069,24 +3069,24 @@
           "name": "Hours"
         }
       ],
-      "latitude": 59.462472,
-      "longitude": -135.3204587,
+      "latitude": 59.462475,
+      "longitude": -135.320556,
       "map_thumbnail_image": 125,
       "name": "Skagway Town Overlook",
       "name_description": "Located at Mile 2 on the Dyea Rd, this overlook provides an amazing panoramic view of town and the surrounding landscape.",
       "type": "Overlook",
       "services": [
         {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        },
-        {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
           "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
+        },
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
         }
       ]
     },
