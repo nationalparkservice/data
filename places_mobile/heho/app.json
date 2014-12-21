@@ -3737,45 +3737,6 @@
       "services": []
     },
     {
-      "audio_description": "Schoolhouse – Exterior\n333 words\n\nSchoolhouse – Exterior.  2 ½ minutes.  First of two descriptions at this location.  The schoolhouse is located about 50 feet to the northwest of the blacksmith shop off Penn Street.  The small wooden building is painted a creamy off-white.  The façade is 18 feet wide, with two rectangular windows on either side of a central doorway.  The grey shingled roof rises to a peak above the doorway, and a brick chimney pokes up from the back of the modest structure.  \n\nTwo wooden walkways provide access from the main boardwalk that runs along the north side of Penn Street.  If you take the path directly in front of the building, you will need to climb four steps up to the building’s entrance.  A second walkway about 20 feet to the right of that one provides access via ramp.  The ramp heads north for about 30 feet and then turns west for another 20 feet along the front of the building.  A metal railing lines the second half of the ramp.  Watch your step on all walkways, especially during inclement weather, as the wood can be slippery when wet.\n\nTo the left of the main stairs, a small brown sign about 6 by 8 inches sticks up from the ground on a two-foot wooden post.  The following is printed in gold-colored lettering:\n\n“Schoolhouse – The early settlers of West Branch had a strong regard for education, and in 1853 they built this school.  It was used not only as a school but as a place of worship for the members of the Society of Friends.  Originally the building housed all of the West Branch students, but by the time Herbert Hoover’s older brother Theodore was registered here, enrollment had increased and it was used only as a classroom for the primary students.  Increasing membership in the Society of Friends also necessitated the building of a larger meetinghouse in 1857.”  End of text.\n\nThe interior of the schoolhouse is described briefly in the next message.\n\nEnd of message.\n\nSchoolhouse – Interior\n237 words\n\nSchoolhouse – Interior.  1 ¾ minutes.  Second of two descriptions at this location.  When you enter the schoolhouse, a wall directly in front of you forces you to turn right.  As you walk around the wall, you emerge into the back right corner of a one-room schoolhouse.  A wooden railing and Plexiglas barrier about three feet high prevents you from moving beyond the back corner of the room.      \n\nThe space is about 18 feet by 18 feet, with a worn wooden floor.  Dark wood wainscoting covers the lower two feet of the walls; the rest of the walls and ceiling are painted white.  The room is furnished with wood student desks in wrought iron frames arranged in rows.  Reading texts and penmanship books, along with slate boards, have been placed neatly on the desks. Two small shelves hanging on the left-hand wall hold additional history and science texts.  A larger wooden teacher’s desk sits at the front of the classroom with a globe and a more books lined up along its back edge.  Portraits of George Washington and Abraham Lincoln hang on either side of the front wall above the blackboard.\n\nAt the back of the room, a black metal stovepipe rises up toward the ceiling from a dull black potbelly stove and out the front of the room.  Six rectangular curtained windows around the space shed a diffuse light on the rustic classroom scene.\n\nEnd of message.\n",
-      "description": "Herbert Hoover recalled, “Iowa in those years was filled with days of school, and who does not remember with a glow, some gentle woman, who with infinite patience and kindness, drilled into us those foundations of all we know today.”",
-      "geofence_buffer_in_meters": 10,
-      "id": 386,
-      "information": [
-        {
-          "description": "By 1853, enough people lived in West Branch to build and support a public school. Hard work was a core value of the townsfolk, but so too was the importance of education for both boys and girls—Herbert Hoover’s own mother, Hulda had been a teacher before she married. Because the Society of Friends raised much of the money for the construction of this one-room schoolhouse, it was also used as the town’s first Quaker meetinghouse.",
-          "name": "Emphasis On Education"
-        },
-        {
-          "description": "In 1869, after the town built a larger schoolhouse, this building was used as a classroom for the primary department, or youngest grades. Herbert Hoover entered public school in 1880 at age 5 and spent three years in the primary department. It is unknown if Hoover’s class met in this building.",
-          "name": "The Growing School"
-        },
-        {
-          "description": "Miss Lizzie Chandler taught “Bertie” Hoover for first and second grade. Each day, Miss Chandler filled her blackboard with lessons of arithmetic and spelling. Students shared reading books, and practiced penmanship on slate chalkboards. Herbert also came to admire presidents George Washington and Abraham Lincoln, whose portraits hang on the schoolhouse walls, as men of exceptional character.",
-          "name": "Reading, Writing, And Arithmetic"
-        },
-        {
-          "description": "Heat Stove",
-          "name": "Heat Stove"
-        },
-        {
-          "description": "The Hoovers’ emphasis on education paid off. In 1891, 17-year old Bert Hoover enrolled at Stanford University, determined to become a mining engineer.",
-          "name": "Pursuit of Higher Education"
-        }
-      ],
-      "latitude": 41.670562,
-      "longitude": -91.347367,
-      "map_thumbnail_image": 427,
-      "media": [
-        366
-      ],
-      "name": "Schoolhouse",
-      "name_description": "West Branch's largely Quaker population valued education as a way to make good, productive citizens.",
-      "primary_image": 366,
-      "type": "School",
-      "services": []
-    },
-    {
       "audio_description": "David Mackey House\n197 words\n\nMackey House.  1 ½ minutes.  The Mackey House stands on the east side of Poplar Street, just south of the park entrance at Wetherell Street.  The house is about eight feet from the boardwalk, but it’s separated by a white picket fence 3 ½ feet high.  The Mackey House is not open to the public.\n\nThe narrow plain yellow house is two stories tall and 12 feet across.  Dark grey trim outlines the four front-facing windows and door.  A brown shingled awning overhangs the doorway and brown shingles cover the building’s pitched roof.  A single brick chimney perches atop the plain wooden house.\n\nA small brown sign is affixed to the fence, just to the left of the gate.  Gold lettering on the 6-inch-by-8-inch sign reads:\n\n“The Mackey House – David Mackey, a local carpenter, built this house between 1869 and 1871.  He lived in this home until 1876.  Mackey also ran a butcher shop and served as Mayor of West Branch in 1879 and Postmaster in 1885.\n\n“Built several years before his birth, this would have been a familiar landmark to young Herbert Hoover.  Adaptive restoration of the Mackey House was completed in 1985.”  \n\nEnd of message.\n",
       "description": "In 1869, carpenter David Mackey, who designed and built this humble two-story home. The cheerful yellow house would have been a familiar landmark to the young Herbert Hoover.  Just a few years after construction was complete, David’s wife Mary died, leaving the carpenter with a baby son named Charles. The young widower, one of the town's few Democrats, was elected the Mayor of West Branch in 1879. Of the homes in the core area dating back to Hoover's boyhood, this house and the Wright House, across the street, have been the least altered in appearance.",
       "geofence_buffer_in_meters": 10,
@@ -3885,6 +3846,45 @@
       "name": "Hoover Nature Trail",
       "name_description": "The Hoover Nature Trail follows the railroad that passed through the president’s hometown.",
       "type": "Trailhead"
+    },
+    {
+      "audio_description": "Schoolhouse – Exterior\n333 words\n\nSchoolhouse – Exterior.  2 ½ minutes.  First of two descriptions at this location.  The schoolhouse is located about 50 feet to the northwest of the blacksmith shop off Penn Street.  The small wooden building is painted a creamy off-white.  The façade is 18 feet wide, with two rectangular windows on either side of a central doorway.  The grey shingled roof rises to a peak above the doorway, and a brick chimney pokes up from the back of the modest structure.  \n\nTwo wooden walkways provide access from the main boardwalk that runs along the north side of Penn Street.  If you take the path directly in front of the building, you will need to climb four steps up to the building’s entrance.  A second walkway about 20 feet to the right of that one provides access via ramp.  The ramp heads north for about 30 feet and then turns west for another 20 feet along the front of the building.  A metal railing lines the second half of the ramp.  Watch your step on all walkways, especially during inclement weather, as the wood can be slippery when wet.\n\nTo the left of the main stairs, a small brown sign about 6 by 8 inches sticks up from the ground on a two-foot wooden post.  The following is printed in gold-colored lettering:\n\n“Schoolhouse – The early settlers of West Branch had a strong regard for education, and in 1853 they built this school.  It was used not only as a school but as a place of worship for the members of the Society of Friends.  Originally the building housed all of the West Branch students, but by the time Herbert Hoover’s older brother Theodore was registered here, enrollment had increased and it was used only as a classroom for the primary students.  Increasing membership in the Society of Friends also necessitated the building of a larger meetinghouse in 1857.”  End of text.\n\nThe interior of the schoolhouse is described briefly in the next message.\n\nEnd of message.\n\nSchoolhouse – Interior\n237 words\n\nSchoolhouse – Interior.  1 ¾ minutes.  Second of two descriptions at this location.  When you enter the schoolhouse, a wall directly in front of you forces you to turn right.  As you walk around the wall, you emerge into the back right corner of a one-room schoolhouse.  A wooden railing and Plexiglas barrier about three feet high prevents you from moving beyond the back corner of the room.      \n\nThe space is about 18 feet by 18 feet, with a worn wooden floor.  Dark wood wainscoting covers the lower two feet of the walls; the rest of the walls and ceiling are painted white.  The room is furnished with wood student desks in wrought iron frames arranged in rows.  Reading texts and penmanship books, along with slate boards, have been placed neatly on the desks. Two small shelves hanging on the left-hand wall hold additional history and science texts.  A larger wooden teacher’s desk sits at the front of the classroom with a globe and a more books lined up along its back edge.  Portraits of George Washington and Abraham Lincoln hang on either side of the front wall above the blackboard.\n\nAt the back of the room, a black metal stovepipe rises up toward the ceiling from a dull black potbelly stove and out the front of the room.  Six rectangular curtained windows around the space shed a diffuse light on the rustic classroom scene.\n\nEnd of message.\n",
+      "description": "Herbert Hoover recalled, “Iowa in those years was filled with days of school, and who does not remember with a glow, some gentle woman, who with infinite patience and kindness, drilled into us those foundations of all we know today.”",
+      "geofence_buffer_in_meters": 10,
+      "id": 386,
+      "information": [
+        {
+          "description": "By 1853, enough people lived in West Branch to build and support a public school. Hard work was a core value of the townsfolk, but so too was the importance of education for both boys and girls—Herbert Hoover’s own mother, Hulda had been a teacher before she married. Because the Society of Friends raised much of the money for the construction of this one-room schoolhouse, it was also used as the town’s first Quaker meetinghouse.",
+          "name": "Emphasis On Education"
+        },
+        {
+          "description": "In 1869, after the town built a larger schoolhouse, this building was used as a classroom for the primary department, or youngest grades. Herbert Hoover entered public school in 1880 at age 5 and spent three years in the primary department. It is unknown if Hoover’s class met in this building.",
+          "name": "The Growing School"
+        },
+        {
+          "description": "Miss Lizzie Chandler taught “Bertie” Hoover for first and second grade. Each day, Miss Chandler filled her blackboard with lessons of arithmetic and spelling. Students shared reading books, and practiced penmanship on slate chalkboards. Herbert also came to admire presidents George Washington and Abraham Lincoln, whose portraits hang on the schoolhouse walls, as men of exceptional character.",
+          "name": "Reading, Writing, And Arithmetic"
+        },
+        {
+          "description": "Heat Stove",
+          "name": "Heat Stove"
+        },
+        {
+          "description": "The Hoovers’ emphasis on education paid off. In 1891, 17-year old Bert Hoover enrolled at Stanford University, determined to become a mining engineer.",
+          "name": "Pursuit of Higher Education"
+        }
+      ],
+      "latitude": 41.670562,
+      "longitude": -91.347367,
+      "map_thumbnail_image": 427,
+      "media": [
+        366
+      ],
+      "name": "Schoolhouse",
+      "name_description": "West Branch's largely Quaker population valued education as a way to make good, productive citizens.",
+      "primary_image": 366,
+      "type": "School",
+      "services": []
     },
     {
       "audio_description": "Patterson-Leech Building\n191 words\n\nPatterson-Leech Building.  1 ½ minutes.  The Patterson-Leech Building stands between the Veterans Memorial Building and the Gruwell-Crew Building on the north side of West Main Street.  Unlike most of the historic structures along Main Street, there is a small space—a foot or two wide—between the Patterson-Leech Building and its neighbors.  The building currently houses an antique shop.\n\nThe narrow wooden structure appears time- and weather-worn:  Some of the clapboard planks making up the second-floor façade are warped and uneven.  And the building as a whole seems to list slightly to the right.  Three wooden steps painted red lead up to the front door; there are handrails on both sides.  The first-floor is painted pale blue and trimmed with white.  There are two oversized four-paned windows on either side of the central door.  The second floor is mainly jade green, with blue and white around the windows.  The edges of a pitched roof poke out behind either side of the square-topped false façade.\n\nIt’s two small steps up from the street to the sidewalk here.  Or you can use the ramp at the corner of Poplar Street.\n End of message.\n",
