@@ -1474,22 +1474,6 @@
       "type": "image"
     },
     {
-      "id": 339,
-      "image_1080": "339_1080x810.jpg",
-      "image_1536": "339_1536x1152.jpg",
-      "image_350": "339_350x260.jpg",
-      "image_480": "339_480x320.jpg",
-      "image_640": "339_640x504.jpg",
-      "image_768": "339_768x480.jpg",
-      "image_960": "339_960x640.jpg",
-      "name": "Visitor Center",
-      "relative_url": "339.jpg",
-      "relative_url_@2x": "339@2x.jpg",
-      "relative_url_tablet": "339_tablet.jpg",
-      "relative_url_tablet_@2x": "339_tablet_2x.jpg",
-      "type": "image"
-    },
-    {
       "id": 340,
       "image_1080": "340_1080x810.jpg",
       "image_1536": "340_1536x1152.jpg",
@@ -1647,6 +1631,24 @@
       "relative_url_@2x": "373@2x.jpg",
       "relative_url_tablet": "373_tablet.jpg",
       "relative_url_tablet_@2x": "373_tablet_2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "Alt ext example for the visitor center",
+      "caption": "Caption goes here",
+      "id": 339,
+      "image_1080": "339_1080x810.jpg",
+      "image_1536": "339_1536x1152.jpg",
+      "image_350": "339_350x260.jpg",
+      "image_480": "339_480x320.jpg",
+      "image_640": "339_640x504.jpg",
+      "image_768": "339_768x480.jpg",
+      "image_960": "339_960x640.jpg",
+      "name": "Visitor Center",
+      "relative_url": "339.jpg",
+      "relative_url_@2x": "339@2x.jpg",
+      "relative_url_tablet": "339_tablet.jpg",
+      "relative_url_tablet_@2x": "339_tablet_2x.jpg",
       "type": "image"
     },
     {
