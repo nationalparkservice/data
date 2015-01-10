@@ -3676,17 +3676,6 @@
       "type": "Store"
     },
     {
-      "description": "In 1904 Huldah Enlow donated the land and building for a public library. Later, an anonymous monetary gift financed construction of an expansion. In 1963, the front entrance was enclosed and in 1974, the basement was converted into a children's library. It remained a library until 1993.",
-      "geofence_buffer_in_meters": 10,
-      "id": 430,
-      "latitude": 41.6712709461022,
-      "longitude": -91.347895860672,
-      "map_thumbnail_image": 471,
-      "name": "Enlow Building (1904), 124 W. Main Street",
-      "name_description": "In 1904 Huldah Enlow donated land and a building for public library.",
-      "type": "Library"
-    },
-    {
       "audio_description": "Old Post Office Building \n182 words\n\nOld Post Office Building.  1 ¼ minutes.  This is the site of the Old West Branch Post Office Building, near the southeast corner of Poplar and West Main Streets.  The Old Post Office collapsed in 2010 and the current structure was erected the same year.  \n\nA large brick archway spans nearly the entire width of the 20-foot square brick façade.  At the apex of the arch, about 12 feet off the ground, is a keystone with the date 2010.  A flagpole with an American flag sticks straight up from just above the keystone past the top of the flat roofline.  \n\nThe building’s windows and front door are set back a few feet within the archway.  The door is on the right side as you face the building, and there are three tall windows to the left of it.  The window frames and door are painted dark green against a yellow background.\n\nIt’s just one step up from the street to the sidewalk here, and there’s a ramp at the corner of Poplar Street, to the right of the building.\n\nEnd of message.\n",
       "description": "Caleb H. Wickersham, postmaster of West Branch, contracted construction of this building in 1906. One year later, Wickersham signed the federal government to a 10 year lease to house the post office. The post office relocated in 1928 and in the ensuing years the building housed a number of different business. The Old Post Office collapsed during renovation in 2011. The present building incorporates bricks and design features, like the arch, from the Old Post Office in its facade.",
       "geofence_buffer_in_meters": 10,
@@ -3889,6 +3878,17 @@
       "services": []
     },
     {
+      "description": "In 1904 Huldah Enlow donated the land and building for a public library. Later, an anonymous monetary gift financed construction of an expansion. In 1963, the front entrance was enclosed and in 1974, the basement was converted into a children's library. It remained a library until 1993.",
+      "geofence_buffer_in_meters": 10,
+      "id": 430,
+      "latitude": 41.67127095,
+      "longitude": -91.34789586,
+      "map_thumbnail_image": 471,
+      "name": "Enlow Building (1904), 124 W. Main Street",
+      "name_description": "In 1904 Huldah Enlow donated land and a building for public library.",
+      "type": "Library"
+    },
+    {
       "audio_description": "Patterson-Leech Building\n191 words\n\nPatterson-Leech Building.  1 ½ minutes.  The Patterson-Leech Building stands between the Veterans Memorial Building and the Gruwell-Crew Building on the north side of West Main Street.  Unlike most of the historic structures along Main Street, there is a small space—a foot or two wide—between the Patterson-Leech Building and its neighbors.  The building currently houses an antique shop.\n\nThe narrow wooden structure appears time- and weather-worn:  Some of the clapboard planks making up the second-floor façade are warped and uneven.  And the building as a whole seems to list slightly to the right.  Three wooden steps painted red lead up to the front door; there are handrails on both sides.  The first-floor is painted pale blue and trimmed with white.  There are two oversized four-paned windows on either side of the central door.  The second floor is mainly jade green, with blue and white around the windows.  The edges of a pitched roof poke out behind either side of the square-topped false façade.\n\nIt’s two small steps up from the street to the sidewalk here.  Or you can use the ramp at the corner of Poplar Street.\n End of message.\n",
       "description": "In March 1890 Lavina Patterson opened a millinery shop here and lived with ther family upstairs. Dr. L.J. Leech moved his medical offices here after fire damaged the buildings across the street in 1895. It remained Dr. Leech's office until his death in 1937.",
       "geofence_buffer_in_meters": 10,
@@ -3899,17 +3899,6 @@
       "name": "Patterson-Leech Building (1890), 107 W. Main Street",
       "name_description": "In 1890 Lavina Patterson opened a millinery shop and lived with her family upstairs.",
       "type": "Shop"
-    },
-    {
-      "description": "This building's exterior has had only minor alterations since its construction in 1895. Originally Rich's Golden Rule general store occupied one side of the building and Dr. J. I. bailey's medical offices occupied the other. Over the years a bakery, dry cleaning and men's clothing store, furnace and tin shop, antique shop, and grocery store were located here.",
-      "geofence_buffer_in_meters": 10,
-      "id": 431,
-      "latitude": 41.6715855001847,
-      "longitude": -91.3457179069519,
-      "map_thumbnail_image": 472,
-      "name": "Rich and Bailey Block (1895), 109 E. Main Street",
-      "name_description": "In 1895 Rich’s general store occupied one side of the building and Dr. Bailey’s offices the other. ",
-      "type": "Store"
     },
     {
       "audio_description": "Graves of Jesse and Hulda Hoover\n221 words\n\nCemetery – Graves of Jesse and Hulda Hoover.  1 ½ minutes.  Herbert Hoover’s parents Jesse and Hulda Hoover are buried in this cemetery overlooking the town of West Branch.  The two gravestones stand next to each other several rows in from the road that circles this section of the cemetery.  As you face the grave markers, Jesse Hoover’s is on the left.  It’s about three feet high and a couple of inches thick, with a rounded top.  The passage of time has caused the white stone to blacken a bit around the edges.  The inscription reads:\n\n“Jesse C. Hoover – Died December 13, 1880, Aged 34 Years, 3 Months, & 11 Days.  Come unto me, all ye that labour and are heavy laden, and I will give you rest. – Matthew 11, 28”\n\nAbove the inscription, a circular relief is carved into the stone.  The image depicts a hand holding an open book.\n\nHulda Hoover’s tombstone is a foot-and-a-half tall, and several inches thick.  The top is gently rounded, but flatter than her husband’s.  The inscription reads:\n\n“Hulda R. Hoover – Died 2 Month 24, 1884, Aged 35 Years, 9 Months, 20 Days.  For if we believe that Jesus died and rose again, even so them which sleep in Jesus will God bring with him.”\n\nThe worn white stone is otherwise unembellished.  \n\nEnd of message.\n",
@@ -3932,6 +3921,17 @@
       "name": "Graves of Jesse and Hulda Hoover - West Branch Cemetery",
       "name_description": "Hoover's parents Jesse and Hulda are buried among relatives at the city cemetery.",
       "type": "Graves"
+    },
+    {
+      "description": "This building's exterior has had only minor alterations since its construction in 1895. Originally Rich's Golden Rule general store occupied one side of the building and Dr. J. I. bailey's medical offices occupied the other. Over the years a bakery, dry cleaning and men's clothing store, furnace and tin shop, antique shop, and grocery store were located here.",
+      "geofence_buffer_in_meters": 10,
+      "id": 431,
+      "latitude": 41.6715855,
+      "longitude": -91.34571791,
+      "map_thumbnail_image": 472,
+      "name": "Rich and Bailey Block (1895), 109 E. Main Street",
+      "name_description": "In 1895 Rich’s general store occupied one side of the building and Dr. Bailey’s offices the other. ",
+      "type": "Store"
     }
   ],
   "tours": [
