@@ -211,6 +211,11 @@
       "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun",
       "home_description": "The visitor center is open from 9-5pm",
       "title": "Schedule a tour"
+    },
+    {
+      "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun",
+      "home_description": "Test event for peekouts",
+      "title": "Test event"
     }
   ],
   "map_thumbnail_zoom": 16,
