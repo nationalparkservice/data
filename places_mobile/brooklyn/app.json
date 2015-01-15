@@ -434,7 +434,52 @@
       "primary_image": 142
     }
   ],
-  "tours": [],
+  "tours": [
+    {
+      "description": "Brooklyn tour around Gowanus, Carroll Gardens, Red Hook\n",
+      "id": 4,
+      "name": "Brooklyn",
+      "primary_image": 141,
+      "sites": [
+        {
+          "id": 60,
+          "media": [
+            134,
+            135
+          ]
+        },
+        {
+          "id": 61,
+          "media": [
+            135,
+            136
+          ]
+        },
+        {
+          "id": 62,
+          "media": [
+            137,
+            138
+          ]
+        },
+        {
+          "id": 63,
+          "media": [
+            138,
+            139
+          ]
+        },
+        {
+          "id": 64,
+          "media": [
+            130,
+            140
+          ]
+        }
+      ],
+      "tours_sites": []
+    }
+  ],
   "urls": {
     "base_url_icon": "http://nationalparkservice.github.io/data/places_mobile/icons/",
     "base_url_media": "http://nationalparkservice.github.io/data/places_mobile/brooklyn/media/"
