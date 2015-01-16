@@ -304,7 +304,7 @@
   "searches": [],
   "sites": [
     {
-      "geofence_buffer_in_meters": 5,
+      "geofence_buffer_in_meters": 10,
       "id": 60,
       "latitude": 40.677429,
       "longitude": -73.986257,
@@ -317,7 +317,7 @@
       "primary_image": 133
     },
     {
-      "geofence_buffer_in_meters": 30,
+      "geofence_buffer_in_meters": 10,
       "id": 61,
       "latitude": 40.680303,
       "longitude": -73.995048,
