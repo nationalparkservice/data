@@ -3127,7 +3127,7 @@
     {
       "audio_description": "Birthplace Cottage – Exterior\n275 words\n\nBirthplace Cottage – Exterior.  Two minutes.  First of three descriptions at this location.  Herbert Hoover’s birthplace is a one-story wooden house with a grey shingled roof that angles up sharply from the façade.  A single brick chimney emerges from the peak.  The exterior is painted white, and a central doorway is flanked by two 12-paned rectangular windows.  The house faces east and is about 20 feet wide across the front.\n\nA white picket fence surrounds the house and yard on the north and east sides.  A wooden walkway leads from the main boardwalk to the front door through a gate in the east side of the fence.  The walkway is approximately 20 feet long.  Watch your step, as the walkway drops off a couple inches on either side to the grass lawn.  A flower bed to the left of the walkway adds color to the lawn in the spring and summer.\n\nTo the right of the gate, just inside the fence, a brown sign stands 3 feet off the ground at a 45-degree angle.  The sign is 11 inches wide and 8 inches high and printed with gold-colored lettering.  The text is transcribed in the following message.  You can also hear a brief description of the building’s interior in a subsequent message.\n\nAs you reach the cottage, there are two steps up to a tiny porch just 4 feet wide and 3 feet deep.  The porch is covered by a red wooden awning, and leafy vines climb white wooden latticework on either side.  Once on the porch, you’ll have to step up another inch or two at the threshold to enter the house.\n\nEnd of message.\n\n\nBirthplace Cottage – Interpretive Sign\n203 words\n\nBirthplace Cottage – Interpretive Sign.  1 ½ minutes.  Second of three descriptions at this location.  A brown sign mounted just inside the fence, to the right of the gate, is titled “Herbert Hoover’s Birthplace.”  There are no images on the sign—only text printed in gold-colored lettering.  The following quote appears below the title:\n\n“This cottage where I was born is physical proof of the unbounded opportunity of American life.”\n\nBelow that, the text continues:\n\n“In 1871, Jesse Hoover built this two-room cottage near his blacksmith shop and moved in with his wife, Hulda, and young son, Theodore.  Herbert Hoover was born here on August 10, 1874.  When “Bert” was two, his sister, Mary, was born.\n\n“This was the Hoovers’ first home, and although it was small it served the young family well.  During the warm months, the cook-stove was moved to an enclosure on the back porch, which became a summer kitchen.\n\n“In 1879, as Jesse prospered, the family moved to a larger, two-story house about one block south of here.  That home is no longer standing, but a plaque marks its location.\n\n“For more information, you may listen to an audio program on the back porch of the cottage.”\n\nEnd of message.\n\n\nBirthplace Cottage – Interior\n273 words\n\nBirthplace Cottage – Interior.  Two minute.  Third of three descriptions at this location.  Inside the Birthplace Cottage, you’ll find wooden walls painted white, and an 8-foot wooden-beamed ceiling, also painted white.  A rag rug covers the floor, thinly striped in faded tones of many colors. \n\nThe bedroom is on the left as you enter through the front door. A barrier blocks the lower half of the doorway to the bedroom. Inside the bedroom is a wood-framed bed with a wheeled trundle partially withdrawn from its underside.  Two black-and-white portraits in oval frames hang on the wall above the bed. At the bed’s foot is porcelain chamber pot. In the center of the room next to the bed is a wooden baby’s cradle. A wooded night stand against the far wall holds a porcelain water pitcher, wash basin, and soap dish. A bureau and sewing machine are against the wall on the left. The three exterior walls of the bedroom each have a white-curtained window.\n\nThe main room is furnished with a settee , dry sink, cupboard, pie safe, a few simple wooden chairs including a high chair, and a drop-leaf table.  A kerosene lamp, sundry kitchen items, clock, and books are among the meager possessions on display.  Some children’s blocks and a small wood pull-horse on wheels are the only toys.  A low barrier separates you from the furnishings but allows passage through the house.\n\nThere are five windows located around the room, and a door directly opposite the front door that leads to the back porch. Mind the short step down from the threshold when exiting through the back door.\n\nEnd of message.",
       "description": "In the years following his presidency, Herbert and Lou Hoover restored the president's humble birthplace, which he called \"physical proof of the unbounded opportunity of American life.\" The small spaces and dearth of material possession reflect an ethic of thrift, and the cottage's status as a starter home for a young family. Antique furnishings from the mid and late 19th century represent common household items for a simply furnished two room rural home.",
-      "geofence_buffer_in_meters": 10,
+      "geofence_buffer_in_meters": 19.44879969763841,
       "id": 384,
       "information": [
         {
@@ -3157,10 +3157,14 @@
         {
           "description": "The Hoovers placed their privy, probably a two-holer, in the corner of the lot away from the cistern but convenient to both the house and the blacksmith shop.",
           "name": "Privy"
+        },
+        {
+          "description": "Teacher",
+          "name": "For Teachers"
         }
       ],
-      "latitude": 41.670261,
-      "longitude": -91.346861,
+      "latitude": 41.670263,
+      "longitude": -91.346866,
       "map_thumbnail_image": 425,
       "media": [
         337
@@ -3980,7 +3984,12 @@
           "id": 414
         }
       ],
-      "tours_sites": []
+      "tours_sites": [
+        {
+          "id": 384,
+          "primary_audio": 13
+        }
+      ]
     }
   ],
   "urls": {
