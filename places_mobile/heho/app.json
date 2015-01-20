@@ -2939,21 +2939,67 @@
   ],
   "sites": [
     {
+      "audio_description": "Visitor Center.  1 ¾ minutes.  The Visitor Center for the Herbert Hoover National Historic Site is located at the northeast corner of the historic site, near the intersection of Parkside Drive and Main Street.  There is a parking area on the south side of the visitor center, and the building’s entrance faces the parking lot.  \n\nFrom the parking lot, the building presents a façade of glass and multi-hued red bricks.  It’s one story high and the design is modern and angular.  There is a pitched roof, but the angle of the roof is greater on the left side than the right, so the two halves do not meet at a point; instead the peak of the left-hand portion sticks up about six feet higher in the center.  The left-hand side is brick and windowless. In grey raised metal the words “Herbert Hoover National Historic Site” and the National Park Service arrowhead logo are affixed to the brick.  The entrance is on the right-hand side—through double glass doors set into a larger tinted-glass vestibule.  \n\nA ramp provides access to the doors from the left side of the parking lot, rising up along the front of the building.  The front doors have an automatic open button on their left.  Inside, you’ll find an introductory film, exhibits, a gift shop, and additional information about the park.  A ranger is stationed at the main desk opposite the entrance.\n\nEnd of message.\n\n",
+      "description": "Acquaint yourself with the life of Herbert Hoover here. Park rangers can answer questions and help you begin your tour with a map and guide.",
+      "geofence_buffer_in_meters": 10,
+      "id": 383,
+      "information": [
+        {
+          "description": "View exhibits, which display Herbert Hoover’s original cradle and high chair. Learn about his childhood in West Branch and his later involvement in developing the park commemorating his life. The 12-minute film _Adventure and Great Undertakings: Herbert Hoover's Childhood in West Branch_ is played on request. Children can begin their activity books to become Junior Rangers. An art gallery interprets the park through the works of artists-in-residence. Plan 30 minutes in the visitor center. ",
+          "name": "Get Started"
+        },
+        {
+          "description": "Federal Recreational Lands Passes are sold at the Visitor Center. Books, educational items, and gifts are available for purchase from the Eastern National Bookstore inside.\n",
+          "name": "Other Services"
+        }
+      ],
+      "latitude": 41.67087224,
+      "longitude": -91.34569108,
+      "map_thumbnail_image": 424,
+      "media": [
+        339
+      ],
+      "name": "Visitor Center",
+      "name_description": "Start your visit with an introduction to Herbert Hoover and his hometown of West Branch.",
+      "primary_image": 339,
+      "type": "Information",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        },
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        },
+        {
+          "description": "Staffed by Ranger",
+          "icon": "ranger.png",
+          "icon_@2x": "ranger@2x.png",
+          "type": "Staffed by Ranger"
+        }
+      ]
+    },
+    {
       "audio_description": "Friends Meetinghouse – Exterior\n281 words\n\nFriends Meetinghouse – Exterior.  Two minutes.  First of two descriptions at this location.  The Friends Meetinghouse sits on the east side of Downey Street.  The one-story structure is made of wood and painted eggshell white.  A pitched roof of grey shingles slopes up from atop the west-facing façade.  Two stout brick chimneys emerge from the peak—one on each side of the building.  Four tall rectangular windows and two narrow double doors face out onto Downey Street.  The meetinghouse is 40 feet wide, with an open-air porch on the left side.  \n\nA level wooden walkway about 40 feet long extends from the boardwalk on Downey Street to the front of the building.  Once you reach the building, you can turn left or right and enter through either doorway.  Watch your step as you enter; there’s a small step at the threshold.\n\nA brown sign 6 by 8 inches rests on a three-foot wooden post at the end of the walkway, directly in front of the building.  Gold lettering on the sign reads as follows:\n\n“Friends Meetinghouse – The Hoover family worshipped in this building along with neighbors and relatives who were members of the religious Society of Friends, or Quakers as they are often called.  West Branch was predominately a Quaker community in the 1850’s when this meetinghouse was built in 1857.  Silent meetings for worship were held here on First Day and Fourth Day each week.  Religion played a strong role in Herbert Hoover’s childhood.  His family were active participants in the Society of Friends where his mother, Hulda Hoover, was a recorded minister.”  End of text.\n\nThe interior of the meetinghouse is described briefly in the following message.  \n\nEnd of message.\n\nFriends Meetinghouse – Interior\n245 words\n\nFriends Meetinghouse – Interior.  1 ¾ minutes.  Second of two descriptions at this location.  A wooden partition runs down the center of the meetinghouse, dividing the space into two equal halves.  Large un-paned windows are cut into the partition.  The windows can be closed off with sliding panels, but they’re usually left open.  The walls are plain white, with milk-chocolate-brown wainscoting at the front of the room.  The same brown color trims the doors, window frames, and central partition.  The wood floors are painted grey.\n\nOn each side of the partition, six rows of unadorned wooden pews face forward.  Two more rows of pews are situated on risers at the front of the room, facing the other benches.  A wide aisle runs down the center of each side.  Please be careful, as there is a small step up from the aisle to the pews.  Two square black heating stoves sit on the far left and right of the room, about halfway toward the front.  Ten narrow rectangular windows illuminate the space with sunlight.\n\nA doorway on the left-hand side of the room leads to the porch.  If you exit onto the porch and turn right, you’ll reach a doorway that opens onto another small room.  Plexiglas on the bottom half of the doorway prevents visitors from entering, but you can look in.  Inside the room are several wooden cribs and cradles and two simple wooden chairs.  This is known as the “cry room.”\n\nEnd of message. \n\n\n\f",
       "description": "Herbert Hoover grew up in a religious community that valued peace, simplicity, integrity, and service to others. The plainly furnished Friends Meetinghouse, built by the Society of Friends, or Quakers, in 1857, is the physical expression of those values. Now two blocks from its original location, the Herbert Hoover Birthplace Foundation relocated and restored this meetinghouse in 1964.",
       "geofence_buffer_in_meters": 10,
       "id": 387,
       "information": [
         {
-          "description": "Quakers held two meetings for worship each week. Men sat to the right of the partition, women to the left. The Quakers did not have a paid minister nor did they use music, symbols, or sacraments in their worship. Instead, they practiced “silent waiting,” or worshipping in silence as they sat on the rows of long wooden benches.",
+          "description": "Quakers held two meetings for worship each week. Men sat to the right of the partition, women to the left. The Quakers did not have a paid minister. They did not use music, symbols, or sacraments in their worship. Instead, they practiced “silent waiting,” or worshipping in silence as they sat on the rows of long wooden benches. ",
           "name": "Silent Waiting"
         },
         {
-          "description": "If moved by the “inward light”, a man or woman could stand and share their insights or prayers. Those known for their inspired messages, like Herbert’s mother Hulda, became “recorded ministers” and sat on the facing benches with the elders.",
+          "description": "If moved by the “inward light”, a man or woman could stand and share their insights or prayers. Those known for their inspired messages, like Herbert’s mother Hulda, became “recorded ministers” and sat on the facing benches with the elders. ",
           "name": "Moved By The Inward Light"
         },
         {
-          "description": "The Quakers believed strongly in the equality of all people before God. During monthly business meetings the partitions were closed, allowing women a chance at leadership independent of men. Hulda, active in the West Branch meeting, helped conduct revivals, founded and led a young people’s prayer meeting, and took an active role in temperance campaigns.",
+          "description": "The Quakers strongly believed all people were equal before God. During monthly business meetings the partitions were closed, allowing women a chance at leadership independent of men. Hulda, active in the West Branch meeting, helped conduct revivals, founded and led a young people’s prayer meeting, and took an active role in temperance campaigns that aimed to discourage alcohol consumption. ",
           "name": "Equality Before God"
         },
         {
@@ -2961,7 +3007,7 @@
           "name": "Strong Training In Patience"
         },
         {
-          "description": "Like his mother, Herbert Hoover, learned to put his beliefs into practice, as he demonstrated during decades of leadership and public service.",
+          "description": "Like his mother, Herbert Hoover, learned to put his beliefs into practice, as he demonstrated during decades of leadership. The Quakers’ stress on the equal worth of all persons is evident in Hoover’s global humanitarian work, his dedication to public service, and his faith in the opportunities afforded by American life.  ",
           "name": "Career Of Conscience"
         }
       ],
@@ -2978,38 +3024,39 @@
       "services": []
     },
     {
-      "audio_description": "Visitor Center.  1 ¾ minutes.  The Visitor Center for the Herbert Hoover National Historic Site is located at the northeast corner of the historic site, near the intersection of Parkside Drive and Main Street.  There is a parking area on the south side of the visitor center, and the building’s entrance faces the parking lot.  \n\nFrom the parking lot, the building presents a façade of glass and multi-hued red bricks.  It’s one story high and the design is modern and angular.  There is a pitched roof, but the angle of the roof is greater on the left side than the right, so the two halves do not meet at a point; instead the peak of the left-hand portion sticks up about six feet higher in the center.  The left-hand side is brick and windowless. In grey raised metal the words “Herbert Hoover National Historic Site” and the National Park Service arrowhead logo are affixed to the brick.  The entrance is on the right-hand side—through double glass doors set into a larger tinted-glass vestibule.  \n\nA ramp provides access to the doors from the left side of the parking lot, rising up along the front of the building.  The front doors have an automatic open button on their left.  Inside, you’ll find an introductory film, exhibits, a gift shop, and additional information about the park.  A ranger is stationed at the main desk opposite the entrance.\n\nEnd of message.\n\n",
-      "description": "Start your visit at the Visitor Center, where you can pick up a map and guide. Park rangers are available to answer questions and help you get oriented.",
+      "audio_description": "Statue of Isis\n291 words\n\nStatue of Isis.  Two minutes.  A bronze statue of a seated Egyptian goddess is located on the south side of the cement sidewalk that runs between the Friends Meetinghouse and the Presidential Library.  A metal chain draped across four 3-foot metal posts creates a barrier between the sidewalk and the sculpture.\n\nThe figure is slightly larger than life-size. She faces north, across the creek toward the Herbert Hoover Birthplace Cottage 100 feet away.  She sits on a narrow throne; the throne itself rests on a rectangular concrete base, 3 ½ feet high, 5 ½ feet wide, and more than 7 feet deep.  \n\nIsis sits up perfectly straight—her bare feet together, her left hand clutching an Egyptian ankh symbol, her head held high as she looks straight ahead.  She wears a flowing garment that covers her arms, legs, and torso and drapes over the back of her throne.  A veil obscures her face, revealing only the outline of her eyes and nose.  In her right hand, she holds a three-flamed lamp. \n\nA metal plaque on the front of the base measures 2 feet high by 2 ½ feet wide.  In raised letters, it reads:\n\n“Isis… The Goddess of Life.  I am that which was and is and will ever be…and no mortal has yet lifted the veil which covers me.  Sculptured by the Belgian artist Puttemans for the Birthplace of Herbert Hoover.  Presented by a committee of Belgian school children, Belgian refugees and soldiers of the Belgian Army.”  End of text.\n\nHalf-a-dozen evergreen trees form a small arc behind her.  Twenty feet to her west, on the opposite side of the sidewalk is a small sitting area.  It includes two wooden benches with a water fountain in between.\n\nEnd of message.\n \n\f",
+      "description": "The bronze, seven and a half foot tall statue “Isis, Goddess of Life” is the work of Belgian sculptor Auguste Puttemans. It was a gift from the people of Belgium in gratitude for Hoover's famine relief efforts on their behalf during the First World War.",
       "geofence_buffer_in_meters": 10,
-      "id": 383,
+      "id": 388,
       "information": [
         {
-          "description": "Allow yourself at least 30 minutes in the Visitor Center, which is open from 9:00 a.m. to 5:00 p.m. daily. Multimedia exhibits, which include Herbert Hoover’s original cradle and high chair, tell about his childhood in West Branch and his later involvement in developing the park which commemorates his life. The 12-minute film Adventure and Great Undertakings: Herbert Hoover's Childhood in West Branch is played on request. Children can get started on their activity books to become Junior Rangers. An art gallery interprets the park through the works of artists-in-residence.",
-          "name": "Get Started"
+          "description": "After the war, Herbert Hoover was sent many gifts expressing the gratitude of the Belgian people for his humanitarian efforts. Some sent him beautifully embroidered flour sacks, like those on display at the Herbert Hoover Presidential Library and Museum. Many Belgian children, refugees, and soldiers contributed to a fund to create this work of art. ",
+          "name": "Expressions Of Gratitude"
         },
         {
-          "description": "Federal Recreational Lands Passes are on sale at the Visitor Center. Books, educational items, and gifts are available for purchase from the Eastern National Bookstore inside the Visitor Center.",
-          "name": "Other Services"
-        }
-      ],
-      "latitude": 41.67087224,
-      "longitude": -91.34569108,
-      "map_thumbnail_image": 424,
-      "media": [
-        339
-      ],
-      "name": "Visitor Center",
-      "name_description": "Start your visit with an introduction to Herbert Hoover and his hometown of West Branch.",
-      "primary_image": 339,
-      "type": "Information",
-      "services": [
+          "description": "When the Belgians shipped the finished statue to California's Stanford University in 1922. It remained on campus until the President and Mrs. Hoover brought it to West Branch in 1939. They wanted it to be placed in a position where it was contemplating the house, which is why Isis sits in her throne-like chair facing the Birthplace Cottage.",
+          "name": "Placement At The Historic Site"
+        },
         {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
+          "description": "The Statue of Isis represents just one of Hoover's many efforts regarding children's welfare. As President he increased the budget for children's programs. After his presidency, Hoover was chairman of the Boys' Clubs of America for 25 years. He raised money and helped open 500 new chapters. Hoover’s global relief work also inspired the creation of UNICEF, the United Nations Children's Fund, a leading advocate for children's welfare and rights around the world.",
+          "name": "Hoover’s Dedication To Children’s Causes"
+        },
+        {
+          "description": "Isis wears a veil, a symbol of the mysteries of life. Her right hand carries the torch of life-its three flames represent the past, present, and future. Her left hand holds the key of life. An ancient Egyptian goddess and an American President are an unlikely pairing. But it provides a powerful visual link between Hoover's childhood and his life's dedication to the welfare of others.",
+          "name": "The Mysterious Goddess"
         }
-      ]
+      ],
+      "latitude": 41.66968813,
+      "longitude": -91.34693563,
+      "map_thumbnail_image": 429,
+      "media": [
+        336
+      ],
+      "name": "Statue of Isis",
+      "name_description": "The people of Belgium presented “Isis, Goddess of Life” to Hoover as a gift of gratitude.",
+      "primary_image": 336,
+      "type": "Statue",
+      "services": []
     },
     {
       "audio_description": "Blacksmith Shop – Exterior\n189 words\n\nBlacksmith Shop – Exterior.  1 ¼ minutes.  First of two descriptions at this location.  The blacksmith shop is a one-story wooden structure painted dark reddish-brown with white trim.  The building faces south, its large double-doors opening onto the main boardwalk, which widens to about 10 feet at this location.  \n\nThe building comprises two sections.  The main structure, on the left, is about 20 feet wide.  Its front has no windows—just two extra-wide double doors below a flat roofline.  The words “Jesse Hoover, Blacksmith” are printed on a white sign with black lettering, which hangs above an oversized horseshoe on the upper center of the façade.  You can enter the main part of the building through either of its wide doorways, though a wooden fence blocks entry into the work space.  \n\nTo the right, adjacent to the main building, is a smaller structure with a slanted roof that gently angles up to the left.  The right-hand structure has a single double doorway, but entry is blocked by a wooden fence about 3 feet high.\n\nThe interior of the blacksmith shop is described briefly in the next message.\n\nEnd of message.\n\nBlacksmith Shop – Interior\n214 words\n\nBlacksmith Shop – Interior.  1 ½ minutes.  Second of two descriptions at this location.  Inside the blacksmith shop, about six feet beyond the wide double doors, a wooden post-and-rail fence runs across the width of the main space.  Beyond the fence, the room is cluttered with metal pieces and partly finished products, as well as blacksmith tools—including hammers, tongs, and anvils.  Horseshoes hang from ceiling beams and metal rods line racks along the walls. Wagon wheels rest against the wall and fence. The rustic, dark wood walls feature exposed beams, and three rectangular windows on the back and left side provide the only light.  Gravel covers the floor.  The ceiling slopes up gently from the sides to a central peak.   \n\nHalfway back on the right-hand side of the room is the blacksmith’s forge.  It’s a square brick platform about three feet high and five feet on each side.  A brick chimney, blackened with soot, rises up from the platform to the ceiling.\n\nOn the right-hand wall, a narrow doorway leads into another, smaller space.  This second room contains wood-working tools and metal pieces of various shapes and sizes.  The doorway is located just beyond the fence, so visitors are not able to enter the other room and can only peek in.  \n\nEnd of message.",
@@ -3018,23 +3065,23 @@
       "id": 385,
       "information": [
         {
-          "description": "This building, built in 1957, represents the kind of blacksmith and wagon shops that were common in the 1870s. It is based on the sketches of Herbert’s older brother Theodore, from his recollections of what their father’s shop looked like. The re-built blacksmith shop sits next to the original shop’s location just a stone’s throw from the Birthplace Cottage.",
+          "description": "Built in 1957, this building represents the kind of blacksmith and wagon shops that were common in the 1870s. It is based on the sketches of Herbert’s older brother Theodore, from his recollections of what their father’s shop looked like. The re-built blacksmith shop sits west of the original shop’s location just a stone’s throw from the Birthplace Cottage.",
           "name": "Reconstructed Shop"
         },
         {
-          "description": "The large double doors made it easy to maneuver horses around for shoeing or to bring in large wagon wheels or plows for repair. Inside the main building you’ll find a working forge, along with an anvil, and a rack filled with period tools of the trade.",
+          "description": "Large double doors made it easy to maneuver horses around for shoeing or to bring in large wagon wheels or plows for repair. Inside the main building you’ll find a working forge, along with an anvil, and a rack filled with period tools of the trade.",
           "name": "Horseshoes And Wagon Wheels"
         },
         {
-          "description": "The excitement of banging iron, sparking fires, and new visitors, often brought Jesse’s boys, “Tad” and “Bertie” across old Penn Street to investigate their father’s business. Herbert Hoover wrote in his memoirs, “My recollection of my father is of necessity dim indeed, but I retain one vivid memento from this time. Playing barefoot around the blacksmith shop, I stepped on a chip of hot iron and carry the brand of Iowa on my foot to this day.”",
+          "description": "Banging iron, sparking fires, and a stream of customers, often brought Jesse’s boys, “Tad” and “Bertie” across old Penn Street to investigate their father’s business. Herbert Hoover wrote in his memoirs, “My recollection of my father is of necessity dim indeed, but I retain one vivid memento from this time. Playing barefoot around the blacksmith shop, I stepped on a chip of hot iron and carry the brand of Iowa on my foot to this day.”\n",
           "name": "The Brand of Iowa"
         },
         {
-          "description": "Jesse sold his blacksmith shop in 1878 and bought a larger farm implement store on Main Street where he sold pumps, wagons, barbed wire, and sewing machines. He successfully operated that shop until his death in December 1880. Though he died at age 34, in his short life he had provided an excellent example of what hard work and integrity could achieve.",
+          "description": "Success allowed Jesse to buy a larger farm implement store on Main Street in 1878. Here he sold pumps, wagons, barbed wire, and sewing machines. He operated that shop until his death in December 1880. Though he died at age 34, in his short life he had provided an excellent example of what hard work and integrity could achieve. ",
           "name": "Successful Career Cut Short"
         },
         {
-          "description": "Park visitors can watch a blacksmith demonstrate the skill and hard work needed to turn ordinary iron into useful things. Items made during these demonstrations are for sale at the bookstore in the Visitor Center.",
+          "description": "Watch a blacksmith demonstrate the skill and hard work needed to turn ordinary iron into useful things. Items made during these demonstrations are for sale at the bookstore in the Visitor Center.",
           "name": "Blacksmith Demonstrations"
         }
       ],
@@ -3076,37 +3123,6 @@
       "type": "Office"
     },
     {
-      "audio_description": "Statue of Isis\n291 words\n\nStatue of Isis.  Two minutes.  A bronze statue of a seated Egyptian goddess is located on the south side of the cement sidewalk that runs between the Friends Meetinghouse and the Presidential Library.  A metal chain draped across four 3-foot metal posts creates a barrier between the sidewalk and the sculpture.\n\nThe figure is slightly larger than life-size. She faces north, across the creek toward the Herbert Hoover Birthplace Cottage 100 feet away.  She sits on a narrow throne; the throne itself rests on a rectangular concrete base, 3 ½ feet high, 5 ½ feet wide, and more than 7 feet deep.  \n\nIsis sits up perfectly straight—her bare feet together, her left hand clutching an Egyptian ankh symbol, her head held high as she looks straight ahead.  She wears a flowing garment that covers her arms, legs, and torso and drapes over the back of her throne.  A veil obscures her face, revealing only the outline of her eyes and nose.  In her right hand, she holds a three-flamed lamp. \n\nA metal plaque on the front of the base measures 2 feet high by 2 ½ feet wide.  In raised letters, it reads:\n\n“Isis… The Goddess of Life.  I am that which was and is and will ever be…and no mortal has yet lifted the veil which covers me.  Sculptured by the Belgian artist Puttemans for the Birthplace of Herbert Hoover.  Presented by a committee of Belgian school children, Belgian refugees and soldiers of the Belgian Army.”  End of text.\n\nHalf-a-dozen evergreen trees form a small arc behind her.  Twenty feet to her west, on the opposite side of the sidewalk is a small sitting area.  It includes two wooden benches with a water fountain in between.\n\nEnd of message.\n \n\f",
-      "description": "The bronze, seven and a half foot tall statue “Isis, Goddess of Life” is the work of Belgian sculptor Auguste Puttemans, and was a gift from the people of Belgium in gratitude for Hoover's famine relief efforts on their behalf during the First World War.",
-      "geofence_buffer_in_meters": 10,
-      "id": 388,
-      "information": [
-        {
-          "description": "Following the war, Herbert Hoover received many gifts from the Belgian people as expressions of gratitude for his humanitarian work. Some sent him beautifully embroidered flour sacks, like those on display at the Herbert Hoover Presidential Library and Museum. Many Belgian children, refugees, and soldiers contributed to a fund to create this work of art.",
-          "name": "Expressions Of Gratitude"
-        },
-        {
-          "description": "When the Belgians shipped the finished statue to California's Stanford University in 1922, it remained on campus until the President and Mrs. Hoover brought it to West Branch in 1939. Both of them wanted it to be placed in a position where it was contemplating the house, which is why Isis sits in her throne-like chair facing the Birthplace Cottage.",
-          "name": "Placement At The Historic Site"
-        },
-        {
-          "description": "Isis wears a veil, a symbol of the mysteries of life. Her right hand carries the torch of life-its three flames represent the past, present, and future-while her left hand holds the key of life. An ancient Egyptian goddess and an American President are an unlikely pairing, but one that provides a powerful visual link between Hoover's childhood and his life's dedication to the welfare of others.",
-          "name": "The Mysterious Goddess"
-        }
-      ],
-      "latitude": 41.66968813,
-      "longitude": -91.34693563,
-      "map_thumbnail_image": 429,
-      "media": [
-        336
-      ],
-      "name": "Statue of Isis",
-      "name_description": "The people of Belgium presented “Isis, Goddess of Life” to Hoover as a gift of gratitude.",
-      "primary_image": 336,
-      "type": "Statue",
-      "services": []
-    },
-    {
       "audio_description": "Blacksmith Shop Archaeological Site\n103 words\n\nBlacksmith Shop Archaeological Site.  About 45 seconds.    The blacksmith shop archaeological site is adjacent to the blacksmith shop, just to its east.  Today, it’s simply a flat grassy lot with some large trees spread across it.  The rectangular plot of land is bounded on the south by the boardwalk that runs along Penn Street and on the east by the boardwalk that runs along Downey Street.  The white picket fence of the green-and-white C. E. Smith house abuts the site on the north.  The archaeological site is roughly 75 feet from east to west and 30 feet north to south.\n\nEnd of message.\n",
       "description": "In 1871 young Jesse Hoover constructed a blacksmith and wagon repair shop here on the corner of Penn and Downey streets. His business thrived in the rapidly growing village. In 1878 Jesse sold both his shop and the small cottage he had built across Penn Street, and opened a farm implement business a few blocks away on Main Street. In 1888 the original building was moved to another part of town, and was subsequently lost to history.",
       "geofence_buffer_in_meters": 10,
@@ -3125,13 +3141,13 @@
       "type": "Site"
     },
     {
-      "audio_description": "Birthplace Cottage – Exterior\n275 words\n\nBirthplace Cottage – Exterior.  Two minutes.  First of three descriptions at this location.  Herbert Hoover’s birthplace is a one-story wooden house with a grey shingled roof that angles up sharply from the façade.  A single brick chimney emerges from the peak.  The exterior is painted white, and a central doorway is flanked by two 12-paned rectangular windows.  The house faces east and is about 20 feet wide across the front.\n\nA white picket fence surrounds the house and yard on the north and east sides.  A wooden walkway leads from the main boardwalk to the front door through a gate in the east side of the fence.  The walkway is approximately 20 feet long.  Watch your step, as the walkway drops off a couple inches on either side to the grass lawn.  A flower bed to the left of the walkway adds color to the lawn in the spring and summer.\n\nTo the right of the gate, just inside the fence, a brown sign stands 3 feet off the ground at a 45-degree angle.  The sign is 11 inches wide and 8 inches high and printed with gold-colored lettering.  The text is transcribed in the following message.  You can also hear a brief description of the building’s interior in a subsequent message.\n\nAs you reach the cottage, there are two steps up to a tiny porch just 4 feet wide and 3 feet deep.  The porch is covered by a red wooden awning, and leafy vines climb white wooden latticework on either side.  Once on the porch, you’ll have to step up another inch or two at the threshold to enter the house.\n\nEnd of message.\n\n\nBirthplace Cottage – Interpretive Sign\n203 words\n\nBirthplace Cottage – Interpretive Sign.  1 ½ minutes.  Second of three descriptions at this location.  A brown sign mounted just inside the fence, to the right of the gate, is titled “Herbert Hoover’s Birthplace.”  There are no images on the sign—only text printed in gold-colored lettering.  The following quote appears below the title:\n\n“This cottage where I was born is physical proof of the unbounded opportunity of American life.”\n\nBelow that, the text continues:\n\n“In 1871, Jesse Hoover built this two-room cottage near his blacksmith shop and moved in with his wife, Hulda, and young son, Theodore.  Herbert Hoover was born here on August 10, 1874.  When “Bert” was two, his sister, Mary, was born.\n\n“This was the Hoovers’ first home, and although it was small it served the young family well.  During the warm months, the cook-stove was moved to an enclosure on the back porch, which became a summer kitchen.\n\n“In 1879, as Jesse prospered, the family moved to a larger, two-story house about one block south of here.  That home is no longer standing, but a plaque marks its location.\n\n“For more information, you may listen to an audio program on the back porch of the cottage.”\n\nEnd of message.\n\n\nBirthplace Cottage – Interior\n273 words\n\nBirthplace Cottage – Interior.  Two minute.  Third of three descriptions at this location.  Inside the Birthplace Cottage, you’ll find wooden walls painted white, and an 8-foot wooden-beamed ceiling, also painted white.  A rag rug covers the floor, thinly striped in faded tones of many colors. \n\nThe bedroom is on the left as you enter through the front door. A barrier blocks the lower half of the doorway to the bedroom. Inside the bedroom is a wood-framed bed with a wheeled trundle partially withdrawn from its underside.  Two black-and-white portraits in oval frames hang on the wall above the bed. At the bed’s foot is porcelain chamber pot. In the center of the room next to the bed is a wooden baby’s cradle. A wooded night stand against the far wall holds a porcelain water pitcher, wash basin, and soap dish. A bureau and sewing machine are against the wall on the left. The three exterior walls of the bedroom each have a white-curtained window.\n\nThe main room is furnished with a settee , dry sink, cupboard, pie safe, a few simple wooden chairs including a high chair, and a drop-leaf table.  A kerosene lamp, sundry kitchen items, clock, and books are among the meager possessions on display.  Some children’s blocks and a small wood pull-horse on wheels are the only toys.  A low barrier separates you from the furnishings but allows passage through the house.\n\nThere are five windows located around the room, and a door directly opposite the front door that leads to the back porch. Mind the short step down from the threshold when exiting through the back door.\n\nEnd of message.",
-      "description": "In the years following his presidency, Herbert and Lou Hoover restored the president's humble birthplace, which he called \"physical proof of the unbounded opportunity of American life.\" The small spaces and dearth of material possession reflect an ethic of thrift, and the cottage's status as a starter home for a young family. Antique furnishings from the mid and late 19th century represent common household items for a simply furnished two room rural home.",
+      "audio_description": "Birthplace Cottage – Exterior\n275 words\n\nBirthplace Cottage – Exterior.  Two minutes.  First of three descriptions at this location.  Herbert Hoover’s birthplace is a one-story wooden house with a grey shingled roof that angles up sharply from the façade.  A single brick chimney emerges from the peak.  The exterior is painted white, and a central doorway is flanked by two 12 paned rectangular windows.  The house faces east and is about 20 feet wide across the front.\n\nA white picket fence surrounds the house and yard on the north and east sides.  A wooden walkway leads from the main boardwalk to the front door through a gate in the east side of the fence.  The walkway is approximately 20 feet long.  Watch your step, as the walkway drops off a couple inches on either side to the grass lawn.  A flower bed to the left of the walkway adds color to the lawn in the spring and summer.\n\nTo the right of the gate, just inside the fence, a brown sign stands 3 feet off the ground at a 45-degree angle.  The sign is 11 inches wide and 8 inches high and printed with gold-colored lettering.  The text is transcribed in the following message.  You can also hear a brief description of the building’s interior in a subsequent message.\n\nAs you reach the cottage, there are two steps up to a tiny porch just 4 feet wide and 3 feet deep.  The porch is covered by a red wooden awning, and leafy vines climb white wooden latticework on either side.  Once on the porch, you’ll have to step up another inch or two at the threshold to enter the house.\n\nEnd of message.\n\n\nBirthplace Cottage – Interpretive Sign\n203 words\n\nBirthplace Cottage – Interpretive Sign.  One and half minutes.  Second of three descriptions at this location.  A brown sign mounted just inside the fence, to the right of the gate, is titled “Herbert Hoover’s Birthplace.”  There are no images on the sign—only text printed in gold-colored lettering.  The following quote appears below the title:\n\n“This cottage where I was born is physical proof of the unbounded opportunity of American life.”\n\nBelow that, the text continues:\n\n“In eighteen seventy one, Jesse Hoover built this two-room cottage near his blacksmith shop and moved in with his wife, Hulda, and young son, Theodore.  Herbert Hoover was born here on August 10, 1874.  When “Bert” was two, his sister, Mary, was born.\n\n“This was the Hoovers’ first home, and although it was small it served the young family well.  During the warm months, the cook-stove was moved to an enclosure on the back porch, which became a summer kitchen.\n\n“In eighteen seventy six, as Jesse prospered, the family moved to a larger, two-story house about one block south of here.  That home is no longer standing, but a plaque marks its location.\n\n“For more information, you may listen to an audio program on the back porch of the cottage.”\n\nEnd of message.\n\n\nBirthplace Cottage – Interior\n273 words\n\nBirthplace Cottage – Interior.  Two minute.  Third of three descriptions at this location.  Inside the Birthplace Cottage, you’ll find wooden walls painted white, and an 8-foot wooden-beamed ceiling, also painted white.  A rag rug covers the floor, thinly striped in faded tones of many colors. \n\nThe bedroom is on the left as you enter through the front door. A barrier blocks the lower half of the doorway to the bedroom. Inside the bedroom is a wood-framed bed with a wheeled trundle partially withdrawn from its underside.  Two black-and-white portraits in oval frames hang on the wall above the bed. At the bed’s foot is porcelain chamber pot. In the center of the room next to the bed is a wooden baby’s cradle. A wooded night stand against the far wall holds a porcelain water pitcher, wash basin, and soap dish. A bureau and sewing machine are against the wall on the left. The three exterior walls of the bedroom each have a white-curtained window.\n\nThe main room is furnished with a settee , dry sink, cupboard, pie safe, a few simple wooden chairs including a high chair, and a drop-leaf table.  A kerosene lamp, sundry kitchen items, clock, and books are among the meager possessions on display.  Some children’s blocks and a small wood pull-horse on wheels are the only toys.  A low barrier separates you from the furnishings but allows passage through the house.\n\nThere are five windows located around the room, and a door directly opposite the front door that leads to the back porch. Mind the short step down from the threshold when exiting through the back door.\n\nEnd of message.",
+      "description": "In the years following his presidency, Herbert and Lou Hoover restored the president's humble birthplace, which he called, \"physical proof of the unbounded opportunity of American life.\" The small space and few material possessions reflect an ethic of thrift, The cottage was a typical starter home for a young late 19th century family. Antique furnishings represent common household items of a simply furnished two room rural home.",
       "geofence_buffer_in_meters": 19.44879969763841,
       "id": 384,
       "information": [
         {
-          "description": "In 1871, Jesse Hoover built this two-room cottage across the street from his blacksmith shop and moved in with his wife, Hulda, and young son, Theoldore. Herbert Hoover was born here on August 10, 1874. When “Bert” was two, his sister, Mary, was born.",
+          "description": "In 1871, Jesse Hoover built this two-room cottage across the street from his blacksmith shop and moved in with his wife, Hulda, and young son, Theodore. Herbert Hoover was born here on August 10, 1874. When “Bert” was two, his sister, Mary, was born. ",
           "name": "Family Of Five"
         },
         {
@@ -3139,11 +3155,11 @@
           "name": "A Starter Home"
         },
         {
-          "description": "One room served as a bedroom for the two adults and three children, the other as a combination living room, dining room, and kitchen. In the winter, a wood-burning cook stove did double-duty inside the main room as the home's heater but during the warm months the Hoovers moved it to the back porch, which became a summer kitchen.",
+          "description": "One room served as a bedroom for the two adults and three children, the other as a combination living room, dining room, and kitchen. In the winter, a wood-burning cook stove did double-duty inside the main room as the home's heater but during the warm months the Hoovers moved it to the back porch, which became a summer kitchen. ",
           "name": "Two Rooms Inside"
         },
         {
-          "description": "In warm weather, the Hoovers moved their wood-burning stove to the back porch, which became the summer kitchen. The porch and summer kitchen may have served several other purposes over time, including as a woodshed, store room, and spare bedroom. It was here, in the dark of night on August 10, 1874, that blacksmith shop assistant, Elwood King was awakened to go and fetch the doctor. Around midnight, Herbert Clark Hoover was born.",
+          "description": "In warm weather the Hoovers moved their wood-burning stove to the back porch. This became the summer kitchen. The porch and summer kitchen may have served several other purposes over time, a woodshed, store room, and spare bedroom. It was here, in the dark of night on August 10, 1874, that blacksmith shop assistant, Elwood King was awakened to go and fetch the doctor. Around midnight, Herbert Clark Hoover was born.",
           "name": "Summer Kitchen"
         },
         {
@@ -3159,7 +3175,7 @@
           "name": "Privy"
         },
         {
-          "description": "Teacher",
+          "description": " **Instructions**\nEnter the Birthplace Cottage through the front door and exit through the back door onto the back porch. You may have to split the class into smaller groups and take turns viewing the inside. The summer kitchen is viewable from the back porch, as is the Gravesite on the hill overlooking the cottage.\n\n**Who Lived Here?**\nThe Hoover family lived in a two-room house.\n_Explain: _Herbert Hoover was born in this little house in 1874. He lived here until he was about four years old, sharing it with his mother and father (Jesse and Hulda), older brother (Theodore), younger sister (Mary).\n_Historic photograph of three children:_ This is what the Hoover children looked like while growing up in West Branch. \n\n**Life In The 1800s**\nLife in the 1800s was different from our lives today. \n_Explain:_ They had no running water, electricity, or automobiles when they lived here.\n_Observe:_ Look at the objects displayed in the Hoovers’ house and in their yard. Try to figure out how the family slept, ate, washed, worked, and played in this house such a long time ago.\n_Discuss: _What did you learn about Herbert Hoover’s childhood just by looking at the objects on display? How did the Hoovers sleep, eat, wash, work, and play? What did the Hoovers do inside the house and what did they do outside?\n\n**Thrift**\nThe Hoovers’ small home had everything the family needed.\n_Explain:_ They lived here while the family earned money for things they wanted.\n_Discuss:_ What things did the Hoovers want that they earned and saved money for? (A larger home; college educations)\n\n**Living And Working Together**\nThe Hoovers, even the kids, cooperated with each other to live in the small house.\n_Examples:_ The parents and children shared a bedroom. Everyone in the family helped get daily chores done, starting at a very young age.\n_Discuss:_ What kind of chores do you do at home to help your family?",
           "name": "For Teachers"
         }
       ],
@@ -3849,11 +3865,11 @@
       "id": 386,
       "information": [
         {
-          "description": "By 1853, enough people lived in West Branch to build and support a public school. Hard work was a core value of the townsfolk, but so too was the importance of education for both boys and girls—Herbert Hoover’s own mother, Hulda had been a teacher before she married. Because the Society of Friends raised much of the money for the construction of this one-room schoolhouse, it was also used as the town’s first Quaker meetinghouse.",
+          "description": "By 1853, enough people lived in West Branch to build and support a public school. Hard work was a core value of the Quaker townsfolk, but so too was education—for both boys and girls. Herbert Hoover’s own mother, Hulda had been a teacher in neighboring Muscatine County before she married. Because the Society of Friends raised much of the money for the construction of this one-room schoolhouse, it was also used as the town’s first Quaker meetinghouse. ",
           "name": "Emphasis On Education"
         },
         {
-          "description": "In 1869, after the town built a larger schoolhouse, this building was used as a classroom for the primary department, or youngest grades. Herbert Hoover entered public school in 1880 at age 5 and spent three years in the primary department. It is unknown if Hoover’s class met in this building.",
+          "description": "In 1869, after the town built a larger schoolhouse, this building was used as a classroom for the primary department, or youngest grades. Herbert Hoover entered public school in 1880 at age 5 and spent three years in the primary department. It is unknown if Hoover’s class met in this building. ",
           "name": "The Growing School"
         },
         {
@@ -3861,11 +3877,11 @@
           "name": "Reading, Writing, And Arithmetic"
         },
         {
-          "description": "Heat Stove",
+          "description": "The only source of heat in this schoolhouse came from a pot-bellied wood stove located at the back of the room. The eight large windows let in lots of natural light, but on cloudy days, it was the kerosene lamps that helped to brighten the room.",
           "name": "Heat Stove"
         },
         {
-          "description": "The Hoovers’ emphasis on education paid off. In 1891, 17-year old Bert Hoover enrolled at Stanford University, determined to become a mining engineer.",
+          "description": "The value the Hoovers’ placed on education paid off in 1891. 17-year old Bert Hoover enrolled at Stanford University, determined to become a mining engineer.",
           "name": "Pursuit of Higher Education"
         }
       ],
