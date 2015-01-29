@@ -101,7 +101,7 @@
       "type": "Feature",
       "properties": {
         "name": "New York, New York",
-        "Visit The Park": "http://www.nps.gov/npnh/index.htm"
+        "Visit The Park": "http://www.nps.gov/npnh/index.htm",
         "Meet the Urban Fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
         "Learn more": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-new-york.htm?cs_pgIsInLView=1"
       },
