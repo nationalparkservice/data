@@ -5,9 +5,9 @@
       "type": "Feature",
       "properties": {
         "name": "Tucson, Arizona",
-        "Visit The Park": "http://www.nps.gov/sagu/index.htm",
-        "Meet the Urban Fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
-        "Learn more": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-tucson.htm?cs_pgIsInLView=1"
+        "url": "http://www.nps.gov/sagu/index.htm",
+        "fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
+        "info": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-tucson.htm?cs_pgIsInLView=1"
       },
       "geometry": {
         "type": "Point",
@@ -21,9 +21,9 @@
       "type": "Feature",
       "properties": {
         "name": "Richmond, California",
-        "Visit The Park": "http://www.nps.gov/rori/index.htm",
-        "Meet the Urban Fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
-        "Learn more": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-richmond-ca.htm?cs_pgIsInLView=1"
+        "url": "http://www.nps.gov/rori/index.htm",
+        "fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
+        "info": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-richmond-ca.htm?cs_pgIsInLView=1"
       },
       "geometry": {
         "type": "Point",
@@ -37,9 +37,9 @@
       "type": "Feature",
       "properties": {
         "name": "St. Louis, Missouri",
-        "Visit The Park": "http://www.nps.gov/jeff/index.htm",
-        "Meet the Urban Fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
-        "Learn more": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-st-louis.htm?cs_pgIsInLView=1"
+        "url": "http://www.nps.gov/jeff/index.htm",
+        "fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
+        "info": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-st-louis.htm?cs_pgIsInLView=1"
       },
       "geometry": {
         "type": "Point",
@@ -53,9 +53,9 @@
       "type": "Feature",
       "properties": {
         "name": "Washington, DC",
-        "Visit The Park": "http://www.nps.gov/state/dc/index.htm",
-        "Meet the Urban Fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
-        "Learn more": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-washington-dc.htm?cs_pgIsInLView=1"
+        "url": "http://www.nps.gov/state/dc/index.htm",
+        "fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
+        "info": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-washington-dc.htm?cs_pgIsInLView=1"
       },
       "geometry": {
         "type": "Point",
@@ -69,9 +69,9 @@
       "type": "Feature",
       "properties": {
         "name": "Detroit, Michigan",
-        "Visit The Park": "http://www.nps.gov/auto/index.htm",
-        "Meet the Urban Fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
-        "Learn more": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-detroit.htm?cs_pgIsInLView=1"
+        "url": "http://www.nps.gov/auto/index.htm",
+        "fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
+        "info": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-detroit.htm?cs_pgIsInLView=1"
       },
       "geometry": {
         "type": "Point",
@@ -85,9 +85,9 @@
       "type": "Feature",
       "properties": {
         "name": "Jacksonville, Florida",
-        "Visit The Park": "http://www.nps.gov/foca/index.htm",
-        "Meet the Urban Fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
-        "Learn more": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-jacksonville.htm?cs_pgIsInLView=1"
+        "url": "http://www.nps.gov/foca/index.htm",
+        "fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
+        "info": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-jacksonville.htm?cs_pgIsInLView=1"
       },
       "geometry": {
         "type": "Point",
@@ -101,9 +101,9 @@
       "type": "Feature",
       "properties": {
         "name": "New York, New York",
-        "Visit The Park": "http://www.nps.gov/npnh/index.htm",
-        "Meet the Urban Fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
-        "Learn more": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-new-york.htm?cs_pgIsInLView=1"
+        "url": "http://www.nps.gov/npnh/index.htm",
+        "fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
+        "info": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-new-york.htm?cs_pgIsInLView=1"
       },
       "geometry": {
         "type": "Point",
