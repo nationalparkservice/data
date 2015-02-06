@@ -2632,33 +2632,6 @@
       ]
     },
     {
-      "description": "Park’s Visitor Center, served as a soldiers’ barracks (1838-1871), converted to jail and courthouse in 1872. ",
-      "geofence_buffer_in_meters": 20,
-      "id": 82,
-      "information": [],
-      "latitude": 35.388135,
-      "longitude": -94.429883,
-      "map_thumbnail_image": 170,
-      "name": "Visitor Center",
-      "name_description": "Park’s Visitor Center, served as a soldiers’ barracks (1838-1871), converted to jail and courthouse in 1872. ",
-      "primary_image": 167,
-      "type": "Barracks, Courthouse, Jail ",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        },
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
       "geofence_buffer_in_meters": 10,
       "id": 16,
       "information": [
@@ -3339,18 +3312,6 @@
       "name_description": "Located at 5th and Broadway, this garden is a great place to see gigantic rhubarb plants and beautiful native flowers.",
       "primary_image": 43,
       "type": "Park"
-    },
-    {
-      "description": "The flagpole (99 ft.) is a reproduction of the original built in 1846. This height allows the flag to be seen for miles.",
-      "geofence_buffer_in_meters": 10,
-      "id": 83,
-      "latitude": 35.388542,
-      "longitude": -94.430162,
-      "map_thumbnail_image": 171,
-      "name": "Flag Pole",
-      "name_description": "The flagpole (99 ft.) is a reproduction of the original built in 1846. This height allows the flag to be seen for miles.",
-      "primary_image": 166,
-      "type": "Parade Field"
     },
     {
       "description": "During the early gold rush years in Skagway, this building was associated with one of two businesses that provided retail and wholesale meat to stampeders and commercial clients.  Known as the Frye-Bruhn refrigerated warehouse, it was owned by brothers Frank and Charles Frye and Charles Bruhn and was part of the Frye-Bruhn Meat Packing Company, of Seattle, Washington.  Incorporated in 1891, the company rapidly expanded during the gold rush and soon had stores in several locations in Alaska including Haines, Juneau, Seward, Skagway, Valdez, and a cattle ranch in Katmai.  This building, part of the Frye-Bruhn meat packing empire, was first used briefly as a slaughter house.  It was remodeled in May 1900 and turned into a refrigerated warehouse for meat.  The Frye-Bruhn Company sold the warehouse in September 1919 to Anthony Dortero, a Skagway fruit dealer and clothier to men, for $450, but continued to operate in Skagway until the mid-1930s.  Mr. Dortero died in 1920 but his widow, Sabina, kept the property until 1945.  After that it was owned by several people before being donated to the National Park Service. Exactly when the refrigeration equipment in the old building quit working is unknown but it still contains parts of the original refrigeration coils and overhead track used to keep the meat cool and to move it around.  What is the future of the warehouse? The National Park Service recently moved it across 5th Avenue to where you see it now. The next step is to decide whether it should stay here or be moved to another location and stabilize it. Research and preservation work will need to be done to save the warehouse and put it back into use either as a storage building, interpretive facility, or commercial lease.",
