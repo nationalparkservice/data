@@ -2024,18 +2024,6 @@
       "type": "image"
     },
     {
-      "id": 473,
-      "image_1080": "473_1080x810.jpg",
-      "image_1536": "473_1536x1152.jpg",
-      "image_350": "473_350x260.jpg",
-      "image_480": "473_480x320.jpg",
-      "image_640": "473_640x504.jpg",
-      "image_768": "473_768x480.jpg",
-      "image_960": "473_960x640.jpg",
-      "name": "Site 33",
-      "type": "image"
-    },
-    {
       "id": 474,
       "image_1080": "474_1080x810.jpg",
       "image_1536": "474_1536x1152.jpg",
@@ -2045,6 +2033,18 @@
       "image_768": "474_768x480.jpg",
       "image_960": "474_960x640.jpg",
       "name": "Arctic Brotherhood Building (City Visitor Center)",
+      "type": "image"
+    },
+    {
+      "id": 473,
+      "image_1080": "473_1080x810.jpg",
+      "image_1536": "473_1536x1152.jpg",
+      "image_350": "473_350x260.jpg",
+      "image_480": "473_480x320.jpg",
+      "image_640": "473_640x504.jpg",
+      "image_768": "473_768x480.jpg",
+      "image_960": "473_960x640.jpg",
+      "name": "Gold Rush Cemetery and Reid Falls",
       "type": "image"
     },
     {
@@ -2223,6 +2223,13 @@
           "type": "Handicapped Access"
         }
       ]
+    },
+    {
+      "description": "Dewey Trail",
+      "geofence_buffer_in_meters": 10,
+      "id": 480,
+      "name": "Dewey Trail",
+      "primary_image": 475
     },
     {
       "audio_description": "Soapy's Parlor Museum.  1 ½ minutes.  Jefferson “Soapy” Smith’s parlor is a narrow, one-story building, 15 feet wide.  It stretches back 60 feet from street, and a simple pitched, shingled roof tops the building behind its false front.  Soapy’s is located on the south side of Second Avenue, between State Street and Broadway.  A metal fence five feet high separates the building from the boardwalk.  Grassy areas on both sides of the structure set it apart from the neighboring buildings.  The exterior walls on either side of the building are windowless..  Soapy’s is not currently open to the public. \n        \nThe building’s wooden, flat-topped facade is painted white, except for a black strip about a foot wide across the top, just below the roofline.  The words “Jeff. Smiths Parlor” have been stenciled in white capital letters on the black strip, but are badly faded.  A single windowed doorway is set into the right-hand side of the façade; a large square window is located immediately to its left.  The window and door, both trimmed in beige, together stretch across almost the entire width of the building.  White lace curtains adorn the window and door from inside.\n\nEnd of message.\n",
@@ -3071,20 +3078,20 @@
     },
     {
       "geofence_buffer_in_meters": 10,
-      "id": 32,
+      "id": 33,
       "information": [
         {
           "description": "Seasonal",
           "name": "Hours"
         }
       ],
-      "latitude": 59.45198753,
-      "longitude": -135.3167528,
-      "map_thumbnail_image": 117,
-      "name": "Pullen Pond",
-      "name_description": "Pullen Pond, named for Gold Rush entrepreneur Harriet Pullen, is a beautiful spot to relax, picnic, and see salmon run.",
-      "primary_image": 49,
-      "type": "Park",
+      "latitude": 59.4730831,
+      "longitude": -135.289414,
+      "map_thumbnail_image": 118,
+      "name": "Gold Rush Cemetery and Reid Falls",
+      "name_description": "This Gold Rush-era cemetery includes wayside exhibits highlighting significant historical people and serves as trailhead to beautiful Reid falls.",
+      "primary_image": 473,
+      "type": "Cemetery, Trail",
       "services": [
         {
           "description": "Restroom",
@@ -3102,20 +3109,20 @@
     },
     {
       "geofence_buffer_in_meters": 10,
-      "id": 33,
+      "id": 32,
       "information": [
         {
           "description": "Seasonal",
           "name": "Hours"
         }
       ],
-      "latitude": 59.4730831,
-      "longitude": -135.289414,
-      "map_thumbnail_image": 118,
-      "name": "Gold Rush Cemetery and Reid Falls",
-      "name_description": "This Gold Rush-era cemetery includes wayside exhibits highlighting significant historical people and serves as trailhead to beautiful Reid falls.",
-      "primary_image": 50,
-      "type": "Cemetery, Trail",
+      "latitude": 59.45198753,
+      "longitude": -135.3167528,
+      "map_thumbnail_image": 117,
+      "name": "Pullen Pond",
+      "name_description": "Pullen Pond, named for Gold Rush entrepreneur Harriet Pullen, is a beautiful spot to relax, picnic, and see salmon run.",
+      "primary_image": 49,
+      "type": "Park",
       "services": [
         {
           "description": "Restroom",
