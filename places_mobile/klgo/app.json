@@ -2012,6 +2012,42 @@
       "type": "image"
     },
     {
+      "id": 475,
+      "image_1080": "475_1080x810.jpg",
+      "image_1536": "475_1536x1152.jpg",
+      "image_350": "475_350x260.jpg",
+      "image_480": "475_480x320.jpg",
+      "image_640": "475_640x504.jpg",
+      "image_768": "475_768x480.jpg",
+      "image_960": "475_960x640.jpg",
+      "name": "Dewey Trail",
+      "type": "image"
+    },
+    {
+      "id": 474,
+      "image_1080": "474_1080x810.jpg",
+      "image_1536": "474_1536x1152.jpg",
+      "image_350": "474_350x260.jpg",
+      "image_480": "474_480x320.jpg",
+      "image_640": "474_640x504.jpg",
+      "image_768": "474_768x480.jpg",
+      "image_960": "474_960x640.jpg",
+      "name": "Arctic Brotherhood Building (City Visitor Center)",
+      "type": "image"
+    },
+    {
+      "id": 473,
+      "image_1080": "473_1080x810.jpg",
+      "image_1536": "473_1536x1152.jpg",
+      "image_350": "473_350x260.jpg",
+      "image_480": "473_480x320.jpg",
+      "image_640": "473_640x504.jpg",
+      "image_768": "473_768x480.jpg",
+      "image_960": "473_960x640.jpg",
+      "name": "Gold Rush Cemetery and Reid Falls",
+      "type": "image"
+    },
+    {
       "id": 13,
       "name": "A Demo Audio File",
       "relative_url": "13.m4a",
@@ -2125,6 +2161,35 @@
   ],
   "sites": [
     {
+      "description": "The local chapter of the fraternal organization Arctic Brotherhood first met here in August 1899. An example of Victorian Rustic architecture, the ornate driftwood façade was completed in 1900 after lodge members collected over 8,800 pieces of driftwood from the beaches of Skagway to create it. The Arctic Brotherhood was active until the 1920s, and now houses an informational center run by Skagway’s Convention and Visitors Bureau.",
+      "geofence_buffer_in_meters": 10,
+      "id": 4,
+      "information": [
+        {
+          "description": "Summer hours: Monday through Friday 8-6, Saturday 8-4, Sunday 8-5, Winter hours: Monday through Friday 9-4",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45405826,
+      "longitude": -135.3183031,
+      "map_thumbnail_image": 89,
+      "media": [
+        70
+      ],
+      "name": "Arctic Brotherhood Building (City Visitor Center)",
+      "name_description": "The City Visitor Center is housed in this 1900 structure built by the Arctic Brotherhood, a fraternal group of miners.",
+      "primary_image": 474,
+      "type": "Visitor Center",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
       "audio_description": "White Pass & Yukon Route Depot.  1 ¼ minutes.  The White Pass & Yukon Route Depot is situated on the south side of Second Avenue, between Broadway and Spring Street.  It is painted white with green trim.  The western half of the wooden building is two stories tall, dropping to just one story on the eastern side.  Further to the east is a large parking area.  On both the north and south-facing facades, maroon letters on the second story read “White Pass & Yukon Route, Established 1898.”  \n\nYou may enter the building on the north side from Second Avenue.  It’s two steps up to the door from the sidewalk, and there’s a ramp near the right-hand edge of the building.  Or you can enter the depot from the south.  A covered cement porch runs the length of the building on the south side and a doorway provides access from the porch.  The porch also serves as the railroad platform; the tracks are located a few feet to the south, parallel to it.  Please watch your step near the tracks and listen for oncoming trains.\n\nEnd of message.",
       "description": "This ornate building was designed by Seattle architect Henry Dozier to house the White Pass and Yukon Route Railroad administration.  Completed in 1900, the building today serves as headquarters for Klondike Gold Rush National Historical Park, featuring a museum with exhibits about the gold rush.",
       "geofence_buffer_in_meters": 10,
@@ -2158,6 +2223,13 @@
           "type": "Handicapped Access"
         }
       ]
+    },
+    {
+      "description": "Dewey Trail",
+      "geofence_buffer_in_meters": 10,
+      "id": 480,
+      "name": "Dewey Trail",
+      "primary_image": 475
     },
     {
       "audio_description": "Soapy's Parlor Museum.  1 ½ minutes.  Jefferson “Soapy” Smith’s parlor is a narrow, one-story building, 15 feet wide.  It stretches back 60 feet from street, and a simple pitched, shingled roof tops the building behind its false front.  Soapy’s is located on the south side of Second Avenue, between State Street and Broadway.  A metal fence five feet high separates the building from the boardwalk.  Grassy areas on both sides of the structure set it apart from the neighboring buildings.  The exterior walls on either side of the building are windowless..  Soapy’s is not currently open to the public. \n        \nThe building’s wooden, flat-topped facade is painted white, except for a black strip about a foot wide across the top, just below the roofline.  The words “Jeff. Smiths Parlor” have been stenciled in white capital letters on the black strip, but are badly faded.  A single windowed doorway is set into the right-hand side of the façade; a large square window is located immediately to its left.  The window and door, both trimmed in beige, together stretch across almost the entire width of the building.  White lace curtains adorn the window and door from inside.\n\nEnd of message.\n",
@@ -2435,35 +2507,6 @@
       "name_description": "A caboose trails Rotary Snowplow No. 1, built in 1899 and used by the White Pass & Yukon Route to clear up to 12 feet of snow.",
       "primary_image": 29,
       "type": "Outdoor Exhibit",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "description": "The local chapter of the fraternal organization Arctic Brotherhood first met here in August 1899. An example of Victorian Rustic architecture, the ornate driftwood façade was completed in 1900 after lodge members collected over 8,800 pieces of driftwood from the beaches of Skagway to create it. The Arctic Brotherhood was active until the 1920s, and now houses an informational center run by Skagway’s Convention and Visitors Bureau.",
-      "geofence_buffer_in_meters": 10,
-      "id": 4,
-      "information": [
-        {
-          "description": "Summer hours: Monday through Friday 8-6, Saturday 8-4, Sunday 8-5, Winter hours: Monday through Friday 9-4",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45405826,
-      "longitude": -135.3183031,
-      "map_thumbnail_image": 89,
-      "media": [
-        70
-      ],
-      "name": "Arctic Brotherhood Building (City Visitor Center)",
-      "name_description": "The City Visitor Center is housed in this 1900 structure built by the Arctic Brotherhood, a fraternal group of miners.",
-      "primary_image": 18,
-      "type": "Visitor Center",
       "services": [
         {
           "description": "Handicapped Access",
@@ -3035,20 +3078,20 @@
     },
     {
       "geofence_buffer_in_meters": 10,
-      "id": 32,
+      "id": 33,
       "information": [
         {
           "description": "Seasonal",
           "name": "Hours"
         }
       ],
-      "latitude": 59.45198753,
-      "longitude": -135.3167528,
-      "map_thumbnail_image": 117,
-      "name": "Pullen Pond",
-      "name_description": "Pullen Pond, named for Gold Rush entrepreneur Harriet Pullen, is a beautiful spot to relax, picnic, and see salmon run.",
-      "primary_image": 49,
-      "type": "Park",
+      "latitude": 59.4730831,
+      "longitude": -135.289414,
+      "map_thumbnail_image": 118,
+      "name": "Gold Rush Cemetery and Reid Falls",
+      "name_description": "This Gold Rush-era cemetery includes wayside exhibits highlighting significant historical people and serves as trailhead to beautiful Reid falls.",
+      "primary_image": 473,
+      "type": "Cemetery, Trail",
       "services": [
         {
           "description": "Restroom",
@@ -3066,20 +3109,20 @@
     },
     {
       "geofence_buffer_in_meters": 10,
-      "id": 33,
+      "id": 32,
       "information": [
         {
           "description": "Seasonal",
           "name": "Hours"
         }
       ],
-      "latitude": 59.4730831,
-      "longitude": -135.289414,
-      "map_thumbnail_image": 118,
-      "name": "Gold Rush Cemetery and Reid Falls",
-      "name_description": "This Gold Rush-era cemetery includes wayside exhibits highlighting significant historical people and serves as trailhead to beautiful Reid falls.",
-      "primary_image": 50,
-      "type": "Cemetery, Trail",
+      "latitude": 59.45198753,
+      "longitude": -135.3167528,
+      "map_thumbnail_image": 117,
+      "name": "Pullen Pond",
+      "name_description": "Pullen Pond, named for Gold Rush entrepreneur Harriet Pullen, is a beautiful spot to relax, picnic, and see salmon run.",
+      "primary_image": 49,
+      "type": "Park",
       "services": [
         {
           "description": "Restroom",
