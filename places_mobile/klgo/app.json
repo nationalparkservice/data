@@ -2012,15 +2012,19 @@
       "type": "image"
     },
     {
-      "id": 475,
-      "image_1080": "475_1080x810.jpg",
-      "image_1536": "475_1536x1152.jpg",
-      "image_350": "475_350x260.jpg",
-      "image_480": "475_480x320.jpg",
-      "image_640": "475_640x504.jpg",
-      "image_768": "475_768x480.jpg",
-      "image_960": "475_960x640.jpg",
-      "name": "Dewey Trail",
+      "id": 473,
+      "image_1080": "473_1080x810.jpg",
+      "image_1536": "473_1536x1152.jpg",
+      "image_350": "473_350x260.jpg",
+      "image_480": "473_480x320.jpg",
+      "image_640": "473_640x504.jpg",
+      "image_768": "473_768x480.jpg",
+      "image_960": "473_960x640.jpg",
+      "name": "Gold Rush Cemetery and Reid Falls",
+      "relative_url": "473.jpg",
+      "relative_url_@2x": "473@2x.jpg",
+      "relative_url_tablet": "473_tablet.jpg",
+      "relative_url_tablet_@2x": "473_tablet_2x.jpg",
       "type": "image"
     },
     {
@@ -2033,18 +2037,26 @@
       "image_768": "474_768x480.jpg",
       "image_960": "474_960x640.jpg",
       "name": "Arctic Brotherhood Building (City Visitor Center)",
+      "relative_url": "474.jpg",
+      "relative_url_@2x": "474@2x.jpg",
+      "relative_url_tablet": "474_tablet.jpg",
+      "relative_url_tablet_@2x": "474_tablet_2x.jpg",
       "type": "image"
     },
     {
-      "id": 473,
-      "image_1080": "473_1080x810.jpg",
-      "image_1536": "473_1536x1152.jpg",
-      "image_350": "473_350x260.jpg",
-      "image_480": "473_480x320.jpg",
-      "image_640": "473_640x504.jpg",
-      "image_768": "473_768x480.jpg",
-      "image_960": "473_960x640.jpg",
-      "name": "Gold Rush Cemetery and Reid Falls",
+      "id": 475,
+      "image_1080": "475_1080x810.jpg",
+      "image_1536": "475_1536x1152.jpg",
+      "image_350": "475_350x260.jpg",
+      "image_480": "475_480x320.jpg",
+      "image_640": "475_640x504.jpg",
+      "image_768": "475_768x480.jpg",
+      "image_960": "475_960x640.jpg",
+      "name": "Dewey Trail",
+      "relative_url": "475.jpg",
+      "relative_url_@2x": "475@2x.jpg",
+      "relative_url_tablet": "475_tablet.jpg",
+      "relative_url_tablet_@2x": "475_tablet_2x.jpg",
       "type": "image"
     },
     {
@@ -2053,6 +2065,22 @@
       "relative_url": "13.m4a",
       "transcript": "Sample transcript text for tour audio. Insert actual text into media/transcript",
       "type": "audio"
+    },
+    {
+      "id": 476,
+      "image_1080": "476_1080x810.jpg",
+      "image_1536": "476_1536x1152.jpg",
+      "image_350": "476_350x260.jpg",
+      "image_480": "476_480x320.jpg",
+      "image_640": "476_640x504.jpg",
+      "image_768": "476_768x480.jpg",
+      "image_960": "476_960x640.jpg",
+      "name": "Yakutania Trail Head",
+      "relative_url": "476.jpg",
+      "relative_url_@2x": "476@2x.jpg",
+      "relative_url_tablet": "476_tablet.jpg",
+      "relative_url_tablet_@2x": "476_tablet@2x.jpg",
+      "type": "image"
     }
   ],
   "more": [
@@ -2228,8 +2256,20 @@
       "description": "Dewey Trail",
       "geofence_buffer_in_meters": 10,
       "id": 480,
+      "latitude": 59.452443,
+      "longitude": -135.316098,
       "name": "Dewey Trail",
       "primary_image": 475
+    },
+    {
+      "description": "Yakutania Trail",
+      "geofence_buffer_in_meters": 10,
+      "id": 481,
+      "latitude": 59.454589,
+      "longitude": -135.328965,
+      "name": "Yakutania Trail Head",
+      "primary_image": 476,
+      "type": "Trail"
     },
     {
       "audio_description": "Soapy's Parlor Museum.  1 ½ minutes.  Jefferson “Soapy” Smith’s parlor is a narrow, one-story building, 15 feet wide.  It stretches back 60 feet from street, and a simple pitched, shingled roof tops the building behind its false front.  Soapy’s is located on the south side of Second Avenue, between State Street and Broadway.  A metal fence five feet high separates the building from the boardwalk.  Grassy areas on both sides of the structure set it apart from the neighboring buildings.  The exterior walls on either side of the building are windowless..  Soapy’s is not currently open to the public. \n        \nThe building’s wooden, flat-topped facade is painted white, except for a black strip about a foot wide across the top, just below the roofline.  The words “Jeff. Smiths Parlor” have been stenciled in white capital letters on the black strip, but are badly faded.  A single windowed doorway is set into the right-hand side of the façade; a large square window is located immediately to its left.  The window and door, both trimmed in beige, together stretch across almost the entire width of the building.  White lace curtains adorn the window and door from inside.\n\nEnd of message.\n",
