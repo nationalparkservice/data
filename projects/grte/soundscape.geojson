@@ -8,7 +8,8 @@
         "Site_Name": "Bar BC Ranch",
         "Unit_Code": "GRTE",
         "Season": "S",
-        "Year": 2005
+        "Year": 2005,
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -25,7 +26,8 @@
         "Site_Name": "Beaver Creek 2",
         "Unit_Code": "GRTE",
         "Season": "S",
-        "Year": 2007
+        "Year": 2007,
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +44,8 @@
         "Site_Name": "Beaver Creek",
         "Unit_Code": "GRTE",
         "Season": "W",
-        "Year": 2006
+        "Year": 2006,
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -59,7 +62,8 @@
         "Site_Name": "Blacktail Butte Southeast",
         "Unit_Code": "GRTE",
         "Season": "W",
-        "Year": 2003
+        "Year": 2003,
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -76,7 +80,8 @@
         "Site_Name": "Catholic Bay",
         "Unit_Code": "GRTE",
         "Season": "M",
-        "Year": 2005
+        "Year": 2005,
+        "Habitat": "Open Mixed Forest"
       },
       "geometry": {
         "type": "Point",
@@ -93,7 +98,8 @@
         "Site_Name": "Colter Bay Landing",
         "Unit_Code": "GRTE",
         "Season": "W",
-        "Year": 2004
+        "Year": 2004,
+        "Habitat": "Open Mixed Forest"
       },
       "geometry": {
         "type": "Point",
@@ -110,7 +116,8 @@
         "Site_Name": "Colter Bay Picnic Area",
         "Unit_Code": "GRTE",
         "Season": "M",
-        "Year": 2005
+        "Year": 2005,
+        "Habitat": "Open Mixed Forest"
       },
       "geometry": {
         "type": "Point",
@@ -127,7 +134,8 @@
         "Site_Name": "Colter Bay Picnic Loop",
         "Unit_Code": "GRTE",
         "Season": "W",
-        "Year": 2003
+        "Year": 2003,
+        "Habitat": "Open Mixed Forest"
       },
       "geometry": {
         "type": "Point",
@@ -144,7 +152,8 @@
         "Site_Name": "Cascade Canyon North Fork",
         "Unit_Code": "GRTE",
         "Season": "S",
-        "Year": 2005
+        "Year": 2005,
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -161,7 +170,8 @@
         "Site_Name": "Flagg Ranch Ranger Station",
         "Unit_Code": "JODR",
         "Season": "W",
-        "Year": "2003,2004"
+        "Year": "2003, 2004",
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -178,7 +188,8 @@
         "Site_Name": "Flagg Ranch South",
         "Unit_Code": "JODR",
         "Season": "W",
-        "Year": 2003
+        "Year": 2003,
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -195,7 +206,8 @@
         "Site_Name": "Grassy Lake Road 2",
         "Unit_Code": "JODR",
         "Season": "W",
-        "Year": 2001
+        "Year": 2001,
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -212,7 +224,8 @@
         "Site_Name": "Grassy Lake Road",
         "Unit_Code": "JODR",
         "Season": "M",
-        "Year": 2005
+        "Year": 2005,
+        "Habitat": "Meadow"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +242,8 @@
         "Site_Name": "Headquarters Office",
         "Unit_Code": "GRTE",
         "Season": "M",
-        "Year": "2007,2008,2009,2010"
+        "Year": "2007, 2008, 2009, 2010",
+        "Habitat": "Developed"
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +260,8 @@
         "Site_Name": "Hunter Barn",
         "Unit_Code": "GRTE",
         "Season": "S",
-        "Year": 2008
+        "Year": 2008,
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -263,7 +278,8 @@
         "Site_Name": "Jenny Lake Horse Trail",
         "Unit_Code": "GRTE",
         "Season": "S",
-        "Year": 2012
+        "Year": 2012,
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -280,7 +296,8 @@
         "Site_Name": "Jackson Hole Airport Lek",
         "Unit_Code": "GRTE",
         "Season": "M",
-        "Year": "2006,2013"
+        "Year": "2006, 2013",
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -297,7 +314,8 @@
         "Site_Name": "Jackson Lake Cow Island",
         "Unit_Code": "GRTE",
         "Season": "M",
-        "Year": "2005,2006"
+        "Year": "2005, 2006",
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -314,7 +332,8 @@
         "Site_Name": "Jenny Lake Loop Road",
         "Unit_Code": "GRTE",
         "Season": "W",
-        "Year": 2014
+        "Year": 2014,
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -331,7 +350,8 @@
         "Site_Name": "Jackson Lake South Landing",
         "Unit_Code": "GRTE",
         "Season": "W",
-        "Year": 2003
+        "Year": 2003,
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -348,7 +368,8 @@
         "Site_Name": "Jackson Lake Waterfall Canyon",
         "Unit_Code": "GRTE",
         "Season": "W",
-        "Year": 2010
+        "Year": 2010,
+        "Habitat": "Open Mixed Forest"
       },
       "geometry": {
         "type": "Point",
@@ -365,7 +386,8 @@
         "Site_Name": "Lower Saddle",
         "Unit_Code": "GRTE",
         "Season": "S",
-        "Year": 2008
+        "Year": 2008,
+        "Habitat": "Rocky High Elevation"
       },
       "geometry": {
         "type": "Point",
@@ -382,7 +404,8 @@
         "Site_Name": "McBride Lek",
         "Unit_Code": "GRTE",
         "Season": "M",
-        "Year": 2013
+        "Year": 2013,
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -399,7 +422,8 @@
         "Site_Name": "Moose Pond",
         "Unit_Code": "GRTE",
         "Season": "S",
-        "Year": 2012
+        "Year": 2012,
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -416,7 +440,8 @@
         "Site_Name": "Murie Ranch",
         "Unit_Code": "GRTE",
         "Season": "S",
-        "Year": 2009
+        "Year": 2009,
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -433,7 +458,8 @@
         "Site_Name": "Moose Wilson Road 2",
         "Unit_Code": "GRTE",
         "Season": "S",
-        "Year": 2013
+        "Year": 2013,
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -450,7 +476,8 @@
         "Site_Name": "Moose Wilson Road 3",
         "Unit_Code": "GRTE",
         "Season": "M",
-        "Year": "2013,2014"
+        "Year": "2013, 2014",
+        "Habitat": "Open Mixed Forest"
       },
       "geometry": {
         "type": "Point",
@@ -467,7 +494,8 @@
         "Site_Name": "Pacific Creek Intersection",
         "Unit_Code": "GRTE",
         "Season": "W",
-        "Year": 2003
+        "Year": 2003,
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -484,7 +512,8 @@
         "Site_Name": "Pemble Trail 2",
         "Unit_Code": "GRTE",
         "Season": "S",
-        "Year": 2008
+        "Year": 2008,
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -501,7 +530,8 @@
         "Site_Name": "Pemble Trail",
         "Unit_Code": "GRTE",
         "Season": "W",
-        "Year": 2007
+        "Year": 2007,
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -518,7 +548,8 @@
         "Site_Name": "Phelps Lake Jump Rock",
         "Unit_Code": "GRTE",
         "Season": "S",
-        "Year": 2014
+        "Year": 2014,
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -535,7 +566,8 @@
         "Site_Name": "Phelps Lake Low Noise",
         "Unit_Code": "GRTE",
         "Season": "S",
-        "Year": 2014
+        "Year": 2014,
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -552,7 +584,8 @@
         "Site_Name": "Potholes West",
         "Unit_Code": "GRTE",
         "Season": "W",
-        "Year": 2014
+        "Year": 2014,
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -569,7 +602,8 @@
         "Site_Name": "Snake River Spread North",
         "Unit_Code": "GRTE",
         "Season": "S",
-        "Year": 2006
+        "Year": 2006,
+        "Habitat": "Open Deciduous Forest"
       },
       "geometry": {
         "type": "Point",
@@ -586,7 +620,8 @@
         "Site_Name": "Sharp-tailed Grouse Lek",
         "Unit_Code": "GRTE",
         "Season": "S",
-        "Year": 2009
+        "Year": 2009,
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -603,7 +638,8 @@
         "Site_Name": "Spread Creek 01",
         "Unit_Code": "GRTE",
         "Season": "S",
-        "Year": 2014
+        "Year": 2014,
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -620,7 +656,8 @@
         "Site_Name": "Spread Creek 02",
         "Unit_Code": "GRTE",
         "Season": "S",
-        "Year": 2014
+        "Year": 2014,
+        "Habitat": "Open Deciduous Forest"
       },
       "geometry": {
         "type": "Point",
@@ -637,7 +674,8 @@
         "Site_Name": "Spread Creek 03",
         "Unit_Code": "GRTE",
         "Season": "S",
-        "Year": 2014
+        "Year": 2014,
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -654,7 +692,8 @@
         "Site_Name": "Spread Creek Lek 1",
         "Unit_Code": "GRTE",
         "Season": "S",
-        "Year": 2014
+        "Year": 2014,
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -671,7 +710,8 @@
         "Site_Name": "Spread Creek Low Noise",
         "Unit_Code": "GRTE",
         "Season": "S",
-        "Year": 2014
+        "Year": 2014,
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -688,7 +728,8 @@
         "Site_Name": "Spread Creek Lek 2",
         "Unit_Code": "GRTE",
         "Season": "S",
-        "Year": 2014
+        "Year": 2014,
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -705,7 +746,8 @@
         "Site_Name": "Timbered Island",
         "Unit_Code": "GRTE",
         "Season": "M",
-        "Year": "2002,2003"
+        "Year": "2002, 2003",
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -722,7 +764,8 @@
         "Site_Name": "Teton Road Lagoon",
         "Unit_Code": "GRTE",
         "Season": "M",
-        "Year": "2004,2005"
+        "Year": "2004, 2005",
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -739,7 +782,8 @@
         "Site_Name": "White Grass",
         "Unit_Code": "GRTE",
         "Season": "M",
-        "Year": "2004,2005,2015"
+        "Year": "2004, 2005, 2015",
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -756,7 +800,8 @@
         "Site_Name": "Avalanche Creek",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2006
+        "Year": 2006,
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -773,7 +818,8 @@
         "Site_Name": "Bechler 1",
         "Unit_Code": "YELL",
         "Season": "S",
-        "Year": 2011
+        "Year": 2011,
+        "Habitat": "Open Mixed Forest"
       },
       "geometry": {
         "type": "Point",
@@ -790,7 +836,8 @@
         "Site_Name": "Blacktail Backcountry",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": "2008,2009"
+        "Year": "2008, 2009",
+        "Habitat": "Open Deciduous Forest"
       },
       "geometry": {
         "type": "Point",
@@ -807,7 +854,8 @@
         "Site_Name": "Blacktail Roadside",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": "2008,2009"
+        "Year": "2008, 2009",
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -824,7 +872,8 @@
         "Site_Name": "Cygnet Lake Roadside",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": "2011,2012"
+        "Year": "2011, 2012",
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -841,7 +890,8 @@
         "Site_Name": "Caldera Rim Picnic Area",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2011
+        "Year": 2011,
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -858,7 +908,8 @@
         "Site_Name": "Canyon Village Developed Area",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": "2011,2012"
+        "Year": "2011, 2012",
+        "Habitat": "Developed"
       },
       "geometry": {
         "type": "Point",
@@ -875,7 +926,8 @@
         "Site_Name": "Delacy Creek 2",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2008
+        "Year": 2008,
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -892,7 +944,8 @@
         "Site_Name": "Delacy Creek",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2003
+        "Year": 2003,
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -909,7 +962,8 @@
         "Site_Name": "Fountain Paint Pots",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": "2014,2015"
+        "Year": "2014, 2015",
+        "Habitat": "Geothermal Basin"
       },
       "geometry": {
         "type": "Point",
@@ -926,7 +980,8 @@
         "Site_Name": "Fern Lake Backcountry",
         "Unit_Code": "YELL",
         "Season": "M",
-        "Year": "2006,2007"
+        "Year": "2006, 2007",
+        "Habitat": "Meadow"
       },
       "geometry": {
         "type": "Point",
@@ -943,7 +998,8 @@
         "Site_Name": "Yellowstone Lake Frank Island",
         "Unit_Code": "YELL",
         "Season": "S",
-        "Year": 2013
+        "Year": 2013,
+        "Habitat": "Open Mixed Forest"
       },
       "geometry": {
         "type": "Point",
@@ -960,7 +1016,8 @@
         "Site_Name": "Grant Village Lewis Lake",
         "Unit_Code": "YELL",
         "Season": "M",
-        "Year": "2007,2008,2014,2015"
+        "Year": "2007, 2008, 2014, 2015",
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -977,7 +1034,8 @@
         "Site_Name": "Heart Lake Backcountry",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2013
+        "Year": 2013,
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -994,7 +1052,8 @@
         "Site_Name": "Lone Star Geyser",
         "Unit_Code": "YELL",
         "Season": "M",
-        "Year": "2003,2004,2005,2006"
+        "Year": "2003, 2004, 2005, 2006",
+        "Habitat": "Geothermal Basin"
       },
       "geometry": {
         "type": "Point",
@@ -1011,7 +1070,8 @@
         "Site_Name": "Lamar Valley Willow",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": "2009,2010"
+        "Year": "2009, 2010",
+        "Habitat": "Meadow"
       },
       "geometry": {
         "type": "Point",
@@ -1028,7 +1088,8 @@
         "Site_Name": "Mammoth Canary Springs",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2012
+        "Year": 2012,
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -1045,7 +1106,8 @@
         "Site_Name": "Middle Barronette Meadow",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2012
+        "Year": 2012,
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1062,7 +1124,8 @@
         "Site_Name": "Madison Junction 2.3",
         "Unit_Code": "YELL",
         "Season": "M",
-        "Year": "2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015"
+        "Year": "2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015",
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1079,7 +1142,8 @@
         "Site_Name": "Madison Junction 50 feet",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2014
+        "Year": 2014,
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1096,7 +1160,8 @@
         "Site_Name": "Mary Mountain 4K",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2004
+        "Year": 2004,
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1113,7 +1178,8 @@
         "Site_Name": "Mary Mountain 8K",
         "Unit_Code": "YELL",
         "Season": "M",
-        "Year": "2005,2008"
+        "Year": "2005, 2008",
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -1130,7 +1196,8 @@
         "Site_Name": "Mary Mountain Trail",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2004
+        "Year": 2004,
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -1147,7 +1214,8 @@
         "Site_Name": "Mud Volcano",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2007
+        "Year": 2007,
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1164,7 +1232,8 @@
         "Site_Name": "North Twin Lake",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2009
+        "Year": 2009,
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1181,7 +1250,8 @@
         "Site_Name": "Old Faithful Geyser",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2003
+        "Year": 2003,
+        "Habitat": "Geothermal Basin"
       },
       "geometry": {
         "type": "Point",
@@ -1198,7 +1268,8 @@
         "Site_Name": "Old Faithful Upper Basin",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": "2005,2006"
+        "Year": "2005, 2006",
+        "Habitat": "Geothermal Basin"
       },
       "geometry": {
         "type": "Point",
@@ -1215,7 +1286,8 @@
         "Site_Name": "Old Faithful Weather Station",
         "Unit_Code": "YELL",
         "Season": "M",
-        "Year": "2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015"
+        "Year": "2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015",
+        "Habitat": "Geothermal Basin"
       },
       "geometry": {
         "type": "Point",
@@ -1232,7 +1304,8 @@
         "Site_Name": "Paycheck Pass Backcountry",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2013
+        "Year": 2013,
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1249,7 +1322,8 @@
         "Site_Name": "Pumice Point Roadside",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": "2010,2011"
+        "Year": "2010, 2011",
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1266,7 +1340,8 @@
         "Site_Name": "Yellowstone Lake South Arm West",
         "Unit_Code": "YELL",
         "Season": "S",
-        "Year": 2013
+        "Year": 2013,
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1283,7 +1358,8 @@
         "Site_Name": "South Entrance Roadside",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": "2013,2014"
+        "Year": "2013, 2014",
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1300,7 +1376,8 @@
         "Site_Name": "Shoshone Geyser Basin",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2008
+        "Year": 2008,
+        "Habitat": "Geothermal Basin"
       },
       "geometry": {
         "type": "Point",
@@ -1317,7 +1394,8 @@
         "Site_Name": "Sylvan Lake",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2006
+        "Year": 2006,
+        "Habitat": "Lake"
       },
       "geometry": {
         "type": "Point",
@@ -1334,7 +1412,8 @@
         "Site_Name": "Spring Creek 2",
         "Unit_Code": "YELL",
         "Season": "M",
-        "Year": 2006
+        "Year": 2006,
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1351,7 +1430,8 @@
         "Site_Name": "Spring Creek",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": "2006,2007"
+        "Year": "2006, 2007",
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1368,7 +1448,8 @@
         "Site_Name": "Sylvan Pass 3",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": "2012,2013"
+        "Year": "2012, 2013",
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1385,7 +1466,8 @@
         "Site_Name": "Mary Mountain Transect East 1",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2010
+        "Year": 2010,
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -1402,7 +1484,8 @@
         "Site_Name": "Mary Mountain Transect East 2",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2010
+        "Year": 2010,
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -1419,7 +1502,8 @@
         "Site_Name": "Mary Mountain Transect East 3",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2010
+        "Year": 2010,
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -1436,7 +1520,8 @@
         "Site_Name": "Mary Mountain Transect West 1",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2010
+        "Year": 2010,
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -1453,7 +1538,8 @@
         "Site_Name": "Mary Mountain Transect West 2",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2010
+        "Year": 2010,
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -1470,7 +1556,8 @@
         "Site_Name": "Mary Mountain Transect West 3",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2010
+        "Year": 2010,
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1487,7 +1574,8 @@
         "Site_Name": "West Yellowstone",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": 2003
+        "Year": 2003,
+        "Habitat": "Developed"
       },
       "geometry": {
         "type": "Point",
@@ -1504,7 +1592,8 @@
         "Site_Name": "West Thumb",
         "Unit_Code": "YELL",
         "Season": "W",
-        "Year": "2005,2006"
+        "Year": "2005, 2006",
+        "Habitat": "Geothermal Basin"
       },
       "geometry": {
         "type": "Point",
@@ -1521,7 +1610,8 @@
         "Site_Name": "W. Yellowstone 3.1",
         "Unit_Code": "YELL",
         "Season": "M",
-        "Year": 2005
+        "Year": 2005,
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
