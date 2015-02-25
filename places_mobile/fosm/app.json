@@ -3,19 +3,45 @@
   "categories": [
     {
       "description": "Visit these twelve “must-see” sites for a glimpse into Skagway’s colorful past—and present.",
-      "name": "Highlights"
+      "name": "Highlights",
+      "sites": [
+        95,
+        106,
+        97
+      ]
     },
     {
-      "name": "Favorites"
+      "name": "Favorites",
+      "sites": [
+        105,
+        106,
+        107
+      ]
     },
     {
-      "name": "Nearby"
+      "name": "Nearby",
+      "sites": [
+        94,
+        105,
+        106
+      ]
     },
     {
-      "name": "Good for Families"
+      "name": "Good for Families",
+      "sites": [
+        94,
+        95,
+        96,
+        97
+      ]
     },
     {
-      "name": "Lesser Known"
+      "name": "Lesser Known",
+      "sites": [
+        94,
+        95,
+        96
+      ]
     }
   ],
   "description": "This is a description for the home screen.",
