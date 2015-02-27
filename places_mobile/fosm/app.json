@@ -2085,7 +2085,50 @@
       "type": "Stone Marker"
     }
   ],
-  "tours": [],
+  "tours": [
+    {
+      "description": "Demo Tour",
+      "id": 6,
+      "name": "FOSM Demo Tour",
+      "primary_image": 233,
+      "sites": [
+        {
+          "id": 98,
+          "media": [
+            190,
+            220,
+            228
+          ]
+        },
+        {
+          "id": 99,
+          "media": [
+            191,
+            221
+          ]
+        },
+        {
+          "id": 130,
+          "media": [
+            208
+          ]
+        },
+        {
+          "id": 128,
+          "media": [
+            206
+          ]
+        },
+        {
+          "id": 129,
+          "media": [
+            207
+          ]
+        }
+      ],
+      "tours_sites": []
+    }
+  ],
   "urls": {
     "base_url_icon": "http://nationalparkservice.github.io/data/places_mobile/icons/",
     "base_url_media": "http://nationalparkservice.github.io/data/places_mobile/fosm/media/"
