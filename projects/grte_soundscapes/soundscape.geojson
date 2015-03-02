@@ -9,8 +9,7 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "31 Aug-6 Sep 2005",
-        "Habitat": "Sage Brush",
-        "AcousticPortrait": ""
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -28,8 +27,7 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "24-29 Aug 2007",
-        "Habitat": "Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -47,8 +45,7 @@
         "Unit_Code": "GRTE",
         "Season": "Winter",
         "Year": "7-29 Mar 2006",
-        "Habitat": "Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -66,8 +63,7 @@
         "Unit_Code": "GRTE",
         "Season": "Winter",
         "Year": "8-10 Feb 2003",
-        "Habitat": "Sage Brush",
-        "AcousticPortrait": ""
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -157,8 +153,7 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "1-8 Aug 2005",
-        "Habitat": "Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -176,8 +171,7 @@
         "Unit_Code": "JODR",
         "Season": "Winter",
         "Year": "2-6 Jan 2003",
-        "Habitat": "Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -195,8 +189,7 @@
         "Unit_Code": "JODR",
         "Season": "Winter",
         "Year": "28-30 Jan 2011",
-        "Habitat": "Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -232,8 +225,7 @@
         "Unit_Code": "GRTE",
         "Season": "Mixed",
         "Year": "8 May 2007-18 Aug 2010",
-        "Habitat": "Developed",
-        "AcousticPortrait": ""
+        "Habitat": "Developed"
       },
       "geometry": {
         "type": "Point",
@@ -251,8 +243,7 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "31 Jul-8 Aug 2008",
-        "Habitat": "Sage Brush",
-        "AcousticPortrait": ""
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -270,8 +261,7 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "1-28 Aug 2012",
-        "Habitat": "Open Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -288,9 +278,8 @@
         "Site_Name": "Jackson Hole Airport Lek",
         "Unit_Code": "GRTE",
         "Season": "Mixed",
-        "Year": "30 Mar-20 Jun 2006",
-        "Habitat": " 27 Mar-9 Apr 2013",
-        "AcousticPortrait": "Sage Brush"
+        "Year": "30 Mar-20 Jun 2006,  27 Mar-9 Apr 2013",
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -308,8 +297,7 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "9-30 May 2014",
-        "Habitat": "Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -327,8 +315,7 @@
         "Unit_Code": "GRTE",
         "Season": "Mixed",
         "Year": "15 Feb 2005-27 Jul 2006",
-        "Habitat": "Open Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -346,8 +333,7 @@
         "Unit_Code": "GRTE",
         "Season": "Winter",
         "Year": "7 Mar-12 Apr 2014",
-        "Habitat": "Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -365,8 +351,7 @@
         "Unit_Code": "GRTE",
         "Season": "Winter",
         "Year": "9-19 Feb 2003",
-        "Habitat": "Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -420,8 +405,7 @@
         "Unit_Code": "GRTE",
         "Season": "Mixed",
         "Year": "27 Mar-3 Jun 2013",
-        "Habitat": "Sage Brush",
-        "AcousticPortrait": ""
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -438,9 +422,8 @@
         "Site_Name": "Moose Pond",
         "Unit_Code": "GRTE",
         "Season": "Summer",
-        "Year": "28 Aug-30 Sep 2012",
-        "Habitat": " 10-30 May 2014",
-        "AcousticPortrait": "Open Conifer Forest"
+        "Year": "28 Aug-30 Sep 2012, 10-30 May 2014",
+        "Habitat": " Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -458,8 +441,7 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "13 May-24 Aug 2009",
-        "Habitat": "Open Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -477,8 +459,7 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "13-21 Jun 2014",
-        "Habitat": "Sage Brush",
-        "AcousticPortrait": ""
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -514,8 +495,7 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "16 Jul-8 Aug 2014",
-        "Habitat": "Sage Brush",
-        "AcousticPortrait": ""
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -532,9 +512,8 @@
         "Site_Name": "Spread Creek Lek 1",
         "Unit_Code": "GRTE",
         "Season": "Summer",
-        "Year": "13 Jun-15 Jul 2014",
-        "Habitat": " 8-14 Aug 2014",
-        "AcousticPortrait": "Sage Brush"
+        "Year": "13 Jun-15 Jul 2014,  8-14 Aug 2014",
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -552,8 +531,7 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "8-25 Aug 2014",
-        "Habitat": "Sage Brush",
-        "AcousticPortrait": ""
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -571,8 +549,7 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "16 Jul-19 Aug 2014",
-        "Habitat": "Sage Brush",
-        "AcousticPortrait": ""
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -608,8 +585,7 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "30 Apr-3 Jun 2010",
-        "Habitat": "Sage Brush",
-        "AcousticPortrait": ""
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -626,9 +602,8 @@
         "Site_Name": "Timbered Island",
         "Unit_Code": "GRTE",
         "Season": "Mixed",
-        "Year": "2 Oct-15 Nov 2002",
-        "Habitat": " 9 Feb-23 Jul 2003",
-        "AcousticPortrait": "Sage Brush"
+        "Year": "2 Oct-15 Nov 2002,  9 Feb-23 Jul 2003",
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -645,9 +620,8 @@
         "Site_Name": "Flagg Ranch Ranger Station",
         "Unit_Code": "JODR",
         "Season": "Winter",
-        "Year": "10-20 Feb 2003",
-        "Habitat": " 4 Dec 2003-29 Mar 2004",
-        "AcousticPortrait": "Open Conifer Forest"
+        "Year": "10-20 Feb 2003,  4 Dec 2003-29 Mar 2004",
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -665,8 +639,7 @@
         "Unit_Code": "GRTE",
         "Season": "Mixed",
         "Year": "14 Jan 2004-11 Feb 2005",
-        "Habitat": "Open Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -683,9 +656,8 @@
         "Site_Name": "White Grass",
         "Unit_Code": "GRTE",
         "Season": "Mixed",
-        "Year": "2 Feb 2004-7 Feb 2005",
-        "Habitat": " 21 Jan-7 Feb 2015",
-        "AcousticPortrait": "Sage Brush"
+        "Year": "2 Feb 2004-7 Feb 2005,  21 Jan-7 Feb 2015",
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -703,8 +675,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": 2006,
-        "Habitat": "Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -758,8 +729,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": "2008, 2009",
-        "Habitat": "Sage Brush",
-        "AcousticPortrait": ""
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -777,8 +747,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": "2011, 2012",
-        "Habitat": "Open Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -796,8 +765,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": 2011,
-        "Habitat": "Open Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -815,8 +783,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": "2011, 2012",
-        "Habitat": "Developed",
-        "AcousticPortrait": ""
+        "Habitat": "Developed"
       },
       "geometry": {
         "type": "Point",
@@ -834,8 +801,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": 2008,
-        "Habitat": "Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -853,8 +819,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": 2003,
-        "Habitat": "Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -926,8 +891,7 @@
         "Unit_Code": "YELL",
         "Season": "Mixed",
         "Year": "2007, 2008, 2014, 2015",
-        "Habitat": "Open Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -945,8 +909,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": 2013,
-        "Habitat": "Open Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1000,8 +963,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": 2012,
-        "Habitat": "Sage Brush",
-        "AcousticPortrait": ""
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -1019,8 +981,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": 2012,
-        "Habitat": "Open Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1038,8 +999,7 @@
         "Unit_Code": "YELL",
         "Season": "Mixed",
         "Year": "2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015",
-        "Habitat": "Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1057,8 +1017,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": 2014,
-        "Habitat": "Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1076,8 +1035,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": 2004,
-        "Habitat": "Open Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1095,8 +1053,7 @@
         "Unit_Code": "YELL",
         "Season": "Mixed",
         "Year": "2005, 2008",
-        "Habitat": "Sage Brush",
-        "AcousticPortrait": ""
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -1114,8 +1071,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": 2004,
-        "Habitat": "Sage Brush",
-        "AcousticPortrait": ""
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -1133,8 +1089,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": 2007,
-        "Habitat": "Open Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1152,8 +1107,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": 2009,
-        "Habitat": "Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1225,8 +1179,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": 2013,
-        "Habitat": "Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1244,8 +1197,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": "2010, 2011",
-        "Habitat": "Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1263,8 +1215,7 @@
         "Unit_Code": "YELL",
         "Season": "Summer",
         "Year": 2013,
-        "Habitat": "Open Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1282,8 +1233,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": "2013, 2014",
-        "Habitat": "Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1337,8 +1287,7 @@
         "Unit_Code": "YELL",
         "Season": "Mixed",
         "Year": 2006,
-        "Habitat": "Open Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1356,8 +1305,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": "2006, 2007",
-        "Habitat": "Open Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1375,8 +1323,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": "2012, 2013",
-        "Habitat": "Open Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1394,8 +1341,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": 2010,
-        "Habitat": "Sage Brush",
-        "AcousticPortrait": ""
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -1413,8 +1359,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": 2010,
-        "Habitat": "Sage Brush",
-        "AcousticPortrait": ""
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -1432,8 +1377,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": 2010,
-        "Habitat": "Sage Brush",
-        "AcousticPortrait": ""
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -1451,8 +1395,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": 2010,
-        "Habitat": "Sage Brush",
-        "AcousticPortrait": ""
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -1470,8 +1413,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": 2010,
-        "Habitat": "Sage Brush",
-        "AcousticPortrait": ""
+        "Habitat": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -1489,8 +1431,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": 2010,
-        "Habitat": "Open Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1508,8 +1449,7 @@
         "Unit_Code": "YELL",
         "Season": "Winter",
         "Year": 2003,
-        "Habitat": "Developed",
-        "AcousticPortrait": ""
+        "Habitat": "Developed"
       },
       "geometry": {
         "type": "Point",
@@ -1545,8 +1485,7 @@
         "Unit_Code": "YELL",
         "Season": "Mixed",
         "Year": 2005,
-        "Habitat": "Open Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1564,8 +1503,7 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "19 Aug-19 Sep 2013",
-        "Habitat": "Open Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1583,8 +1521,7 @@
         "Unit_Code": "GRTE",
         "Season": "Mixed",
         "Year": "1 Nov 2013-26 Nov 2014",
-        "Habitat": "Open Mixed Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Mixed Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1602,8 +1539,7 @@
         "Unit_Code": "GRTE",
         "Season": "Winter",
         "Year": "2-4 Jan 2003",
-        "Habitat": "Open Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1621,8 +1557,7 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "11-16 Jul 2008",
-        "Habitat": "Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1640,8 +1575,7 @@
         "Unit_Code": "GRTE",
         "Season": "Winter",
         "Year": "17-23 Feb 2007",
-        "Habitat": "Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1659,8 +1593,7 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "7 Sep-2 Oct 2014",
-        "Habitat": "Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1678,8 +1611,7 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "7 Sep-2 Oct 2014",
-        "Habitat": "Open Conifer Forest",
-        "AcousticPortrait": ""
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
@@ -1696,9 +1628,8 @@
         "Site_Name": "Potholes West",
         "Unit_Code": "GRTE",
         "Season": "Winter",
-        "Year": "7 Mar-15 Apr 2014",
-        "Habitat": "28 Jul-20 Aug 2014",
-        "AcousticPortrait": "Open Conifer Forest"
+        "Year": "7 Mar-15 Apr 2014, 28 Jul-20 Aug 2014",
+        "Habitat": "Open Conifer Forest"
       },
       "geometry": {
         "type": "Point",
