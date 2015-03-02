@@ -4,11 +4,47 @@
     {
       "type": "Feature",
       "properties": {
+        "Site_Code": "GRTEBAFL",
+        "Site_Name": "Baseline Flats",
+        "Unit_Code": "GRTE",
+        "Season": "Summer",
+        "Year": "20 Jul-5 Aug 2009",
+        "Habitat": "Sage Brush",
+        "AcousticPortrait": "Baseline Flats_ A mid summer day of sounds.mp3",
+        "Acoustic Summary": "Baseline Flats is a sage brush dominated location just west of the Snake River in the shadow of the Tetons. During quiet periods the rapids on the Snake River are audible. Wind picks up in the summer afternoons along with insect activity. Birds are also frequently heard. This area is directly under the flight path of aircraft approaching the Jackson Hole Airport from the north, but the sounds from road vehicles on Highway 89 are heard more frequently.",
+        "Days of Audibility Analysis": 11,
+        "Hours of Acoustic Data": 352,
+        "Common Sounds-All hours": "All natural sources (95%), All non-natural sounds (52%), Flowing water (41%), Road vehicles (37%), Insects (35%), Wind (31%), Bird (30%), Aircraft (9%), Unknown motor sounds (7%), Rain (3%)",
+        "Common Sounds- Summer Daytime": "All natural sources (96%), Insects (61%), All non-natural sounds (60%), Wind (47%), Road vehicles (39%), Bird (31%), Aircraft (15%), Unknown motor sounds (9%), Flowing water (8%), Rain (5%)",
+        "Common Sounds- Winter Daytime": "",
+        "Lmin": "21.1 dBA",
+        "Lmax": "79.5 dBA",
+        "Max ID": "Thunder",
+        "Sound Level Metrics-All hours": "L90=30.3 dBA, L50=33.9 dBA, L10=40.6 dBA, Leq=41.8 dBA",
+        "Sound Level Metrics-Daytime": "L90=30.3 dBA, L50=37.7 dBA, L10=47.1 dBA, Leq=46.5 dBA",
+        "Photo1": "GRTEBAFL to east.jpg",
+        "Photo2": "GRTEBAFL to west.jpg",
+        "Spectrogram1": "GRTEBAFL_2009_07_27_A_summer.png",
+        "Spectrogram2": "",
+        "Spectrogram3": "",
+        "Spectrogram4": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.68366,
+          43.71888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Site_Code": "GRTEBBCR",
         "Site_Name": "Bar BC Ranch",
         "Unit_Code": "GRTE",
-        "Season": "S",
-        "Year": 2005,
+        "Season": "Summer",
+        "Year": "31 Aug-6 Sep 2005",
         "Habitat": "Sage Brush"
       },
       "geometry": {
@@ -25,8 +61,8 @@
         "Site_Code": "GRTEBEC2",
         "Site_Name": "Beaver Creek 2",
         "Unit_Code": "GRTE",
-        "Season": "S",
-        "Year": 2007,
+        "Season": "Summer",
+        "Year": "24-29 Aug 2007",
         "Habitat": "Conifer Forest"
       },
       "geometry": {
@@ -43,8 +79,8 @@
         "Site_Code": "GRTEBECR",
         "Site_Name": "Beaver Creek",
         "Unit_Code": "GRTE",
-        "Season": "W",
-        "Year": 2006,
+        "Season": "Winter",
+        "Year": "7-29 Mar 2006",
         "Habitat": "Conifer Forest"
       },
       "geometry": {
@@ -61,8 +97,8 @@
         "Site_Code": "GRTEBTBU",
         "Site_Name": "Blacktail Butte Southeast",
         "Unit_Code": "GRTE",
-        "Season": "W",
-        "Year": 2003,
+        "Season": "Winter",
+        "Year": "8-10 Feb 2003",
         "Habitat": "Sage Brush"
       },
       "geometry": {
@@ -79,8 +115,8 @@
         "Site_Code": "GRTECABA",
         "Site_Name": "Catholic Bay",
         "Unit_Code": "GRTE",
-        "Season": "M",
-        "Year": 2005,
+        "Season": "Mixed",
+        "Year": "28 Jan-19 May 2005",
         "Habitat": "Open Mixed Forest"
       },
       "geometry": {
@@ -97,8 +133,8 @@
         "Site_Code": "GRTECBLD",
         "Site_Name": "Colter Bay Landing",
         "Unit_Code": "GRTE",
-        "Season": "W",
-        "Year": 2004,
+        "Season": "Winter",
+        "Year": "18-27 Mar 2004",
         "Habitat": "Open Mixed Forest"
       },
       "geometry": {
@@ -115,8 +151,8 @@
         "Site_Code": "GRTECBPA",
         "Site_Name": "Colter Bay Picnic Area",
         "Unit_Code": "GRTE",
-        "Season": "M",
-        "Year": 2005,
+        "Season": "Mixed",
+        "Year": "9 Feb-13 May 2005",
         "Habitat": "Open Mixed Forest"
       },
       "geometry": {
@@ -133,8 +169,8 @@
         "Site_Code": "GRTECBPL",
         "Site_Name": "Colter Bay Picnic Loop",
         "Unit_Code": "GRTE",
-        "Season": "W",
-        "Year": 2003,
+        "Season": "Winter",
+        "Year": "2-5 Jan 2003",
         "Habitat": "Open Mixed Forest"
       },
       "geometry": {
@@ -151,8 +187,8 @@
         "Site_Code": "GRTECCNF",
         "Site_Name": "Cascade Canyon North Fork",
         "Unit_Code": "GRTE",
-        "Season": "S",
-        "Year": 2005,
+        "Season": "Summer",
+        "Year": "1-8 Aug 2005",
         "Habitat": "Conifer Forest"
       },
       "geometry": {
@@ -169,9 +205,27 @@
         "Site_Code": "GRTEFLRS",
         "Site_Name": "Flagg Ranch Ranger Station",
         "Unit_Code": "JODR",
-        "Season": "W",
-        "Year": "2003, 2004",
-        "Habitat": "Open Conifer Forest"
+        "Season": "Winter",
+        "Year": "10-20 Feb 2003",
+        "Habitat": " 4 Dec 2003-29 Mar 2004",
+        "AcousticPortrait": "Open Conifer Forest",
+        "Acoustic Summary": "",
+        "Days of Audibility Analysis": "",
+        "Hours of Acoustic Data": "",
+        "Common Sounds-All hours": "",
+        "Common Sounds- Summer Daytime": "",
+        "Common Sounds- Winter Daytime": "",
+        "Lmin": "",
+        "Lmax": "",
+        "Max ID": "",
+        "Sound Level Metrics-All hours": "",
+        "Sound Level Metrics-Daytime": "",
+        "Photo1": "",
+        "Photo2": "",
+        "Spectrogram1": "",
+        "Spectrogram2": "",
+        "Spectrogram3": "",
+        "Spectrogram4": ""
       },
       "geometry": {
         "type": "Point",
@@ -187,8 +241,8 @@
         "Site_Code": "GRTEFLSO",
         "Site_Name": "Flagg Ranch South",
         "Unit_Code": "JODR",
-        "Season": "W",
-        "Year": 2003,
+        "Season": "Winter",
+        "Year": "2-6 Jan 2003",
         "Habitat": "Conifer Forest"
       },
       "geometry": {
@@ -205,8 +259,8 @@
         "Site_Code": "GRTEGLR2",
         "Site_Name": "Grassy Lake Road 2",
         "Unit_Code": "JODR",
-        "Season": "W",
-        "Year": 2001,
+        "Season": "Winter",
+        "Year": "28-30 Jan 2011",
         "Habitat": "Conifer Forest"
       },
       "geometry": {
@@ -223,8 +277,8 @@
         "Site_Code": "GRTEGRLR",
         "Site_Name": "Grassy Lake Road",
         "Unit_Code": "JODR",
-        "Season": "M",
-        "Year": 2005,
+        "Season": "Mixed",
+        "Year": "4 Jan-24 May 005",
         "Habitat": "Meadow"
       },
       "geometry": {
@@ -238,11 +292,83 @@
     {
       "type": "Feature",
       "properties": {
+        "Site_Code": "GRTEGRTE",
+        "Site_Name": "Grand Teton Summit",
+        "Unit_Code": "GRTE",
+        "Season": "Summer",
+        "Year": "18 Jul-14 Aug 2013",
+        "Habitat": "Rocky High Elevation",
+        "AcousticPortrait": "Grand Teton Summit- A Summer Day.mp3",
+        "Acoustic Summary": "The sounds that characterize the summit of Grand Teton are: thunderstorms as they roll across the Tetons, wind whistling through the rocks, the croak of a raven, buzzing insects, dripping water as the snowpack melt, and maybe even the cries of elation and then muffled chatter of climbers as they celebrate their success. The summit of Grand Teton is usually very quiet except for when the wind picks up or there are climbers talking. Most of the motor sounds are fairly quiet because of their distance. Aircraft are much louder than road vehicles, especially if they are flying nearby. Only a few hearty birds frequent the high peaks, most of which are Common Ravens. Small rodents are present, but active mostly at night.  ",
+        "Days of Audibility Analysis": 13,
+        "Hours of Acoustic Data": 645,
+        "Common Sounds-All hours": "All non-natural sounds (38%), Wind (31%), Silence (31%), All motor sounds (28%), People’s Voices (17%), Aircraft (10%)",
+        "Common Sounds- Summer Daytime": "All non-natural sounds (64%), All motor sounds (44%), People’s Voices (33%), Wind (24%), Aircraft (16%), Silence (13%)",
+        "Common Sounds- Winter Daytime": "",
+        "Lmin": "15.8 dBA",
+        "Lmax": "83.3 dBA",
+        "Max ID": "Thunder",
+        "Sound Level Metrics-All hours": "L90=21.6 dBA, L50=22.8 dBA, L10=26.9 dBA, Leq=26.2 dBA",
+        "Sound Level Metrics-Daytime": "L90=21.9 dBA, L50=23.7 dBA, L10=29.1 dBA, Leq=28.1 dBA",
+        "Photo1": "GRTEGRTE_northeast.jpg",
+        "Photo2": "",
+        "Spectrogram1": "GRTEGRTE_2013_07_25_H_Summer.png",
+        "Spectrogram2": "GRTEGRTE_2013_08_13_H_Summer.png",
+        "Spectrogram3": "",
+        "Spectrogram4": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.80237,
+          43.74125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site_Code": "GRTEGVCE",
+        "Site_Name": "Gros Ventre Campground East",
+        "Unit_Code": "GRTE",
+        "Season": "Mixed",
+        "Year": "30 Jun 2011-1 Aug 2012",
+        "Habitat": "Sage Brush",
+        "AcousticPortrait": "Gros Ventre Campground East_A Year of Sound.mp3",
+        "Acoustic Summary": "The predominant sound at Gros Ventre Campground East is the rushing Gros Ventre River, louder during spring runoff, but audible year-round. This sage  brush area just east of the Gros Ventre Campground is home to many vocalizing birds and insects during the summer days, and coyotes and Common Nighthawks during the night. Road vehicles and aircraft are also commonly heard.",
+        "Days of Audibility Analysis": 78,
+        "Hours of Acoustic Data": "8,566",
+        "Common Sounds-All hours": "All natural sources (90%), Flowing water (49%), All non-natural sounds (47%), Wind (30%), Road vehicles (28%), Bird (22%), Insects (13%), Unknown motor sounds (12%), Aircraft (7%)",
+        "Common Sounds- Summer Daytime": "All natural sounds (96%), All non-natural sounds (74%), Insects (65%), All Road Vehicles (35%), Birds (35%), Wind (33%), Unknown motor sounds (25%), Flowing Water (23%), Aircraft (17%)",
+        "Common Sounds- Winter Daytime": "All natural sounds (64%), All non-natural sounds (59%), All Road Vehicles (31%), Flowing Water (28%), Wind (27%), Aircraft (13%), Unknown motor sounds (13%), Birds (10%), Construction/Hwy Equipment (10%), Snowfall (5%), Silence (2%)",
+        "Lmin": "15.2 dBA",
+        "Lmax": "99.1 dBA",
+        "Max ID": "Thunder",
+        "Sound Level Metrics-All hours": "L90=26.5 dBA, L50=30.1 dBA, L10=35.6 dBA, Leq=34.4 dBA",
+        "Sound Level Metrics-Daytime": "L90=24.8 dBA, L50=28.9 dBA, L10=36.5 dBA, Leq=36.3 dBA",
+        "Photo1": "GRTEGVCE_southwest.jpg",
+        "Photo2": "",
+        "Spectrogram1": "",
+        "Spectrogram2": "",
+        "Spectrogram3": "",
+        "Spectrogram4": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.65372,
+          43.62244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Site_Code": "GRTEHQOF",
         "Site_Name": "Headquarters Office",
         "Unit_Code": "GRTE",
-        "Season": "M",
-        "Year": "2007, 2008, 2009, 2010",
+        "Season": "Mixed",
+        "Year": "8 May 2007-18 Aug 2010",
         "Habitat": "Developed"
       },
       "geometry": {
@@ -259,8 +385,8 @@
         "Site_Code": "GRTEHUBA",
         "Site_Name": "Hunter Barn",
         "Unit_Code": "GRTE",
-        "Season": "S",
-        "Year": 2008,
+        "Season": "Summer",
+        "Year": "31 Jul-8 Aug 2008",
         "Habitat": "Sage Brush"
       },
       "geometry": {
@@ -277,8 +403,8 @@
         "Site_Code": "GRTEJEHT",
         "Site_Name": "Jenny Lake Horse Trail",
         "Unit_Code": "GRTE",
-        "Season": "S",
-        "Year": 2012,
+        "Season": "Summer",
+        "Year": "1-28 Aug 2012",
         "Habitat": "Open Conifer Forest"
       },
       "geometry": {
@@ -295,9 +421,27 @@
         "Site_Code": "GRTEJHAL",
         "Site_Name": "Jackson Hole Airport Lek",
         "Unit_Code": "GRTE",
-        "Season": "M",
-        "Year": "2006, 2013",
-        "Habitat": "Sage Brush"
+        "Season": "Mixed",
+        "Year": "30 Mar-20 Jun 2006",
+        "Habitat": " 27 Mar-9 Apr 2013",
+        "AcousticPortrait": "Sage Brush",
+        "Acoustic Summary": "",
+        "Days of Audibility Analysis": "",
+        "Hours of Acoustic Data": "",
+        "Common Sounds-All hours": "",
+        "Common Sounds- Summer Daytime": "",
+        "Common Sounds- Winter Daytime": "",
+        "Lmin": "",
+        "Lmax": "",
+        "Max ID": "",
+        "Sound Level Metrics-All hours": "",
+        "Sound Level Metrics-Daytime": "",
+        "Photo1": "",
+        "Photo2": "",
+        "Spectrogram1": "",
+        "Spectrogram2": "",
+        "Spectrogram3": "",
+        "Spectrogram4": ""
       },
       "geometry": {
         "type": "Point",
@@ -310,11 +454,29 @@
     {
       "type": "Feature",
       "properties": {
+        "Site_Code": "GRTEJLBH",
+        "Site_Name": "Jenny Lake Boat House",
+        "Unit_Code": "GRTE",
+        "Season": "Summer",
+        "Year": "9-30 May 2014",
+        "Habitat": "Conifer Forest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.72684,
+          43.75165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Site_Code": "GRTEJLCI",
         "Site_Name": "Jackson Lake Cow Island",
         "Unit_Code": "GRTE",
-        "Season": "M",
-        "Year": "2005, 2006",
+        "Season": "Mixed",
+        "Year": "15 Feb 2005-27 Jul 2006",
         "Habitat": "Open Conifer Forest"
       },
       "geometry": {
@@ -328,11 +490,47 @@
     {
       "type": "Feature",
       "properties": {
+        "Site_Code": "GRTEJLDI",
+        "Site_Name": "Jackson Lake Dollar Island",
+        "Unit_Code": "GRTE",
+        "Season": "Mixed",
+        "Year": "23 Feb 2011-13 Feb 2012",
+        "Habitat": "Open Conifer Forest",
+        "AcousticPortrait": "Jackson Lake Dollar Island_A Year of Sounds.mp3",
+        "Acoustic Summary": "This site is on a small island off of the larger Elk Island in the south central park of Jackson Lake. The soundscape thus includes by motorboat noise during the summer and a surprising amount of human voices from boats and while fishing on the frozen lake during the winter. Wind and waves, birds and insects, and silence are common occurrences, too. Aircraft overflights and distant road vehicles are also regularly audible.",
+        "Days of Audibility Analysis": 53,
+        "Hours of Acoustic Data": "7,080",
+        "Common Sounds-All hours": "All natural sounds (71%), Wind (37%), Waves (26%), All non-natural sounds (22%), Silence (21%), Birds (14%), Watercraft (9%), Aircraft (5%), Snowfall or rain (5%), Unknown motor sounds (4%), People’s Voices (2%), Insects (2%)",
+        "Common Sounds- Summer Daytime": "All natural sounds (87%), All non-natural sounds (69%), Watercraft (63%), Birds (41%), Insects (18%), Wind (14%), Aircraft (3%), Unknown motor sounds (3%), Mammals (1%)",
+        "Common Sounds- Winter Daytime": "All natural sounds (71%), Wind (53%), All non-natural sounds (24%), Snowfall (20%), Silence (15%), Birds (12%), People’s voices (10%), Aircraft (7%), All Road Vehicles (4%), Unknown motor sounds (4%), Oversnow vehicles (1%)",
+        "Lmin": "13.4 dBA",
+        "Lmax": "85.3 dBA",
+        "Max ID": "Sandhill Crane",
+        "Sound Level Metrics-All hours": "L90=19.1 dBA, L50=23.2 dBA, L10=30.3 dBA, Leq=29.0 dBA",
+        "Sound Level Metrics-Daytime": "L90=20.0 dBA, L50=25.4 dBA, L10=33.4 dBA, Leq=32.1 dBA",
+        "Photo1": "GRTEJLDI.jpg",
+        "Photo2": "GRTEJLDI summer.jpg",
+        "Spectrogram1": "GRTEJLDI_2011_02_09_A_winter.png",
+        "Spectrogram2": "GRTEJLDI_2011_05_05h_Spring.png",
+        "Spectrogram3": "GRTEJLDI_2011_07_05h_Summer.png",
+        "Spectrogram4": "GRTEJLDI_2011_10_13H_Autumn.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.6656,
+          43.87085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Site_Code": "GRTEJLLR",
         "Site_Name": "Jenny Lake Loop Road",
         "Unit_Code": "GRTE",
-        "Season": "W",
-        "Year": 2014,
+        "Season": "Winter",
+        "Year": "7 Mar-12 Apr 2014",
         "Habitat": "Conifer Forest"
       },
       "geometry": {
@@ -349,8 +547,8 @@
         "Site_Code": "GRTEJLSL",
         "Site_Name": "Jackson Lake South Landing",
         "Unit_Code": "GRTE",
-        "Season": "W",
-        "Year": 2003,
+        "Season": "Winter",
+        "Year": "9-19 Feb 2003",
         "Habitat": "Conifer Forest"
       },
       "geometry": {
@@ -367,8 +565,8 @@
         "Site_Code": "GRTEJLWC",
         "Site_Name": "Jackson Lake Waterfall Canyon",
         "Unit_Code": "GRTE",
-        "Season": "W",
-        "Year": 2010,
+        "Season": "Winter",
+        "Year": "15 Mar-2 Apr 2010",
         "Habitat": "Open Mixed Forest"
       },
       "geometry": {
@@ -382,11 +580,47 @@
     {
       "type": "Feature",
       "properties": {
+        "Site_Code": "GRTELOBE",
+        "Site_Name": "Lower Berry Cabin",
+        "Unit_Code": "GRTE",
+        "Season": "Mixed",
+        "Year": "17 Feb 2012-9 Mar 2013",
+        "Habitat": "Open Mixed Forest",
+        "AcousticPortrait": "Lower Berry_A Year of Sounds.mp3",
+        "Acoustic Summary": "This site near the west shore of Jackson Lake is characterized by the sounds of nature, including birds, wind, flowing water, and insects during the summer. The sounds of elk foraging and bugling and red squirrels chattering are frequently heard. Distant sounds of watercraft and road vehicles are audible during the summer and high flying aircraft are heard year-round. This area is on the edge of recommended wilderness and its soundscape reflects that with extended periods of silence.",
+        "Days of Audibility Analysis": 91,
+        "Hours of Acoustic Data": "8,435",
+        "Common Sounds-All hours": "All natural sounds (86%), Birds (40%), Wind (38%), Flowing water (33%), All non-natural sounds (19%), Silence (11%), Insects (10%), Snowfall or rain (7%), Mammals (6%), Unknown motor sounds (6%), Watercraft (5%), Road vehicles (5%), Aircraft (4%)",
+        "Common Sounds- Summer Daytime": "All natural sounds (100%), Birds (78%), All non-natural sounds (51%), Insects (51%), Wind (46%), Watercraft (25%), Unknown motor sounds (16%), Flowing water (12%), Mammals (10%), Aircraft (5%), Rain (4%)",
+        "Common Sounds- Winter Daytime": "All natural sounds (68%), Wind (55%), Silence (26%), Birds (14%), Flowing water (13%), All non-natural sounds (12%), Snowfall or rain (10%), Aircraft (6%), All Road Vehicles (4%), Mammals (3%), Unknown motor sounds (2%)",
+        "Lmin": "13.7 dBA",
+        "Lmax": "96.0 dBA",
+        "Max ID": "Thunder",
+        "Sound Level Metrics-All hours": "L90=22.7 dBA, L50=25.8 dBA, L10=29.9 dBA, Leq=28.4 dBA",
+        "Sound Level Metrics-Daytime": "L90=23.1 dBA, L50=26.9 dBA, L10=32.4 dBA, Leq=30.9 dBA",
+        "Photo1": "GRTELOBE southeast.jpg",
+        "Photo2": "GRTELOBE west.jpg",
+        "Spectrogram1": "GRTELOBE_2012_02_27H_Winter.png",
+        "Spectrogram2": "GRTELOBE_2012_06_05H_Spring.png",
+        "Spectrogram3": "GRTELOBE_2012_08_08H_Summer.png",
+        "Spectrogram4": "GRTELOBE_2012_10_24_H_Autumn.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.70689,
+          43.99956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Site_Code": "GRTELOSA",
         "Site_Name": "Lower Saddle",
         "Unit_Code": "GRTE",
-        "Season": "S",
-        "Year": 2008,
+        "Season": "Summer",
+        "Year": "15-30 Aug 2008",
         "Habitat": "Rocky High Elevation"
       },
       "geometry": {
@@ -403,8 +637,8 @@
         "Site_Code": "GRTEMCBL",
         "Site_Name": "McBride Lek",
         "Unit_Code": "GRTE",
-        "Season": "M",
-        "Year": 2013,
+        "Season": "Mixed",
+        "Year": "27 Mar-3 Jun 2013",
         "Habitat": "Sage Brush"
       },
       "geometry": {
@@ -421,9 +655,27 @@
         "Site_Code": "GRTEMOPO",
         "Site_Name": "Moose Pond",
         "Unit_Code": "GRTE",
-        "Season": "S",
-        "Year": 2012,
-        "Habitat": "Open Conifer Forest"
+        "Season": "Summer",
+        "Year": "28 Aug-30 Sep 2012",
+        "Habitat": " 10-30 May 2014",
+        "AcousticPortrait": "Open Conifer Forest",
+        "Acoustic Summary": "",
+        "Days of Audibility Analysis": "",
+        "Hours of Acoustic Data": "",
+        "Common Sounds-All hours": "",
+        "Common Sounds- Summer Daytime": "",
+        "Common Sounds- Winter Daytime": "",
+        "Lmin": "",
+        "Lmax": "",
+        "Max ID": "",
+        "Sound Level Metrics-All hours": "",
+        "Sound Level Metrics-Daytime": "",
+        "Photo1": "",
+        "Photo2": "",
+        "Spectrogram1": "",
+        "Spectrogram2": "",
+        "Spectrogram3": "",
+        "Spectrogram4": ""
       },
       "geometry": {
         "type": "Point",
@@ -439,8 +691,8 @@
         "Site_Code": "GRTEMURA",
         "Site_Name": "Murie Ranch",
         "Unit_Code": "GRTE",
-        "Season": "S",
-        "Year": 2009,
+        "Season": "Summer",
+        "Year": "13 May-24 Aug 2009",
         "Habitat": "Open Conifer Forest"
       },
       "geometry": {
@@ -454,11 +706,47 @@
     {
       "type": "Feature",
       "properties": {
+        "Site_Code": "GRTEMWR1",
+        "Site_Name": "Moose Wilson Road 1",
+        "Unit_Code": "GRTE",
+        "Season": "Mixed",
+        "Year": "2 Nov 2012-31 Oct 2013",
+        "Habitat": "Conifer Forest",
+        "AcousticPortrait": "Moose Wilson Road 1_A Year of Sounds.mp3",
+        "Acoustic Summary": "Sounds that characterize Moose Wilson Road 1 include creaking trees when windy, distant sounds of flowing water when otherwise quiet, and motorized sounds originating from the Jackson Hole Airport and road vehicles. During the winter when the nearby road is closed, motorized sounds are quieter and the sounds of recreational skiers are frequent. In the summer the nearby road dominates the soundscape during the day. Birds sing and red squirrels chatter, and in the autumn the forest echoes with the sounds of elk bugling.",
+        "Days of Audibility Analysis": 115,
+        "Hours of Acoustic Data": "8,545",
+        "Common Sounds-All hours": "All natural sources (86%), All non-natural sounds (54%), Flowing water (44%), Bird (26%), Unknown motor sounds (24%), Wind (24%), Road vehicles (21%), Aircraft (10%), Mammals (8%), Insects (3%), Silence (1%), People’s Voices (1%)",
+        "Common Sounds- Summer Daytime": "All non-natural sounds (88%), All natural sounds (86%), All Road Vehicles (73%), Birds (71%), Wind (24%), Flowing Water (15%), Insects (13%), Aircraft (12%), Unknown motor sounds (8%), Mammals (6%)",
+        "Common Sounds- Winter Daytime": "All non-natural sounds (66%), All natural sounds (75%), All Road Vehicles (2%), Birds (15%), Unknown motor sounds (43%), Wind (33%), Flowing Water (22%), Mammals (10%), Aircraft (19%), Silence (3%)",
+        "Lmin": "15.0 dBA",
+        "Lmax": "96.1 dBA",
+        "Max ID": "Chainsaw",
+        "Sound Level Metrics-All hours": "L90=25.7 dBA, L50=28.8 dBA, L10=33.9 dBA, Leq=33.4 dBA",
+        "Sound Level Metrics-Daytime": "L90=26.2 dBA, L50=31.7 dBA, L10=39.9 dBA, Leq=38.0 dBA",
+        "Photo1": "GRTEMWR1 from road.jpg",
+        "Photo2": "GRTEMWR1 tree.jpg",
+        "Spectrogram1": "GRTEMWR1_2012_12_26_A_Winter.png",
+        "Spectrogram2": "GRTEMWR1_2013_05_04_A_Spring.png",
+        "Spectrogram3": "GRTEMWR1_2013_07_04_A_Summer.png",
+        "Spectrogram4": "GRTEMWR1_2013_10_04_A_Autumn.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.76908,
+          43.63567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Site_Code": "GRTEMWR2",
         "Site_Name": "Moose Wilson Road 2",
         "Unit_Code": "GRTE",
-        "Season": "S",
-        "Year": 2013,
+        "Season": "Summer",
+        "Year": "19 Aug-19 Sep 2013',Open Conifer Forest,,,,,,,,,,,,,,,,,,\r\nGRTEMWR3,Moose Wilson Road 3,GRTE,-110.739830,43.652660,M,'1 Nov 2013-26 Nov 2014',Open Mixed Forest,,,,,,,,,,,,,,,,,,\r\nGRTEPACR,Pacific Creek Intersection,GRTE,-110.521124,43.855329,W,'2-4 Jan 2003',Open Conifer Forest,,,,,,,,,,,,,,,,,,\r\nGRTEPET2,Pemble Trail 2,GRTE,-110.740420,43.683820,S,'11-16 Jul 2008',Conifer Forest,,,,,,,,,,,,,,,,,,\r\nGRTEPETR,Pemble Trail,GRTE,-110.740128,43.683974,W,'17-23 Feb 2007',Conifer Forest,,,,,,,,,,,,,,,,,,\r\nGRTEPLJR,Phelps Lake Jump Rock,GRTE,-110.793540,43.649050,S,'7 Sep-2 Oct 2014',Conifer Forest,,,,,,,,,,,,,,,,,,\r\nGRTEPLLN,Phelps Lake Low Noise,GRTE,-110.795550,43.634320,S,'7 Sep-2 Oct 2014',Open Conifer Forest,,,,,,,,,,,,,,,,,,\r\nGRTEPHWE,Potholes West,GRTE,-110.634280,43.808640,W,'7 Mar-15 Apr 2014, 28 Jul-20 Aug 2014\" ",
         "Habitat": "Open Conifer Forest"
       },
       "geometry": {
@@ -472,173 +760,11 @@
     {
       "type": "Feature",
       "properties": {
-        "Site_Code": "GRTEMWR3",
-        "Site_Name": "Moose Wilson Road 3",
-        "Unit_Code": "GRTE",
-        "Season": "M",
-        "Year": "2013, 2014",
-        "Habitat": "Open Mixed Forest"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.73983,
-          43.65266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Site_Code": "GRTEPACR",
-        "Site_Name": "Pacific Creek Intersection",
-        "Unit_Code": "GRTE",
-        "Season": "W",
-        "Year": 2003,
-        "Habitat": "Open Conifer Forest"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.521124,
-          43.855329
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Site_Code": "GRTEPET2",
-        "Site_Name": "Pemble Trail 2",
-        "Unit_Code": "GRTE",
-        "Season": "S",
-        "Year": 2008,
-        "Habitat": "Conifer Forest"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.74042,
-          43.68382
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Site_Code": "GRTEPETR",
-        "Site_Name": "Pemble Trail",
-        "Unit_Code": "GRTE",
-        "Season": "W",
-        "Year": 2007,
-        "Habitat": "Conifer Forest"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.740128,
-          43.683974
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Site_Code": "GRTEPLJR",
-        "Site_Name": "Phelps Lake Jump Rock",
-        "Unit_Code": "GRTE",
-        "Season": "S",
-        "Year": 2014,
-        "Habitat": "Conifer Forest"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.79354,
-          43.64905
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Site_Code": "GRTEPLLN",
-        "Site_Name": "Phelps Lake Low Noise",
-        "Unit_Code": "GRTE",
-        "Season": "S",
-        "Year": 2014,
-        "Habitat": "Open Conifer Forest"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.79555,
-          43.63432
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Site_Code": "GRTEPHWE",
-        "Site_Name": "Potholes West",
-        "Unit_Code": "GRTE",
-        "Season": "W",
-        "Year": 2014,
-        "Habitat": "Open Conifer Forest"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.63428,
-          43.80864
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Site_Code": "GRTESRSN",
-        "Site_Name": "Snake River Spread North",
-        "Unit_Code": "GRTE",
-        "Season": "S",
-        "Year": 2006,
-        "Habitat": "Open Deciduous Forest"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.581338,
-          43.795437
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Site_Code": "GRTESTGL",
-        "Site_Name": "Sharp-tailed Grouse Lek",
-        "Unit_Code": "GRTE",
-        "Season": "S",
-        "Year": 2009,
-        "Habitat": "Sage Brush"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.61626,
-          43.65544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Site_Code": "GRTESC01",
         "Site_Name": "Spread Creek 01",
         "Unit_Code": "GRTE",
-        "Season": "S",
-        "Year": 2014,
+        "Season": "Summer",
+        "Year": "13-21 Jun 2014",
         "Habitat": "Sage Brush"
       },
       "geometry": {
@@ -655,8 +781,8 @@
         "Site_Code": "GRTESC02",
         "Site_Name": "Spread Creek 02",
         "Unit_Code": "GRTE",
-        "Season": "S",
-        "Year": 2014,
+        "Season": "Summer",
+        "Year": "21 Jun-30 Sep 2014",
         "Habitat": "Open Deciduous Forest"
       },
       "geometry": {
@@ -673,8 +799,8 @@
         "Site_Code": "GRTESC03",
         "Site_Name": "Spread Creek 03",
         "Unit_Code": "GRTE",
-        "Season": "S",
-        "Year": 2014,
+        "Season": "Summer",
+        "Year": "16 Jul-8 Aug 2014",
         "Habitat": "Sage Brush"
       },
       "geometry": {
@@ -691,9 +817,27 @@
         "Site_Code": "GRTESCL1",
         "Site_Name": "Spread Creek Lek 1",
         "Unit_Code": "GRTE",
-        "Season": "S",
-        "Year": 2014,
-        "Habitat": "Sage Brush"
+        "Season": "Summer",
+        "Year": "13 Jun-15 Jul 2014",
+        "Habitat": " 8-14 Aug 2014",
+        "AcousticPortrait": "Sage Brush",
+        "Acoustic Summary": "",
+        "Days of Audibility Analysis": "",
+        "Hours of Acoustic Data": "",
+        "Common Sounds-All hours": "",
+        "Common Sounds- Summer Daytime": "",
+        "Common Sounds- Winter Daytime": "",
+        "Lmin": "",
+        "Lmax": "",
+        "Max ID": "",
+        "Sound Level Metrics-All hours": "",
+        "Sound Level Metrics-Daytime": "",
+        "Photo1": "",
+        "Photo2": "",
+        "Spectrogram1": "",
+        "Spectrogram2": "",
+        "Spectrogram3": "",
+        "Spectrogram4": ""
       },
       "geometry": {
         "type": "Point",
@@ -709,8 +853,8 @@
         "Site_Code": "GRTESCLN",
         "Site_Name": "Spread Creek Low Noise",
         "Unit_Code": "GRTE",
-        "Season": "S",
-        "Year": 2014,
+        "Season": "Summer",
+        "Year": "8-25 Aug 2014",
         "Habitat": "Sage Brush"
       },
       "geometry": {
@@ -727,8 +871,8 @@
         "Site_Code": "GRTESCL2",
         "Site_Name": "Spread Creek Lek 2",
         "Unit_Code": "GRTE",
-        "Season": "S",
-        "Year": 2014,
+        "Season": "Summer",
+        "Year": "16 Jul-19 Aug 2014",
         "Habitat": "Sage Brush"
       },
       "geometry": {
@@ -742,12 +886,66 @@
     {
       "type": "Feature",
       "properties": {
+        "Site_Code": "GRTESRSN",
+        "Site_Name": "Snake River Spread North",
+        "Unit_Code": "GRTE",
+        "Season": "Summer",
+        "Year": "28 Jul-13 Sep 2006",
+        "Habitat": "Open Deciduous Forest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.581338,
+          43.795437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Site_Code": "GRTESTGL",
+        "Site_Name": "Sharp-tailed Grouse Lek",
+        "Unit_Code": "GRTE",
+        "Season": "Summer",
+        "Year": "30 Apr-3 Jun 2010",
+        "Habitat": "Sage Brush"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.61626,
+          43.65544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Site_Code": "GRTETIIS",
         "Site_Name": "Timbered Island",
         "Unit_Code": "GRTE",
-        "Season": "M",
-        "Year": "2002, 2003",
-        "Habitat": "Sage Brush"
+        "Season": "Mixed",
+        "Year": "2 Oct-15 Nov 2002",
+        "Habitat": " 9 Feb-23 Jul 2003",
+        "AcousticPortrait": "Sage Brush",
+        "Acoustic Summary": "",
+        "Days of Audibility Analysis": "",
+        "Hours of Acoustic Data": "",
+        "Common Sounds-All hours": "",
+        "Common Sounds- Summer Daytime": "",
+        "Common Sounds- Winter Daytime": "",
+        "Lmin": "",
+        "Lmax": "",
+        "Max ID": "",
+        "Sound Level Metrics-All hours": "",
+        "Sound Level Metrics-Daytime": "",
+        "Photo1": "",
+        "Photo2": "",
+        "Spectrogram1": "",
+        "Spectrogram2": "",
+        "Spectrogram3": "",
+        "Spectrogram4": ""
       },
       "geometry": {
         "type": "Point",
@@ -763,8 +961,8 @@
         "Site_Code": "GRTETRLG",
         "Site_Name": "Teton Road Lagoon",
         "Unit_Code": "GRTE",
-        "Season": "M",
-        "Year": "2004, 2005",
+        "Season": "Mixed",
+        "Year": "14 Jan 2004-11 Feb 2005",
         "Habitat": "Open Conifer Forest"
       },
       "geometry": {
@@ -781,9 +979,10 @@
         "Site_Code": "GRTEWHGR",
         "Site_Name": "White Grass",
         "Unit_Code": "GRTE",
-        "Season": "M",
-        "Year": "2004, 2005, 2015",
-        "Habitat": "Sage Brush"
+        "Season": "Mixed",
+        "Year": "2 Feb 2004-7 Feb 2005",
+        "Habitat": " 21 Jan-7 Feb 2015",
+        "AcousticPortrait": "Sage Brush"
       },
       "geometry": {
         "type": "Point",
@@ -799,7 +998,7 @@
         "Site_Code": "YELLACLN",
         "Site_Name": "Avalanche Creek",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2006,
         "Habitat": "Conifer Forest"
       },
@@ -817,7 +1016,7 @@
         "Site_Code": "YELLBEC1",
         "Site_Name": "Bechler 1",
         "Unit_Code": "YELL",
-        "Season": "S",
+        "Season": "Summer",
         "Year": 2011,
         "Habitat": "Open Mixed Forest"
       },
@@ -835,7 +1034,7 @@
         "Site_Code": "YELLBTBC",
         "Site_Name": "Blacktail Backcountry",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": "2008, 2009",
         "Habitat": "Open Deciduous Forest"
       },
@@ -853,7 +1052,7 @@
         "Site_Code": "YELLBTRS",
         "Site_Name": "Blacktail Roadside",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": "2008, 2009",
         "Habitat": "Sage Brush"
       },
@@ -871,7 +1070,7 @@
         "Site_Code": "YELLCLRS",
         "Site_Name": "Cygnet Lake Roadside",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": "2011, 2012",
         "Habitat": "Open Conifer Forest"
       },
@@ -889,7 +1088,7 @@
         "Site_Code": "YELLCRPA",
         "Site_Name": "Caldera Rim Picnic Area",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2011,
         "Habitat": "Open Conifer Forest"
       },
@@ -907,7 +1106,7 @@
         "Site_Code": "YELLCVDA",
         "Site_Name": "Canyon Village Developed Area",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": "2011, 2012",
         "Habitat": "Developed"
       },
@@ -925,7 +1124,7 @@
         "Site_Code": "YELLDLC2",
         "Site_Name": "Delacy Creek 2",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2008,
         "Habitat": "Conifer Forest"
       },
@@ -943,7 +1142,7 @@
         "Site_Code": "YELLDLCR",
         "Site_Name": "Delacy Creek",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2003,
         "Habitat": "Conifer Forest"
       },
@@ -961,7 +1160,7 @@
         "Site_Code": "YELLFOPP",
         "Site_Name": "Fountain Paint Pots",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": "2014, 2015",
         "Habitat": "Geothermal Basin"
       },
@@ -979,7 +1178,7 @@
         "Site_Code": "YELLFLBC",
         "Site_Name": "Fern Lake Backcountry",
         "Unit_Code": "YELL",
-        "Season": "M",
+        "Season": "Mixed",
         "Year": "2006, 2007",
         "Habitat": "Meadow"
       },
@@ -997,7 +1196,7 @@
         "Site_Code": "YELLFRIS",
         "Site_Name": "Yellowstone Lake Frank Island",
         "Unit_Code": "YELL",
-        "Season": "S",
+        "Season": "Summer",
         "Year": 2013,
         "Habitat": "Open Mixed Forest"
       },
@@ -1015,7 +1214,7 @@
         "Site_Code": "YELLGVLL",
         "Site_Name": "Grant Village Lewis Lake",
         "Unit_Code": "YELL",
-        "Season": "M",
+        "Season": "Mixed",
         "Year": "2007, 2008, 2014, 2015",
         "Habitat": "Open Conifer Forest"
       },
@@ -1033,7 +1232,7 @@
         "Site_Code": "YELLHLBC",
         "Site_Name": "Heart Lake Backcountry",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2013,
         "Habitat": "Open Conifer Forest"
       },
@@ -1051,7 +1250,7 @@
         "Site_Code": "YELLLSGY",
         "Site_Name": "Lone Star Geyser",
         "Unit_Code": "YELL",
-        "Season": "M",
+        "Season": "Mixed",
         "Year": "2003, 2004, 2005, 2006",
         "Habitat": "Geothermal Basin"
       },
@@ -1069,7 +1268,7 @@
         "Site_Code": "YELLLVWI",
         "Site_Name": "Lamar Valley Willow",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": "2009, 2010",
         "Habitat": "Meadow"
       },
@@ -1087,7 +1286,7 @@
         "Site_Code": "YELLMACS",
         "Site_Name": "Mammoth Canary Springs",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2012,
         "Habitat": "Sage Brush"
       },
@@ -1105,7 +1304,7 @@
         "Site_Code": "YELLMBDM",
         "Site_Name": "Middle Barronette Meadow",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2012,
         "Habitat": "Open Conifer Forest"
       },
@@ -1123,7 +1322,7 @@
         "Site_Code": "YELLMJ23",
         "Site_Name": "Madison Junction 2.3",
         "Unit_Code": "YELL",
-        "Season": "M",
+        "Season": "Mixed",
         "Year": "2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015",
         "Habitat": "Conifer Forest"
       },
@@ -1141,7 +1340,7 @@
         "Site_Code": "YELLMJ2B",
         "Site_Name": "Madison Junction 50 feet",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2014,
         "Habitat": "Conifer Forest"
       },
@@ -1159,7 +1358,7 @@
         "Site_Code": "YELLMM4K",
         "Site_Name": "Mary Mountain 4K",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2004,
         "Habitat": "Open Conifer Forest"
       },
@@ -1177,7 +1376,7 @@
         "Site_Code": "YELLMM8K",
         "Site_Name": "Mary Mountain 8K",
         "Unit_Code": "YELL",
-        "Season": "M",
+        "Season": "Mixed",
         "Year": "2005, 2008",
         "Habitat": "Sage Brush"
       },
@@ -1195,7 +1394,7 @@
         "Site_Code": "YELLMMTR",
         "Site_Name": "Mary Mountain Trail",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2004,
         "Habitat": "Sage Brush"
       },
@@ -1213,7 +1412,7 @@
         "Site_Code": "YELLMUVO",
         "Site_Name": "Mud Volcano",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2007,
         "Habitat": "Open Conifer Forest"
       },
@@ -1231,7 +1430,7 @@
         "Site_Code": "YELLNTLA",
         "Site_Name": "North Twin Lake",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2009,
         "Habitat": "Conifer Forest"
       },
@@ -1249,7 +1448,7 @@
         "Site_Code": "YELLOFGY",
         "Site_Name": "Old Faithful Geyser",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2003,
         "Habitat": "Geothermal Basin"
       },
@@ -1267,7 +1466,7 @@
         "Site_Code": "YELLOFUB",
         "Site_Name": "Old Faithful Upper Basin",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": "2005, 2006",
         "Habitat": "Geothermal Basin"
       },
@@ -1285,7 +1484,7 @@
         "Site_Code": "YELLOFWS",
         "Site_Name": "Old Faithful Weather Station",
         "Unit_Code": "YELL",
-        "Season": "M",
+        "Season": "Mixed",
         "Year": "2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015",
         "Habitat": "Geothermal Basin"
       },
@@ -1303,7 +1502,7 @@
         "Site_Code": "YELLPAYP",
         "Site_Name": "Paycheck Pass Backcountry",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2013,
         "Habitat": "Conifer Forest"
       },
@@ -1321,7 +1520,7 @@
         "Site_Code": "YELLPPRD",
         "Site_Name": "Pumice Point Roadside",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": "2010, 2011",
         "Habitat": "Conifer Forest"
       },
@@ -1339,7 +1538,7 @@
         "Site_Code": "YELLSAWE",
         "Site_Name": "Yellowstone Lake South Arm West",
         "Unit_Code": "YELL",
-        "Season": "S",
+        "Season": "Summer",
         "Year": 2013,
         "Habitat": "Open Conifer Forest"
       },
@@ -1357,7 +1556,7 @@
         "Site_Code": "YELLSERS",
         "Site_Name": "South Entrance Roadside",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": "2013, 2014",
         "Habitat": "Conifer Forest"
       },
@@ -1375,7 +1574,7 @@
         "Site_Code": "YELLSHGB",
         "Site_Name": "Shoshone Geyser Basin",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2008,
         "Habitat": "Geothermal Basin"
       },
@@ -1393,7 +1592,7 @@
         "Site_Code": "YELLSLLN",
         "Site_Name": "Sylvan Lake",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2006,
         "Habitat": "Lake"
       },
@@ -1411,7 +1610,7 @@
         "Site_Code": "YELLSPC2",
         "Site_Name": "Spring Creek 2",
         "Unit_Code": "YELL",
-        "Season": "M",
+        "Season": "Mixed",
         "Year": 2006,
         "Habitat": "Open Conifer Forest"
       },
@@ -1429,7 +1628,7 @@
         "Site_Code": "YELLSPCR",
         "Site_Name": "Spring Creek",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": "2006, 2007",
         "Habitat": "Open Conifer Forest"
       },
@@ -1447,7 +1646,7 @@
         "Site_Code": "YELLSYL3",
         "Site_Name": "Sylvan Pass 3",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": "2012, 2013",
         "Habitat": "Open Conifer Forest"
       },
@@ -1465,7 +1664,7 @@
         "Site_Code": "YELLT1E1",
         "Site_Name": "Mary Mountain Transect East 1",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2010,
         "Habitat": "Sage Brush"
       },
@@ -1483,7 +1682,7 @@
         "Site_Code": "YELLT1E2",
         "Site_Name": "Mary Mountain Transect East 2",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2010,
         "Habitat": "Sage Brush"
       },
@@ -1501,7 +1700,7 @@
         "Site_Code": "YELLT1E3",
         "Site_Name": "Mary Mountain Transect East 3",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2010,
         "Habitat": "Sage Brush"
       },
@@ -1519,7 +1718,7 @@
         "Site_Code": "YELLT1W1",
         "Site_Name": "Mary Mountain Transect West 1",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2010,
         "Habitat": "Sage Brush"
       },
@@ -1537,7 +1736,7 @@
         "Site_Code": "YELLT1W2",
         "Site_Name": "Mary Mountain Transect West 2",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2010,
         "Habitat": "Sage Brush"
       },
@@ -1555,7 +1754,7 @@
         "Site_Code": "YELLT1W3",
         "Site_Name": "Mary Mountain Transect West 3",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2010,
         "Habitat": "Open Conifer Forest"
       },
@@ -1573,7 +1772,7 @@
         "Site_Code": "YELLWEST",
         "Site_Name": "West Yellowstone",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": 2003,
         "Habitat": "Developed"
       },
@@ -1591,7 +1790,7 @@
         "Site_Code": "YELLWETH",
         "Site_Name": "West Thumb",
         "Unit_Code": "YELL",
-        "Season": "W",
+        "Season": "Winter",
         "Year": "2005, 2006",
         "Habitat": "Geothermal Basin"
       },
@@ -1609,7 +1808,7 @@
         "Site_Code": "YELLWY31",
         "Site_Name": "W. Yellowstone 3.1",
         "Unit_Code": "YELL",
-        "Season": "M",
+        "Season": "Mixed",
         "Year": 2005,
         "Habitat": "Open Conifer Forest"
       },
