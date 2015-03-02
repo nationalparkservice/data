@@ -76,7 +76,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.056640625, 
+          -83.056640625,
           42.348395259793
         ]
       }
@@ -110,6 +110,54 @@
         "coordinates": [
           -73.98674011230469,
           40.73034831215804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boston, MA",
+        "url": "http://www.nps.gov/state/ma/index.htm",
+        "fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
+        "info": "http://nricms.nps.doi.net/subjects/urban/model-city-boston.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.103515625,
+          42.32606244456202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richmond, VA",
+        "url": "http://www.nps.gov/rich/index.htm",
+        "fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
+        "info": "http://nricms.nps.doi.net/subjects/urban/model-city-richmond-va.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.464599609375,
+          37.54022177661216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Philadelphia, PA",
+        "url": "http://www.nps.gov/inde/index.htm",
+        "fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
+        "info": "http://nricms.nps.doi.net/subjects/urban/model-city-philadelphia.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.179443359375,
+          39.9602803542957
         ]
       }
     }
