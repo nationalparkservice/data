@@ -9,7 +9,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "31 Aug-6 Sep 2005",
-        "Habitat": "Sage Brush"
+        "Habitat": "Sage Brush",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -27,7 +31,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "24-29 Aug 2007",
-        "Habitat": "Conifer Forest"
+        "Habitat": "Conifer Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -45,7 +53,11 @@
         "Unit_Code": "GRTE",
         "Season": "Winter",
         "Year": "7-29 Mar 2006",
-        "Habitat": "Conifer Forest"
+        "Habitat": "Conifer Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -63,7 +75,11 @@
         "Unit_Code": "GRTE",
         "Season": "Winter",
         "Year": "8-10 Feb 2003",
-        "Habitat": "Sage Brush"
+        "Habitat": "Sage Brush",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +97,11 @@
         "Unit_Code": "GRTE",
         "Season": "Mixed",
         "Year": "28 Jan-19 May 2005",
-        "Habitat": "Open Mixed Forest"
+        "Habitat": "Open Mixed Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -99,7 +119,11 @@
         "Unit_Code": "GRTE",
         "Season": "Winter",
         "Year": "18-27 Mar 2004",
-        "Habitat": "Open Mixed Forest"
+        "Habitat": "Open Mixed Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +141,11 @@
         "Unit_Code": "GRTE",
         "Season": "Mixed",
         "Year": "9 Feb-13 May 2005",
-        "Habitat": "Open Mixed Forest"
+        "Habitat": "Open Mixed Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +163,11 @@
         "Unit_Code": "GRTE",
         "Season": "Winter",
         "Year": "2-5 Jan 2003",
-        "Habitat": "Open Mixed Forest"
+        "Habitat": "Open Mixed Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -153,7 +185,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "1-8 Aug 2005",
-        "Habitat": "Conifer Forest"
+        "Habitat": "Conifer Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -225,7 +261,11 @@
         "Unit_Code": "GRTE",
         "Season": "Mixed",
         "Year": "8 May 2007-18 Aug 2010",
-        "Habitat": "Developed"
+        "Habitat": "Developed",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +283,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "31 Jul-8 Aug 2008",
-        "Habitat": "Sage Brush"
+        "Habitat": "Sage Brush",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -261,7 +305,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "1-28 Aug 2012",
-        "Habitat": "Open Conifer Forest"
+        "Habitat": "Open Conifer Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -279,7 +327,11 @@
         "Unit_Code": "GRTE",
         "Season": "Mixed",
         "Year": "30 Mar-20 Jun 2006,  27 Mar-9 Apr 2013",
-        "Habitat": "Sage Brush"
+        "Habitat": "Sage Brush",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -297,7 +349,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "9-30 May 2014",
-        "Habitat": "Conifer Forest"
+        "Habitat": "Conifer Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -315,7 +371,11 @@
         "Unit_Code": "GRTE",
         "Season": "Mixed",
         "Year": "15 Feb 2005-27 Jul 2006",
-        "Habitat": "Open Conifer Forest"
+        "Habitat": "Open Conifer Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -333,7 +393,11 @@
         "Unit_Code": "GRTE",
         "Season": "Winter",
         "Year": "7 Mar-12 Apr 2014",
-        "Habitat": "Conifer Forest"
+        "Habitat": "Conifer Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -351,7 +415,11 @@
         "Unit_Code": "GRTE",
         "Season": "Winter",
         "Year": "9-19 Feb 2003",
-        "Habitat": "Conifer Forest"
+        "Habitat": "Conifer Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -369,7 +437,11 @@
         "Unit_Code": "GRTE",
         "Season": "Winter",
         "Year": "15 Mar-2 Apr 2010",
-        "Habitat": "Open Mixed Forest"
+        "Habitat": "Open Mixed Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -387,7 +459,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "15-30 Aug 2008",
-        "Habitat": "Rocky High Elevation"
+        "Habitat": "Rocky High Elevation",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -405,7 +481,11 @@
         "Unit_Code": "GRTE",
         "Season": "Mixed",
         "Year": "27 Mar-3 Jun 2013",
-        "Habitat": "Sage Brush"
+        "Habitat": "Sage Brush",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -423,7 +503,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "28 Aug-30 Sep 2012, 10-30 May 2014",
-        "Habitat": " Open Conifer Forest"
+        "Habitat": " Open Conifer Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -441,7 +525,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "13 May-24 Aug 2009",
-        "Habitat": "Open Conifer Forest"
+        "Habitat": "Open Conifer Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -459,7 +547,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "13-21 Jun 2014",
-        "Habitat": "Sage Brush"
+        "Habitat": "Sage Brush",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -477,7 +569,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "21 Jun-30 Sep 2014",
-        "Habitat": "Open Deciduous Forest"
+        "Habitat": "Open Deciduous Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -495,7 +591,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "16 Jul-8 Aug 2014",
-        "Habitat": "Sage Brush"
+        "Habitat": "Sage Brush",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -513,7 +613,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "13 Jun-15 Jul 2014,  8-14 Aug 2014",
-        "Habitat": "Sage Brush"
+        "Habitat": "Sage Brush",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +635,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "8-25 Aug 2014",
-        "Habitat": "Sage Brush"
+        "Habitat": "Sage Brush",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -549,7 +657,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "16 Jul-19 Aug 2014",
-        "Habitat": "Sage Brush"
+        "Habitat": "Sage Brush",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -567,7 +679,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "28 Jul-13 Sep 2006",
-        "Habitat": "Open Deciduous Forest"
+        "Habitat": "Open Deciduous Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -585,7 +701,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "30 Apr-3 Jun 2010",
-        "Habitat": "Sage Brush"
+        "Habitat": "Sage Brush",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -603,7 +723,11 @@
         "Unit_Code": "GRTE",
         "Season": "Mixed",
         "Year": "2 Oct-15 Nov 2002,  9 Feb-23 Jul 2003",
-        "Habitat": "Sage Brush"
+        "Habitat": "Sage Brush",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -639,7 +763,11 @@
         "Unit_Code": "GRTE",
         "Season": "Mixed",
         "Year": "14 Jan 2004-11 Feb 2005",
-        "Habitat": "Open Conifer Forest"
+        "Habitat": "Open Conifer Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -657,7 +785,11 @@
         "Unit_Code": "GRTE",
         "Season": "Mixed",
         "Year": "2 Feb 2004-7 Feb 2005,  21 Jan-7 Feb 2015",
-        "Habitat": "Sage Brush"
+        "Habitat": "Sage Brush",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -1503,7 +1635,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "19 Aug-19 Sep 2013",
-        "Habitat": "Open Conifer Forest"
+        "Habitat": "Open Conifer Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -1521,7 +1657,11 @@
         "Unit_Code": "GRTE",
         "Season": "Mixed",
         "Year": "1 Nov 2013-26 Nov 2014",
-        "Habitat": "Open Mixed Forest"
+        "Habitat": "Open Mixed Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -1539,7 +1679,11 @@
         "Unit_Code": "GRTE",
         "Season": "Winter",
         "Year": "2-4 Jan 2003",
-        "Habitat": "Open Conifer Forest"
+        "Habitat": "Open Conifer Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -1557,7 +1701,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "11-16 Jul 2008",
-        "Habitat": "Conifer Forest"
+        "Habitat": "Conifer Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -1575,7 +1723,11 @@
         "Unit_Code": "GRTE",
         "Season": "Winter",
         "Year": "17-23 Feb 2007",
-        "Habitat": "Conifer Forest"
+        "Habitat": "Conifer Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -1593,7 +1745,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "7 Sep-2 Oct 2014",
-        "Habitat": "Conifer Forest"
+        "Habitat": "Conifer Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -1611,7 +1767,11 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "7 Sep-2 Oct 2014",
-        "Habitat": "Open Conifer Forest"
+        "Habitat": "Open Conifer Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
@@ -1629,7 +1789,11 @@
         "Unit_Code": "GRTE",
         "Season": "Winter",
         "Year": "7 Mar-15 Apr 2014, 28 Jul-20 Aug 2014",
-        "Habitat": "Open Conifer Forest"
+        "Habitat": "Open Conifer Forest",
+        "Photo1": "",
+        "Photo2": "",
+        "Photo1_Caption": "",
+        "Photo2_Caption": ""
       },
       "geometry": {
         "type": "Point",
