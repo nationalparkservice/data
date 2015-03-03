@@ -1938,29 +1938,6 @@
     },
     {
       "geofence_buffer_in_meters": 10,
-      "id": 111,
-      "latitude": 35.389153,
-      "longitude": 94.429466,
-      "map_thumbnail_image": 246,
-      "name": "The Parade Ground",
-      "name_description": "From 1846-1871 soldiers performed drill and ceremonies on the parade grounds, making it the center of life at the fort.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
-      "description": "A pencil drawing of the first Fort Smith superimposed on a modern picture of the fort’s foundations.",
-      "geofence_buffer_in_meters": 10,
-      "id": 121,
-      "latitude": 35.387497,
-      "longitude": -94.432312,
-      "map_thumbnail_image": 256,
-      "name": "Abandoned and Forgotten",
-      "name_description": "A pencil drawing of the first Fort Smith superimposed on a modern picture of the fort’s foundations.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
       "id": 119,
       "latitude": 35.388069,
       "longitude": -94.431625,
@@ -2036,6 +2013,30 @@
       "map_thumbnail_image": 252,
       "name": "A Disputed Boundary",
       "name_description": "The boundary between Arkansas and Choctaw territory was originally incorrect due to a survey error.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
+    },
+    {
+      "description": "From 1846-1871 soldiers performed drill and ceremonies on the parade grounds, making it the center of life at the fort.",
+      "geofence_buffer_in_meters": 10,
+      "id": 111,
+      "latitude": 35.389153,
+      "longitude": -94.429466,
+      "map_thumbnail_image": 246,
+      "name": "Parade Ground",
+      "name_description": "From 1846-1871 soldiers performed drill and ceremonies on the parade grounds, making it the center of life at the fort.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
+    },
+    {
+      "description": "A pencil drawing of the first Fort Smith superimposed on a modern picture of the fort’s foundations.",
+      "geofence_buffer_in_meters": 10,
+      "id": 121,
+      "latitude": 35.387497,
+      "longitude": -94.432312,
+      "map_thumbnail_image": 256,
+      "name": "Abandoned and Forgotten",
+      "name_description": "A pencil drawing of the first Fort Smith superimposed on a modern picture of the fort’s foundations.",
       "type": "Wayside Exhibit Panel",
       "services": []
     },
