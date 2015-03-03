@@ -1528,6 +1528,40 @@
   "searches": [],
   "sites": [
     {
+      "description": "This building has evolved. Beginning in 1838 it was home to the enlisted men as a one-story structure with a basement. In 1872, it was converted to a courthouse and jail. The last major change occurred in 1888 when the second jail was completed. Today it serves as the park Visitor Center.",
+      "geofence_buffer_in_meters": 13.352799892710403,
+      "id": 94,
+      "information": [
+        {
+          "description": "A two-story barracks was built in the 1840’s. A fire destroyed most of the building in1849. President Zachary Taylor, who once lived in Fort Smith, did not believe the fort was needed and denied funding to rebuild the barracks causing the fort shut down. After President Taylor, died in 1851 the reconstruction was funded and the fort reopened. In the new building, the living quarters were on the first floor while the dining room was in the basement. In 1871 the military closed the fort for good.",
+          "name": "1838-1871"
+        },
+        {
+          "description": "The federal court moved to Fort Smith in 1872. The first story barracks were converted to a courtroom and offices. Over the next 18 years three different judges used this courtroom. Each presided over the largest federal district at the time. Judge William Story resigned instead of being impeached in July, 1874. Judge Caldwell served as the interim judge.  In May of the following year Judge Isaac C Parker began his 21 year tenure. \n\nJudge Parker used this courtroom until 1890, when a new courthouse was built on the corner of 6th and Rogers. He continued presiding over the court at Fort Smith until his death in 1896. \n\nToday the courtroom is furnished as it might have been during Judge Parker’s tenure. The exhibits are about Judge Parker and the Federal Court System. The courtroom is used for trial reenactments held several times a year. \n",
+          "name": "1872 -1890 Courtroom"
+        },
+        {
+          "description": "In 1872, the basement of the courthouse was converted to a jail. Two large cells housed 30-50 men at a time. Prisoners of all ages, accused of both violent and non-violent crimes, were housed together. \n\nEach cell received little natural light or air. Porches that ran the length of the building shaded the windows. The worst time to be in the jail was during the hot, humid Arkansas summer. Guards threw water across the flagstone floor to “cool” things off. It only added to the humidity. \n\nHygiene was poor. One fire place with buckets served as the toilet. The other had a smaller pail for washing. There was no place for a prisoner to bathe. The stench from the jail could be smelled upstairs in the courtroom. Judge Parker had sawdust placed in the rafters to absorb some of the odors. The horrid conditions led to the jail’s nickname, “Hell on the Border.”  \n\nJudge Parker tried repeatedly, with no success to secure funding to build a better jail. Funding did not become available until 1886 when Anna Dawes, daughter of Senator Henry Dawes, wrote an article for a Washington D.C. magazine describing the horrid conditions of the jail.",
+          "name": "Hell on the Border Jail 1872-1888"
+        },
+        {
+          "description": "The second jail at Fort Smith featured a cell block three tiers high surrounded by an iron cage. Each level held twenty four cells, twelve back-to-back running the length of the building. These measured five feet by seven feet and were furnished with an iron bunk-beds for two prisoners. The inmates relocated here on March 19, 1888. It remained in use until 1917. ",
+          "name": "Second Jail 1888-1917"
+        }
+      ],
+      "latitude": 35.388125,
+      "longitude": -94.429885,
+      "map_thumbnail_image": 229,
+      "media": [
+        186,
+        216
+      ],
+      "name": "Visitor Center",
+      "name_description": "Park’s Visitor Center, served as a soldiers’ barracks (1838-1871), converted to jail and courthouse in 1872.",
+      "type": "Barracks, Courthouse, and Jail",
+      "services": []
+    },
+    {
       "description": "Established on Christmas Day 1817 when the first soldiers arrived to begin building. Their assignment was to stop the fighting between the long established Osage and newly arriving Cherokees moving into Indian Territory. Interesting Fact: Fort Smith was located on the edge of the United States at that time. Far removed from other towns and supply resources, the first soldiers had to be self-sufficient during long periods of time between supply shipments.",
       "geofence_buffer_in_meters": 10,
       "id": 98,
@@ -1741,22 +1775,6 @@
       "name": "Fort Wall (WS)",
       "name_description": "Originally, the fort was surrounded by a stone wall 12’ high and 2’ feet thick. This fort was one of the last this type.",
       "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
-      "description": "Currently serving as the park’s Visitor Center, the building has served many purposes and undergone major architectural changes through the years. It was originally built as a one-story structure with basement during the second Fort Smith period (1838-1871). It served as the enlisted soldiers’ barracks and basement dining room. During the Federal Court period (1872-1896), the barracks became the courtroom, the basement became the “Hell on the Border” jail, and a second story was added. In 1888, the building changed again with the completion of a new three-story jail. Tour the building to experience the first jail and see first- hand why it earned the nickname of being “Hell on the Border”, and compare the improvement of conditions with the construction of the second jail. There are exhibits about tough outlaws, tougher lawmen, and the toughest of them all, Judge Isaac C. Parker. Other exhibits explore Fort Smith’s role in Westward Expansion and Federal Indian Policy.",
-      "geofence_buffer_in_meters": 10,
-      "id": 94,
-      "latitude": 35.3882758926279,
-      "longitude": -94.4297379255295,
-      "map_thumbnail_image": 229,
-      "media": [
-        186,
-        216
-      ],
-      "name": "Barracks, Courthouse, Jail (WS) / Visitor Center",
-      "name_description": "Park’s Visitor Center, served as a soldiers’ barracks (1838-1871), converted to jail and courthouse in 1872.",
-      "type": "Visitor Center",
       "services": []
     },
     {
