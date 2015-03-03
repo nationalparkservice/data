@@ -1585,7 +1585,7 @@
       "services": []
     },
     {
-      "description": "Established on Christmas Day 1817 when the first soldiers arrived to begin building. Their assignment was to stop the fighting between the long established Osage and newly arriving Cherokees moving into Indian Territory. Interesting Fact: Fort Smith was located on the edge of the United States at that time. Far removed from other towns and supply resources, the first soldiers had to be self-sufficient during long periods of time between supply shipments.",
+      "description": "Soldiers arrived here to begin building the first fort on Christmas Day 1817. Their assignment was to stop the fighting between the long established Osage and the newly arriving Cherokees to Indian Territory. \n\nFort Smith was located on the western edge of the United States at that time. Far removed from other towns and supply resources, the first soldiers had to be self-sufficient during long periods of time between supply shipments. Soldiers abandoned the fort and moved deeper into Indian Territory in 1824 and established Fort Gibson.",
       "geofence_buffer_in_meters": 10,
       "id": 98,
       "latitude": 35.38769424,
@@ -1598,11 +1598,11 @@
       ],
       "name": "First Fort Smith",
       "name_description": "Established on Christmas Day 1817 by the U.S. military to ensure peace between the Cherokee and Osage.",
-      "type": "Building Foundation",
+      "type": "Fort Foundation",
       "services": []
     },
     {
-      "description": "Under the Indian Removal Act of 1830, the U.S. government using treaties exchanged tribal lands in the east belonging to Choctaws, Cherokees, Chickasaws, Muscogee (Creeks), and Seminoles for land west of the Mississippi River. This removal process left a bitter legacy remembered today as the Trail of Tears. From 1830-1842 each of the Five Tribes traveled various land and water routes to Indian Territory (today Oklahoma). Groups from each tribe traveled the Arkansas River, stopped in the Fort Smith area and received supplies before reaching their destinations. These are just five of the 64 tribes removed from their ancestral homelands to Indian Territory.",
+      "description": "The U.S. Government used the Indian Removal Act of 1830 to exchange tribal lands in the east for land west of the Mississippi River. For the Choctaw, Cherokee, Chickasaw, Muscogee (Creek), and Seminole tribes, Indian Removal left a bitter legacy remembered today by some as the Trail of Tears. Each of the five tribes traveled various land and water routes to Indian Territory (today Oklahoma). Some of them stopped at Fort Smith for supplies before continuing to their final destination. ",
       "geofence_buffer_in_meters": 10,
       "id": 99,
       "latitude": 35.3877467189272,
@@ -1612,7 +1612,7 @@
         191,
         221
       ],
-      "name": "Trail of Tears Scenic Overlook (includes 6 WS) ",
+      "name": "Trail of Tears Scenic Overlook",
       "name_description": "Scenic view of Arkansas River offering interpretive panels featuring five tribal perspectives of Indian removal.",
       "type": "Scenic Overlook",
       "services": []
@@ -1817,23 +1817,6 @@
       "services": []
     },
     {
-      "description": "In 1845, Quartermaster General Thomas Jesup inspected Fort Smith and ordered the fort to be converted into a supply depot. With its new mission, Fort Smith became one of the largest and busiest supply posts in the south. \n\nThe commissary is the oldest building still standing in Fort Smith. Over the years its appearance and use changed.",
-      "geofence_buffer_in_meters": 10,
-      "id": 97,
-      "latitude": 35.38950479,
-      "longitude": -94.42999542,
-      "map_thumbnail_image": 232,
-      "media": [
-        189,
-        219,
-        227
-      ],
-      "name": "Commissary",
-      "name_description": "Built in 1846, when the fort’s mission shifted from defensive to a supply depot.",
-      "type": "Historic Building",
-      "services": []
-    },
-    {
       "geofence_buffer_in_meters": 10,
       "id": 131,
       "latitude": 35.3862510191151,
@@ -1905,6 +1888,33 @@
       "services": []
     },
     {
+      "description": "In 1845, Quartermaster General Thomas Jesup inspected Fort Smith and ordered the fort to be converted into a supply depot. With its new mission, Fort Smith became one of the largest and busiest supply posts in the south. \n\nThe commissary is the oldest building still standing in Fort Smith. Over the years its appearance and use changed.",
+      "geofence_buffer_in_meters": 11.2191999609856,
+      "id": 97,
+      "information": [
+        {
+          "description": "From 1875 – 1890, Federal Judge Isaac C. Parker’s office was on the second floor. It is thought that his office was on the north side of the building looking toward the bridge is today. ",
+          "name": "Judge Parkers Office"
+        },
+        {
+          "description": "The Hammersley family used the first floor as their home from 1890-1896.They divided the room to accommodate the family of six. Jacob Hammersley was the Court Crier and his daughter Florence was a Deputy Court Clerk managing paperwork for Judge Parker.",
+          "name": "Home Sweet Home"
+        }
+      ],
+      "latitude": 35.389468,
+      "longitude": -94.429987,
+      "map_thumbnail_image": 232,
+      "media": [
+        189,
+        219,
+        227
+      ],
+      "name": "Commissary",
+      "name_description": "Built in 1846, when the fort’s mission shifted from defensive to a supply depot.",
+      "type": "Historic Building",
+      "services": []
+    },
+    {
       "geofence_buffer_in_meters": 10,
       "id": 100,
       "latitude": 35.3882037327822,
@@ -1938,13 +1948,14 @@
       "services": []
     },
     {
+      "description": "A pencil drawing of the first Fort Smith superimposed on a modern picture of the fort’s foundations.",
       "geofence_buffer_in_meters": 10,
-      "id": 117,
-      "latitude": 35.387852,
-      "longitude": -94.431206,
-      "map_thumbnail_image": 252,
-      "name": "A Disputed Boundary (WS)",
-      "name_description": "The boundary between Arkansas and Choctaw territory was originally incorrect due to a survey error.",
+      "id": 121,
+      "latitude": 35.387497,
+      "longitude": -94.432312,
+      "map_thumbnail_image": 256,
+      "name": "Abandoned and Forgotten",
+      "name_description": "A pencil drawing of the first Fort Smith superimposed on a modern picture of the fort’s foundations.",
       "type": "Wayside Exhibit Panel",
       "services": []
     },
@@ -1956,17 +1967,6 @@
       "map_thumbnail_image": 254,
       "name": "Whiskey War (WS)",
       "name_description": "Soldiers fired a cannon in to the Bigalows tavern after the Bigalows beat-up the fort’s commander.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 121,
-      "latitude": 35.387497,
-      "longitude": -94.432312,
-      "map_thumbnail_image": 256,
-      "name": "Abandoned and Forgotten (WS)",
-      "name_description": "A pencil drawing of the first Fort Smith superimposed on a modern picture of the fort’s foundations.",
       "type": "Wayside Exhibit Panel",
       "services": []
     },
@@ -2024,6 +2024,18 @@
       "id": 127,
       "name": "Desperate for Survival (WS)",
       "name_description": "From 1863-1865, the riverfront landing was often filled with refugees  hoping to escape the devastation of Civil War.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
+    },
+    {
+      "description": "The boundary between Arkansas and Choctaw territory was originally incorrect due to a survey error.",
+      "geofence_buffer_in_meters": 10,
+      "id": 117,
+      "latitude": 35.387852,
+      "longitude": -94.431206,
+      "map_thumbnail_image": 252,
+      "name": "A Disputed Boundary",
+      "name_description": "The boundary between Arkansas and Choctaw territory was originally incorrect due to a survey error.",
       "type": "Wayside Exhibit Panel",
       "services": []
     },
