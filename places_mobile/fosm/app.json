@@ -1605,16 +1605,22 @@
       "description": "Jail",
       "geofence_buffer_in_meters": 10,
       "id": 482,
+      "latitude": 35.38820373,
+      "longitude": -94.42890108,
       "name": "Jail"
     },
     {
       "description": "Courthouse",
       "geofence_buffer_in_meters": 10,
       "id": 483,
+      "latitude": 35.38820373,
+      "longitude": -94.42890108,
       "name": "Courthouse"
     },
     {
       "id": 484,
+      "latitude": 35.38820373,
+      "longitude": -94.42890108,
       "name": "Commissary 2"
     },
     {
