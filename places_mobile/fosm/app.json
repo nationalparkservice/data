@@ -49,7 +49,17 @@
   ],
   "description": "This is a description for the home screen.",
   "designation": "National Historic Site",
-  "events": [],
+  "events": [
+    {
+      "dates": [
+        "2015-02-11"
+      ],
+      "description": "Stop by the Visitor Center today to schedule a tour of Fort Smith.",
+      "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun",
+      "home_description": "The visitor center is open from 9-5pm",
+      "title": "Schedule a tour"
+    }
+  ],
   "map_thumbnail_zoom": 16,
   "max_distance_in_meters": 1609.3,
   "media": [
