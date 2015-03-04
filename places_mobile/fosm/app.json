@@ -724,42 +724,6 @@
       "type": "image"
     },
     {
-      "alt": "Reproduction of gallows use to hang 86 men.",
-      "caption": "Reproduction gallows on the site of the original gallows where 86 men were executed.  Photo Credit FOSM NPS",
-      "id": 187,
-      "image_1080": "187_1080x810.jpg",
-      "image_1536": "187_1536x1152.jpg",
-      "image_350": "187_350x260.jpg",
-      "image_480": "187_480x320.jpg",
-      "image_640": "187_640x504.jpg",
-      "image_768": "187_768x480.jpg",
-      "image_960": "187_960x640.jpg",
-      "name": "The Gallows (includes 2 WS)",
-      "relative_url": "187.jpg",
-      "relative_url_@2x": "187@2x.jpg",
-      "relative_url_tablet": "187_tablet.jpg",
-      "relative_url_tablet_@2x": "187_tablet_2x.jpg",
-      "type": "image"
-    },
-    {
-      "alt": "The gazebo on the location of the former guardhouse on a sunny day.",
-      "caption": "The gazebo on the location of the former guardhouse that later served as the women’s jail. The parade ground is in the background.  Photo Credit FOSM NPS",
-      "id": 188,
-      "image_1080": "188_1080x810.jpg",
-      "image_1536": "188_1536x1152.jpg",
-      "image_350": "188_350x260.jpg",
-      "image_480": "188_480x320.jpg",
-      "image_640": "188_640x504.jpg",
-      "image_768": "188_768x480.jpg",
-      "image_960": "188_960x640.jpg",
-      "name": "The Guardhouse (includes 2 WS)",
-      "relative_url": "188.jpg",
-      "relative_url_@2x": "188@2x.jpg",
-      "relative_url_tablet": "188_tablet.jpg",
-      "relative_url_tablet_@2x": "188_tablet_2x.jpg",
-      "type": "image"
-    },
-    {
       "alt": "Commissary and supply wagon on a sunny day.",
       "caption": "The commissary is the oldest standing building in Fort Smith built in 1849 a replicas supply wagon is front of the commissary during the summer. Photo Credit FOSM NPS",
       "id": 189,
@@ -991,6 +955,42 @@
       "relative_url_@2x": "201@2x.jpg",
       "relative_url_tablet": "201_tablet.jpg",
       "relative_url_tablet_@2x": "201_tablet_2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "The gazebo on the location of the former guardhouse on a sunny day.",
+      "caption": "Site of the former guardhouse that later served as the women’s jail. ",
+      "id": 188,
+      "image_1080": "188_1080x810.jpg",
+      "image_1536": "188_1536x1152.jpg",
+      "image_350": "188_350x260.jpg",
+      "image_480": "188_480x320.jpg",
+      "image_640": "188_640x504.jpg",
+      "image_768": "188_768x480.jpg",
+      "image_960": "188_960x640.jpg",
+      "name": "The Guardhouse (includes 2 WS)",
+      "relative_url": "188.jpg",
+      "relative_url_@2x": "188@2x.jpg",
+      "relative_url_tablet": "188_tablet.jpg",
+      "relative_url_tablet_@2x": "188_tablet_2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "White trimmed structure with a roof over horizontal beams and platform with stairs.  Two nooses hang from the horizontal beam.",
+      "caption": "86 men were executed here. ",
+      "id": 187,
+      "image_1080": "187_1080x810.jpg",
+      "image_1536": "187_1536x1152.jpg",
+      "image_350": "187_350x260.jpg",
+      "image_480": "187_480x320.jpg",
+      "image_640": "187_640x504.jpg",
+      "image_768": "187_768x480.jpg",
+      "image_960": "187_960x640.jpg",
+      "name": "The Gallows (includes 2 WS)",
+      "relative_url": "187.jpg",
+      "relative_url_@2x": "187@2x.jpg",
+      "relative_url_tablet": "187_tablet.jpg",
+      "relative_url_tablet_@2x": "187_tablet_2x.jpg",
       "type": "image"
     },
     {
@@ -1462,8 +1462,8 @@
       "type": "map_thumbnail"
     },
     {
-      "alt": "Barracks/ Courthouse/ and Jail on a sunny day.",
-      "caption": "Current Park Visitor Center but has changed over time from the old barracks later a jail and courthouse.",
+      "alt": "A three story red brick building with with rows of white trim windows and small porch with stairs to ground level on a sunny day.",
+      "caption": " ",
       "id": 186,
       "image_1080": "186_1080x810.jpg",
       "image_1536": "186_1536x1152.jpg",
@@ -1631,6 +1631,7 @@
       "id": 482,
       "latitude": 35.38820373,
       "longitude": -94.42890108,
+      "map_thumbnail_image": 229,
       "name": "Jail"
     },
     {
@@ -1639,13 +1640,26 @@
       "id": 483,
       "latitude": 35.38820373,
       "longitude": -94.42890108,
+      "map_thumbnail_image": 229,
       "name": "Courthouse"
     },
     {
+      "description": "Commissary 2",
+      "geofence_buffer_in_meters": 10,
       "id": 484,
       "latitude": 35.38820373,
       "longitude": -94.42890108,
+      "map_thumbnail_image": 229,
       "name": "Commissary 2"
+    },
+    {
+      "description": "Cannon",
+      "geofence_buffer_in_meters": 10,
+      "id": 485,
+      "latitude": 35.38820373,
+      "longitude": -94.42890108,
+      "map_thumbnail_image": 229,
+      "name": "Cannon"
     },
     {
       "description": "The U.S. Government used the Indian Removal Act of 1830 to exchange tribal lands in the east for land west of the Mississippi River. For the Choctaw, Cherokee, Chickasaw, Muscogee (Creek), and Seminole tribes, Indian Removal left a bitter legacy remembered today by some as the Trail of Tears. Each of the five tribes traveled various land and water routes to Indian Territory (today Oklahoma). Some of them stopped at Fort Smith for supplies before continuing to their final destination. ",
@@ -1850,7 +1864,7 @@
       "services": []
     },
     {
-      "description": "Serving as the initial check-in point for soldiers, supplies, and visitors, the guardhouse, constructed in 1849, was a focal point of daily activity at the second Fort Smith. It was also the place of confinement for soldiers under arrest for such offenses as drunkenness, desertion, or fighting. \nAfter the U.S. Army closed Fort Smith in 1871, the federal court converted the guardhouse into a jail for women. If a female prisoner had a child and no family members or friends to take care of the child, he or she went to jail too. During the day, the children were allowed to play on the grounds. We know of at least two children who served time with their mothers. \nCrimes committed by women ranged from the illegal sale of whiskey to murder. When convicted, they received the same sentences as men – fines, jail time, or death by hanging. Although four women were sentenced to hang, none were executed at Fort Smith. ",
+      "description": "\nAfter the U.S. Army closed Fort Smith in 1871, the federal court converted the guardhouse into a jail for women. If a female prisoner had a child and no family members or friends to take care of the child, he or she went to jail too. During the day, the children were allowed to play on the grounds. We know of at least two children who served time with their mothers. \nCrimes committed by women ranged from the illegal sale of whiskey to murder. When convicted, they received the same sentences as men – fines, jail time, or death by hanging. Although four women were sentenced to hang, none were executed at Fort Smith. \n\nConstructed in 1849 as the guardhouse, this building served as the initial check-in point for soldiers, supplies, and visitors for the second Fort Smith. It was also the place of confinement for soldiers under arrest for such offenses as drunkenness, desertion, or fighting. ",
       "geofence_buffer_in_meters": 10,
       "id": 96,
       "latitude": 35.3889843676842,
@@ -1860,9 +1874,9 @@
         188,
         218
       ],
-      "name": "Guardhouse",
+      "name": "Women's Jail",
       "name_description": "Guardhouse/jail for 2nd Fort Smith (1838-1871), became the women's jail during Federal Court period (1872-1896).",
-      "type": "Gazebo",
+      "type": "Historic Site",
       "services": []
     },
     {
