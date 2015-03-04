@@ -54,16 +54,18 @@
       "dates": [
         "2015-02-11"
       ],
-      "description": "Experience the Judge Parkers Courtroom, watch the movie, and discover the exhibits.\n\nOpen daily from 9-5pm. ",
+      "description": "\nOpen daily from 9-5pm. \n",
       "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun",
-      "home_description": "Experience the Judge Parkers Courtroom, watch the movie, and discover the exhibits.",
+      "home_description": "Experience Judge Parkers Courtroom, watch the movie, and discover the exhibits.",
       "title": "Explore the Visitor Center"
     },
     {
       "dates": [
         "2015-02-11"
       ],
-      "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun"
+      "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun",
+      "home_description": "Walk the grounds with a Park Ranger.  Learn about the evolution of Ft Smith from First Fort to the modern era.",
+      "title": "Schedule a Tour"
     }
   ],
   "map_thumbnail_zoom": 16,
