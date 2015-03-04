@@ -54,10 +54,16 @@
       "dates": [
         "2015-02-11"
       ],
-      "description": "Stop by the Visitor Center today to schedule a tour of Fort Smith.",
+      "description": "Experience the Judge Parkers Courtroom, watch the movie, and discover the exhibits.\n\nOpen daily from 9-5pm. ",
       "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun",
-      "home_description": "The visitor center is open from 9-5pm",
-      "title": "Schedule a tour"
+      "home_description": "Experience the Judge Parkers Courtroom, watch the movie, and discover the exhibits.",
+      "title": "Explore the Visitor Center"
+    },
+    {
+      "dates": [
+        "2015-02-11"
+      ],
+      "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun"
     }
   ],
   "map_thumbnail_zoom": 16,
@@ -695,24 +701,6 @@
       "relative_url_@2x": "202@2x.jpg",
       "relative_url_tablet": "202_tablet.jpg",
       "relative_url_tablet_@2x": "202_tablet_2x.jpg",
-      "type": "image"
-    },
-    {
-      "alt": "Barracks/ Courthouse/ and Jail on a sunny day.",
-      "caption": "Visitor Center from the northeast side.Closest part of the build the old barracks later jail and courthouse. The far end it the second more modern jail completed in 1888.  Photo Credit: FOSM NPS",
-      "id": 186,
-      "image_1080": "186_1080x810.jpg",
-      "image_1536": "186_1536x1152.jpg",
-      "image_350": "186_350x260.jpg",
-      "image_480": "186_480x320.jpg",
-      "image_640": "186_640x504.jpg",
-      "image_768": "186_768x480.jpg",
-      "image_960": "186_960x640.jpg",
-      "name": "Barracks, Courthouse, Jail (WS) / Visitor Center",
-      "relative_url": "186.jpg",
-      "relative_url_@2x": "186@2x.jpg",
-      "relative_url_tablet": "186_tablet.jpg",
-      "relative_url_tablet_@2x": "186_tablet_2x.jpg",
       "type": "image"
     },
     {
@@ -1452,6 +1440,24 @@
       "relative_url_tablet": "270_tablet.png",
       "relative_url_tablet_@2x": "270_tablet_2x.png",
       "type": "map_thumbnail"
+    },
+    {
+      "alt": "Barracks/ Courthouse/ and Jail on a sunny day.",
+      "caption": "Current Park Visitor Center but has changed over time from the old barracks later a jail and courthouse.",
+      "id": 186,
+      "image_1080": "186_1080x810.jpg",
+      "image_1536": "186_1536x1152.jpg",
+      "image_350": "186_350x260.jpg",
+      "image_480": "186_480x320.jpg",
+      "image_640": "186_640x504.jpg",
+      "image_768": "186_768x480.jpg",
+      "image_960": "186_960x640.jpg",
+      "name": "Barracks, Courthouse, Jail (WS) / Visitor Center",
+      "relative_url": "186.jpg",
+      "relative_url_@2x": "186@2x.jpg",
+      "relative_url_tablet": "186_tablet.jpg",
+      "relative_url_tablet_@2x": "186_tablet_2x.jpg",
+      "type": "image"
     }
   ],
   "more": [
