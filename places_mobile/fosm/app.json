@@ -2,7 +2,6 @@
   "alerts": [],
   "categories": [
     {
-      "description": "Visit these twelve “must-see” sites for a glimpse into Skagway’s colorful past—and present.",
       "name": "Highlights",
       "sites": [
         94,
@@ -30,24 +29,14 @@
       ]
     },
     {
-      "name": "Good for Families",
-      "sites": [
-        94,
-        95,
-        96,
-        97
-      ]
+      "description": "TBD",
+      "name": "Indian Policy"
     },
     {
-      "name": "Lesser Known",
-      "sites": [
-        94,
-        95,
-        96
-      ]
+      "name": "First Fort 1817-1824"
     },
     {
-      "name": "First Fort"
+      "name": "Federal Court 1872-1896"
     }
   ],
   "description": "This is a description for the home screen.",
