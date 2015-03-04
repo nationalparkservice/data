@@ -30,7 +30,10 @@
     },
     {
       "description": "TBD",
-      "name": "Indian Policy"
+      "name": "Indian Policy",
+      "sites": [
+        117
+      ]
     },
     {
       "name": "First Fort 1817-1824"
@@ -1559,8 +1562,8 @@
           "name": "Second Jail 1888-1917"
         }
       ],
-      "latitude": 35.388125,
-      "longitude": -94.429885,
+      "latitude": 35.388153,
+      "longitude": -94.429845,
       "map_thumbnail_image": 229,
       "media": [
         186,
@@ -1568,7 +1571,7 @@
       ],
       "name": "Visitor Center",
       "name_description": "Park’s Visitor Center, served as a soldiers’ barracks (1838-1871), converted to jail and courthouse in 1872.",
-      "type": "Barracks, Courthouse, and Jail",
+      "type": "Barracks, Courthouse, and Jails",
       "services": []
     },
     {
