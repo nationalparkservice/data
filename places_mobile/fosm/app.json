@@ -6,10 +6,13 @@
       "sites": [
         94,
         95,
+        97,
+        122,
+        99,
+        483,
+        482,
         96,
-        105,
-        106,
-        97
+        485
       ]
     },
     {
@@ -27,22 +30,38 @@
       "description": "TBD",
       "name": "Indian Policy",
       "sites": [
+        99,
+        126,
+        118,
         117,
-        118
+        118,
+        122,
+        108,
+        124
       ]
     },
     {
       "name": "First Fort (1817-1824)",
       "sites": [
         122,
-        123
+        123,
+        121,
+        135,
+        119,
+        132
       ]
     },
     {
       "name": "Federal Court (1872-1896)",
       "sites": [
-        130,
-        97
+        483,
+        95,
+        482,
+        97,
+        132,
+        137,
+        96,
+        131
       ]
     }
   ],
@@ -1542,7 +1561,12 @@
     }
   ],
   "name": "Fort Smith",
-  "searches": [],
+  "searches": [
+    "Trail of Tears",
+    "Judge Parker",
+    "Marshals",
+    "Executions"
+  ],
   "sites": [
     {
       "description": "This building has evolved. Beginning in 1838 it was home to the enlisted men as a one-story structure with a basement. In 1872, it was converted to a courthouse and jail. The last major change occurred in 1888 when the second jail was completed. Today it serves as the park Visitor Center.",
