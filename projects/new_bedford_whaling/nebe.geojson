@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "poly_sourc": "NEBE_OSM",
+        "unit_code": "nebe",
+        "designatio": "National Historical Park",
+        "name": "New Bedford Whaling",
+        "display_na": "New Bedford Whaling NHP",
+        "full_desig": "National Historical Park",
+        "full_name": "New Bedford Whaling National Historical Park",
+        "state": "Massachusetts",
+        "blurb": "New Bedford was the mid 19th century's preeminent whaling port and for a time \"the richest city in the world.\" Come stroll down cobblestone streets, visit the world's largest whaling museum, tour a whaling merchant's home and&nbsp;whaleman's chapel, and",
+        "url": "http://www.nps.gov/nebe/index.htm",
+        "address": "33 William Street \nNew Bedford, MA 02740",
+        "phone": "(508) 996-4095\n",
+        "climate": "The summers are mild while the winters can be cold with wind, ice, and snow. Normal temperature in January is 30.6 F and in July 73.5 F. Please wear comfortable walking shoes and dress according to the weather.",
+        "area": 364744.785183602,
+        "minzoompol": 12,
+        "visitors": 275521,
+        "created_at": "2015-02-27T20:51:40Z",
+        "updated_at": "2015-02-27T20:56:43Z",
+        "cartodb_id": 250
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9232231997256,
+          41.6354054827019
+        ]
+      }
+    }
+  ]
+}
