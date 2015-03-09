@@ -2230,8 +2230,8 @@
       "description": "Yakutania Trail Head",
       "geofence_buffer_in_meters": 10,
       "id": 481,
-      "latitude": 59.454589,
-      "longitude": -135.328965,
+      "latitude": 59.453908,
+      "longitude": -135.327365,
       "name": "Yakutania Trail Head",
       "primary_image": 476,
       "type": "Trail"
