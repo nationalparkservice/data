@@ -1677,10 +1677,11 @@
       "services": []
     },
     {
+      "description": "This larger than life bronze statue is dedicated to Deputy US Marshal Bass Reeves and his faithful dog.",
       "geofence_buffer_in_meters": 10,
       "id": 130,
-      "latitude": 35.389212,
-      "longitude": -94.428928,
+      "latitude": 35.389286,
+      "longitude": -94.428746,
       "map_thumbnail_image": 265,
       "media": [
         208
