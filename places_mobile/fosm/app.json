@@ -1764,20 +1764,6 @@
       "type": "Stone Markers"
     },
     {
-      "description": "Built by soldiers, the blockhouse was a defensive structure. All that remains is the foundation.",
-      "geofence_buffer_in_meters": 10,
-      "id": 123,
-      "latitude": 35.38744,
-      "longitude": -94.432541,
-      "map_thumbnail_image": 258,
-      "media": [
-        205
-      ],
-      "name": "Block House of First Fort",
-      "name_description": "Built by soldiers, the blockhouse was a defensive structure. All that remains is the foundation.",
-      "type": "Stone foundation"
-    },
-    {
       "description": "The museum focuses on the Fort Smith community, includes an operating soda fountain.  \nhttp://www.fortsmithmuseum.org/\n(479) 783-7841\n320 Rogers Avenue\nFort Smith, Arkansas 72901",
       "geofence_buffer_in_meters": 10,
       "id": 134,
@@ -1791,6 +1777,20 @@
       "name_description": "The museum focuses on the Fort Smith community, includes an operating soda fountain.  Open Tue - Sat 10-5 and Sun 12-5.",
       "type": "Public Museum",
       "services": []
+    },
+    {
+      "description": "Built by soldiers, the blockhouse was a defensive structure. All that remains is the foundation.",
+      "geofence_buffer_in_meters": 10,
+      "id": 123,
+      "latitude": 35.38744,
+      "longitude": -94.432541,
+      "map_thumbnail_image": 258,
+      "media": [
+        205
+      ],
+      "name": "Block House of First Fort",
+      "name_description": "Built by soldiers, the blockhouse was a defensive structure. All that remains is the foundation.",
+      "type": "Stone foundation"
     },
     {
       "geofence_buffer_in_meters": 10,
