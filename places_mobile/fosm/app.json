@@ -1794,6 +1794,34 @@
       "services": []
     },
     {
+      "geofence_buffer_in_meters": 10,
+      "id": 132,
+      "information": [
+        {
+          "description": "Served in the War of 1812\nFirst commander of Fort Smith \nBuried in Section 2 site 604",
+          "name": "Major William Bradford"
+        },
+        {
+          "description": "Served in the War of 1812\nFirst commander of Fort Smith \nBuried in Section 2 site 604",
+          "name": "Major William Bradford"
+        },
+        {
+          "description": "Surgeon US Army\nWar of 1812\nSurgeon for the Rifle Regiment\nBuried in Section 2 Site 605 ",
+          "name": "Thomas Russell"
+        }
+      ],
+      "latitude": 35.3837974865566,
+      "longitude": -94.4289976358414,
+      "map_thumbnail_image": 267,
+      "media": [
+        210
+      ],
+      "name": "Fort Smith National Cemetery",
+      "name_description": "National Cemetery for veterans from the War of 1812 to present. Open daily 7:30am to sunset.",
+      "type": "Cemetery",
+      "services": []
+    },
+    {
       "description": "Built by soldiers, the blockhouse was a defensive structure. All that remains is the foundation.",
       "geofence_buffer_in_meters": 10,
       "id": 123,
@@ -1819,20 +1847,6 @@
       "name": "Gazebo near First Fort (Includes 3 WS)",
       "name_description": "The panels discuss the founding of Fort Smith and those who served here from 1817-1824.",
       "type": "Wayside Exhibit Panels",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 132,
-      "latitude": 35.3837974865566,
-      "longitude": -94.4289976358414,
-      "map_thumbnail_image": 267,
-      "media": [
-        210
-      ],
-      "name": "Fort Smith National Cemetery",
-      "name_description": "National Cemetery for veterans from the War of 1812 to present. Open daily 7:30am to sunset.",
-      "type": "Cemetery",
       "services": []
     },
     {
