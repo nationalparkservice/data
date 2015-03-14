@@ -1707,6 +1707,7 @@
       "services": []
     },
     {
+      "description": "A former bordello, Fort Smith's official welcome center.\n1-800-637-1477\nhttp://www.fortsmith.org/visitors/welcome-center.aspx",
       "geofence_buffer_in_meters": 10,
       "id": 128,
       "latitude": 35.3920696602575,
@@ -1717,7 +1718,7 @@
       ],
       "name": "Miss Laura's Visitor Center",
       "name_description": "A former bordello, Fort Smith's official welcome center open Mon.-Sat. from 9 a.m. – 4 p.m. and Sun. 1 p.m. - 4:30 p.m.",
-      "type": "City Welcpme Center",
+      "type": "City Welcome Center",
       "services": []
     },
     {
@@ -1840,6 +1841,20 @@
       "services": []
     },
     {
+      "description": "Museum dedicated to Fort Smith's early street cars and railroad history. \nSeasonal hours\n(479) 783-0205\nhttp://www.fstm.org/",
+      "geofence_buffer_in_meters": 10,
+      "id": 136,
+      "latitude": 35.3859230110624,
+      "longitude": -94.4300812482834,
+      "map_thumbnail_image": 271,
+      "media": [
+        214
+      ],
+      "name": "Fort Smith Trolley Museum (Does this need AD?)",
+      "name_description": "Museum dedicated to Fort Smith's early street cars and railroad history. Seasonal hours. Call (479) 783-0205.",
+      "type": "Public Museum"
+    },
+    {
       "geofence_buffer_in_meters": 10,
       "id": 120,
       "latitude": 35.3873553030884,
@@ -1865,19 +1880,6 @@
       "name": "Second Fort Smith Officers Quarters #1 (includes WS)",
       "name_description": "One of two officers quarters constructed and used from 1838-1871. By 1870, chimney fires destroyed both buildings.",
       "type": "Cement foundation"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 136,
-      "latitude": 35.3859230110624,
-      "longitude": -94.4300812482834,
-      "map_thumbnail_image": 271,
-      "media": [
-        214
-      ],
-      "name": "Fort Smith Trolley Museum (Does this need AD?)",
-      "name_description": "Museum dedicated to Fort Smith's early street cars and railroad history. Seasonal hours. Call (479) 783-0205.",
-      "type": "Public Museum"
     },
     {
       "geofence_buffer_in_meters": 10,
