@@ -1625,6 +1625,15 @@
       "services": []
     },
     {
+      "description": "Courthouse",
+      "geofence_buffer_in_meters": 10,
+      "id": 483,
+      "latitude": 35.388376,
+      "longitude": -94.429577,
+      "map_thumbnail_image": 229,
+      "name": "Courthouse"
+    },
+    {
       "description": "Jail",
       "geofence_buffer_in_meters": 10,
       "id": 482,
@@ -1632,15 +1641,6 @@
       "longitude": -94.42890108,
       "map_thumbnail_image": 229,
       "name": "Jail"
-    },
-    {
-      "description": "Courthouse",
-      "geofence_buffer_in_meters": 10,
-      "id": 483,
-      "latitude": 35.38820373,
-      "longitude": -94.42890108,
-      "map_thumbnail_image": 229,
-      "name": "Courthouse"
     },
     {
       "description": "Commissary 2",
