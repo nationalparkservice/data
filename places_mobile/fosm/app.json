@@ -1720,6 +1720,7 @@
       "services": []
     },
     {
+      "description": "US Marshal Museum administrative offices. \nhttp://www.usmarshalsmuseum.com/\n(479) 709-3766\n14 North 3rd Street Suite D Fort Smith, AR 72901\n",
       "geofence_buffer_in_meters": 10,
       "id": 133,
       "latitude": 35.389382,
@@ -1728,7 +1729,7 @@
       "media": [
         211
       ],
-      "name": "U.S. Marshall’s Museum Administrative Offices (Does this need AD?)",
+      "name": "U.S. Marshall’s Museum Administrative Offices ",
       "name_description": "Current location of the US Marshal Museum administrative offices, education, and fund-raising activities.",
       "type": "Office Building"
     },
@@ -1777,6 +1778,21 @@
       "type": "Stone foundation"
     },
     {
+      "description": "The museum focuses on the Fort Smith community, includes an operating soda fountain.  \nhttp://www.fortsmithmuseum.org/\n(479) 783-7841\n320 Rogers Avenue\nFort Smith, Arkansas 72901",
+      "geofence_buffer_in_meters": 10,
+      "id": 134,
+      "latitude": 35.387613,
+      "longitude": -94.42822,
+      "map_thumbnail_image": 269,
+      "media": [
+        212
+      ],
+      "name": "Fort Smith Museum of History ",
+      "name_description": "The museum focuses on the Fort Smith community, includes an operating soda fountain.  Open Tue - Sat 10-5 and Sun 12-5.",
+      "type": "Public Museum",
+      "services": []
+    },
+    {
       "geofence_buffer_in_meters": 10,
       "id": 120,
       "latitude": 35.3873553030884,
@@ -1802,20 +1818,6 @@
       "name": "Fort Smith National Cemetery",
       "name_description": "National Cemetery for veterans from the War of 1812 to present. Open daily 7:30am to sunset.",
       "type": "Cemetery",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 134,
-      "latitude": 35.387576158069,
-      "longitude": -94.4283646345139,
-      "map_thumbnail_image": 269,
-      "media": [
-        212
-      ],
-      "name": "Fort Smith Museum of History (Does this need AD?)",
-      "name_description": "The museum focuses on the Fort Smith community, includes an operating soda fountain.  Open Tue - Sat 10-5 and Sun 12-5.",
-      "type": "Public Museum",
       "services": []
     },
     {
