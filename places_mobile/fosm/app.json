@@ -1620,7 +1620,7 @@
         226
       ],
       "name": "Gallows",
-      "name_description": "Reproduction built on the location of the original gallows. From 1872 to 1896, 86 men were executed here.",
+      "name_description": "86 men were executed here.",
       "type": "Reconstruction",
       "services": []
     },
@@ -1720,6 +1720,19 @@
       "services": []
     },
     {
+      "geofence_buffer_in_meters": 10,
+      "id": 133,
+      "latitude": 35.389382,
+      "longitude": -94.427565,
+      "map_thumbnail_image": 268,
+      "media": [
+        211
+      ],
+      "name": "U.S. Marshall’s Museum Administrative Offices (Does this need AD?)",
+      "name_description": "Current location of the US Marshal Museum administrative offices, education, and fund-raising activities.",
+      "type": "Office Building"
+    },
+    {
       "description": "Soldiers arrived here to begin building the first fort on Christmas Day 1817. Their assignment was to stop the fighting between the long established Osage and the newly arriving Cherokees to Indian Territory. \n\nFort Smith was located on the western edge of the United States at that time. Far removed from other towns and supply resources, the first soldiers had to be self-sufficient during long periods of time between supply shipments. Soldiers abandoned the fort and moved deeper into Indian Territory in 1824 and established Fort Gibson.\n\nHere is the first flag to fly over Fort Smith had 15 stars and 15 stripes, one for each state.",
       "geofence_buffer_in_meters": 10,
       "id": 122,
@@ -1817,19 +1830,6 @@
       "name": "Second Fort Smith Officers Quarters #1 (includes WS)",
       "name_description": "One of two officers quarters constructed and used from 1838-1871. By 1870, chimney fires destroyed both buildings.",
       "type": "Cement foundation"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 133,
-      "latitude": 35.3863341142767,
-      "longitude": -94.4270288944244,
-      "map_thumbnail_image": 268,
-      "media": [
-        211
-      ],
-      "name": "U.S. Marshall’s Museum Administrative Offices (Does this need AD?)",
-      "name_description": "Current location of the US Marshal Museum administrative offices, education, and fund-raising activities.",
-      "type": "Office Building"
     },
     {
       "geofence_buffer_in_meters": 10,
