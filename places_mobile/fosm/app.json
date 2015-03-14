@@ -1639,7 +1639,7 @@
         },
         {
           "description": "Issac Parker was nominated and confirmed as judge for the Western District of Arkansas including Indian Territory in March of 1875. This was his courtroom until 1890 when a new courthouse was built on the corner of 6th and Rogers. He remained in this position until his death on November 17, 1896.",
-          "name": "Issac C. Parker 1875-1896"
+          "name": "Isaac C. Parker 1875-1896"
         }
       ],
       "latitude": 35.388376,
@@ -1794,6 +1794,20 @@
       "services": []
     },
     {
+      "description": "Built by soldiers, the blockhouse was a defensive structure. All that remains is the foundation.",
+      "geofence_buffer_in_meters": 10,
+      "id": 123,
+      "latitude": 35.38744,
+      "longitude": -94.432541,
+      "map_thumbnail_image": 258,
+      "media": [
+        205
+      ],
+      "name": "Block House of First Fort",
+      "name_description": "Built by soldiers, the blockhouse was a defensive structure. All that remains is the foundation.",
+      "type": "Stone foundation"
+    },
+    {
       "geofence_buffer_in_meters": 10,
       "id": 132,
       "information": [
@@ -1808,6 +1822,10 @@
         {
           "description": "Surgeon US Army\nWar of 1812\nSurgeon for the Rifle Regiment\nBuried in Section 2 Site 605 ",
           "name": "Thomas Russell"
+        },
+        {
+          "description": "Corporal US Army\nCongressman\nFederal Judge\nBuried in Section 9 Site 4000\nMary Parker is buried next to he husband in site 3999",
+          "name": "Isaac C. Parker and Mary Parker"
         }
       ],
       "latitude": 35.3837974865566,
@@ -1820,20 +1838,6 @@
       "name_description": "National Cemetery for veterans from the War of 1812 to present. Open daily 7:30am to sunset.",
       "type": "Cemetery",
       "services": []
-    },
-    {
-      "description": "Built by soldiers, the blockhouse was a defensive structure. All that remains is the foundation.",
-      "geofence_buffer_in_meters": 10,
-      "id": 123,
-      "latitude": 35.38744,
-      "longitude": -94.432541,
-      "map_thumbnail_image": 258,
-      "media": [
-        205
-      ],
-      "name": "Block House of First Fort",
-      "name_description": "Built by soldiers, the blockhouse was a defensive structure. All that remains is the foundation.",
-      "type": "Stone foundation"
     },
     {
       "geofence_buffer_in_meters": 10,
