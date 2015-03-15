@@ -1948,21 +1948,6 @@
     },
     {
       "geofence_buffer_in_meters": 10,
-      "id": 112,
-      "latitude": 35.38992462,
-      "longitude": -94.42993909,
-      "map_thumbnail_image": 247,
-      "media": [
-        197,
-        223
-      ],
-      "name": "Frisco Train Depot",
-      "name_description": "Frisco Train Depot was used from the early 1900s to the mid-1940s.",
-      "type": "Train Station",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
       "id": 114,
       "latitude": 35.3890084207405,
       "longitude": -94.4303950667381,
@@ -1988,6 +1973,22 @@
       "name": "Second Fort Smith Officers Quarters (North)",
       "name_description": "One of two officers quarters constructed and used from 1838-1871. ",
       "type": "Cement foundation",
+      "services": []
+    },
+    {
+      "description": "Frisco Train Station was used from the early 1900s to the mid-1940s. ",
+      "geofence_buffer_in_meters": 10,
+      "id": 112,
+      "latitude": 35.38992462,
+      "longitude": -94.42993909,
+      "map_thumbnail_image": 247,
+      "media": [
+        197,
+        223
+      ],
+      "name": "Frisco Train Station",
+      "name_description": "Frisco Train Depot was used from the early 1900s to the mid-1940s.",
+      "type": "Train Station",
       "services": []
     },
     {
