@@ -1765,6 +1765,20 @@
       "services": []
     },
     {
+      "description": "The south end officer’s quarter was completed in 1852. The building had four apartments each apartment having four 19ft x 16ft rooms. This building at this site was built by a contractor and was considered of poor quality and in constant need of repairs. It was destroyed by a fire in 1867.",
+      "geofence_buffer_in_meters": 10,
+      "id": 116,
+      "latitude": 35.388446,
+      "longitude": -94.430623,
+      "map_thumbnail_image": 251,
+      "media": [
+        201
+      ],
+      "name": "Second Fort Smith Officers Quarters (South)",
+      "name_description": "One of two officers quarters constructed and used from 1838-1871. ",
+      "type": "Cement foundation"
+    },
+    {
       "description": "The quartermaster’s storehouse was built on top of the bastion. Nearby is a survey marker for the Arkansas border.",
       "geofence_buffer_in_meters": 10,
       "id": 118,
@@ -1793,6 +1807,20 @@
       "name_description": "The museum focuses on the Fort Smith community, includes an operating soda fountain.  Open Tue - Sat 10-5 and Sun 12-5.",
       "type": "Public Museum",
       "services": []
+    },
+    {
+      "description": "Museum dedicated to Fort Smith's early street cars and railroad history. \nSeasonal hours\n(479) 783-0205\nhttp://www.fstm.org/",
+      "geofence_buffer_in_meters": 10,
+      "id": 136,
+      "latitude": 35.3859230110624,
+      "longitude": -94.4300812482834,
+      "map_thumbnail_image": 271,
+      "media": [
+        214
+      ],
+      "name": "Fort Smith Trolley Museum ",
+      "name_description": "Museum dedicated to Fort Smith's early street cars and railroad history. Seasonal hours. Call (479) 783-0205.",
+      "type": "Public Museum"
     },
     {
       "description": "Built by soldiers, the blockhouse was a defensive structure. All that remains is the foundation.",
@@ -1841,20 +1869,6 @@
       "services": []
     },
     {
-      "description": "Museum dedicated to Fort Smith's early street cars and railroad history. \nSeasonal hours\n(479) 783-0205\nhttp://www.fstm.org/",
-      "geofence_buffer_in_meters": 10,
-      "id": 136,
-      "latitude": 35.3859230110624,
-      "longitude": -94.4300812482834,
-      "map_thumbnail_image": 271,
-      "media": [
-        214
-      ],
-      "name": "Fort Smith Trolley Museum (Does this need AD?)",
-      "name_description": "Museum dedicated to Fort Smith's early street cars and railroad history. Seasonal hours. Call (479) 783-0205.",
-      "type": "Public Museum"
-    },
-    {
       "geofence_buffer_in_meters": 10,
       "id": 120,
       "latitude": 35.3873553030884,
@@ -1867,19 +1881,6 @@
       "name_description": "The panels discuss the founding of Fort Smith and those who served here from 1817-1824.",
       "type": "Wayside Exhibit Panels",
       "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 116,
-      "latitude": 35.3885164249806,
-      "longitude": -94.4306311011314,
-      "map_thumbnail_image": 251,
-      "media": [
-        201
-      ],
-      "name": "Second Fort Smith Officers Quarters #1 (includes WS)",
-      "name_description": "One of two officers quarters constructed and used from 1838-1871. By 1870, chimney fires destroyed both buildings.",
-      "type": "Cement foundation"
     },
     {
       "geofence_buffer_in_meters": 10,
@@ -1962,20 +1963,6 @@
     },
     {
       "geofence_buffer_in_meters": 10,
-      "id": 113,
-      "latitude": 35.3889078351847,
-      "longitude": -94.4302394986153,
-      "map_thumbnail_image": 248,
-      "media": [
-        198
-      ],
-      "name": "Second Fort Smith Officers Quarters #2",
-      "name_description": "One of two officers quarters constructed and used from 1838-1871. By 1870, chimney fires destroyed both buildings.",
-      "type": "Cement foundation",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
       "id": 114,
       "latitude": 35.3890084207405,
       "longitude": -94.4303950667381,
@@ -1986,6 +1973,21 @@
       "name": "Officers' Garden (includes WS)",
       "name_description": "The officers' garden is a re-creation of the 1860's garden. The officers’ wives and children cared for the garden.",
       "type": "Garden",
+      "services": []
+    },
+    {
+      "description": "The north end officer’s quarters was completed in 1852. The building had four apartments with each apartment having four 19ft x 16ft rooms. Construction of this officer’s quarters building was supervised by the Quartermaster Department and was considered of better quality than the other one. It was destroyed by a fire in 1870. No housing for officers was one of the reasons Fort Smith for the military closing Fort Smith in 1871.",
+      "geofence_buffer_in_meters": 10,
+      "id": 113,
+      "latitude": 35.388862,
+      "longitude": -94.430231,
+      "map_thumbnail_image": 248,
+      "media": [
+        198
+      ],
+      "name": "Second Fort Smith Officers Quarters (North)",
+      "name_description": "One of two officers quarters constructed and used from 1838-1871. ",
+      "type": "Cement foundation",
       "services": []
     },
     {
