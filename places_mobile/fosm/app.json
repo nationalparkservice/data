@@ -2159,8 +2159,8 @@
       "description": "Before running water and indoor plumbing, soldiers dug this cistern in 1869 to collect rainwater.",
       "geofence_buffer_in_meters": 10,
       "id": 115,
-      "latitude": 35.3886716773,
-      "longitude": -94.4304460287094,
+      "latitude": 35.388672,
+      "longitude": -94.430446,
       "map_thumbnail_image": 250,
       "media": [
         200
