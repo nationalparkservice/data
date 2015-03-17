@@ -2208,8 +2208,8 @@
           "name": "Hours"
         }
       ],
-      "latitude": 59.45405826,
-      "longitude": -135.3183031,
+      "latitude": 59.454058,
+      "longitude": -135.318303,
       "map_thumbnail_image": 89,
       "media": [
         70
@@ -2231,8 +2231,8 @@
       "description": "VC Scavenger Hunt",
       "geofence_buffer_in_meters": 1.5239999512320015,
       "id": 487,
-      "latitude": 59.453555,
-      "longitude": -135.318485,
+      "latitude": 59.453457,
+      "longitude": -135.318689,
       "map_thumbnail_image": 85,
       "name": "Visitor Center B",
       "name_description": "For use in Scav Hunt",
@@ -2256,41 +2256,6 @@
       "name": "Yakutania Trail Head",
       "primary_image": 476,
       "type": "Trail"
-    },
-    {
-      "audio_description": "White Pass & Yukon Route Depot.  1 ¼ minutes.  The White Pass & Yukon Route Depot is situated on the south side of Second Avenue, between Broadway and Spring Street.  It is painted white with green trim.  The western half of the wooden building is two stories tall, dropping to just one story on the eastern side.  Further to the east is a large parking area.  On both the north and south-facing facades, maroon letters on the second story read “White Pass & Yukon Route, Established 1898.”  \n\nYou may enter the building on the north side from Second Avenue.  It’s two steps up to the door from the sidewalk, and there’s a ramp near the right-hand edge of the building.  Or you can enter the depot from the south.  A covered cement porch runs the length of the building on the south side and a doorway provides access from the porch.  The porch also serves as the railroad platform; the tracks are located a few feet to the south, parallel to it.  Please watch your step near the tracks and listen for oncoming trains.\n\nEnd of message.",
-      "description": "This ornate building was designed by Seattle architect Henry Dozier to house the White Pass and Yukon Route Railroad administration.  Completed in 1900, the building today serves as headquarters for Klondike Gold Rush National Historical Park, featuring a museum with exhibits about the gold rush.",
-      "geofence_buffer_in_meters": 10,
-      "id": 2,
-      "information": [
-        {
-          "description": "Elaborate woodwork and plastered walls and ceilings adorn a handsome interior. The entire building was erected around a two-story fireproof vault made of brick and steel over a stone foundation. Offices and a baggage room completed the plan. ",
-          "name": "Architecture of the Park Museum Building"
-        },
-        {
-          "description": "Open Seasonally Monday through Friday, 10am-12pm and 1pm-3pm, Closed Saturday and Sunday",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45339166,
-      "longitude": -135.3184238,
-      "map_thumbnail_image": 87,
-      "media": [
-        14,
-        68
-      ],
-      "name": "Park Museum Building",
-      "name_description": "The historic Railroad Administration office houses Klondike Gold Rush National Historical Park’s museum and offices.",
-      "primary_image": 16,
-      "type": "Museum",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
     },
     {
       "description": "Abandoned Train\n",
@@ -2323,6 +2288,41 @@
       "name_description": "Opening in 2016, this building was once headquarters for town villain “Soapy,” then a museum by a local entrepreneur.",
       "primary_image": 17,
       "type": "Historic Building",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "audio_description": "White Pass & Yukon Route Depot.  1 ¼ minutes.  The White Pass & Yukon Route Depot is situated on the south side of Second Avenue, between Broadway and Spring Street.  It is painted white with green trim.  The western half of the wooden building is two stories tall, dropping to just one story on the eastern side.  Further to the east is a large parking area.  On both the north and south-facing facades, maroon letters on the second story read “White Pass & Yukon Route, Established 1898.”  \n\nYou may enter the building on the north side from Second Avenue.  It’s two steps up to the door from the sidewalk, and there’s a ramp near the right-hand edge of the building.  Or you can enter the depot from the south.  A covered cement porch runs the length of the building on the south side and a doorway provides access from the porch.  The porch also serves as the railroad platform; the tracks are located a few feet to the south, parallel to it.  Please watch your step near the tracks and listen for oncoming trains.\n\nEnd of message.",
+      "description": "This ornate building was designed by Seattle architect Henry Dozier to house the White Pass and Yukon Route Railroad administration.  Completed in 1900, the building today serves as headquarters for Klondike Gold Rush National Historical Park, featuring a museum with exhibits about the gold rush.",
+      "geofence_buffer_in_meters": 10,
+      "id": 2,
+      "information": [
+        {
+          "description": "Elaborate woodwork and plastered walls and ceilings adorn a handsome interior. The entire building was erected around a two-story fireproof vault made of brick and steel over a stone foundation. Offices and a baggage room completed the plan. ",
+          "name": "Architecture of the Park Museum Building"
+        },
+        {
+          "description": "Open Seasonally Monday through Friday, 10am-12pm and 1pm-3pm, Closed Saturday and Sunday",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.453438,
+      "longitude": -135.318378,
+      "map_thumbnail_image": 87,
+      "media": [
+        14,
+        68
+      ],
+      "name": "Park Museum Building",
+      "name_description": "The historic Railroad Administration office houses Klondike Gold Rush National Historical Park’s museum and offices.",
+      "primary_image": 16,
+      "type": "Museum",
       "services": [
         {
           "description": "Handicapped Access",
@@ -2432,7 +2432,7 @@
     {
       "audio_description": "Klondike Gold Rush National Historical Park Visitor Center.  1 ½ minutes.  The visitor center for the Klondike Gold Rush National Historical Park is located at the southeast corner of Broadway and Second Avenue.  The visitor center is housed in the historic 1898 White Pass and Yukon Route Railroad Depot.  It’s a two-story wooden building painted a muted shade of red with mustard-yellow trim.  The pitched, shingled roof is topped with several brick chimneys.\n\nBoth buildings can be accessed through entrances on Second Avenue, off the wooden boardwalk that wraps around the building.  The boardwalk is three steps up from the street here, and there are railings at the corner to guide you. Alternatively, a ramp at the south end of Broadway provides access from the street to the boardwalk.  Please be aware that the wooden boardwalks can be slippery in rainy weather, so watch your step.\n\nThese entrances are on the left side of the Second Avenue facade, where the visitor center abuts the National Park Service museum building next door.  A breezeway between the two structures extends perpendicularly from the Second Avenue boardwalk.  Find the breezeway and walk in as far as you can.  The entrance to the Visitor Center will be on your right.  The entrance to the Park museum will be to your left.\n\nEnd of message.",
       "description": "The Visitor Center was built as a depot for the White Pass and Yukon Route Railroad.  From the second-floor bay windows the dispatcher could see approaching and departing trains on the tracks that once curved around the southwest corner and headed north on Broadway toward the gold fields of the Klondike.",
-      "geofence_buffer_in_meters": 10,
+      "geofence_buffer_in_meters": 33.527998927104036,
       "id": 1,
       "information": [
         {
@@ -2452,8 +2452,8 @@
           "name": "Hours"
         }
       ],
-      "latitude": 59.453501,
-      "longitude": -135.318609,
+      "latitude": 59.453535,
+      "longitude": -135.318539,
       "map_thumbnail_image": 85,
       "media": [
         68,
@@ -2531,6 +2531,34 @@
     },
     {
       "geofence_buffer_in_meters": 10,
+      "id": 10,
+      "information": [
+        {
+          "description": "Available Seasonally",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.453235,
+      "longitude": -135.319172,
+      "map_thumbnail_image": 95,
+      "media": [
+        75
+      ],
+      "name": "Snow Plow",
+      "name_description": "A caboose trails Rotary Snowplow No. 1, built in 1899 and used by the White Pass & Yukon Route to clear up to 12 feet of snow.",
+      "primary_image": 29,
+      "type": "Outdoor Exhibit",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "geofence_buffer_in_meters": 10,
       "id": 8,
       "information": [
         {
@@ -2555,34 +2583,6 @@
           "icon": "restroom.png",
           "icon_@2x": "restroom@2x.png",
           "type": "Restroom"
-        }
-      ]
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 10,
-      "information": [
-        {
-          "description": "Available Seasonally",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45342165,
-      "longitude": -135.3190541,
-      "map_thumbnail_image": 95,
-      "media": [
-        75
-      ],
-      "name": "Snow Plow",
-      "name_description": "A caboose trails Rotary Snowplow No. 1, built in 1899 and used by the White Pass & Yukon Route to clear up to 12 feet of snow.",
-      "primary_image": 29,
-      "type": "Outdoor Exhibit",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
         }
       ]
     },
