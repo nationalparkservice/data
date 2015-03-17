@@ -2228,6 +2228,26 @@
       ]
     },
     {
+      "description": "VC Scavenger Hunt",
+      "geofence_buffer_in_meters": 1.5239999512320015,
+      "id": 487,
+      "latitude": 59.453555,
+      "longitude": -135.318485,
+      "map_thumbnail_image": 85,
+      "name": "Visitor Center B",
+      "name_description": "For use in Scav Hunt",
+      "primary_image": 15,
+      "type": "Historic Building\n",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
       "description": "Yakutania Trail Head",
       "geofence_buffer_in_meters": 10,
       "id": 481,
