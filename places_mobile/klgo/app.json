@@ -3401,10 +3401,10 @@
     },
     {
       "description": "The First Bloom garden located on the National Park Service lot at 4th and Broadway in downtown Skagway was designed and constructed from an empty grass lot by local youth. It features native plants in a historic Victorian style landscaped garden.  First Bloom gardens were funded by the National Park Foundation to provide seeds for a stronger relationship between Americans and their national parks, beginning with our youngest citizens.  Skagway youth have been engaged in hands-on activities with the First Bloom garden since 2011. Park partners include the Skagway Recreation Center, Skagway School District and the Taiya Inlet Watershed Council.",
-      "geofence_buffer_in_meters": 10,
+      "geofence_buffer_in_meters": 3.047999902464003,
       "id": 22,
-      "latitude": 59.4547194,
-      "longitude": -135.3170478,
+      "latitude": 59.454719,
+      "longitude": -135.317048,
       "map_thumbnail_image": 107,
       "name": "First Bloom Garden",
       "type": "Park"
