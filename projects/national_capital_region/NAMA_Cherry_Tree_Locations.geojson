@@ -8,7 +8,8 @@
         "marker-size": "large",
         "marker-symbol": "park2",
         "name": "Okame",
-        "number": 23
+        "number": 23,
+        "notes": "An early bloomer, the okame peaks before the Yoshinos. Its uniqueness in the park and bright pink blooms make it a special treat."
       },
       "geometry": {
         "type": "Point",
@@ -24,8 +25,9 @@
         "marker-color": "#ff80ff",
         "marker-size": "large",
         "marker-symbol": "park2",
-        "name": "Autumn-Flowering",
-        "number": 24
+        "name": "Autumn-flowering",
+        "number": 24,
+        "notes": "Autumn-flowering cherry trees can bloom at any time of year, including fall and during warm spells in winter. Look for smaller, less showy blossoms."
       },
       "geometry": {
         "type": "Point",
@@ -60,7 +62,8 @@
         "marker-size": "large",
         "marker-symbol": "park2",
         "name": "Takesimensis",
-        "number": 21
+        "number": 21,
+        "notes": "The Takesimensis tree was planted here because it was expected to better tolerate this flood-prone area. Look for shorter, stubbier twigs compared to other cherry varieties."
       },
       "geometry": {
         "type": "Point",
@@ -94,7 +97,8 @@
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "First Lady Tree and the Science Behind the Trees",
-        "number": 3
+        "number": 3,
+        "notes": "Informational sign discusses how cherry trees are cultivated, including a unique First Lady cherry tree at this location."
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +115,8 @@
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "National Cherry Blossom Festival - the Organization",
-        "number": 5
+        "number": 5,
+        "notes": "Informational sign discusses the history of the cherry blossom festival."
       },
       "geometry": {
         "type": "Point",
@@ -128,7 +133,8 @@
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "National Cherry Blossom Festival - the Event",
-        "number": 6
+        "number": 6,
+        "notes": "Informational sign discusses the history of the cherry blossom festival."
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +151,8 @@
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Predicting Peak Bloom",
-        "number": 7
+        "number": 7,
+        "notes": "Informational sign that talks about the science of forecasting when the trees will bloom."
       },
       "geometry": {
         "type": "Point",
@@ -216,7 +223,7 @@
         "marker-symbol": "park2",
         "name": "Shirofugen",
         "number": 16,
-        "notes": ""
+        "notes": "The Shirofugen tree was cultivated from a cutting from an ancient Japanese tree."
       },
       "geometry": {
         "type": "Point",
