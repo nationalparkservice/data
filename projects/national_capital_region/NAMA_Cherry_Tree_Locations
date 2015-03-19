@@ -1,0 +1,1355 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Okame",
+        "number": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0321,
+          38.8808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Autumn-Flowering",
+        "number": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0352167,
+          38.8815167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Weeping",
+        "number": 22,
+        "notes": "The weeping cherry tree is easily identified by its long, drooping branches. They are found throughout the park."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0295667,
+          38.8789167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Takesimensis",
+        "number": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0221,
+          38.8621833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "First Ladies & Cherry Trees Information",
+        "number": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369333,
+          38.8878667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "First Lady Tree and the Science Behind the Trees",
+        "number": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0476833,
+          38.8846667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "National Cherry Blossom Festival - the Organization",
+        "number": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0375667,
+          38.8812333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "National Cherry Blossom Festival - the Event",
+        "number": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03755170106886,
+          38.881197111646706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Predicting Peak Bloom",
+        "number": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03334331512451,
+          38.882481197550774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Usuzumi",
+        "number": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0467667,
+          38.8839167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Yoshino",
+        "number": 14,
+        "notes": "Perhaps the most famous and archetypal cherry tree in D.C., the Yoshino is the most common cherry tree in the park."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0410667,
+          38.8815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Akebono",
+        "number": 15,
+        "notes": "The Akebono is a variant of the more common Yoshino cherry tree."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0492085814476,
+          38.886043109495866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Shirofugen",
+        "number": 16,
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0484667,
+          38.8854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Fugenzo",
+        "notes": "Fugenzo trees are a great example of how cherry trees are grafted, and are easily distinguished by their thick, straight trunks.",
+        "number": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0459333,
+          38.8831833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Afterglow",
+        "number": 18,
+        "notes": "Look for this early bloomer to peak ahead of the Yoshino blossoms."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03428745269774,
+          38.87550927164438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Sargent",
+        "notes": "Sargent trees are planted individually, scattered throughout the park. They are easy to distinguish from surrounding cherry varieties by their deep pink colored flowers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04000055789948,
+          38.87944528873767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Kwanzan",
+        "number": 20,
+        "notes": "A popular tree for landscaping, Kwanzan trees bloom 10-14 days after the Yoshinos, and produce large, dense flowers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03336745500565,
+          38.874665661893836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Japanese Pagoda",
+        "notes": "The Japanese Pagoda was given to the people of Washington by Ryozo Kiranuma, the Mayor of Yokohama, on June 19, 1957. The Japanese Pagoda is a nine-tiered, 3,800 lb. stone structure with four seated Buddhas carved into its base. A brass plaque, located on the pagoda’s base, reads: “May this pagoda symbolize the spirit of friendship between the United States of American and Japan manifested in the treaty of peace, amity and commerce signed at Yokohama on March 31, 1854, by plenipotentiaries of the two countries.”"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04149186611176,
+          38.88287372649676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Japanese Stone Lantern",
+        "notes": "The Japanese Lantern was given to the United States by the Tokyo government in 1954 as a symbol of Japanese-American understanding. The lantern was carved in Tokyo in 1651 to honor the dead warlord Tokugawa Iemitsu, and has a twin on the grounds of a temple in Ueno Park, Tokyo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0413833,
+          38.8866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "First Cherry Trees",
+        "notes": "Plaque commemorates the planting of the first cherry trees on the Tidal Basin in this area in 1912. The stone was moved several feet to the east and rotated 90 degrees in 2013."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0414333,
+          38.8866333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Lady Bird Johnson Tree",
+        "notes": "Plaque commemorates tree planted by First Lady Lady Bird Johnson in 1965."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0415667,
+          38.8866667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "Tidal Basin Welcome Area",
+        "notes": "Information, Vending, Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03631520271301,
+          38.885395882031915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
+        "name": "Tidal Basin Welcome Area",
+        "notes": "Information, Vending, Food"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.0375543832779,
+              38.88652330670724
+            ],
+            [
+              -77.03706085681915,
+              38.88610574409883
+            ],
+            [
+              -77.03686773777008,
+              38.885788394874986
+            ],
+            [
+              -77.03675508499146,
+              38.885450165852184
+            ],
+            [
+              -77.03656733036041,
+              38.88514534078543
+            ],
+            [
+              -77.03623473644257,
+              38.88498248850142
+            ],
+            [
+              -77.03573048114777,
+              38.88499083990967
+            ],
+            [
+              -77.03524231910706,
+              38.884986664205684
+            ],
+            [
+              -77.03464686870575,
+              38.88482798727153
+            ],
+            [
+              -77.03446984291075,
+              38.884974137092186
+            ],
+            [
+              -77.0351779460907,
+              38.88519962479714
+            ],
+            [
+              -77.03576803207397,
+              38.885253908767375
+            ],
+            [
+              -77.03646004199982,
+              38.88578004356047
+            ],
+            [
+              -77.0366907119751,
+              38.88621013498101
+            ],
+            [
+              -77.03716814517973,
+              38.886602643325375
+            ],
+            [
+              -77.037393450737,
+              38.886794721086574
+            ],
+            [
+              -77.03776895999908,
+              38.88672791148942
+            ],
+            [
+              -77.0375543832779,
+              38.88652330670724
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff80ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff80ff",
+        "fill-opacity": 0.5,
+        "name": "Cherry Tree Area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.05005884170532,
+              38.88622266187655
+            ],
+            [
+              -77.04967260360718,
+              38.88642309190506
+            ],
+            [
+              -77.04799890518188,
+              38.885128638004254
+            ],
+            [
+              -77.0456063747406,
+              38.88303240779553
+            ],
+            [
+              -77.0416259765625,
+              38.88024290595399
+            ],
+            [
+              -77.04075694084167,
+              38.88033477751908
+            ],
+            [
+              -77.0405638217926,
+              38.88019279414114
+            ],
+            [
+              -77.04125046730042,
+              38.87992553054248
+            ],
+            [
+              -77.04251646995544,
+              38.88064379918446
+            ],
+            [
+              -77.04628229141235,
+              38.883341417728815
+            ],
+            [
+              -77.05005884170532,
+              38.88622266187655
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff80ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff80ff",
+        "fill-opacity": 0.5,
+        "name": "Cherry Tree Area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.04058527946472,
+              38.88051016835895
+            ],
+            [
+              -77.04114317893982,
+              38.881554152495575
+            ],
+            [
+              -77.04149723052979,
+              38.88212207342409
+            ],
+            [
+              -77.04154014587401,
+              38.8828236165393
+            ],
+            [
+              -77.04373955726624,
+              38.88381745742844
+            ],
+            [
+              -77.04483389854431,
+              38.88485304154784
+            ],
+            [
+              -77.04489827156067,
+              38.88669033106339
+            ],
+            [
+              -77.04111099243164,
+              38.88684065264819
+            ],
+            [
+              -77.041357755661,
+              38.887433584686484
+            ],
+            [
+              -77.04014539718628,
+              38.8879764054527
+            ],
+            [
+              -77.04019904136658,
+              38.88775092656113
+            ],
+            [
+              -77.0410680770874,
+              38.887425233565374
+            ],
+            [
+              -77.04105734825134,
+              38.88713294370809
+            ],
+            [
+              -77.04081058502197,
+              38.8870494320994
+            ],
+            [
+              -77.04097151756287,
+              38.88652330670724
+            ],
+            [
+              -77.04141139984131,
+              38.88629782320351
+            ],
+            [
+              -77.04302072525024,
+              38.886347930710635
+            ],
+            [
+              -77.04415798187254,
+              38.885997177418616
+            ],
+            [
+              -77.04447984695433,
+              38.885504449631
+            ],
+            [
+              -77.04451203346252,
+              38.88486139297133
+            ],
+            [
+              -77.0440936088562,
+              38.88431854840335
+            ],
+            [
+              -77.04333186149596,
+              38.88393437897203
+            ],
+            [
+              -77.04222679138184,
+              38.883566910615684
+            ],
+            [
+              -77.04138994216919,
+              38.88317438549934
+            ],
+            [
+              -77.04097151756287,
+              38.882280756401585
+            ],
+            [
+              -77.04079985618591,
+              38.88150404160747
+            ],
+            [
+              -77.04038143157959,
+              38.88080248546334
+            ],
+            [
+              -77.04058527946472,
+              38.88051016835895
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff80ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff80ff",
+        "fill-opacity": 0.5,
+        "name": "Cherry Tree Area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.0399522781372,
+              38.88015103427013
+            ],
+            [
+              -77.03974843025208,
+              38.880042458490585
+            ],
+            [
+              -77.03920125961304,
+              38.8801593862463
+            ],
+            [
+              -77.03816056251526,
+              38.880284665771036
+            ],
+            [
+              -77.03761339187622,
+              38.880952819505914
+            ],
+            [
+              -77.03709840774536,
+              38.881929983029806
+            ],
+            [
+              -77.03720569610596,
+              38.882021852413594
+            ],
+            [
+              -77.03750610351562,
+              38.882071962936514
+            ],
+            [
+              -77.03786015510559,
+              38.881729540325594
+            ],
+            [
+              -77.03792452812195,
+              38.88118667182883
+            ],
+            [
+              -77.03803181648254,
+              38.88074402213866
+            ],
+            [
+              -77.03834295272827,
+              38.88046005673459
+            ],
+            [
+              -77.03866481781006,
+              38.88037653728213
+            ],
+            [
+              -77.03940510749815,
+              38.88030972164946
+            ],
+            [
+              -77.0399522781372,
+              38.88015103427013
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff80ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff80ff",
+        "fill-opacity": 0.5,
+        "name": "Cherry Tree Area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.0387452840805,
+              38.88789707036876
+            ],
+            [
+              -77.03876674175262,
+              38.8877968575045
+            ],
+            [
+              -77.03786551952362,
+              38.88755467583222
+            ],
+            [
+              -77.03776359558105,
+              38.887366775690126
+            ],
+            [
+              -77.03783869743347,
+              38.88719975292435
+            ],
+            [
+              -77.03810155391693,
+              38.88708701233547
+            ],
+            [
+              -77.03811764717102,
+              38.88687405740161
+            ],
+            [
+              -77.03786015510559,
+              38.886606818934396
+            ],
+            [
+              -77.03756511211395,
+              38.88678636989038
+            ],
+            [
+              -77.03754365444183,
+              38.88762148465186
+            ],
+            [
+              -77.0387452840805,
+              38.88789707036876
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff80ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff80ff",
+        "fill-opacity": 0.5,
+        "name": "Cherry Tree Area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.0346200466156,
+              38.884819635844096
+            ],
+            [
+              -77.0344591140747,
+              38.88494490715209
+            ],
+            [
+              -77.03340768814087,
+              38.88400119119626
+            ],
+            [
+              -77.03289270401001,
+              38.8831075724976
+            ],
+            [
+              -77.03302145004272,
+              38.88295724301398
+            ],
+            [
+              -77.03360080718994,
+              38.883926027439585
+            ],
+            [
+              -77.03410506248474,
+              38.884402063222225
+            ],
+            [
+              -77.0346200466156,
+              38.884819635844096
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff80ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff80ff",
+        "fill-opacity": 0.5,
+        "name": "Cherry Tree Area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.03340768814087,
+              38.88261482466946
+            ],
+            [
+              -77.03384757041931,
+              38.88208031468691
+            ],
+            [
+              -77.03561782836913,
+              38.88114491254189
+            ],
+            [
+              -77.03572511672974,
+              38.881729540325594
+            ],
+            [
+              -77.03595042228699,
+              38.88191327949272
+            ],
+            [
+              -77.03586459159851,
+              38.88201350065635
+            ],
+            [
+              -77.03544616699219,
+              38.88199679713889
+            ],
+            [
+              -77.03500628471375,
+              38.88189657595173
+            ],
+            [
+              -77.03452348709106,
+              38.88193833479689
+            ],
+            [
+              -77.0341157913208,
+              38.88240603218612
+            ],
+            [
+              -77.03357934951782,
+              38.882573066221894
+            ],
+            [
+              -77.03340768814087,
+              38.88261482466946
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff80ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff80ff",
+        "fill-opacity": 0.5,
+        "name": "Cherry Tree Area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.03927099704742,
+              38.88967164975597
+            ],
+            [
+              -77.03927099704742,
+              38.88985954380149
+            ],
+            [
+              -77.03843414783478,
+              38.88985954380149
+            ],
+            [
+              -77.03843414783478,
+              38.88967164975597
+            ],
+            [
+              -77.03927099704742,
+              38.88967164975597
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff80ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff80ff",
+        "fill-opacity": 0.5,
+        "name": "Cherry Tree Area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.03919053077698,
+              38.88897017426134
+            ],
+            [
+              -77.03919053077698,
+              38.88911214009911
+            ],
+            [
+              -77.03835904598236,
+              38.88911214009911
+            ],
+            [
+              -77.03835904598236,
+              38.88897017426134
+            ],
+            [
+              -77.03919053077698,
+              38.88897017426134
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff80ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff80ff",
+        "fill-opacity": 0.5,
+        "name": "Cherry Tree Area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.03193783760071,
+              38.88113656068155
+            ],
+            [
+              -77.03227043151855,
+              38.880919411968385
+            ],
+            [
+              -77.02840805053711,
+              38.87812147495851
+            ],
+            [
+              -77.02708840370178,
+              38.87704403102928
+            ],
+            [
+              -77.02561855316162,
+              38.87560741371264
+            ],
+            [
+              -77.02479779720306,
+              38.87434617340871
+            ],
+            [
+              -77.02412188053131,
+              38.87318096793976
+            ],
+            [
+              -77.0234352350235,
+              38.87133079958009
+            ],
+            [
+              -77.02305972576141,
+              38.87032007778834
+            ],
+            [
+              -77.02269494533539,
+              38.869313518250294
+            ],
+            [
+              -77.02244281768797,
+              38.86696203939137
+            ],
+            [
+              -77.02238917350769,
+              38.864326452882395
+            ],
+            [
+              -77.02241063117981,
+              38.8627851533738
+            ],
+            [
+              -77.02228188514708,
+              38.86093889155354
+            ],
+            [
+              -77.02221751213074,
+              38.859059163981456
+            ],
+            [
+              -77.02194929122925,
+              38.85707495319311
+            ],
+            [
+              -77.02244818210602,
+              38.85699558361003
+            ],
+            [
+              -77.02319383621216,
+              38.85845764066397
+            ],
+            [
+              -77.02463150024414,
+              38.86107255917738
+            ],
+            [
+              -77.02630519866943,
+              38.86425544523817
+            ],
+            [
+              -77.02637493610382,
+              38.86501981791663
+            ],
+            [
+              -77.02807545661926,
+              38.86799369244625
+            ],
+            [
+              -77.03007102012634,
+              38.87117626866656
+            ],
+            [
+              -77.03199684619904,
+              38.8735484900067
+            ],
+            [
+              -77.03364372253417,
+              38.87528166504957
+            ],
+            [
+              -77.03491508960724,
+              38.87622549681527
+            ],
+            [
+              -77.03510284423828,
+              38.8761503248332
+            ],
+            [
+              -77.03747391700745,
+              38.877879260304795
+            ],
+            [
+              -77.03920125961304,
+              38.87889822672736
+            ],
+            [
+              -77.03986644744873,
+              38.87932418377011
+            ],
+            [
+              -77.03997373580933,
+              38.87992553054248
+            ],
+            [
+              -77.04013466835022,
+              38.8799839945406
+            ],
+            [
+              -77.04033851623535,
+              38.87934923998722
+            ],
+            [
+              -77.03825712203978,
+              38.878138179386966
+            ],
+            [
+              -77.03559637069701,
+              38.87628396385751
+            ],
+            [
+              -77.03396558761595,
+              38.87487238897184
+            ],
+            [
+              -77.03264594078064,
+              38.87360278287819
+            ],
+            [
+              -77.03004956245422,
+              38.8703033715223
+            ],
+            [
+              -77.02852606773375,
+              38.867730559688546
+            ],
+            [
+              -77.02684164047241,
+              38.86469819762713
+            ],
+            [
+              -77.02527523040771,
+              38.861832789009455
+            ],
+            [
+              -77.02423453330994,
+              38.85980270660567
+            ],
+            [
+              -77.02259302139282,
+              38.856937100702645
+            ],
+            [
+              -77.02239990234375,
+              38.856761651691954
+            ],
+            [
+              -77.02192783355713,
+              38.856828489461364
+            ],
+            [
+              -77.02178835868835,
+              38.85696216481171
+            ],
+            [
+              -77.02180981636047,
+              38.858557894903555
+            ],
+            [
+              -77.0219600200653,
+              38.86399647558172
+            ],
+            [
+              -77.0221745967865,
+              38.86889167785708
+            ],
+            [
+              -77.02278614044188,
+              38.870996678263914
+            ],
+            [
+              -77.02376246452332,
+              38.87345243328626
+            ],
+            [
+              -77.02537178993225,
+              38.87574940625236
+            ],
+            [
+              -77.02645540237427,
+              38.87691039343423
+            ],
+            [
+              -77.02813982963562,
+              38.878138179386966
+            ],
+            [
+              -77.03163743019104,
+              38.880710614502966
+            ],
+            [
+              -77.03193783760071,
+              38.88113656068155
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff80ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff80ff",
+        "fill-opacity": 0.5,
+        "name": "Cherry Tree Area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.03317165374756,
+              38.88897017426134
+            ],
+            [
+              -77.03306436538696,
+              38.8889033667101
+            ],
+            [
+              -77.0336651802063,
+              38.88823528774195
+            ],
+            [
+              -77.03380465507506,
+              38.88789289483556
+            ],
+            [
+              -77.03474879264832,
+              38.88766741567891
+            ],
+            [
+              -77.03567147254944,
+              38.88759225580102
+            ],
+            [
+              -77.0362615585327,
+              38.88770082004357
+            ],
+            [
+              -77.03673362731934,
+              38.88780938412026
+            ],
+            [
+              -77.03659415245056,
+              38.88794300121763
+            ],
+            [
+              -77.03559637069701,
+              38.88772587330676
+            ],
+            [
+              -77.03464150428772,
+              38.88791794803102
+            ],
+            [
+              -77.03407287597656,
+              38.88831879795658
+            ],
+            [
+              -77.03317165374756,
+              38.88897017426134
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff80ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff80ff",
+        "fill-opacity": 0.5,
+        "name": "Cherry Tree Area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.0287835597992,
+              38.875223197182756
+            ],
+            [
+              -77.02864408493042,
+              38.87539024810315
+            ],
+            [
+              -77.02964186668396,
+              38.875799521198644
+            ],
+            [
+              -77.02995300292969,
+              38.875665881263366
+            ],
+            [
+              -77.02985644340514,
+              38.87538189556644
+            ],
+            [
+              -77.0287835597992,
+              38.875223197182756
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
