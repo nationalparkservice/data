@@ -80,7 +80,8 @@
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "First Ladies & Cherry Trees Information",
-        "number": 2
+        "number": 2,
+        "notes": "In view of the White House, this informational sign discusses the roles of First Ladies in connection with the cherry blossoms."
       },
       "geometry": {
         "type": "Point",
