@@ -170,7 +170,8 @@
         "marker-size": "large",
         "marker-symbol": "park2",
         "name": "Usuzumi",
-        "number": 13
+        "number": 13,
+        "notes": "Some Usuzumis in Japan are over 1,500 years old. They have survived that long because of plenty of care."
       },
       "geometry": {
         "type": "Point",
@@ -224,7 +225,7 @@
         "marker-symbol": "park2",
         "name": "Shirofugen",
         "number": 16,
-        "notes": "The Shirofugen tree was cultivated from a cutting from an ancient Japanese tree."
+        "notes": "The Shirofugen tree blooms later than most cherry trees. If you missed the peak of the Yoshinos, try this area!"
       },
       "geometry": {
         "type": "Point",
