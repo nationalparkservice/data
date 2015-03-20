@@ -1096,7 +1096,8 @@
         "fill": "#ff80ff",
         "fill-opacity": 0.5,
         "name": "Cherry Tree Area",
-        "notes": "One or more types of cherry trees may be found in this area. Look for pins in this map that mark specific trees."
+        "notes": "One or more types of cherry trees may be found in this area. Look for pins in this map that mark specific trees.",
+        "marker-size": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1125,6 +1126,45 @@
             [
               -77.0287835597992,
               38.875223197182756
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff80ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff80ff",
+        "fill-opacity": 0.5,
+        "name": "Cherry Tree Area",
+        "notes": "One or more types of cherry trees may be found in this area. Look for pins in this map that mark specific trees."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.03904032707214,
+              38.89186789132842
+            ],
+            [
+              -77.03823566436766,
+              38.89138355491702
+            ],
+            [
+              -77.0366907119751,
+              38.89164242478916
+            ],
+            [
+              -77.03689455986023,
+              38.89186789132842
+            ],
+            [
+              -77.03904032707214,
+              38.89186789132842
             ]
           ]
         ]
