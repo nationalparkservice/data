@@ -208,7 +208,8 @@
         "marker-symbol": "park2",
         "name": "Kwanzan",
         "number": 20,
-        "notes": "A popular tree for landscaping, Kwanzan trees bloom 10-14 days after the Yoshinos, and produce large, dense flowers."
+        "notes": "A popular tree for landscaping, Kwanzan trees bloom 10-14 days after the Yoshinos, and produce large, dense flowers.",
+        "image": "http://www.nps.gov/ncr/nama/images/CHBLdyk.gif"
       },
       "geometry": {
         "type": "Point",
