@@ -44,7 +44,8 @@
         "marker-size": "large",
         "marker-symbol": "soccer",
         "name": "Soccer Field",
-        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm"
+        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/soccer.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +112,8 @@
         "marker-size": "large",
         "marker-symbol": "pitch",
         "name": "Playing Field",
-        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm"
+        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/flag-football_1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -241,7 +243,8 @@
         "marker-size": "large",
         "marker-symbol": "basketball",
         "name": "Basketball Courts",
-        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm"
+        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/basketball-thumb_1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -258,7 +261,8 @@
         "marker-size": "large",
         "marker-symbol": "pitch",
         "name": "Roller Skating",
-        "url": "http://www.nps.gov/anac/planyourvisit/roller-skating.htm"
+        "url": "http://www.nps.gov/anac/planyourvisit/roller-skating.htm",
+        "image": "http://www.nps.gov/ncr/anac/images/279BC06C-1DD8-B71C-07938284D06DD008.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -307,7 +311,8 @@
         "marker-size": "medium",
         "marker-symbol": "harbor",
         "name": "Boat Ramp",
-        "url": "http://www.nps.gov/anac/planyourvisit/Boating-and-Fishing.htm"
+        "url": "http://www.nps.gov/anac/planyourvisit/Boating-and-Fishing.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/boating_1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -374,7 +379,8 @@
         "marker-size": "large",
         "marker-symbol": "basketball",
         "name": "Basketball Courts",
-        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm"
+        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/basketball-thumb_1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -391,7 +397,8 @@
         "marker-size": "medium",
         "marker-symbol": "police",
         "name": "U.S. Park Police",
-        "url": "http://www.nps.gov/subjects/uspp/index.htm"
+        "url": "http://www.nps.gov/subjects/uspp/index.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/uspp.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -408,7 +415,8 @@
         "marker-size": "medium",
         "marker-symbol": "building",
         "name": "Park Headquarters",
-        "url": "http://www.nps.gov/nace/index.htm"
+        "url": "http://www.nps.gov/nace/index.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/nps.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -443,7 +451,8 @@
         "marker-size": "large",
         "marker-symbol": "pitch",
         "name": "Playing Field",
-        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm"
+        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/flag-football_1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -477,7 +486,8 @@
         "marker-size": "large",
         "marker-symbol": "pitch",
         "name": "Playing Field",
-        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm"
+        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/flag-football_1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -494,7 +504,8 @@
         "marker-size": "large",
         "marker-symbol": "pitch",
         "name": "Playing Field",
-        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm"
+        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/flag-football_1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1043,7 +1054,8 @@
         "marker-size": "medium",
         "marker-symbol": "pitch",
         "name": "Playing Field",
-        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm"
+        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/flag-football_1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1060,7 +1072,8 @@
         "marker-size": "large",
         "marker-symbol": "soccer",
         "name": "Soccer Field",
-        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm"
+        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/soccer.jpg"
       },
       "geometry": {
         "type": "Point",
