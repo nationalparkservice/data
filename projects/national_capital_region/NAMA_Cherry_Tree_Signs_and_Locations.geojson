@@ -45,7 +45,8 @@
         "marker-symbol": "park2",
         "name": "Weeping",
         "number": 22,
-        "notes": "The weeping cherry tree is easily identified by its long, drooping branches. They are found throughout the park."
+        "notes": "The weeping cherry tree is easily identified by its long, drooping branches. They are found throughout the park.",
+        "image": "http://www.nps.gov/common/uploads/photogallery/ncr/park/chbl/F9962E8B-1DD8-B71C-07A2EF3E53307A5A/F9962E8B-1DD8-B71C-07A2EF3E53307A5A-small.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -99,7 +100,8 @@
         "marker-symbol": "park2",
         "name": "Yoshino",
         "number": 14,
-        "notes": "Perhaps the most famous and archetypal cherry tree in D.C., the Yoshino is the most common cherry tree in the park."
+        "notes": "Perhaps the most famous and archetypal cherry tree in D.C., the Yoshino is the most common cherry tree in the park.",
+        "image": "http://www.nps.gov/common/uploads/photogallery/ncr/park/chbl/27F7B56D-1DD8-B71C-07A500FE07BD676F/27F7B56D-1DD8-B71C-07A500FE07BD676F-small.JPG"
       },
       "geometry": {
         "type": "Point",
