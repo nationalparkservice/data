@@ -194,7 +194,9 @@
         "marker-size": "large",
         "marker-symbol": "pitch",
         "name": "Fitness Zone",
-        "notes": "Equipment includes: combo press & pull, pull-up & dip, sit-up boards, seated lat pull, exercise bike, air strider, squat press, rowing machine, horizontal ladder, accessible multi-gym, push-up bars, horizontal bars, elliptical cross-trainer."
+        "notes": "Equipment includes: combo press & pull, pull-up & dip, sit-up boards, seated lat pull, exercise bike, air strider, squat press, rowing machine, horizontal ladder, accessible multi-gym, push-up bars, horizontal bars, elliptical cross-trainer.",
+        "image": "http://www.nps.gov/ncr/anac/images/279BC06C-1DD8-B71C-07938284D06DD008.jpg",
+        "url": "http://www.nps.gov/anac/planyourvisit/Fitness-Zone.htm"
       },
       "geometry": {
         "type": "Point",
