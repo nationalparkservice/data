@@ -3055,47 +3055,14 @@
       "longitude": -91.346337,
       "map_thumbnail_image": 428,
       "media": [
-        365
+        365,
+        282,
+        283
       ],
       "name": "Friends Meetinghouse",
       "name_description": "The Quakers of West Branch valued peace, simplicity, integrity, and service to others.",
       "primary_image": 365,
       "type": "Church",
-      "services": []
-    },
-    {
-      "audio_description": "Statue of Isis\n291 words\n\nStatue of Isis.  Two minutes.  A bronze statue of a seated Egyptian goddess is located on the south side of the cement sidewalk that runs between the Friends Meetinghouse and the Presidential Library.  A metal chain draped across four 3-foot metal posts creates a barrier between the sidewalk and the sculpture.\n\nThe figure is slightly larger than life-size. She faces north, across the creek toward the Herbert Hoover Birthplace Cottage 100 feet away.  She sits on a narrow throne; the throne itself rests on a rectangular concrete base, 3 ½ feet high, 5 ½ feet wide, and more than 7 feet deep.  \n\nIsis sits up perfectly straight—her bare feet together, her left hand clutching an Egyptian ankh symbol, her head held high as she looks straight ahead.  She wears a flowing garment that covers her arms, legs, and torso and drapes over the back of her throne.  A veil obscures her face, revealing only the outline of her eyes and nose.  In her right hand, she holds a three-flamed lamp. \n\nA metal plaque on the front of the base measures 2 feet high by 2 ½ feet wide.  In raised letters, it reads:\n\n“Isis… The Goddess of Life.  I am that which was and is and will ever be…and no mortal has yet lifted the veil which covers me.  Sculptured by the Belgian artist Puttemans for the Birthplace of Herbert Hoover.  Presented by a committee of Belgian school children, Belgian refugees and soldiers of the Belgian Army.”  End of text.\n\nHalf-a-dozen evergreen trees form a small arc behind her.  Twenty feet to her west, on the opposite side of the sidewalk is a small sitting area.  It includes two wooden benches with a water fountain in between.\n\nEnd of message.\n \n\f",
-      "description": "The bronze, seven and a half foot tall statue “Isis, Goddess of Life” is the work of Belgian sculptor Auguste Puttemans. It was a gift from the people of Belgium in gratitude for Hoover's famine relief efforts on their behalf during the First World War.",
-      "geofence_buffer_in_meters": 10,
-      "id": 388,
-      "information": [
-        {
-          "description": "After the war, Herbert Hoover was sent many gifts expressing the gratitude of the Belgian people for his humanitarian efforts. Some sent him beautifully embroidered flour sacks, like those on display at the Herbert Hoover Presidential Library and Museum. Many Belgian children, refugees, and soldiers contributed to a fund to create this work of art. ",
-          "name": "Expressions Of Gratitude"
-        },
-        {
-          "description": "When the Belgians shipped the finished statue to California's Stanford University in 1922. It remained on campus until the President and Mrs. Hoover brought it to West Branch in 1939. They wanted it to be placed in a position where it was contemplating the house, which is why Isis sits in her throne-like chair facing the Birthplace Cottage.",
-          "name": "Placement At The Historic Site"
-        },
-        {
-          "description": "The Statue of Isis represents just one of Hoover's many efforts regarding children's welfare. As President he increased the budget for children's programs. After his presidency, Hoover was chairman of the Boys' Clubs of America for 25 years. He raised money and helped open 500 new chapters. Hoover’s global relief work also inspired the creation of UNICEF, the United Nations Children's Fund, a leading advocate for children's welfare and rights around the world.",
-          "name": "Hoover’s Dedication To Children’s Causes"
-        },
-        {
-          "description": "Isis wears a veil, a symbol of the mysteries of life. Her right hand carries the torch of life-its three flames represent the past, present, and future. Her left hand holds the key of life. An ancient Egyptian goddess and an American President are an unlikely pairing. But it provides a powerful visual link between Hoover's childhood and his life's dedication to the welfare of others.",
-          "name": "The Mysterious Goddess"
-        }
-      ],
-      "latitude": 41.66968813,
-      "longitude": -91.34693563,
-      "map_thumbnail_image": 429,
-      "media": [
-        336
-      ],
-      "name": "Statue of Isis",
-      "name_description": "The people of Belgium presented “Isis, Goddess of Life” to Hoover as a gift of gratitude.",
-      "primary_image": 336,
-      "type": "Statue",
       "services": []
     },
     {
@@ -3129,7 +3096,8 @@
       "longitude": -91.347062,
       "map_thumbnail_image": 426,
       "media": [
-        380
+        380,
+        280
       ],
       "name": "Blacksmith Shop",
       "name_description": "Hoover’s father, a blacksmith, earned a reputation as a fair and hard working shop owner.",
@@ -3162,6 +3130,42 @@
       "name_description": "After years of renting next door, well-liked country doctor L.J. Leech built a new home for himself.",
       "primary_image": 372,
       "type": "Office"
+    },
+    {
+      "audio_description": "Statue of Isis\n291 words\n\nStatue of Isis.  Two minutes.  A bronze statue of a seated Egyptian goddess is located on the south side of the cement sidewalk that runs between the Friends Meetinghouse and the Presidential Library.  A metal chain draped across four 3-foot metal posts creates a barrier between the sidewalk and the sculpture.\n\nThe figure is slightly larger than life-size. She faces north, across the creek toward the Herbert Hoover Birthplace Cottage 100 feet away.  She sits on a narrow throne; the throne itself rests on a rectangular concrete base, 3 ½ feet high, 5 ½ feet wide, and more than 7 feet deep.  \n\nIsis sits up perfectly straight—her bare feet together, her left hand clutching an Egyptian ankh symbol, her head held high as she looks straight ahead.  She wears a flowing garment that covers her arms, legs, and torso and drapes over the back of her throne.  A veil obscures her face, revealing only the outline of her eyes and nose.  In her right hand, she holds a three-flamed lamp. \n\nA metal plaque on the front of the base measures 2 feet high by 2 ½ feet wide.  In raised letters, it reads:\n\n“Isis… The Goddess of Life.  I am that which was and is and will ever be…and no mortal has yet lifted the veil which covers me.  Sculptured by the Belgian artist Puttemans for the Birthplace of Herbert Hoover.  Presented by a committee of Belgian school children, Belgian refugees and soldiers of the Belgian Army.”  End of text.\n\nHalf-a-dozen evergreen trees form a small arc behind her.  Twenty feet to her west, on the opposite side of the sidewalk is a small sitting area.  It includes two wooden benches with a water fountain in between.\n\nEnd of message.\n \n\f",
+      "description": "The bronze, seven and a half foot tall statue “Isis, Goddess of Life” is the work of Belgian sculptor Auguste Puttemans. It was a gift from the people of Belgium in gratitude for Hoover's famine relief efforts on their behalf during the First World War.",
+      "geofence_buffer_in_meters": 10,
+      "id": 388,
+      "information": [
+        {
+          "description": "After the war, Herbert Hoover was sent many gifts expressing the gratitude of the Belgian people for his humanitarian efforts. Some sent him beautifully embroidered flour sacks, like those on display at the Herbert Hoover Presidential Library and Museum. Many Belgian children, refugees, and soldiers contributed to a fund to create this work of art. ",
+          "name": "Expressions Of Gratitude"
+        },
+        {
+          "description": "When the Belgians shipped the finished statue to California's Stanford University in 1922. It remained on campus until the President and Mrs. Hoover brought it to West Branch in 1939. They wanted it to be placed in a position where it was contemplating the house, which is why Isis sits in her throne-like chair facing the Birthplace Cottage.",
+          "name": "Placement At The Historic Site"
+        },
+        {
+          "description": "The Statue of Isis represents just one of Hoover's many efforts regarding children's welfare. As President he increased the budget for children's programs. After his presidency, Hoover was chairman of the Boys' Clubs of America for 25 years. He raised money and helped open 500 new chapters. Hoover’s global relief work also inspired the creation of UNICEF, the United Nations Children's Fund, a leading advocate for children's welfare and rights around the world.",
+          "name": "Hoover’s Dedication To Children’s Causes"
+        },
+        {
+          "description": "Isis wears a veil, a symbol of the mysteries of life. Her right hand carries the torch of life-its three flames represent the past, present, and future. Her left hand holds the key of life. An ancient Egyptian goddess and an American President are an unlikely pairing. But it provides a powerful visual link between Hoover's childhood and his life's dedication to the welfare of others.",
+          "name": "The Mysterious Goddess"
+        }
+      ],
+      "latitude": 41.66968813,
+      "longitude": -91.34693563,
+      "map_thumbnail_image": 429,
+      "media": [
+        336,
+        284
+      ],
+      "name": "Statue of Isis",
+      "name_description": "The people of Belgium presented “Isis, Goddess of Life” to Hoover as a gift of gratitude.",
+      "primary_image": 336,
+      "type": "Statue",
+      "services": []
     },
     {
       "audio_description": "Blacksmith Shop Archaeological Site\n103 words\n\nBlacksmith Shop Archaeological Site.  About 45 seconds.    The blacksmith shop archaeological site is adjacent to the blacksmith shop, just to its east.  Today, it’s simply a flat grassy lot with some large trees spread across it.  The rectangular plot of land is bounded on the south by the boardwalk that runs along Penn Street and on the east by the boardwalk that runs along Downey Street.  The white picket fence of the green-and-white C. E. Smith house abuts the site on the north.  The archaeological site is roughly 75 feet from east to west and 30 feet north to south.\n\nEnd of message.\n",
@@ -3224,7 +3228,13 @@
       "longitude": -91.346844,
       "map_thumbnail_image": 425,
       "media": [
-        337
+        337,
+        275,
+        273,
+        276,
+        277,
+        278,
+        279
       ],
       "name": "Birthplace Cottage",
       "name_description": "Hoover called his modest birthplace \"physical proof of the unbounded opportunity of American life.\"",
@@ -3290,6 +3300,29 @@
       "type": "Bank"
     },
     {
+      "audio_description": "Iowa Award\n211 words\n\nIowa Award.  1 ½ minutes.  The Iowa Award is located about ten feet east of the Statue of Isis, along the cement sidewalk that connects the Friends Meetinghouse with the Presidential Library.  It sits about two feet from the sidewalk on the south side.  \n\nThe award is a rectangular stone two feet wide and 15 inches deep with two square metal plaques mounted on it, side by side.  Each of the brown metal plaques is 9 inches square with flattened corners.  The stone base is multi-hued—primarily grey but mottled with shades of beige, brown, and red.  The stone’s surface is flush to the grass in the front, but angled up so that it is about 3 inches off the ground in the back.\n\nRaised letters on the left-hand plaque read:\n\n“To Herbert Hoover, President of the United States, native son of Iowa, citizen of the world, statesman, humanitarian, engineer, administrator, who has worn the world’s greatest honors with humility , the State of Iowa grants the Iowa Award.”\n\nOn the right-hand plaque, raised lettering reads:\n\n“Presented by the Iowa Centennial Memorial Commission at joint session of House and Senate of 54th General Assembly.”  End of text.\n\nTwo medium-sized evergreen trees stand a few feet behind the award.\n\nEnd of message.",
+      "description": "In 1951 Herbert Hoover became the first recipient of the prestigious Iowa Award, which is bestowed to “recognize the outstanding service of Iowans in the fields of science, medicine, law, religion, social welfare education, agriculture, industry, government and other public service.” Only 12 other Iowans have received this award.  ",
+      "geofence_buffer_in_meters": 10,
+      "id": 394,
+      "information": [
+        {
+          "description": "Mr. Hoover immediately arranged to give the award to the Hoover Birthplace Society for display in Hoover Park, commenting that \"That way, people can see that the fellow who was born there came to a good end… there is no point in having a memorial telling how a fellow started out without knowing how he finished.”",
+          "name": "Displayed At Hoover Park"
+        }
+      ],
+      "latitude": 41.66970416,
+      "longitude": -91.34688199,
+      "map_thumbnail_image": 435,
+      "media": [
+        374,
+        290
+      ],
+      "name": "Iowa Award",
+      "name_description": "In 1951 the state of Iowa honored Herbert Hoover with its highest citizen award.",
+      "primary_image": 374,
+      "type": "Plaque"
+    },
+    {
       "audio_description": "Gravesite of President and Mrs. Hoover\n359 words\n\nGravesite of President and Mrs. Hoover.  2 ½ minutes.  The graves of President Herbert Hoover and his wife Lou Henry Hoover are located on a hilltop that overlooks the National Historic Site from the southwest.  Several hundred feet to the northwest, between two rows of trees, is the small white cabin where Herbert Hoover was born.\n\nThe main path to the gravesite leads west from the parking area for about 300 feet.  The cement path is a bit steep for wheelchair access.  A more gradual wheelchair ramp bordered by prairie plants leads south from the parking area, reaching the gravesite after about 450 feet.  There are two marble benches to the left of the walkway as you approach the gravesite.\n\nOnce you reach the gravesite, the path switches from cement to smooth stone and curves gently to the right for about 50 feet before ending abruptly.  The graves of President and Mrs. Hoover are to the left, or southwest, of the six-foot wide walkway.  Two white marble slabs are laid horizontally on black granite bases, perpendicular to the path.  The stones each measure four feet wide by ten feet deep by two feet high.  The stone on the left is inscribed on the front and top “Herbert Hoover, 1874-1964.”  The stone on the right is inscribed “Lou Henry Hoover, 1874-1944.”  Two additional marble blocks sit at the beginning and end of the stone path, framing the site.  Each is about three feet high, three feet wide, and two feet deep.\n\nBehind the graves is an arc of flat-topped evergreen shrubs 18 inches high, and beyond that, three rows of rounded bushes planted on a curved slope.  Finally, forming the outside edge of the engulfing arc is a row of dense evergreens about 15 feet high.\n\nOpposite the graves, on the right, or northwest, side of the path, is an American flag atop a flagpole 40 feet high.  An eagle with outstretched wings adorns the top of the flagpole.  Further to the north and northwest, the view is of the grassy fields, clumps of trees, and crisscrossing paths that make up the Herbert Hoover National Historic Site. \n\nEnd of message.",
       "description": "Herbert Hoover wrote of West Branch, \"My grandparents and my parents came here in a covered wagon. In this community they toiled and worshipped God. The most formative years of my boyhood were spent here. My roots are in this soil.\"",
       "geofence_buffer_in_meters": 10,
@@ -3316,35 +3349,14 @@
       "longitude": -91.35199696,
       "map_thumbnail_image": 431,
       "media": [
-        358
+        358,
+        286
       ],
       "name": "Gravesite of President and Mrs. Hoover",
       "name_description": "The president’s gravesite overlooks his birthplace, a reminder of his simple beginnings.",
       "primary_image": 358,
       "type": "Graves",
       "services": []
-    },
-    {
-      "audio_description": "Iowa Award\n211 words\n\nIowa Award.  1 ½ minutes.  The Iowa Award is located about ten feet east of the Statue of Isis, along the cement sidewalk that connects the Friends Meetinghouse with the Presidential Library.  It sits about two feet from the sidewalk on the south side.  \n\nThe award is a rectangular stone two feet wide and 15 inches deep with two square metal plaques mounted on it, side by side.  Each of the brown metal plaques is 9 inches square with flattened corners.  The stone base is multi-hued—primarily grey but mottled with shades of beige, brown, and red.  The stone’s surface is flush to the grass in the front, but angled up so that it is about 3 inches off the ground in the back.\n\nRaised letters on the left-hand plaque read:\n\n“To Herbert Hoover, President of the United States, native son of Iowa, citizen of the world, statesman, humanitarian, engineer, administrator, who has worn the world’s greatest honors with humility , the State of Iowa grants the Iowa Award.”\n\nOn the right-hand plaque, raised lettering reads:\n\n“Presented by the Iowa Centennial Memorial Commission at joint session of House and Senate of 54th General Assembly.”  End of text.\n\nTwo medium-sized evergreen trees stand a few feet behind the award.\n\nEnd of message.",
-      "description": "In 1951 Herbert Hoover became the first recipient of the prestigious Iowa Award, which is bestowed to “recognize the outstanding service of Iowans in the fields of science, medicine, law, religion, social welfare education, agriculture, industry, government and other public service.” Only 12 other Iowans have received this award.  ",
-      "geofence_buffer_in_meters": 10,
-      "id": 394,
-      "information": [
-        {
-          "description": "Mr. Hoover immediately arranged to give the award to the Hoover Birthplace Society for display in Hoover Park, commenting that \"That way, people can see that the fellow who was born there came to a good end… there is no point in having a memorial telling how a fellow started out without knowing how he finished.”",
-          "name": "Displayed At Hoover Park"
-        }
-      ],
-      "latitude": 41.66970416,
-      "longitude": -91.34688199,
-      "map_thumbnail_image": 435,
-      "media": [
-        374
-      ],
-      "name": "Iowa Award",
-      "name_description": "In 1951 the state of Iowa honored Herbert Hoover with its highest citizen award.",
-      "primary_image": 374,
-      "type": "Plaque"
     },
     {
       "audio_description": "Tallgrass Prairie at the Observation Deck – Area Description \n236 words\n\nTallgrass Prairie at the Observation Deck – Area Description.  1 ¾ minutes.  First of two descriptions at this location.  The Tallgrass Prairie Observation Deck can be reached from the gravesite parking area via a 265-foot roughly paved path.  A short, 25-foot-long boardwalk continues from the end of the paved path, leading to the Observation Deck.  The Observation Deck is a roughly circular wooden platform about 15 feet across.  Three backless benches around the perimeter of the deck provide seating, and an interpretive sign near the south edge offers information about the prairie itself.  This sign is described in the next message.  \n\nThe Observation Deck is situated within the prairie, so the view all around is of the tallgrass and other prairie vegetation.  During the summer, the dense grass is green and wildflowers are often in bloom; in the winter the landscape is a subdued shade of yellowish brown.   Depending on the season and weather conditions, the vegetation could be anywhere from 1 foot to 10 feet high.  Some trees and farm buildings may be visible above the top of the grass to the southeast.\n\nA two-mile network of prairie trails begins at the south end of the Observation Deck.  These trails are dirt and mown-grass, and the surfaces can be uneven as they meander through the gently rolling hills of the prairie.  So use your judgment if you choose to explore the prairie further.\n\nEnd of message.\n\nTallgrass Prairie Interpretive Sign\n260 words\n\nTallgrass Prairie Interpretive Sign.  Two minutes.  Second of two descriptions at this location.   A small interpretive sign is mounted on a wooden post near the southern edge of the Tallgrass Prairie Observation Deck.  Along the top of the sign is a beige-and-black drawing of the prairie with some farm buildings in the background.  Below that, the following text is printed in beige letters on a black background:\n\n“Iowa Prairie\n\n“You are viewing 76 acres of partially restored tall grass prairie, planted in 1971.  Extending from the historic Miles Farm, at the hilltop on your left, it provides a south western boundary for the historic site.\n\n“Prior to the settlement of West Branch, 85% of Iowa consisted of prairie.  Trees were scarce until planted.  Jesse Hoover imported lumber for construction of the birthplace of Herbert Hoover.\n\n“The plowed fields of the Miles Farm characterized the immediate landscape during Hoover’s youth.  Prairie remnants persisted along the Wapsinonoc Creek and Burlington Railroad tracks, where Hoover spent many boyhood hours.  He enjoyed a keen interest in nature and often referred to boyhood experiences:\n\n‘…I was taken for a summer to live with Uncle Pennington Minthorn in Sioux County, Iowa, where he was breaking in a prairie farm.  We lived in a sod house and I was privileged to ride the lead horse of a team which was opening the virgin soil.’\n\n“This prairie was established for its historical significance, educational value, and aesthetic appeal.\n\n“Prairie species native to Iowa are represented and identified in the demonstration plot on your near right.”\n\nEnd of message.\n",
@@ -3403,11 +3415,12 @@
           "name": "Part Of The Commemorative Landscape"
         }
       ],
-      "latitude": 41.6689898821354,
-      "longitude": -91.3477818667889,
+      "latitude": 41.66898988,
+      "longitude": -91.34778187,
       "map_thumbnail_image": 430,
       "media": [
-        361
+        361,
+        285
       ],
       "name": "Herbert Hoover Presidential Library and Museum",
       "name_description": "Museum galleries tell of the triumphs and tragedies of Hoover’s long career in public service. ",
@@ -3446,6 +3459,11 @@
       "latitude": 41.670423,
       "longitude": -91.346177,
       "map_thumbnail_image": 432,
+      "media": [
+        287,
+        288,
+        289
+      ],
       "name": "Visitor Center Orientation Wayside",
       "name_description": "Herbert Hoover National Historic Site commemorates the life of the 31st President.",
       "type": "Exhibit"
@@ -3485,40 +3503,6 @@
       "type": "Block"
     },
     {
-      "audio_description": "Historic Homes on Downey Street\n217 words\n\nHistoric Homes on Downey Street.  One and half minutes.  First of two descriptions at this location.  Downey Street is a beige gravel road about 12 feet wide, running north-south through the Herbert Hoover National Historic Site.  The road is only for pedestrians.  There’s a wooden boardwalk on either side of Downey Street, separated from the roadway by a strip of grass.  A few trees and benches punctuate the grass borders.  The boardwalks can be slick in wet weather, so watch your step.\n\nThere are five historic homes on Downey Street between the South Downey Bridge in the south and Wetherell Street to the north.  On the east side of the street, from south to north, they are the Varney House, the Leech House, and the Laban Miles House.  On the west side of the street, from south to north, you’ll find the C.E. Smith House and Garvin Cottage.  These homes are not open to the public.  Each is described separately in its own stop.  A few of the homes have stepping stones and hitching posts in front. One of the hitching posts is decorated with a small metal horse’s head.\n\nAn interpretive wayside panel is located at the southwest corner of Downey Street and Wetherell Street, facing west.  It is described in the next message.\n\nEnd of message. \n\nHistoric Homes on Downey Street – Wayside Panel\n337 words\n\nHistoric Homes on Downey Street – Wayside Panel.  2 ½ minutes.  Second of two descriptions at this location.  A two-foot by three-foot angled panel sits near the southwest corner of Downey Street and Wetherell Street, facing west.  It’s titled “A World of Opportunity.  The beige panel includes text on the upper left, a black-and-white photograph on the lower left, and a map of the park on the right-hand side.\n\nThe text begins with a quote from President Herbert Hoover.  It reads:  \n\n“My grandparents and parents came here in a covered wagon.  In this community they toiled and worshipped God.  They lie buried on your hillside.  The most formative years of my boyhood were spent here.  My roots are in this soil.”\n\nThe text continues:\n\n“Herbert Hoover National Historic Site commemorates the life and accomplishments of Herbert Hoover, the 31st U.S. president.  Born in the village of West Branch, Iowa, to a family of modest means, Hoover believed in the ‘unbounded opportunity of American life.’\n\n“Explore Herbert Hoover National Historic Site, and discover how family, faith, education, and hard work opened a world of opportunity—even the presidency—to a man of simple beginnings.”\n\nBelow the text is a black-and-white photograph of a quiet street lined with two-story stone and brick buildings.  A few of the buildings have awnings hanging in front, and there are several early-twentieth-century-era cars parked along the curb. The caption reads:\n\n“Fifteen downtown buildings are listed on the National Register of Historic Places.  They represent West Branch’s Golden Era of American Architecture.”\n\nThe map on the right-hand side of the panel shows all of the National Historic Site’s major buildings, sites, walkways, and roads in brown, white, and grey.  A green “you are here” sign points to your current location.  The caption reads: \n\n“Start your visit at the visitor center to see exhibits and a brief film on Hoover’s childhood.  Enjoy the self-guided audio tour of the site and its historic buildings.  Visit nearby Birthplace Cottage, Blacksmith Shop, Schoolhouse, and Friends Meetinghouse.”\n\nEnd of message.\n",
-      "description": "West Branch boomed between 1869 and 1873. New buildings constructed in the neighborhood near the Hoovers’ small cottage on Downey Street included the Laban Miles House, the Garvin House, and the Methodist Church, which is no longer standing. When the Burlington, Cedar Rapids & Northern Railroad arrived in West Branch on December 20, 1870, two hundred of the town’s residents celebrated with a picnic dinner.",
-      "geofence_buffer_in_meters": 10,
-      "id": 397,
-      "information": [
-        {
-          "description": "You might be surprised to learn that Herbert Hoover didn’t live in one of these larger, fancier-looking homes, even though they were built during the same time period. By comparison, the Hoovers’ single story home measured only 14 feet by 20 feet in size. Though some of these homes were built after Herbert Hoover moved away from West Branch, their addition to this street illustrate the neighborhood setting of President Hoover’s birthplace.\"",
-          "name": "Neighborhood Setting"
-        }
-      ],
-      "latitude": 41.67036534,
-      "longitude": -91.34661913,
-      "map_thumbnail_image": 438,
-      "name": "Historic Homes on Downey Street",
-      "name_description": "The historic homes on Downey Street represent the neigborhood of Hoover's childhood.",
-      "type": "Block"
-    },
-    {
-      "audio_description": "P.T. Smith House\n275 words\n\nP.T. Smith House.  Two minutes.  The P.T. Smith House is located on the east side of Downey Street, just south of the site of the House of the Maples.  The green, two-story home is set back about 25 feet from Downey Street on a grassy lawn.  A couple of tall evergreen trees stand to the right of the building.  The P.T. Smith House is not open to the public.\n\nAn open porch stretches across the entire façade, which is about 18 feet wide.  Three slender carved white pillars hold up the roof of the porch.  White paint also trims the rectangular windows and the brown front door that opens off the left-hand side of the porch.  A low foundation of unpolished grey stone extends around the structure below the wooden construction.  Three downspouts run vertically down the left side of the building.  They become horizontal near the ground and extend out several feet, so watch your step if you plan to walk around the house.\n\nA small brown sign sits on the left-hand side of the porch, facing toward the north.  It is mounted at a 45% angle, and gold-colored lettering reads:\n\n“P. T. Smith House – Peter Smith, a local carpenter and coffin maker, built this house in 1874.  Herbert Hoover remembered this house well, as it was home to his boyhood friends, Etta, Eddie, and Wallace Smith, and stood next door to the Hoover’s second home.  The house was located here, at the base of cook’s hill, which was renowned as a popular sledding location for Theodore, Herbert and Mary Hoover and the Smith children as well as their other playmates.”\n\nEnd of message.",
-      "description": "The P.T. Smith House is the only house that Herbert Hoover remembered when he visited West Branch many years later. While living in the House of Maples, the Hoover children and Smith children were playmates. Their homes stood at the base of Cook's Hill, a favorite winter sledding spot. Hoover recalled, \"That was a great long hill where on winters’ nights, to satisfy our human craving for speed, we slid down at terrific pace with our tummies tight to home-made sleds.\"",
-      "geofence_buffer_in_meters": 10,
-      "id": 409,
-      "latitude": 41.66859717,
-      "longitude": -91.34645954,
-      "map_thumbnail_image": 450,
-      "media": [
-        340
-      ],
-      "name": "P.T. Smith House",
-      "name_description": "The Hoover and Smith children were playmates and neighbors near a favorite winter sledding spot.",
-      "primary_image": 340,
-      "type": "Historic Building"
-    },
-    {
       "audio_description": "Hoover Creek at the South Downey Street Bridge\n211 words\n\nHoover Creek at the South Downey Street Bridge.  1 ½ minutes.  The Hoover Creek meanders east-west through the Herbert Hoover National Historic Site.  The creek is just a few feet wide, with shrubs and a few trees along its banks.  At Downey Street, the creek flows beneath the South Downey Street Bridge.  \n\nDowney Street is a gravel road about 12 feet wide with a wooden boardwalk on either side.  Elsewhere, there’s a strip of grass separating the boardwalks from the roadway, but at the bridge, the boardwalks come right up alongside the road.  Boardwalks can be slick in wet weather, so watch your step.  The bridge is about 25 feet long, bordered on each side by a four-foot-high wooden post-and-rail fence.  It’s about ten feet down from the bridge to the creek below.\n\nFrom the east side of the bridge, the view is toward Parkside Drive, which runs north-south alongside the park.  The Friends Meetinghouse is about 60 feet away, at 2:00 on the clock face.  The visitor center is about 200 feet away, at 10:00.  If you’re facing west from the bridge, the Presidential Library and Museum is at 11:00 and about 200 feet away.  The Birth Cottage is at 2:00, about 60 feet from the bridge.\n\nEnd of message.\n",
       "description": "The South Downey Street Bridge extends across a tributary of the West Branch of the Wapsinonoc Creek. When Herbert Hoover was a boy, it was just a small stream of water trickling through marshy wetlands. Young Herbert and the neighborhood kids took their willow fishing poles about a quarter mile east to catch sunfish and catfish in the main creek.",
       "geofence_buffer_in_meters": 10,
@@ -3545,12 +3529,50 @@
       "longitude": -91.34664729,
       "map_thumbnail_image": 437,
       "media": [
-        329
+        329,
+        291
       ],
       "name": "Hoover Creek",
       "name_description": "The South Downey Street Bridge crosses a small tributary of the West Branch of the Wapsinonoc Creek.",
       "primary_image": 329,
       "type": "Bridge"
+    },
+    {
+      "audio_description": "Historic Homes on Downey Street\n217 words\n\nHistoric Homes on Downey Street.  One and half minutes.  First of two descriptions at this location.  Downey Street is a beige gravel road about 12 feet wide, running north-south through the Herbert Hoover National Historic Site.  The road is only for pedestrians.  There’s a wooden boardwalk on either side of Downey Street, separated from the roadway by a strip of grass.  A few trees and benches punctuate the grass borders.  The boardwalks can be slick in wet weather, so watch your step.\n\nThere are five historic homes on Downey Street between the South Downey Bridge in the south and Wetherell Street to the north.  On the east side of the street, from south to north, they are the Varney House, the Leech House, and the Laban Miles House.  On the west side of the street, from south to north, you’ll find the C.E. Smith House and Garvin Cottage.  These homes are not open to the public.  Each is described separately in its own stop.  A few of the homes have stepping stones and hitching posts in front. One of the hitching posts is decorated with a small metal horse’s head.\n\nAn interpretive wayside panel is located at the southwest corner of Downey Street and Wetherell Street, facing west.  It is described in the next message.\n\nEnd of message. \n\nHistoric Homes on Downey Street – Wayside Panel\n337 words\n\nHistoric Homes on Downey Street – Wayside Panel.  2 ½ minutes.  Second of two descriptions at this location.  A two-foot by three-foot angled panel sits near the southwest corner of Downey Street and Wetherell Street, facing west.  It’s titled “A World of Opportunity.  The beige panel includes text on the upper left, a black-and-white photograph on the lower left, and a map of the park on the right-hand side.\n\nThe text begins with a quote from President Herbert Hoover.  It reads:  \n\n“My grandparents and parents came here in a covered wagon.  In this community they toiled and worshipped God.  They lie buried on your hillside.  The most formative years of my boyhood were spent here.  My roots are in this soil.”\n\nThe text continues:\n\n“Herbert Hoover National Historic Site commemorates the life and accomplishments of Herbert Hoover, the 31st U.S. president.  Born in the village of West Branch, Iowa, to a family of modest means, Hoover believed in the ‘unbounded opportunity of American life.’\n\n“Explore Herbert Hoover National Historic Site, and discover how family, faith, education, and hard work opened a world of opportunity—even the presidency—to a man of simple beginnings.”\n\nBelow the text is a black-and-white photograph of a quiet street lined with two-story stone and brick buildings.  A few of the buildings have awnings hanging in front, and there are several early-twentieth-century-era cars parked along the curb. The caption reads:\n\n“Fifteen downtown buildings are listed on the National Register of Historic Places.  They represent West Branch’s Golden Era of American Architecture.”\n\nThe map on the right-hand side of the panel shows all of the National Historic Site’s major buildings, sites, walkways, and roads in brown, white, and grey.  A green “you are here” sign points to your current location.  The caption reads: \n\n“Start your visit at the visitor center to see exhibits and a brief film on Hoover’s childhood.  Enjoy the self-guided audio tour of the site and its historic buildings.  Visit nearby Birthplace Cottage, Blacksmith Shop, Schoolhouse, and Friends Meetinghouse.”\n\nEnd of message.\n",
+      "description": "West Branch boomed between 1869 and 1873. New buildings constructed in the neighborhood near the Hoovers’ small cottage on Downey Street included the Laban Miles House, the Garvin House, and the Methodist Church, which is no longer standing. When the Burlington, Cedar Rapids & Northern Railroad arrived in West Branch on December 20, 1870, two hundred of the town’s residents celebrated with a picnic dinner.",
+      "geofence_buffer_in_meters": 10,
+      "id": 397,
+      "information": [
+        {
+          "description": "You might be surprised to learn that Herbert Hoover didn’t live in one of these larger, fancier-looking homes, even though they were built during the same time period. By comparison, the Hoovers’ single story home measured only 14 feet by 20 feet in size. Though some of these homes were built after Herbert Hoover moved away from West Branch, their addition to this street illustrate the neighborhood setting of President Hoover’s birthplace.\"",
+          "name": "Neighborhood Setting"
+        }
+      ],
+      "latitude": 41.67036534,
+      "longitude": -91.34661913,
+      "map_thumbnail_image": 438,
+      "media": [
+        292
+      ],
+      "name": "Historic Homes on Downey Street",
+      "name_description": "The historic homes on Downey Street represent the neigborhood of Hoover's childhood.",
+      "type": "Block"
+    },
+    {
+      "audio_description": "P.T. Smith House\n275 words\n\nP.T. Smith House.  Two minutes.  The P.T. Smith House is located on the east side of Downey Street, just south of the site of the House of the Maples.  The green, two-story home is set back about 25 feet from Downey Street on a grassy lawn.  A couple of tall evergreen trees stand to the right of the building.  The P.T. Smith House is not open to the public.\n\nAn open porch stretches across the entire façade, which is about 18 feet wide.  Three slender carved white pillars hold up the roof of the porch.  White paint also trims the rectangular windows and the brown front door that opens off the left-hand side of the porch.  A low foundation of unpolished grey stone extends around the structure below the wooden construction.  Three downspouts run vertically down the left side of the building.  They become horizontal near the ground and extend out several feet, so watch your step if you plan to walk around the house.\n\nA small brown sign sits on the left-hand side of the porch, facing toward the north.  It is mounted at a 45% angle, and gold-colored lettering reads:\n\n“P. T. Smith House – Peter Smith, a local carpenter and coffin maker, built this house in 1874.  Herbert Hoover remembered this house well, as it was home to his boyhood friends, Etta, Eddie, and Wallace Smith, and stood next door to the Hoover’s second home.  The house was located here, at the base of cook’s hill, which was renowned as a popular sledding location for Theodore, Herbert and Mary Hoover and the Smith children as well as their other playmates.”\n\nEnd of message.",
+      "description": "The P.T. Smith House is the only house that Herbert Hoover remembered when he visited West Branch many years later. While living in the House of Maples, the Hoover children and Smith children were playmates. Their homes stood at the base of Cook's Hill, a favorite winter sledding spot. Hoover recalled, \"That was a great long hill where on winters’ nights, to satisfy our human craving for speed, we slid down at terrific pace with our tummies tight to home-made sleds.\"",
+      "geofence_buffer_in_meters": 10,
+      "id": 409,
+      "latitude": 41.66859717,
+      "longitude": -91.34645954,
+      "map_thumbnail_image": 450,
+      "media": [
+        340
+      ],
+      "name": "P.T. Smith House",
+      "name_description": "The Hoover and Smith children were playmates and neighbors near a favorite winter sledding spot.",
+      "primary_image": 340,
+      "type": "Historic Building"
     },
     {
       "audio_description": "Amanda Garvin Cottage\n293 words\n\nThe Garvin Cottage faces east on Downey Street.  It’s a narrow two-story home, 15 feet wide, with a small one-story extension on the right-hand side.  The Garvin Cottage is not open to the public.\n\nThe building is painted eggshell white with reddish-brown trim around the windows and doors.  A single brick chimney juts up from the center of the steeply pitched roof.  An open porch stretches across the front of the main structure, with four thin, square columns holding up the porch’s moss-covered roof.  Between the columns, the porch is adorned with three delicate wooden arches painted to match the eggshell hue of the house. Ornately carved brackets, also painted to match, trim the top of the brown-painted columns. In the yard on the left is an antique metal water pump with a long, curved handle.\n        \nTwo tall trees stand at the front corners of the building’s grassy lot.  A white picket fence 3 ½ feet tall surrounds the property, separating it from the wooden boardwalk that runs along the west side of Downey Street.  A brown sign is affixed to the inside of the fence, just to the left of a central gate.  The sign is 6 inches high by 8 inches wide and mounted at a 45-degree angle.  In brown lettering the sign reads:\n\n“The Amanda Garvin Cottage – Miss Amanda Garvin purchased this lot in eighteen seventy and by eighteen seventy two had this small frame cottage built.  She resided here until eighteen seventy eight.  Herbert Hoover was familiar with this house and would have passed it often on his way to and from school.  The Garvin Cottage is considered to be a handsome example of Gothic Revival Architecture as it developed in Eastern Iowa in the eighteen seventies.”\n\nEnd of message.",
@@ -3876,6 +3898,37 @@
       "type": "Trailhead"
     },
     {
+      "audio_description": "Old West Branch State Bank\n284 words\n\nOld West Branch State Bank Building.  Two minutes.  The Old West Branch State Bank Building is located at the northwest corner of North Downey and Main Streets.  The stately structure faces south onto Main Street.  It abuts the smaller Veterans Memorial Building to the west.  The building is no longer used as a bank; it has been home to a variety of local businesses over the years.  \n\nThe State Bank Building is constructed of dark brick, trimmed with limestone.  A four-foot wide strip of limestone blocks forms the base of the structure.  Limestone also divides the first and second stories with a thinner band, and then appears again at the roofline.  Geometric designs are incised into the stone at the upper corners of the building.  An American flag flies from the pediment atop the south-facing façade.  Within the pediment is inscribed the date “1916.”  A similar pediment on the east-facing side of the building carried the inscription:  “State Bank.”\n\nAbove the central doorway on the south side, metal letters spell out the words “Old Bank.”  Just to the left of the door is a metal plaque, which reads:\n\n“This property has been placed on the National Register of Historic Places by the United States Department of the Interior.”\n\nThe sidewalk is about two feet higher than the street level here and about seven to eight feet wide from the building’s front to the edge, so use caution.  Four steps lead up to the sidewalk at the corner and there is a ramp one block west at the corner of Main and Poplar Streets.  Once on the sidewalk, it’s another three steps up to the front door of the Old Bank Building.\n\n\nEnd of message.\n",
+      "description": "This large brick structure, built in 1916, housed the West Branch State Bank (previously named West Branch Bank). It replaced a bank building (circa 1877) that stood on the same site, but was razed to make room for the new, larger building. The bank took temporary quarters across the street during construction. It then occupied this building until 1974. Fred Albin rented the back for his meat market until 1924. The West Branch Telephone Company shared the second floor with Hubbard & Hubbard Chiropractors.",
+      "geofence_buffer_in_meters": 10,
+      "id": 420,
+      "latitude": 41.67152139,
+      "longitude": -91.34686857,
+      "map_thumbnail_image": 461,
+      "media": [
+        369
+      ],
+      "name": "Old West Branch State Bank",
+      "name_description": "West Branch State Bank replaced an older bank building with a newer, larger building in 1916.",
+      "primary_image": 369,
+      "type": "Bank"
+    },
+    {
+      "description": "In 1904 Huldah Enlow donated the land and building for a public library. Later, an anonymous monetary gift financed construction of an expansion. In 1963, the front entrance was enclosed and in 1974, the basement was converted into a children's library. It remained a library until 1993.",
+      "geofence_buffer_in_meters": 10,
+      "id": 430,
+      "latitude": 41.67127095,
+      "longitude": -91.34789586,
+      "map_thumbnail_image": 471,
+      "media": [
+        352
+      ],
+      "name": "Enlow Building",
+      "name_description": "In 1904 Huldah Enlow donated land and a building for public library.",
+      "primary_image": 352,
+      "type": "Library"
+    },
+    {
       "audio_description": "Schoolhouse – Exterior\n333 words\n\nSchoolhouse – Exterior.  2 ½ minutes.  First of two descriptions at this location.  The schoolhouse is located about 50 feet to the northwest of the blacksmith shop off Penn Street.  The small wooden building is painted a creamy off-white.  The façade is 18 feet wide, with two rectangular windows on either side of a central doorway.  The grey shingled roof rises to a peak above the doorway, and a brick chimney pokes up from the back of the modest structure.  \n\nTwo wooden walkways provide access from the main boardwalk that runs along the north side of Penn Street.  If you take the path directly in front of the building, you will need to climb four steps up to the building’s entrance.  A second walkway about 20 feet to the right of that one provides access via ramp.  The ramp heads north for about 30 feet and then turns west for another 20 feet along the front of the building.  A metal railing lines the second half of the ramp.  Watch your step on all walkways, especially during inclement weather, as the wood can be slippery when wet.\n\nTo the left of the main stairs, a small brown sign about 6 by 8 inches sticks up from the ground on a two-foot wooden post.  The following is printed in gold-colored lettering:\n\n“Schoolhouse – The early settlers of West Branch had a strong regard for education, and in 1853 they built this school.  It was used not only as a school but as a place of worship for the members of the Society of Friends.  Originally the building housed all of the West Branch students, but by the time Herbert Hoover’s older brother Theodore was registered here, enrollment had increased and it was used only as a classroom for the primary students.  Increasing membership in the Society of Friends also necessitated the building of a larger meetinghouse in 1857.”  End of text.\n\nThe interior of the schoolhouse is described briefly in the next message.\n\nEnd of message.\n\nSchoolhouse – Interior\n237 words\n\nSchoolhouse – Interior.  1 ¾ minutes.  Second of two descriptions at this location.  When you enter the schoolhouse, a wall directly in front of you forces you to turn right.  As you walk around the wall, you emerge into the back right corner of a one-room schoolhouse.  A wooden railing and Plexiglas barrier about three feet high prevents you from moving beyond the back corner of the room.      \n\nThe space is about 18 feet by 18 feet, with a worn wooden floor.  Dark wood wainscoting covers the lower two feet of the walls; the rest of the walls and ceiling are painted white.  The room is furnished with wood student desks in wrought iron frames arranged in rows.  Reading texts and penmanship books, along with slate boards, have been placed neatly on the desks. Two small shelves hanging on the left-hand wall hold additional history and science texts.  A larger wooden teacher’s desk sits at the front of the classroom with a globe and a more books lined up along its back edge.  Portraits of George Washington and Abraham Lincoln hang on either side of the front wall above the blackboard.\n\nAt the back of the room, a black metal stovepipe rises up toward the ceiling from a dull black potbelly stove and out the front of the room.  Six rectangular curtained windows around the space shed a diffuse light on the rustic classroom scene.\n\nEnd of message.",
       "description": "Herbert Hoover recalled, “Iowa in those years was filled with days of school, and who does not remember with a glow, some gentle woman, who with infinite patience and kindness, drilled into us those foundations of all we know today.”",
       "geofence_buffer_in_meters": 10.3047999902464,
@@ -3906,44 +3959,14 @@
       "longitude": -91.347367,
       "map_thumbnail_image": 427,
       "media": [
-        366
+        366,
+        281
       ],
       "name": "Schoolhouse",
       "name_description": "West Branch's largely Quaker population valued education as a way to make good, productive citizens.",
       "primary_image": 366,
       "type": "School",
       "services": []
-    },
-    {
-      "audio_description": "Old West Branch State Bank\n284 words\n\nOld West Branch State Bank Building.  Two minutes.  The Old West Branch State Bank Building is located at the northwest corner of North Downey and Main Streets.  The stately structure faces south onto Main Street.  It abuts the smaller Veterans Memorial Building to the west.  The building is no longer used as a bank; it has been home to a variety of local businesses over the years.  \n\nThe State Bank Building is constructed of dark brick, trimmed with limestone.  A four-foot wide strip of limestone blocks forms the base of the structure.  Limestone also divides the first and second stories with a thinner band, and then appears again at the roofline.  Geometric designs are incised into the stone at the upper corners of the building.  An American flag flies from the pediment atop the south-facing façade.  Within the pediment is inscribed the date “1916.”  A similar pediment on the east-facing side of the building carried the inscription:  “State Bank.”\n\nAbove the central doorway on the south side, metal letters spell out the words “Old Bank.”  Just to the left of the door is a metal plaque, which reads:\n\n“This property has been placed on the National Register of Historic Places by the United States Department of the Interior.”\n\nThe sidewalk is about two feet higher than the street level here and about seven to eight feet wide from the building’s front to the edge, so use caution.  Four steps lead up to the sidewalk at the corner and there is a ramp one block west at the corner of Main and Poplar Streets.  Once on the sidewalk, it’s another three steps up to the front door of the Old Bank Building.\n\n\nEnd of message.\n",
-      "description": "This large brick structure, built in 1916, housed the West Branch State Bank (previously named West Branch Bank). It replaced a bank building (circa 1877) that stood on the same site, but was razed to make room for the new, larger building. The bank took temporary quarters across the street during construction. It then occupied this building until 1974. Fred Albin rented the back for his meat market until 1924. The West Branch Telephone Company shared the second floor with Hubbard & Hubbard Chiropractors.",
-      "geofence_buffer_in_meters": 10,
-      "id": 420,
-      "latitude": 41.67152139,
-      "longitude": -91.34686857,
-      "map_thumbnail_image": 461,
-      "media": [
-        369
-      ],
-      "name": "Old West Branch State Bank",
-      "name_description": "West Branch State Bank replaced an older bank building with a newer, larger building in 1916.",
-      "primary_image": 369,
-      "type": "Bank"
-    },
-    {
-      "description": "In 1904 Huldah Enlow donated the land and building for a public library. Later, an anonymous monetary gift financed construction of an expansion. In 1963, the front entrance was enclosed and in 1974, the basement was converted into a children's library. It remained a library until 1993.",
-      "geofence_buffer_in_meters": 10,
-      "id": 430,
-      "latitude": 41.67127095,
-      "longitude": -91.34789586,
-      "map_thumbnail_image": 471,
-      "media": [
-        352
-      ],
-      "name": "Enlow Building",
-      "name_description": "In 1904 Huldah Enlow donated land and a building for public library.",
-      "primary_image": 352,
-      "type": "Library"
     },
     {
       "audio_description": "West Branch Bank Building\n160 words\n\nWest Branch Bank Building.  1 ¼ minutes.  The former West Branch Bank Building is a narrow, one-story structure tucked in between the former Crook’s Hotel and the Union Block Building on the south side of West Main Street.  \n\nGrey and white paint create an interplay of horizontal and vertical lines on the wooden façade, below the flat roofline.  A single door on the right-hand side is reached via a five-step stone staircase.  The stairs leads up from the left along the front of the building, and railings guide your way on either side.  A large, square four-paned window fills a large portion of the façade to the left of the front door.  The former bank building has housed a variety of commercial enterprises over the years.  \n\nIt’s one step up from the street to the sidewalk here.  There is also a ramp at the corner of Downey Street, about 25 feet to the east of the building.\n\nEnd of message.\n\n",
@@ -4116,7 +4139,8 @@
         {
           "id": 386,
           "media": [
-            366
+            366,
+            281
           ]
         },
         {
@@ -4157,28 +4181,43 @@
         {
           "id": 384,
           "media": [
-            337
+            337,
+            275,
+            273,
+            276,
+            277,
+            278,
+            279
           ]
         },
         {
-          "id": 391
+          "id": 391,
+          "media": [
+            287,
+            288,
+            289
+          ]
         },
         {
           "id": 385,
           "media": [
-            380
+            380,
+            280
           ]
         },
         {
           "id": 386,
           "media": [
-            366
+            366,
+            281
           ]
         },
         {
           "id": 387,
           "media": [
-            365
+            365,
+            282,
+            283
           ]
         },
         {
