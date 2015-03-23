@@ -1,0 +1,192 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "Cherry Blossom Shuttle",
+        "notes": "Fee: $1 per ride. The shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding. The bus runs a loop from the Jefferson Memorial around Hains Point."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03194856643677,
+          38.880693910679234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "bus",
+        "notes": "Fee: $1 per ride. The shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0372700691223,
+          38.8799756425438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "bus",
+        "notes": "Fee: $1 per ride. The shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02658414840698,
+          38.876050095400004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "bus",
+        "notes": "Fee: $1 per ride. The shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02239453792572,
+          38.86928845849491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "bus",
+        "notes": "Fee: $1 per ride. The shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0235800743103,
+          38.871840331563384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "bus",
+        "notes": "Fee: $1 per ride. The shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02213168144226,
+          38.862467700003045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "bus",
+        "notes": "Fee: $1 per ride. The shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02243208885193,
+          38.866051499156136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "bus",
+        "notes": "Fee: $1 per ride. The shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02371954917908,
+          38.85977764349777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "bus",
+        "notes": "Fee: $1 per ride. The shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02695965766907,
+          38.86590948724251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "bus",
+        "notes": "Fee: $1 per ride. The shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03042507171631,
+          38.87160644848357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "bus",
+        "notes": "Fee: $1 per ride. The shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02875137329102,
+          38.869083803495094
+        ]
+      }
+    }
+  ]
+}
