@@ -3160,6 +3160,7 @@
       ],
       "name": "L.J. Leech House",
       "name_description": "After years of renting next door, well-liked country doctor L.J. Leech built a new home for himself.",
+      "primary_image": 372,
       "type": "Office"
     },
     {
@@ -3264,8 +3265,12 @@
       "latitude": 41.66881056,
       "longitude": -91.34637773,
       "map_thumbnail_image": 449,
+      "media": [
+        368
+      ],
       "name": "House of the Maples Site",
       "name_description": "The Hoovers’ moved into a bigger home in 1879, but Herbert’s parents both died soon after.",
+      "primary_image": 368,
       "type": "Site"
     },
     {
@@ -3273,11 +3278,15 @@
       "description": "Commercial growth prompted the establishment of a second downtown bank in 1898, the Citizens' Savings Bank. The principal shareholders used local material dealers and contractors for construction. The front featured a dazzling 8 by 11 foot plate glass window. Since 1909 this building has been occupied by small businesses.",
       "geofence_buffer_in_meters": 10,
       "id": 427,
-      "latitude": 41.6712709461022,
-      "longitude": -91.3472387194633,
+      "latitude": 41.67127095,
+      "longitude": -91.34723872,
       "map_thumbnail_image": 468,
+      "media": [
+        331
+      ],
       "name": "Earliest Citizen's Savings Bank",
       "name_description": "Commercial growth prompted the establishment of a second downtown bank in 1898.",
+      "primary_image": 331,
       "type": "Bank"
     },
     {
@@ -3338,6 +3347,44 @@
       "type": "Plaque"
     },
     {
+      "audio_description": "Tallgrass Prairie at the Observation Deck – Area Description \n236 words\n\nTallgrass Prairie at the Observation Deck – Area Description.  1 ¾ minutes.  First of two descriptions at this location.  The Tallgrass Prairie Observation Deck can be reached from the gravesite parking area via a 265-foot roughly paved path.  A short, 25-foot-long boardwalk continues from the end of the paved path, leading to the Observation Deck.  The Observation Deck is a roughly circular wooden platform about 15 feet across.  Three backless benches around the perimeter of the deck provide seating, and an interpretive sign near the south edge offers information about the prairie itself.  This sign is described in the next message.  \n\nThe Observation Deck is situated within the prairie, so the view all around is of the tallgrass and other prairie vegetation.  During the summer, the dense grass is green and wildflowers are often in bloom; in the winter the landscape is a subdued shade of yellowish brown.   Depending on the season and weather conditions, the vegetation could be anywhere from 1 foot to 10 feet high.  Some trees and farm buildings may be visible above the top of the grass to the southeast.\n\nA two-mile network of prairie trails begins at the south end of the Observation Deck.  These trails are dirt and mown-grass, and the surfaces can be uneven as they meander through the gently rolling hills of the prairie.  So use your judgment if you choose to explore the prairie further.\n\nEnd of message.\n\nTallgrass Prairie Interpretive Sign\n260 words\n\nTallgrass Prairie Interpretive Sign.  Two minutes.  Second of two descriptions at this location.   A small interpretive sign is mounted on a wooden post near the southern edge of the Tallgrass Prairie Observation Deck.  Along the top of the sign is a beige-and-black drawing of the prairie with some farm buildings in the background.  Below that, the following text is printed in beige letters on a black background:\n\n“Iowa Prairie\n\n“You are viewing 76 acres of partially restored tall grass prairie, planted in 1971.  Extending from the historic Miles Farm, at the hilltop on your left, it provides a south western boundary for the historic site.\n\n“Prior to the settlement of West Branch, 85% of Iowa consisted of prairie.  Trees were scarce until planted.  Jesse Hoover imported lumber for construction of the birthplace of Herbert Hoover.\n\n“The plowed fields of the Miles Farm characterized the immediate landscape during Hoover’s youth.  Prairie remnants persisted along the Wapsinonoc Creek and Burlington Railroad tracks, where Hoover spent many boyhood hours.  He enjoyed a keen interest in nature and often referred to boyhood experiences:\n\n‘…I was taken for a summer to live with Uncle Pennington Minthorn in Sioux County, Iowa, where he was breaking in a prairie farm.  We lived in a sod house and I was privileged to ride the lead horse of a team which was opening the virgin soil.’\n\n“This prairie was established for its historical significance, educational value, and aesthetic appeal.\n\n“Prairie species native to Iowa are represented and identified in the demonstration plot on your near right.”\n\nEnd of message.\n",
+      "description": "The 81 acres of tallgrass prairie reconstructed here offer a glimpse of an Iowa landscape that had almost vanished by the time Herbert Hoover's grandparents moved here in 1854. Prior to the settlement of West Branch, prairie covered 85 percent of Iowa. Trees were scarce until planted; the Hoovers imported lumber from farther north for construction of the president’s birthplace. Tall native grasses, sprinkled with brilliantly colored wildflowers once covered these rolling hills for as far as the eye could see. ",
+      "geofence_buffer_in_meters": 10,
+      "id": 395,
+      "information": [
+        {
+          "description": "Iowa's prairies became some of the most valuable farmland in the world. The plowed fields of the Miles Farm characterized the immediate landscape during Hoover’s youth. Prairie remnants persisted along the creeks and railroad tracks where Hoover spent many boyhood hours exploring. ",
+          "name": "Valuable Farmland"
+        },
+        {
+          "description": "Hoover enjoyed a keen interest in the natural world and often referred to boyhood experiences: “I was taken for a summer to live with Uncle Pennington Minthorn in Sioux County, Iowa, where he was breaking in a prairie farm.  We lived in a sod house and I was privileged to ride the lead horse of a team which was opening the virgin soil.”",
+          "name": "Young Bert Hoover: Sod Buster"
+        },
+        {
+          "description": "The tradeoff is that today less than one percent of prairie land still exists in Hoover's home state. This is one reason the National Park Service restored this historic cultivated field to much of its original splendor. Because their root systems run as deep as the plants are tall, native prairie grasses are well-adapted for controlling runoff and stabilizing areas susceptible to erosion. ",
+          "name": "Lost Resource"
+        },
+        {
+          "description": "Herbert Hoover, an avid fisherman and proponent of outdoor recreation, saw the value in conserving natural resources. During his presidency, the size of our national forests expanded by more than two million acres, and the land designated for new national parks and monuments increased by 40 percent. In honor of his conservation achievements and his fondness for the outdoors, this prairie offers a quiet and dignified setting to commemorate the life of the 31st president.",
+          "name": "Hoover’s Legacy Of Public Lands Conservation"
+        },
+        {
+          "description": "This prairie offers over two miles of trails through the reconstructed prairie for hiking, cross-country skiing, snowshoeing, and nature study. Trail maps are available from the visitor center or the park website.",
+          "name": "Trails"
+        }
+      ],
+      "latitude": 41.66766448,
+      "longitude": -91.35123253,
+      "map_thumbnail_image": 436,
+      "media": [
+        382
+      ],
+      "name": "Tallgrass Prairie Observation Deck",
+      "name_description": "The tallgrass prairie provides a quiet and dignified setting to commemorate the life of Herbert Hoover. ",
+      "primary_image": 382,
+      "type": "Trailhead"
+    },
+    {
       "audio_description": "Herbert Hoover Presidential Library and Museum\n267 words\n\nHerbert Hoover Presidential Library and Museum.  Two minutes.  First of two descriptions at this location.  The Herbert Hoover Presidential Library and Museum is a sprawling one-story building of fieldstone construction with white trim.  The roof’s multiple gables and inclines are topped with slate-grey shingles.  \n\nThe library’s main entrance faces south.  A short portico about 12 feet wide leads to four white-framed doors, each inset with eight small square window panes.  Multi-paned windows to the left and right of the entrance continue the pattern across a large part of the southern façade.  Two square columns on either side of the portico support its front corners.  A concrete blockade about three feet high and one foot on each side stands in between the columns, so be sure to avoid it as you enter.\n\nA driveway runs past the front of the library, leading to a parking area to the library’s southwest.  Parallel to the driveway, just to its south, is a two-way paved road that leads into the site from Parkside Drive.  Two flagpoles stand on a strip of grass separating the driveway and road.  One displays an American flag; on the other hangs the flag of the state of Iowa.\n\nA second, unused entrance to the library faces east.  Here, four square columns line the front of a shallow portico.  The Presidential Seal of the United States adorns the pediment above it.  It’s a small step up to the portico; then two more steps up to the door.   \nA wayside panel stands near the southeast corner of the buildings.  It’s described in the next message.\n\nEnd of message.Herbert Hoover Presidential Library and Museum – Wayside Panel\n377 words\n\nHerbert Hoover Presidential Library and Museum – Wayside Panel.  2 ¾ minutes.  Second of two descriptions at this location.  A two-foot by three-foot angled panel sits near the southeast corner of the Presidential Library and Museum, facing east.  It’s titled “A World of Opportunity.  The beige panel includes text on the upper left, a black-and-white photograph on the lower left, and a map of the park on the right-hand side.\n\nThe text begins with a quote from President Herbert Hoover.  It reads:  \n\n“It was here that I was given that tender care of mind and body, those first steps in education, that knowledge of poverty and struggle for family betterment which contribute to understanding of American life.”\n\nThe text continues:\n\n“Herbert Hoover National Historic Site commemorates the life and accomplishments of Herbert Hoover, the 31st U.S. president.  Born in the village of West Branch, Iowa, to a family of modest means, Hoover believed in the ‘unbounded opportunity of American life.’\n\n“Explore Herbert Hoover National Historic Site, and discover how family, faith, education, and hard work opened a world of opportunity—even the presidency—to a man of simple beginnings.”\n\nBelow the text is a black-and-white photograph of a crowd of hundreds amassed near the front pillars of the Presidential Library and Museum.  At the center of the photograph, a small white circle has been drawn around the head of Herbert Hoover as he makes his way through the mob toward the Library’s entrance. The caption reads:\n\n“Herbert Hoover arriving at the dedication ceremony for the Herbert Hoover Presidential Library and Museum, 1962.”\n\nThe map on the right-hand side of the panel shows all of the park’s major buildings, sites, walkways, and roads in brown, white, and grey.  A green “you are here” sign points to your current location.  The caption reads: \n\n“Start your visit at the visitor center to see exhibits and a brief film on Hoover’s childhood.  Enjoy the self-guided audio tour of the site and its historic buildings.  Visit nearby Birthplace Cottage, Blacksmith Shop, Schoolhouse, and Friends Meetinghouse.”\n\nImmediately to the left of the wayside panel is an upright bulletin board about four feet wide and three feet high, standing on three-foot metal legs.  The bulletin board displays current park news and events.\n\nEnd of message.",
       "description": "Herbert Hoover Presidential Library and Museum opened to the public on August 10, 1962—Herbert Hoover's 88th birthday. The library's original entrance, which is the small portico at the east end of the building supported by four white pillars and topped with an earlier version of the presidential seal, is where the dedication took place. ",
       "geofence_buffer_in_meters": 10,
@@ -3382,58 +3429,6 @@
       ]
     },
     {
-      "audio_description": "E.S. Hayhurst House\n129 words\n\nHayhurst House.  One minute.  The Hayhurst House is a two-story structure on the west side of Poplar Street, just north of Penn Street.  Set back about 25 feet from the roadway, the clapboard house is bordered on its left side by several trees.  The building is painted beige with chocolate-brown trim, and the pitched roof is covered with dark brown shingles.  A small chimney sticks up from the center of the roof.\n\nOn the left-hand side of the building’s façade, four broad steps lead up to an open porch.  Three slender brown columns support the roof of the porch.  On the right half of the façade, three rectangular windows are set into a simple gabled exterior wall.  The Hayhurst House is not open to the public.\n\nEnd of message.\n",
-      "description": "In 1870, real-estate developer J.M. Wetherell sold three lots to E.S. Hayhurst. Hayhurst built his house here in 1872. Unfortunately, Hayhurst and his family were only able to call this place home for less than a decade. When they couldn't make the payments, the mortgage was foreclosed and the family left town in 1878. Ever the businessman, Wetherell repossessed the lots and turned the house into a rental property.",
-      "geofence_buffer_in_meters": 10,
-      "id": 407,
-      "latitude": 41.67054967,
-      "longitude": -91.34778589,
-      "map_thumbnail_image": 448,
-      "media": [
-        333
-      ],
-      "name": "E.S. Hayhurst House",
-      "name_description": "The E.S. Hayhurst family left town after the bank foreclosed on their house.",
-      "type": "Residence"
-    },
-    {
-      "audio_description": "Tallgrass Prairie at the Observation Deck – Area Description \n236 words\n\nTallgrass Prairie at the Observation Deck – Area Description.  1 ¾ minutes.  First of two descriptions at this location.  The Tallgrass Prairie Observation Deck can be reached from the gravesite parking area via a 265-foot roughly paved path.  A short, 25-foot-long boardwalk continues from the end of the paved path, leading to the Observation Deck.  The Observation Deck is a roughly circular wooden platform about 15 feet across.  Three backless benches around the perimeter of the deck provide seating, and an interpretive sign near the south edge offers information about the prairie itself.  This sign is described in the next message.  \n\nThe Observation Deck is situated within the prairie, so the view all around is of the tallgrass and other prairie vegetation.  During the summer, the dense grass is green and wildflowers are often in bloom; in the winter the landscape is a subdued shade of yellowish brown.   Depending on the season and weather conditions, the vegetation could be anywhere from 1 foot to 10 feet high.  Some trees and farm buildings may be visible above the top of the grass to the southeast.\n\nA two-mile network of prairie trails begins at the south end of the Observation Deck.  These trails are dirt and mown-grass, and the surfaces can be uneven as they meander through the gently rolling hills of the prairie.  So use your judgment if you choose to explore the prairie further.\n\nEnd of message.\n\nTallgrass Prairie Interpretive Sign\n260 words\n\nTallgrass Prairie Interpretive Sign.  Two minutes.  Second of two descriptions at this location.   A small interpretive sign is mounted on a wooden post near the southern edge of the Tallgrass Prairie Observation Deck.  Along the top of the sign is a beige-and-black drawing of the prairie with some farm buildings in the background.  Below that, the following text is printed in beige letters on a black background:\n\n“Iowa Prairie\n\n“You are viewing 76 acres of partially restored tall grass prairie, planted in 1971.  Extending from the historic Miles Farm, at the hilltop on your left, it provides a south western boundary for the historic site.\n\n“Prior to the settlement of West Branch, 85% of Iowa consisted of prairie.  Trees were scarce until planted.  Jesse Hoover imported lumber for construction of the birthplace of Herbert Hoover.\n\n“The plowed fields of the Miles Farm characterized the immediate landscape during Hoover’s youth.  Prairie remnants persisted along the Wapsinonoc Creek and Burlington Railroad tracks, where Hoover spent many boyhood hours.  He enjoyed a keen interest in nature and often referred to boyhood experiences:\n\n‘…I was taken for a summer to live with Uncle Pennington Minthorn in Sioux County, Iowa, where he was breaking in a prairie farm.  We lived in a sod house and I was privileged to ride the lead horse of a team which was opening the virgin soil.’\n\n“This prairie was established for its historical significance, educational value, and aesthetic appeal.\n\n“Prairie species native to Iowa are represented and identified in the demonstration plot on your near right.”\n\nEnd of message.\n",
-      "description": "The 81 acres of tallgrass prairie reconstructed here offer a glimpse of an Iowa landscape that had almost vanished by the time Herbert Hoover's grandparents moved here in 1854. Prior to the settlement of West Branch, prairie covered 85 percent of Iowa. Trees were scarce until planted; the Hoovers imported lumber from farther north for construction of the president’s birthplace. Tall native grasses, sprinkled with brilliantly colored wildflowers once covered these rolling hills for as far as the eye could see. ",
-      "geofence_buffer_in_meters": 10,
-      "id": 395,
-      "information": [
-        {
-          "description": "Iowa's prairies became some of the most valuable farmland in the world. The plowed fields of the Miles Farm characterized the immediate landscape during Hoover’s youth. Prairie remnants persisted along the creeks and railroad tracks where Hoover spent many boyhood hours exploring. ",
-          "name": "Valuable Farmland"
-        },
-        {
-          "description": "Hoover enjoyed a keen interest in the natural world and often referred to boyhood experiences: “I was taken for a summer to live with Uncle Pennington Minthorn in Sioux County, Iowa, where he was breaking in a prairie farm.  We lived in a sod house and I was privileged to ride the lead horse of a team which was opening the virgin soil.”",
-          "name": "Young Bert Hoover: Sod Buster"
-        },
-        {
-          "description": "The tradeoff is that today less than one percent of prairie land still exists in Hoover's home state. This is one reason the National Park Service restored this historic cultivated field to much of its original splendor. Because their root systems run as deep as the plants are tall, native prairie grasses are well-adapted for controlling runoff and stabilizing areas susceptible to erosion. ",
-          "name": "Lost Resource"
-        },
-        {
-          "description": "Herbert Hoover, an avid fisherman and proponent of outdoor recreation, saw the value in conserving natural resources. During his presidency, the size of our national forests expanded by more than two million acres, and the land designated for new national parks and monuments increased by 40 percent. In honor of his conservation achievements and his fondness for the outdoors, this prairie offers a quiet and dignified setting to commemorate the life of the 31st president.",
-          "name": "Hoover’s Legacy Of Public Lands Conservation"
-        },
-        {
-          "description": "This prairie offers over two miles of trails through the reconstructed prairie for hiking, cross-country skiing, snowshoeing, and nature study. Trail maps are available from the visitor center or the park website.",
-          "name": "Trails"
-        }
-      ],
-      "latitude": 41.66766448,
-      "longitude": -91.35123253,
-      "map_thumbnail_image": 436,
-      "media": [
-        382
-      ],
-      "name": "Tallgrass Prairie Observation Deck",
-      "name_description": "The tallgrass prairie provides a quiet and dignified setting to commemorate the life of Herbert Hoover. ",
-      "type": "Trailhead"
-    },
-    {
       "audio_description": "Entrance Wayside – Area Description\n314 words\n\nEntrance Wayside – Area Description.  2 ¼ minutes.  First of two descriptions at this location.  An angled wayside panel stands near the southwest corner of the parking lot.  The panel is 3 feet wide by 2 feet deep and stands on thin grey legs about 2 ½ feet high.  It will be described in the next message.\n\nAs you face the panel, facing west, the visitor center is 100 feet to your right along a red cement path.  A narrow prairie garden is sandwiched in between the path and northeast corner of the parking lot.  In the spring and summer, the garden abounds with prairie grasses and other native plants.  \n\nThirty in front of you as you face the wayside is a small light tan building surrounded by bushes.  This historic structure is known as the Varney House.  At roughly 11 on the clock-face, a couple hundred feet in the distance, is the cottage in which Herbert Hoover was born.  It’s a small white house with a grey pitched roof.  Further to your left, also a couple hundred feet away, is a larger cream-colored building on the other side of a small stream. This is the Friends Meeting House.  These buildings will be described in more detail when you get closer to them.\n\nOtherwise, the flat, grassy landscape is interrupted by shade trees and wooden walkways that crisscross the area and provide access to the various sites.  The closest boardwalk leads west into the park about 15 feet to the left of this wayside panel.\n\nImmediately behind you are two wooden benches beneath a shade tree.   A boulder in between the benches carries a metal plaque about a foot high and a foot-and-a-half wide.  The inscription reads:\n\n“Birthplace of Herbert Hoover, First President of the United States born west of the Mississippi River.  Marked by Pilgrim Chapter Daughters of the American Revolution.”\n\nEnd of message.\n\nEntrance Wayside – Panel Description\n340 words\n\nEntrance Wayside – Panel Description.  2 ½ minutes.  Second of two descriptions at this location.  This beige wayside panel features text on the upper left, two historical photos on the lower left, and a map of the park on the right-hand side.\n\nThe text begins with a quote from President Herbert Hoover.  It reads:  \n\n“My country owes me nothing.  It gave me, as it gives every boy and girl, a chance…  In no other land could a boy from a country village, without inheritance or influential friends, look forward to unbounded hope.”\n\nThe text continues:\n\n“Herbert Hoover National Historic Site commemorates the life and accomplishments of Herbert Hoover, the 31st U.S. president.  Born in the village of West Branch, Iowa, to a family of modest means, Hoover believed in the ‘unbounded opportunity of American life.’\n\n“Explore Herbert Hoover National Historic Site, and discover how family, faith, education, and hard work opened a world of opportunity—even the presidency—to a man of simple beginnings.”\n\nBelow the text is a black-and-white photograph of a small house surrounded by a wooden fence.  Two multi-paned windows frame the door and a single tree stands in the yard.  Hand-written on the photo are the words:  “Hoover Birthplace, West Branch, Iowa.”  A small, oval photograph is inset into the upper right corner of the larger image.  It’s also black-and-white and shows a baby boy posed for the camera.  The caption reads:\n\n“Herbert Hoover was born in this small two-room cottage on August 10, 1874.  He was the first president born west of the Mississippi River.”\n\nThe map on the right-hand side of the panel shows all of the park’s major buildings, sites, walkways, and roads in brown, white, and grey.  A green “you are here” sign points to your current location.  The caption reads: \n\n“Start your visit at the visitor center to see exhibits and a brief film on Hoover’s childhood.  Enjoy the self-guided audio tour of the site and its historic buildings.  Visit nearby Birthplace Cottage, Blacksmith Shop, Schoolhouse, and Friends Meetinghouse.”\n\nEnd of message.\n",
       "description": "On August 12, 1965, an act of Congress established this park as a national historic site. Since then, the National Park Service has preserved and interpreted the historic structures and landscape of this 187-acre park. In the late 1930's, President Hoover and his wife, Lou Henry Hoover, chose this place to celebrate the values they believed helped shape his life.",
       "geofence_buffer_in_meters": 0.3047999902464003,
@@ -3456,19 +3451,20 @@
       "type": "Exhibit"
     },
     {
-      "audio_description": "P.T. Smith House\n275 words\n\nP.T. Smith House.  Two minutes.  The P.T. Smith House is located on the east side of Downey Street, just south of the site of the House of the Maples.  The green, two-story home is set back about 25 feet from Downey Street on a grassy lawn.  A couple of tall evergreen trees stand to the right of the building.  The P.T. Smith House is not open to the public.\n\nAn open porch stretches across the entire façade, which is about 18 feet wide.  Three slender carved white pillars hold up the roof of the porch.  White paint also trims the rectangular windows and the brown front door that opens off the left-hand side of the porch.  A low foundation of unpolished grey stone extends around the structure below the wooden construction.  Three downspouts run vertically down the left side of the building.  They become horizontal near the ground and extend out several feet, so watch your step if you plan to walk around the house.\n\nA small brown sign sits on the left-hand side of the porch, facing toward the north.  It is mounted at a 45% angle, and gold-colored lettering reads:\n\n“P. T. Smith House – Peter Smith, a local carpenter and coffin maker, built this house in 1874.  Herbert Hoover remembered this house well, as it was home to his boyhood friends, Etta, Eddie, and Wallace Smith, and stood next door to the Hoover’s second home.  The house was located here, at the base of cook’s hill, which was renowned as a popular sledding location for Theodore, Herbert and Mary Hoover and the Smith children as well as their other playmates.”\n\nEnd of message.",
-      "description": "The P.T. Smith House is the only house that Herbert Hoover remembered when he visited West Branch many years later. While living in the House of Maples, the Hoover children and Smith children were playmates. Their homes stood at the base of Cook's Hill, a favorite winter sledding spot. Hoover recalled, \"That was a great long hill where on winters’ nights, to satisfy our human craving for speed, we slid down at terrific pace with our tummies tight to home-made sleds.\"",
+      "audio_description": "E.S. Hayhurst House\n129 words\n\nHayhurst House.  One minute.  The Hayhurst House is a two-story structure on the west side of Poplar Street, just north of Penn Street.  Set back about 25 feet from the roadway, the clapboard house is bordered on its left side by several trees.  The building is painted beige with chocolate-brown trim, and the pitched roof is covered with dark brown shingles.  A small chimney sticks up from the center of the roof.\n\nOn the left-hand side of the building’s façade, four broad steps lead up to an open porch.  Three slender brown columns support the roof of the porch.  On the right half of the façade, three rectangular windows are set into a simple gabled exterior wall.  The Hayhurst House is not open to the public.\n\nEnd of message.\n",
+      "description": "In 1870, real-estate developer J.M. Wetherell sold three lots to E.S. Hayhurst. Hayhurst built his house here in 1872. Unfortunately, Hayhurst and his family were only able to call this place home for less than a decade. When they couldn't make the payments, the mortgage was foreclosed and the family left town in 1878. Ever the businessman, Wetherell repossessed the lots and turned the house into a rental property.",
       "geofence_buffer_in_meters": 10,
-      "id": 409,
-      "latitude": 41.66859717,
-      "longitude": -91.34645954,
-      "map_thumbnail_image": 450,
+      "id": 407,
+      "latitude": 41.67054967,
+      "longitude": -91.34778589,
+      "map_thumbnail_image": 448,
       "media": [
-        340
+        333
       ],
-      "name": "P.T. Smith House",
-      "name_description": "The Hoover and Smith children were playmates and neighbors near a favorite winter sledding spot.",
-      "type": "Historic Building"
+      "name": "E.S. Hayhurst House",
+      "name_description": "The E.S. Hayhurst family left town after the bank foreclosed on their house.",
+      "primary_image": 333,
+      "type": "Residence"
     },
     {
       "audio_description": "Historic Homes on Poplar Street\n269 words\n\nHistoric Homes on Poplar Street.  Two minutes.  First of two descriptions at this location.  Poplar Street is a beige gravel road about 8 feet wide, running north-south through the Herbert Hoover National Historic Site.  A wooden boardwalk runs along the east side of the street, separated from the roadway by a strip of grass about four feet wide.  Another boardwalk crosses Poplar Street at Penn Street.  The boardwalks can be slick in wet weather, so watch your step.\n\nFour historic homes line Poplar Street between Penn Street in the south and Wetherell Street in the north.  The Mackey House can be found on the east side of the street near Wetherell Street.  On the west side of the street, from south to north, you’ll find the Hayhurst House, the Wright House, and the Staples House.  These homes are not open to the public.  Each is described separately in its own stop.  \n\nTwo small signs are mounted on a three-foot post at the north end of Poplar Street, between the boardwalk and roadway.  One faces north and one faces south.  Both are brown with gold-colored lettering.  The signs are described in the next message.\n\nPlease note:  Poplar Street is only open to pedestrian traffic within the park, but Wetherell Street is open to vehicles, so stay alert.  Also note, if you are approaching Wetherell Street from the south, a log blocks the way at the end of Poplar Street and several large bushes line Wetherell on either side of Poplar.  If you are exiting the park, please use the boardwalk, which ramps down gently to Wetherell Street. \n\nEnd of message.\n\nHistoric Homes on Poplar Street – Interpretive Signs\n207 words\n\nHistoric Homes on Poplar Street – Interpretive Signs.  1 ½ minutes.  Second of two descriptions at this location.  Two small signs are mounted on a three-foot post at the north end of Poplar Street, between the boardwalk and roadway.  One faces north and one faces south.  Both are brown with gold-colored lettering.  Text on the north-facing sign reads:\n\n“Herbert Hoover National Historic Site, Presidential Library-Museum\n\n“Herbert Hoover, the first president born west of the Mississippi, spent his formative years in this neighborhood, which is preserved as Herbert Hoover National Historic Site.  You may visit his birthplace and other buildings he remembered from his childhood.  You may also browse through the Presidential Library-Museum and visit the graves of President and Mrs. Hoover.\n\n“CAUTION:  Boardwalks are slippery when wet and surfaces may be uneven.”  End of text.\n\nText on the south-facing sign reads:\n\n“Visit Downtown West Branch – Many of the commercial buildings in West Branch are included in a historic district on the National Register of Historic Places. It commemorates the “Golden Age of American Agriculture” (1895-1916).  A variety of shops and services are available.”  End of text.\n\nBelow the text, also in gold, is a line drawing of some of the historic structures on Main Street.\n\nEnd of message.\n\n",
@@ -3489,19 +3485,38 @@
       "type": "Block"
     },
     {
-      "audio_description": "Amanda Garvin Cottage\n293 words\n\nThe Garvin Cottage faces east on Downey Street.  It’s a narrow two-story home, 15 feet wide, with a small one-story extension on the right-hand side.  The Garvin Cottage is not open to the public.\n\nThe building is painted eggshell white with reddish-brown trim around the windows and doors.  A single brick chimney juts up from the center of the steeply pitched roof.  An open porch stretches across the front of the main structure, with four thin, square columns holding up the porch’s moss-covered roof.  Between the columns, the porch is adorned with three delicate wooden arches painted to match the eggshell hue of the house. Ornately carved brackets, also painted to match, trim the top of the brown-painted columns. In the yard on the left is an antique metal water pump with a long, curved handle.\n        \nTwo tall trees stand at the front corners of the building’s grassy lot.  A white picket fence 3 ½ feet tall surrounds the property, separating it from the wooden boardwalk that runs along the west side of Downey Street.  A brown sign is affixed to the inside of the fence, just to the left of a central gate.  The sign is 6 inches high by 8 inches wide and mounted at a 45-degree angle.  In brown lettering the sign reads:\n\n“The Amanda Garvin Cottage – Miss Amanda Garvin purchased this lot in eighteen seventy and by eighteen seventy two had this small frame cottage built.  She resided here until eighteen seventy eight.  Herbert Hoover was familiar with this house and would have passed it often on his way to and from school.  The Garvin Cottage is considered to be a handsome example of Gothic Revival Architecture as it developed in Eastern Iowa in the eighteen seventies.”\n\nEnd of message.",
-      "description": "Amanda Garvin was a single 35-year old woman when she bought this property in 1870 for $90.00. She had this cottage built by 1872. The Garvin house is a wonderful example of the Gothic Revival style with its steeply pitched roof, gingerbread bargeboard trim, and ornamental arches framing the open front porch. By 1878, Miss Garvin was renting her cottage to tenants. During the fifteen years she owned the property, she mortgaged it several times but lost the home to foreclosure in 1885.",
-      "geofence_buffer_in_meters": 9.390400019507199,
-      "id": 401,
-      "latitude": 41.670874,
-      "longitude": -91.34689,
-      "map_thumbnail_image": 442,
-      "media": [
-        353
+      "audio_description": "Historic Homes on Downey Street\n217 words\n\nHistoric Homes on Downey Street.  One and half minutes.  First of two descriptions at this location.  Downey Street is a beige gravel road about 12 feet wide, running north-south through the Herbert Hoover National Historic Site.  The road is only for pedestrians.  There’s a wooden boardwalk on either side of Downey Street, separated from the roadway by a strip of grass.  A few trees and benches punctuate the grass borders.  The boardwalks can be slick in wet weather, so watch your step.\n\nThere are five historic homes on Downey Street between the South Downey Bridge in the south and Wetherell Street to the north.  On the east side of the street, from south to north, they are the Varney House, the Leech House, and the Laban Miles House.  On the west side of the street, from south to north, you’ll find the C.E. Smith House and Garvin Cottage.  These homes are not open to the public.  Each is described separately in its own stop.  A few of the homes have stepping stones and hitching posts in front. One of the hitching posts is decorated with a small metal horse’s head.\n\nAn interpretive wayside panel is located at the southwest corner of Downey Street and Wetherell Street, facing west.  It is described in the next message.\n\nEnd of message. \n\nHistoric Homes on Downey Street – Wayside Panel\n337 words\n\nHistoric Homes on Downey Street – Wayside Panel.  2 ½ minutes.  Second of two descriptions at this location.  A two-foot by three-foot angled panel sits near the southwest corner of Downey Street and Wetherell Street, facing west.  It’s titled “A World of Opportunity.  The beige panel includes text on the upper left, a black-and-white photograph on the lower left, and a map of the park on the right-hand side.\n\nThe text begins with a quote from President Herbert Hoover.  It reads:  \n\n“My grandparents and parents came here in a covered wagon.  In this community they toiled and worshipped God.  They lie buried on your hillside.  The most formative years of my boyhood were spent here.  My roots are in this soil.”\n\nThe text continues:\n\n“Herbert Hoover National Historic Site commemorates the life and accomplishments of Herbert Hoover, the 31st U.S. president.  Born in the village of West Branch, Iowa, to a family of modest means, Hoover believed in the ‘unbounded opportunity of American life.’\n\n“Explore Herbert Hoover National Historic Site, and discover how family, faith, education, and hard work opened a world of opportunity—even the presidency—to a man of simple beginnings.”\n\nBelow the text is a black-and-white photograph of a quiet street lined with two-story stone and brick buildings.  A few of the buildings have awnings hanging in front, and there are several early-twentieth-century-era cars parked along the curb. The caption reads:\n\n“Fifteen downtown buildings are listed on the National Register of Historic Places.  They represent West Branch’s Golden Era of American Architecture.”\n\nThe map on the right-hand side of the panel shows all of the National Historic Site’s major buildings, sites, walkways, and roads in brown, white, and grey.  A green “you are here” sign points to your current location.  The caption reads: \n\n“Start your visit at the visitor center to see exhibits and a brief film on Hoover’s childhood.  Enjoy the self-guided audio tour of the site and its historic buildings.  Visit nearby Birthplace Cottage, Blacksmith Shop, Schoolhouse, and Friends Meetinghouse.”\n\nEnd of message.\n",
+      "description": "West Branch boomed between 1869 and 1873. New buildings constructed in the neighborhood near the Hoovers’ small cottage on Downey Street included the Laban Miles House, the Garvin House, and the Methodist Church, which is no longer standing. When the Burlington, Cedar Rapids & Northern Railroad arrived in West Branch on December 20, 1870, two hundred of the town’s residents celebrated with a picnic dinner.",
+      "geofence_buffer_in_meters": 10,
+      "id": 397,
+      "information": [
+        {
+          "description": "You might be surprised to learn that Herbert Hoover didn’t live in one of these larger, fancier-looking homes, even though they were built during the same time period. By comparison, the Hoovers’ single story home measured only 14 feet by 20 feet in size. Though some of these homes were built after Herbert Hoover moved away from West Branch, their addition to this street illustrate the neighborhood setting of President Hoover’s birthplace.\"",
+          "name": "Neighborhood Setting"
+        }
       ],
-      "name": "Amanda Garvin House",
-      "name_description": "Amanda Garvin’s house with its ornamented arches is an example of Gothic Revival style.",
-      "type": "Office"
+      "latitude": 41.67036534,
+      "longitude": -91.34661913,
+      "map_thumbnail_image": 438,
+      "name": "Historic Homes on Downey Street",
+      "name_description": "The historic homes on Downey Street represent the neigborhood of Hoover's childhood.",
+      "type": "Block"
+    },
+    {
+      "audio_description": "P.T. Smith House\n275 words\n\nP.T. Smith House.  Two minutes.  The P.T. Smith House is located on the east side of Downey Street, just south of the site of the House of the Maples.  The green, two-story home is set back about 25 feet from Downey Street on a grassy lawn.  A couple of tall evergreen trees stand to the right of the building.  The P.T. Smith House is not open to the public.\n\nAn open porch stretches across the entire façade, which is about 18 feet wide.  Three slender carved white pillars hold up the roof of the porch.  White paint also trims the rectangular windows and the brown front door that opens off the left-hand side of the porch.  A low foundation of unpolished grey stone extends around the structure below the wooden construction.  Three downspouts run vertically down the left side of the building.  They become horizontal near the ground and extend out several feet, so watch your step if you plan to walk around the house.\n\nA small brown sign sits on the left-hand side of the porch, facing toward the north.  It is mounted at a 45% angle, and gold-colored lettering reads:\n\n“P. T. Smith House – Peter Smith, a local carpenter and coffin maker, built this house in 1874.  Herbert Hoover remembered this house well, as it was home to his boyhood friends, Etta, Eddie, and Wallace Smith, and stood next door to the Hoover’s second home.  The house was located here, at the base of cook’s hill, which was renowned as a popular sledding location for Theodore, Herbert and Mary Hoover and the Smith children as well as their other playmates.”\n\nEnd of message.",
+      "description": "The P.T. Smith House is the only house that Herbert Hoover remembered when he visited West Branch many years later. While living in the House of Maples, the Hoover children and Smith children were playmates. Their homes stood at the base of Cook's Hill, a favorite winter sledding spot. Hoover recalled, \"That was a great long hill where on winters’ nights, to satisfy our human craving for speed, we slid down at terrific pace with our tummies tight to home-made sleds.\"",
+      "geofence_buffer_in_meters": 10,
+      "id": 409,
+      "latitude": 41.66859717,
+      "longitude": -91.34645954,
+      "map_thumbnail_image": 450,
+      "media": [
+        340
+      ],
+      "name": "P.T. Smith House",
+      "name_description": "The Hoover and Smith children were playmates and neighbors near a favorite winter sledding spot.",
+      "primary_image": 340,
+      "type": "Historic Building"
     },
     {
       "audio_description": "Hoover Creek at the South Downey Street Bridge\n211 words\n\nHoover Creek at the South Downey Street Bridge.  1 ½ minutes.  The Hoover Creek meanders east-west through the Herbert Hoover National Historic Site.  The creek is just a few feet wide, with shrubs and a few trees along its banks.  At Downey Street, the creek flows beneath the South Downey Street Bridge.  \n\nDowney Street is a gravel road about 12 feet wide with a wooden boardwalk on either side.  Elsewhere, there’s a strip of grass separating the boardwalks from the roadway, but at the bridge, the boardwalks come right up alongside the road.  Boardwalks can be slick in wet weather, so watch your step.  The bridge is about 25 feet long, bordered on each side by a four-foot-high wooden post-and-rail fence.  It’s about ten feet down from the bridge to the creek below.\n\nFrom the east side of the bridge, the view is toward Parkside Drive, which runs north-south alongside the park.  The Friends Meetinghouse is about 60 feet away, at 2:00 on the clock face.  The visitor center is about 200 feet away, at 10:00.  If you’re facing west from the bridge, the Presidential Library and Museum is at 11:00 and about 200 feet away.  The Birth Cottage is at 2:00, about 60 feet from the bridge.\n\nEnd of message.\n",
@@ -3534,25 +3549,24 @@
       ],
       "name": "Hoover Creek",
       "name_description": "The South Downey Street Bridge crosses a small tributary of the West Branch of the Wapsinonoc Creek.",
+      "primary_image": 329,
       "type": "Bridge"
     },
     {
-      "audio_description": "Historic Homes on Downey Street\n217 words\n\nHistoric Homes on Downey Street.  One and half minutes.  First of two descriptions at this location.  Downey Street is a beige gravel road about 12 feet wide, running north-south through the Herbert Hoover National Historic Site.  The road is only for pedestrians.  There’s a wooden boardwalk on either side of Downey Street, separated from the roadway by a strip of grass.  A few trees and benches punctuate the grass borders.  The boardwalks can be slick in wet weather, so watch your step.\n\nThere are five historic homes on Downey Street between the South Downey Bridge in the south and Wetherell Street to the north.  On the east side of the street, from south to north, they are the Varney House, the Leech House, and the Laban Miles House.  On the west side of the street, from south to north, you’ll find the C.E. Smith House and Garvin Cottage.  These homes are not open to the public.  Each is described separately in its own stop.  A few of the homes have stepping stones and hitching posts in front. One of the hitching posts is decorated with a small metal horse’s head.\n\nAn interpretive wayside panel is located at the southwest corner of Downey Street and Wetherell Street, facing west.  It is described in the next message.\n\nEnd of message. \n\nHistoric Homes on Downey Street – Wayside Panel\n337 words\n\nHistoric Homes on Downey Street – Wayside Panel.  2 ½ minutes.  Second of two descriptions at this location.  A two-foot by three-foot angled panel sits near the southwest corner of Downey Street and Wetherell Street, facing west.  It’s titled “A World of Opportunity.  The beige panel includes text on the upper left, a black-and-white photograph on the lower left, and a map of the park on the right-hand side.\n\nThe text begins with a quote from President Herbert Hoover.  It reads:  \n\n“My grandparents and parents came here in a covered wagon.  In this community they toiled and worshipped God.  They lie buried on your hillside.  The most formative years of my boyhood were spent here.  My roots are in this soil.”\n\nThe text continues:\n\n“Herbert Hoover National Historic Site commemorates the life and accomplishments of Herbert Hoover, the 31st U.S. president.  Born in the village of West Branch, Iowa, to a family of modest means, Hoover believed in the ‘unbounded opportunity of American life.’\n\n“Explore Herbert Hoover National Historic Site, and discover how family, faith, education, and hard work opened a world of opportunity—even the presidency—to a man of simple beginnings.”\n\nBelow the text is a black-and-white photograph of a quiet street lined with two-story stone and brick buildings.  A few of the buildings have awnings hanging in front, and there are several early-twentieth-century-era cars parked along the curb. The caption reads:\n\n“Fifteen downtown buildings are listed on the National Register of Historic Places.  They represent West Branch’s Golden Era of American Architecture.”\n\nThe map on the right-hand side of the panel shows all of the National Historic Site’s major buildings, sites, walkways, and roads in brown, white, and grey.  A green “you are here” sign points to your current location.  The caption reads: \n\n“Start your visit at the visitor center to see exhibits and a brief film on Hoover’s childhood.  Enjoy the self-guided audio tour of the site and its historic buildings.  Visit nearby Birthplace Cottage, Blacksmith Shop, Schoolhouse, and Friends Meetinghouse.”\n\nEnd of message.\n",
-      "description": "West Branch boomed between 1869 and 1873. New buildings constructed in the neighborhood near the Hoovers’ small cottage on Downey Street included the Laban Miles House, the Garvin House, and the Methodist Church, which is no longer standing. When the Burlington, Cedar Rapids & Northern Railroad arrived in West Branch on December 20, 1870, two hundred of the town’s residents celebrated with a picnic dinner.",
-      "geofence_buffer_in_meters": 10,
-      "id": 397,
-      "information": [
-        {
-          "description": "You might be surprised to learn that Herbert Hoover didn’t live in one of these larger, fancier-looking homes, even though they were built during the same time period. By comparison, the Hoovers’ single story home measured only 14 feet by 20 feet in size. Though some of these homes were built after Herbert Hoover moved away from West Branch, their addition to this street illustrate the neighborhood setting of President Hoover’s birthplace.\"",
-          "name": "Neighborhood Setting"
-        }
+      "audio_description": "Amanda Garvin Cottage\n293 words\n\nThe Garvin Cottage faces east on Downey Street.  It’s a narrow two-story home, 15 feet wide, with a small one-story extension on the right-hand side.  The Garvin Cottage is not open to the public.\n\nThe building is painted eggshell white with reddish-brown trim around the windows and doors.  A single brick chimney juts up from the center of the steeply pitched roof.  An open porch stretches across the front of the main structure, with four thin, square columns holding up the porch’s moss-covered roof.  Between the columns, the porch is adorned with three delicate wooden arches painted to match the eggshell hue of the house. Ornately carved brackets, also painted to match, trim the top of the brown-painted columns. In the yard on the left is an antique metal water pump with a long, curved handle.\n        \nTwo tall trees stand at the front corners of the building’s grassy lot.  A white picket fence 3 ½ feet tall surrounds the property, separating it from the wooden boardwalk that runs along the west side of Downey Street.  A brown sign is affixed to the inside of the fence, just to the left of a central gate.  The sign is 6 inches high by 8 inches wide and mounted at a 45-degree angle.  In brown lettering the sign reads:\n\n“The Amanda Garvin Cottage – Miss Amanda Garvin purchased this lot in eighteen seventy and by eighteen seventy two had this small frame cottage built.  She resided here until eighteen seventy eight.  Herbert Hoover was familiar with this house and would have passed it often on his way to and from school.  The Garvin Cottage is considered to be a handsome example of Gothic Revival Architecture as it developed in Eastern Iowa in the eighteen seventies.”\n\nEnd of message.",
+      "description": "Amanda Garvin was a single 35-year old woman when she bought this property in 1870 for $90.00. She had this cottage built by 1872. The Garvin house is a wonderful example of the Gothic Revival style with its steeply pitched roof, gingerbread bargeboard trim, and ornamental arches framing the open front porch. By 1878, Miss Garvin was renting her cottage to tenants. During the fifteen years she owned the property, she mortgaged it several times but lost the home to foreclosure in 1885.",
+      "geofence_buffer_in_meters": 9.390400019507199,
+      "id": 401,
+      "latitude": 41.670874,
+      "longitude": -91.34689,
+      "map_thumbnail_image": 442,
+      "media": [
+        353
       ],
-      "latitude": 41.67036534,
-      "longitude": -91.34661913,
-      "map_thumbnail_image": 438,
-      "name": "Historic Homes on Downey Street",
-      "name_description": "The historic homes on Downey Street represent the neigborhood of Hoover's childhood.",
-      "type": "Block"
+      "name": "Amanda Garvin House",
+      "name_description": "Amanda Garvin’s house with its ornamented arches is an example of Gothic Revival style.",
+      "primary_image": 353,
+      "type": "Office"
     },
     {
       "audio_description": "James Staples House\n131 words\n\nStaples House.  One minute.  The Staples House is a large off-white structure on the west side of Poplar Street, south of Wetherell Street.  The two-story, wooden building is about 30 feet wide, with a one-story enclosed porch stretching across the entire façade.  Dark brown shingles cover the pitched roof, and yellow paint accents the structure around the windows, at the corners of the house, and just below the roofline.  A slender brick chimney pokes up from the top of the structure.\n\nThe home is set back about 25 feet from Poplar Street, up a small, grassy slope. It features a screened in porch. There is no fence surrounding the house and no boardwalk on this side of the street.  The Staples House is not open to the public.\n\nEnd of message.\n \n\n",
@@ -3600,18 +3614,6 @@
       "type": "Historic Inn"
     },
     {
-      "audio_description": "Leech Building\n203 words\n\nLeech Building.  1 ½ minutes.  The Leech Building is located at 103 North Downey Street, on the east side of the road.  It abuts the former Citizen’s Savings Bank on the right and the Leech-Gruwell Garage Building on the left. \n\nThe two-story structure features large storefront windows on the first floor, with a central doorway set back several feet from the sidewalk.  A four-foot band of vertical wooden slats runs above the first-floor windows and door; vertical slats also frame the first-floor on the left and right.  The building is painted a creamy yellowish color and the paint is peeling in many places.  The second-floor façade is constructed of beige brick.  Three rectangular windows are set into the second-floor façade below the flat roofline, all trimmed in a mustardy-tan.  \n\nA plaque placed in the lower left corner of the left-hand window reads:\n\n“This property has been placed on the National Register of Historic Places by the United States Department of the Interior.”\n\nThe sidewalk is one small step up from the street here, and there is a designated accessible parking spot directly in front of the building.  Please watch your step, as the sidewalk contains some cracks and uneven joints.\n\nEnd of message.\n",
-      "description": "Charles F. Schroeder had this building constructed in 1912 for his men’s clothing store. The modern store boasted large display windows and electric lights. Since that time, several shops have used the building and made alterations to its interior.",
-      "geofence_buffer_in_meters": 10,
-      "id": 417,
-      "latitude": 41.6715955178053,
-      "longitude": -91.3465386629105,
-      "map_thumbnail_image": 458,
-      "name": "Leech Building",
-      "name_description": "Charles Schroeder built this building for his men's clothing store in 1912.",
-      "type": "Store"
-    },
-    {
       "audio_description": "Veterans Memorial Building\n201 words\n\nVeterans Memorial Building.  1 ½  minutes.  The Veterans Memorial Building is located at 105 West Main Street.  It’s on the north side of the street, sandwiched in between the Old West Branch State Bank Building on the right and the green Patterson-Leech Building on the left.  \n\nThe two-story brick façade is painted a pale yellow.  Just below the flat roofline is a stone plaque  10 feet wide inscribed with the words:  “Veterans Memorial Building, World War II, 1941-1945.”  A five pointed metal star sits in between the first and second floors, about one foot across.  Otherwise, the building has few embellishments.\n\nThe entire building is about 20 feet wide, with a single door on the right-hand side of the façade.  It’s three steps up from the sidewalk to the door.  Today, the building serves as a private residence with a guitar-making shop on the first floor.  Storefront windows to the left of the front door offer views into the shop.  Dark green cloth awnings overhang the windows and door.\n\nHere, the sidewalk is two steep steps up from the street.  There is also a ramp at the corner of Poplar Street about a hundred feet to your left.\n\nEnd of message.\n",
       "description": "The War Memorial Building is a reminder of the significant building it replaced, an 1887 building which once housed the Indian Industrial School, a Quaker school for Indian Children. The War Memorial Building, built in 1948, honors veterans of World War II. ",
       "geofence_buffer_in_meters": 10,
@@ -3624,6 +3626,7 @@
       ],
       "name": "War Memorial Building",
       "name_description": "The former building on this site once housed a Quaker school for Native Americans in 1883.",
+      "primary_image": 367,
       "type": "Post Office"
     },
     {
@@ -3653,7 +3656,24 @@
       ],
       "name": "Isaac Miles Farmstead",
       "name_description": "The plowed fields of the Miles farm were typical of the landscape just outside Hoover’s home town.",
+      "primary_image": 384,
       "type": "Historic Buildings"
+    },
+    {
+      "audio_description": "Grinnell Building\n157 words\n\nGrinnell Building.  One minute.  The Grinnell Building is located at 112 West Main Street, on the south side of the street.  The two story structure is currently home to a family dental practice.  \n\nThe façade is mostly brick, in hues ranging from red to orange to dark grey.  The various colors give the building a speckled look.  A single door stands between two oversized windows on the first floor.  Two smaller windows grace the second floor.  The door and window frames are painted a dusty rose color.  \n\nThere is a gap about three feet wide between the Grinnell Building and the Old Post Office Building to its right.  The gap reveals an older grey clapboard structure with a pitched roof behind the modern flat-topped brick façade. \nIt’s just one step up from the street to the sidewalk here, and there’s a ramp at the corner of Poplar Street, to the right of the building.\n\nEnd of message.\n",
+      "description": "Behind the brick facade stands the wood frame building of Edwin Grinnell's drug store and H.T. Hollingsworth's watch repair. This building, the oldest surviving store, may date back to 1869. A series of jewelers and druggists occupied the building until 1924 when Fred Albin bought it for his meat market. He added the back room and brick facade.",
+      "geofence_buffer_in_meters": 10,
+      "id": 428,
+      "latitude": 41.67127095,
+      "longitude": -91.34741843,
+      "map_thumbnail_image": 469,
+      "media": [
+        379
+      ],
+      "name": "Grinnell Building",
+      "name_description": "Edwin Grinnell’s building housed a succession of druggists and jewelers as far back as 1869.",
+      "primary_image": 379,
+      "type": "Store"
     },
     {
       "audio_description": "Laban Miles House\n318 words\n\nLaban Miles House.  2 ¼ minutes.  The Laban Miles House is located at the southeast corner of Downey and Wetherell Streets.  Although Downey Street is only for pedestrians within the historic site, Wetherell Street is open to vehicular traffic, so please be alert.  If you are heading north on Downey Street, a log blocks the way just before you reach Wetherell.  For safety, use the boardwalk, which ramps down gently to Wetherell Street just north of the Laban Miles House.   \n\nThe wooden, two-story Laban Miles House faces west onto Downey Street.  It’s 20 feet wide and 35 feet deep, with a single-story extension in the back.  The building is painted pale gold and accented with thin brown trim around its many windows.  The pitched roofline creates a wide gable above the second-floor windows.  A narrow porch frames the front door and is supported by two carved wooden posts.  The Laban Miles House is not open to the public.  \n\nA white picket fence separates the house from the boardwalk that runs along the east side of Downey Street.  The fence is about 3 ½ feet tall.  Just to the left of the gate, a small brown sign is mounted to the inside of the fence at a 45% angle.  The sign is 6 inches by 8 inches with gold-lettered text that reads as follows:\n\n“The Laban Miles House – Herbert Hoover’s distinguished uncle, Laban Miles, owned this house from 1875-1886, and Herbert would have visited the Miles family here on many occasions.  In 1878 Laban Miles moved his family to the Oklahoma territory where he had been appointed by President Hayes to serve as agent on the Osage and Kaw Indian reservation.  Upon leaving West Branch, Miles rented this home to Dr. Leech.  In 1882, after the death of his father, eight year old Herbert Hoover spent eight months with the Miles family on the Indian reservation.”  \n\nEnd of message.\n",
@@ -3678,37 +3698,8 @@
       ],
       "name": "Laban Miles House",
       "name_description": "There was much visiting back and forth between the Hoovers and their friends the Miles family.",
+      "primary_image": 376,
       "type": "Office"
-    },
-    {
-      "audio_description": "Grinnell Building\n157 words\n\nGrinnell Building.  One minute.  The Grinnell Building is located at 112 West Main Street, on the south side of the street.  The two story structure is currently home to a family dental practice.  \n\nThe façade is mostly brick, in hues ranging from red to orange to dark grey.  The various colors give the building a speckled look.  A single door stands between two oversized windows on the first floor.  Two smaller windows grace the second floor.  The door and window frames are painted a dusty rose color.  \n\nThere is a gap about three feet wide between the Grinnell Building and the Old Post Office Building to its right.  The gap reveals an older grey clapboard structure with a pitched roof behind the modern flat-topped brick façade. \nIt’s just one step up from the street to the sidewalk here, and there’s a ramp at the corner of Poplar Street, to the right of the building.\n\nEnd of message.\n",
-      "description": "Behind the brick facade stands the wood frame building of Edwin Grinnell's drug store and H.T. Hollingsworth's watch repair. This building, the oldest surviving store, may date back to 1869. A series of jewelers and druggists occupied the building until 1924 when Fred Albin bought it for his meat market. He added the back room and brick facade.",
-      "geofence_buffer_in_meters": 10,
-      "id": 428,
-      "latitude": 41.67127095,
-      "longitude": -91.34741843,
-      "map_thumbnail_image": 469,
-      "media": [
-        379
-      ],
-      "name": "Grinnell Building",
-      "name_description": "Edwin Grinnell’s building housed a succession of druggists and jewelers as far back as 1869.",
-      "type": "Store"
-    },
-    {
-      "audio_description": "Gruwell-Crew Building/Heritage Museum\n187 words\n\nGruwell-Crew Building.  1 ¼ minutes.  The Gruwell-Crew Building is located at 109 West Main Street, on the north side of the road.  The restored one-story structure is mostly wood, on a one-and-a-half-foot foundation of rough-hewn stone.  The building is home to the West Branch Heritage Museum.  It’s a small, colorful building, about 18 feet wide.   Four steps lead up to the rustic double-doors of carved wood and glass.  Wooden handrails on either side of the wide staircase will guide your way.  The central doors are flanked on either side by storefront windows framed in yellow and orange.  A rust-orange awning hangs down over the entire first-floor façade.  \n\nAbove the awning, a flat-topped false front hides the gently pitched roof behind it.  This rectangular strip of clapboard construction is about five feet high and painted dark green.   A yellow wooden plaque about one foot high and five feet wide near the top reads:  “Heritage Museum, West Branch, Iowa.”  \n\nThe sidewalk here is just one step up from the street, and there’s a ramp about 50 feet to your left at the corner of Poplar Street.\n\nEnd of message.\n",
-      "description": "Built by Mayor S.C. Gruwell and businessman J.C. Crew shortly after the land was deeded in 1894, this is one of the older storefronts remaining along West Main Street, having been built shortly after the land was deeded in 1894. C.M. Paulsen had a music store here until 1910 when a harness shop occupied the building. It became a variety store in 1960. In recent years it has been the home of the West Branch Heritage Museum.",
-      "geofence_buffer_in_meters": 10,
-      "id": 426,
-      "latitude": 41.67152539,
-      "longitude": -91.34726018,
-      "map_thumbnail_image": 467,
-      "media": [
-        330
-      ],
-      "name": "Gruwell-Crew Building",
-      "name_description": "Mayor S.C. Gruwell and businessman J. C. Crew acquired property and built a new building in 1894.",
-      "type": "Store"
     },
     {
       "audio_description": "Old Post Office Building \n182 words\n\nOld Post Office Building.  1 ¼ minutes.  This is the site of the Old West Branch Post Office Building, near the southeast corner of Poplar and West Main Streets.  The Old Post Office collapsed in 2010 and the current structure was erected the same year.  \n\nA large brick archway spans nearly the entire width of the 20-foot square brick façade.  At the apex of the arch, about 12 feet off the ground, is a keystone with the date 2010.  A flagpole with an American flag sticks straight up from just above the keystone past the top of the flat roofline.  \n\nThe building’s windows and front door are set back a few feet within the archway.  The door is on the right side as you face the building, and there are three tall windows to the left of it.  The window frames and door are painted dark green against a yellow background.\n\nIt’s just one step up from the street to the sidewalk here, and there’s a ramp at the corner of Poplar Street, to the right of the building.\n\nEnd of message.\n",
@@ -3723,7 +3714,24 @@
       ],
       "name": "Old Post Office",
       "name_description": "After the post office moved in 1928, various shops used the building until it collapsed in 2011.",
+      "primary_image": 377,
       "type": "Post Office"
+    },
+    {
+      "audio_description": "Gruwell-Crew Building/Heritage Museum\n187 words\n\nGruwell-Crew Building.  1 ¼ minutes.  The Gruwell-Crew Building is located at 109 West Main Street, on the north side of the road.  The restored one-story structure is mostly wood, on a one-and-a-half-foot foundation of rough-hewn stone.  The building is home to the West Branch Heritage Museum.  It’s a small, colorful building, about 18 feet wide.   Four steps lead up to the rustic double-doors of carved wood and glass.  Wooden handrails on either side of the wide staircase will guide your way.  The central doors are flanked on either side by storefront windows framed in yellow and orange.  A rust-orange awning hangs down over the entire first-floor façade.  \n\nAbove the awning, a flat-topped false front hides the gently pitched roof behind it.  This rectangular strip of clapboard construction is about five feet high and painted dark green.   A yellow wooden plaque about one foot high and five feet wide near the top reads:  “Heritage Museum, West Branch, Iowa.”  \n\nThe sidewalk here is just one step up from the street, and there’s a ramp about 50 feet to your left at the corner of Poplar Street.\n\nEnd of message.\n",
+      "description": "Built by Mayor S.C. Gruwell and businessman J.C. Crew shortly after the land was deeded in 1894, this is one of the older storefronts remaining along West Main Street, having been built shortly after the land was deeded in 1894. C.M. Paulsen had a music store here until 1910 when a harness shop occupied the building. It became a variety store in 1960. In recent years it has been the home of the West Branch Heritage Museum.",
+      "geofence_buffer_in_meters": 10,
+      "id": 426,
+      "latitude": 41.67152539,
+      "longitude": -91.34726018,
+      "map_thumbnail_image": 467,
+      "media": [
+        330
+      ],
+      "name": "Gruwell-Crew Building",
+      "name_description": "Mayor S.C. Gruwell and businessman J. C. Crew acquired property and built a new building in 1894.",
+      "primary_image": 330,
+      "type": "Store"
     },
     {
       "audio_description": "Birthplace Cottage – Back Porch and Backyard\n280 words\n\nBirthplace Cottage – Back porch and backyard.  Two minutes.  The back porch of the Birthplace Cottage is twelve feet wide and six feet deep.  It’s empty except for a rack of firewood to your left as you exit the back door.  Hinges also stick up from a hatch door in the porch floor, so watch your step.  To your right as you exit is the summer kitchen—a small room stocked with pots, pans, and other cooking implements.  In the summer, a Plexiglas partition blocks the lower half of the doorway to the summer kitchen; in the winter, a Plexiglas partition covers the entire doorway.\n\nThe porch sits about a foot-and-a-half off the ground, but a wooden ramp begins directly opposite the back door and leads down to the right, eventually connecting with the main boardwalk near the blacksmith shop. \n\nThe backyard also has several items of interest.  If you face straight ahead as you exit the cottage, a wooden privy will be about 50 feet away and a little to the right, at roughly one o'clock on the clock face.  It’s painted white, and a crescent moon is carved into its narrow door.  At nine o'clock, directly to your left, about 20 feet away are two wooden posts with two clotheslines strung between them. At ten o'clock on the clock face, ten feet to your left, a black water pump stands on a low wooden platform.  Just beyond it is a vegetable garden on a rectangular plot of land about 10 feet by 20 feet.  At approximately eleven o'clock, several hundred feet in the distance, an American flag flies at the gravesite of President and Mrs. Hoover.\n\nEnd of message.",
@@ -3739,18 +3747,6 @@
       "name": "Birthplace Cottage Back Porch and Garden",
       "name_description": "The Hoovers used their porch and yard as extensions of their modest dwelling.",
       "primary_image": 383
-    },
-    {
-      "audio_description": "David Mackey House\n197 words\n\nMackey House.  1 ½ minutes.  The Mackey House stands on the east side of Poplar Street, just south of the park entrance at Wetherell Street.  The house is about eight feet from the boardwalk, but it’s separated by a white picket fence 3 ½ feet high.  The Mackey House is not open to the public.\n\nThe narrow plain yellow house is two stories tall and 12 feet across.  Dark grey trim outlines the four front-facing windows and door.  A brown shingled awning overhangs the doorway and brown shingles cover the building’s pitched roof.  A single brick chimney perches atop the plain wooden house.\n\nA small brown sign is affixed to the fence, just to the left of the gate.  Gold lettering on the 6-inch-by-8-inch sign reads:\n\n“The Mackey House – David Mackey, a local carpenter, built this house between 1869 and 1871.  He lived in this home until 1876.  Mackey also ran a butcher shop and served as Mayor of West Branch in 1879 and Postmaster in 1885.\n\n“Built several years before his birth, this would have been a familiar landmark to young Herbert Hoover.  Adaptive restoration of the Mackey House was completed in 1985.”  \n\nEnd of message.\n",
-      "description": "In 1869, carpenter David Mackey, who designed and built this humble two-story home. The cheerful yellow house would have been a familiar landmark to the young Herbert Hoover.  Just a few years after construction was complete, David’s wife Mary died, leaving the carpenter with a baby son named Charles. The young widower, one of the town's few Democrats, was elected the Mayor of West Branch in 1879. Of the homes in the core area dating back to Hoover's boyhood, this house and the Wright House, across the street, have been the least altered in appearance.",
-      "geofence_buffer_in_meters": 10,
-      "id": 404,
-      "latitude": 41.67083,
-      "longitude": -91.347448,
-      "map_thumbnail_image": 445,
-      "name": "David Mackey House",
-      "name_description": "David Mackey’s cheerful yellow home would have been a familiar landmark to young Herbert.",
-      "type": "Residence"
     },
     {
       "audio_description": "Hannah Varney House\n211 words\n\nVarney House.  1 ½ minutes.  The Varney House is located on the east side of Downey Street.  It’s a square wooden building 20 feet on a side.  The two-story house is painted a light tan with chocolate-brown trim around the windows and doors.  The Varney House is not open to the public.  \n\nThe grey shingled roof angles up steeply from all sides, reaching a small square plateau in the center.  Gabled second-floor windows stick out from the roofline on the left and right sides.  Grey shingles also cover the wide front porch, which is supported by four thin carved wooden columns.\n\nA white post-and-rail fence about four feet high surrounds the home.  A brown sign is mounted on the inside of the fence to the left of the central gate.  It’s about 8 inches by 6 inches and angled up at a 45% angle.  Text in gold lettering reads:\n\n“The Hannah Varney House – This house was built in 1899 for Hannah Varney.  Mrs. Varney lived in the house only about one year, but her daughters Cora and Clara continued to live here until 1915.  Although built some thirteen years after Herbert Hoover left West Branch, this four room house is typical of the style of nineteenth century Iowa.”  \n\nEnd of message.\n",
@@ -3871,21 +3867,13 @@
       "latitude": 41.673741,
       "longitude": -91.343497,
       "map_thumbnail_image": 455,
+      "media": [
+        341
+      ],
       "name": "Hoover Nature Trail",
       "name_description": "The Hoover Nature Trail follows the railroad that passed through the president’s hometown.",
+      "primary_image": 341,
       "type": "Trailhead"
-    },
-    {
-      "audio_description": "Citizen’s Savings Bank Building\n189 words\n\nCitizen’s Savings Bank Building.  1 ¼ minutes.  The Citizen’s Savings Bank Building is located at 101 North Downey Street, at the northwest corner of North Downey and Main Streets.  The two-story building faces onto Downey Street and is about 20 feet wide.  The first-floor façade is made of polished limestone, with grand pilasters on either side of a tall central doorway.  The words “Citizen’s Savings Bank” are carved into a frieze above the door.  The doorway and two large first-floor windows are trimmed in deep forest green.  A plaque near the corner, about 4 feet above the ground, reads:\n\n“This property has been placed on the National Register of Historic Places by the United States Department of the Interior.”\n\nThe second-story façade and both floors of the Main Street frontage present a more humble appearance.  They are constructed from plain blonde brick with a simple repeating pattern of decorative brickwork below the roofline. \n\nThe sidewalk here is just one small step up from the street, and a curb-cut is available at the corner.  Please watch your step, as the sidewalk contains some cracks and uneven joints.\n\nEnd of message.\n",
-      "description": "In 1909 Citizens' Savings Bank relocated here on the northeast corner of North Downey and Main streets. Surviving the collapse of farm prices in 1921 but not the Great Depression, it was absorbed in 1934 by the West Branch State Bank, creating the First State Bank.",
-      "geofence_buffer_in_meters": 10,
-      "id": 416,
-      "latitude": 41.6715354120579,
-      "longitude": -91.3465386629105,
-      "map_thumbnail_image": 457,
-      "name": "Citizens' Savings Bank",
-      "name_description": "Citizens' Savings Bank moved here in 1909 until West Branch State Bank bought it in 1934.",
-      "type": "Bank"
     },
     {
       "audio_description": "Schoolhouse – Exterior\n333 words\n\nSchoolhouse – Exterior.  2 ½ minutes.  First of two descriptions at this location.  The schoolhouse is located about 50 feet to the northwest of the blacksmith shop off Penn Street.  The small wooden building is painted a creamy off-white.  The façade is 18 feet wide, with two rectangular windows on either side of a central doorway.  The grey shingled roof rises to a peak above the doorway, and a brick chimney pokes up from the back of the modest structure.  \n\nTwo wooden walkways provide access from the main boardwalk that runs along the north side of Penn Street.  If you take the path directly in front of the building, you will need to climb four steps up to the building’s entrance.  A second walkway about 20 feet to the right of that one provides access via ramp.  The ramp heads north for about 30 feet and then turns west for another 20 feet along the front of the building.  A metal railing lines the second half of the ramp.  Watch your step on all walkways, especially during inclement weather, as the wood can be slippery when wet.\n\nTo the left of the main stairs, a small brown sign about 6 by 8 inches sticks up from the ground on a two-foot wooden post.  The following is printed in gold-colored lettering:\n\n“Schoolhouse – The early settlers of West Branch had a strong regard for education, and in 1853 they built this school.  It was used not only as a school but as a place of worship for the members of the Society of Friends.  Originally the building housed all of the West Branch students, but by the time Herbert Hoover’s older brother Theodore was registered here, enrollment had increased and it was used only as a classroom for the primary students.  Increasing membership in the Society of Friends also necessitated the building of a larger meetinghouse in 1857.”  End of text.\n\nThe interior of the schoolhouse is described briefly in the next message.\n\nEnd of message.\n\nSchoolhouse – Interior\n237 words\n\nSchoolhouse – Interior.  1 ¾ minutes.  Second of two descriptions at this location.  When you enter the schoolhouse, a wall directly in front of you forces you to turn right.  As you walk around the wall, you emerge into the back right corner of a one-room schoolhouse.  A wooden railing and Plexiglas barrier about three feet high prevents you from moving beyond the back corner of the room.      \n\nThe space is about 18 feet by 18 feet, with a worn wooden floor.  Dark wood wainscoting covers the lower two feet of the walls; the rest of the walls and ceiling are painted white.  The room is furnished with wood student desks in wrought iron frames arranged in rows.  Reading texts and penmanship books, along with slate boards, have been placed neatly on the desks. Two small shelves hanging on the left-hand wall hold additional history and science texts.  A larger wooden teacher’s desk sits at the front of the classroom with a globe and a more books lined up along its back edge.  Portraits of George Washington and Abraham Lincoln hang on either side of the front wall above the blackboard.\n\nAt the back of the room, a black metal stovepipe rises up toward the ceiling from a dull black potbelly stove and out the front of the room.  Six rectangular curtained windows around the space shed a diffuse light on the rustic classroom scene.\n\nEnd of message.",
@@ -3927,27 +3915,19 @@
       "services": []
     },
     {
-      "audio_description": "The Opera Block\n254 words\n\nThe Opera Block.  1 ¾ minutes.  The Opera Block is located at 107-109 North Downey Street, on the east side of the road.  It abuts the Leech-Gruwell Garage Building to the right.  \n\nThe ornate two-story structure measures approximately 50 feet across its façade, making it the largest commercial building in downtown West Branch.  Three separate commercial spaces occupy the first floor, each with its own doorway and storefront window.  It’s one step up from the sidewalk to each door. Each door is set at a slight angle to the façade. \nSeveral colorful patterns and designs enliven the second floor of the façade in yellow and dark red against a background of greyish-green stone.  For example, a series of flattened yellow diamonds forms a narrow strip just above the first story.  Further up, pairs of yellow and red pilasters fill the spaces between the rectangular multi-paned windows of the second floor.  A number of horizontal stripes—both yellow and red—also stretch across the second floor, balancing the vertical lines of the pilasters.  \n\nAt the top of the building, a triangular panel juts up from the center of the horizontal roofline.  Yellow lettering spells out “Opera Block, 1895.”  On either side of this central sign are two smaller rectangular panels.  The panel on the left bears the name of the builder, “C.A. Macomber.”  The panel on the right reads: “Masonic Hall.”\n\nIt’s one step up from the street to the sidewalk here, but there’s a ramp to the left of the building.\n\nEnd of message.\n\n\n\f",
-      "description": "Charles A. Macomber constructed the most ambitious project of the era in 1895. The two-story Opera Block is still the largest commercial building downtown. Three stores shared the first floor. The top floor included the Masonic Lodge and a 500 seat theater with a 20 by 40 foot stage. “The Pastime” motion picture house took the upper space in 1912. A woodworking and antique store occupied the first floor prior to its restoration in 1986.",
-      "geofence_buffer_in_meters": 10,
-      "id": 419,
-      "latitude": 41.6718319332009,
-      "longitude": -91.3465413451195,
-      "map_thumbnail_image": 460,
-      "name": "The Opera Block",
-      "name_description": "Charles Macomber's opulent 1895 construction project included stores and a 500 seat theater.",
-      "type": "Theater"
-    },
-    {
       "audio_description": "Old West Branch State Bank\n284 words\n\nOld West Branch State Bank Building.  Two minutes.  The Old West Branch State Bank Building is located at the northwest corner of North Downey and Main Streets.  The stately structure faces south onto Main Street.  It abuts the smaller Veterans Memorial Building to the west.  The building is no longer used as a bank; it has been home to a variety of local businesses over the years.  \n\nThe State Bank Building is constructed of dark brick, trimmed with limestone.  A four-foot wide strip of limestone blocks forms the base of the structure.  Limestone also divides the first and second stories with a thinner band, and then appears again at the roofline.  Geometric designs are incised into the stone at the upper corners of the building.  An American flag flies from the pediment atop the south-facing façade.  Within the pediment is inscribed the date “1916.”  A similar pediment on the east-facing side of the building carried the inscription:  “State Bank.”\n\nAbove the central doorway on the south side, metal letters spell out the words “Old Bank.”  Just to the left of the door is a metal plaque, which reads:\n\n“This property has been placed on the National Register of Historic Places by the United States Department of the Interior.”\n\nThe sidewalk is about two feet higher than the street level here and about seven to eight feet wide from the building’s front to the edge, so use caution.  Four steps lead up to the sidewalk at the corner and there is a ramp one block west at the corner of Main and Poplar Streets.  Once on the sidewalk, it’s another three steps up to the front door of the Old Bank Building.\n\n\nEnd of message.\n",
       "description": "This large brick structure, built in 1916, housed the West Branch State Bank (previously named West Branch Bank). It replaced a bank building (circa 1877) that stood on the same site, but was razed to make room for the new, larger building. The bank took temporary quarters across the street during construction. It then occupied this building until 1974. Fred Albin rented the back for his meat market until 1924. The West Branch Telephone Company shared the second floor with Hubbard & Hubbard Chiropractors.",
       "geofence_buffer_in_meters": 10,
       "id": 420,
-      "latitude": 41.6715213873754,
-      "longitude": -91.3468685746193,
+      "latitude": 41.67152139,
+      "longitude": -91.34686857,
       "map_thumbnail_image": 461,
+      "media": [
+        369
+      ],
       "name": "Old West Branch State Bank",
       "name_description": "West Branch State Bank replaced an older bank building with a newer, larger building in 1916.",
+      "primary_image": 369,
       "type": "Bank"
     },
     {
@@ -3957,21 +3937,13 @@
       "latitude": 41.67127095,
       "longitude": -91.34789586,
       "map_thumbnail_image": 471,
+      "media": [
+        352
+      ],
       "name": "Enlow Building",
       "name_description": "In 1904 Huldah Enlow donated land and a building for public library.",
+      "primary_image": 352,
       "type": "Library"
-    },
-    {
-      "audio_description": "Crook’s Hotel\n196 words\n\nCrook’s Hotel.  1 ½ minutes.  The former Crook’s Hotel is located at 102 West Main Street in downtown West Branch.  On the right, the building abuts the former West Branch Bank Building; on the left is the pedestrian extension of Downey Street, which leads into the Herbert Hoover National Historic Site.  \n\nThe mostly wooden structure stands on a cement base 2 to 3 feet high.  The rest of the building is painted a cream color and accented with light grey.   In the center of the 25-foot wide façade, a double set of stairs lead to a pair of entrances.  There are six steps up on either side of a central railing.  Large storefront windows are located to the left and right of the stairs, above the concrete base.  \n\nThe second story is of clapboard construction with three rectangular windows.  A small double third-floor window is set into the gable of the wide pitched roof.  A central chimney sticks up from the peak.  \n\nIt’s just one step up from the street to the sidewalk here, and there is a curb cut at the corner of Downey Street, just to the left of the building.  \n\nEnd of message.\n",
-      "description": "Nate Crook owned and operated a barber shop and restaurant in this building in 1871. By 1877 he had expanded his operation to include a hotel and livery. Over the years the building has housed several hotels and restaurants.",
-      "geofence_buffer_in_meters": 10,
-      "id": 421,
-      "latitude": 41.671260928431,
-      "longitude": -91.3468042016029,
-      "map_thumbnail_image": 462,
-      "name": "Crook's Hotel",
-      "name_description": "Nate Crook expanded his barber shop and restaurant to include hotel, livery, and stable in 1877.",
-      "type": "Hotel"
     },
     {
       "audio_description": "West Branch Bank Building\n160 words\n\nWest Branch Bank Building.  1 ¼ minutes.  The former West Branch Bank Building is a narrow, one-story structure tucked in between the former Crook’s Hotel and the Union Block Building on the south side of West Main Street.  \n\nGrey and white paint create an interplay of horizontal and vertical lines on the wooden façade, below the flat roofline.  A single door on the right-hand side is reached via a five-step stone staircase.  The stairs leads up from the left along the front of the building, and railings guide your way on either side.  A large, square four-paned window fills a large portion of the façade to the left of the front door.  The former bank building has housed a variety of commercial enterprises over the years.  \n\nIt’s one step up from the street to the sidewalk here.  There is also a ramp at the corner of Downey Street, about 25 feet to the east of the building.\n\nEnd of message.\n\n",
@@ -3986,41 +3958,6 @@
       "type": "Bank"
     },
     {
-      "audio_description": "The Union Block\n191 words\n\nThe Union Block.  1 ¼ minutes.  The Union Block is a large brick building located on the south side of West Main Street between the former West Branch Bank Building on the left and the Earliest Citizens’ Savings Bank Building on the right.\n\nThe Union Block is 40 feet wide, housing two separate commercial spaces on it first floor.  Three central doors are flanked by two large storefront windows.  The doors are set back a few feet from the sidewalk and there’s small step up to reach the flagstone entryway.  The first-floor windows and doors are trimmed in a deep forest green.   \n\nOn the second floor, the natural brick is exposed, inset with seven narrow rectangular windows.  Rounded lintels of alternating brick and limestone top the windows.  Above that, an ornate wooden cornice runs below the horizontal roofline.  The cornice is custard-colored, accented with cream, and a central panel about 10 feet wide displays the words “Union Block” in cream-colored capital letters.\n\nIt’s just one step up from the street to the sidewalk here.  You can also use the ramp at the corner of Downey or Poplar Street.\n \nEnd of message.\n",
-      "description": "T. Butler and Dr. L.J. Leech agreed to jointly finance this structure in 1895. The west half of the building housed a meat market on the first floor and the lodge of the Modern Woodmen of American on the second. The east side was rented to Bert Gill for the union Block Drug Store. Since then the building has housed several shops, cafes, and offices.",
-      "geofence_buffer_in_meters": 10,
-      "id": 424,
-      "latitude": 41.6712709461022,
-      "longitude": -91.3471072912216,
-      "map_thumbnail_image": 465,
-      "name": "The Union Block",
-      "name_description": "Partners L.J. Leech and J.T. Butler rebuilt a meat market in brick after a fire in 1895.",
-      "type": "Market"
-    },
-    {
-      "audio_description": "Patterson-Leech Building\n191 words\n\nPatterson-Leech Building.  1 ½ minutes.  The Patterson-Leech Building stands between the Veterans Memorial Building and the Gruwell-Crew Building on the north side of West Main Street.  Unlike most of the historic structures along Main Street, there is a small space—a foot or two wide—between the Patterson-Leech Building and its neighbors.  The building currently houses an antique shop.\n\nThe narrow wooden structure appears time- and weather-worn:  Some of the clapboard planks making up the second-floor façade are warped and uneven.  And the building as a whole seems to list slightly to the right.  Three wooden steps painted red lead up to the front door; there are handrails on both sides.  The first-floor is painted pale blue and trimmed with white.  There are two oversized four-paned windows on either side of the central door.  The second floor is mainly jade green, with blue and white around the windows.  The edges of a pitched roof poke out behind either side of the square-topped false façade.\n\nIt’s two small steps up from the street to the sidewalk here.  Or you can use the ramp at the corner of Poplar Street.\n End of message.\n",
-      "description": "In March 1890 Lavina Patterson opened a millinery shop here and lived with her family upstairs. Dr. L.J. Leech moved his medical offices here after fire damaged the buildings across the street in 1895. It remained Dr. Leech's office until his death in 1937.",
-      "geofence_buffer_in_meters": 10,
-      "id": 425,
-      "latitude": 41.671531405006,
-      "longitude": -91.3471287488937,
-      "map_thumbnail_image": 466,
-      "name": "Patterson-Leech Building",
-      "name_description": "In 1890 Lavina Patterson opened a millinery shop and lived with her family upstairs.",
-      "type": "Shop"
-    },
-    {
-      "description": "This building's exterior has had only minor alterations since its construction in 1895. Originally Rich's Golden Rule General Store occupied one side of the building and Dr. J. I. Bailey's medical offices occupied the other. Over the years a bakery, dry cleaning and men's clothing store, furnace and tin shop, antique shop, and grocery store were located here.",
-      "geofence_buffer_in_meters": 10,
-      "id": 431,
-      "latitude": 41.6715855,
-      "longitude": -91.34571791,
-      "map_thumbnail_image": 472,
-      "name": "Rich and Bailey Block",
-      "name_description": "In 1895 Rich’s general store occupied one side of the building and Dr. Bailey’s offices the other. ",
-      "type": "Store"
-    },
-    {
       "audio_description": "Leech-Gruwell Garage Building\n220 words\n\nLeech-Gruwell Garage Building.  1 ½ minutes.  The Leech-Gruwell Garage Building is located at 105 North Downey Street, on the east side of the road.  It abuts the Leech Building on the right and the Opera Block on the left.\n\nThe Leech-Gruwell Garage is a two-story tan brick structure about 30 feet wide.  On the first floor, the door and two tall windows are set back a few feet from the street between a pair of storefront windows.  Another door is located on the far right.  Several decorative features adorn the first floor.  The windows and doors are framed in cream-colored wood, and a row of green rectangles runs in a two-foot strip below them.  Above the windows and doors is a strip of opaque decorative glass divided into six rows of small squares textured with raised ridges and rows of inverted teardrop-shaped bumps. \n\nThe simpler second floor features three windows set into a basic brick pattern, each topped by a slightly curved lintel.  The top of the second floor is trimmed with beige wood siding about 5 feet wide just below the roofline.\n\nThe sidewalk inclines up very slightly at the front door, but watch your step here, as the concrete is cracked in spots.  It’s also one small step up to the sidewalk from Downey Street.\n\nEnd of message.\n\n",
       "description": "Bert Leech and Harry Gruwell entered a partnership to build a garage and plumbing shop here in 1911. The members of the local Masonic Lodge helped construct this two-story brick building that would house the garage and plumbing shop on the street level and the lodge rooms on the second floor.",
       "geofence_buffer_in_meters": 10,
@@ -4033,7 +3970,134 @@
       ],
       "name": "Leech-Gruwell Garage",
       "name_description": "Partners Bert Leech and Harry Gruwell opened their garage and plumbing shop in 1911.",
+      "primary_image": 354,
       "type": "Shop"
+    },
+    {
+      "description": "This building's exterior has had only minor alterations since its construction in 1895. Originally Rich's Golden Rule General Store occupied one side of the building and Dr. J. I. Bailey's medical offices occupied the other. Over the years a bakery, dry cleaning and men's clothing store, furnace and tin shop, antique shop, and grocery store were located here.",
+      "geofence_buffer_in_meters": 10,
+      "id": 431,
+      "latitude": 41.6715855,
+      "longitude": -91.34571791,
+      "map_thumbnail_image": 472,
+      "media": [
+        335
+      ],
+      "name": "Rich and Bailey Block",
+      "name_description": "In 1895 Rich’s general store occupied one side of the building and Dr. Bailey’s offices the other. ",
+      "primary_image": 335,
+      "type": "Store"
+    },
+    {
+      "audio_description": "Crook’s Hotel\n196 words\n\nCrook’s Hotel.  1 ½ minutes.  The former Crook’s Hotel is located at 102 West Main Street in downtown West Branch.  On the right, the building abuts the former West Branch Bank Building; on the left is the pedestrian extension of Downey Street, which leads into the Herbert Hoover National Historic Site.  \n\nThe mostly wooden structure stands on a cement base 2 to 3 feet high.  The rest of the building is painted a cream color and accented with light grey.   In the center of the 25-foot wide façade, a double set of stairs lead to a pair of entrances.  There are six steps up on either side of a central railing.  Large storefront windows are located to the left and right of the stairs, above the concrete base.  \n\nThe second story is of clapboard construction with three rectangular windows.  A small double third-floor window is set into the gable of the wide pitched roof.  A central chimney sticks up from the peak.  \n\nIt’s just one step up from the street to the sidewalk here, and there is a curb cut at the corner of Downey Street, just to the left of the building.  \n\nEnd of message.\n",
+      "description": "Nate Crook owned and operated a barber shop and restaurant in this building in 1871. By 1877 he had expanded his operation to include a hotel and livery. Over the years the building has housed several hotels and restaurants.",
+      "geofence_buffer_in_meters": 10,
+      "id": 421,
+      "latitude": 41.67126093,
+      "longitude": -91.3468042,
+      "map_thumbnail_image": 462,
+      "media": [
+        364
+      ],
+      "name": "Crook's Hotel",
+      "name_description": "Nate Crook expanded his barber shop and restaurant to include hotel, livery, and stable in 1877.",
+      "type": "Hotel"
+    },
+    {
+      "audio_description": "David Mackey House\n197 words\n\nMackey House.  1 ½ minutes.  The Mackey House stands on the east side of Poplar Street, just south of the park entrance at Wetherell Street.  The house is about eight feet from the boardwalk, but it’s separated by a white picket fence 3 ½ feet high.  The Mackey House is not open to the public.\n\nThe narrow plain yellow house is two stories tall and 12 feet across.  Dark grey trim outlines the four front-facing windows and door.  A brown shingled awning overhangs the doorway and brown shingles cover the building’s pitched roof.  A single brick chimney perches atop the plain wooden house.\n\nA small brown sign is affixed to the fence, just to the left of the gate.  Gold lettering on the 6-inch-by-8-inch sign reads:\n\n“The Mackey House – David Mackey, a local carpenter, built this house between 1869 and 1871.  He lived in this home until 1876.  Mackey also ran a butcher shop and served as Mayor of West Branch in 1879 and Postmaster in 1885.\n\n“Built several years before his birth, this would have been a familiar landmark to young Herbert Hoover.  Adaptive restoration of the Mackey House was completed in 1985.”  \n\nEnd of message.\n",
+      "description": "In 1869, carpenter David Mackey, who designed and built this humble two-story home. The cheerful yellow house would have been a familiar landmark to the young Herbert Hoover.  Just a few years after construction was complete, David’s wife Mary died, leaving the carpenter with a baby son named Charles. The young widower, one of the town's few Democrats, was elected the Mayor of West Branch in 1879. Of the homes in the core area dating back to Hoover's boyhood, this house and the Wright House, across the street, have been the least altered in appearance.",
+      "geofence_buffer_in_meters": 10,
+      "id": 404,
+      "latitude": 41.67083,
+      "longitude": -91.347448,
+      "map_thumbnail_image": 445,
+      "media": [
+        373
+      ],
+      "name": "David Mackey House",
+      "name_description": "David Mackey’s cheerful yellow home would have been a familiar landmark to young Herbert.",
+      "primary_image": 373,
+      "type": "Residence"
+    },
+    {
+      "audio_description": "Citizen’s Savings Bank Building\n189 words\n\nCitizen’s Savings Bank Building.  1 ¼ minutes.  The Citizen’s Savings Bank Building is located at 101 North Downey Street, at the northwest corner of North Downey and Main Streets.  The two-story building faces onto Downey Street and is about 20 feet wide.  The first-floor façade is made of polished limestone, with grand pilasters on either side of a tall central doorway.  The words “Citizen’s Savings Bank” are carved into a frieze above the door.  The doorway and two large first-floor windows are trimmed in deep forest green.  A plaque near the corner, about 4 feet above the ground, reads:\n\n“This property has been placed on the National Register of Historic Places by the United States Department of the Interior.”\n\nThe second-story façade and both floors of the Main Street frontage present a more humble appearance.  They are constructed from plain blonde brick with a simple repeating pattern of decorative brickwork below the roofline. \n\nThe sidewalk here is just one small step up from the street, and a curb-cut is available at the corner.  Please watch your step, as the sidewalk contains some cracks and uneven joints.\n\nEnd of message.\n",
+      "description": "In 1909 Citizens' Savings Bank relocated here on the northeast corner of North Downey and Main streets. Surviving the collapse of farm prices in 1921 but not the Great Depression, it was absorbed in 1934 by the West Branch State Bank, creating the First State Bank.",
+      "geofence_buffer_in_meters": 10,
+      "id": 416,
+      "latitude": 41.67153541,
+      "longitude": -91.34653866,
+      "map_thumbnail_image": 457,
+      "media": [
+        359
+      ],
+      "name": "Citizens' Savings Bank",
+      "name_description": "Citizens' Savings Bank moved here in 1909 until West Branch State Bank bought it in 1934.",
+      "primary_image": 359,
+      "type": "Bank"
+    },
+    {
+      "audio_description": "Leech Building\n203 words\n\nLeech Building.  1 ½ minutes.  The Leech Building is located at 103 North Downey Street, on the east side of the road.  It abuts the former Citizen’s Savings Bank on the right and the Leech-Gruwell Garage Building on the left. \n\nThe two-story structure features large storefront windows on the first floor, with a central doorway set back several feet from the sidewalk.  A four-foot band of vertical wooden slats runs above the first-floor windows and door; vertical slats also frame the first-floor on the left and right.  The building is painted a creamy yellowish color and the paint is peeling in many places.  The second-floor façade is constructed of beige brick.  Three rectangular windows are set into the second-floor façade below the flat roofline, all trimmed in a mustardy-tan.  \n\nA plaque placed in the lower left corner of the left-hand window reads:\n\n“This property has been placed on the National Register of Historic Places by the United States Department of the Interior.”\n\nThe sidewalk is one small step up from the street here, and there is a designated accessible parking spot directly in front of the building.  Please watch your step, as the sidewalk contains some cracks and uneven joints.\n\nEnd of message.\n",
+      "description": "Charles F. Schroeder had this building constructed in 1912 for his men’s clothing store. The modern store boasted large display windows and electric lights. Since that time, several shops have used the building and made alterations to its interior.",
+      "geofence_buffer_in_meters": 10,
+      "id": 417,
+      "latitude": 41.67159552,
+      "longitude": -91.34653866,
+      "map_thumbnail_image": 458,
+      "media": [
+        342
+      ],
+      "name": "Leech Building",
+      "name_description": "Charles Schroeder built this building for his men's clothing store in 1912.",
+      "primary_image": 342,
+      "type": "Store"
+    },
+    {
+      "audio_description": "The Opera Block\n254 words\n\nThe Opera Block.  1 ¾ minutes.  The Opera Block is located at 107-109 North Downey Street, on the east side of the road.  It abuts the Leech-Gruwell Garage Building to the right.  \n\nThe ornate two-story structure measures approximately 50 feet across its façade, making it the largest commercial building in downtown West Branch.  Three separate commercial spaces occupy the first floor, each with its own doorway and storefront window.  It’s one step up from the sidewalk to each door. Each door is set at a slight angle to the façade. \nSeveral colorful patterns and designs enliven the second floor of the façade in yellow and dark red against a background of greyish-green stone.  For example, a series of flattened yellow diamonds forms a narrow strip just above the first story.  Further up, pairs of yellow and red pilasters fill the spaces between the rectangular multi-paned windows of the second floor.  A number of horizontal stripes—both yellow and red—also stretch across the second floor, balancing the vertical lines of the pilasters.  \n\nAt the top of the building, a triangular panel juts up from the center of the horizontal roofline.  Yellow lettering spells out “Opera Block, 1895.”  On either side of this central sign are two smaller rectangular panels.  The panel on the left bears the name of the builder, “C.A. Macomber.”  The panel on the right reads: “Masonic Hall.”\n\nIt’s one step up from the street to the sidewalk here, but there’s a ramp to the left of the building.\n\nEnd of message.\n\n\n\f",
+      "description": "Charles A. Macomber constructed the most ambitious project of the era in 1895. The two-story Opera Block is still the largest commercial building downtown. Three stores shared the first floor. The top floor included the Masonic Lodge and a 500 seat theater with a 20 by 40 foot stage. “The Pastime” motion picture house took the upper space in 1912. A woodworking and antique store occupied the first floor prior to its restoration in 1986.",
+      "geofence_buffer_in_meters": 10,
+      "id": 419,
+      "latitude": 41.67183193,
+      "longitude": -91.34654135,
+      "map_thumbnail_image": 460,
+      "media": [
+        370
+      ],
+      "name": "The Opera Block",
+      "name_description": "Charles Macomber's opulent 1895 construction project included stores and a 500 seat theater.",
+      "primary_image": 370,
+      "type": "Theater"
+    },
+    {
+      "audio_description": "Patterson-Leech Building\n191 words\n\nPatterson-Leech Building.  1 ½ minutes.  The Patterson-Leech Building stands between the Veterans Memorial Building and the Gruwell-Crew Building on the north side of West Main Street.  Unlike most of the historic structures along Main Street, there is a small space—a foot or two wide—between the Patterson-Leech Building and its neighbors.  The building currently houses an antique shop.\n\nThe narrow wooden structure appears time- and weather-worn:  Some of the clapboard planks making up the second-floor façade are warped and uneven.  And the building as a whole seems to list slightly to the right.  Three wooden steps painted red lead up to the front door; there are handrails on both sides.  The first-floor is painted pale blue and trimmed with white.  There are two oversized four-paned windows on either side of the central door.  The second floor is mainly jade green, with blue and white around the windows.  The edges of a pitched roof poke out behind either side of the square-topped false façade.\n\nIt’s two small steps up from the street to the sidewalk here.  Or you can use the ramp at the corner of Poplar Street.\n End of message.\n",
+      "description": "In March 1890 Lavina Patterson opened a millinery shop here and lived with her family upstairs. Dr. L.J. Leech moved his medical offices here after fire damaged the buildings across the street in 1895. It remained Dr. Leech's office until his death in 1937.",
+      "geofence_buffer_in_meters": 10,
+      "id": 425,
+      "latitude": 41.67153141,
+      "longitude": -91.34712875,
+      "map_thumbnail_image": 466,
+      "media": [
+        332
+      ],
+      "name": "Patterson-Leech Building",
+      "name_description": "In 1890 Lavina Patterson opened a millinery shop and lived with her family upstairs.",
+      "primary_image": 332,
+      "type": "Shop"
+    },
+    {
+      "audio_description": "The Union Block\n191 words\n\nThe Union Block.  1 ¼ minutes.  The Union Block is a large brick building located on the south side of West Main Street between the former West Branch Bank Building on the left and the Earliest Citizens’ Savings Bank Building on the right.\n\nThe Union Block is 40 feet wide, housing two separate commercial spaces on it first floor.  Three central doors are flanked by two large storefront windows.  The doors are set back a few feet from the sidewalk and there’s small step up to reach the flagstone entryway.  The first-floor windows and doors are trimmed in a deep forest green.   \n\nOn the second floor, the natural brick is exposed, inset with seven narrow rectangular windows.  Rounded lintels of alternating brick and limestone top the windows.  Above that, an ornate wooden cornice runs below the horizontal roofline.  The cornice is custard-colored, accented with cream, and a central panel about 10 feet wide displays the words “Union Block” in cream-colored capital letters.\n\nIt’s just one step up from the street to the sidewalk here.  You can also use the ramp at the corner of Downey or Poplar Street.\n \nEnd of message.\n",
+      "description": "T. Butler and Dr. L.J. Leech agreed to jointly finance this structure in 1895. The west half of the building housed a meat market on the first floor and the lodge of the Modern Woodmen of American on the second. The east side was rented to Bert Gill for the union Block Drug Store. Since then the building has housed several shops, cafes, and offices.",
+      "geofence_buffer_in_meters": 10,
+      "id": 424,
+      "latitude": 41.67127095,
+      "longitude": -91.34710729,
+      "map_thumbnail_image": 465,
+      "media": [
+        360
+      ],
+      "name": "The Union Block",
+      "name_description": "Partners L.J. Leech and J.T. Butler rebuilt a meat market in brick after a fire in 1895.",
+      "primary_image": 360,
+      "type": "Market"
     }
   ],
   "tours": [
@@ -4121,13 +4185,19 @@
           "id": 403
         },
         {
-          "id": 408
+          "id": 408,
+          "media": [
+            368
+          ]
         },
         {
           "id": 413
         },
         {
-          "id": 414
+          "id": 414,
+          "media": [
+            341
+          ]
         }
       ],
       "tours_sites": [
