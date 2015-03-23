@@ -311,7 +311,7 @@
         "marker-size": "medium",
         "marker-symbol": "harbor",
         "name": "Boat Ramp",
-        "image": "http://www.nps.gov/anac/planyourvisit/boating_1.jpg"
+        "url": "http://www.nps.gov/anac/planyourvisit/Boating-and-Fishing.htm"
       },
       "geometry": {
         "type": "Point",
