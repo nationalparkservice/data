@@ -3612,16 +3612,19 @@
       "type": "Store"
     },
     {
-      "audio_description": "Leech-Gruwell Garage Building\n220 words\n\nLeech-Gruwell Garage Building.  1 ½ minutes.  The Leech-Gruwell Garage Building is located at 105 North Downey Street, on the east side of the road.  It abuts the Leech Building on the right and the Opera Block on the left.\n\nThe Leech-Gruwell Garage is a two-story tan brick structure about 30 feet wide.  On the first floor, the door and two tall windows are set back a few feet from the street between a pair of storefront windows.  Another door is located on the far right.  Several decorative features adorn the first floor.  The windows and doors are framed in cream-colored wood, and a row of green rectangles runs in a two-foot strip below them.  Above the windows and doors is a strip of opaque decorative glass divided into six rows of small squares textured with raised ridges and rows of inverted teardrop-shaped bumps. \n\nThe simpler second floor features three windows set into a basic brick pattern, each topped by a slightly curved lintel.  The top of the second floor is trimmed with beige wood siding about 5 feet wide just below the roofline.\n\nThe sidewalk inclines up very slightly at the front door, but watch your step here, as the concrete is cracked in spots.  It’s also one small step up to the sidewalk from Downey Street.\n\nEnd of message.\n\n",
-      "description": "Bert Leech and Harry Gruwell entered a partnership to build a garage and plumbing shop here in 1911. The members of the local Masonic Lodge helped construct this two-story brick building that would house the garage and plumbing shop on the street level and the lodge rooms on the second floor.",
+      "audio_description": "Veterans Memorial Building\n201 words\n\nVeterans Memorial Building.  1 ½  minutes.  The Veterans Memorial Building is located at 105 West Main Street.  It’s on the north side of the street, sandwiched in between the Old West Branch State Bank Building on the right and the green Patterson-Leech Building on the left.  \n\nThe two-story brick façade is painted a pale yellow.  Just below the flat roofline is a stone plaque  10 feet wide inscribed with the words:  “Veterans Memorial Building, World War II, 1941-1945.”  A five pointed metal star sits in between the first and second floors, about one foot across.  Otherwise, the building has few embellishments.\n\nThe entire building is about 20 feet wide, with a single door on the right-hand side of the façade.  It’s three steps up from the sidewalk to the door.  Today, the building serves as a private residence with a guitar-making shop on the first floor.  Storefront windows to the left of the front door offer views into the shop.  Dark green cloth awnings overhang the windows and door.\n\nHere, the sidewalk is two steep steps up from the street.  There is also a ramp at the corner of Poplar Street about a hundred feet to your left.\n\nEnd of message.\n",
+      "description": "The War Memorial Building is a reminder of the significant building it replaced, an 1887 building which once housed the Indian Industrial School, a Quaker school for Indian Children. The War Memorial Building, built in 1948, honors veterans of World War II. ",
       "geofence_buffer_in_meters": 10,
-      "id": 418,
-      "latitude": 41.6716896833636,
-      "longitude": -91.3465440273285,
-      "map_thumbnail_image": 459,
-      "name": "Leech-Gruwell Garage",
-      "name_description": "Partners Bert Leech and Harry Gruwell opened their garage and plumbing shop in 1911.",
-      "type": "Shop"
+      "id": 423,
+      "latitude": 41.6715294,
+      "longitude": -91.34703219,
+      "map_thumbnail_image": 464,
+      "media": [
+        367
+      ],
+      "name": "War Memorial Building",
+      "name_description": "The former building on this site once housed a Quaker school for Native Americans in 1883.",
+      "type": "Post Office"
     },
     {
       "audio_description": "Isaac Miles Farmstead\n322 words\n\nIsaac Miles Farmstead.  2 ¼ minutes.  The Isaac Miles Farm sits on the eastern edge of the Tallgrass Prairie, near Parkside Drive.  The farmstead can be reached by foot from the prairie trail or via a small gravel road from Parkside Drive.  Its six wooden structures stand on about two acres of land.  \n\nIf you are facing north from the center of the farm complex, the barn will be at 11:00 on the clock face.  It’s a simple red wooden structure about two stories high with a pitched roof of grey shingles.  At 9:00 is the machine shed, a ramshackle brown, one-story structure.  The machine shed is open on its east side, revealing an array of farming equipment stored inside.  At 7:00 is the chicken house—a low, brown, windowless construction with two metal ventilation chimneys on top.\n\nAt 5:00 is a small white shed and next to it, a large white farmhouse.  The house is a plain two-story structure with a double gabled roof.  Finally, at 2:00 is a small white garage with a steeply pitched roof of brown shingles.  Next to it stands a metal-framed windmill about 75 feet tall.\n\nA brown interpretive sign stands near the entrance to the farm at the prairie trail.  The sign is 8 ½ inches tall and 14 inches wide and angled at a 45% slant.  A gold-colored line drawing at the bottom shows a man leading a horse-drawn hay cart toward a distant farmhouse.  Above it, gold-colored lettering reads:\n\n“Isaac Miles Farm – Isaac Miles, a relative of the Hoovers, owned and operated this farm from 1878 to 1883.He helped his brother, Benjamin Miles, operate the Quakers’ West Branch Industrial School for Indian children.  Located on Main Street, the school served about 40 children from several tribes, including the Osage, Kaw, Cheyenne, Arapahoe, Sac, and Fox.  They were trained in agricultural and industrial skills at this farm and often played here.”\n\nEnd of message.\n",
@@ -3645,21 +3648,12 @@
       "latitude": 41.66617375,
       "longitude": -91.34762496,
       "map_thumbnail_image": 451,
+      "media": [
+        384
+      ],
       "name": "Isaac Miles Farmstead",
       "name_description": "The plowed fields of the Miles farm were typical of the landscape just outside Hoover’s home town.",
       "type": "Historic Buildings"
-    },
-    {
-      "audio_description": "Veterans Memorial Building\n201 words\n\nVeterans Memorial Building.  1 ½  minutes.  The Veterans Memorial Building is located at 105 West Main Street.  It’s on the north side of the street, sandwiched in between the Old West Branch State Bank Building on the right and the green Patterson-Leech Building on the left.  \n\nThe two-story brick façade is painted a pale yellow.  Just below the flat roofline is a stone plaque  10 feet wide inscribed with the words:  “Veterans Memorial Building, World War II, 1941-1945.”  A five pointed metal star sits in between the first and second floors, about one foot across.  Otherwise, the building has few embellishments.\n\nThe entire building is about 20 feet wide, with a single door on the right-hand side of the façade.  It’s three steps up from the sidewalk to the door.  Today, the building serves as a private residence with a guitar-making shop on the first floor.  Storefront windows to the left of the front door offer views into the shop.  Dark green cloth awnings overhang the windows and door.\n\nHere, the sidewalk is two steep steps up from the street.  There is also a ramp at the corner of Poplar Street about a hundred feet to your left.\n\nEnd of message.\n",
-      "description": "The War Memorial Building is a reminder of the significant building it replaced, an 1887 building which once housed the Indian Industrial School, a Quaker school for Indian Children. The War Memorial Building, built in 1948, honors veterans of World War II. ",
-      "geofence_buffer_in_meters": 10,
-      "id": 423,
-      "latitude": 41.67152940148,
-      "longitude": -91.3470321893692,
-      "map_thumbnail_image": 464,
-      "name": "War Memorial Building",
-      "name_description": "The former building on this site once housed a Quaker school for Native Americans in 1883.",
-      "type": "Post Office"
     },
     {
       "audio_description": "Laban Miles House\n318 words\n\nLaban Miles House.  2 ¼ minutes.  The Laban Miles House is located at the southeast corner of Downey and Wetherell Streets.  Although Downey Street is only for pedestrians within the historic site, Wetherell Street is open to vehicular traffic, so please be alert.  If you are heading north on Downey Street, a log blocks the way just before you reach Wetherell.  For safety, use the boardwalk, which ramps down gently to Wetherell Street just north of the Laban Miles House.   \n\nThe wooden, two-story Laban Miles House faces west onto Downey Street.  It’s 20 feet wide and 35 feet deep, with a single-story extension in the back.  The building is painted pale gold and accented with thin brown trim around its many windows.  The pitched roofline creates a wide gable above the second-floor windows.  A narrow porch frames the front door and is supported by two carved wooden posts.  The Laban Miles House is not open to the public.  \n\nA white picket fence separates the house from the boardwalk that runs along the east side of Downey Street.  The fence is about 3 ½ feet tall.  Just to the left of the gate, a small brown sign is mounted to the inside of the fence at a 45% angle.  The sign is 6 inches by 8 inches with gold-lettered text that reads as follows:\n\n“The Laban Miles House – Herbert Hoover’s distinguished uncle, Laban Miles, owned this house from 1875-1886, and Herbert would have visited the Miles family here on many occasions.  In 1878 Laban Miles moved his family to the Oklahoma territory where he had been appointed by President Hayes to serve as agent on the Osage and Kaw Indian reservation.  Upon leaving West Branch, Miles rented this home to Dr. Leech.  In 1882, after the death of his father, eight year old Herbert Hoover spent eight months with the Miles family on the Indian reservation.”  \n\nEnd of message.\n",
@@ -3691,9 +3685,12 @@
       "description": "Behind the brick facade stands the wood frame building of Edwin Grinnell's drug store and H.T. Hollingsworth's watch repair. This building, the oldest surviving store, may date back to 1869. A series of jewelers and druggists occupied the building until 1924 when Fred Albin bought it for his meat market. He added the back room and brick facade.",
       "geofence_buffer_in_meters": 10,
       "id": 428,
-      "latitude": 41.6712709461022,
-      "longitude": -91.3474184274673,
+      "latitude": 41.67127095,
+      "longitude": -91.34741843,
       "map_thumbnail_image": 469,
+      "media": [
+        379
+      ],
       "name": "Grinnell Building",
       "name_description": "Edwin Grinnell’s building housed a succession of druggists and jewelers as far back as 1869.",
       "type": "Store"
@@ -3703,9 +3700,12 @@
       "description": "Built by Mayor S.C. Gruwell and businessman J.C. Crew shortly after the land was deeded in 1894, this is one of the older storefronts remaining along West Main Street, having been built shortly after the land was deeded in 1894. C.M. Paulsen had a music store here until 1910 when a harness shop occupied the building. It became a variety store in 1960. In recent years it has been the home of the West Branch Heritage Museum.",
       "geofence_buffer_in_meters": 10,
       "id": 426,
-      "latitude": 41.6715253944278,
-      "longitude": -91.3472601771355,
+      "latitude": 41.67152539,
+      "longitude": -91.34726018,
       "map_thumbnail_image": 467,
+      "media": [
+        330
+      ],
       "name": "Gruwell-Crew Building",
       "name_description": "Mayor S.C. Gruwell and businessman J. C. Crew acquired property and built a new building in 1894.",
       "type": "Store"
@@ -3715,9 +3715,12 @@
       "description": "Caleb H. Wickersham, postmaster of West Branch, contracted construction of this building in 1906. One year later, Wickersham signed the federal government to a 10 year lease to house the post office. The post office relocated in 1928 and in the ensuing years the building housed a number of different businesses. The Old Post Office collapsed during renovation in 2011. The present building incorporates bricks and design features, like the arch, from the Old Post Office in its facade.",
       "geofence_buffer_in_meters": 10,
       "id": 429,
-      "latitude": 41.6712729496363,
-      "longitude": -91.3474828004837,
+      "latitude": 41.67127295,
+      "longitude": -91.3474828,
       "map_thumbnail_image": 470,
+      "media": [
+        377
+      ],
       "name": "Old Post Office",
       "name_description": "After the post office moved in 1928, various shops used the building until it collapsed in 2011.",
       "type": "Post Office"
@@ -4016,6 +4019,21 @@
       "name": "Rich and Bailey Block",
       "name_description": "In 1895 Rich’s general store occupied one side of the building and Dr. Bailey’s offices the other. ",
       "type": "Store"
+    },
+    {
+      "audio_description": "Leech-Gruwell Garage Building\n220 words\n\nLeech-Gruwell Garage Building.  1 ½ minutes.  The Leech-Gruwell Garage Building is located at 105 North Downey Street, on the east side of the road.  It abuts the Leech Building on the right and the Opera Block on the left.\n\nThe Leech-Gruwell Garage is a two-story tan brick structure about 30 feet wide.  On the first floor, the door and two tall windows are set back a few feet from the street between a pair of storefront windows.  Another door is located on the far right.  Several decorative features adorn the first floor.  The windows and doors are framed in cream-colored wood, and a row of green rectangles runs in a two-foot strip below them.  Above the windows and doors is a strip of opaque decorative glass divided into six rows of small squares textured with raised ridges and rows of inverted teardrop-shaped bumps. \n\nThe simpler second floor features three windows set into a basic brick pattern, each topped by a slightly curved lintel.  The top of the second floor is trimmed with beige wood siding about 5 feet wide just below the roofline.\n\nThe sidewalk inclines up very slightly at the front door, but watch your step here, as the concrete is cracked in spots.  It’s also one small step up to the sidewalk from Downey Street.\n\nEnd of message.\n\n",
+      "description": "Bert Leech and Harry Gruwell entered a partnership to build a garage and plumbing shop here in 1911. The members of the local Masonic Lodge helped construct this two-story brick building that would house the garage and plumbing shop on the street level and the lodge rooms on the second floor.",
+      "geofence_buffer_in_meters": 10,
+      "id": 418,
+      "latitude": 41.67168968,
+      "longitude": -91.34654403,
+      "map_thumbnail_image": 459,
+      "media": [
+        354
+      ],
+      "name": "Leech-Gruwell Garage",
+      "name_description": "Partners Bert Leech and Harry Gruwell opened their garage and plumbing shop in 1911.",
+      "type": "Shop"
     }
   ],
   "tours": [
