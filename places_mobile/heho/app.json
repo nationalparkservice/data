@@ -3270,13 +3270,13 @@
     },
     {
       "audio_description": "Earliest Citizen’s Savings Bank Building\n247 words\n\nEarliest Citizen’s Savings Bank Building.  1 ¾ minutes.  This building was home to the Citizen’s Savings Bank before the bank moved into grander quarters at the corner of Main Street and Downey Street in 1909.  The structure here on the south side of West Main Street between the Union Block and the Grinnell Building is about 20 feet wide and two stories tall.   No longer a bank, it currently houses Main Street Antiques and Art.\n\nThe first floor of the mainly brick building features a large storefront window on the right and a pair of doors on the left.  The doors are set back a couple of feet, and there is a slight ramp up from the sidewalk.  The first-floor windows and doors are framed in wood, which is painted custard-yellow with red, green, beige, and brown accents.  On the second floor, four round-topped windows are set into a two-toned brick façade.  Below the horizontal roofline, a decorative wooden cornice is embellished in the same multi-hued palate as the first floor.\n\nThere’s a metal plaque on the far right edge of the first-floor façade, about four feet off the ground.  It is inscribed with the following words:\n\nThis property has been placed on the National Register of Historic Places by the United States Department of the Interior.\n\nThe sidewalk is one step up from the street here and a ramp is available to the right of the building at the corner of Poplar Street.\n\nEnd of message.\n",
-      "description": "Commercial growth prompted the establishment of a second downtown bank in 1898. In 1898 the Citizens' Savings Bank moved into the new brick building. The principal shareholders used local material dealers and contractors for construction. The front featured a dazzling 8 by 11 foot plate glass window. Since 1909 this building has been occupied by small businesses.",
+      "description": "Commercial growth prompted the establishment of a second downtown bank in 1898, the Citizens' Savings Bank. The principal shareholders used local material dealers and contractors for construction. The front featured a dazzling 8 by 11 foot plate glass window. Since 1909 this building has been occupied by small businesses.",
       "geofence_buffer_in_meters": 10,
       "id": 427,
       "latitude": 41.6712709461022,
       "longitude": -91.3472387194633,
       "map_thumbnail_image": 468,
-      "name": "Earliest Citizen's Savings Bank (1898), 110 W. Main Street",
+      "name": "Earliest Citizen's Savings Bank",
       "name_description": "Commercial growth prompted the establishment of a second downtown bank in 1898.",
       "type": "Bank"
     },
@@ -3583,7 +3583,7 @@
     },
     {
       "audio_description": "Travelers’ Rest (Underground Railroad Stop)\n165 words\n\nTravelers’ Rest (Underground Railroad Stop).  1 ¼ minute.  The site of the former Travelers’ Rest underground railroad stop is a small white house on East Main Street.  This is a typical suburban neighborhood, and the building is not unusual or unique.  It is a simple wooden clapboard structure—two stories in the front and one story in the back.  A slate-grey shingled roof slopes down to the façade, which is about 20 feet across.  Two first-floor windows and a central door face the street, trimmed in black paint.  \n\nThe ground slopes down slightly from the street to the house.  A cracked and worn driveway leads down about 30 feet to a covered carport in front of the building.  A few bushes and small trees are scattered around the property.  \n\nThis house and property is a private residence. It is not open to visitors. There is no public parking area or shoulder along this stretch of road, so remain alert for passing traffic.\n\nEnd of message.  \n",
-      "description": "James Townsend owned Traveler's Rest, an inn where abolitionist John Brown stayed when passing through West Branch in 1856. Brown later trained part of his army in nearby Springdale for their 1859 attack on Harper's Ferry, Virigina. The raiders included two young local men, brothers Barclay and Edwin Coppock.",
+      "description": "James Townsend owned Traveler's Rest, an inn where abolitionist John Brown stayed when passing through West Branch in 1856. Brown later trained part of his army in nearby Springdale for their 1859 attack on Harper's Ferry, Virigina. The raiders included two young local men, brothers Barclay and Edwin Coppock. \n\nToday it is a private residence.",
       "geofence_buffer_in_meters": 10,
       "id": 415,
       "information": [
@@ -3597,65 +3597,29 @@
       "map_thumbnail_image": 456,
       "name": "Traveler's Rest",
       "name_description": "Abolitionist John Brown stayed at Travelers Rest while passing through West Branch in 1856.",
-      "type": "Inn"
+      "type": "Historic Inn"
     },
     {
       "audio_description": "Leech Building\n203 words\n\nLeech Building.  1 ½ minutes.  The Leech Building is located at 103 North Downey Street, on the east side of the road.  It abuts the former Citizen’s Savings Bank on the right and the Leech-Gruwell Garage Building on the left. \n\nThe two-story structure features large storefront windows on the first floor, with a central doorway set back several feet from the sidewalk.  A four-foot band of vertical wooden slats runs above the first-floor windows and door; vertical slats also frame the first-floor on the left and right.  The building is painted a creamy yellowish color and the paint is peeling in many places.  The second-floor façade is constructed of beige brick.  Three rectangular windows are set into the second-floor façade below the flat roofline, all trimmed in a mustardy-tan.  \n\nA plaque placed in the lower left corner of the left-hand window reads:\n\n“This property has been placed on the National Register of Historic Places by the United States Department of the Interior.”\n\nThe sidewalk is one small step up from the street here, and there is a designated accessible parking spot directly in front of the building.  Please watch your step, as the sidewalk contains some cracks and uneven joints.\n\nEnd of message.\n",
-      "description": "Charles F. Schroeder had this building constructed in 1912 for his men’s clothing store. The modern store boasted large display windows and electric lights. since that time, several shops have used the building and made alterations to its interior.",
+      "description": "Charles F. Schroeder had this building constructed in 1912 for his men’s clothing store. The modern store boasted large display windows and electric lights. Since that time, several shops have used the building and made alterations to its interior.",
       "geofence_buffer_in_meters": 10,
       "id": 417,
       "latitude": 41.6715955178053,
       "longitude": -91.3465386629105,
       "map_thumbnail_image": 458,
-      "name": "Leech Building (1912), 103 N. Downey Street",
+      "name": "Leech Building",
       "name_description": "Charles Schroeder built this building for his men's clothing store in 1912.",
       "type": "Store"
     },
     {
-      "audio_description": "Citizen’s Savings Bank Building\n189 words\n\nCitizen’s Savings Bank Building.  1 ¼ minutes.  The Citizen’s Savings Bank Building is located at 101 North Downey Street, at the northwest corner of North Downey and Main Streets.  The two-story building faces onto Downey Street and is about 20 feet wide.  The first-floor façade is made of polished limestone, with grand pilasters on either side of a tall central doorway.  The words “Citizen’s Savings Bank” are carved into a frieze above the door.  The doorway and two large first-floor windows are trimmed in deep forest green.  A plaque near the corner, about 4 feet above the ground, reads:\n\n“This property has been placed on the National Register of Historic Places by the United States Department of the Interior.”\n\nThe second-story façade and both floors of the Main Street frontage present a more humble appearance.  They are constructed from plain blonde brick with a simple repeating pattern of decorative brickwork below the roofline. \n\nThe sidewalk here is just one small step up from the street, and a curb-cut is available at the corner.  Please watch your step, as the sidewalk contains some cracks and uneven joints.\n\nEnd of message.\n",
-      "description": "In 1909 Citizens' Savings Bank relocated here on the northeast corner of North Downey and Main streets. Surviving the collapse of farm prices in 1921 but not the Great Depression, it was absorbed in 1934 by the West Branch State Bank, creating the First State Bank.",
-      "geofence_buffer_in_meters": 10,
-      "id": 416,
-      "latitude": 41.6715354120579,
-      "longitude": -91.3465386629105,
-      "map_thumbnail_image": 457,
-      "name": "Citizens' Savings Bank (1908), 101 N. Downey Street",
-      "name_description": "Citizens' Savings Bank moved here in 1909 until West Branch State Bank bought it in 1934.",
-      "type": "Bank"
-    },
-    {
-      "audio_description": "The Opera Block\n254 words\n\nThe Opera Block.  1 ¾ minutes.  The Opera Block is located at 107-109 North Downey Street, on the east side of the road.  It abuts the Leech-Gruwell Garage Building to the right.  \n\nThe ornate two-story structure measures approximately 50 feet across its façade, making it the largest commercial building in downtown West Branch.  Three separate commercial spaces occupy the first floor, each with its own doorway and storefront window.  It’s one step up from the sidewalk to each door. Each door is set at a slight angle to the façade. \nSeveral colorful patterns and designs enliven the second floor of the façade in yellow and dark red against a background of greyish-green stone.  For example, a series of flattened yellow diamonds forms a narrow strip just above the first story.  Further up, pairs of yellow and red pilasters fill the spaces between the rectangular multi-paned windows of the second floor.  A number of horizontal stripes—both yellow and red—also stretch across the second floor, balancing the vertical lines of the pilasters.  \n\nAt the top of the building, a triangular panel juts up from the center of the horizontal roofline.  Yellow lettering spells out “Opera Block, 1895.”  On either side of this central sign are two smaller rectangular panels.  The panel on the left bears the name of the builder, “C.A. Macomber.”  The panel on the right reads: “Masonic Hall.”\n\nIt’s one step up from the street to the sidewalk here, but there’s a ramp to the left of the building.\n\nEnd of message.\n\n\n\f",
-      "description": "Charles A. Macomber constructed the most ambitious project of the era in 1895. The two-story Opera Block is still the largest commercial building downtown. Three stores shared the first floor. the top floor included the Masonic Lodge and a 500 seat heater with a 20 by 40 foot stage. “The Pastime” motion picture house took the upper space in 1912. A woodworking and antique store occupied the first floor prior to its restoration in 1986.",
-      "geofence_buffer_in_meters": 10,
-      "id": 419,
-      "latitude": 41.6718319332009,
-      "longitude": -91.3465413451195,
-      "map_thumbnail_image": 460,
-      "name": "The Opera Block (1895) 107-109 N. Downey Street",
-      "name_description": "Charles Macomber's opulent 1895 construction project included stores and a 500 seat theater.",
-      "type": "Theater"
-    },
-    {
-      "audio_description": "Veterans Memorial Building\n201 words\n\nVeterans Memorial Building.  1 ½  minutes.  The Veterans Memorial Building is located at 105 West Main Street.  It’s on the north side of the street, sandwiched in between the Old West Branch State Bank Building on the right and the green Patterson-Leech Building on the left.  \n\nThe two-story brick façade is painted a pale yellow.  Just below the flat roofline is a stone plaque  10 feet wide inscribed with the words:  “Veterans Memorial Building, World War II, 1941-1945.”  A five pointed metal star sits in between the first and second floors, about one foot across.  Otherwise, the building has few embellishments.\n\nThe entire building is about 20 feet wide, with a single door on the right-hand side of the façade.  It’s three steps up from the sidewalk to the door.  Today, the building serves as a private residence with a guitar-making shop on the first floor.  Storefront windows to the left of the front door offer views into the shop.  Dark green cloth awnings overhang the windows and door.\n\nHere, the sidewalk is two steep steps up from the street.  There is also a ramp at the corner of Poplar Street about a hundred feet to your left.\n\nEnd of message.\n",
-      "description": "The War Memorial Building, built in 1948, honors veterans of World War II. The first floor served as the post office and the local American Legion used the basement and upstairs. An antique shop replaced the post office in 1970.",
-      "geofence_buffer_in_meters": 10,
-      "id": 423,
-      "latitude": 41.67152940148,
-      "longitude": -91.3470321893692,
-      "map_thumbnail_image": 464,
-      "name": "War Memorial Building (1947), 105 W. Main Street",
-      "name_description": "The former building on this site once housed a Quaker school for Native Americans in 1883.",
-      "type": "Post Office"
-    },
-    {
       "audio_description": "Leech-Gruwell Garage Building\n220 words\n\nLeech-Gruwell Garage Building.  1 ½ minutes.  The Leech-Gruwell Garage Building is located at 105 North Downey Street, on the east side of the road.  It abuts the Leech Building on the right and the Opera Block on the left.\n\nThe Leech-Gruwell Garage is a two-story tan brick structure about 30 feet wide.  On the first floor, the door and two tall windows are set back a few feet from the street between a pair of storefront windows.  Another door is located on the far right.  Several decorative features adorn the first floor.  The windows and doors are framed in cream-colored wood, and a row of green rectangles runs in a two-foot strip below them.  Above the windows and doors is a strip of opaque decorative glass divided into six rows of small squares textured with raised ridges and rows of inverted teardrop-shaped bumps. \n\nThe simpler second floor features three windows set into a basic brick pattern, each topped by a slightly curved lintel.  The top of the second floor is trimmed with beige wood siding about 5 feet wide just below the roofline.\n\nThe sidewalk inclines up very slightly at the front door, but watch your step here, as the concrete is cracked in spots.  It’s also one small step up to the sidewalk from Downey Street.\n\nEnd of message.\n\n",
-      "description": "Bert Leech and Harry Gruwell entered a partnership to build a garage and plumbing shop here in 1911. the members of the local masonic Lodge helped construct this two-story brick building that would house the garage and plumbing shop on the street level and the lodge rooms on the second floor.",
+      "description": "Bert Leech and Harry Gruwell entered a partnership to build a garage and plumbing shop here in 1911. The members of the local Masonic Lodge helped construct this two-story brick building that would house the garage and plumbing shop on the street level and the lodge rooms on the second floor.",
       "geofence_buffer_in_meters": 10,
       "id": 418,
       "latitude": 41.6716896833636,
       "longitude": -91.3465440273285,
       "map_thumbnail_image": 459,
-      "name": "Leech-Gruwell Garage (1911) 105 N. Downey",
+      "name": "Leech-Gruwell Garage",
       "name_description": "Partners Bert Leech and Harry Gruwell opened their garage and plumbing shop in 1911.",
       "type": "Shop"
     },
@@ -3686,16 +3650,16 @@
       "type": "Historic Buildings"
     },
     {
-      "audio_description": "The Union Block\n191 words\n\nThe Union Block.  1 ¼ minutes.  The Union Block is a large brick building located on the south side of West Main Street between the former West Branch Bank Building on the left and the Earliest Citizens’ Savings Bank Building on the right.\n\nThe Union Block is 40 feet wide, housing two separate commercial spaces on it first floor.  Three central doors are flanked by two large storefront windows.  The doors are set back a few feet from the sidewalk and there’s small step up to reach the flagstone entryway.  The first-floor windows and doors are trimmed in a deep forest green.   \n\nOn the second floor, the natural brick is exposed, inset with seven narrow rectangular windows.  Rounded lintels of alternating brick and limestone top the windows.  Above that, an ornate wooden cornice runs below the horizontal roofline.  The cornice is custard-colored, accented with cream, and a central panel about 10 feet wide displays the words “Union Block” in cream-colored capital letters.\n\nIt’s just one step up from the street to the sidewalk here.  You can also use the ramp at the corner of Downey or Poplar Street.\n \nEnd of message.\n",
-      "description": "T. Butler and Dr. L.J. Leech agreed to jointly finance this structure in 1895. The west half of the building housed a meat market on the first floor and the lodge of the Modern Woodmen of American on the second. The east side was rented to Bert Gill for the union Block Drug Store. Since then the building has housed several shops, cafes, and offices.",
+      "audio_description": "Veterans Memorial Building\n201 words\n\nVeterans Memorial Building.  1 ½  minutes.  The Veterans Memorial Building is located at 105 West Main Street.  It’s on the north side of the street, sandwiched in between the Old West Branch State Bank Building on the right and the green Patterson-Leech Building on the left.  \n\nThe two-story brick façade is painted a pale yellow.  Just below the flat roofline is a stone plaque  10 feet wide inscribed with the words:  “Veterans Memorial Building, World War II, 1941-1945.”  A five pointed metal star sits in between the first and second floors, about one foot across.  Otherwise, the building has few embellishments.\n\nThe entire building is about 20 feet wide, with a single door on the right-hand side of the façade.  It’s three steps up from the sidewalk to the door.  Today, the building serves as a private residence with a guitar-making shop on the first floor.  Storefront windows to the left of the front door offer views into the shop.  Dark green cloth awnings overhang the windows and door.\n\nHere, the sidewalk is two steep steps up from the street.  There is also a ramp at the corner of Poplar Street about a hundred feet to your left.\n\nEnd of message.\n",
+      "description": "The War Memorial Building is a reminder of the significant building it replaced, an 1887 building which once housed the Indian Industrial School, a Quaker school for Indian Children. The War Memorial Building, built in 1948, honors veterans of World War II. ",
       "geofence_buffer_in_meters": 10,
-      "id": 424,
-      "latitude": 41.6712709461022,
-      "longitude": -91.3471072912216,
-      "map_thumbnail_image": 465,
-      "name": "The Union Block (1895),  106-108 W. Main Street",
-      "name_description": "Partners L.J. Leech and J.T. Butler rebuilt a meat market in brick after a fire in 1895.",
-      "type": "Market"
+      "id": 423,
+      "latitude": 41.67152940148,
+      "longitude": -91.3470321893692,
+      "map_thumbnail_image": 464,
+      "name": "War Memorial Building",
+      "name_description": "The former building on this site once housed a Quaker school for Native Americans in 1883.",
+      "type": "Post Office"
     },
     {
       "audio_description": "Laban Miles House\n318 words\n\nLaban Miles House.  2 ¼ minutes.  The Laban Miles House is located at the southeast corner of Downey and Wetherell Streets.  Although Downey Street is only for pedestrians within the historic site, Wetherell Street is open to vehicular traffic, so please be alert.  If you are heading north on Downey Street, a log blocks the way just before you reach Wetherell.  For safety, use the boardwalk, which ramps down gently to Wetherell Street just north of the Laban Miles House.   \n\nThe wooden, two-story Laban Miles House faces west onto Downey Street.  It’s 20 feet wide and 35 feet deep, with a single-story extension in the back.  The building is painted pale gold and accented with thin brown trim around its many windows.  The pitched roofline creates a wide gable above the second-floor windows.  A narrow porch frames the front door and is supported by two carved wooden posts.  The Laban Miles House is not open to the public.  \n\nA white picket fence separates the house from the boardwalk that runs along the east side of Downey Street.  The fence is about 3 ½ feet tall.  Just to the left of the gate, a small brown sign is mounted to the inside of the fence at a 45% angle.  The sign is 6 inches by 8 inches with gold-lettered text that reads as follows:\n\n“The Laban Miles House – Herbert Hoover’s distinguished uncle, Laban Miles, owned this house from 1875-1886, and Herbert would have visited the Miles family here on many occasions.  In 1878 Laban Miles moved his family to the Oklahoma territory where he had been appointed by President Hayes to serve as agent on the Osage and Kaw Indian reservation.  Upon leaving West Branch, Miles rented this home to Dr. Leech.  In 1882, after the death of his father, eight year old Herbert Hoover spent eight months with the Miles family on the Indian reservation.”  \n\nEnd of message.\n",
@@ -3730,57 +3694,33 @@
       "latitude": 41.6712709461022,
       "longitude": -91.3474184274673,
       "map_thumbnail_image": 469,
-      "name": "Grinnell Building (1869) 112 W. Main Street",
+      "name": "Grinnell Building",
       "name_description": "Edwin Grinnell’s building housed a succession of druggists and jewelers as far back as 1869.",
       "type": "Store"
     },
     {
-      "audio_description": "Crook’s Hotel\n196 words\n\nCrook’s Hotel.  1 ½ minutes.  The former Crook’s Hotel is located at 102 West Main Street in downtown West Branch.  On the right, the building abuts the former West Branch Bank Building; on the left is the pedestrian extension of Downey Street, which leads into the Herbert Hoover National Historic Site.  \n\nThe mostly wooden structure stands on a cement base 2 to 3 feet high.  The rest of the building is painted a cream color and accented with light grey.   In the center of the 25-foot wide façade, a double set of stairs lead to a pair of entrances.  There are six steps up on either side of a central railing.  Large storefront windows are located to the left and right of the stairs, above the concrete base.  \n\nThe second story is of clapboard construction with three rectangular windows.  A small double third-floor window is set into the gable of the wide pitched roof.  A central chimney sticks up from the peak.  \n\nIt’s just one step up from the street to the sidewalk here, and there is a curb cut at the corner of Downey Street, just to the left of the building.  \n\nEnd of message.\n",
-      "description": "Nate Crook owned and operated a barber shop and restaurant in this building in 1871. By 1877 he had expanded his operation to include a hotel and livery. Over the years the building has housed several hotels and restaurants.",
-      "geofence_buffer_in_meters": 10,
-      "id": 421,
-      "latitude": 41.671260928431,
-      "longitude": -91.3468042016029,
-      "map_thumbnail_image": 462,
-      "name": "Crook's Hotel (1870), 102 W. Main Street",
-      "name_description": "Nate Crook expanded his barber shop and restaurant to include hotel, livery, and stable in 1877.",
-      "type": "Hotel"
-    },
-    {
       "audio_description": "Gruwell-Crew Building/Heritage Museum\n187 words\n\nGruwell-Crew Building.  1 ¼ minutes.  The Gruwell-Crew Building is located at 109 West Main Street, on the north side of the road.  The restored one-story structure is mostly wood, on a one-and-a-half-foot foundation of rough-hewn stone.  The building is home to the West Branch Heritage Museum.  It’s a small, colorful building, about 18 feet wide.   Four steps lead up to the rustic double-doors of carved wood and glass.  Wooden handrails on either side of the wide staircase will guide your way.  The central doors are flanked on either side by storefront windows framed in yellow and orange.  A rust-orange awning hangs down over the entire first-floor façade.  \n\nAbove the awning, a flat-topped false front hides the gently pitched roof behind it.  This rectangular strip of clapboard construction is about five feet high and painted dark green.   A yellow wooden plaque about one foot high and five feet wide near the top reads:  “Heritage Museum, West Branch, Iowa.”  \n\nThe sidewalk here is just one step up from the street, and there’s a ramp about 50 feet to your left at the corner of Poplar Street.\n\nEnd of message.\n",
-      "description": "Built by Mayor S.C. Gruwell and businessman J.C. Crew shortly after the land was deeded in 1894, this is one of the older storefronts remaining along West Main Street, having been built shortly after the land was deeded in 1894. C.M. Paulsen had a music store here until a harness shop occupied the building in about 1910. it because a variety store in 1960. In recent years it has been the home of the West Branch Heritage Museum.",
+      "description": "Built by Mayor S.C. Gruwell and businessman J.C. Crew shortly after the land was deeded in 1894, this is one of the older storefronts remaining along West Main Street, having been built shortly after the land was deeded in 1894. C.M. Paulsen had a music store here until 1910 when a harness shop occupied the building. It became a variety store in 1960. In recent years it has been the home of the West Branch Heritage Museum.",
       "geofence_buffer_in_meters": 10,
       "id": 426,
       "latitude": 41.6715253944278,
       "longitude": -91.3472601771355,
       "map_thumbnail_image": 467,
-      "name": "Gruwell-Crew Building (1894), 109 W. Main Street)",
+      "name": "Gruwell-Crew Building",
       "name_description": "Mayor S.C. Gruwell and businessman J. C. Crew acquired property and built a new building in 1894.",
       "type": "Store"
     },
     {
       "audio_description": "Old Post Office Building \n182 words\n\nOld Post Office Building.  1 ¼ minutes.  This is the site of the Old West Branch Post Office Building, near the southeast corner of Poplar and West Main Streets.  The Old Post Office collapsed in 2010 and the current structure was erected the same year.  \n\nA large brick archway spans nearly the entire width of the 20-foot square brick façade.  At the apex of the arch, about 12 feet off the ground, is a keystone with the date 2010.  A flagpole with an American flag sticks straight up from just above the keystone past the top of the flat roofline.  \n\nThe building’s windows and front door are set back a few feet within the archway.  The door is on the right side as you face the building, and there are three tall windows to the left of it.  The window frames and door are painted dark green against a yellow background.\n\nIt’s just one step up from the street to the sidewalk here, and there’s a ramp at the corner of Poplar Street, to the right of the building.\n\nEnd of message.\n",
-      "description": "Caleb H. Wickersham, postmaster of West Branch, contracted construction of this building in 1906. One year later, Wickersham signed the federal government to a 10 year lease to house the post office. The post office relocated in 1928 and in the ensuing years the building housed a number of different business. The Old Post Office collapsed during renovation in 2011. The present building incorporates bricks and design features, like the arch, from the Old Post Office in its facade.",
+      "description": "Caleb H. Wickersham, postmaster of West Branch, contracted construction of this building in 1906. One year later, Wickersham signed the federal government to a 10 year lease to house the post office. The post office relocated in 1928 and in the ensuing years the building housed a number of different businesses. The Old Post Office collapsed during renovation in 2011. The present building incorporates bricks and design features, like the arch, from the Old Post Office in its facade.",
       "geofence_buffer_in_meters": 10,
       "id": 429,
       "latitude": 41.6712729496363,
       "longitude": -91.3474828004837,
       "map_thumbnail_image": 470,
-      "name": "Old Post Office (1907), 116 W. Main Street",
+      "name": "Old Post Office",
       "name_description": "After the post office moved in 1928, various shops used the building until it collapsed in 2011.",
       "type": "Post Office"
-    },
-    {
-      "audio_description": "Old West Branch State Bank\n284 words\n\nOld West Branch State Bank Building.  Two minutes.  The Old West Branch State Bank Building is located at the northwest corner of North Downey and Main Streets.  The stately structure faces south onto Main Street.  It abuts the smaller Veterans Memorial Building to the west.  The building is no longer used as a bank; it has been home to a variety of local businesses over the years.  \n\nThe State Bank Building is constructed of dark brick, trimmed with limestone.  A four-foot wide strip of limestone blocks forms the base of the structure.  Limestone also divides the first and second stories with a thinner band, and then appears again at the roofline.  Geometric designs are incised into the stone at the upper corners of the building.  An American flag flies from the pediment atop the south-facing façade.  Within the pediment is inscribed the date “1916.”  A similar pediment on the east-facing side of the building carried the inscription:  “State Bank.”\n\nAbove the central doorway on the south side, metal letters spell out the words “Old Bank.”  Just to the left of the door is a metal plaque, which reads:\n\n“This property has been placed on the National Register of Historic Places by the United States Department of the Interior.”\n\nThe sidewalk is about two feet higher than the street level here and about seven to eight feet wide from the building’s front to the edge, so use caution.  Four steps lead up to the sidewalk at the corner and there is a ramp one block west at the corner of Main and Poplar Streets.  Once on the sidewalk, it’s another three steps up to the front door of the Old Bank Building.\n\n\nEnd of message.\n",
-      "description": "This large brick structure, built in 1916, housed the West Branch State Bank (previously named West Branch Bank). It replaced a bank building (circa 1877) which stood on the same site, but was razed to make room for the new, larger building. The bank took temporary quarters across the street during construction. It then occupied this building until 1974. Fred Albin rented the back for his meat market until 1924. The West Branch Telephone Company shared the second floor with Hubbard & Hubbard Chiropractors.",
-      "geofence_buffer_in_meters": 10,
-      "id": 420,
-      "latitude": 41.6715213873754,
-      "longitude": -91.3468685746193,
-      "map_thumbnail_image": 461,
-      "name": "Old West Branch State Bank (1916), 101 W. Main Street",
-      "name_description": "West Branch State Bank replaced an older bank building with a newer, larger building in 1916.",
-      "type": "Bank"
     },
     {
       "audio_description": "Birthplace Cottage – Back Porch and Backyard\n280 words\n\nBirthplace Cottage – Back porch and backyard.  Two minutes.  The back porch of the Birthplace Cottage is twelve feet wide and six feet deep.  It’s empty except for a rack of firewood to your left as you exit the back door.  Hinges also stick up from a hatch door in the porch floor, so watch your step.  To your right as you exit is the summer kitchen—a small room stocked with pots, pans, and other cooking implements.  In the summer, a Plexiglas partition blocks the lower half of the doorway to the summer kitchen; in the winter, a Plexiglas partition covers the entire doorway.\n\nThe porch sits about a foot-and-a-half off the ground, but a wooden ramp begins directly opposite the back door and leads down to the right, eventually connecting with the main boardwalk near the blacksmith shop. \n\nThe backyard also has several items of interest.  If you face straight ahead as you exit the cottage, a wooden privy will be about 50 feet away and a little to the right, at roughly one o'clock on the clock face.  It’s painted white, and a crescent moon is carved into its narrow door.  At nine o'clock, directly to your left, about 20 feet away are two wooden posts with two clotheslines strung between them. At ten o'clock on the clock face, ten feet to your left, a black water pump stands on a low wooden platform.  Just beyond it is a vegetable garden on a rectangular plot of land about 10 feet by 20 feet.  At approximately eleven o'clock, several hundred feet in the distance, an American flag flies at the gravesite of President and Mrs. Hoover.\n\nEnd of message.",
@@ -3881,18 +3821,6 @@
       "type": "Nonprofit"
     },
     {
-      "audio_description": "West Branch Bank Building\n160 words\n\nWest Branch Bank Building.  1 ¼ minutes.  The former West Branch Bank Building is a narrow, one-story structure tucked in between the former Crook’s Hotel and the Union Block Building on the south side of West Main Street.  \n\nGrey and white paint create an interplay of horizontal and vertical lines on the wooden façade, below the flat roofline.  A single door on the right-hand side is reached via a five-step stone staircase.  The stairs leads up from the left along the front of the building, and railings guide your way on either side.  A large, square four-paned window fills a large portion of the façade to the left of the front door.  The former bank building has housed a variety of commercial enterprises over the years.  \n\nIt’s one step up from the street to the sidewalk here.  There is also a ramp at the corner of Downey Street, about 25 feet to the east of the building.\n\nEnd of message.\n\n",
-      "description": "West Branch Bank was founded here in 1875 but moved across Main Street three years later. A variety of shops used this building over the years. In 1965 owners closed the original front door and cut an interior passage on the east into the building next door.",
-      "geofence_buffer_in_meters": 10,
-      "id": 422,
-      "latitude": 41.6712629319654,
-      "longitude": -91.3469275832176,
-      "map_thumbnail_image": 463,
-      "name": "West Branch Bank (1875), 104 W. Main Street",
-      "name_description": "West Branch’s first bank opened in 1875 before moving across the street three years later.",
-      "type": "Bank"
-    },
-    {
       "audio_description": "Graves of Jesse and Hulda Hoover\n221 words\n\nCemetery – Graves of Jesse and Hulda Hoover.  1 ½ minutes.  Herbert Hoover’s parents Jesse and Hulda Hoover are buried in this cemetery overlooking the town of West Branch.  The two gravestones stand next to each other several rows in from the road that circles this section of the cemetery.  As you face the grave markers, Jesse Hoover’s is on the left.  It’s about three feet high and a couple of inches thick, with a rounded top.  The passage of time has caused the white stone to blacken a bit around the edges.  The inscription reads:\n\n“Jesse C. Hoover – Died December 13, 1880, Aged 34 Years, 3 Months, & 11 Days.  Come unto me, all ye that labour and are heavy laden, and I will give you rest. – Matthew 11, 28”\n\nAbove the inscription, a circular relief is carved into the stone.  The image depicts a hand holding an open book.\n\nHulda Hoover’s tombstone is a foot-and-a-half tall, and several inches thick.  The top is gently rounded, but flatter than her husband’s.  The inscription reads:\n\n“Hulda R. Hoover – Died 2 Month 24, 1884, Aged 35 Years, 9 Months, 20 Days.  For if we believe that Jesus died and rose again, even so them which sleep in Jesus will God bring with him.”\n\nThe worn white stone is otherwise unembellished.  \n\nEnd of message.\n",
       "description": "Herbert Hoover's father and mother, Jesse and Hulda, are buried among relatives at West Branch city cemetery. ",
       "geofence_buffer_in_meters": 10,
@@ -3929,12 +3857,12 @@
           "name": "Early Interest In Geology"
         },
         {
-          "description": "The rail line was abandoned shortly after the Rock Island Railroad declared bankruptcy in 1980. Thanks to the efforts of local citizens, in 1990 the three miles of railroad right-of-way between West Branch and Oasis was reopened as a segment of the Herbert Hoover Nature Trail. The Cedar County Conservation Board operates the trail.",
-          "name": "Rail To Trail"
-        },
-        {
           "description": "The West Branch depot, built in 1871 and which once stood nearby, was the scene of orphaned eleven year old “Bert” Hoover's departure for a new and uncertain life in Oregon in 1885, and where Hoover made his triumphant return as the newly nominated Republican candidate for president in 1928.  ",
           "name": "Train Depot"
+        },
+        {
+          "description": "The rail line was abandoned shortly after the Rock Island Railroad declared bankruptcy in 1980. Thanks to the efforts of local citizens, in 1990 the three miles of railroad right-of-way between West Branch and Oasis was reopened as a segment of the Herbert Hoover Nature Trail. The Cedar County Conservation Board operates the trail.",
+          "name": "Rail To Trail"
         }
       ],
       "latitude": 41.673741,
@@ -3943,6 +3871,18 @@
       "name": "Hoover Nature Trail",
       "name_description": "The Hoover Nature Trail follows the railroad that passed through the president’s hometown.",
       "type": "Trailhead"
+    },
+    {
+      "audio_description": "Citizen’s Savings Bank Building\n189 words\n\nCitizen’s Savings Bank Building.  1 ¼ minutes.  The Citizen’s Savings Bank Building is located at 101 North Downey Street, at the northwest corner of North Downey and Main Streets.  The two-story building faces onto Downey Street and is about 20 feet wide.  The first-floor façade is made of polished limestone, with grand pilasters on either side of a tall central doorway.  The words “Citizen’s Savings Bank” are carved into a frieze above the door.  The doorway and two large first-floor windows are trimmed in deep forest green.  A plaque near the corner, about 4 feet above the ground, reads:\n\n“This property has been placed on the National Register of Historic Places by the United States Department of the Interior.”\n\nThe second-story façade and both floors of the Main Street frontage present a more humble appearance.  They are constructed from plain blonde brick with a simple repeating pattern of decorative brickwork below the roofline. \n\nThe sidewalk here is just one small step up from the street, and a curb-cut is available at the corner.  Please watch your step, as the sidewalk contains some cracks and uneven joints.\n\nEnd of message.\n",
+      "description": "In 1909 Citizens' Savings Bank relocated here on the northeast corner of North Downey and Main streets. Surviving the collapse of farm prices in 1921 but not the Great Depression, it was absorbed in 1934 by the West Branch State Bank, creating the First State Bank.",
+      "geofence_buffer_in_meters": 10,
+      "id": 416,
+      "latitude": 41.6715354120579,
+      "longitude": -91.3465386629105,
+      "map_thumbnail_image": 457,
+      "name": "Citizens' Savings Bank",
+      "name_description": "Citizens' Savings Bank moved here in 1909 until West Branch State Bank bought it in 1934.",
+      "type": "Bank"
     },
     {
       "audio_description": "Schoolhouse – Exterior\n333 words\n\nSchoolhouse – Exterior.  2 ½ minutes.  First of two descriptions at this location.  The schoolhouse is located about 50 feet to the northwest of the blacksmith shop off Penn Street.  The small wooden building is painted a creamy off-white.  The façade is 18 feet wide, with two rectangular windows on either side of a central doorway.  The grey shingled roof rises to a peak above the doorway, and a brick chimney pokes up from the back of the modest structure.  \n\nTwo wooden walkways provide access from the main boardwalk that runs along the north side of Penn Street.  If you take the path directly in front of the building, you will need to climb four steps up to the building’s entrance.  A second walkway about 20 feet to the right of that one provides access via ramp.  The ramp heads north for about 30 feet and then turns west for another 20 feet along the front of the building.  A metal railing lines the second half of the ramp.  Watch your step on all walkways, especially during inclement weather, as the wood can be slippery when wet.\n\nTo the left of the main stairs, a small brown sign about 6 by 8 inches sticks up from the ground on a two-foot wooden post.  The following is printed in gold-colored lettering:\n\n“Schoolhouse – The early settlers of West Branch had a strong regard for education, and in 1853 they built this school.  It was used not only as a school but as a place of worship for the members of the Society of Friends.  Originally the building housed all of the West Branch students, but by the time Herbert Hoover’s older brother Theodore was registered here, enrollment had increased and it was used only as a classroom for the primary students.  Increasing membership in the Society of Friends also necessitated the building of a larger meetinghouse in 1857.”  End of text.\n\nThe interior of the schoolhouse is described briefly in the next message.\n\nEnd of message.\n\nSchoolhouse – Interior\n237 words\n\nSchoolhouse – Interior.  1 ¾ minutes.  Second of two descriptions at this location.  When you enter the schoolhouse, a wall directly in front of you forces you to turn right.  As you walk around the wall, you emerge into the back right corner of a one-room schoolhouse.  A wooden railing and Plexiglas barrier about three feet high prevents you from moving beyond the back corner of the room.      \n\nThe space is about 18 feet by 18 feet, with a worn wooden floor.  Dark wood wainscoting covers the lower two feet of the walls; the rest of the walls and ceiling are painted white.  The room is furnished with wood student desks in wrought iron frames arranged in rows.  Reading texts and penmanship books, along with slate boards, have been placed neatly on the desks. Two small shelves hanging on the left-hand wall hold additional history and science texts.  A larger wooden teacher’s desk sits at the front of the classroom with a globe and a more books lined up along its back edge.  Portraits of George Washington and Abraham Lincoln hang on either side of the front wall above the blackboard.\n\nAt the back of the room, a black metal stovepipe rises up toward the ceiling from a dull black potbelly stove and out the front of the room.  Six rectangular curtained windows around the space shed a diffuse light on the rustic classroom scene.\n\nEnd of message.",
@@ -3984,36 +3924,96 @@
       "services": []
     },
     {
+      "audio_description": "The Opera Block\n254 words\n\nThe Opera Block.  1 ¾ minutes.  The Opera Block is located at 107-109 North Downey Street, on the east side of the road.  It abuts the Leech-Gruwell Garage Building to the right.  \n\nThe ornate two-story structure measures approximately 50 feet across its façade, making it the largest commercial building in downtown West Branch.  Three separate commercial spaces occupy the first floor, each with its own doorway and storefront window.  It’s one step up from the sidewalk to each door. Each door is set at a slight angle to the façade. \nSeveral colorful patterns and designs enliven the second floor of the façade in yellow and dark red against a background of greyish-green stone.  For example, a series of flattened yellow diamonds forms a narrow strip just above the first story.  Further up, pairs of yellow and red pilasters fill the spaces between the rectangular multi-paned windows of the second floor.  A number of horizontal stripes—both yellow and red—also stretch across the second floor, balancing the vertical lines of the pilasters.  \n\nAt the top of the building, a triangular panel juts up from the center of the horizontal roofline.  Yellow lettering spells out “Opera Block, 1895.”  On either side of this central sign are two smaller rectangular panels.  The panel on the left bears the name of the builder, “C.A. Macomber.”  The panel on the right reads: “Masonic Hall.”\n\nIt’s one step up from the street to the sidewalk here, but there’s a ramp to the left of the building.\n\nEnd of message.\n\n\n\f",
+      "description": "Charles A. Macomber constructed the most ambitious project of the era in 1895. The two-story Opera Block is still the largest commercial building downtown. Three stores shared the first floor. The top floor included the Masonic Lodge and a 500 seat theater with a 20 by 40 foot stage. “The Pastime” motion picture house took the upper space in 1912. A woodworking and antique store occupied the first floor prior to its restoration in 1986.",
+      "geofence_buffer_in_meters": 10,
+      "id": 419,
+      "latitude": 41.6718319332009,
+      "longitude": -91.3465413451195,
+      "map_thumbnail_image": 460,
+      "name": "The Opera Block",
+      "name_description": "Charles Macomber's opulent 1895 construction project included stores and a 500 seat theater.",
+      "type": "Theater"
+    },
+    {
+      "audio_description": "Old West Branch State Bank\n284 words\n\nOld West Branch State Bank Building.  Two minutes.  The Old West Branch State Bank Building is located at the northwest corner of North Downey and Main Streets.  The stately structure faces south onto Main Street.  It abuts the smaller Veterans Memorial Building to the west.  The building is no longer used as a bank; it has been home to a variety of local businesses over the years.  \n\nThe State Bank Building is constructed of dark brick, trimmed with limestone.  A four-foot wide strip of limestone blocks forms the base of the structure.  Limestone also divides the first and second stories with a thinner band, and then appears again at the roofline.  Geometric designs are incised into the stone at the upper corners of the building.  An American flag flies from the pediment atop the south-facing façade.  Within the pediment is inscribed the date “1916.”  A similar pediment on the east-facing side of the building carried the inscription:  “State Bank.”\n\nAbove the central doorway on the south side, metal letters spell out the words “Old Bank.”  Just to the left of the door is a metal plaque, which reads:\n\n“This property has been placed on the National Register of Historic Places by the United States Department of the Interior.”\n\nThe sidewalk is about two feet higher than the street level here and about seven to eight feet wide from the building’s front to the edge, so use caution.  Four steps lead up to the sidewalk at the corner and there is a ramp one block west at the corner of Main and Poplar Streets.  Once on the sidewalk, it’s another three steps up to the front door of the Old Bank Building.\n\n\nEnd of message.\n",
+      "description": "This large brick structure, built in 1916, housed the West Branch State Bank (previously named West Branch Bank). It replaced a bank building (circa 1877) that stood on the same site, but was razed to make room for the new, larger building. The bank took temporary quarters across the street during construction. It then occupied this building until 1974. Fred Albin rented the back for his meat market until 1924. The West Branch Telephone Company shared the second floor with Hubbard & Hubbard Chiropractors.",
+      "geofence_buffer_in_meters": 10,
+      "id": 420,
+      "latitude": 41.6715213873754,
+      "longitude": -91.3468685746193,
+      "map_thumbnail_image": 461,
+      "name": "Old West Branch State Bank",
+      "name_description": "West Branch State Bank replaced an older bank building with a newer, larger building in 1916.",
+      "type": "Bank"
+    },
+    {
       "description": "In 1904 Huldah Enlow donated the land and building for a public library. Later, an anonymous monetary gift financed construction of an expansion. In 1963, the front entrance was enclosed and in 1974, the basement was converted into a children's library. It remained a library until 1993.",
       "geofence_buffer_in_meters": 10,
       "id": 430,
       "latitude": 41.67127095,
       "longitude": -91.34789586,
       "map_thumbnail_image": 471,
-      "name": "Enlow Building (1904), 124 W. Main Street",
+      "name": "Enlow Building",
       "name_description": "In 1904 Huldah Enlow donated land and a building for public library.",
       "type": "Library"
     },
     {
+      "audio_description": "Crook’s Hotel\n196 words\n\nCrook’s Hotel.  1 ½ minutes.  The former Crook’s Hotel is located at 102 West Main Street in downtown West Branch.  On the right, the building abuts the former West Branch Bank Building; on the left is the pedestrian extension of Downey Street, which leads into the Herbert Hoover National Historic Site.  \n\nThe mostly wooden structure stands on a cement base 2 to 3 feet high.  The rest of the building is painted a cream color and accented with light grey.   In the center of the 25-foot wide façade, a double set of stairs lead to a pair of entrances.  There are six steps up on either side of a central railing.  Large storefront windows are located to the left and right of the stairs, above the concrete base.  \n\nThe second story is of clapboard construction with three rectangular windows.  A small double third-floor window is set into the gable of the wide pitched roof.  A central chimney sticks up from the peak.  \n\nIt’s just one step up from the street to the sidewalk here, and there is a curb cut at the corner of Downey Street, just to the left of the building.  \n\nEnd of message.\n",
+      "description": "Nate Crook owned and operated a barber shop and restaurant in this building in 1871. By 1877 he had expanded his operation to include a hotel and livery. Over the years the building has housed several hotels and restaurants.",
+      "geofence_buffer_in_meters": 10,
+      "id": 421,
+      "latitude": 41.671260928431,
+      "longitude": -91.3468042016029,
+      "map_thumbnail_image": 462,
+      "name": "Crook's Hotel",
+      "name_description": "Nate Crook expanded his barber shop and restaurant to include hotel, livery, and stable in 1877.",
+      "type": "Hotel"
+    },
+    {
+      "audio_description": "West Branch Bank Building\n160 words\n\nWest Branch Bank Building.  1 ¼ minutes.  The former West Branch Bank Building is a narrow, one-story structure tucked in between the former Crook’s Hotel and the Union Block Building on the south side of West Main Street.  \n\nGrey and white paint create an interplay of horizontal and vertical lines on the wooden façade, below the flat roofline.  A single door on the right-hand side is reached via a five-step stone staircase.  The stairs leads up from the left along the front of the building, and railings guide your way on either side.  A large, square four-paned window fills a large portion of the façade to the left of the front door.  The former bank building has housed a variety of commercial enterprises over the years.  \n\nIt’s one step up from the street to the sidewalk here.  There is also a ramp at the corner of Downey Street, about 25 feet to the east of the building.\n\nEnd of message.\n\n",
+      "description": "West Branch Bank was founded here in 1875 but moved across Main Street three years later. A variety of shops used this building over the years. In 1965 owners closed the original front door and cut an interior passage on the east into the building next door.",
+      "geofence_buffer_in_meters": 10,
+      "id": 422,
+      "latitude": 41.6712629319654,
+      "longitude": -91.3469275832176,
+      "map_thumbnail_image": 463,
+      "name": "West Branch Bank",
+      "name_description": "West Branch’s first bank opened in 1875 before moving across the street three years later.",
+      "type": "Bank"
+    },
+    {
+      "audio_description": "The Union Block\n191 words\n\nThe Union Block.  1 ¼ minutes.  The Union Block is a large brick building located on the south side of West Main Street between the former West Branch Bank Building on the left and the Earliest Citizens’ Savings Bank Building on the right.\n\nThe Union Block is 40 feet wide, housing two separate commercial spaces on it first floor.  Three central doors are flanked by two large storefront windows.  The doors are set back a few feet from the sidewalk and there’s small step up to reach the flagstone entryway.  The first-floor windows and doors are trimmed in a deep forest green.   \n\nOn the second floor, the natural brick is exposed, inset with seven narrow rectangular windows.  Rounded lintels of alternating brick and limestone top the windows.  Above that, an ornate wooden cornice runs below the horizontal roofline.  The cornice is custard-colored, accented with cream, and a central panel about 10 feet wide displays the words “Union Block” in cream-colored capital letters.\n\nIt’s just one step up from the street to the sidewalk here.  You can also use the ramp at the corner of Downey or Poplar Street.\n \nEnd of message.\n",
+      "description": "T. Butler and Dr. L.J. Leech agreed to jointly finance this structure in 1895. The west half of the building housed a meat market on the first floor and the lodge of the Modern Woodmen of American on the second. The east side was rented to Bert Gill for the union Block Drug Store. Since then the building has housed several shops, cafes, and offices.",
+      "geofence_buffer_in_meters": 10,
+      "id": 424,
+      "latitude": 41.6712709461022,
+      "longitude": -91.3471072912216,
+      "map_thumbnail_image": 465,
+      "name": "The Union Block",
+      "name_description": "Partners L.J. Leech and J.T. Butler rebuilt a meat market in brick after a fire in 1895.",
+      "type": "Market"
+    },
+    {
       "audio_description": "Patterson-Leech Building\n191 words\n\nPatterson-Leech Building.  1 ½ minutes.  The Patterson-Leech Building stands between the Veterans Memorial Building and the Gruwell-Crew Building on the north side of West Main Street.  Unlike most of the historic structures along Main Street, there is a small space—a foot or two wide—between the Patterson-Leech Building and its neighbors.  The building currently houses an antique shop.\n\nThe narrow wooden structure appears time- and weather-worn:  Some of the clapboard planks making up the second-floor façade are warped and uneven.  And the building as a whole seems to list slightly to the right.  Three wooden steps painted red lead up to the front door; there are handrails on both sides.  The first-floor is painted pale blue and trimmed with white.  There are two oversized four-paned windows on either side of the central door.  The second floor is mainly jade green, with blue and white around the windows.  The edges of a pitched roof poke out behind either side of the square-topped false façade.\n\nIt’s two small steps up from the street to the sidewalk here.  Or you can use the ramp at the corner of Poplar Street.\n End of message.\n",
-      "description": "In March 1890 Lavina Patterson opened a millinery shop here and lived with ther family upstairs. Dr. L.J. Leech moved his medical offices here after fire damaged the buildings across the street in 1895. It remained Dr. Leech's office until his death in 1937.",
+      "description": "In March 1890 Lavina Patterson opened a millinery shop here and lived with her family upstairs. Dr. L.J. Leech moved his medical offices here after fire damaged the buildings across the street in 1895. It remained Dr. Leech's office until his death in 1937.",
       "geofence_buffer_in_meters": 10,
       "id": 425,
       "latitude": 41.671531405006,
       "longitude": -91.3471287488937,
       "map_thumbnail_image": 466,
-      "name": "Patterson-Leech Building (1890), 107 W. Main Street",
+      "name": "Patterson-Leech Building",
       "name_description": "In 1890 Lavina Patterson opened a millinery shop and lived with her family upstairs.",
       "type": "Shop"
     },
     {
-      "description": "This building's exterior has had only minor alterations since its construction in 1895. Originally Rich's Golden Rule general store occupied one side of the building and Dr. J. I. bailey's medical offices occupied the other. Over the years a bakery, dry cleaning and men's clothing store, furnace and tin shop, antique shop, and grocery store were located here.",
+      "description": "This building's exterior has had only minor alterations since its construction in 1895. Originally Rich's Golden Rule General Store occupied one side of the building and Dr. J. I. Bailey's medical offices occupied the other. Over the years a bakery, dry cleaning and men's clothing store, furnace and tin shop, antique shop, and grocery store were located here.",
       "geofence_buffer_in_meters": 10,
       "id": 431,
       "latitude": 41.6715855,
       "longitude": -91.34571791,
       "map_thumbnail_image": 472,
-      "name": "Rich and Bailey Block (1895), 109 E. Main Street",
+      "name": "Rich and Bailey Block",
       "name_description": "In 1895 Rich’s general store occupied one side of the building and Dr. Bailey’s offices the other. ",
       "type": "Store"
     }
