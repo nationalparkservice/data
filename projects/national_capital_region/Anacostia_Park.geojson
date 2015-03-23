@@ -194,9 +194,7 @@
         "marker-size": "large",
         "marker-symbol": "pitch",
         "name": "Fitness Zone",
-        "notes": "Equipment includes: combo press & pull, pull-up & dip, sit-up boards, seated lat pull, exercise bike, air strider, squat press, rowing machine, horizontal ladder, accessible multi-gym, push-up bars, horizontal bars, elliptical cross-trainer.",
-        "image": "http://www.nps.gov/ncr/anac/images/279BC06C-1DD8-B71C-07938284D06DD008.jpg",
-        "url": "http://www.nps.gov/anac/planyourvisit/Fitness-Zone.htm"
+        "notes": "Equipment includes: combo press & pull, pull-up & dip, sit-up boards, seated lat pull, exercise bike, air strider, squat press, rowing machine, horizontal ladder, accessible multi-gym, push-up bars, horizontal bars, elliptical cross-trainer."
       },
       "geometry": {
         "type": "Point",
@@ -313,7 +311,7 @@
         "marker-size": "medium",
         "marker-symbol": "harbor",
         "name": "Boat Ramp",
-        "url": "http://www.nps.gov/anac/planyourvisit/Boating-and-Fishing.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/boating_1.jpg"
       },
       "geometry": {
         "type": "Point",
