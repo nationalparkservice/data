@@ -1864,7 +1864,9 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ff80ff",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "name": "Cherry Tree Area",
+        "notes": "Cherry Tree Area"
       },
       "geometry": {
         "type": "Polygon",
@@ -1941,7 +1943,9 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ff80ff",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "name": "Cherry Tree Area",
+        "notes": "Cherry Tree Area"
       },
       "geometry": {
         "type": "Polygon",
@@ -2010,7 +2014,9 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ff80ff",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "name": "Cherry Tree Area",
+        "notes": "Cherry Tree Area"
       },
       "geometry": {
         "type": "Polygon",
@@ -2111,7 +2117,9 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ff80ff",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "name": "Cherry Tree Area",
+        "notes": "Cherry Tree Area"
       },
       "geometry": {
         "type": "Polygon",
@@ -2172,7 +2180,9 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ff80ff",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "name": "Cherry Tree Area",
+        "notes": "Cherry Tree Area"
       },
       "geometry": {
         "type": "Polygon",
