@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0000ff",
+        "marker-color": "#800000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Manassas National Battlefield Park",
@@ -27,7 +27,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#004000",
+        "marker-color": "#800000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Catoctin Mountain Park",
@@ -50,7 +50,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#004000",
+        "marker-color": "#800000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Harpers Ferry National Historical Park",
@@ -74,7 +74,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#004000",
+        "marker-color": "#800000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Chesapeake & Ohio Canal National Historical Park",
@@ -97,7 +97,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#004000",
+        "marker-color": "#800000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Antietam National Battlefield",
@@ -120,7 +120,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#004000",
+        "marker-color": "#800000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Monocacy National Battlefield",
@@ -143,7 +143,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0000ff",
+        "marker-color": "#800000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Wolf Trap National Park for the Performing Arts",
@@ -166,7 +166,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0000ff",
+        "marker-color": "#800000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Prince William Forest Park",
@@ -189,7 +189,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0000ff",
+        "marker-color": "#800000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "George Washington Memorial Parkway",
@@ -213,7 +213,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#400080",
+        "marker-color": "#800000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "National Mall and Memorial Parks",
@@ -237,7 +237,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#400080",
+        "marker-color": "#800000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "President's Park",
