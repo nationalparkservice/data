@@ -9,9 +9,12 @@
         "marker-symbol": "circle",
         "name": "Manassas National Battlefield Park",
         "url": "http://www.nps.gov/mana/",
-        "notes": "Water, Solar, Lighting",
+        "notes": "",
         "phase": 2,
-        "completion": "September 2015"
+        "completion": "September 2015",
+        "lighting": 1,
+        "water": 1,
+        "solar": 1
       },
       "geometry": {
         "type": "Point",
@@ -30,8 +33,11 @@
         "name": "Catoctin Mountain Park",
         "url": "http://www.nps.gov/cato/",
         "phase": 1,
-        "notes": "Lighting, Mechanical",
-        "completion": "March 2015"
+        "completion": "March 2015",
+        "lighting": 1,
+        "water": "",
+        "solar": "",
+        "mechanical": 1
       },
       "geometry": {
         "type": "Point",
@@ -50,8 +56,12 @@
         "name": "Harpers Ferry National Historical Park",
         "url": "http://www.nps.gov/hafe/",
         "phase": 1,
-        "notes": "Lighting, Water, Mechanical",
-        "completion": "May 2015"
+        "notes": "",
+        "completion": "May 2015",
+        "lighting": 1,
+        "water": 1,
+        "solar": "",
+        "mechanical": 1
       },
       "geometry": {
         "type": "Point",
@@ -70,8 +80,11 @@
         "name": "Chesapeake & Ohio Canal National Historical Park",
         "url": "http://www.nps.gov/choh/",
         "phase": 1,
-        "notes": "Water, Mechanical, Lighting",
-        "completion": "May 2015"
+        "notes": "",
+        "completion": "May 2015",
+        "lighting": 1,
+        "water": 1,
+        "mechanical": 1
       },
       "geometry": {
         "type": "Point",
@@ -90,8 +103,11 @@
         "name": "Antietam National Battlefield",
         "url": "http://www.nps.gov/anti/",
         "phase": 1,
-        "notes": "Water, Lighting, Mechanical",
-        "completion": "June 2015"
+        "notes": "",
+        "completion": "June 2015",
+        "lighting": 1,
+        "water": 1,
+        "mechanical": 1
       },
       "geometry": {
         "type": "Point",
@@ -110,8 +126,11 @@
         "name": "Monocacy National Battlefield",
         "url": "http://www.nps.gov/mono/",
         "phase": 1,
-        "notes": "Water, Lighting, Solar",
-        "completion": "June 2015"
+        "notes": "",
+        "completion": "June 2015",
+        "lighting": 1,
+        "water": 1,
+        "solar": 1
       },
       "geometry": {
         "type": "Point",
@@ -130,8 +149,11 @@
         "name": "Wolf Trap National Park for the Performing Arts",
         "url": "http://www.nps.gov/wotr/",
         "phase": 2,
-        "notes": "Lighting, Water, Mechanical",
-        "completion": "April 2015"
+        "notes": "",
+        "completion": "April 2015",
+        "lighting": 1,
+        "water": 1,
+        "mechanical": 1
       },
       "geometry": {
         "type": "Point",
@@ -150,8 +172,11 @@
         "name": "Prince William Forest Park",
         "url": "http://www.nps.gov/prwi/",
         "phase": 2,
-        "notes": "Water, Lighting, Mechanical",
-        "completion": "August 2015"
+        "notes": "",
+        "completion": "August 2015",
+        "lighting": 1,
+        "water": 1,
+        "mechanical": 1
       },
       "geometry": {
         "type": "Point",
@@ -170,8 +195,12 @@
         "name": "George Washington Memorial Parkway",
         "url": "http://www.nps.gov/gwmp/",
         "phase": 2,
-        "notes": "Water, Mechanical, Lighting",
-        "completion": "August 2015"
+        "notes": "",
+        "completion": "August 2015",
+        "lighting": 1,
+        "water": 1,
+        "solar": "",
+        "mechanical": 1
       },
       "geometry": {
         "type": "Point",
@@ -190,8 +219,12 @@
         "name": "National Mall and Memorial Parks",
         "url": "http://www.nps.gov/nama/",
         "phase": 3,
-        "notes": "Water, Lighting, Solar, Mechanical",
-        "completion": "November 2015"
+        "notes": "",
+        "completion": "November 2015",
+        "lighting": 1,
+        "water": 1,
+        "solar": 1,
+        "mechanical": 1
       },
       "geometry": {
         "type": "Point",
@@ -210,8 +243,10 @@
         "name": "President's Park",
         "url": "http://www.nps.gov/whho/",
         "phase": 3,
-        "notes": "Lighting, Water",
-        "completion": "November 2015"
+        "notes": "",
+        "completion": "November 2015",
+        "lighting": 1,
+        "water": 1
       },
       "geometry": {
         "type": "Point",
@@ -230,8 +265,11 @@
         "name": "Rock Creek Park",
         "url": "http://www.nps.gov/rocr/",
         "phase": 4,
-        "notes": "Lighting, Water, Mechanical",
-        "completion": "August 2015"
+        "notes": "",
+        "completion": "August 2015",
+        "lighting": 1,
+        "water": 1,
+        "mechanical": 1
       },
       "geometry": {
         "type": "Point",
@@ -250,8 +288,11 @@
         "name": "National Capital Parks - East",
         "url": "http://www.nps.gov/nace/",
         "phase": 4,
-        "notes": "Lighting, Water, Mechanical",
-        "completion": "October 2015"
+        "notes": "",
+        "completion": "October 2015",
+        "lighting": 1,
+        "water": 1,
+        "mechanical": 1
       },
       "geometry": {
         "type": "Point",
