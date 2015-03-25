@@ -3194,37 +3194,6 @@
     },
     {
       "geofence_buffer_in_meters": 10,
-      "id": 32,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.451988,
-      "longitude": -135.316753,
-      "map_thumbnail_image": 117,
-      "name": "Pullen Pond",
-      "name_description": "Pullen Pond, named for Gold Rush entrepreneur Harriet Pullen, is a beautiful spot to relax, picnic, and see salmon run.",
-      "primary_image": 49,
-      "type": "Park",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        },
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        }
-      ]
-    },
-    {
-      "geofence_buffer_in_meters": 10,
       "id": 33,
       "information": [
         {
@@ -3251,6 +3220,37 @@
           "icon": "wheelchair.png",
           "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 32,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.451988,
+      "longitude": -135.316753,
+      "map_thumbnail_image": 117,
+      "name": "Pullen Creek Shoreline Park",
+      "name_description": "Pullen Park, named for Gold Rush entrepreneur Harriet Pullen, is a beautiful spot to relax, picnic, and see salmon run.",
+      "primary_image": 49,
+      "type": "Park",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        },
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
         }
       ]
     },
