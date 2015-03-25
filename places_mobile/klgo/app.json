@@ -2214,16 +2214,22 @@
       "media": [
         70
       ],
-      "name": "Arctic Brotherhood Building (City Visitor Center)",
+      "name": "Arctic Brotherhood Building ",
       "name_description": "The City Visitor Center is housed in this 1900 structure built by the Arctic Brotherhood, a fraternal group of miners.",
       "primary_image": 474,
-      "type": "Visitor Center",
+      "type": "City Visitor Center",
       "services": [
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
           "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
+        },
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
         }
       ]
     },
@@ -2632,8 +2638,8 @@
           "name": "Hours"
         }
       ],
-      "latitude": 59.45399419,
-      "longitude": -135.3176969,
+      "latitude": 59.453994,
+      "longitude": -135.317697,
       "map_thumbnail_image": 104,
       "name": "Boas Tailor & Furrier Shop",
       "name_description": "Seizing his chance among ample business opportunity, stampeder Herman Boas built his residence and shop in late 1899.",
@@ -3265,6 +3271,32 @@
       ]
     },
     {
+      "description": "This building was constructed in 1897 by James Brackett. He operated a small trading post here until his expanding business forced a move to a larger structure. In 1898 baker Stephen Baur bought Brackett’s store. Baur, the “Boss Baker,” opened a restaurant specializing in fresh pastries and breads. He made minor repairs to the building and extended the false front. The building also served as a grocery store, a restaurant, and a military mess hall during WW II. Today is looks much like it did in the gold rush and is operated as a store under the Lease Back Program.",
+      "geofence_buffer_in_meters": 10,
+      "id": 23,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.45547,
+      "longitude": -135.314862,
+      "map_thumbnail_image": 108,
+      "name": "Boss Bakery",
+      "name_description": "A trading post turned bakery, this structure embodies the zeal for entrepreneurship during the Klondike Gold Rush.",
+      "primary_image": 40,
+      "type": "NPS Building",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
       "description": "Built in 1899 by Frederick and Nathalie Verbauwhede, this store took full advantage of its corner location near the newly constructed train depot to attract business. Here travelers could easily purchase the candies, nuts, fruits, cigars, and pastries they desired before boarding their train north. This structure is indicative of a story common in Skagway’s history, of abundant opportunities for entrepreneurship, as it has housed more than seven different businesses in the last hundred years. After a series of uses as a barber, gun, and curio shop, the building became the Alaska Transfer Company express office. Today the building is part of Klondike Gold Rush National Historical Park’s Lease Back Program and houses a private business.",
       "geofence_buffer_in_meters": 10,
       "id": 17,
@@ -3333,32 +3365,6 @@
       "name_description": "The story of the Lynch and Kennedy exemplifies the entrepreneurial spirit and architecture of early Skagway.",
       "primary_image": 39,
       "type": "Business (NPS)",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "description": "This building was constructed in 1897 by James Brackett. He operated a small trading post here until his expanding business forced a move to a larger structure. In 1898 baker Stephen Baur bought Brackett’s store. Baur, the “Boss Baker,” opened a restaurant specializing in fresh pastries and breads. He made minor repairs to the building and extended the false front. The building also served as a grocery store, a restaurant, and a military mess hall during WW II. Today is looks much like it did in the gold rush and is operated as a store under the Lease Back Program.",
-      "geofence_buffer_in_meters": 10,
-      "id": 23,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45547048,
-      "longitude": -135.3148618,
-      "map_thumbnail_image": 108,
-      "name": "Boss Bakery",
-      "name_description": "A trading post turned bakery, this structure embodies the zeal for entrepreneurship during the Klondike Gold Rush.",
-      "primary_image": 40,
-      "type": "Building (NPS)",
       "services": [
         {
           "description": "Handicapped Access",
