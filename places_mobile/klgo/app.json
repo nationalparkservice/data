@@ -2436,6 +2436,32 @@
       ]
     },
     {
+      "description": "In many ways, Skagway was one of the last Western frontier towns. In two years’ time, Skagway’s population soared from just a handful to over 8,000 people and creating bountiful opportunities to start businesses and sell goods and services. Stampeder and entrepreneur Henry Boas constructed this building in September 1899, out of which he operated a tailor shop and fur business until 1903. This shop fits the stereotypical appearance of a western boomtown false front building, common in Gold Rush era architecture in Skagway. To grab the attention of thousands of potential customers, elaborate false fronts such as this projected an image of size, prosperity, and stability. A look at the roofline from the side will reveal its false front, which masked the simple, gabled-roof building behind. The use of this structure is also common to false-front structures in Skagway; a small shop on the first floor and the shopkeeper’s residence upstairs. The history of Boas Tailor and Furrier Shop mirror’s Skagway’s up-and-down, boom-and-bust frontier economy. Today it is part of the National Park Service’s Lease Back program, and is rented by a private business.",
+      "geofence_buffer_in_meters": 10,
+      "id": 19,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.454049,
+      "longitude": -135.317713,
+      "map_thumbnail_image": 104,
+      "name": "Boas Tailor & Furrier Shop",
+      "name_description": "Seizing his chance among ample business opportunity, stampeder Herman Boas built his residence and shop in late 1899.",
+      "primary_image": 38,
+      "type": "Business (NPS)",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
       "audio_description": "Klondike Gold Rush National Historical Park Visitor Center.  1 ½ minutes.  The visitor center for the Klondike Gold Rush National Historical Park is located at the southeast corner of Broadway and Second Avenue.  The visitor center is housed in the historic 1898 White Pass and Yukon Route Railroad Depot.  It’s a two-story wooden building painted a muted shade of red with mustard-yellow trim.  The pitched, shingled roof is topped with several brick chimneys.\n\nBoth buildings can be accessed through entrances on Second Avenue, off the wooden boardwalk that wraps around the building.  The boardwalk is three steps up from the street here, and there are railings at the corner to guide you. Alternatively, a ramp at the south end of Broadway provides access from the street to the boardwalk.  Please be aware that the wooden boardwalks can be slippery in rainy weather, so watch your step.\n\nThese entrances are on the left side of the Second Avenue facade, where the visitor center abuts the National Park Service museum building next door.  A breezeway between the two structures extends perpendicularly from the Second Avenue boardwalk.  Find the breezeway and walk in as far as you can.  The entrance to the Visitor Center will be on your right.  The entrance to the Park museum will be to your left.\n\nEnd of message.",
       "description": "The Visitor Center was built as a depot for the White Pass and Yukon Route Railroad.  From the second-floor bay windows the dispatcher could see approaching and departing trains on the tracks that once curved around the southwest corner and headed north on Broadway toward the gold fields of the Klondike.",
       "geofence_buffer_in_meters": 33.527998927104036,
@@ -2625,32 +2651,6 @@
           "icon": "ranger.png",
           "icon_@2x": "ranger@2x.png",
           "type": "Staffed by Ranger"
-        }
-      ]
-    },
-    {
-      "description": "In many ways, Skagway was one of the last Western frontier towns. In two years’ time, Skagway’s population soared from just a handful to over 8,000 people and creating bountiful opportunities to start businesses and sell goods and services. Stampeder and entrepreneur Henry Boas constructed this building in September 1899, out of which he operated a tailor shop and fur business until 1903. This shop fits the stereotypical appearance of a western boomtown false front building, common in Gold Rush era architecture in Skagway. To grab the attention of thousands of potential customers, elaborate false fronts such as this projected an image of size, prosperity, and stability. A look at the roofline from the side will reveal its false front, which masked the simple, gabled-roof building behind. The use of this structure is also common to false-front structures in Skagway; a small shop on the first floor and the shopkeeper’s residence upstairs. The history of Boas Tailor and Furrier Shop mirror’s Skagway’s up-and-down, boom-and-bust frontier economy. Today it is part of the National Park Service’s Lease Back program, and is rented by a private business.",
-      "geofence_buffer_in_meters": 10,
-      "id": 19,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.453994,
-      "longitude": -135.317697,
-      "map_thumbnail_image": 104,
-      "name": "Boas Tailor & Furrier Shop",
-      "name_description": "Seizing his chance among ample business opportunity, stampeder Herman Boas built his residence and shop in late 1899.",
-      "primary_image": 38,
-      "type": "Business (NPS)",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
         }
       ]
     },
@@ -3054,8 +3054,8 @@
       "description": "Listen for the clinking of bottles, laughter, and chatter from the interior of the Mascot, a Gold Rush-era saloon that supplied alcohol to thirsty stampeders and served as a gathering place where men could play pool, gamble, and listen to music. Originally constructed in 1898, a corner entry led to the “Mascotte” saloon, owned by Charles Rohbak, who sold liquor, cigars, and fresh beer on draft for ten cents. In early 1899, however, a new law came into force as Skagway transitioned from frontier town to family town, requiring Skagway’s saloons to pay a $1,500 license fee in order to remain open. Of the 80 saloons reported open in January 1899, all but a dozen had closed by April, including Rohbak’s “Mascotte.” After its closure, entrepreneur Albert Reinert and a partner purchased the building, paid the license fee, and began remodeling the interior. As a former restaurant owner, Reinert knew how to keep customers with offers of free lunches including clam chowder, spareribs, enchiladas, and more, along with locally brewed pilsner beer for a nickel a schooner. But moral reforms were sweeping Skagway at the start of the 20th century, and by 1916 Skagway had voted itself a “dry” town. Impressively, the renamed “Mascot” was one of only three Gold Rush-era saloons that survived until local prohibition. Eventually Reinert sold the Mascot to Perry Hern, who converted the interior to a pharmacy, and owned the complex for the next thirty years. In 1974 the National Park Foundation acquired the structure from George Rapuzzi and Charles Hermans, and in 1976, building ownership transferred to the National Park Service. The Mascot Saloon was restored to its 1905-1916 appearance and today exhibits within depict town life, and replica beer bottles of the brand distributed by the Mascot during its heyday line the shelves.",
       "geofence_buffer_in_meters": 10,
       "id": 5,
-      "latitude": 59.45401328,
-      "longitude": -135.3174019,
+      "latitude": 59.454013,
+      "longitude": -135.317402,
       "map_thumbnail_image": 90,
       "media": [
         71,
@@ -3067,16 +3067,16 @@
       "type": "Museum",
       "services": [
         {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        },
-        {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
           "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
+        },
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
         },
         {
           "description": "Tcoil",
