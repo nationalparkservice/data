@@ -211,6 +211,43 @@
       "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun",
       "home_description": "The visitor center is open from 9-5pm",
       "title": "Schedule a tour"
+    },
+    {
+      "dates": [
+        "2015-05-28"
+      ],
+      "description": "Dr. John O. Anfinson examines Herbert Hoover’s role in shaping the upper Mississippi River as we know it today.",
+      "home_description": "Visitor Center, 7 to 8 p.m.",
+      "title": "Herbert Hoover & The Mississippi River"
+    },
+    {
+      "dates": [
+        "2015-05-13",
+        "2015-06-04",
+        "2015-06-11",
+        "2015-06-18",
+        "2015-06-25"
+      ],
+      "description": "Herbert Hoover National Historic Site, in cooperation with Main Street West Branch, invites visitors to enjoy their local national park during a series of special musical events.",
+      "home_description": "Village Green, 7 p.m.",
+      "title": "Music On The Village Green"
+    },
+    {
+      "dates": [
+        "2015-06-20",
+        "2015-09-07"
+      ],
+      "description": "A park ranger will discuss how and why the National Park Service is reconstructing this endangered habitat as part of the landscape commemorating Herbert Hoover’s life.",
+      "home_description": "Tallgrass Prairie Observation Deck, 9:30 a.m. and 3 p.m.",
+      "title": "Tallgrass Prairie Walk"
+    },
+    {
+      "dates": [
+        "2015-07-18"
+      ],
+      "description": "A National Park Ranger discusses our national parks. Topics will vary. ",
+      "home_description": "Village Green, 9 p.m.",
+      "title": "Campfire On The Village Green"
     }
   ],
   "map_thumbnail_zoom": 16,
