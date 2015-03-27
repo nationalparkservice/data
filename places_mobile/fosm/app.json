@@ -1902,11 +1902,17 @@
       "services": []
     },
     {
-      "description": "\nAfter the U.S. Army closed Fort Smith in 1871, the federal court converted the guardhouse into a jail for women. If a female prisoner had a child and no family members or friends to take care of the child, he or she went to jail too. During the day, the children were allowed to play on the grounds. We know of at least two children who served time with their mothers. \nCrimes committed by women ranged from the illegal sale of whiskey to murder. When convicted, they received the same sentences as men – fines, jail time, or death by hanging. Although four women were sentenced to hang, none were executed at Fort Smith. \n\nConstructed in 1849 as the guardhouse, this building served as the initial check-in point for soldiers, supplies, and visitors for the second Fort Smith. It was also the place of confinement for soldiers under arrest for such offenses as drunkenness, desertion, or fighting. ",
+      "description": "\nAfter the U.S. Army closed Fort Smith in 1871, the federal court converted the guardhouse into a jail for women. If a female prisoner had a child and no family members or friends to take care of the child, he or she went to jail too. During the day, the children were allowed to play on the grounds. We know of at least two children who served time with their mothers. \nCrimes committed by women ranged from the illegal sale of whiskey to murder. When convicted, they received the same sentences as men – fines, jail time, or death by hanging. Although four women were sentenced to hang, none were executed at Fort Smith. \n\n",
       "geofence_buffer_in_meters": 10,
       "id": 96,
-      "latitude": 35.3889843676842,
-      "longitude": -94.4293570518494,
+      "information": [
+        {
+          "description": "Constructed in 1849 as the guardhouse, this building served as the initial check-in point for soldiers, supplies, and visitors for the second Fort Smith. It was also the place of confinement for soldiers under arrest for such offenses as drunkenness, desertion, or fighting. ",
+          "name": "Guardhouse 1849-1871"
+        }
+      ],
+      "latitude": 35.388984,
+      "longitude": -94.429357,
       "map_thumbnail_image": 231,
       "media": [
         188,
