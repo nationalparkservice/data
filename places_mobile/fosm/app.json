@@ -1568,40 +1568,6 @@
   ],
   "sites": [
     {
-      "description": "This building has evolved. Beginning in 1838 it was home to the enlisted men as a one-story structure with a basement. In 1872, it was converted to a courthouse and jail. The last major change occurred in 1888 when the second jail was completed. Today it serves as the park Visitor Center.",
-      "geofence_buffer_in_meters": 13.352799892710403,
-      "id": 94,
-      "information": [
-        {
-          "description": "A two-story barracks was built in the 1840’s. A fire destroyed most of the building in1849. President Zachary Taylor, who once lived in Fort Smith, did not believe the fort was needed and denied funding to rebuild the barracks causing the fort shut down. After President Taylor, died in 1851 the reconstruction was funded and the fort reopened. In the new building, the living quarters were on the first floor while the dining room was in the basement. In 1871 the military closed the fort for good.",
-          "name": "1838-1871"
-        },
-        {
-          "description": "The federal court moved to Fort Smith in 1872. The first story barracks were converted to a courtroom and offices. Over the next 18 years three different judges used this courtroom. Each presided over the largest federal district at the time. Judge William Story resigned instead of being impeached in July, 1874. Judge Caldwell served as the interim judge.  In May of the following year Judge Isaac C Parker began his 21 year tenure. \n\nJudge Parker used this courtroom until 1890, when a new courthouse was built on the corner of 6th and Rogers. He continued presiding over the court at Fort Smith until his death in 1896. \n\nToday the courtroom is furnished as it might have been during Judge Parker’s tenure. The exhibits are about Judge Parker and the Federal Court System. The courtroom is used for trial reenactments held several times a year. \n",
-          "name": "1872 -1890 Courtroom"
-        },
-        {
-          "description": "In 1872, the basement of the courthouse was converted to a jail. Two large cells housed 30-50 men at a time. Prisoners of all ages, accused of both violent and non-violent crimes, were housed together. \nEach cell received little natural light or air. Porches that ran the length of the building shaded the windows. The worst time to be in the jail was during the hot, humid Arkansas summer. Guards threw water across the flagstone floor to “cool” things off. It only added to the humidity. \nHygiene was poor. One fire place with buckets served as the toilet. The other had a smaller pail for washing. There was no place for a prisoner to bathe. The stench from the jail could be smelled upstairs in the courtroom. Judge Parker had sawdust placed in the rafters to absorb some of the odors. The horrid conditions led to the jail’s nickname, “Hell on the Border.”  \nJudge Parker tried repeatedly, with no success to secure funding to build a better jail. Funding did not become available until 1886 when Anna Dawes, daughter of Senator Henry Dawes, wrote an article for a Washington D.C. magazine describing the horrid conditions of the jail.",
-          "name": "Hell on the Border Jail 1872-1888"
-        },
-        {
-          "description": "The second jail at Fort Smith featured a cell block three tiers high surrounded by an iron cage. Each level held twenty four cells, twelve back-to-back running the length of the building. These measured five feet by seven feet and were furnished with an iron bunk-beds for two prisoners. The inmates relocated here on March 19, 1888. It remained in use until 1917. ",
-          "name": "Second Jail 1888-1917"
-        }
-      ],
-      "latitude": 35.388153,
-      "longitude": -94.429845,
-      "map_thumbnail_image": 229,
-      "media": [
-        186,
-        216
-      ],
-      "name": "Visitor Center",
-      "name_description": "Park’s Visitor Center, served as a soldiers’ barracks (1838-1871), converted to jail and courthouse in 1872.",
-      "type": "Barracks, Courthouse, and Jails",
-      "services": []
-    },
-    {
       "description": "Why execution by hanging? At the time, hanging was considered the most humane method of execution. When done properly, the neck is broken and death comes quickly.\n\nMurder, rape, treason, and obstruction of an execution were the only Federal crimes with an automatic death sentence. In Fort Smith, 81 men were hanged for murder and 5 for rape. Crowds in the thousands came to Fort Smith to watch the earlier executions. Then a fence was erected and executions became private two years after Judge Parker arrived. In order to attend an execution, individuals had to get permission from the U.S. Marshal by providing a reason to be there. Those who attended executions included reporters, clergy, medical personnel, and family members of both the victim and the condemned. \n\nThe current gallows are a reproduction based on images and historic records. The original gallows was destroyed by the city of Fort Smith in 1897 because of the negative reputation it gave the city. Today the gallows stand as a stark reminder of the struggle for justice on the western frontier.",
       "geofence_buffer_in_meters": 15.791199814681606,
       "id": 95,
@@ -1674,6 +1640,40 @@
       "longitude": -94.42890108,
       "map_thumbnail_image": 229,
       "name": "Cannon"
+    },
+    {
+      "description": "This building has evolved. Beginning in 1838 it was home to the enlisted men as a one-story structure with a basement. In 1872, it was converted to a courthouse and jail. The last major change occurred in 1888 when the second jail was completed. Today it serves as the park Visitor Center.",
+      "geofence_buffer_in_meters": 13.352799892710403,
+      "id": 94,
+      "information": [
+        {
+          "description": "A two-story barracks was built in the 1840’s. A fire destroyed most of the building in1849. President Zachary Taylor, who once lived in Fort Smith, did not believe the fort was needed and denied funding to rebuild the barracks causing the fort shut down. After President Taylor, died in 1851 the reconstruction was funded and the fort reopened. In the new building, the living quarters were on the first floor while the dining room was in the basement. In 1871 the military closed the fort for good.",
+          "name": "1838-1871"
+        },
+        {
+          "description": "The federal court moved to Fort Smith in 1872. The first story barracks were converted to a courtroom and offices. Over the next 18 years three different judges used this courtroom. Each presided over the largest federal district at the time. Judge William Story resigned instead of being impeached in July, 1874. Judge Caldwell served as the interim judge.  In May of the following year Judge Isaac C Parker began his 21 year tenure. \n\nJudge Parker used this courtroom until 1890, when a new courthouse was built on the corner of 6th and Rogers. He continued presiding over the court at Fort Smith until his death in 1896. \n\nToday the courtroom is furnished as it might have been during Judge Parker’s tenure. The exhibits are about Judge Parker and the Federal Court System. The courtroom is used for trial reenactments held several times a year. \n",
+          "name": "1872 -1890 Courtroom"
+        },
+        {
+          "description": "In 1872, the basement of the courthouse was converted to a jail. Two large cells housed 30-50 men at a time. Prisoners of all ages, accused of both violent and non-violent crimes, were housed together. \nEach cell received little natural light or air. Porches that ran the length of the building shaded the windows. The worst time to be in the jail was during the hot, humid Arkansas summer. Guards threw water across the flagstone floor to “cool” things off. It only added to the humidity. \nHygiene was poor. One fire place with buckets served as the toilet. The other had a smaller pail for washing. There was no place for a prisoner to bathe. The stench from the jail could be smelled upstairs in the courtroom. Judge Parker had sawdust placed in the rafters to absorb some of the odors. The horrid conditions led to the jail’s nickname, “Hell on the Border.”  \nJudge Parker tried repeatedly, with no success to secure funding to build a better jail. Funding did not become available until 1886 when Anna Dawes, daughter of Senator Henry Dawes, wrote an article for a Washington D.C. magazine describing the horrid conditions of the jail.",
+          "name": "Hell on the Border Jail 1872-1888"
+        },
+        {
+          "description": "The second jail at Fort Smith featured a cell block three tiers high surrounded by an iron cage. Each level held twenty four cells, twelve back-to-back running the length of the building. These measured five feet by seven feet and were furnished with an iron bunk-beds for two prisoners. The inmates relocated here on March 19, 1888. It remained in use until 1917. ",
+          "name": "Second Jail 1888-1917"
+        }
+      ],
+      "latitude": 35.388114,
+      "longitude": -94.429899,
+      "map_thumbnail_image": 229,
+      "media": [
+        186,
+        216
+      ],
+      "name": "Visitor Center",
+      "name_description": "Park’s Visitor Center, served as a soldiers’ barracks (1838-1871), converted to jail and courthouse in 1872.",
+      "type": "Barracks, Courthouse, and Jails",
+      "services": []
     },
     {
       "description": "The U.S. Government used the Indian Removal Act of 1830 to exchange tribal lands in the east for land west of the Mississippi River. For the Choctaw, Cherokee, Chickasaw, Muscogee (Creek), and Seminole tribes, Indian Removal left a bitter legacy remembered today by some as the Trail of Tears. Each of the five tribes traveled various land and water routes to Indian Territory (today Oklahoma). Some of them stopped at Fort Smith for supplies before continuing to their final destination. ",
@@ -2041,23 +2041,23 @@
     },
     {
       "geofence_buffer_in_meters": 10,
+      "id": 124,
+      "latitude": 35.387814,
+      "longitude": -94.43264,
+      "map_thumbnail_image": 259,
+      "name": "Request Denied (WS)",
+      "name_description": "In April 1821, 400 Osage warriors attempted to attack Fort Smith, hoping to scare the soldiers.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
+    },
+    {
+      "geofence_buffer_in_meters": 10,
       "id": 119,
       "latitude": 35.388069,
       "longitude": -94.431625,
       "map_thumbnail_image": 254,
       "name": "Whiskey War (WS)",
       "name_description": "Soldiers fired a cannon in to the Bigalows tavern after the Bigalows beat-up the fort’s commander.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 124,
-      "latitude": 35.387814,
-      "longitude": 94.43264,
-      "map_thumbnail_image": 259,
-      "name": "Request Denied (WS)",
-      "name_description": "In April 1821, 400 Osage warriors attempted to attack Fort Smith, hoping to scare the soldiers.",
       "type": "Wayside Exhibit Panel",
       "services": []
     },
