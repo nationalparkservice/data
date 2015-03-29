@@ -1591,6 +1591,15 @@
       "services": []
     },
     {
+      "description": "Cannon",
+      "geofence_buffer_in_meters": 10,
+      "id": 485,
+      "latitude": 35.387965,
+      "longitude": -94.430494,
+      "map_thumbnail_image": 229,
+      "name": "Cannon"
+    },
+    {
       "description": "Between 1872 and 1896 three judges presided over the largest federal jurisdiction of the time. This courtroom was used from 1872 until 1890. \n",
       "geofence_buffer_in_meters": 10,
       "id": 483,
@@ -1608,8 +1617,8 @@
           "name": "Isaac C. Parker 1875-1896"
         }
       ],
-      "latitude": 35.388376,
-      "longitude": -94.429577,
+      "latitude": 35.388451,
+      "longitude": -94.429663,
       "map_thumbnail_image": 229,
       "name": "Courthouse",
       "type": "Historic building"
@@ -1618,8 +1627,8 @@
       "description": "Jail",
       "geofence_buffer_in_meters": 10,
       "id": 482,
-      "latitude": 35.38820373,
-      "longitude": -94.42890108,
+      "latitude": 35.388278,
+      "longitude": -94.429749,
       "map_thumbnail_image": 229,
       "name": "Jail"
     },
@@ -1631,15 +1640,6 @@
       "longitude": -94.42890108,
       "map_thumbnail_image": 229,
       "name": "Commissary 2"
-    },
-    {
-      "description": "Cannon",
-      "geofence_buffer_in_meters": 10,
-      "id": 485,
-      "latitude": 35.38820373,
-      "longitude": -94.42890108,
-      "map_thumbnail_image": 229,
-      "name": "Cannon"
     },
     {
       "description": "This building has evolved. Beginning in 1838 it was home to the enlisted men as a one-story structure with a basement. In 1872, it was converted to a courthouse and jail. The last major change occurred in 1888 when the second jail was completed. Today it serves as the park Visitor Center.",
@@ -1886,8 +1886,8 @@
     {
       "geofence_buffer_in_meters": 10,
       "id": 105,
-      "latitude": 35.387913,
-      "longitude": -94.43054,
+      "latitude": 35.387799,
+      "longitude": -94.430773,
       "map_thumbnail_image": 240,
       "name": "Fort Wall (WS)",
       "name_description": "Originally, the fort was surrounded by a stone wall 12’ high and 2’ feet thick. This fort was one of the last this type.",
