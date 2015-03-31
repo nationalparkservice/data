@@ -190,7 +190,8 @@
         "marker-size": "large",
         "marker-symbol": "park2",
         "name": "Sargent",
-        "notes": "Sargent trees are planted individually, scattered throughout the park. They are easy to distinguish from surrounding cherry varieties by their deep pink colored flowers."
+        "notes": "Sargent trees are planted individually, scattered throughout the park. They are easy to distinguish from surrounding cherry varieties by their deep pink colored flowers.",
+        "number": 19
       },
       "geometry": {
         "type": "Point",
@@ -1866,7 +1867,7 @@
         "fill": "#ff80ff",
         "fill-opacity": 0.5,
         "name": "Cherry Tree Area",
-        "notes": "Cherry Tree Area"
+        "notes": "One or more types of cherry trees may be found in this area. Look for pins in this map that mark specific trees."
       },
       "geometry": {
         "type": "Polygon",
@@ -1945,7 +1946,7 @@
         "fill": "#ff80ff",
         "fill-opacity": 0.5,
         "name": "Cherry Tree Area",
-        "notes": "Cherry Tree Area"
+        "notes": "One or more types of cherry trees may be found in this area. Look for pins in this map that mark specific trees."
       },
       "geometry": {
         "type": "Polygon",
@@ -2016,7 +2017,7 @@
         "fill": "#ff80ff",
         "fill-opacity": 0.5,
         "name": "Cherry Tree Area",
-        "notes": "Cherry Tree Area"
+        "notes": "One or more types of cherry trees may be found in this area. Look for pins in this map that mark specific trees."
       },
       "geometry": {
         "type": "Polygon",
@@ -2119,7 +2120,7 @@
         "fill": "#ff80ff",
         "fill-opacity": 0.5,
         "name": "Cherry Tree Area",
-        "notes": "Cherry Tree Area"
+        "notes": "One or more types of cherry trees may be found in this area. Look for pins in this map that mark specific trees."
       },
       "geometry": {
         "type": "Polygon",
@@ -2182,7 +2183,7 @@
         "fill": "#ff80ff",
         "fill-opacity": 0.5,
         "name": "Cherry Tree Area",
-        "notes": "Cherry Tree Area"
+        "notes": "One or more types of cherry trees may be found in this area. Look for pins in this map that mark specific trees."
       },
       "geometry": {
         "type": "Polygon",
