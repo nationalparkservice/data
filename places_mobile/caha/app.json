@@ -31,12 +31,14 @@
   "searches": [],
   "sites": [
     {
+      "audio_description": "Ad Goes Here",
+      "description": "The Cape Hatteras Lighthouse protects one of the most hazardous sections of the Atlantic Coast. Offshore of Cape Hatteras, the Gulf Stream collides with the Virginia Drift, a branch of the Labrador Current from Canada. This current forces southbound ships into a dangerous twelve-mile long sandbar called Diamond Shoals. Hundreds and possibly thousands of shipwrecks in this area have given it the reputation as the Graveyard of the Atlantic.\n",
       "geofence_buffer_in_meters": 10,
       "id": 492,
       "latitude": 35.250519,
       "longitude": -75.528836,
       "map_thumbnail_image": 481,
-      "name": "Lighthouse"
+      "name": "Cape Hatteras Lighthouse"
     }
   ],
   "tours": [],
