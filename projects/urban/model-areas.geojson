@@ -6,7 +6,7 @@
       "properties": {
         "name": "Tucson, Arizona",
         "url": "http://www.nps.gov/sagu/index.htm",
-        "fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
+        "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
         "info": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-tucson.htm?cs_pgIsInLView=1"
       },
       "geometry": {
@@ -22,7 +22,7 @@
       "properties": {
         "name": "Richmond, California",
         "url": "http://www.nps.gov/rori/index.htm",
-        "fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
+        "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
         "info": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-richmond-ca.htm?cs_pgIsInLView=1"
       },
       "geometry": {
@@ -38,7 +38,7 @@
       "properties": {
         "name": "St. Louis, Missouri",
         "url": "http://www.nps.gov/jeff/index.htm",
-        "fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
+        "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
         "info": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-st-louis.htm?cs_pgIsInLView=1"
       },
       "geometry": {
@@ -54,7 +54,7 @@
       "properties": {
         "name": "Washington, DC",
         "url": "http://www.nps.gov/state/dc/index.htm",
-        "fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
+        "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
         "info": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-washington-dc.htm?cs_pgIsInLView=1"
       },
       "geometry": {
@@ -70,7 +70,7 @@
       "properties": {
         "name": "Detroit, Michigan",
         "url": "http://www.nps.gov/auto/index.htm",
-        "fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
+        "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
         "info": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-detroit.htm?cs_pgIsInLView=1"
       },
       "geometry": {
@@ -86,7 +86,7 @@
       "properties": {
         "name": "Jacksonville, Florida",
         "url": "http://www.nps.gov/foca/index.htm",
-        "fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
+        "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
         "info": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-jacksonville.htm?cs_pgIsInLView=1"
       },
       "geometry": {
@@ -102,7 +102,7 @@
       "properties": {
         "name": "New York, New York",
         "url": "http://www.nps.gov/npnh/index.htm",
-        "fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
+        "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
         "info": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-new-york.htm?cs_pgIsInLView=1"
       },
       "geometry": {
@@ -118,7 +118,7 @@
       "properties": {
         "name": "Boston, MA",
         "url": "http://www.nps.gov/state/ma/index.htm",
-        "fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
+        "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
         "info": "http://nricms.nps.doi.net/subjects/urban/model-city-boston.htm"
       },
       "geometry": {
@@ -134,7 +134,7 @@
       "properties": {
         "name": "Richmond, VA",
         "url": "http://www.nps.gov/rich/index.htm",
-        "fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
+        "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
         "info": "http://nricms.nps.doi.net/subjects/urban/model-city-richmond-va.htm"
       },
       "geometry": {
@@ -150,7 +150,7 @@
       "properties": {
         "name": "Philadelphia, PA",
         "url": "http://www.nps.gov/inde/index.htm",
-        "fellow": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/meet-the-urban-fellows.htm?cs_pgIsInLView=1",
+        "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
         "info": "http://nricms.nps.doi.net/subjects/urban/model-city-philadelphia.htm"
       },
       "geometry": {
