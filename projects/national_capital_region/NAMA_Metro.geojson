@@ -299,6 +299,25 @@
           38.900863004773704
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "Archives - Navy Memorial - Penn Quarter",
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=81",
+        "Green": 1,
+        "Yellow": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02244013547897,
+          38.89393045941017
+        ]
+      }
     }
   ]
 }
