@@ -9,7 +9,8 @@
         "marker-symbol": "monument",
         "name": "Japanese Pagoda",
         "notes": "The Japanese Pagoda was given to the people of Washington by Ryozo Kiranuma, the Mayor of Yokohama, on June 19, 1957. The Japanese Pagoda is a nine-tiered, 3,800 lb. stone structure with four seated Buddhas carved into its base. A brass plaque, located on the pagoda’s base, reads: “May this pagoda symbolize the spirit of friendship between the United States of American and Japan manifested in the treaty of peace, amity and commerce signed at Yokohama on March 31, 1854, by plenipotentiaries of the two countries.”",
-        "url": "http://www.nps.gov/common/uploads/photogallery/ncr/park/chbl/27E1735A-1DD8-B71C-07E1BB73BD2E9F14/27E1735A-1DD8-B71C-07E1BB73BD2E9F14-small.jpg"
+        "url": "http://www.nps.gov/common/uploads/photogallery/ncr/park/chbl/27E1735A-1DD8-B71C-07E1BB73BD2E9F14/27E1735A-1DD8-B71C-07E1BB73BD2E9F14-small.jpg",
+        "image": "http://www.nps.gov/chbl/learn/images/pagoda-thumbnail.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -45,7 +46,7 @@
         "marker-symbol": "monument",
         "name": "First Cherry Trees",
         "notes": "Plaque commemorates the planting of the first cherry trees on the Tidal Basin in this area in 1912. The stone was moved several feet to the east and rotated 90 degrees in 2013.",
-        "image": "http://www.nps.gov/chbl/images/csthumbnail_large/DYKcherryplaque.gif"
+        "image": "http://ncrcms.nps.doi.net/chbl/images/csthumbnail_large/DYKcherryplaque.gif"
       },
       "geometry": {
         "type": "Point",
