@@ -2060,6 +2060,17 @@
       "type": "image"
     },
     {
+      "id": 484,
+      "image_thumbnail_1x": "495_thumbnail.png",
+      "image_thumbnail_2x": "495_thumbnail@2x.png",
+      "image_thumbnail_3x": "495_thumbnail@3x.png",
+      "relative_url": "495.png",
+      "relative_url_@2x": "495@2x.png",
+      "relative_url_tablet": "495_tablet.png",
+      "relative_url_tablet_@2x": "495_tablet@2x.png",
+      "type": "map_thumbnail"
+    },
+    {
       "id": 13,
       "name": "A Demo Audio File",
       "relative_url": "13.m4a",
@@ -2281,17 +2292,18 @@
       "id": 481,
       "latitude": 59.453908,
       "longitude": -135.327365,
-      "name": "Yakutania Trail Head",
+      "name": "Delete this site",
       "primary_image": 476,
       "type": "Trail"
     },
     {
-      "description": "Abandoned Train\n",
+      "description": "Brought to Skagway to help US soldiers construct the Alaskan-Canadian Highway during WWII, this Abandoned Train now hides behind the McCabe building\n",
       "geofence_buffer_in_meters": 10,
       "id": 486,
       "latitude": 59.455867,
       "longitude": -135.310884,
       "name": "Abandoned Train",
+      "name_description": "A rusty Giant hidden in the woods behind The McCabe Building",
       "type": "Historic Site"
     },
     {
@@ -2484,6 +2496,17 @@
       ]
     },
     {
+      "description": "The metal bridge spanning over the Skagway river, in front of the airport,  marks the head of trail leading to Yakutania Point, Smuggler's Cove, and the Pet Cemetery.  ",
+      "geofence_buffer_in_meters": 10,
+      "id": 495,
+      "latitude": 59.453989,
+      "longitude": -135.327828,
+      "map_thumbnail_image": 484,
+      "name": "Yakutania Trail Head",
+      "name_description": "Hiking Trail",
+      "type": "Hiking Trail"
+    },
+    {
       "audio_description": "Klondike Gold Rush National Historical Park Visitor Center.  1 ½ minutes.  The visitor center for the Klondike Gold Rush National Historical Park is located at the southeast corner of Broadway and Second Avenue.  The visitor center is housed in the historic 1898 White Pass and Yukon Route Railroad Depot.  It’s a two-story wooden building painted a muted shade of red with mustard-yellow trim.  The pitched, shingled roof is topped with several brick chimneys.\n\nBoth buildings can be accessed through entrances on Second Avenue, off the wooden boardwalk that wraps around the building.  The boardwalk is three steps up from the street here, and there are railings at the corner to guide you. Alternatively, a ramp at the south end of Broadway provides access from the street to the boardwalk.  Please be aware that the wooden boardwalks can be slippery in rainy weather, so watch your step.\n\nThese entrances are on the left side of the Second Avenue facade, where the visitor center abuts the National Park Service museum building next door.  A breezeway between the two structures extends perpendicularly from the Second Avenue boardwalk.  Find the breezeway and walk in as far as you can.  The entrance to the Visitor Center will be on your right.  The entrance to the Park museum will be to your left.\n\nEnd of message.",
       "description": "The Visitor Center was built as a depot for the White Pass and Yukon Route Railroad.  From the second-floor bay windows the dispatcher could see approaching and departing trains on the tracks that once curved around the southwest corner and headed north on Broadway toward the gold fields of the Klondike.",
       "geofence_buffer_in_meters": 33.527998927104036,
@@ -2542,21 +2565,24 @@
       ]
     },
     {
+      "description": "Once the premier hotel in Alaska,  the Pullen House catered to travels and even President Warren G. Harding.  Unfortunately the building burned down in the 90's.  The Chimney is all that remains today. ",
       "geofence_buffer_in_meters": 0,
       "id": 491,
-      "latitude": 59.455701,
-      "longitude": -135.313416,
+      "latitude": 59.45551,
+      "longitude": -135.313067,
       "map_thumbnail_image": 480,
-      "name": "Pullen House",
+      "name": "Pullen House Informational Sign",
+      "name_description": "Learn about Harriet Pullen, Entrepreneur and town promoter",
       "type": "Information Panel"
     },
     {
+      "description": "Beyond the Gold Rush, learn the history of the town of Skagway.",
       "geofence_buffer_in_meters": 1.5239999512320015,
       "id": 490,
       "latitude": 59.452132,
       "longitude": -135.320905,
       "map_thumbnail_image": 479,
-      "name": "Skagway History",
+      "name": "Skagway's History Exhibit",
       "type": "Outdoor Exhibit"
     },
     {
@@ -3225,20 +3251,19 @@
     },
     {
       "geofence_buffer_in_meters": 10,
-      "id": 32,
+      "id": 41,
       "information": [
         {
-          "description": "Seasonal",
+          "description": "Available Year-Round",
           "name": "Hours"
         }
       ],
-      "latitude": 59.451988,
-      "longitude": -135.316753,
-      "map_thumbnail_image": 117,
-      "name": "Pullen Creek Shoreline Park",
-      "name_description": "Pullen Park, named for Gold Rush entrepreneur Harriet Pullen, is a beautiful spot to relax, picnic, and see salmon run.",
-      "primary_image": 49,
-      "type": "Park",
+      "latitude": 59.462475,
+      "longitude": -135.320556,
+      "map_thumbnail_image": 125,
+      "name": "Skagway Town Overlook",
+      "name_description": "Located at Mile 2 on the Dyea Rd, this overlook provides an amazing panoramic view of town and the surrounding landscape.",
+      "type": "Overlook",
       "services": [
         {
           "description": "Handicapped Access",
@@ -3255,20 +3280,21 @@
       ]
     },
     {
+      "description": "Named for Gold Rush entrepreneur Harriet Pullen, is a beautiful spot to relax, picnic, and see salmon run.",
       "geofence_buffer_in_meters": 10,
-      "id": 41,
+      "id": 32,
       "information": [
         {
-          "description": "Available Year-Round",
+          "description": "Seasonal",
           "name": "Hours"
         }
       ],
-      "latitude": 59.462475,
-      "longitude": -135.320556,
-      "map_thumbnail_image": 125,
-      "name": "Skagway Town Overlook",
-      "name_description": "Located at Mile 2 on the Dyea Rd, this overlook provides an amazing panoramic view of town and the surrounding landscape.",
-      "type": "Overlook",
+      "latitude": 59.451988,
+      "longitude": -135.316753,
+      "map_thumbnail_image": 117,
+      "name": "Pullen Creek Shoreline Park",
+      "primary_image": 49,
+      "type": "Park",
       "services": [
         {
           "description": "Handicapped Access",
