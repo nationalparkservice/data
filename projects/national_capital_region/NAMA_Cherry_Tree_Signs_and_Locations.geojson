@@ -27,7 +27,8 @@
         "marker-symbol": "park2",
         "name": "Autumn-flowering",
         "number": 24,
-        "notes": "Autumn-flowering cherry trees can bloom at any time of year, including fall and during warm spells in winter. Look for smaller, less showy blossoms."
+        "notes": "Autumn-flowering cherry trees can bloom at any time of year, including fall and during warm spells in winter. Look for smaller, less showy blossoms.",
+        "image": "http://www.nps.gov/chbl/learn/images/autumn-flowering.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -101,7 +102,7 @@
         "name": "Yoshino",
         "number": 14,
         "notes": "Perhaps the most famous and archetypal cherry tree in D.C., the Somei Yoshino is the most common cherry tree in the park.",
-        "image": "http://www.nps.gov/common/uploads/photogallery/ncr/park/chbl/27F7B56D-1DD8-B71C-07A500FE07BD676F/27F7B56D-1DD8-B71C-07A500FE07BD676F-small.JPG"
+        "image": "http://www.nps.gov/chbl/learn/images/yoshino.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -137,7 +138,8 @@
         "marker-symbol": "park2",
         "name": "Shirofugen",
         "number": 16,
-        "notes": "The Shirofugen tree blooms later than most cherry trees. If you missed the peak of the Yoshinos, try this area!"
+        "notes": "The Shirofugen tree blooms later than most cherry trees. If you missed the peak of the Yoshinos, try this area!",
+        "image": "http://www.nps.gov/chbl/learn/images/shirofugen-thumbnail.jpg"
       },
       "geometry": {
         "type": "Point",
