@@ -2,7 +2,7 @@
   "alerts": [],
   "categories": [],
   "description": "Ukrainian Locations",
-  "designation": "Country",
+  "designation": "National Park",
   "events": [],
   "map_thumbnail_zoom": 16,
   "max_distance_in_meters": 1609.3,
@@ -149,7 +149,7 @@
     }
   ],
   "more": [],
-  "name": "Ukraine",
+  "name": "Test",
   "searches": [],
   "sites": [],
   "tours": [],
