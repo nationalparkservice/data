@@ -71,39 +71,29 @@
       ]
     }
   ],
-  "description": "This is a description for the home screen.",
+  "description": "Welcome to the Park! Use the quick buttons to navigate this app.  be sure to check out the \"More\" tab for Scavenger Hunts, Postcards, and special events!",
   "designation": "National Historical Park",
   "events": [
     {
-      "description": "Free tickets available at the Visitor Center, 2nd Avenue and Broadway. Walks are limited to 30 participants. Tours are given on a first-come, first-serve basis. Tours are wheelchair accessible and service animals are welcome.",
+      "description": "A 25 minute film featuring historic photos, reinactments, and beautiful landscapes;this film brings to life the human struggle that was the Klondike gold rush",
+      "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun",
+      "home_description": "Visitor Center – Hourly from 8-5 (no 10am or 3pm)",
+      "site_id": "1",
+      "title": "Movie \"Gold Fever: Race to the Klondike\""
+    },
+    {
+      "description": "Free tickets available at the Visitor Center, 2nd Avenue and Broadway. Walks are limited to 30 participants. Tours are given on a first-come, first-serve basis. Tours are wheelchair accessible and service animals are welcome.  Each Ranger's tour is unique, so join as many tours as you'd like!",
       "frequency": "Mon,Wed,Fri",
-      "home_description": "Visitor Center – 9,10,11, 2, 3",
-      "name": "ranger",
+      "home_description": "Free Visitor Center – 9,10,11, 2, & 3 (1&4 pm certain days)",
       "site_id": "1",
       "title": "Historic District Walking Tours"
     },
     {
       "description": "During the summer, join Park Rangers at our Junior Ranger Activity Center. The center gives kids the chance to dress up as a stampeder, play victorian games, touch wild animal pelts, and earn a Junior Ranger badge!\n\n**Junior Ranger Activity Center**\nLocated at 4th & Broadway Ave\n*Open Monday- Friday*\n10 am-12 pm & 1-3 pm\n*Open May-September*",
       "frequency": "Mon,Tue,Wed,Thur,Fri",
-      "home_description": "Pantheon – 4th & Broadway\nM-F 10 to 12 & 1 to 3",
+      "home_description": "Pantheon – 4th & Broadway M-F 10 to 12 & 1 to 3",
       "site_id": "6",
-      "title": "Hey Kids! Visit the Junior Ranger Activity Center"
-    },
-    {
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun",
-      "home_description": "Visitor Center – Hourly from 8 to 5",
-      "site_id": "1",
-      "title": "Movie \"Gold Fever: Race to the Klondike\""
-    },
-    {
-      "dates": [
-        "2014-12-18\n"
-      ],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "home_description": "Park Museum Auditorium 3pm - Free",
-      "name": "special",
-      "title": "The sinking of the S.S. Oak. Special presentation"
+      "title": "Hey Families! Visit the Junior Ranger Activity Center"
     }
   ],
   "map_thumbnail_zoom": 16,
