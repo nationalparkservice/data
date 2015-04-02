@@ -2767,6 +2767,32 @@
       "type": "Public Park"
     },
     {
+      "description": " With the onset of the gold rush, Dyea rapidly grew from a small settlement of native packers and a trading post into one of the largest towns in Alaska. At the height of the gold rush, Dyea bustled with a transient population of 5,000 to 8,000 with over 150 businesses. Stampeders could purchase supplies, post letters, get a hot meal and a dry bunk. Dyea died after the White Pass and Yukon Route railroad was completed from Skagway to Bennett in July 1899 .Ranger led tours available M-F at 2pm late May - early Sept. ",
+      "geofence_buffer_in_meters": 10,
+      "id": 51,
+      "information": [
+        {
+          "description": "Ranger led tours are offered from June through late August.",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.503188,
+      "longitude": -135.358845,
+      "map_thumbnail_image": 131,
+      "name": "Dyea Town Site",
+      "name_description": "historic site of Dyea, Alaska, a boomtown gone bust. Picnic tables, exhibits, and brochures can be found here.",
+      "primary_image": 65,
+      "type": "Public Park",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        }
+      ]
+    },
+    {
       "geofence_buffer_in_meters": 10,
       "id": 44,
       "information": [
@@ -2784,32 +2810,6 @@
           "icon": "wheelchair.png",
           "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "description": "With the onset of the gold rush, Dyea rapidly grew from a small settlement of native packers and a trading post into one of the largest towns in Alaska. At the height of the gold rush, Dyea bustled with a transient population of 5,000 to 8,000 with over 150 businesses. Stampeders could purchase supplies, post letters, get a hot meal and a dry bunk. Dyea died after the White Pass and Yukon Route railroad was completed from Skagway to Bennett in July 1899.",
-      "geofence_buffer_in_meters": 10,
-      "id": 51,
-      "information": [
-        {
-          "description": "Ranger led tours are offered from June through late August.",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.50318822,
-      "longitude": -135.3588447,
-      "map_thumbnail_image": 131,
-      "name": "Dyea Town Site",
-      "name_description": "This is the historic townsite of Dyea, Alaska, a boomtown gone bust. Picnic tables, exhibits, and brochures can be found here.",
-      "primary_image": 65,
-      "type": "Park",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
         }
       ]
     },
