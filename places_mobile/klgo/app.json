@@ -2244,7 +2244,7 @@
         70
       ],
       "name": "Arctic Brotherhood Building ",
-      "name_description": "The City Visitor Center is housed in this 1900 structure built by the Arctic Brotherhood, a fraternal group of miners.",
+      "name_description": "City Visitor Center - housed in this 1900 structure built by the Arctic Brotherhood, a fraternal group of miners.",
       "primary_image": 474,
       "type": "City Visitor Center",
       "services": [
@@ -2283,6 +2283,16 @@
       ]
     },
     {
+      "description": "Brought to Skagway to help US soldiers construct the Alaskan-Canadian Highway during WWII, this Abandoned Train now hides behind the McCabe building.  interesting to see but not safe to climb on!\n",
+      "geofence_buffer_in_meters": 10,
+      "id": 486,
+      "latitude": 59.455867,
+      "longitude": -135.310884,
+      "name": "Abandoned Train",
+      "name_description": "A rusty Giant hidden in the woods behind The McCabe Building",
+      "type": "Ruins"
+    },
+    {
       "description": "Yakutania Trail Head",
       "geofence_buffer_in_meters": 10,
       "id": 481,
@@ -2291,16 +2301,6 @@
       "name": "Delete this site",
       "primary_image": 476,
       "type": "Trail"
-    },
-    {
-      "description": "Brought to Skagway to help US soldiers construct the Alaskan-Canadian Highway during WWII, this Abandoned Train now hides behind the McCabe building\n",
-      "geofence_buffer_in_meters": 10,
-      "id": 486,
-      "latitude": 59.455867,
-      "longitude": -135.310884,
-      "name": "Abandoned Train",
-      "name_description": "A rusty Giant hidden in the woods behind The McCabe Building",
-      "type": "Historic Site"
     },
     {
       "audio_description": "Soapy's Parlor Museum.  1 ½ minutes.  Jefferson “Soapy” Smith’s parlor is a narrow, one-story building, 15 feet wide.  It stretches back 60 feet from street, and a simple pitched, shingled roof tops the building behind its false front.  Soapy’s is located on the south side of Second Avenue, between State Street and Broadway.  A metal fence five feet high separates the building from the boardwalk.  Grassy areas on both sides of the structure set it apart from the neighboring buildings.  The exterior walls on either side of the building are windowless..  Soapy’s is not currently open to the public. \n        \nThe building’s wooden, flat-topped facade is painted white, except for a black strip about a foot wide across the top, just below the roofline.  The words “Jeff. Smiths Parlor” have been stenciled in white capital letters on the black strip, but are badly faded.  A single windowed doorway is set into the right-hand side of the façade; a large square window is located immediately to its left.  The window and door, both trimmed in beige, together stretch across almost the entire width of the building.  White lace curtains adorn the window and door from inside.\n\nEnd of message.\n",
@@ -2466,32 +2466,6 @@
       ]
     },
     {
-      "description": "In many ways, Skagway was one of the last Western frontier towns. In two years’ time, Skagway’s population soared from just a handful to over 8,000 people and creating bountiful opportunities to start businesses and sell goods and services. Stampeder and entrepreneur Henry Boas constructed this building in September 1899, out of which he operated a tailor shop and fur business until 1903. This shop fits the stereotypical appearance of a western boomtown false front building, common in Gold Rush era architecture in Skagway. To grab the attention of thousands of potential customers, elaborate false fronts such as this projected an image of size, prosperity, and stability. A look at the roofline from the side will reveal its false front, which masked the simple, gabled-roof building behind. The use of this structure is also common to false-front structures in Skagway; a small shop on the first floor and the shopkeeper’s residence upstairs. The history of Boas Tailor and Furrier Shop mirror’s Skagway’s up-and-down, boom-and-bust frontier economy. Today it is part of the National Park Service’s Lease Back program, and is rented by a private business.",
-      "geofence_buffer_in_meters": 10,
-      "id": 19,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.454049,
-      "longitude": -135.317713,
-      "map_thumbnail_image": 104,
-      "name": "Boas Tailor & Furrier Shop",
-      "name_description": "Seizing his chance among ample business opportunity, stampeder Herman Boas built his residence and shop in late 1899.",
-      "primary_image": 38,
-      "type": "Business (NPS)",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
       "description": "The metal bridge spanning over the Skagway river, in front of the airport,  marks the head of trail leading to Yakutania Point, Smuggler's Cove, and the Pet Cemetery.  ",
       "geofence_buffer_in_meters": 10,
       "id": 495,
@@ -2570,6 +2544,32 @@
       "name": "Pullen House Informational Sign",
       "name_description": "Learn about Harriet Pullen, Entrepreneur and town promoter",
       "type": "Information Panel"
+    },
+    {
+      "description": "In many ways, Skagway was one of the last Western frontier towns. In two years’ time, Skagway’s population soared from just a handful to over 8,000 people and creating bountiful opportunities to start businesses and sell goods and services. Stampeder and entrepreneur Henry Boas constructed this building in September 1899, out of which he operated a tailor shop and fur business until 1903. This shop fits the stereotypical appearance of a western boomtown false front building, common in Gold Rush era architecture in Skagway. To grab the attention of thousands of potential customers, elaborate false fronts such as this projected an image of size, prosperity, and stability. A look at the roofline from the side will reveal its false front, which masked the simple, gabled-roof building behind. The use of this structure is also common to false-front structures in Skagway; a small shop on the first floor and the shopkeeper’s residence upstairs. The history of Boas Tailor and Furrier Shop mirror’s Skagway’s up-and-down, boom-and-bust frontier economy. Today it is part of the National Park Service’s Lease Back program, and is rented by a private business.",
+      "geofence_buffer_in_meters": 10,
+      "id": 19,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.454049,
+      "longitude": -135.317713,
+      "map_thumbnail_image": 104,
+      "name": "Boas Tailor & Furrier Shop",
+      "name_description": "Stampeder Herman Boas built his residence and shop in late 1899.",
+      "primary_image": 38,
+      "type": "Business (NPS)",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
     },
     {
       "description": "Beyond the Gold Rush, learn the history of the town of Skagway.",
@@ -2875,6 +2875,7 @@
       "type": "Plaque"
     },
     {
+      "description": "Built in 1859, this 176’ vessel endured in a storm, abandonment, piracy, and fire all before the ship wrecked in the bay north of Skagway in 1898.",
       "geofence_buffer_in_meters": 10,
       "id": 42,
       "information": [
@@ -2887,7 +2888,7 @@
       "longitude": -135.338747,
       "map_thumbnail_image": 126,
       "name": "Bark Canada Wreck (Nahku/Long Bay)",
-      "name_description": "Built in 1859, this 176’ vessel was caught in a storm and wrecked while heading to Skagway in 1898.",
+      "name_description": "An informational sign overlooking the sparse remains of the famous ship",
       "type": "Ruins"
     },
     {
