@@ -2385,10 +2385,10 @@
         }
       ],
       "latitude": 59.479002,
-      "longitude": -135.346708,
+      "longitude": -135.346922,
       "map_thumbnail_image": 127,
       "name": "Dyea Flats Overlook",
-      "name_description": "Dyea",
+      "name_description": "Interpretive Sign",
       "primary_image": 58,
       "type": "Wayside Exhibit",
       "services": [
@@ -2728,23 +2728,23 @@
         }
       ],
       "latitude": 59.505698,
-      "longitude": -135.3482168,
+      "longitude": -135.348217,
       "map_thumbnail_image": 128,
       "name": "Dyea Campground",
-      "name_description": "Camp near the historic Dyea Townsite. Self-registration available on-site.",
+      "name_description": "Camp near the Chilkoot trailhead. Self-registration available on-site.",
       "type": "Campground",
       "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        },
         {
           "description": "Handicapped Access",
           "icon": "wheelchair.png",
           "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
+        },
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
         }
       ]
     },
@@ -2758,13 +2758,13 @@
           "name": "Hours"
         }
       ],
-      "latitude": 59.4978573,
-      "longitude": -135.3600796,
+      "latitude": 59.491295,
+      "longitude": -135.359802,
       "map_thumbnail_image": 132,
       "name": "Dyea Flats",
-      "name_description": "Managed by the municipality of Skagway, the Dyea Flats offer a natural area and coastal community teeming with wildlife.",
+      "name_description": "Managed by the municipality of Skagway, the tidal Flats offer a natural area and coastal community teeming with wildlife.",
       "primary_image": 67,
-      "type": "Park"
+      "type": "Public Park"
     },
     {
       "geofence_buffer_in_meters": 10,
