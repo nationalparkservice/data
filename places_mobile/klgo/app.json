@@ -3343,13 +3343,13 @@
           "name": "Hours"
         }
       ],
-      "latitude": 59.45547,
-      "longitude": -135.314862,
+      "latitude": 59.455514,
+      "longitude": -135.314921,
       "map_thumbnail_image": 108,
-      "name": "Boss Bakery",
-      "name_description": "A trading post turned bakery, this structure embodies the zeal for entrepreneurship during the Klondike Gold Rush.",
+      "name": "Boss Bakery (NPS Trail Center)",
+      "name_description": "Maps, Permits, and visitor information Open Daily 8-5 May - Sept.",
       "primary_image": 40,
-      "type": "NPS Building",
+      "type": "Visitor Center",
       "services": [
         {
           "description": "Handicapped Access",
