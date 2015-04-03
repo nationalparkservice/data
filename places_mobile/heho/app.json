@@ -2,7 +2,7 @@
   "alerts": [],
   "categories": [
     {
-      "description": "Visit these twelve “must-see” sites to learn more about Herbert Hoover's past and present",
+      "description": "Visit these “must-see” sites to learn more about Herbert Hoover's past and present",
       "name": "Highlights",
       "sites": [
         383,
@@ -20,20 +20,6 @@
     },
     {
       "name": "Nearby"
-    },
-    {
-      "name": "Good for Families",
-      "sites": [
-        383,
-        384,
-        385,
-        386,
-        387,
-        388,
-        389,
-        390,
-        395
-      ]
     },
     {
       "description": "The West Branch Commercial Historic District illustrates the prosperous decades (1870-1916) when West Branch grew from a country town of wooden storefronts into a bustling center of rural commerce and decorative brick business blocks. ",
@@ -78,7 +64,7 @@
     },
     {
       "description": "\"In no other land could a boy from a country village, without inheritance or influential friends, look forward with unbounded hope.\" - Herbert Hoover",
-      "name": "Simple Beginnings",
+      "name": "Teachers",
       "sites": [
         384,
         385,
