@@ -2303,17 +2303,17 @@
           "name": "Hours"
         }
       ],
-      "latitude": 59.45382107,
+      "latitude": 59.453821,
       "longitude": -135.319148,
       "map_thumbnail_image": 88,
       "media": [
         69,
         79
       ],
-      "name": "Soapy's Parlor Museum",
-      "name_description": "Opening in 2016, this building was once headquarters for town villain “Soapy,” then a museum by a local entrepreneur.",
+      "name": "Soapy's Parlor Museum (Opening in 2016)",
+      "name_description": "This building was once headquarters for town villain “Soapy,” Later it was a museum by local entrepreneur Martin Itjen.",
       "primary_image": 17,
-      "type": "Historic Building",
+      "type": "Museum",
       "services": [
         {
           "description": "Handicapped Access",
@@ -2332,10 +2332,10 @@
           "name": "Hours"
         }
       ],
-      "latitude": 59.45456809,
-      "longitude": -135.3173831,
+      "latitude": 59.454568,
+      "longitude": -135.317383,
       "map_thumbnail_image": 99,
-      "name": "Sweet Tooth lot on Broadway",
+      "name": "Tlingit Heritage Wayside",
       "name_description": "Learn the traditional Tlingit words for several surrounding land marks at this wayside.",
       "primary_image": 33,
       "type": "Wayside Exhibit"
@@ -2925,6 +2925,24 @@
       ]
     },
     {
+      "description": "After the Gold Rush the WP&YR rail road installed a retaining wall along the water’s edge to hold back tide waters.  But before that retaining wall was completed the tide washed up passed 4th ave.  The spot you are at now was once part of a pier that jetted out into the water.  \nBack then, Jeff \"Soapy\" Smith controlled the crime in Skagway.  But as more respectable entrepreneurs arrived in town, his control was challenged.  The respectable folks in Skagway formed the \"Committee of 101\".  This group hoped to rid the town of crime in order to promote more business for the entrepreneurs.  For several months both Soapy and the committee of 101 posted propaganda promoting themselves.  On July 8th 1898 the tension between the two groups came to a head.  The committee was holding a meeting on the Warf.  Soapy walked onto the pier to challenge them.  Frank Reed and two other members of the Committee were at the front of the pier standing guard.  No one knows exactly what happened next but the result was Soupy Smith shot dead and Frank Reed mortally wounded, succumbing to those wounds 12 days later.  Today you can visit the resting place of both these men at the Gold Rush Cemetery located just outside of town.\n",
+      "geofence_buffer_in_meters": 10,
+      "id": 13,
+      "information": [
+        {
+          "description": "Available Year-Round",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.453787,
+      "longitude": -135.320975,
+      "map_thumbnail_image": 98,
+      "name": "Soapy and Reed Gunfight Plaque",
+      "name_description": "A shootout at this spot ended town villain “Soapy” Smith’s life on July 8, 1898.",
+      "primary_image": 32,
+      "type": "Plaque"
+    },
+    {
       "description": "First built in 1898 by a trading company, a third story and dome were added in 1908 to make this Skagway’s largest hotel.",
       "geofence_buffer_in_meters": 10,
       "id": 16,
@@ -2971,23 +2989,6 @@
       "type": "Historic Building"
     },
     {
-      "geofence_buffer_in_meters": 10,
-      "id": 13,
-      "information": [
-        {
-          "description": "Available Year-Round",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45380062,
-      "longitude": -135.3209639,
-      "map_thumbnail_image": 98,
-      "name": "Soapy and Reed Gunfight Plaque",
-      "name_description": "A shootout at this spot ended town villain “Soapy” Smith’s life on July 8, 1898.",
-      "primary_image": 32,
-      "type": "Plaque"
-    },
-    {
       "description": "Built in 1859, this 176’ vessel endured in a storm, abandonment, piracy, and fire all before the ship wrecked in the bay north of Skagway in 1898.",
       "geofence_buffer_in_meters": 10,
       "id": 42,
@@ -3032,6 +3033,24 @@
           "type": "Restroom"
         }
       ]
+    },
+    {
+      "description": "Hotels like this one were common in gold rush towns.  Simple construction and a false front do not make this building unique; however it was in this hotel that Thomas Tancred and Mike Heney formed the idea of a train over the White Pass in 1897.  The tracks would be completed in just two years two months and two days after construction began.",
+      "geofence_buffer_in_meters": 10,
+      "id": 15,
+      "information": [
+        {
+          "description": "PRIVATE",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.454692,
+      "longitude": -135.315835,
+      "map_thumbnail_image": 100,
+      "name": "St. James Hotel",
+      "name_description": "Private Business",
+      "primary_image": 34,
+      "type": "Historic Building"
     },
     {
       "geofence_buffer_in_meters": 10,
@@ -3083,23 +3102,6 @@
       "name_description": "International Boundary",
       "primary_image": 57,
       "type": "Wayside Exhibit"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 15,
-      "information": [
-        {
-          "description": "PRIVATE",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45469213,
-      "longitude": -135.3158355,
-      "map_thumbnail_image": 100,
-      "name": "St. James Hotel",
-      "name_description": "Thomas Tancred and Mike Heney formed the idea of a train over the White Pass at this hotel in 1897.",
-      "primary_image": 34,
-      "type": "Historic Building"
     },
     {
       "geofence_buffer_in_meters": 10,
@@ -3408,32 +3410,6 @@
       ]
     },
     {
-      "description": "Built in 1899 by Frederick and Nathalie Verbauwhede, this store took full advantage of its corner location near the newly constructed train depot to attract business. Here travelers could easily purchase the candies, nuts, fruits, cigars, and pastries they desired before boarding their train north. This structure is indicative of a story common in Skagway’s history, of abundant opportunities for entrepreneurship, as it has housed more than seven different businesses in the last hundred years. After a series of uses as a barber, gun, and curio shop, the building became the Alaska Transfer Company express office. Today the building is part of Klondike Gold Rush National Historical Park’s Lease Back Program and houses a private business.",
-      "geofence_buffer_in_meters": 10,
-      "id": 17,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.4539533,
-      "longitude": -135.3177989,
-      "map_thumbnail_image": 102,
-      "name": "Verbauwhede Cigar Store & Confectionery",
-      "name_description": "The Verbauwhede Cigar Store and Confectionery opened shortly after the Gold Rush to sell snacks to train passengers.",
-      "primary_image": 36,
-      "type": "Business (NPS)",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
       "geofence_buffer_in_meters": 10,
       "id": 11,
       "information": [
@@ -3513,6 +3489,32 @@
           "icon": "restroom.png",
           "icon_@2x": "restroom@2x.png",
           "type": "Restroom"
+        }
+      ]
+    },
+    {
+      "description": "Built in 1899 by Frederick and Nathalie Verbauwhede, this store took full advantage of its corner location near the newly constructed train depot to attract business. Here travelers could easily purchase the candies, nuts, fruits, cigars, and pastries they desired before boarding their train north. This structure is indicative of a story common in Skagway’s history, of abundant opportunities for entrepreneurship, as it has housed more than seven different businesses in the last hundred years. After a series of uses as a barber, gun, and curio shop, the building became the Alaska Transfer Company express office. Today the building is part of Klondike Gold Rush National Historical Park’s Lease Back Program and houses a private business.",
+      "geofence_buffer_in_meters": 10,
+      "id": 17,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.453953,
+      "longitude": -135.317799,
+      "map_thumbnail_image": 102,
+      "name": "Verbauwhede Cigar Store & Confectionery",
+      "name_description": "Private Business",
+      "primary_image": 36,
+      "type": "Business (NPS)",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
         }
       ]
     },
