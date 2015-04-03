@@ -2700,6 +2700,32 @@
       ]
     },
     {
+      "description": " In 1900 it originally housed the all black Company L, 24th Infantry as a two-story army barracks. Brought here to protect American territory during the gold rush, the troops departed in 1904 for Fort William Seward in Haines, Alaska. After the barracks was moved to its present location, an open store area was built with a flowing stairway leading upstairs and a new false-front attached. By 1907-1908, Skagway’s glory days of the Klondike Gold Rush had passed. Vacant, derelict buildings lined the streets, giving Skagway the appearance, as described by one visitor, of “the scrap-heap of creation.” In an attempt to centralize businesses in the downtown area and create a new Skagway, several buildings, including this one, were moved to new locations along Broadway in 1908.Partners Lynch & Kennedy were the first owners of the new store and sold men’s attire and dry goods, and theirs is one of the town’s finest examples of false front architecture and reflects the hoped-for stability in Skagway. The local paper, The Daily Alaskan, reported that “The store is just about the handsomest in the city… It is a fine addition to business life of the city.” It remains a fine example of Gold Rush era architecture, and today continues its role in Skagway’s commercial present as part of the National Park Service’s Lease Back Program.",
+      "geofence_buffer_in_meters": 10,
+      "id": 20,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.454538,
+      "longitude": -135.316731,
+      "map_thumbnail_image": 105,
+      "name": "Lynch & Kennedy",
+      "name_description": "Once the barracks for the all black Company L, 24th Infantry, today this building houses a private business",
+      "primary_image": 39,
+      "type": "Business (NPS)",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
       "description": "The Pantheon’s history is a diverse one, much like the history of Skagway itself. Constructed in increments over the decades, it began as a simple flop house called the “Rosalie Hotel.” Lodging houses like the Rosalie were usually board and batten structures that went up quickly to meet the lodging needs of the stampeders. With thousands of anxious prospectors wildly making their way through Skagway on their way to the Klondike Gold Fields, some could find rest on the many bunks and cots within, and feast on meals served en masse. As the Gold Rush era waned, the hotel was remodeled in 1898 to serve as a hardware store. The new owner transformed the shack-like building into a more permanent, sturdy structure and added the false front facing Broadway. Today the Pantheon Saloon is a kid-friendly Junior Ranger Center, where children complete their own journey of the Klondike Gold Rush.",
       "geofence_buffer_in_meters": 10,
       "id": 6,
@@ -3099,6 +3125,24 @@
       "type": "Wayside Exhibit"
     },
     {
+      "description": "The building was home to the first YMCA in Alaska in 1898. A gymnasium was constructed in 1900 and contained baths, handball court, photo darkroom and reading room. After the gold rush, population declined and In 1902, Herman Meyer bought the building and remodeled it as meat locker. A string of businesses later operated here after the meat company closed, and lastly it was used by George Rapuzzi as a warehouse for his gold rush era collections. In December 2008, The Rasmuson Foundation donated the Meyer Building to the National Park Service. The YMCA and Meyer Complex is being restored for future use as public museum.",
+      "geofence_buffer_in_meters": 10,
+      "id": 29,
+      "information": [
+        {
+          "description": "Open by Ranger tour only until rehabilitated.",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.456072,
+      "longitude": -135.317187,
+      "map_thumbnail_image": 114,
+      "name": "Meyers Complex - YMCA",
+      "name_description": "The first YMCA in Alaksa, this building is undergoing renovation.",
+      "primary_image": 46,
+      "type": "Historic Building (NPS)"
+    },
+    {
       "description": "This little structure typifies early gold rush era businesses. There was nothing pretentious about Goldberg’s Cigar Store—just four walls, a shop and a residence in the back. Stores like this one were quickly assembled of wood and lined the streets at the start of the gold rush. Goldberg sold his cigars, candy and tobacco from this shop and like many other merchants, followed the stampeders elsewhere after making his money in Skagway.",
       "geofence_buffer_in_meters": 10,
       "id": 24,
@@ -3117,36 +3161,18 @@
       "type": "Historic Building"
     },
     {
-      "description": "The building was home to the first YMCA in Alaska in 1898. A gymnasium was constructed in 1900 and contained baths, handball court, photo darkroom and reading room. After the gold rush, population declined and In 1902, Herman Meyer bought the building and remodeled it as meat locker. A string of businesses later operated here after the meat company closed, and lastly it was used by George Rapuzzi as a warehouse for his gold rush era collections. In December 2008, The Rasmuson Foundation donated the Meyer Building to the National Park Service. The YMCA and Meyer Complex is being restored for future use as public museum.",
-      "geofence_buffer_in_meters": 10,
-      "id": 29,
-      "information": [
-        {
-          "description": "Open by Ranger tour only until rehabilitated.",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45604026,
-      "longitude": -135.3172383,
-      "map_thumbnail_image": 114,
-      "name": "Meyers Complex - YMCA",
-      "name_description": "A modern photograph of the Portland House, a false front building undergoing renovation.",
-      "primary_image": 46,
-      "type": "Historic Building (NPS)"
-    },
-    {
       "description": "Listen for the clinking of bottles, laughter, and chatter from the interior of the Mascot, a Gold Rush-era saloon that supplied alcohol to thirsty stampeders and served as a gathering place where men could play pool, gamble, and listen to music. Originally constructed in 1898, a corner entry led to the “Mascotte” saloon, owned by Charles Rohbak, who sold liquor, cigars, and fresh beer on draft for ten cents. In early 1899, however, a new law came into force as Skagway transitioned from frontier town to family town, requiring Skagway’s saloons to pay a $1,500 license fee in order to remain open. Of the 80 saloons reported open in January 1899, all but a dozen had closed by April, including Rohbak’s “Mascotte.” After its closure, entrepreneur Albert Reinert and a partner purchased the building, paid the license fee, and began remodeling the interior. As a former restaurant owner, Reinert knew how to keep customers with offers of free lunches including clam chowder, spareribs, enchiladas, and more, along with locally brewed pilsner beer for a nickel a schooner. But moral reforms were sweeping Skagway at the start of the 20th century, and by 1916 Skagway had voted itself a “dry” town. Impressively, the renamed “Mascot” was one of only three Gold Rush-era saloons that survived until local prohibition. Eventually Reinert sold the Mascot to Perry Hern, who converted the interior to a pharmacy, and owned the complex for the next thirty years. In 1974 the National Park Foundation acquired the structure from George Rapuzzi and Charles Hermans, and in 1976, building ownership transferred to the National Park Service. The Mascot Saloon was restored to its 1905-1916 appearance and today exhibits within depict town life, and replica beer bottles of the brand distributed by the Mascot during its heyday line the shelves.",
       "geofence_buffer_in_meters": 10,
       "id": 5,
-      "latitude": 59.454013,
-      "longitude": -135.317402,
+      "latitude": 59.454133,
+      "longitude": -135.317544,
       "map_thumbnail_image": 90,
       "media": [
         71,
         80
       ],
       "name": "Mascot Saloon",
-      "name_description": "Learn about Gold Rush-era saloon culture and entrepreneurship at the historic Mascot saloon, now a museum.",
+      "name_description": "Now a museum, learn about Gold Rush-era saloon culture and entrepreneurship at the historic Mascot saloon.",
       "primary_image": 19,
       "type": "Museum",
       "services": [
@@ -3390,32 +3416,6 @@
       "name": "Verbauwhede Cigar Store & Confectionery",
       "name_description": "The Verbauwhede Cigar Store and Confectionery opened shortly after the Gold Rush to sell snacks to train passengers.",
       "primary_image": 36,
-      "type": "Business (NPS)",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "description": "By 1907-1908, Skagway’s glory days of the Klondike Gold Rush had passed. Vacant, derelict buildings lined the streets, giving Skagway the appearance, as described by one visitor, of “the scrap-heap of creation.” In an attempt to centralize businesses in the downtown area and create a new Skagway, several buildings, including this one, were moved to new locations along Broadway in 1908. In 1900 it originally housed the all black Company L, 24th Infantry as a two-story army barracks. Brought here to protect American territory during the gold rush, the troops departed in 1904 for Fort William Seward in Haines, Alaska. After the barracks was moved to its present location, an open store area was built with a flowing stairway leading upstairs and a new false-front attached. Partners Lynch & Kennedy were the first owners of the new store and sold men’s attire and dry goods, and theirs is one of the town’s finest examples of false front architecture and reflects the hoped-for stability in Skagway. The local paper, The Daily Alaskan, reported that “The store is just about the handsomest in the city… It is a fine addition to business life of the city.” It remains a fine example of Gold Rush era architecture, and today continues its role in Skagway’s commercial present as part of the National Park Service’s Lease Back Program.",
-      "geofence_buffer_in_meters": 10,
-      "id": 20,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45450402,
-      "longitude": -135.3166991,
-      "map_thumbnail_image": 105,
-      "name": "Lynch & Kennedy",
-      "name_description": "The story of the Lynch and Kennedy exemplifies the entrepreneurial spirit and architecture of early Skagway.",
-      "primary_image": 39,
       "type": "Business (NPS)",
       "services": [
         {
