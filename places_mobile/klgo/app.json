@@ -2324,41 +2324,6 @@
       ]
     },
     {
-      "audio_description": "White Pass & Yukon Route Depot.  1 ¼ minutes.  The White Pass & Yukon Route Depot is situated on the south side of Second Avenue, between Broadway and Spring Street.  It is painted white with green trim.  The western half of the wooden building is two stories tall, dropping to just one story on the eastern side.  Further to the east is a large parking area.  On both the north and south-facing facades, maroon letters on the second story read “White Pass & Yukon Route, Established 1898.”  \n\nYou may enter the building on the north side from Second Avenue.  It’s two steps up to the door from the sidewalk, and there’s a ramp near the right-hand edge of the building.  Or you can enter the depot from the south.  A covered cement porch runs the length of the building on the south side and a doorway provides access from the porch.  The porch also serves as the railroad platform; the tracks are located a few feet to the south, parallel to it.  Please watch your step near the tracks and listen for oncoming trains.\n\nEnd of message.",
-      "description": "This ornate building was designed by Seattle architect Henry Dozier to house the White Pass and Yukon Route Railroad administration.  Completed in 1900, the building today serves as headquarters for Klondike Gold Rush National Historical Park, featuring a museum with exhibits about the gold rush.",
-      "geofence_buffer_in_meters": 10,
-      "id": 2,
-      "information": [
-        {
-          "description": "Elaborate woodwork and plastered walls and ceilings adorn a handsome interior. The entire building was erected around a two-story fireproof vault made of brick and steel over a stone foundation. Offices and a baggage room completed the plan. ",
-          "name": "Architecture of the Park Museum Building"
-        },
-        {
-          "description": "Open Seasonally Monday through Friday, 10am-12pm and 1pm-3pm, Closed Saturday and Sunday",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.453438,
-      "longitude": -135.318378,
-      "map_thumbnail_image": 87,
-      "media": [
-        14,
-        68
-      ],
-      "name": "Park Museum Building",
-      "name_description": "The historic Railroad Administration office houses Klondike Gold Rush National Historical Park’s museum and offices.",
-      "primary_image": 16,
-      "type": "Museum",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
       "geofence_buffer_in_meters": 10,
       "id": 14,
       "information": [
@@ -2401,8 +2366,8 @@
       ]
     },
     {
-      "description": "The Red Front Building was originally a paint and wallpaper company built during the gold rush. The structure changed hands frequently, much like other historical structures in Skagway, as entrepreneurs came to town, made money, and moved on to their next opportunity. The Red Front was later used as a hardware store and liquor storage for the Pantheon Saloon before it was demolished sometime between 1926 and 1934. The NPS acquired the Pantheon Saloon in 1977 and during its restoration, and replica of the gold rush era Red front building was constructed on the same site as the original structure. Today this building is operated by the Lease Back Program.",
-      "geofence_buffer_in_meters": 10,
+      "description": "The Red Front Building was originally a paint and wallpaper company built during the gold rush. The structure changed hands frequently, much like other historical structures in Skagway, as entrepreneurs came to town, made money, and moved on to their next opportunity. The Red Front was later used as a hardware store and liquor storage for the Pantheon Saloon before it was demolished sometime between 1926 and 1934. The NPS acquired the Pantheon Saloon next door in 1977.  During its restoration, a replica of the gold rush era Red front building was constructed on the same site as the original structure. Today this building is operated by the Lease Back Program.",
+      "geofence_buffer_in_meters": 0,
       "id": 21,
       "information": [
         {
@@ -2410,10 +2375,11 @@
           "name": "Hours"
         }
       ],
-      "latitude": 59.45479,
-      "longitude": -135.3169,
+      "latitude": 59.454773,
+      "longitude": -135.316833,
       "map_thumbnail_image": 106,
       "name": "Red Front Building",
+      "name_description": "Private business.  ",
       "type": "Building (NPS)",
       "services": [
         {
@@ -2526,17 +2492,6 @@
       ]
     },
     {
-      "description": "Once the premier hotel in Alaska,  the Pullen House catered to travels and even President Warren G. Harding.  Unfortunately the building burned down in the 90's.  The Chimney is all that remains today. ",
-      "geofence_buffer_in_meters": 0,
-      "id": 491,
-      "latitude": 59.45551,
-      "longitude": -135.313067,
-      "map_thumbnail_image": 480,
-      "name": "Pullen House Informational Sign",
-      "name_description": "Learn about Harriet Pullen, Entrepreneur and town promoter",
-      "type": "Information Panel"
-    },
-    {
       "description": "In many ways, Skagway was one of the last Western frontier towns. In two years’ time, Skagway’s population soared from just a handful to over 8,000 people and creating bountiful opportunities to start businesses and sell goods and services. Stampeder and entrepreneur Henry Boas constructed this building in September 1899, out of which he operated a tailor shop and fur business until 1903. This shop fits the stereotypical appearance of a western boomtown false front building, common in Gold Rush era architecture in Skagway. To grab the attention of thousands of potential customers, elaborate false fronts such as this projected an image of size, prosperity, and stability. A look at the roofline from the side will reveal its false front, which masked the simple, gabled-roof building behind. The use of this structure is also common to false-front structures in Skagway; a small shop on the first floor and the shopkeeper’s residence upstairs. The history of Boas Tailor and Furrier Shop mirror’s Skagway’s up-and-down, boom-and-bust frontier economy. Today it is part of the National Park Service’s Lease Back program, and is rented by a private business.",
       "geofence_buffer_in_meters": 10,
       "id": 19,
@@ -2553,6 +2508,25 @@
       "name_description": "Stampeder Herman Boas built his residence and shop in late 1899.",
       "primary_image": 38,
       "type": "Business (NPS)",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "description": "Once the premier hotel in Alaska,  the Pullen House catered to travels and even President Warren G. Harding.  Unfortunately the building burned down in the 90's.  The Chimney is all that remains today. ",
+      "geofence_buffer_in_meters": 0,
+      "id": 491,
+      "latitude": 59.45551,
+      "longitude": -135.313067,
+      "map_thumbnail_image": 480,
+      "name": "Pullen House Informational Sign",
+      "name_description": "Learn about Harriet \"Ma\" Pullen, Entrepreneur and town promoter",
+      "type": "Interprative Panel",
       "services": [
         {
           "description": "Handicapped Access",
@@ -2736,15 +2710,15 @@
           "name": "Hours"
         }
       ],
-      "latitude": 59.45486116,
-      "longitude": -135.3167957,
+      "latitude": 59.454831,
+      "longitude": -135.316729,
       "map_thumbnail_image": 91,
       "media": [
         72,
         81
       ],
-      "name": "Pantheon Saloon",
-      "name_description": "The Pantheon’s historic use ranges from hotel to saloon to hardware store and is now the Junior Ranger Activity Center.",
+      "name": "Pantheon Saloon (Junior Ranger Activity Center)",
+      "name_description": "Families! Dress up like a gold miner, pet real animal pelts, earn your Junior Ranger Badge, and much more ",
       "primary_image": 20,
       "type": "Children's Center",
       "services": [
@@ -2772,8 +2746,8 @@
           "name": "Hours"
         }
       ],
-      "latitude": 59.455063,
-      "longitude": -135.314204,
+      "latitude": 59.454918,
+      "longitude": -135.314194,
       "map_thumbnail_image": 92,
       "media": [
         73,
@@ -2828,6 +2802,59 @@
           "type": "Restroom"
         }
       ]
+    },
+    {
+      "audio_description": "White Pass & Yukon Route Depot.  1 ¼ minutes.  The White Pass & Yukon Route Depot is situated on the south side of Second Avenue, between Broadway and Spring Street.  It is painted white with green trim.  The western half of the wooden building is two stories tall, dropping to just one story on the eastern side.  Further to the east is a large parking area.  On both the north and south-facing facades, maroon letters on the second story read “White Pass & Yukon Route, Established 1898.”  \n\nYou may enter the building on the north side from Second Avenue.  It’s two steps up to the door from the sidewalk, and there’s a ramp near the right-hand edge of the building.  Or you can enter the depot from the south.  A covered cement porch runs the length of the building on the south side and a doorway provides access from the porch.  The porch also serves as the railroad platform; the tracks are located a few feet to the south, parallel to it.  Please watch your step near the tracks and listen for oncoming trains.\n\nEnd of message.",
+      "description": "This ornate building was designed by Seattle architect Henry Dozier to house the White Pass and Yukon Route Railroad administration.  Completed in 1900, the building today serves as headquarters for Klondike Gold Rush National Historical Park, featuring a museum with exhibits about the gold rush.",
+      "geofence_buffer_in_meters": 10,
+      "id": 2,
+      "information": [
+        {
+          "description": "Elaborate woodwork and plastered walls and ceilings adorn a handsome interior. The entire building was erected around a two-story fireproof vault made of brick and steel over a stone foundation. Offices and a baggage room completed the plan. ",
+          "name": "Architecture of the Park Museum Building"
+        },
+        {
+          "description": "Open Seasonally Monday through Friday, 10am-12pm and 1pm-3pm, Closed Saturday and Sunday",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.453438,
+      "longitude": -135.318378,
+      "map_thumbnail_image": 87,
+      "media": [
+        14,
+        68
+      ],
+      "name": "Park Museum Building",
+      "name_description": "The historic Railroad Administration office houses the Park’s museum and offices.",
+      "primary_image": 16,
+      "type": "Museum",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "description": "This was the original home of Skagway’s founder, Captain William Moore. It is one of the oldest surviving structures in Skagway and was built circa 1897. It served as the center for all of Moore’s Alaska and Northwest Trading Company business and his personal residence.  Over the years, the building provided office space for the Skagway Chamber of Commerce, the Alaska Road Commission and has housed a hotel, a retail outlet, a bank, law offices, a dentist, and most recently a restaurant and apartments. Today, it is privately owned and was restored under guidance of the National Historic Landmark Technical Assistance program.  Who was Captain Moore? Moore was born in Emden, Germany on March 30, 1822. As an adult, he was in almost every Pacific Coast gold rush from California to the Klondike. Skagway provided his final success. After completing an exploration of White Pass with Skookum Jim Mason for the Canadian government in 1887, Moore realized the commercial potential of Skagway. He and his son Ben built a log cabin and Skagway’s first wharf. When Skagway became the gateway to the Klondike 10 years later, Moore’s prediction about a gold rush to Alaska and the Yukon came true. The Portland House is privately owned and was restored under guidance of the National Historic Landmark Technical Assistance program.",
+      "geofence_buffer_in_meters": 10,
+      "id": 28,
+      "information": [
+        {
+          "description": "PRIVATE",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.455904,
+      "longitude": -135.316694,
+      "map_thumbnail_image": 113,
+      "name": "Portland House",
+      "name_description": "Private Residence. This house was built by Skagway’s founder, Captain William Moore, in 1897.",
+      "primary_image": 45,
+      "type": "Historic Building"
     },
     {
       "description": "Managed by the municipality of Skagway, the Dyea Flats offer a natural area for wildlife viewing, photography and exploring a coastal community teeming with life.  In the spring and summer, colorful wildflowers blanket the area. The Long Wharf, originally 7,500 feet in length, was constructed at the height of the Klondike Gold Rush to stretch the distance of the tidal mud flats. Remnants of its piling are still visible on the Dyea Flats.",
@@ -3262,37 +3289,6 @@
       ]
     },
     {
-      "description": "Named for Gold Rush entrepreneur Harriet Pullen, is a beautiful spot to relax, picnic, and see salmon run.",
-      "geofence_buffer_in_meters": 10,
-      "id": 32,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.451988,
-      "longitude": -135.316753,
-      "map_thumbnail_image": 117,
-      "name": "Pullen Creek Shoreline Park",
-      "primary_image": 49,
-      "type": "Park",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        },
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        }
-      ]
-    },
-    {
       "description": "Skagway's booming tourism industry began just as the Gold Rush was ending in the summer of 1898 with the first boatload of sightseers to the city. Martin Itjen, a Gold rush stampeder and Skagway’s premier tour operator bought this house in 1922 and originally stood on piers near Moore’s Wharf. From that location, Martin and his wife Lucy greeted passing tourists, sold fruit and candies, and booked rides on Itjen’s innovative Skagway Streetcars. During his tours, Itjen recited poetry and told humorous anecdotes about the town, keeping the gold rush tales alive. The Itjen House was later moved several times to other locations before finding its present home in 1978. ",
       "geofence_buffer_in_meters": 10,
       "id": 12,
@@ -3334,6 +3330,38 @@
       "name_description": "Public Park",
       "primary_image": 473,
       "type": "Cemetery, Trail",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        },
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        }
+      ]
+    },
+    {
+      "description": "Named for Gold Rush entrepreneur Harriet Pullen, this park is a beautiful spot to relax, picnic.  A salmon run takes place at the end of each summer.  Although salmon historically ran up the Skagway valley,  the salmon run was lost due to the river being diverted so many times during the gold rush.  The salmon that run these waters today are part of a reintroduction effort originally created by the Skagway High school in the 1980's.",
+      "geofence_buffer_in_meters": 10,
+      "id": 32,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.451977,
+      "longitude": -135.316495,
+      "map_thumbnail_image": 117,
+      "name": "Pullen Creek Shoreline Park",
+      "name_description": "Picnic area and seasonal salmon run",
+      "primary_image": 49,
+      "type": "City Park",
       "services": [
         {
           "description": "Handicapped Access",
@@ -3485,7 +3513,7 @@
       ]
     },
     {
-      "description": "Located at 5th and Broadway, this garden is a great place to see gigantic rhubarb plants and beautiful native flowers.  The private business next door offers a free Alaska Museum",
+      "description": "Located at 5th and Broadway, this garden is a great place to see gigantic rhubarb plants and beautiful native flowers.  The private business next door offers a free Alaska Museum.",
       "geofence_buffer_in_meters": 10,
       "id": 26,
       "information": [
@@ -3498,6 +3526,7 @@
       "longitude": -135.315422,
       "map_thumbnail_image": 111,
       "name": "Rhubarb Garden",
+      "name_description": "As early as 1910, Skagway has been called the \"Garden City of Alaska\"  at this garden it is easy to see why",
       "primary_image": 43,
       "type": "Public Park"
     },
@@ -3513,42 +3542,6 @@
       "type": "Park"
     },
     {
-      "description": "This was the original home of Skagway’s founder, Captain William Moore. It is one of the oldest surviving structures in Skagway and was built circa 1897. It served as the center for all of Moore’s Alaska and Northwest Trading Company business and his personal residence.  Over the years, the building provided office space for the Skagway Chamber of Commerce, the Alaska Road Commission and has housed a hotel, a retail outlet, a bank, law offices, a dentist, and most recently a restaurant and apartments. Today, it is privately owned and was restored under guidance of the National Historic Landmark Technical Assistance program.  Who was Captain Moore? Moore was born in Emden, Germany on March 30, 1822. As an adult, he was in almost every Pacific Coast gold rush from California to the Klondike. Skagway provided his final success. After completing an exploration of White Pass with Skookum Jim Mason for the Canadian government in 1887, Moore realized the commercial potential of Skagway. He and his son Ben built a log cabin and Skagway’s first wharf. When Skagway became the gateway to the Klondike 10 years later, Moore’s prediction about a gold rush to Alaska and the Yukon came true. The Portland House is privately owned and was restored under guidance of the National Historic Landmark Technical Assistance program.",
-      "geofence_buffer_in_meters": 10,
-      "id": 28,
-      "information": [
-        {
-          "description": "PRIVATE",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45586579,
-      "longitude": -135.3167689,
-      "map_thumbnail_image": 113,
-      "name": "Portland House",
-      "name_description": "The Portland House was built by Skagway’s founder, Captain William Moore, in 1897 as a residence and business office.",
-      "primary_image": 45,
-      "type": "Historic Building"
-    },
-    {
-      "description": "The Peniel Mission, built in 1900, offered religious and humanitarian services to the stampeders. Between 1900 and 1910 the mission kept its doors open. Just a block from the heart of Skagway's saloons, gambling halls, and the red-light district, the mission offered nightly meetings, Sunday services, shelter, and warmth. As Skagway declined, support for the mission dwindled. By 1911 the building fell into disuse, although it continued to serve as a home for missionaries. In 1937 it was remodeled as a doctor's office and residence. After the National Park Service acquired the building in 1978 the interior was altered to provide housing for park seasonal staff.",
-      "geofence_buffer_in_meters": 10,
-      "id": 30,
-      "information": [
-        {
-          "description": "PRIVATE",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45533145,
-      "longitude": -135.3136924,
-      "map_thumbnail_image": 115,
-      "name": "Peniel Mission",
-      "name_description": "The Peniel Mission, built in 1900, offered religious and humanitarian services to stampeders until 1910.",
-      "primary_image": 47,
-      "type": "Building"
-    },
-    {
       "geofence_buffer_in_meters": 10,
       "id": 48,
       "information": [
@@ -3560,6 +3553,24 @@
       "name_description": "From Long Ago, This Has Been Tlingit Land",
       "primary_image": 62,
       "type": "Wayside Exhibit"
+    },
+    {
+      "description": "The Peniel Mission, built in 1900, offered religious and humanitarian services to the stampeders. Between 1900 and 1910 the mission kept its doors open. Just a block from the heart of Skagway's saloons, gambling halls, and the red-light district, the mission offered nightly meetings, Sunday services, shelter, and warmth. As Skagway declined, support for the mission dwindled. By 1911 the building fell into disuse, although it continued to serve as a home for missionaries. In 1937 it was remodeled as a doctor's office and residence. After the National Park Service acquired the building in 1978 the interior was altered to provide housing for park seasonal staff.",
+      "geofence_buffer_in_meters": 10,
+      "id": 30,
+      "information": [
+        {
+          "description": "PRIVATE",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.4554,
+      "longitude": -135.313612,
+      "map_thumbnail_image": 115,
+      "name": "Peniel Mission",
+      "name_description": "Private residence.  Built in 1900, the Peniel Mission offered religious and humanitarian services until 1910.",
+      "primary_image": 47,
+      "type": "Building"
     }
   ],
   "tours": [
