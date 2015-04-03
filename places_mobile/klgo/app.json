@@ -2518,6 +2518,17 @@
       ]
     },
     {
+      "description": " Learn the history of the town of Skagway. From a Tlingit hunting camp to helping win World War II.",
+      "geofence_buffer_in_meters": 1.5239999512320015,
+      "id": 490,
+      "latitude": 59.452132,
+      "longitude": -135.320905,
+      "map_thumbnail_image": 479,
+      "name": "Skagway's History Exhibit",
+      "name_description": "Skagway's story before & beyond just a gold rush",
+      "type": "interpretive panels"
+    },
+    {
       "description": "Once the premier hotel in Alaska,  the Pullen House catered to travels and even President Warren G. Harding.  Unfortunately the building burned down in the 90's.  The Chimney is all that remains today. ",
       "geofence_buffer_in_meters": 0,
       "id": 491,
@@ -2535,16 +2546,6 @@
           "type": "Handicapped Access"
         }
       ]
-    },
-    {
-      "description": "Beyond the Gold Rush, learn the history of the town of Skagway.",
-      "geofence_buffer_in_meters": 1.5239999512320015,
-      "id": 490,
-      "latitude": 59.452132,
-      "longitude": -135.320905,
-      "map_thumbnail_image": 479,
-      "name": "Skagway's History Exhibit",
-      "type": "Outdoor Exhibit"
     },
     {
       "description": "**Lower Dewey Lake**\n\n\n- Time: 1 - 2 hours\n- Distance: 0.9 mile (1.4 km) to lake/3.6 miles (5.8 km) round trip\n- Rating: Moderate\n- Elevation Gain: 500 ft. (150 m)\nFollow all posted signs; a strenuous start leads up a 500ft elevation gain in a half a mile.  From here the trail loops around the lake.  Be sure to follow all posted signs as several trails offshoot from the lake trail.\n\n**Sturgill's Landing**\n\n\n- Time: 4 - 5 hours\n- Distance: 7 miles (11 km) round trip\n- Rating: Moderate\n- Elevation Gain: 500 ft. (150 m)\nStart by following the trail to Lower Dewey Lake.  Follow the trail to the south end of the lake.  Follow the trail to the right (south) through a mixed stand of spruce, hemlock, and lodgepole pine.  The trail continues south to where a stream pours into the ocean at a rocky beach.\n\n**Icy Lake and Upper Reid Falls**\n\n\n- Time: 3 - 4 hours\n- Distance: 7 miles (11 km) round trip\n- Rating: Steep to moderate\n- Elevation Gain: 850 ft. (250 m)\n\nForm the trailhead, follow the service road OR Start by following the trail to Lower Dewey Lake.  Regardless of your start, turn left at the junction sign and follow the trail north through spruce and hemlock forest.   Rest at beautiful Icy Lake before continuing on Upper Reid Falls.  \n\n**Upper Dewey Lake**\n\n\n- Time: 5 - 6 hours\n- Distance: 6 miles (9.7 km) round trip\n- Rating: Strenuous\n- Elevation Gain: 3,100 ft. (930 m)\n\nStart by following the trail to Lower Dewey Lake .  Go left at the junction sign, follow the trail north across several wooden footbridges to the Upper Dewey Lake trail junction sign and turn right (east) up the trail. The route climbs steeply through a series of switchbacks. About 800 feet above Lower Dewey Lake there is a view of town. Near the trail’s end, the climb eases, and the route follows Dewey Creek closely for a short way. It finally emerges from the trees into a muskeg meadow, where there are views of Mt. Harding and the inlet below. A primitive cabin sits by the lake and is open to the public. Follow the trail to the left from this cabin across a spillway to a new cabin perched on the northwest end of the lake. This cabin is available for rent through the Skagway Recreation Center (907-983-2679, www.skagwayrecreation.org). Overnight campers should carry a cooking stove and not cut any live wood.\n \nDevil's Punchbowl\n\n\n- Time: All Day - 2 hours from Upper Dewey Lake\n- Distance: 2.5 miles (4 km) round trip from Upper Dewey Lake\n- Rating: Strenuous\n- Elevation Gain: 600 ft. (180 m)\n\nThe trail to Devil’s punch bowl is easy to moderate; however to get the trail head a visitor must first hike the strenuous trail to Upper Dewey Lake.  Once to the lake, follow the narrow footpath south from the primitive cabin up the alpine ridge to a spectacular overlook. Watch for rock cairns where the trail crosses boulder fields. ",
@@ -2618,6 +2619,7 @@
       "type": "Wayside Exhibit"
     },
     {
+      "description": "Located in Centennial, Rotary Snowplow No. 1, built in 1899 and used by the White Pass & Yukon Route to clear up to 12 feet of snow.",
       "geofence_buffer_in_meters": 10,
       "id": 10,
       "information": [
@@ -2626,14 +2628,14 @@
           "name": "Hours"
         }
       ],
-      "latitude": 59.453235,
-      "longitude": -135.319172,
+      "latitude": 59.45319,
+      "longitude": -135.319108,
       "map_thumbnail_image": 95,
       "media": [
         75
       ],
       "name": "Snow Plow",
-      "name_description": "A caboose trails Rotary Snowplow No. 1, built in 1899 and used by the White Pass & Yukon Route to clear up to 12 feet of snow.",
+      "name_description": "See how snow is cleared form train tracks",
       "primary_image": 29,
       "type": "Outdoor Exhibit",
       "services": [
@@ -3260,36 +3262,6 @@
       ]
     },
     {
-      "geofence_buffer_in_meters": 10,
-      "id": 41,
-      "information": [
-        {
-          "description": "Available Year-Round",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.462475,
-      "longitude": -135.320556,
-      "map_thumbnail_image": 125,
-      "name": "Skagway Town Overlook",
-      "name_description": "Located at Mile 2 on the Dyea Rd, this overlook provides an amazing panoramic view of town and the surrounding landscape.",
-      "type": "Overlook",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        },
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        }
-      ]
-    },
-    {
       "description": "Skagway's booming tourism industry began just as the Gold Rush was ending in the summer of 1898 with the first boatload of sightseers to the city. Martin Itjen, a Gold rush stampeder and Skagway’s premier tour operator bought this house in 1922 and originally stood on piers near Moore’s Wharf. From that location, Martin and his wife Lucy greeted passing tourists, sold fruit and candies, and booked rides on Itjen’s innovative Skagway Streetcars. During his tours, Itjen recited poetry and told humorous anecdotes about the town, keeping the gold rush tales alive. The Itjen House was later moved several times to other locations before finding its present home in 1978. ",
       "geofence_buffer_in_meters": 10,
       "id": 12,
@@ -3379,23 +3351,28 @@
       ]
     },
     {
-      "description": "The Slide Cemetery in Dyea remains a tangible reminder of the Palm Sunday Avalanche, which occurred on April 3, 1898 on the Chilkoot Trail.  Over the decades, maintenance work has been done sporadically to keep the site cleaned up. Beginning in 1940s and continuing until the 1960s, groups such as the Civilian Conservation Corps and the Alaska Youth Adult Authority have performed major cleanups, erected fences, replaced headboards, and constructed a path to the cemetery.",
+      "description": "Just 2 miles up the Dyea road,  this view of town is second to none.",
       "geofence_buffer_in_meters": 10,
-      "id": 49,
+      "id": 41,
       "information": [
         {
           "description": "Available Year-Round",
           "name": "Hours"
         }
       ],
-      "latitude": 59.5103459,
-      "longitude": -135.3589585,
-      "map_thumbnail_image": 130,
-      "name": "Slide Cemetery",
-      "name_description": "Approximately 60 stampeders are buried here, killed by the Palm Sunday Avalanche, on April 3, 1898 on the Chilkoot Trail.",
-      "primary_image": 63,
-      "type": "Cemetery",
+      "latitude": 59.462475,
+      "longitude": -135.320556,
+      "map_thumbnail_image": 125,
+      "name": "Skagway Town Overlook",
+      "name_description": "This overlook provides an amazing panoramic view of town and the surrounding landscape.",
+      "type": "Overlook",
       "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        },
         {
           "description": "Restroom",
           "icon": "restroom.png",
@@ -3510,6 +3487,32 @@
           "icon": "wheelchair.png",
           "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "description": "The Slide Cemetery in Dyea remains a tangible reminder of the Palm Sunday Avalanche, which occurred on April 3, 1898 on the Chilkoot Trail.  Over the decades, maintenance work has been done sporadically to keep the site cleaned up. Beginning in 1940s and continuing until the 1960s, groups such as the Civilian Conservation Corps and the Alaska Youth Adult Authority have performed major cleanups, erected fences, replaced headboards, and constructed a path to the cemetery.",
+      "geofence_buffer_in_meters": 10,
+      "id": 49,
+      "information": [
+        {
+          "description": "Available Year-Round",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.510346,
+      "longitude": -135.358958,
+      "map_thumbnail_image": 130,
+      "name": "Slide Cemetery",
+      "name_description": "Approximately 60 stampeders are buried here, killed by the Palm Sunday Avalanche, on April 3, 1898 on the Chilkoot Trail.",
+      "primary_image": 63,
+      "type": "Cemetery",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
         }
       ]
     },
