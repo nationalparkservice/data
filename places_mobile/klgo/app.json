@@ -3410,37 +3410,6 @@
       ]
     },
     {
-      "geofence_buffer_in_meters": 10,
-      "id": 11,
-      "information": [
-        {
-          "description": "Open daily in the summer from 7:15am to 5:00pm.",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.453274,
-      "longitude": -135.318217,
-      "map_thumbnail_image": 96,
-      "name": "White Pass & Yukon Route Depot",
-      "name_description": "This modern depot belongs to the White Pass and Yukon Route Railroad, which was constructed between 1898 and 1900.",
-      "primary_image": 30,
-      "type": "Business",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        },
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        }
-      ]
-    },
-    {
       "description": "Part of the boom-town atmosphere in Skagway during the Klondike Gold Rush was prostitution. Prostitutes often worked out of one-story shacks, known as “cribs.” In the alley next door to Verbauwhede’s Cigar Store and Confectionery are two small one-story buildings purchase by Verbauwhede in 1902 from the former red-light district known as “French Alley.” These former “cribs” were relocated after moral reforms swept Skagway at the turn of the century as it transitioned into a more permanent, working-class community, putting an end to the Red Light District. They were used as living space by the Verbauwhede family behind their shop and a second one was rented to lodgers. Today these are offices for the Park's Protection Officers",
       "geofence_buffer_in_meters": 10,
       "id": 18,
@@ -3515,6 +3484,38 @@
           "icon": "wheelchair.png",
           "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "description": "Purchase ticket to ride the train, learn the WP&YR history, buy souvenirs, or enjoy specialty coffees at the Depot.  PLEASE NOTE: if you purchased train tickets from a cruise ship your train likely does not depart from here.  check with your shore excursion officer to determine departure locations.",
+      "geofence_buffer_in_meters": 10,
+      "id": 11,
+      "information": [
+        {
+          "description": "Open daily in the summer from 7:15am to 5:00pm.",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.453359,
+      "longitude": -135.318105,
+      "map_thumbnail_image": 96,
+      "name": "White Pass & Yukon Route Depot",
+      "name_description": "This modern depot belongs to the White Pass and Yukon Route Railroad.",
+      "primary_image": 30,
+      "type": "Business",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        },
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
         }
       ]
     },
