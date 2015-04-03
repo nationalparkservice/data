@@ -2832,6 +2832,7 @@
       ]
     },
     {
+      "description": "First built in 1898 by a trading company, a third story and dome were added in 1908 to make this Skagway’s largest hotel.",
       "geofence_buffer_in_meters": 10,
       "id": 16,
       "information": [
@@ -2840,14 +2841,14 @@
           "name": "Hours"
         }
       ],
-      "latitude": 59.454347,
-      "longitude": -135.318064,
+      "latitude": 59.454283,
+      "longitude": -135.317936,
       "map_thumbnail_image": 101,
       "media": [
         76
       ],
       "name": "Golden North Hotel",
-      "name_description": "First built in 1898 by a trading company, a third story and dome were added in 1908 to make this Skagway’s largest hotel.",
+      "name_description": "Historically a hotel, this building now houses private businesses",
       "primary_image": 35,
       "type": "Business",
       "services": [
