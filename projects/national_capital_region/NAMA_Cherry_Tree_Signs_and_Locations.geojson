@@ -9,7 +9,8 @@
         "marker-symbol": "park2",
         "name": "Okame",
         "number": 23,
-        "notes": "An early bloomer, the okame peaks before the Yoshinos. Its uniqueness in the park and bright pink blooms make it a special treat."
+        "notes": "An early bloomer, the okame peaks before the Yoshinos. Its uniqueness in the park and bright pink blooms make it a special treat.",
+        "image": "http://www.nps.gov/chbl/images/okame_thumbnail.jpg"
       },
       "geometry": {
         "type": "Point",
