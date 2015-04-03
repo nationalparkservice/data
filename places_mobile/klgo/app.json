@@ -2646,35 +2646,6 @@
       ]
     },
     {
-      "geofence_buffer_in_meters": 10,
-      "id": 8,
-      "information": [
-        {
-          "description": "Open Seasonally Monday through Friday, 9 – 5, Saturday 10 – 5, Sunday 1 – 4.",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.45566541,
-      "longitude": -135.3117585,
-      "map_thumbnail_image": 93,
-      "media": [
-        74,
-        83
-      ],
-      "name": "Skagway City Museum and City Hall",
-      "name_description": "Built as the McCabe College in 1899-1900, this unique stone-faced building now houses the City Hall and Museum.",
-      "primary_image": 22,
-      "type": "Museum",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        }
-      ]
-    },
-    {
       "description": " In 1900 it originally housed the all black Company L, 24th Infantry as a two-story army barracks. Brought here to protect American territory during the gold rush, the troops departed in 1904 for Fort William Seward in Haines, Alaska. After the barracks was moved to its present location, an open store area was built with a flowing stairway leading upstairs and a new false-front attached. By 1907-1908, Skagway’s glory days of the Klondike Gold Rush had passed. Vacant, derelict buildings lined the streets, giving Skagway the appearance, as described by one visitor, of “the scrap-heap of creation.” In an attempt to centralize businesses in the downtown area and create a new Skagway, several buildings, including this one, were moved to new locations along Broadway in 1908.Partners Lynch & Kennedy were the first owners of the new store and sold men’s attire and dry goods, and theirs is one of the town’s finest examples of false front architecture and reflects the hoped-for stability in Skagway. The local paper, The Daily Alaskan, reported that “The store is just about the handsomest in the city… It is a fine addition to business life of the city.” It remains a fine example of Gold Rush era architecture, and today continues its role in Skagway’s commercial present as part of the National Park Service’s Lease Back Program.",
       "geofence_buffer_in_meters": 10,
       "id": 20,
@@ -2891,6 +2862,36 @@
       "name_description": "historic site of Dyea, Alaska, a boomtown gone bust. Picnic tables, exhibits, and brochures can be found here.",
       "primary_image": 65,
       "type": "Public Park",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        }
+      ]
+    },
+    {
+      "description": "construction of the McCabe College finished in 1899 using only local granite and timber.   Named after a Methodist bishop,  the school was Alaska's first institution of high learning.  However financial troubles closed the school in less than two years.  from 1901 till 1956 the building served as the U.S. Court house, the U.S. Marshals office, and the City Jail.  Today, this unique stone-faced building houses the City Museum and City administration offices.",
+      "geofence_buffer_in_meters": 10,
+      "id": 8,
+      "information": [
+        {
+          "description": "Open Seasonally Monday through Friday, 9 – 5, Saturday 10 – 5, Sunday 1 – 4.",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.455766,
+      "longitude": -135.311997,
+      "map_thumbnail_image": 93,
+      "media": [
+        74,
+        83
+      ],
+      "name": "McCabe Building ",
+      "name_description": "Skagway City Museum",
+      "primary_image": 22,
+      "type": "Museum",
       "services": [
         {
           "description": "Restroom",
