@@ -71,7 +71,7 @@
       ]
     }
   ],
-  "description": "Welcome to the Park! Use the quick buttons to navigate this app.  be sure to check out the \"More\" tab for Scavenger Hunts, Postcards, and special events!",
+  "description": "Welcome to the Park! Use the quick buttons to navigate this app.  Be sure to check out the \"More\" tab for Scavenger Hunts, Postcards, and special events!",
   "designation": "National Historical Park",
   "events": [
     {
@@ -2763,6 +2763,42 @@
       ]
     },
     {
+      "description": "The log-cabin home of Captain William Moore marks the birthplace of Skagway. Constructed in 1887-1888 by Captain Moore, his son, Ben, and Nan-Suk, a Tlingit native, it is the oldest structure in town. Original newspapers from the late nineteenth century, once used as interior decoration, still adhere to the walls and ceiling of the cabin. Captain Moore was a veteran of gold rushes. He predicted that there would one day be a great gold rush in the Yukon and Alaska and that stampeders would make their way up the Skagway River Valley to get there. He and his son claimed a homestead, built a cabin, and constructed a wharf. When the rush finally came, his land was overrun by a flood of stampeders. Nevertheless, Captain William Moore and his family prospered, and he lived to see his homestead turn into a significant port and railroad town. The life of Ben Moore exemplifies the pioneer spirit of Alaska. As a young man he plied the Inside Passage and traveled up and down the Yukon River, looking for gold and working at various jobs in fishing, mining, and packing. Ben Moore married Klinget-Sai-Yet, daughter of a Tlingit leader, and named her Minnie. In 1897 he began constructing a frame house just south of his father's cabin. This small beginning became the nucleus of the present Ben Moore House. Over the years, continued additions and remodeling created a sizeable home. By 1907 Ben Moore and his family moved to Tacoma, Washington. The house was rented by jeweler Herman Kirmse and later purchased by his wife Hazel in 1914. Today the house is open to the public and depicts life in a pioneer home around 1904.",
+      "geofence_buffer_in_meters": 10,
+      "id": 7,
+      "information": [
+        {
+          "description": "Open Seasonally Monday through Thursday, 10am-5:30pm, Friday through Sunday, 10am-5pm",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.455063,
+      "longitude": -135.314204,
+      "map_thumbnail_image": 92,
+      "media": [
+        73,
+        82
+      ],
+      "name": "Moore Homestead",
+      "name_description": "The first to permanently inhabit this valley, the Moores live here 10 years before the gold rush",
+      "primary_image": 21,
+      "type": "Museum",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        },
+        {
+          "description": "Staffed by Ranger",
+          "icon": "ranger.png",
+          "icon_@2x": "ranger@2x.png",
+          "type": "Staffed by Ranger"
+        }
+      ]
+    },
+    {
       "description": "The Dyea Campground is located 9 miles from Skagway and .5 miles from the the Chilkoot trailhead. The campground is within a short drive or bike ride of the historic townsite of Dyea. The campground is monitored by National Park Service rangers and is open when free of snow. The campground provides 22 sites for vehicle and walk-in camping. Hook-ups are not available for recreational vehicles. Campers are advised to bring drinking water and firewood. Facilities include pit toilets, fire rings, picnic tables, and garbage receptacles. Fee is $10 per site per night. Self-registration at the campground entrance.",
       "geofence_buffer_in_meters": 10,
       "id": 46,
@@ -3192,42 +3228,6 @@
         {
           "description": "Tcoil",
           "type": "Tcoil"
-        }
-      ]
-    },
-    {
-      "description": "The log-cabin home of Captain William Moore marks the birthplace of Skagway. Constructed in 1887-1888 by Captain Moore, his son, Ben, and Nan-Suk, a Tlingit native, it is the oldest structure in town. Original newspapers from the late nineteenth century, once used as interior decoration, still adhere to the walls and ceiling of the cabin. Captain Moore was a veteran of gold rushes. He predicted that there would one day be a great gold rush in the Yukon and Alaska and that stampeders would make their way up the Skagway River Valley to get there. He and his son claimed a homestead, built a cabin, and constructed a wharf. When the rush finally came, his land was overrun by a flood of stampeders. Nevertheless, Captain William Moore and his family prospered, and he lived to see his homestead turn into a significant port and railroad town. The life of Ben Moore exemplifies the pioneer spirit of Alaska. As a young man he plied the Inside Passage and traveled up and down the Yukon River, looking for gold and working at various jobs in fishing, mining, and packing. Ben Moore married Klinget-Sai-Yet, daughter of a Tlingit leader, and named her Minnie. In 1897 he began constructing a frame house just south of his father's cabin. This small beginning became the nucleus of the present Ben Moore House. Over the years, continued additions and remodeling created a sizeable home. By 1907 Ben Moore and his family moved to Tacoma, Washington. The house was rented by jeweler Herman Kirmse and later purchased by his wife Hazel in 1914. Today the house is open to the public and depicts life in a pioneer home around 1904.",
-      "geofence_buffer_in_meters": 10,
-      "id": 7,
-      "information": [
-        {
-          "description": "Open Seasonally Monday through Thursday, 10am-5:30pm, Friday through Sunday, 10am-5pm",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.4550631,
-      "longitude": -135.3142038,
-      "map_thumbnail_image": 92,
-      "media": [
-        73,
-        82
-      ],
-      "name": "Moore Homestead",
-      "name_description": "Observe Skagway’s change from frontier to family town at this homestead belonging to its founding family, the Moores.",
-      "primary_image": 21,
-      "type": "Museum",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        },
-        {
-          "description": "Staffed by Ranger",
-          "icon": "ranger.png",
-          "icon_@2x": "ranger@2x.png",
-          "type": "Staffed by Ranger"
         }
       ]
     },
