@@ -2423,14 +2423,14 @@
       ]
     },
     {
-      "description": "The metal bridge spanning over the Skagway river, in front of the airport,  marks the head of trail leading to Yakutania Point, Smuggler's Cove, and the Pet Cemetery.  ",
+      "description": "**Yakutania Point**\nTime: 1 hour\nDistance: 1.6 miles (2.5 km) round trip\nRating: Easy\nElevation Gain: 20 ft. (6 m)\n\nWalk west along 1st Ave., turn left at Main St. and travel south two blocks. Follow the sidewalk west past the airport terminal. Cross the Skagway River on the footbridge and turn left, following the trail through alders and past the exercise stations. Past exercise station #4 the footpath narrows and ascends rock steps. Continue along past the privy and down more rock steps, past the picnic shelter where rock outcroppings provide a view looking down the Lynn Canal toward the Chilkat Mountains. There is a covered picnic shelter and privy at this site.\n\n**Smuggler’s Cove**\nTime: 1-2 hours\nDistance: 2 miles (3.2 km) round trip\nRating: Easy to moderate\nElevation Gain: 100 ft. (30 m)\n\nStart by following the trail to Yakutania Point.  Shortly before arriving at the Point, follow the trail to the right (west).  Continue for less than a quarter mile (.4 km) to Smuggler’s cove, a secluded bay just out of view of Skagway.  A covered picnic area and privy are at this site.\n",
       "geofence_buffer_in_meters": 10,
       "id": 495,
       "latitude": 59.453989,
       "longitude": -135.327828,
       "map_thumbnail_image": 484,
       "name": "Yakutania Trail Head",
-      "name_description": "Hiking Trail",
+      "name_description": "The metal bridge spanning over the Skagway river, in front of the airport,  marks the head of trail leading to Yakutania Point, Smuggler's Cove, and the Pet Cemetery.  ",
       "type": "Hiking Trail"
     },
     {
