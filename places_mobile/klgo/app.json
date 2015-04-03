@@ -2425,6 +2425,7 @@
       ]
     },
     {
+      "description": "Slides, swings and suspension bridges make up this fun playground.   the park is a memorial to it namesake, Mollie Walsh.  Jack Newman, a suitor of Mollie's who, although turned down by mollie during the gold rush, never forgot her.  over thirty years later, upon hearing of her murder at the hands of her husband, Newman traveled to skagway and donated the statue of Mollie Walsh.",
       "geofence_buffer_in_meters": 10,
       "id": 31,
       "information": [
@@ -2433,13 +2434,13 @@
           "name": "Hours"
         }
       ],
-      "latitude": 59.455701,
-      "longitude": -135.313416,
+      "latitude": 59.455653,
+      "longitude": -135.313478,
       "map_thumbnail_image": 116,
-      "name": "Molly Walsh Park and Statue",
-      "name_description": "A fun children’s playground, see wayside exhibits to learn more about Ms. Walsh’s tragic story.",
+      "name": "Mollie Walsh Park and Statue",
+      "name_description": "A fun children’s playground, picnic area and restroom. See wayside exhibits to learn more about Ms. Walsh’s tragic story.",
       "primary_image": 48,
-      "type": "Park",
+      "type": "Playground and Park",
       "services": [
         {
           "description": "Handicapped Access",
