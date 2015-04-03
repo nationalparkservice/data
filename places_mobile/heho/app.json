@@ -4236,56 +4236,6 @@
   ],
   "tours": [
     {
-      "description": "Demo Tour for testing purposes",
-      "id": 5,
-      "name": "HEHO Demo Tour",
-      "primary_image": 448,
-      "sites": [
-        {
-          "id": 407,
-          "media": [
-            333,
-            306
-          ]
-        },
-        {
-          "id": 386,
-          "media": [
-            366,
-            281
-          ]
-        },
-        {
-          "id": 393
-        },
-        {
-          "id": 405
-        }
-      ],
-      "tours_sites": [
-        {
-          "id": 407,
-          "primary_audio": 414
-        },
-        {
-          "id": 386,
-          "primary_audio": 417
-        },
-        {
-          "id": 386,
-          "primary_audio": 391
-        },
-        {
-          "id": 393,
-          "primary_audio": 397
-        },
-        {
-          "id": 405,
-          "primary_audio": 385
-        }
-      ]
-    },
-    {
       "id": 3,
       "name": "Simple Beginnings\n",
       "primary_image": 337,
