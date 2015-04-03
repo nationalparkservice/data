@@ -2869,8 +2869,8 @@
           "name": "Hours"
         }
       ],
-      "latitude": 59.45601573,
-      "longitude": -135.3163666,
+      "latitude": 59.455982,
+      "longitude": -135.316407,
       "map_thumbnail_image": 112,
       "name": "Historic City Hall",
       "name_description": "This log structure, built in 1897, served as Skagway’s first city hall and courthouse.",
@@ -3206,37 +3206,6 @@
     },
     {
       "geofence_buffer_in_meters": 10,
-      "id": 33,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.4730831,
-      "longitude": -135.289414,
-      "map_thumbnail_image": 118,
-      "name": "Gold Rush Cemetery and Reid Falls",
-      "name_description": "This Gold Rush-era cemetery includes wayside exhibits highlighting significant historical people and serves as trailhead to beautiful Reid falls.",
-      "primary_image": 473,
-      "type": "Cemetery, Trail",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        },
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "geofence_buffer_in_meters": 10,
       "id": 41,
       "information": [
         {
@@ -3318,6 +3287,38 @@
           "icon": "wheelchair.png",
           "icon_@2x": "wheelchair@2x.png",
           "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
+      "description": "Famous outlaws, town heroes, and murdered US Marshals are all buried in the Gold Rush Cemetery.   One of the first train conductors for the WP&YR railroad eternally rest next to the train tracks, and town promoter Marten Itjen lays next to his giant \"gold\" nugget.  Interpretive signs highlight resident's histories.  After wondering through the wooded cemetery,  be sure to walk the short trail north of the cemetery that leads to beautiful Lower Reid Falls.",
+      "geofence_buffer_in_meters": 10,
+      "id": 33,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.470427,
+      "longitude": -135.293777,
+      "map_thumbnail_image": 118,
+      "name": "Gold Rush Cemetery and Lower Reid Falls",
+      "name_description": "Public Park",
+      "primary_image": 473,
+      "type": "Cemetery, Trail",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        },
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
         }
       ]
     },
