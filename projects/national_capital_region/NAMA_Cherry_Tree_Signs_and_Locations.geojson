@@ -177,7 +177,7 @@
         "name": "Afterglow",
         "number": 18,
         "notes": "Look for this early bloomer to peak ahead of the Yoshino blossoms.",
-        "url": "http://www.nps.gov/chbl/learn/images/afterglow-thumbnail.jpg"
+        "image": "http://www.nps.gov/chbl/learn/images/afterglow-thumbnail.jpg"
       },
       "geometry": {
         "type": "Point",
