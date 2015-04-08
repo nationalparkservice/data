@@ -4,9 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
         "name": "Lincoln Born",
         "date": "2/12/1809",
         "url": "http://www.nps.gov/libi/"
@@ -20,9 +17,6 @@
       },{
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
         "name": "Lincoln's First Inauguration",
         "date": "3/4/1861",
         "notes": "Lincoln's election caused outrage in southern states. The Republican platform on which Lincoln was elected sought to stop the spread of slavery, which many southerners saw as their constitutional right."
@@ -36,9 +30,6 @@
       },{
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
         "name": "Emancipation Proclamation",
         "date": "1/1/1863",
         "notes": "Lincoln's Emancipation Proclamation allowed the U.S. Army to free slaves that the army encountered in states that were rebelling. Although the proclamation was pragmatic and limited in its scope, it marked an important pivot in Lincoln's position on slavery."
@@ -52,9 +43,6 @@
       },{
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
         "name": "Lincoln's Second Inauguration",
         "date": "3/4/1865",
         "notes": "Lincoln's Second Inaugural Address ranks as one of his finest, briefly and eloquently stating the horrifying nature of the war, the need for the Union to win it, and his vision for America's future."
@@ -68,9 +56,6 @@
       },{
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
         "name": "Lincoln Shot",
         "date": "4/14/1865",
         "time": "22:10",
@@ -86,9 +71,6 @@
       },{
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
         "name": "Lincoln Dies",
         "date": "4/15/1865",
         "time": "07:22",
@@ -103,9 +85,6 @@
       },{
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
         "name": "Lincoln Buried",
         "date": "5/3/1865",
         "notes": "Although Lincoln's funeral train arrived in Springfield, Illinois in May, several years passed before a permanent tomb and memorial was completed."
@@ -119,9 +98,6 @@
       },{
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
-        "marker-symbol": "triangle",
         "name": "John Wilkes Booth Born",
         "date": "5/10/1838"
       },
@@ -134,9 +110,6 @@
       },{
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
-        "marker-symbol": "triangle",
         "name": "John Wilkes Booth's Stage Debut",
         "date": "8/14/1855"
       },
@@ -166,9 +139,6 @@
       },{
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
-        "marker-symbol": "triangle",
         "name": "Booth Arrested",
         "date": 1863,
         "notes": "Booth was heard saying \"He wished the president and the whole damned government would go to hell.\" He was released after taking an oath of allegiance to the Union and paying a fine."
@@ -199,9 +169,6 @@
       },{
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
-        "marker-symbol": "triangle",
         "name": "Surratt Boarding House",
         "date": "Fall 1864",
         "notes": "Booth devises a plan to kidnap Lincoln from his summer residence at the Soldiers' Home and to exchange him for prisoners at Richmond. Booth and fellow conspirators Lewis Powell, Samuel Arnold, Michael O'Laughlin, John Surratt, Jr., George Atzerodt, and David Herold meet at Mary Surratt's home."
@@ -248,9 +215,6 @@
       },{
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
-        "marker-symbol": "triangle",
         "name": "Ford's Theatre Opens",
         "date": "11/9/1863",
         "notes": "John T. Ford opens his theatre. Booth is among the first actors to perform at the venue, with Lincoln watching in the audience.",
@@ -265,9 +229,6 @@
       },{
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
-        "marker-symbol": "triangle",
         "name": "Secretary Seward Attacked",
         "date": "4/14/1865",
         "time": "22:10",
@@ -282,9 +243,6 @@
       },{
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
-        "marker-symbol": "triangle",
         "name": "Booth Flees to Dr. Samuel Mudd's House",
         "notes": "After shooting Lincoln, Booth sought Dr. Mudd to mend his broken leg.",
         "date": "4/15/1865",
@@ -299,9 +257,6 @@
       },{
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
-        "marker-symbol": "triangle",
         "name": "Booth Killed",
         "date": "4/26/1865",
         "notes": "Booth was shot during a shootout with U.S. cavalrymen. His final words were, \"Useless, useless.\""
@@ -315,9 +270,6 @@
       },{
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
         "name": "Gettysburg Address",
         "date": "11/19/1863",
         "notes": "Lincoln used the dedication of the cemetery here in November to deliver his famous Gettysburg Address, publicly advocating for an end to slavery as an outcome of the war."
