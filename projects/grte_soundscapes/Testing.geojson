@@ -122,9 +122,6 @@
       },{
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "cross",
         "name": "Civil War Begins",
         "date": "4/12/1861",
         "notes": "Fueled by years of agitation, sparked by Lincoln's election, South Carolinians attack the U.S. Army post at Fort Sumter, starting the Civil War.",
@@ -152,9 +149,6 @@
       },{
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "cross",
         "name": "General Lee Surrenders at Appomattox Court House",
         "url": "http://www.nps.gov/appo/",
         "date": "4/9/1865",
@@ -182,9 +176,6 @@
       },{
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "cross",
         "name": "Battle of Gettysburg",
         "date": "7/1/1863-7/3/1863",
         "notes": "The Union victory at Gettysburg marks a turning point in the war.",
@@ -199,9 +190,6 @@
       },{
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "cross",
         "name": "South Carolina Secedes",
         "date": "12/24/1860",
         "notes": "Following Lincoln's election, but months prior to his inauguration, South Carolina's legislature voted to secede from the United States. Mississippi, Florida, Alabama, Georgia, Louisiana, and Texas all followed suit in the next few weeks, followed by Virginia, Arkansas, North Carolina and Tennessee."
