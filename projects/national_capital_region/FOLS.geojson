@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#808000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Officers' Row",
+        "notes": "Just as the barracks were designed with four companies in mind, the company officers' quarters were also designed to house four companies' worth of officers. A typical company's officers included two lieutenants and one captain. As such, the officer's quarters were divided into two halls, each with four rooms; a lieutenant was housed in one room while captains could claim two. In the rear of each half of the building was a kitchen and servant's quarters. Officers got several perks that came with their rank. In addition to higher pay and access to some better food, officers could live with their families on post, afford to hire servants, and had the means and education to pursue more sophisticated activities in their leisure time. Books, taxidermy, and music are among the leisure activities in which you might notice the officers take interest based on the furnishings. Officers' wives could look forward to a life of leisure at the post, but often found themselves bored by the monotony of the frontier post and its limited opportunities for socializing and entertainment.",
+        "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/P6220099.JPG",
+        "url": "http://www.nps.gov/fols/learn/photosmultimedia/officers-row.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21905815601349,
+          38.18279005094603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Barracks",
+        "url": "http://www.nps.gov/fols/learn/photosmultimedia/barracks.htm",
+        "image": "http://www.nps.gov/common/uploads/photogallery/mwr/park/fols/60F8039F-155D-4519-3EFC5C46D71E7C51/60F8039F-155D-4519-3EFC5C46D71E7C51-large.JPG",
+        "notes": "The infantry and cavalry stationed at Fort Larned occupied these quarters on the north side of Fort Larned. The barracks were designed to house up to four companies of infantry and cavalry, though the numbers were rarely this high. On average, just 100 or 150 troops were stationed at Fort Larned, though the number swelled to between 400 and 500 in 1868. Living quarters were cramped for enlisted men, who slept four to a bunk, head to foot, on bed sacks filled with grass ticking. The enlisted men occupied their leisure time with simple activities including playing cards and table games, swimming in the Pawnee Fork on warm days, and sports such as foot races and "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2181247472763,
+          38.18383577540497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Hospital",
+        "url": "http://www.nps.gov/fols/learn/photosmultimedia/barracks.htm",
+        "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/P6220066.JPG",
+        "notes": "With the departure of the 10th Cavalry in 1869, the barracks were no longer home to any cavalry units. In 1872, the post hospital was moved into the barracks, an improvement over the former adobe hospital building that leaked mud from the ceiling when it rained. Even with a solid roof overhead, medical care was crude by today's standards, to say the least."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21780824661255,
+          38.1839327571547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Visitor Center",
+        "url": "http://www.nps.gov/fols",
+        "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/P6220076.JPG",
+        "notes": "The park visitor center is located in one of the original barracks buildings."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2186987400055,
+          38.183654461352646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004000",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.22178864479065,
+          38.18305570011386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "name": "Bridge Has Moved",
+        "notes": "The bridge has been relocated to its historic location further upstream, behind the Officers' Quarters. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21937465667725,
+          38.18456524366018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Shops",
+        "url": "http://www.nps.gov/fols/learn/photosmultimedia/shops.htm",
+        "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/20100623161013_1.jpg",
+        "notes": "On the frontier, when the Army needed repairs done or something built, it often fell upon skilled, civilian tradesmen to do the work. Blacksmiths and carpenters were paid a handsome wage for their skilled labor. In 1867, blacksmiths made $85 a month, saddlers and wheelwrights $90. Many soldiers took on extra duty working in the shops building as laborers, blacksmiths, and mechanics. The bakery on the north end of the shops building was used to bake fresh bread for the men stationed at Fort Larned. The large, brick oven heated by a wood fire had a huge capacity for bread baked by one of the enlisted men assigned to the job. Interestingly, the army did not provide the fresh bread to the troops over concerns that it was causing stomach ailments. Instead, the bread was allowed to "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21723157167435,
+          38.18370716897253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Bakery",
+        "url": "http://www.nps.gov/fols/learn/photosmultimedia/shops.htm",
+        "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/P6220072.JPG",
+        "notes": "The bakery on the north end of the shops building was used to bake fresh bread for the men stationed at Fort Larned. The large, brick oven heated by a wood fire had a huge capacity for bread baked by one of the enlisted men assigned to the job. Interestingly, the army did not provide the fresh bread to the troops over concerns that it was causing stomach ailments. Instead, the bread was allowed to "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21729862689972,
+          38.18379150108501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2169338464737,
+          38.1878161376478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004000",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "name": "Picnic Area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21737372875212,
+          38.18806911942239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "New Commissary",
+        "url": "http://www.nps.gov/fols/learn/photosmultimedia/warehouses.htm",
+        "notes": "The New Commissary was added in 1868 to accommodate the additional supplies needed when the fort's troop levels surged to their highest; it turned out to be the last sandstone building completed at the fort as troop levels only declined over the next decade. The New Commissary then became a multipurpose building including the library and schoolroom."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.216810464859,
+          38.1830599167595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Blockhouse",
+        "url": "www.nps.gov/fols/learn/photosmultimedia/blockhouse.htm",
+        "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/P6230173.JPG",
+        "notes": "The first sandstone structure to be completed at Fort Larned, the blockhouse was built for defense. Bristling with two decks of loopholes from which to fire on any would-be attackers, the blockhouse provided a formidable deterrent to attack. Built with a long-term siege in mind, the blockhouse included an underground well from which soldiers could obtain water without exposing themselves to fire. As the threat of attack diminished over time, the blockhouse was converted from its defensive purpose into the post's prison. Instead of being used to keep people out of the fort, the blockhouse was instead used to keep people in. For that purpose, the tunnel was partially filled in and converted into solitary confinement. Moreover, rifle loopholes were filled in to prevent soldiers from passing libations to the prisoners passing the time."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21652615070343,
+          38.18290811736241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Commissary",
+        "url": "http://www.nps.gov/fols/learn/photosmultimedia/warehouses.htm",
+        "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/P6220121.JPG",
+        "notes": "Perhaps the most important role for any frontier fort was its use for amassing and securing the supplies that kept the Army functioning, including food, ammunition, and clothing. The army's ability to supply itself made possible its permanent presence on the plains. To that end, the first sandstone buildings completed at Fort Larned after the blockhouse was finished were made to warehouse food, ammunition, and supplies. The first two of these buildings, the Old Commissary and the Quartermaster Storehouse, brandish loopholes from which the fort could be defended with rifle fire in the event of an attack. Buildings added to the post later did not include these defenses which proved unnecessary."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21712160110474,
+          38.182659334333266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Arsenal",
+        "url": "http://www.nps.gov/fols/learn/photosmultimedia/warehouses.htm",
+        "notes": "The arsenal provided secure storage for weapons and ammunition.",
+        "image": "http://www.nps.gov/common/uploads/photogallery/mwr/park/fols/610167E6-155D-4519-3EB89377365396D2/610167E6-155D-4519-3EB89377365396D2-large.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21732544898987,
+          38.18261295096266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Quartermaster's Storehouse",
+        "url": "http://www.nps.gov/fols/learn/photosmultimedia/warehouses.htm",
+        "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/P6220145.JPG",
+        "notes": "Perhaps the most important role for any frontier fort was its use for amassing and securing the supplies that kept the Army functioning, including food, ammunition, and clothing. The army's ability to supply itself made possible its permanent presence on the plains. To that end, the first sandstone buildings completed at Fort Larned after the blockhouse was finished were made to warehouse food, ammunition, and supplies. The first two of these buildings, the Old Commissary and the Quartermaster Storehouse, brandish loopholes from which the fort could be defended with rifle fire in the event of an attack. Buildings added to the post later did not include these defenses which proved unnecessary."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21792089939117,
+          38.18240211708785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "cemetery",
+        "name": "Post Cemetery",
+        "image": "http://www.nps.gov/common/uploads/photogallery/mwr/park/fols/60F46F18-155D-4519-3E02A51CCCBBCB8A/60F46F18-155D-4519-3E02A51CCCBBCB8A-large.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21636521816254,
+          38.18390745758024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "entrance",
+        "name": "Foot Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.22006666660309,
+          38.182132248837796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Santa Fe Trail Ruts",
+        "url": "http://www.nps.gov/fols/learn/historyculture/santa-fe-trail.htm",
+        "image": "http://www.nps.gov/fols/learn/historyculture/images/SF-Trail-Ruts-Aerial_1.JPG",
+        "notes": "Fort Larned is situated directly on the Dry Route of the Santa Fe Trail, which follows the Pawnee Fork of the Arkansas River.  “It is a proper place for a military post, and should be the depot of supplies for any troops acting against Indians on that line,” reported Maj. John C. McFerran in 1865"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.240679,
+          38.118098
+        ]
+      }
+    }
+  ]
+}
