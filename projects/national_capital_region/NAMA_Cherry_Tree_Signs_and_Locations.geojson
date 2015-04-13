@@ -66,7 +66,8 @@
         "marker-symbol": "park2",
         "name": "Takesimensis",
         "number": 21,
-        "notes": "The Takesimensis tree was planted here because it was expected to better tolerate this flood-prone area. Look for shorter, stubbier twigs compared to other cherry varieties."
+        "notes": "The Takesimensis tree was planted here because it was expected to better tolerate this flood-prone area. Look for shorter, stubbier twigs compared to other cherry varieties.",
+        "image": "http://www.nps.gov/chbl/learn/images/takesimensis-thumbnail.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -158,7 +159,8 @@
         "marker-symbol": "park2",
         "name": "Fugenzo",
         "notes": "Fugenzo trees are a great example of how cherry trees are grafted, and are easily distinguished by their thick, straight trunks.",
-        "number": 17
+        "number": 17,
+        "image": "http://www.nps.gov/chbl/learn/images/fugenzo-thumbnail.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -195,7 +197,8 @@
         "marker-symbol": "park2",
         "name": "Sargent",
         "notes": "Sargent trees are planted individually, scattered throughout the park. They are easy to distinguish from surrounding cherry varieties by their deep pink colored flowers.",
-        "number": 19
+        "number": 19,
+        "image": "http://www.nps.gov/chbl/learn/images/sargent-thumbnail.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -264,8 +267,20 @@
               38.88640221380347
             ],
             [
-              -77.0496967434883,
-              38.8863938625611
+              -77.04963773488997,
+              38.88640012599298
+            ],
+            [
+              -77.04995155334473,
+              38.886750877295526
+            ],
+            [
+              -77.05002665519714,
+              38.88697218377396
+            ],
+            [
+              -77.04905301332472,
+              38.886924164502304
             ],
             [
               -77.04879820346832,
