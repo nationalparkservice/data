@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#008000",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "circle",
         "name": "First Ladies & Cherry Trees Information",
         "number": 2,
@@ -23,7 +23,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#008000",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "circle",
         "name": "First Lady Tree and the Science Behind the Trees",
         "number": 3,
@@ -41,7 +41,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#008000",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "circle",
         "name": "National Cherry Blossom Festival - the Organization",
         "number": 5,
@@ -59,7 +59,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#008000",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "circle",
         "name": "National Cherry Blossom Festival - the Event",
         "number": 6,
@@ -77,7 +77,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#008000",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "circle",
         "name": "Predicting Peak Bloom",
         "number": 7,
