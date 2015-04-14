@@ -45,7 +45,8 @@
         "mechanical": 1,
         "cost": "12,666",
         "energysavings": 372,
-        "lightingnotes": "Install LED lighting, intelligent lighting controls, high-efficiency thermostats."
+        "lightingnotes": "Install LED lighting, intelligent lighting controls, high-efficiency thermostats.",
+        "mechanicalnotes": "Install programmable thermostats."
       },
       "geometry": {
         "type": "Point",
