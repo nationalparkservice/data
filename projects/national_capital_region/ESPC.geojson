@@ -156,7 +156,7 @@
         "energysavings": 206,
         "watersavings": 15,
         "cost": "7,783",
-        "lightingnotes": "Install LED fixtures, intelligent lighting controls.",
+        "lightingnotes": "Install LED lighting, intelligent lighting controls.",
         "solarnotes": "Install two solar photovoltaic arrays.",
         "waternotes": "Install low-flow fixtures."
       },
@@ -323,7 +323,7 @@
         "water": 1,
         "mechanical": 1,
         "lightingnotes": "Install LED lighting, intelligent lighting controls.",
-        "waternotes": "Install low-flow plumbing/",
+        "waternotes": "Install low-flow fixtures.",
         "watersavings": "11,482",
         "cost": "179,699",
         "mechanicalnotes": "High-efficiency chiller, programmable thermostats, Carter Barron Box Office HVAC upgrade, Edgewater Stables gas heaters upgraded to infrared heaters.",
