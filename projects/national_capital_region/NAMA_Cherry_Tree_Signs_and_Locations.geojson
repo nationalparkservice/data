@@ -122,7 +122,8 @@
         "marker-symbol": "park2",
         "name": "Akebono",
         "number": 15,
-        "notes": "The Akebono is a variant of the more common Yoshino cherry tree."
+        "notes": "The Akebono is a variant of the more common Yoshino cherry tree.",
+        "image": "http://www.nps.gov/chbl/learn/images/akebono-thumbnail.jpg"
       },
       "geometry": {
         "type": "Point",
