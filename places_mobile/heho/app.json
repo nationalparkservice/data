@@ -193,10 +193,10 @@
       "title": "Herbert Hoover's National Parks"
     },
     {
-      "description": "Stop by the Visitor Center today to schedule a tour of Herbert Hoover NHS.",
+      "description": "View exhibits, which display Herbert Hoover’s original cradle and high chair. Learn about his childhood in West Branch and his later involvement in developing the park commemorating his life. The 12-minute film \"Adventure and Great Undertakings: Herbert Hoover's Childhood in West Branch\" is played on request. Children can begin their activity books to become Junior Rangers. An art gallery interprets the park through the works of artists-in-residence. Plan 30 minutes in the visitor center. ",
       "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun",
       "home_description": "The visitor center is open from 9-5pm",
-      "title": "Schedule a tour"
+      "title": "See the Movie! Explore the Exhibits!"
     },
     {
       "dates": [
@@ -265,9 +265,15 @@
         "2015-04-25",
         "2015-09-26"
       ],
-      "description": "Help keep Herbert Hoover National Historic Site looking worthy of the  31st President of the United States. Contact us for project details.",
-      "home_description": "9 a.m. to 1 p.m. Meet at the Visitor Center",
-      "title": "Volunteer Project"
+      "description": "Volunteers can help national park staff plant trees (April 25) or native prairie seeds (September 26). Contact us if you would like to help.",
+      "home_description": "8:30 a.m. to 1 p.m. Meet at the Visitor Center",
+      "title": "Plant Your Park"
+    },
+    {
+      "description": "Herbert Hoover was proud of the modest museum here because it fit within the context of the other buildings on the site. A visit to Herbert Hoover Presidential Library and Museum is a chance to learn the story of Hoover's fifty years of public service and to gain a fuller understanding of the life and times of America's 31st President.",
+      "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun",
+      "home_description": "Museum galleries tell of the triumphs and tragedies of Hoover’s long career in public service. ",
+      "title": "Visit the Presidential Library"
     }
   ],
   "map_thumbnail_zoom": 16,
@@ -3338,7 +3344,7 @@
           "name": "Two Rooms Inside"
         },
         {
-          "description": " **Instructions**\nEnter the Birthplace Cottage through the front door and exit through the back door onto the back porch. You may have to split the class into smaller groups and take turns viewing the inside. The summer kitchen is viewable from the back porch, as is the Gravesite on the hill overlooking the cottage.\n\n**Who Lived Here?**\nThe Hoover family lived in a two-room house.\n_Explain: _Herbert Hoover was born in this little house in 1874. He lived here until he was about four years old, sharing it with his mother and father (Jesse and Hulda), older brother (Theodore), younger sister (Mary).\n_Historic photograph of three children:_ This is what the Hoover children looked like while growing up in West Branch. \n\n**Life In The 1800s**\nLife in the 1800s was different from our lives today. \n_Explain:_ They had no running water, electricity, or automobiles when they lived here.\n_Observe:_ Look at the objects displayed in the Hoovers’ house and in their yard. Try to figure out how the family slept, ate, washed, worked, and played in this house such a long time ago.\n_Discuss: _What did you learn about Herbert Hoover’s childhood just by looking at the objects on display? How did the Hoovers sleep, eat, wash, work, and play? What did the Hoovers do inside the house and what did they do outside?\n\n**Thrift**\nThe Hoovers’ small home had everything the family needed.\n_Explain:_ They lived here while the family earned money for things they wanted.\n_Discuss:_ What things did the Hoovers want that they earned and saved money for? (A larger home; college educations)\n\n**Living And Working Together**\nThe Hoovers, even the kids, cooperated with each other to live in the small house.\n_Examples:_ The parents and children shared a bedroom. Everyone in the family helped get daily chores done, starting at a very young age.\n_Discuss:_ What kind of chores do you do at home to help your family?",
+          "description": "### Instructions\n\nEnter the Birthplace Cottage through the front door and exit through the back door onto the back porch. You may have to split the class into smaller groups and take turns viewing the inside. The summer kitchen is viewable from the back porch, as is the Gravesite on the hill overlooking the cottage.\n\n### Who Lived Here?\n\nThe Hoover family lived in a two-room house.\n**Explain:** Herbert Hoover was born in this little house in 1874. He lived here until he was about four years old, sharing it with his mother and father (Jesse and Hulda), older brother (Theodore), younger sister (Mary).\n**Historic photograph of three children:** This is what the Hoover children looked like while growing up in West Branch. \n\n### Life In The 1800s\n\nLife in the 1800s was different from our lives today. \n**Explain:** They had no running water, electricity, or automobiles when they lived here.\n**Observe:** Look at the objects displayed in the Hoovers’ house and in their yard. Try to figure out how the family slept, ate, washed, worked, and played in this house such a long time ago.\n**Discuss:** What did you learn about Herbert Hoover’s childhood just by looking at the objects on display? How did the Hoovers sleep, eat, wash, work, and play? What did the Hoovers do inside the house and what did they do outside?\n\n### Thrift\n\nThe Hoovers’ small home had everything the family needed.\n**Explain:** They lived here while the family earned money for things they wanted.\n**Discuss:** What things did the Hoovers want that they earned and saved money for? (A larger home; college educations)\n\n### Living And Working Together\n\nThe Hoovers, even the kids, cooperated with each other to live in the small house.\n**Examples:** The parents and children shared a bedroom. Everyone in the family helped get daily chores done, starting at a very young age.\n**Discuss:** What kind of chores do you do at home to help your family?",
           "name": "For Teachers"
         }
       ],
