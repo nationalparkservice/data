@@ -578,7 +578,7 @@
       "type": "map_thumbnail"
     },
     {
-      "alt": "Stone foundation forms a square the was the foundation of a blockhouse. Surrounded by green grass on a sunny day.",
+      "alt": "Stones form a large three foot deep square the was the foundation of a blockhouse. Surrounded by green grass on a sunny day.",
       "caption": "Block House of First Fort",
       "id": 205,
       "image_1080": "205_1080x810.jpg",
@@ -776,24 +776,6 @@
       "type": "image"
     },
     {
-      "alt": "The cistern",
-      "caption": "The original cistern was used to collect fresh water for the Officer’s quarters.   ",
-      "id": 200,
-      "image_1080": "200_1080x810.jpg",
-      "image_1536": "200_1536x1152.jpg",
-      "image_350": "200_350x260.jpg",
-      "image_480": "200_480x320.jpg",
-      "image_640": "200_640x504.jpg",
-      "image_768": "200_768x480.jpg",
-      "image_960": "200_960x640.jpg",
-      "name": "Cistern",
-      "relative_url": "200.jpg",
-      "relative_url_@2x": "200@2x.jpg",
-      "relative_url_tablet": "200_tablet.jpg",
-      "relative_url_tablet_@2x": "200_tablet_2x.jpg",
-      "type": "image"
-    },
-    {
       "alt": "Bastion #5 on a sunny day",
       "caption": "Bastion #5 facing northeast was one of 5 gun emplacements.",
       "id": 196,
@@ -917,6 +899,24 @@
       "relative_url_@2x": "198@2x.jpg",
       "relative_url_tablet": "198_tablet.jpg",
       "relative_url_tablet_@2x": "198_tablet_2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "A mound of gray rocks and mortar covering an underground water tank.",
+      "caption": "The original cistern was used to collect fresh water for the Officer’s quarters.   ",
+      "id": 200,
+      "image_1080": "200_1080x810.jpg",
+      "image_1536": "200_1536x1152.jpg",
+      "image_350": "200_350x260.jpg",
+      "image_480": "200_480x320.jpg",
+      "image_640": "200_640x504.jpg",
+      "image_768": "200_768x480.jpg",
+      "image_960": "200_960x640.jpg",
+      "name": "Cistern",
+      "relative_url": "200.jpg",
+      "relative_url_@2x": "200@2x.jpg",
+      "relative_url_tablet": "200_tablet.jpg",
+      "relative_url_tablet_@2x": "200_tablet_2x.jpg",
       "type": "image"
     },
     {
@@ -1590,28 +1590,13 @@
       "services": []
     },
     {
-      "description": "During the Civil War artillery was vital to the defense of the fort if attacked. Fort Smith used a variety of cannons including the 12 pound Napoleon. It was capable of firing a 12 pound ball nearly a mile. This cannon is a replica of one of the cannons left by the military when they abandoned the fort in 1871.",
-      "geofence_buffer_in_meters": 10,
-      "id": 485,
-      "latitude": 35.387965,
-      "longitude": -94.430494,
-      "map_thumbnail_image": 229,
-      "name": "Cannon",
-      "name_description": "Replica Civil War era 12 pound Napoleon cannon.",
-      "type": "Replica"
-    },
-    {
       "description": "Jail versus prison – A jail is for people who are charged with a crime and need to be held until a trial. People who are convicted, found guilty, and have a sentence of less than one year also go to jail. If a sentence is more than one year, the convict is sent to a prison. Fort Smith was home to two different jails. ",
       "geofence_buffer_in_meters": 10,
       "id": 482,
       "information": [
         {
-          "description": "In 1872, the basement of the old enlisted men’s barracks was converted to a jail. Porches ran the length of the building shading the windows and adding to the darkness of the cells. There was no heating, cooling, or cross ventilation. The worst time to be in the jail was during the hot, humid Arkansas summer. Although guards threw water across the flagstone floor to “cool” the jail it only added to the humidity. \n\nHygiene was poor. One fire place had buckets that served as the toilet. The other had smaller pails for washing. There was no place for a prisoner to bathe. The stench from the jail could be smelled upstairs in the courtroom. Judge Parker had sawdust placed in the rafters to absorb some of the odors. The horrid conditions led to the jail’s nickname, “Hell on the Border.”  \n\nJudge Parker tried repeatedly, with no success, to secure funding to build a better jail. Funding did not become available until 1886 when Anna Dawes, a journalist, wrote an article for a Washington D.C. magazine describing the horrid conditions of the jail.\n",
+          "description": "In 1872, the basement of the old enlisted men’s barracks was converted to a jail. Porches ran the length of the building shading the windows and adding to the darkness of the cells. There was no heating, cooling, or cross ventilation. The worst time to be in the jail was during the hot, humid Arkansas summer. Although guards threw water across the flagstone floor to “cool” the jail it only added to the humidity making the conditions worse.\n\nHygiene was poor. One fire place had buckets that served as the toilet. The other had smaller pails for washing. There was no place for a prisoner to bathe. The stench from the jail could be smelled upstairs in the courtroom. Judge Parker had sawdust placed in the rafters to absorb some of the odors. The horrid conditions led to the jail’s nickname, “Hell on the Border.”  \n\nJudge Parker tried repeatedly, with no success, to secure funding to build a better jail. Funding did not become available until 1886 when Anna Dawes, a journalist, wrote an article for a Washington D.C. magazine describing the horrid conditions of the jail.\n",
           "name": "Hell on the Border Jail 1872 - 1888"
-        },
-        {
-          "description": "The second jail at Fort Smith featured a cell block three tiers high surrounded by an iron cage. Each level held twenty four cells, twelve back-to-back running the length of the building. Each cell measured five feet by seven feet and were furnished with an iron bunk-bed for two prisoners. The inmates relocated here on March 19, 1888. It remained in use until 1916.",
-          "name": "Second Jail 1888-1817"
         },
         {
           "description": "Second Jail 1888-1917",
@@ -1624,6 +1609,17 @@
       "name": "1st and 2nd Jail",
       "name_description": "First jail in basement and 2nd Jail completed in 1888",
       "type": "Building"
+    },
+    {
+      "description": "During the Civil War artillery was vital to the defense of the fort if attacked. Fort Smith used a variety of cannons including the 12 pound Napoleon. It was capable of firing a 12 pound ball nearly a mile. This cannon is a replica of one of the cannons left by the military when they abandoned the fort in 1871.",
+      "geofence_buffer_in_meters": 10,
+      "id": 485,
+      "latitude": 35.387965,
+      "longitude": -94.430494,
+      "map_thumbnail_image": 229,
+      "name": "Cannon",
+      "name_description": "Replica Civil War era 12 pound Napoleon cannon.",
+      "type": "Replica"
     },
     {
       "description": "Between 1872 and 1896 three judges presided over the largest federal jurisdiction of the time. This courtroom was used from 1872 until 1890.",
@@ -1657,6 +1653,7 @@
       "longitude": -94.429754,
       "map_thumbnail_image": 229,
       "name": "Commissary Outside",
+      "name_description": "Commissary outside",
       "type": "Historic Building"
     },
     {
@@ -1951,11 +1948,11 @@
           "name": "Judge Parkers Office"
         },
         {
-          "description": "The Hammersley family used the first floor as their home from 1890-1896.They divided the room to accommodate the family of six. Jacob Hammersley was the Court Crier and his daughter Florence was a Deputy Court Clerk managing paperwork for Judge Parker.",
+          "description": "The Hammersley family used the first floor as their home from 1890-1896.They divided the room to accommodate the family of six. Jacob Hammersley was the Court Crier and his daughter Florence was a Deputy Court Clerk for Judge Parker.",
           "name": "Home Sweet Home"
         },
         {
-          "description": "In 1910 the Old Commissary Museum was established saving the building from being demolished. The museum remained at this site until 1979 when it moved one block east to the Atkinson-Williams Warehouse. The name changed to the Fort Smith Museum of History.\n",
+          "description": "In 1910, the Old Commissary Museum was established saving the building from being demolished. The museum remained at this site until 1979 when it moved one block east to the Atkinson-Williams Warehouse. The name changed to the Fort Smith Museum of History.\n",
           "name": "Old Commissary Museum "
         }
       ],
