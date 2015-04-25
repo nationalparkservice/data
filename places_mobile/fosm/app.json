@@ -578,24 +578,6 @@
       "type": "map_thumbnail"
     },
     {
-      "alt": "Large American hangs on flagpole on a windless sunny day.",
-      "caption": "Large American hangs on 99-foot tall flagpole in center of parade ground. View is front the front of the Commissary.   ",
-      "id": 222,
-      "image_1080": "222_1080x810.jpg",
-      "image_1536": "222_1536x1152.jpg",
-      "image_350": "222_350x260.jpg",
-      "image_480": "222_480x320.jpg",
-      "image_640": "222_640x504.jpg",
-      "image_768": "222_768x480.jpg",
-      "image_960": "222_960x640.jpg",
-      "name": "Large American hangs on flagpole on a windless sunny day.",
-      "relative_url": "222.jpg",
-      "relative_url_@2x": "222@2x.jpg",
-      "relative_url_tablet": "222_tablet.jpg",
-      "relative_url_tablet_@2x": "222_tablet_2x.jpg",
-      "type": "image"
-    },
-    {
       "alt": "Stone foundation forms a square the was the foundation of a blockhouse. Surrounded by green grass on a sunny day.",
       "caption": "Block House of First Fort",
       "id": 205,
@@ -611,6 +593,24 @@
       "relative_url_@2x": "205@2x.jpg",
       "relative_url_tablet": "205_tablet.jpg",
       "relative_url_tablet_@2x": "205_tablet_2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "Large American hangs on flagpole on a windless sunny day.",
+      "caption": "Large American hangs on 99-foot tall flagpole in center of parade ground. View is front the front of the Commissary.   ",
+      "id": 222,
+      "image_1080": "222_1080x810.jpg",
+      "image_1536": "222_1536x1152.jpg",
+      "image_350": "222_350x260.jpg",
+      "image_480": "222_480x320.jpg",
+      "image_640": "222_640x504.jpg",
+      "image_768": "222_768x480.jpg",
+      "image_960": "222_960x640.jpg",
+      "name": "Large American hangs on flagpole on a windless sunny day.",
+      "relative_url": "222.jpg",
+      "relative_url_@2x": "222@2x.jpg",
+      "relative_url_tablet": "222_tablet.jpg",
+      "relative_url_tablet_@2x": "222_tablet_2x.jpg",
       "type": "image"
     },
     {
@@ -704,21 +704,21 @@
       "type": "image"
     },
     {
-      "alt": "White trimmed structure with a roof over a horizontal beam and platform with stairs.  ",
-      "caption": "86 men were executed here. ",
-      "id": 187,
-      "image_1080": "187_1080x810.jpg",
-      "image_1536": "187_1536x1152.jpg",
-      "image_350": "187_350x260.jpg",
-      "image_480": "187_480x320.jpg",
-      "image_640": "187_640x504.jpg",
-      "image_768": "187_768x480.jpg",
-      "image_960": "187_960x640.jpg",
-      "name": "The Gallows (includes 2 WS)",
-      "relative_url": "187.jpg",
-      "relative_url_@2x": "187@2x.jpg",
-      "relative_url_tablet": "187_tablet.jpg",
-      "relative_url_tablet_@2x": "187_tablet_2x.jpg",
+      "alt": "View of 37 star civil war era American flag flying on 99-foot tall flag pole in center of the parade ground grass field.  ",
+      "caption": "37 star Civil War era American flag ",
+      "id": 195,
+      "image_1080": "195_1080x810.jpg",
+      "image_1536": "195_1536x1152.jpg",
+      "image_350": "195_350x260.jpg",
+      "image_480": "195_480x320.jpg",
+      "image_640": "195_640x504.jpg",
+      "image_768": "195_768x480.jpg",
+      "image_960": "195_960x640.jpg",
+      "name": "Flag Pole",
+      "relative_url": "195.jpg",
+      "relative_url_@2x": "195@2x.jpg",
+      "relative_url_tablet": "195_tablet.jpg",
+      "relative_url_tablet_@2x": "195_tablet_2x.jpg",
       "type": "image"
     },
     {
@@ -884,6 +884,24 @@
       "type": "image"
     },
     {
+      "alt": "White trimmed structure with a roof over a horizontal beam and platform with stairs.  ",
+      "caption": "86 men were executed here, 1872-1896. ",
+      "id": 187,
+      "image_1080": "187_1080x810.jpg",
+      "image_1536": "187_1536x1152.jpg",
+      "image_350": "187_350x260.jpg",
+      "image_480": "187_480x320.jpg",
+      "image_640": "187_640x504.jpg",
+      "image_768": "187_768x480.jpg",
+      "image_960": "187_960x640.jpg",
+      "name": "The Gallows ",
+      "relative_url": "187.jpg",
+      "relative_url_@2x": "187@2x.jpg",
+      "relative_url_tablet": "187_tablet.jpg",
+      "relative_url_tablet_@2x": "187_tablet_2x.jpg",
+      "type": "image"
+    },
+    {
       "alt": "Small pavilion with benches and outdoor exhibits.  In background parade ground field with flagpole with 37 star civil war era US flag. ",
       "caption": "Site of the former guardhouse that later served as the women’s jail. ",
       "id": 188,
@@ -917,24 +935,6 @@
       "relative_url_@2x": "198@2x.jpg",
       "relative_url_tablet": "198_tablet.jpg",
       "relative_url_tablet_@2x": "198_tablet_2x.jpg",
-      "type": "image"
-    },
-    {
-      "alt": "View of 37 star civil war era American flag flying on 99-foot tall flag pole in center of parade ground grass field.  ",
-      "caption": "37 star Civil War era American flag ",
-      "id": 195,
-      "image_1080": "195_1080x810.jpg",
-      "image_1536": "195_1536x1152.jpg",
-      "image_350": "195_350x260.jpg",
-      "image_480": "195_480x320.jpg",
-      "image_640": "195_640x504.jpg",
-      "image_768": "195_768x480.jpg",
-      "image_960": "195_960x640.jpg",
-      "name": "Flag Pole",
-      "relative_url": "195.jpg",
-      "relative_url_@2x": "195@2x.jpg",
-      "relative_url_tablet": "195_tablet.jpg",
-      "relative_url_tablet_@2x": "195_tablet_2x.jpg",
       "type": "image"
     },
     {
@@ -1100,24 +1100,6 @@
       "type": "image"
     },
     {
-      "alt": "Fort Smith Trolley Museum is located on 4 street and Garland Ave Not on Park property.  Photo Credit FOSM NPS",
-      "caption": "Fort Smith Trolley Museum. Not on Park property.  ",
-      "id": 214,
-      "image_1080": "214_1080x810.jpg",
-      "image_1536": "214_1536x1152.jpg",
-      "image_350": "214_350x260.jpg",
-      "image_480": "214_480x320.jpg",
-      "image_640": "214_640x504.jpg",
-      "image_768": "214_768x480.jpg",
-      "image_960": "214_960x640.jpg",
-      "name": "Fort Smith Trolley Museum",
-      "relative_url": "214.jpg",
-      "relative_url_@2x": "214@2x.jpg",
-      "relative_url_tablet": "214_tablet.jpg",
-      "relative_url_tablet_@2x": "214_tablet_2x.jpg",
-      "type": "image"
-    },
-    {
       "alt": "Entrance to Fort Smith National Cemetery",
       "caption": "Fort Smith National Cemetery.  Not on Park property. ",
       "id": 210,
@@ -1136,7 +1118,7 @@
       "type": "image"
     },
     {
-      "alt": "Fort Smith Museum of History",
+      "alt": "Four story red brick building houses the Fort Smith Museum of History",
       "caption": "Fort Smith Museum of History. Not on Park property. ",
       "id": 212,
       "image_1080": "212_1080x810.jpg",
@@ -1169,6 +1151,24 @@
       "relative_url_@2x": "208@2x.jpg",
       "relative_url_tablet": "208_tablet.jpg",
       "relative_url_tablet_@2x": "208_tablet_2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "Fort Smith Trolley Museum is located on 4 street and Garland Ave Not on Park property.  ",
+      "caption": "Fort Smith Trolley Museum. Not on Park property.  ",
+      "id": 214,
+      "image_1080": "214_1080x810.jpg",
+      "image_1536": "214_1536x1152.jpg",
+      "image_350": "214_350x260.jpg",
+      "image_480": "214_480x320.jpg",
+      "image_640": "214_640x504.jpg",
+      "image_768": "214_768x480.jpg",
+      "image_960": "214_960x640.jpg",
+      "name": "Fort Smith Trolley Museum",
+      "relative_url": "214.jpg",
+      "relative_url_@2x": "214@2x.jpg",
+      "relative_url_tablet": "214_tablet.jpg",
+      "relative_url_tablet_@2x": "214_tablet_2x.jpg",
       "type": "image"
     },
     {
@@ -1783,35 +1783,6 @@
       "type": "Stone foundation"
     },
     {
-      "description": "National Cemetery for veterans from the War of 1812 to present. Open daily 7:30 am to sunset.",
-      "geofence_buffer_in_meters": 10,
-      "id": 132,
-      "information": [
-        {
-          "description": "Served in the War of 1812\nFirst commander of Fort Smith \nBuried in Section 2 site 604\n",
-          "name": "Major William Bradford"
-        },
-        {
-          "description": "Surgeon US Army\nWar of 1812\nSurgeon for the Rifle Regiment\nBuried in Section 2 Site 605 ",
-          "name": "Thomas Russell"
-        },
-        {
-          "description": "Corporal US Army\nCongressman\nFederal Judge\nBuried in Section 9 Site 4000\nMary Parker is buried next to her husband in site 3999",
-          "name": "Isaac C. Parker and Mary Parker"
-        }
-      ],
-      "latitude": 35.383797,
-      "longitude": -94.428998,
-      "map_thumbnail_image": 267,
-      "media": [
-        210
-      ],
-      "name": "Fort Smith National Cemetery",
-      "name_description": "National Cemetery for veterans from the War of 1812 to present. Open daily 7:30am to sunset.",
-      "type": "Cemetery",
-      "services": []
-    },
-    {
       "description": "From the gazebo gaze across the Arkansas and Poteau Rivers and picture forest as far as you can see. There are three panels discussing why this site was selected for a fort, the founding of Fort Smith, and those who served here from 1817-1824.",
       "geofence_buffer_in_meters": 10,
       "id": 120,
@@ -1868,6 +1839,35 @@
       "name": "Fort Smith Museum of History ",
       "name_description": "The museum focuses on the Fort Smith community, includes an operating soda fountain.",
       "type": "Public Museum",
+      "services": []
+    },
+    {
+      "description": "National Cemetery for veterans from the War of 1812 to present. Open daily 7:30 am to sunset.",
+      "geofence_buffer_in_meters": 10,
+      "id": 132,
+      "information": [
+        {
+          "description": "Served in the War of 1812\nFirst commander of Fort Smith \nBuried in Section 2 site 604\n",
+          "name": "Major William Bradford"
+        },
+        {
+          "description": "Surgeon US Army\nWar of 1812\nSurgeon for the Rifle Regiment\nBuried in Section 2 Site 605 ",
+          "name": "Thomas Russell"
+        },
+        {
+          "description": "Corporal US Army\nCongressman\nFederal Judge\nBuried in Section 9 Site 4000\nMary Parker is buried next to her husband in site 3999",
+          "name": "Isaac C. Parker and Mary Parker"
+        }
+      ],
+      "latitude": 35.383797,
+      "longitude": -94.428998,
+      "map_thumbnail_image": 267,
+      "media": [
+        210
+      ],
+      "name": "Fort Smith National Cemetery",
+      "name_description": "National Cemetery for veterans from the War of 1812 to present. Open daily 7:30am to sunset.",
+      "type": "Cemetery",
       "services": []
     },
     {
