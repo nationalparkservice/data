@@ -596,24 +596,6 @@
       "type": "image"
     },
     {
-      "alt": "Large American hangs on flagpole on a windless sunny day.",
-      "caption": "Large American hangs on 99-foot tall flagpole in center of parade ground. View is front the front of the Commissary.   ",
-      "id": 222,
-      "image_1080": "222_1080x810.jpg",
-      "image_1536": "222_1536x1152.jpg",
-      "image_350": "222_350x260.jpg",
-      "image_480": "222_480x320.jpg",
-      "image_640": "222_640x504.jpg",
-      "image_768": "222_768x480.jpg",
-      "image_960": "222_960x640.jpg",
-      "name": "Large American hangs on flagpole on a windless sunny day.",
-      "relative_url": "222.jpg",
-      "relative_url_@2x": "222@2x.jpg",
-      "relative_url_tablet": "222_tablet.jpg",
-      "relative_url_tablet_@2x": "222_tablet_2x.jpg",
-      "type": "image"
-    },
-    {
       "alt": "River front park on a sunny day",
       "caption": "Park and open amphitheater that is the site of concert and special event throughout the year. Not on Park property.  Photo Credit FOSM NPS",
       "id": 207,
@@ -737,24 +719,6 @@
       "relative_url_@2x": "201@2x.jpg",
       "relative_url_tablet": "201_tablet.jpg",
       "relative_url_tablet_@2x": "201_tablet_2x.jpg",
-      "type": "image"
-    },
-    {
-      "alt": "Two story stone building with covered in foreground wagon imprinted with U.S. on canvas top. ",
-      "caption": "Commissary is the oldest standing building in Fort Smith built in 1849.",
-      "id": 189,
-      "image_1080": "189_1080x810.jpg",
-      "image_1536": "189_1536x1152.jpg",
-      "image_350": "189_350x260.jpg",
-      "image_480": "189_480x320.jpg",
-      "image_640": "189_640x504.jpg",
-      "image_768": "189_768x480.jpg",
-      "image_960": "189_960x640.jpg",
-      "name": "The Commissary (includes 2 WS outside and 2 WS inside)",
-      "relative_url": "189.jpg",
-      "relative_url_@2x": "189@2x.jpg",
-      "relative_url_tablet": "189_tablet.jpg",
-      "relative_url_tablet_@2x": "189_tablet_2x.jpg",
       "type": "image"
     },
     {
@@ -884,6 +848,24 @@
       "type": "image"
     },
     {
+      "alt": "Two story stone building with covered in foreground wagon imprinted with U.S. on canvas top. ",
+      "caption": "Commissary is the oldest standing building in Fort Smith.",
+      "id": 189,
+      "image_1080": "189_1080x810.jpg",
+      "image_1536": "189_1536x1152.jpg",
+      "image_350": "189_350x260.jpg",
+      "image_480": "189_480x320.jpg",
+      "image_640": "189_640x504.jpg",
+      "image_768": "189_768x480.jpg",
+      "image_960": "189_960x640.jpg",
+      "name": "The Commissary ",
+      "relative_url": "189.jpg",
+      "relative_url_@2x": "189@2x.jpg",
+      "relative_url_tablet": "189_tablet.jpg",
+      "relative_url_tablet_@2x": "189_tablet_2x.jpg",
+      "type": "image"
+    },
+    {
       "alt": "White trimmed structure with a roof over a horizontal beam and platform with stairs.  ",
       "caption": "86 men were executed here, 1872-1896. ",
       "id": 187,
@@ -971,24 +953,6 @@
       "relative_url_@2x": "215@2x.jpg",
       "relative_url_tablet": "215_tablet.jpg",
       "relative_url_tablet_@2x": "215_tablet_2x.jpg",
-      "type": "image"
-    },
-    {
-      "alt": "Exhibits representing the Hamersley home.",
-      "caption": "From 1890-1896 the Hamersley family lived on the first floor of the commissary and the exhibits represent what might have been in their home. Photo Credit FOSM NPS",
-      "id": 219,
-      "image_1080": "219_1080x810.jpg",
-      "image_1536": "219_1536x1152.jpg",
-      "image_350": "219_350x260.jpg",
-      "image_480": "219_480x320.jpg",
-      "image_640": "219_640x504.jpg",
-      "image_768": "219_768x480.jpg",
-      "image_960": "219_960x640.jpg",
-      "name": "Exhibits representing the Hamersley home.",
-      "relative_url": "219.jpg",
-      "relative_url_@2x": "219@2x.jpg",
-      "relative_url_tablet": "219_tablet.jpg",
-      "relative_url_tablet_@2x": "219_tablet_2x.jpg",
       "type": "image"
     },
     {
@@ -1190,21 +1154,21 @@
       "type": "image"
     },
     {
-      "alt": "Exhibits with reproductions of supplies used by soldiers in the 1850s.",
-      "caption": "From 1846 to 1871, the stored supplies for soldiers in Fort Smith and forts in Indian Territory. Parts of the exhibits are  the supplies used by soldiers in the 1850s. . Photo Credit FOSM NPS",
-      "id": 227,
-      "image_1080": "227_1080x810.jpg",
-      "image_1536": "227_1536x1152.jpg",
-      "image_350": "227_350x260.jpg",
-      "image_480": "227_480x320.jpg",
-      "image_640": "227_640x504.jpg",
-      "image_768": "227_768x480.jpg",
-      "image_960": "227_960x640.jpg",
-      "name": "Exhibits with reproductions of supplies used by soldiers in the 1850s.",
-      "relative_url": "227.jpg",
-      "relative_url_@2x": "227@2x.jpg",
-      "relative_url_tablet": "227_tablet.jpg",
-      "relative_url_tablet_@2x": "227_tablet_2x.jpg",
+      "alt": "Exhibits representing the Hamersley home.",
+      "caption": "From 1890-1896 the Hamersley family lived on the first floor of the commissary .",
+      "id": 219,
+      "image_1080": "219_1080x810.jpg",
+      "image_1536": "219_1536x1152.jpg",
+      "image_350": "219_350x260.jpg",
+      "image_480": "219_480x320.jpg",
+      "image_640": "219_640x504.jpg",
+      "image_768": "219_768x480.jpg",
+      "image_960": "219_960x640.jpg",
+      "name": "Exhibits representing the Hamersley home.",
+      "relative_url": "219.jpg",
+      "relative_url_@2x": "219@2x.jpg",
+      "relative_url_tablet": "219_tablet.jpg",
+      "relative_url_tablet_@2x": "219_tablet_2x.jpg",
       "type": "image"
     },
     {
@@ -1370,6 +1334,24 @@
       "type": "map_thumbnail"
     },
     {
+      "alt": "Exhibits with reproductions of supplies used by soldiers in the 1850's.",
+      "caption": "Exhibits with reproductions of supplies used by soldiers in the 1850's.",
+      "id": 227,
+      "image_1080": "227_1080x810.jpg",
+      "image_1536": "227_1536x1152.jpg",
+      "image_350": "227_350x260.jpg",
+      "image_480": "227_480x320.jpg",
+      "image_640": "227_640x504.jpg",
+      "image_768": "227_768x480.jpg",
+      "image_960": "227_960x640.jpg",
+      "name": "Exhibits with reproductions of supplies used by soldiers in the 1850's.",
+      "relative_url": "227.jpg",
+      "relative_url_@2x": "227@2x.jpg",
+      "relative_url_tablet": "227_tablet.jpg",
+      "relative_url_tablet_@2x": "227_tablet_2x.jpg",
+      "type": "image"
+    },
+    {
       "alt": "Aerial view of the jail, barracks, courthouse, and parade ground on a sunny day.",
       "caption": "Aerial view of visitor center and parade ground on a sunny day.",
       "id": 216,
@@ -1457,6 +1439,24 @@
       "relative_url_@2x": "226@2x.jpg",
       "relative_url_tablet": "226_tablet.jpg",
       "relative_url_tablet_@2x": "226_tablet_2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "View from the commissary of supply wagon, parade ground, visitor center, and flag pole where a large American flag hangs on a windless sunny day.",
+      "caption": "Large American hangs on 99-foot tall flagpole in center of parade ground. View is front the front of the Commissary.   ",
+      "id": 222,
+      "image_1080": "222_1080x810.jpg",
+      "image_1536": "222_1536x1152.jpg",
+      "image_350": "222_350x260.jpg",
+      "image_480": "222_480x320.jpg",
+      "image_640": "222_640x504.jpg",
+      "image_768": "222_768x480.jpg",
+      "image_960": "222_960x640.jpg",
+      "name": "View of supply wagon, parade ground, flag pole, and visitor center.",
+      "relative_url": "222.jpg",
+      "relative_url_@2x": "222@2x.jpg",
+      "relative_url_tablet": "222_tablet.jpg",
+      "relative_url_tablet_@2x": "222_tablet_2x.jpg",
       "type": "image"
     },
     {
@@ -1631,16 +1631,16 @@
       "id": 483,
       "information": [
         {
+          "description": "William Story (1843-1921) was nominated by President Grant and confirmed on March 3, 1871.  In June of 1874, he resigned due to allegations of graft and corruption. He moved to Colorado and served as Lieutenant Governor from 1891 to 1893. ",
+          "name": "William Story 1871-1874"
+        },
+        {
           "description": "In 1864, Henry Caldwell was nominated and confirmed as the judge for the Western District of  Arkansas. In 1871, he was reassigned as judge for the Eastern District of Arkansas.  After Judge Story resigned in 1874, Judge Caldwell severed as an interim until Judge Parker arrived in 1875. He remained in Eastern Arkansas until 1890 when he was appointed as Judge to the U.S. Circuit Courts for the Eight Circuit. He was reassigned to the U.S Court of Appeals for the Eighth Circuit in 1891. Judge Henry Clay Caldwell retired on June 4, 1903.  ",
           "name": "Henry Clay Caldwell 1874-1875"
         },
         {
           "description": "Isaac Parker was nominated and confirmed as judge for the Western District of Arkansas including Indian Territory in March of 1875. This was his courtroom until 1890 when a new courthouse was built on the corner of 6th and Rogers. He remained in this position until his death on November 17, 1896.",
           "name": "Isaac C. Parker 1875-1896"
-        },
-        {
-          "description": "William Story (1843-1921) was nominated by President Grant and confirmed on March 3, 1871.  In June of 1874, he resigned due to allegations of graft and corruption. He moved to Colorado and served as Lieutenant Governor from 1891 to 1893. ",
-          "name": "William Story 1871-1874"
         }
       ],
       "latitude": 35.388451,
