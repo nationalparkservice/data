@@ -722,6 +722,24 @@
       "type": "image"
     },
     {
+      "alt": "Gazebo with water fountain",
+      "caption": "Welcome to Fort Smith",
+      "id": 194,
+      "image_1080": "194_1080x810.jpg",
+      "image_1536": "194_1536x1152.jpg",
+      "image_350": "194_350x260.jpg",
+      "image_480": "194_480x320.jpg",
+      "image_640": "194_640x504.jpg",
+      "image_768": "194_768x480.jpg",
+      "image_960": "194_960x640.jpg",
+      "name": "Gazebo by Parking Lot (includes WS)",
+      "relative_url": "194.jpg",
+      "relative_url_@2x": "194@2x.jpg",
+      "relative_url_tablet": "194_tablet.jpg",
+      "relative_url_tablet_@2x": "194_tablet_2x.jpg",
+      "type": "image"
+    },
+    {
       "alt": "Bastion #4 on a sunny day",
       "caption": "Bastion #4 facing east was one of five gun emplacements. ",
       "id": 192,
@@ -755,24 +773,6 @@
       "relative_url_@2x": "191@2x.jpg",
       "relative_url_tablet": "191_tablet.jpg",
       "relative_url_tablet_@2x": "191_tablet_2x.jpg",
-      "type": "image"
-    },
-    {
-      "alt": "Gazebo with water fountain",
-      "caption": "Welcome to Fort Smith",
-      "id": 194,
-      "image_1080": "194_1080x810.jpg",
-      "image_1536": "194_1536x1152.jpg",
-      "image_350": "194_350x260.jpg",
-      "image_480": "194_480x320.jpg",
-      "image_640": "194_640x504.jpg",
-      "image_768": "194_768x480.jpg",
-      "image_960": "194_960x640.jpg",
-      "name": "Gazebo by Parking Lot (includes WS)",
-      "relative_url": "194.jpg",
-      "relative_url_@2x": "194@2x.jpg",
-      "relative_url_tablet": "194_tablet.jpg",
-      "relative_url_tablet_@2x": "194_tablet_2x.jpg",
       "type": "image"
     },
     {
