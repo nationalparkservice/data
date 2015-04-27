@@ -704,24 +704,6 @@
       "type": "image"
     },
     {
-      "alt": "Cement slab is one of two that represent the location of the officer’s quarters.",
-      "caption": "Foundation marker is one of two that represent the location of the officer’s quarters.  ",
-      "id": 201,
-      "image_1080": "201_1080x810.jpg",
-      "image_1536": "201_1536x1152.jpg",
-      "image_350": "201_350x260.jpg",
-      "image_480": "201_480x320.jpg",
-      "image_640": "201_640x504.jpg",
-      "image_768": "201_768x480.jpg",
-      "image_960": "201_960x640.jpg",
-      "name": "Second Fort Smith Officers Quarters #1 (includes WS)",
-      "relative_url": "201.jpg",
-      "relative_url_@2x": "201@2x.jpg",
-      "relative_url_tablet": "201_tablet.jpg",
-      "relative_url_tablet_@2x": "201_tablet_2x.jpg",
-      "type": "image"
-    },
-    {
       "alt": "Gazebo with water fountain",
       "caption": "Welcome to Fort Smith",
       "id": 194,
@@ -773,6 +755,24 @@
       "relative_url_@2x": "191@2x.jpg",
       "relative_url_tablet": "191_tablet.jpg",
       "relative_url_tablet_@2x": "191_tablet_2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "Cement slab is one of two that represent the location of the officer’s quarters.",
+      "caption": "Foundation marker is one of two of the officer’s quarters.  ",
+      "id": 201,
+      "image_1080": "201_1080x810.jpg",
+      "image_1536": "201_1536x1152.jpg",
+      "image_350": "201_350x260.jpg",
+      "image_480": "201_480x320.jpg",
+      "image_640": "201_640x504.jpg",
+      "image_768": "201_768x480.jpg",
+      "image_960": "201_960x640.jpg",
+      "name": "Second Fort Smith Officers Quarters #1 (includes WS)",
+      "relative_url": "201.jpg",
+      "relative_url_@2x": "201@2x.jpg",
+      "relative_url_tablet": "201_tablet.jpg",
+      "relative_url_tablet_@2x": "201_tablet_2x.jpg",
       "type": "image"
     },
     {
