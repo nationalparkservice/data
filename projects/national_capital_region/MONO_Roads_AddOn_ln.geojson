@@ -95,9 +95,6 @@
       "properties": {
         "name": "Lewis Farm",
         "stroke": "#ffffff",
-        "styleUrl": "#style0",
-        "styleHash": "22f833f0",
-        "FID": "0",
         "Name": "Lewis Farm"
       }
     },
@@ -119,9 +116,6 @@
       "properties": {
         "name": "Thomas Farm",
         "stroke": "#ffffff",
-        "styleUrl": "#style0",
-        "styleHash": "22f833f0",
-        "FID": "1",
         "Name": "Thomas Farm"
       }
     },
@@ -215,9 +209,6 @@
       "properties": {
         "name": "NJ Access",
         "stroke": "#ffffff",
-        "styleUrl": "#style0",
-        "styleHash": "22f833f0",
-        "FID": "2",
         "Name": "NJ Access"
       }
     },
@@ -335,9 +326,6 @@
       "properties": {
         "name": "Best Entry",
         "stroke": "#ffffff",
-        "styleUrl": "#style0",
-        "styleHash": "22f833f0",
-        "FID": "3",
         "Name": "Best Entry"
       }
     },
@@ -443,9 +431,6 @@
       "properties": {
         "name": "Worthington Entry",
         "stroke": "#ffffff",
-        "styleUrl": "#style0",
-        "styleHash": "22f833f0",
-        "FID": "4",
         "Name": "Worthington Entry"
       }
     },
@@ -604,9 +589,6 @@
       "properties": {
         "name": "Visitor Center",
         "stroke": "#ffffff",
-        "styleUrl": "#style0",
-        "styleHash": "22f833f0",
-        "FID": "5",
         "Name": "Visitor Center"
       }
     },
@@ -705,9 +687,6 @@
       "properties": {
         "name": "CSX Access",
         "stroke": "#ffffff",
-        "styleUrl": "#style0",
-        "styleHash": "22f833f0",
-        "FID": "6",
         "Name": "CSX Access"
       }
     },
@@ -976,9 +955,6 @@
       "properties": {
         "name": "Thomas Entry",
         "stroke": "#ffffff",
-        "styleUrl": "#style0",
-        "styleHash": "22f833f0",
-        "FID": "7",
         "Name": "Thomas Entry"
       }
     }
