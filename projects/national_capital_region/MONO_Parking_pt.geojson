@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#808080",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Visitor Center Parking",
+        "image": "http://www.nps.gov/mono/planyourvisit/images/Park-Entrance-Sign-150th-750.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39497824688749,
+          39.377260395430206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Parking",
+        "image": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39100210221736,
+          39.37098612971488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Worthington Farm Parking",
+        "image": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.40053830555816,
+          39.36191879207802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "14th New Jersey Monument Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.392111,
+          39.370842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Best Farm Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.398562,
+          39.370592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Gambrill Farm Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.38745,
+          39.367268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Thomas Farm Parking",
+        "image": "http://www.nps.gov/mono/planyourvisit/images/Thomas-Farm-in-Snow-750.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.390602,
+          39.357008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Baker Farm Parking",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/MONO_BkF_House_175px.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39408433437347,
+          39.35317981619926
+        ]
+      }
+    }
+  ]
+}
