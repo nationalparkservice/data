@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Maryland Monument / Centennial Monument",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/MD_Monument.jpg",
+        "link": "http://www.nps.gov/mono/learn/historyculture/maryland-monument.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39701062440872,
+          39.376384284142354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "United Daughters of the Confederacy",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/DSC_1452.jpg",
+        "link": "http://www.nps.gov/mono/learn/historyculture/confederate-monument.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39705085754395,
+          39.37642989748635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "14th New Jersey Monument",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/Nj_monument_2_2.jpg",
+        "link": "http://www.nps.gov/mono/learn/historyculture/new-jersey-monument.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39257919483775,
+          39.370713216888944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Pennsylvania Monument",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/DSC_1455.jpg",
+        "link": "http://www.nps.gov/mono/learn/historyculture/pennsylvania-monument.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.38711863756178,
+          39.36100674233823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "10th Vermont Monument",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/DSCN1485.jpg",
+        "link": "http://www.nps.gov/mono/learn/historyculture/vermont-monument.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.38729029893875,
+          39.36038045461296
+        ]
+      }
+    }
+  ]
+}
