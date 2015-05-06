@@ -638,7 +638,8 @@
         "stroke": "#c0c0c0",
         "stroke-width": 1.5,
         "stroke-opacity": 1,
-        "guide_link": "http://www.nps.gov/mono/learn/nature/upload/Brooks-Hill-Brochure.pdf"
+        "guide_link": "http://www.nps.gov/mono/learn/nature/upload/Brooks-Hill-Brochure.pdf",
+        "link": "http://www.nps.gov/mono/planyourvisit/foot_trails.htm"
       }
     },
     {
@@ -828,7 +829,8 @@
         "stroke-width": 1.5,
         "stroke-opacity": 1,
         "name": "Gambrill Mill Trail",
-        "guide_link": "http://www.nps.gov/mono/planyourvisit/images/MONO_Gambrill_Trail_small.jpg"
+        "guide_link": "http://www.nps.gov/mono/planyourvisit/images/MONO_Gambrill_Trail_small.jpg",
+        "link": "http://www.nps.gov/mono/planyourvisit/foot_trails.htm"
       }
     },
     {
@@ -948,7 +950,8 @@
         "stroke": "#c0c0c0",
         "stroke-width": 1.5,
         "stroke-opacity": 1,
-        "guide_link": "http://www.nps.gov/mono/planyourvisit/images/MONO_Gambrill_Trail_small.jpg"
+        "guide_link": "http://www.nps.gov/mono/planyourvisit/images/MONO_Gambrill_Trail_small.jpg",
+        "link": "http://www.nps.gov/mono/planyourvisit/foot_trails.htm"
       }
     },
     {
@@ -1223,7 +1226,8 @@
         "stroke": "#c0c0c0",
         "stroke-width": 1.5,
         "stroke-opacity": 1,
-        "guide_link": "http://www.nps.gov/mono/planyourvisit/upload/MFF_Trail-2.pdf"
+        "guide_link": "http://www.nps.gov/mono/planyourvisit/upload/MFF_Trail-2.pdf",
+        "link": "http://www.nps.gov/mono/planyourvisit/foot_trails.htm"
       }
     },
     {
@@ -1773,7 +1777,8 @@
         "stroke": "#c0c0c0",
         "stroke-width": 1.5,
         "stroke-opacity": 1,
-        "guide_link": ""
+        "guide_link": "",
+        "link": "http://www.nps.gov/mono/planyourvisit/foot_trails.htm"
       }
     },
     {
@@ -2043,7 +2048,8 @@
         "stroke": "#c0c0c0",
         "stroke-width": 1.5,
         "stroke-opacity": 1,
-        "guide_link": "http://www.nps.gov/mono/planyourvisit/upload/MONO_WF_Trail.pdf"
+        "guide_link": "http://www.nps.gov/mono/planyourvisit/upload/MONO_WF_Trail.pdf",
+        "link": "http://www.nps.gov/mono/planyourvisit/foot_trails.htm"
       }
     },
     {
@@ -2633,7 +2639,8 @@
         "stroke": "#c0c0c0",
         "stroke-width": 1.5,
         "stroke-opacity": 1,
-        "guide_link": "http://www.nps.gov/mono/planyourvisit/upload/MONO_WF_Trail.pdf"
+        "guide_link": "http://www.nps.gov/mono/planyourvisit/upload/MONO_WF_Trail.pdf",
+        "link": "http://www.nps.gov/mono/planyourvisit/foot_trails.htm"
       }
     }
   ]
