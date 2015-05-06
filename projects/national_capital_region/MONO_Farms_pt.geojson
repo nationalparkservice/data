@@ -27,7 +27,8 @@
         "marker-symbol": "farm",
         "name": "Baker Farm",
         "image": "http://www.nps.gov/mono/learn/historyculture/images/MONO_BkF_House_175px.jpg",
-        "link": "http://www.nps.gov/mono/learn/historyculture/baker.htm"
+        "link": "http://www.nps.gov/mono/learn/historyculture/baker.htm",
+        "notes": "Not Open to Public"
       },
       "geometry": {
         "type": "Point",
