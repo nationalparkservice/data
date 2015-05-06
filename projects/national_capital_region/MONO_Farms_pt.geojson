@@ -40,12 +40,12 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
         "marker-symbol": "farm",
         "name": "Gambrill House (Edgewood)",
         "image": "http://www.nps.gov/common/uploads/photogallery/ncr/park/mono/236F9B94-1DD8-B71C-077CEE7D80B2ECF0/236F9B94-1DD8-B71C-077CEE7D80B2ECF0-small.JPG",
-        "link": "http://www.nps.gov/mono/learn/historyculture/gambrill_mansion.htm",
-        "marker-color": "#ff8000",
-        "marker-size": "medium"
+        "link": "http://www.nps.gov/mono/learn/historyculture/gambrill_mansion.htm"
       },
       "geometry": {
         "type": "Point",
