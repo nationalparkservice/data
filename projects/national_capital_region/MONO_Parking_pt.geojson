@@ -8,6 +8,7 @@
         "marker-size": "medium",
         "marker-symbol": "parking",
         "name": "Visitor Center Parking",
+        "description": "Visitor Center",
         "image": "http://www.nps.gov/mono/planyourvisit/images/Park-Entrance-Sign-150th-750.jpg"
       },
       "geometry": {
@@ -24,7 +25,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "parking",
-        "name": "Parking",
+        "name": "Railroad Junction Parking",
+        "description": "Railroad Junction"
         "image": ""
       },
       "geometry": {
@@ -42,7 +44,8 @@
         "marker-size": "medium",
         "marker-symbol": "parking",
         "name": "Worthington Farm Parking",
-        "image": ""
+        "description": "Worthington Farm",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/MONO_WF_Refurbished_175px.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -59,6 +62,8 @@
         "marker-size": "medium",
         "marker-symbol": "parking",
         "name": "14th New Jersey Monument Parking"
+        "description": "14th New Jersey Monument",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/DSCN1010.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -75,6 +80,8 @@
         "marker-size": "medium",
         "marker-symbol": "parking",
         "name": "Best Farm Parking"
+        "description": "Best Farm",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/MONO_BF_355_175px_1.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -90,7 +97,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "parking",
-        "name": "Gambrill Farm Parking"
+        "name": "Gambrill Mill Parking"
+        "description": "Gambrill Mill",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/MONO_GF_Mill1893_175px.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -107,6 +116,7 @@
         "marker-size": "medium",
         "marker-symbol": "parking",
         "name": "Thomas Farm Parking",
+        "description": "Thomas Farm",
         "image": "http://www.nps.gov/mono/planyourvisit/images/Thomas-Farm-in-Snow-750.jpg"
       },
       "geometry": {
@@ -124,6 +134,7 @@
         "marker-size": "medium",
         "marker-symbol": "parking",
         "name": "Baker Farm Parking",
+        "description": "Baker Farm",
         "image": "http://www.nps.gov/mono/learn/historyculture/images/MONO_BkF_House_175px.jpg"
       },
       "geometry": {
