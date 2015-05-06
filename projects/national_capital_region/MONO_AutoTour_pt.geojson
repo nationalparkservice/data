@@ -15,9 +15,9 @@
         "marker-size": "medium",
         "marker-symbol": "car",
         "name": "Stop 1: Best Farm",
-        "image": "http://www.nps.gov/mono/learn/historyculture/images/MONO_BF_355_175px_1.jpg",
-        "link": "http://www.nps.gov/mono/planyourvisit/auto_tour.htm"
-        "audio": "http://www.nps.gov/mono/learn/photosmultimedia/upload/MONO_Stop1.mp3"
+        "audio": "http://www.nps.gov/mono/learn/photosmultimedia/upload/MONO_Stop1.mp3",
+        "link": "http://www.nps.gov/mono/planyourvisit/auto_tour.htm",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/MONO_BF_355_175px_1.jpg"
       }
     },
     {
@@ -35,9 +35,9 @@
         "marker-size": "medium",
         "marker-symbol": "car",
         "name": "Stop 2: 14th New Jersey Monument",
-        "image": "http://www.nps.gov/mono/learn/historyculture/images/DSCN1010.jpg",
-        "link": "http://www.nps.gov/mono/planyourvisit/auto_tour.htm"
-        "audio": "http://www.nps.gov/mono/learn/photosmultimedia/upload/MONO_Stop2.mp3"
+        "audio": "http://www.nps.gov/mono/learn/photosmultimedia/upload/MONO_Stop2.mp3",
+        "link": "http://www.nps.gov/mono/planyourvisit/auto_tour.htm",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/DSCN1010.jpg"
       }
     },
     {
@@ -54,9 +54,9 @@
         "marker-size": "medium",
         "marker-symbol": "car",
         "name": "Stop 3: Worthington Farm",
-        "image": "http://www.nps.gov/mono/learn/historyculture/images/MONO_WF_Refurbished_175px.jpg",
-        "link": "http://www.nps.gov/mono/planyourvisit/auto_tour.htm"
-        "audio": "http://www.nps.gov/mono/learn/photosmultimedia/upload/MONO_Stop3.mp3"
+        "audio": "http://www.nps.gov/mono/learn/photosmultimedia/upload/MONO_Stop3.mp3",
+        "link": "http://www.nps.gov/mono/planyourvisit/auto_tour.htm",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/MONO_WF_Refurbished_175px.jpg"
       }
     },
     {
@@ -73,9 +73,9 @@
         "marker-size": "medium",
         "marker-symbol": "car",
         "name": "Stop 4: Thomas Farm",
-        "image": "http://www.nps.gov/mono/learn/historyculture/images/ThomasHouse_175px.jpg",
-        "link": "http://www.nps.gov/mono/planyourvisit/auto_tour.htm"
-        "audio": "http://www.nps.gov/mono/learn/photosmultimedia/upload/MONO_Stop4.mp3"
+        "audio": "http://www.nps.gov/mono/learn/photosmultimedia/upload/MONO_Stop4.mp3",
+        "link": "http://www.nps.gov/mono/planyourvisit/auto_tour.htm",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/ThomasHouse_175px.jpg"
       }
     },
     {
@@ -92,9 +92,9 @@
         "marker-size": "medium",
         "marker-symbol": "car",
         "name": "Stop 5: Gambrill Mill",
-        "image": "http://www.nps.gov/mono/learn/historyculture/images/MONO_GF_Mill1893_175px.jpg",
-        "link": "http://www.nps.gov/mono/planyourvisit/auto_tour.htm"
-        "audio": "http://www.nps.gov/mono/learn/photosmultimedia/upload/MONO_Stop5.mp3"
+        "audio": "http://www.nps.gov/mono/learn/photosmultimedia/upload/MONO_Stop5.mp3",
+        "link": "http://www.nps.gov/mono/planyourvisit/auto_tour.htm",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/MONO_GF_Mill1893_175px.jpg"
       }
     }
   ]
