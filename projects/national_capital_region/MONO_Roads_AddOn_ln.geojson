@@ -94,9 +94,9 @@
       },
       "properties": {
         "name": "Lewis Farm",
-        
-      "stroke": "#ffffff",
-        "Name": "Lewis Farm"
+        "stroke": "#ffffff",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2
       }
     },
     {
@@ -116,6 +116,9 @@
       },
       "properties": {
         "name": "Thomas Farm"
+        "stroke": "#ffffff",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2
       }
     },
     {
@@ -207,7 +210,9 @@
       },
       "properties": {
         "name": "NJ Access",
-        "stroke": "#ffffff"
+        "stroke": "#ffffff",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2
       }
     },
     {
@@ -323,7 +328,9 @@
       },
       "properties": {
         "name": "Best Entry",
-        "stroke": "#ffffff"
+        "stroke": "#ffffff",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2
       }
     },
     {
@@ -427,7 +434,9 @@
       },
       "properties": {
         "name": "Worthington Entry",
-        "stroke": "#ffffff"
+        "stroke": "#ffffff",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2
       }
     },
     {
@@ -584,7 +593,9 @@
       },
       "properties": {
         "name": "Visitor Center",
-        "stroke": "#ffffff"
+        "stroke": "#ffffff",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2
       }
     },
     {
@@ -681,7 +692,9 @@
       },
       "properties": {
         "name": "CSX Access",
-        "stroke": "#ffffff"
+        "stroke": "#ffffff",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2
       }
     },
     {
@@ -948,7 +961,9 @@
       },
       "properties": {
         "name": "Thomas Entry",
-        "stroke": "#ffffff"
+        "stroke": "#ffffff",
+        "stroke-opacity": 0.8,
+        "stroke-width": 2
       }
     }
   ]
