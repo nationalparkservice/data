@@ -103,13 +103,6 @@
       "type": "Feature",
       "geometry": {
         "type": "LineString",
-        "styles":{
-           "line": {
-             "stroke": "#ffffff",
-             "stroke-opacity": 0.8,
-             "stroke-width": 2
-             }
-            }
         "coordinates": [
           [
             -77.390343,
