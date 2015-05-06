@@ -114,8 +114,7 @@
         ]
       },
       "properties": {
-        "name": "Thomas Farm",
-        "stroke": "#ffffff"
+        "name": "Thomas Farm"
       }
     },
     {
@@ -206,8 +205,7 @@
         ]
       },
       "properties": {
-        "name": "NJ Access",
-        "stroke": "#ffffff"
+        "name": "NJ Access"
       }
     },
     {
@@ -322,8 +320,7 @@
         ]
       },
       "properties": {
-        "name": "Best Entry",
-        "stroke": "#ffffff"
+        "name": "Best Entry"
       }
     },
     {
@@ -426,8 +423,7 @@
         ]
       },
       "properties": {
-        "name": "Worthington Entry",
-        "stroke": "#ffffff"
+        "name": "Worthington Entry"
       }
     },
     {
@@ -583,8 +579,7 @@
         "type": "GeometryCollection"
       },
       "properties": {
-        "name": "Visitor Center",
-        "stroke": "#ffffff"
+        "name": "Visitor Center"
       }
     },
     {
@@ -680,8 +675,7 @@
         ]
       },
       "properties": {
-        "name": "CSX Access",
-        "stroke": "#ffffff"
+        "name": "CSX Access"
       }
     },
     {
@@ -947,8 +941,7 @@
         "type": "GeometryCollection"
       },
       "properties": {
-        "name": "Thomas Entry",
-        "stroke": "#ffffff"
+        "name": "Thomas Entry"
       }
     }
   ]
