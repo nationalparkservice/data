@@ -115,7 +115,7 @@
         ]
       },
       "properties": {
-        "name": "Thomas Farm"
+        "name": "Thomas Farm",
         "stroke": "#ffffff",
         "stroke-opacity": 0.8,
         "stroke-width": 2
