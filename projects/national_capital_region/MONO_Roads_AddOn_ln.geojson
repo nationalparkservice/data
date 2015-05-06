@@ -205,7 +205,8 @@
         ]
       },
       "properties": {
-        "name": "NJ Access"
+        "name": "NJ Access",
+        "stroke": "#ffffff"
       }
     },
     {
@@ -320,7 +321,8 @@
         ]
       },
       "properties": {
-        "name": "Best Entry"
+        "name": "Best Entry",
+        "stroke": "#ffffff"
       }
     },
     {
@@ -423,7 +425,8 @@
         ]
       },
       "properties": {
-        "name": "Worthington Entry"
+        "name": "Worthington Entry",
+        "stroke": "#ffffff"
       }
     },
     {
@@ -579,7 +582,8 @@
         "type": "GeometryCollection"
       },
       "properties": {
-        "name": "Visitor Center"
+        "name": "Visitor Center",
+        "stroke": "#ffffff"
       }
     },
     {
@@ -675,7 +679,8 @@
         ]
       },
       "properties": {
-        "name": "CSX Access"
+        "name": "CSX Access",
+        "stroke": "#ffffff"
       }
     },
     {
@@ -941,7 +946,8 @@
         "type": "GeometryCollection"
       },
       "properties": {
-        "name": "Thomas Entry"
+        "name": "Thomas Entry",
+        "stroke": "#ffffff"
       }
     }
   ]
