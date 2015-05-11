@@ -68,10 +68,10 @@
       "description": "Beach Access Ramp",
       "geofence_buffer_in_meters": 10,
       "id": 494,
-      "latitude": 35.532296,
-      "longitude": -75.472727,
+      "latitude": 35.532034,
+      "longitude": -75.473038,
       "map_thumbnail_image": 483,
-      "name": "Ramp",
+      "name": "Ramp 23",
       "type": "Beach Access"
     }
   ],
