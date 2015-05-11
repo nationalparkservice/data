@@ -2762,7 +2762,7 @@
       ]
     },
     {
-      "description": "The Dyea Campground is located 9 miles from Skagway and .5 miles from the the Chilkoot trailhead. The campground is within a short drive or bike ride of the historic townsite of Dyea. The campground is monitored by National Park Service rangers and is open when free of snow. The campground provides 22 sites for vehicle and walk-in camping. Hook-ups are not available for recreational vehicles. Campers are advised to bring drinking water and firewood. Facilities include pit toilets, fire rings, picnic tables, and garbage receptacles. Fee is $10 per site per night. Self-registration at the campground entrance.",
+      "description": "The Dyea Campground is located 9 miles from Skagway and .5 miles from the the Chilkoot trailhead. \n\nThe campground is within a short drive or bike ride of the historic townsite of Dyea. The campground is monitored by National Park Service rangers and is open when free of snow. The campground provides 22 sites for vehicle and walk-in camping. Hook-ups are not available for recreational vehicles. Campers are advised to bring drinking water and firewood. \n\nFacilities include pit toilets, fire rings, picnic tables, and garbage receptacles. Fee is $10 per site per night. Self-registration at the campground entrance.",
       "geofence_buffer_in_meters": 10,
       "id": 46,
       "information": [
@@ -2876,25 +2876,7 @@
       ]
     },
     {
-      "description": "Managed by the municipality of Skagway, the Dyea Flats offer a natural area for wildlife viewing, photography and exploring a coastal community teeming with life.  In the spring and summer, colorful wildflowers blanket the area. The Long Wharf, originally 7,500 feet in length, was constructed at the height of the Klondike Gold Rush to stretch the distance of the tidal mud flats. Remnants of its piling are still visible on the Dyea Flats.",
-      "geofence_buffer_in_meters": 10,
-      "id": 53,
-      "information": [
-        {
-          "description": "Available Year-round",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.491295,
-      "longitude": -135.359802,
-      "map_thumbnail_image": 132,
-      "name": "Dyea Flats",
-      "name_description": "Managed by the municipality of Skagway, the tidal Flats offer a natural area and coastal community teeming with wildlife.",
-      "primary_image": 67,
-      "type": "Public Park"
-    },
-    {
-      "description": " With the onset of the gold rush, Dyea rapidly grew from a small settlement of native packers and a trading post into one of the largest towns in Alaska. At the height of the gold rush, Dyea bustled with a transient population of 5,000 to 8,000 with over 150 businesses. Stampeders could purchase supplies, post letters, get a hot meal and a dry bunk. Dyea died after the White Pass and Yukon Route railroad was completed from Skagway to Bennett in July 1899 .Ranger led tours available M-F at 2pm late May - early Sept. ",
+      "description": "With the onset of the gold rush, Dyea rapidly grew from a small settlement of native packers and a trading post into one of the largest towns in Alaska. At the height of the gold rush, Dyea bustled with a transient population of 5,000 to 8,000 with over 150 businesses. \n\nStampeders could purchase supplies, post letters, get a hot meal and a dry bunk. Dyea died after the White Pass and Yukon Route railroad was completed from Skagway to Bennett in July 1899. Ranger led tours available Monday to Friday at 2pm from late May until early September. ",
       "geofence_buffer_in_meters": 10,
       "id": 51,
       "information": [
@@ -2918,6 +2900,24 @@
           "type": "Restroom"
         }
       ]
+    },
+    {
+      "description": "Managed by the municipality of Skagway, the Dyea Flats offer a natural area for wildlife viewing, photography and exploring a coastal community teeming with life. In the spring and summer, colorful wildflowers blanket the area. \n\nThe Long Wharf, originally 7,500 feet in length, was constructed at the height of the Klondike Gold Rush to stretch the distance of the tidal mud flats. Remnants of its piling are still visible on the Dyea Flats.",
+      "geofence_buffer_in_meters": 10,
+      "id": 53,
+      "information": [
+        {
+          "description": "Available Year-round",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.491295,
+      "longitude": -135.359802,
+      "map_thumbnail_image": 132,
+      "name": "Dyea Flats",
+      "name_description": "Managed by the municipality of Skagway, the tidal Flats offer a natural area and coastal community teeming with wildlife.",
+      "primary_image": 67,
+      "type": "Public Park"
     },
     {
       "geofence_buffer_in_meters": 10,
@@ -3005,6 +3005,35 @@
       "type": "Historic Building"
     },
     {
+      "description": "This 33 mile trail maintained by the National Park Service and Parks Canada passes through a coastal temperate rainforest, over the 'Golden Stairs' mountain pass,  across sub-alpine forest, and ends at Lake Bennett the headwaters of the Yukon River in British Columbia, Canada.\nBackpacking permits required.",
+      "geofence_buffer_in_meters": 10,
+      "id": 47,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.511899,
+      "longitude": -135.346724,
+      "map_thumbnail_image": 129,
+      "media": [
+        77
+      ],
+      "name": "Chilkoot Trailhead",
+      "name_description": "33 mile long historic trail. \"The longest Museum in the World\"",
+      "primary_image": 61,
+      "type": "Trailhead",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        }
+      ]
+    },
+    {
       "description": "Built in 1859, this 176’ vessel endured in a storm, abandonment, piracy, and fire all before the ship wrecked in the bay north of Skagway in 1898.",
       "geofence_buffer_in_meters": 10,
       "id": 42,
@@ -3038,35 +3067,6 @@
       "name_description": "Private Business",
       "primary_image": 34,
       "type": "Historic Building"
-    },
-    {
-      "description": "This 33 mile trail maintained by the National Park Service and Parks Canada passes through a coastal temperate rainforest, over the \"Golden Stairs\" mountain pass,  across sub-alpine forest, and ends at Lake Bennett the headwaters of the Yukon River in British Columbia, Canada.\nBackpacking permits required.",
-      "geofence_buffer_in_meters": 10,
-      "id": 47,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.511899,
-      "longitude": -135.346724,
-      "map_thumbnail_image": 129,
-      "media": [
-        77
-      ],
-      "name": "Chilkoot Trailhead",
-      "name_description": "33 mile long historic trail. \"The longest Museum in the World\"",
-      "primary_image": 61,
-      "type": "Trailhead",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        }
-      ]
     },
     {
       "geofence_buffer_in_meters": 10,
@@ -3280,32 +3280,7 @@
       ]
     },
     {
-      "description": "Skagway's booming tourism industry began just as the Gold Rush was ending in the summer of 1898 with the first boatload of sightseers to the city. \n\nMartin Itjen, a Gold rush stampeder and Skagway’s premier tour operator bought this house in 1922 and originally stood on piers near Moore’s Wharf. From that location, Martin and his wife Lucy greeted passing tourists, sold fruit and candies, and booked rides on Itjen’s innovative Skagway Streetcars. During his tours, Itjen recited poetry and told humorous anecdotes about the town, keeping the gold rush tales alive. The Itjen House was later moved several times to other locations before finding its present home in 1978. ",
-      "geofence_buffer_in_meters": 10,
-      "id": 12,
-      "information": [
-        {
-          "description": "Open 7 days a week, 8 – 5. Closed on Tuesdays 12 – 1.",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.453589,
-      "longitude": -135.319097,
-      "map_thumbnail_image": 97,
-      "name": "Itjen House (Alaska Geographic Museum Store)",
-      "name_description": "Maps, Books, & Gifts available at Alaska Geographic, a non profit partner of this Park (open daily 9-5)",
-      "primary_image": 31,
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "description": "Famous outlaws, town heroes, and murdered US Marshals are all buried in the Gold Rush Cemetery.   One of the first train conductors for the WP&YR railroad eternally rest next to the train tracks, and town promoter Marten Itjen lays next to his giant \"gold\" nugget.  Interpretive signs highlight resident's histories.  After wondering through the wooded cemetery,  be sure to walk the short trail north of the cemetery that leads to beautiful Lower Reid Falls.",
+      "description": "Famous outlaws, town heroes, and murdered US Marshals are all buried in the Gold Rush Cemetery.   \n\nOne of the first train conductors for the WP&YR railroad eternally rest next to the train tracks, and town promoter Marten Itjen lays next to his giant 'gold nugget'. Interpretive signs highlight resident's histories.  \n\nAfter wandering through the wooded cemetery, be sure to walk the short trail north of the cemetery that leads to beautiful Lower Reid Falls.",
       "geofence_buffer_in_meters": 10,
       "id": 33,
       "information": [
@@ -3333,6 +3308,31 @@
           "icon": "restroom.png",
           "icon_@2x": "restroom@2x.png",
           "type": "Restroom"
+        }
+      ]
+    },
+    {
+      "description": "Skagway's booming tourism industry began just as the Gold Rush was ending in the summer of 1898 with the first boatload of sightseers to the city. \n\nMartin Itjen, a Gold rush stampeder and Skagway’s premier tour operator bought this house in 1922 and originally stood on piers near Moore’s Wharf. From that location, Martin and his wife Lucy greeted passing tourists, sold fruit and candies, and booked rides on Itjen’s innovative Skagway Streetcars. During his tours, Itjen recited poetry and told humorous anecdotes about the town, keeping the gold rush tales alive. The Itjen House was later moved several times to other locations before finding its present home in 1978. ",
+      "geofence_buffer_in_meters": 10,
+      "id": 12,
+      "information": [
+        {
+          "description": "Open 7 days a week, 8 – 5. Closed on Tuesdays 12 – 1.",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.453589,
+      "longitude": -135.319097,
+      "map_thumbnail_image": 97,
+      "name": "Itjen House (Alaska Geographic Museum Store)",
+      "name_description": "Maps, Books, & Gifts available at Alaska Geographic, a non profit partner of this Park (open daily 9-5)",
+      "primary_image": 31,
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
         }
       ]
     },
