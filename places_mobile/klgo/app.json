@@ -2218,6 +2218,37 @@
   ],
   "sites": [
     {
+      "audio_description": "Soapy's Parlor Museum.  1 ½ minutes.  Jefferson “Soapy” Smith’s parlor is a narrow, one-story building, 15 feet wide.  It stretches back 60 feet from street, and a simple pitched, shingled roof tops the building behind its false front.  Soapy’s is located on the south side of Second Avenue, between State Street and Broadway.  A metal fence five feet high separates the building from the boardwalk.  Grassy areas on both sides of the structure set it apart from the neighboring buildings.  The exterior walls on either side of the building are windowless..  Soapy’s is not currently open to the public. \n        \nThe building’s wooden, flat-topped facade is painted white, except for a black strip about a foot wide across the top, just below the roofline.  The words “Jeff. Smiths Parlor” have been stenciled in white capital letters on the black strip, but are badly faded.  A single windowed doorway is set into the right-hand side of the façade; a large square window is located immediately to its left.  The window and door, both trimmed in beige, together stretch across almost the entire width of the building.  White lace curtains adorn the window and door from inside.\n\nEnd of message.\n",
+      "description": "Jeff Smith's Parlor was the saloon and headquarters of Jefferson Randolph Smith, better known as 'Soapy Smith.' Smith was Skagway’s most infamous con-man, who arrived in Skagway sometime in 1897 and began operating from this building on 6th Avenue, May 1898. The interior during Soapy’s reign has been described as a restaurant with a large mahogany bar. The back room 'parlor' was where victims were sometimes robbed while gang members ran away with the loot. Soapy met his demise soon after J. D. Stewart, a gold miner returning from the Klondike, was robbed by his gang. Soapy was killed in a shoot-out by Frank Reid on July 8, 1898 and both are buried in Skagway’s Gold Rush Cemetery. In the years following Soapy’s death, this false-front wood-frame building changed hands several times.  As new owner Martin Itjen took over in 1935, restoration efforts and improvements soon followed, based on historical photographs.  Itjen reconstructed the building to a version of what Soapy’s Parlor had been, and papered the interior walls with newspapers dating from the gold rush to the 1930s. When he reopened the building as a museum, Itjen used his wizardry at mechanics and installed a manikin of Soapy Smith that turned from the bar and greeted visitors to the museum.  The Jeff. Smith Parlor Museum became a highlight on his Skagway tours. Upon Itjen’s death in 1924, George Rapuzzi, a collector of gold rush memorabilia, and Itjen’s long-time friend, took over the museum and moved the building to the current location in 1964. With his wife Edna, George repaired and renovated the building which was open to the public from 1967 to 1986.  In December 2008, the Rasmuson Foundation donated the ‘George and Edna Rapuzzi Collection,’ which included five historic buildings and a large collection of artifacts from 1898 through the late 1960’s to the National Park Service. Original artifacts and memorabilia depicting Soapy Smith’s life in Skagway will be on display when restoration is completed in 2016.",
+      "geofence_buffer_in_meters": 10,
+      "id": 3,
+      "information": [
+        {
+          "description": "Open by Ranger Tour Only - 2016",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.453821,
+      "longitude": -135.319148,
+      "map_thumbnail_image": 88,
+      "media": [
+        69,
+        79
+      ],
+      "name": "Soapy's Parlor Museum (Opening in 2016)",
+      "name_description": "This building was once headquarters for town villain “Soapy,” Later it was a museum by local entrepreneur Martin Itjen.",
+      "primary_image": 17,
+      "type": "Museum",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
       "description": "The local chapter of the fraternal organization Arctic Brotherhood first met here in August 1899. An example of Victorian Rustic architecture, the ornate driftwood façade was completed in 1900 after lodge members collected over 8,800 pieces of driftwood from the beaches of Skagway to create it. The Arctic Brotherhood was active until the 1920s, and now houses an informational center run by Skagway’s Convention and Visitors Bureau.",
       "geofence_buffer_in_meters": 10,
       "id": 4,
@@ -2283,27 +2314,58 @@
       "type": "Ruins"
     },
     {
-      "audio_description": "Soapy's Parlor Museum.  1 ½ minutes.  Jefferson “Soapy” Smith’s parlor is a narrow, one-story building, 15 feet wide.  It stretches back 60 feet from street, and a simple pitched, shingled roof tops the building behind its false front.  Soapy’s is located on the south side of Second Avenue, between State Street and Broadway.  A metal fence five feet high separates the building from the boardwalk.  Grassy areas on both sides of the structure set it apart from the neighboring buildings.  The exterior walls on either side of the building are windowless..  Soapy’s is not currently open to the public. \n        \nThe building’s wooden, flat-topped facade is painted white, except for a black strip about a foot wide across the top, just below the roofline.  The words “Jeff. Smiths Parlor” have been stenciled in white capital letters on the black strip, but are badly faded.  A single windowed doorway is set into the right-hand side of the façade; a large square window is located immediately to its left.  The window and door, both trimmed in beige, together stretch across almost the entire width of the building.  White lace curtains adorn the window and door from inside.\n\nEnd of message.\n",
-      "description": "Jeff. Smiths Parlor” was the saloon and headquarters of Jefferson Randolph Smith, better known as “Soapy Smith.” Smith was Skagway’s most infamous con-man, who arrived in Skagway sometime in 1897 and began operating from this building on 6th Avenue, May 1898. The interior during Soapy’s reign has been described as a restaurant with a large mahogany bar. The back room “parlor” was where victims were sometimes robbed while gang members ran away with the loot. Soapy met his demise soon after J. D. Stewart, a gold miner returning from the Klondike, was robbed by his gang. Soapy was killed in a shoot-out by Frank Reid on July 8, 1898 and both are buried in Skagway’s Gold Rush Cemetery. In the years following Soapy’s death, this false-front wood-frame building changed hands several times.  As new owner Martin Itjen took over in 1935, restoration efforts and improvements soon followed, based on historical photographs.  Itjen reconstructed the building to a version of what Soapy’s Parlor had been, and papered the interior walls with newspapers dating from the gold rush to the 1930s. When he reopened the building as a museum, Itjen used his wizardry at mechanics and installed a manikin of Soapy Smith that turned from the bar and greeted visitors to the museum.  The Jeff. Smith Parlor Museum became a highlight on his Skagway tours. Upon Itjen’s death in 1924, George Rapuzzi, a collector of gold rush memorabilia, and Itjen’s long-time friend, took over the museum and moved the building to the current location in 1964. With his wife Edna, George repaired and renovated the building which was open to the public from 1967 to 1986.  In December 2008, the Rasmuson Foundation donated the ‘George and Edna Rapuzzi Collection,’ which included five historic buildings and a large collection of artifacts from 1898 through the late 1960’s to the National Park Service. Original artifacts and memorabilia depicting Soapy Smith’s life in Skagway will be on display when restoration is completed in 2016.",
+      "description": "The log-cabin home of Captain William Moore marks the birthplace of Skagway. Constructed in 1887-1888 by Captain Moore, his son, Ben, and Nan-Suk, a Tlingit native, it is the oldest structure in town. Original newspapers from the late nineteenth century, once used as interior decoration, still adhere to the walls and ceiling of the cabin. \n\nCaptain Moore was a veteran of gold rushes. He predicted that there would one day be a great gold rush in the Yukon and Alaska and that stampeders would make their way up the Skagway River Valley to get there. He and his son claimed a homestead, built a cabin, and constructed a wharf. When the rush finally came, his land was overrun by a flood of stampeders. Nevertheless, Captain William Moore and his family prospered, and he lived to see his homestead turn into a significant port and railroad town. The life of Ben Moore exemplifies the pioneer spirit of Alaska. \n\nAs a young man he plied the Inside Passage and traveled up and down the Yukon River, looking for gold and working at various jobs in fishing, mining, and packing. Ben Moore married Klinget-Sai-Yet, daughter of a Tlingit leader, and named her Minnie. In 1897 he began constructing a frame house just south of his father's cabin. This small beginning became the nucleus of the present Ben Moore House. Over the years, continued additions and remodeling created a sizeable home. By 1907 Ben Moore and his family moved to Tacoma, Washington. The house was rented by jeweler Herman Kirmse and later purchased by his wife Hazel in 1914. Today the house is open to the public and depicts life in a pioneer home around 1904.",
       "geofence_buffer_in_meters": 10,
-      "id": 3,
+      "id": 7,
       "information": [
         {
-          "description": "Open by Ranger Tour Only - 2016",
+          "description": "Open Seasonally Monday through Thursday, 10am-5:30pm, Friday through Sunday, 10am-5pm",
           "name": "Hours"
         }
       ],
-      "latitude": 59.453821,
-      "longitude": -135.319148,
-      "map_thumbnail_image": 88,
+      "latitude": 59.454918,
+      "longitude": -135.314194,
+      "map_thumbnail_image": 92,
       "media": [
-        69,
-        79
+        73,
+        82
       ],
-      "name": "Soapy's Parlor Museum (Opening in 2016)",
-      "name_description": "This building was once headquarters for town villain “Soapy,” Later it was a museum by local entrepreneur Martin Itjen.",
-      "primary_image": 17,
+      "name": "Moore Homestead",
+      "name_description": "The first to permanently inhabit this valley, the Moores live here 10 years before the gold rush",
+      "primary_image": 21,
       "type": "Museum",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        },
+        {
+          "description": "Staffed by Ranger",
+          "icon": "ranger.png",
+          "icon_@2x": "ranger@2x.png",
+          "type": "Staffed by Ranger"
+        }
+      ]
+    },
+    {
+      "description": "Built in 1899 by Frederick and Nathalie Verbauwhede, this store took full advantage of its corner location near the newly constructed train depot to attract business. \n\nHere travelers could easily purchase the candies, nuts, fruits, cigars, and pastries they desired before boarding their train north. This structure is indicative of a story common in Skagway’s history, of abundant opportunities for entrepreneurship, as it has housed more than seven different businesses in the last hundred years. \n\nAfter a series of uses as a barber, gun, and curio shop, the building became the Alaska Transfer Company express office. Today the building is part of Klondike Gold Rush National Historical Park’s Lease Back Program and houses a private business.",
+      "geofence_buffer_in_meters": 10,
+      "id": 17,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.453953,
+      "longitude": -135.317799,
+      "map_thumbnail_image": 102,
+      "name": "Verbauwhede Cigar Store & Confectionery",
+      "name_description": "Private Business",
+      "primary_image": 36,
+      "type": "Business (NPS)",
       "services": [
         {
           "description": "Handicapped Access",
@@ -2329,6 +2391,50 @@
       "name_description": "Learn the traditional Tlingit words for several surrounding land marks at this wayside.",
       "primary_image": 33,
       "type": "Wayside Exhibit"
+    },
+    {
+      "description": "During the early gold rush years in Skagway, this building was associated with one of two businesses that provided retail and wholesale meat to stampeders and commercial clients.  \n\nKnown as the Frye-Bruhn refrigerated warehouse, it was owned by brothers Frank and Charles Frye and Charles Bruhn and was part of the Frye-Bruhn Meat Packing Company, of Seattle, Washington.  \n\nIncorporated in 1891, the company rapidly expanded during the gold rush and soon had stores in several locations in Alaska including Haines, Juneau, Seward, Skagway, Valdez, and a cattle ranch in Katmai. This building, part of the Frye-Bruhn meat packing empire, was first used briefly as a slaughter house.  It was remodeled in May 1900 and turned into a refrigerated warehouse for meat.  The Frye-Bruhn Company sold the warehouse in September 1919 to Anthony Dortero, a Skagway fruit dealer and clothier to men, for $450, but continued to operate in Skagway until the mid-1930s.  Mr. Dortero died in 1920 but his widow, Sabina, kept the property until 1945.  After that it was owned by several people before being donated to the National Park Service. \n\nExactly when the refrigeration equipment in the old building stopped working is unknown but it still contains parts of the original refrigeration coils and overhead track used to keep the meat cool and to move it around.  What is the future of the warehouse? The National Park Service recently moved it across 5th Avenue to where you see it now. The next step is to decide whether it should stay here or be moved to another location and stabilize it. Research and preservation work will need to be done to save the warehouse and put it back into use either as a storage building, interpretive facility, or commercial lease.",
+      "geofence_buffer_in_meters": 10,
+      "id": 25,
+      "information": [
+        {
+          "description": "Closed to the Public (Undergoing Restoration)",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.455224,
+      "longitude": -135.314476,
+      "map_thumbnail_image": 110,
+      "name": "Frye Bruhn Building",
+      "name_description": "Once a refrigerated warehouse for the Frye Bruhn Meat Packing Company, this building is slated for rehabilitation.",
+      "primary_image": 42,
+      "type": "Historic Building"
+    },
+    {
+      "description": "In many ways, Skagway was one of the last Western frontier towns. In two years’ time, Skagway’s population soared from just a handful to over 8,000 people and creating bountiful opportunities to start businesses and sell goods and services. \n\nStampeder and entrepreneur Henry Boas constructed this building in September 1899, out of which he operated a tailor shop and fur business until 1903. This shop fits the stereotypical appearance of a western boomtown false front building, common in Gold Rush era architecture in Skagway. \n\nTo grab the attention of thousands of potential customers, elaborate false fronts such as this projected an image of size, prosperity, and stability. A look at the roofline from the side will reveal its false front, which masked the simple, gabled-roof building behind. The use of this structure is also common to false-front structures in Skagway; a small shop on the first floor and the shopkeeper’s residence upstairs. \n\nThe history of Boas Tailor and Furrier Shop mirror’s Skagway’s up-and-down, boom-and-bust frontier economy. Today it is part of the National Park Service’s Lease Back program, and is rented by a private business.",
+      "geofence_buffer_in_meters": 10,
+      "id": 19,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.454049,
+      "longitude": -135.317713,
+      "map_thumbnail_image": 104,
+      "name": "Boas Tailor & Furrier Shop",
+      "name_description": "Stampeder Herman Boas built his residence and shop in late 1899.",
+      "primary_image": 38,
+      "type": "Business (NPS)",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
     },
     {
       "geofence_buffer_in_meters": 10,
@@ -2482,32 +2588,6 @@
       ]
     },
     {
-      "description": "In many ways, Skagway was one of the last Western frontier towns. In two years’ time, Skagway’s population soared from just a handful to over 8,000 people and creating bountiful opportunities to start businesses and sell goods and services. Stampeder and entrepreneur Henry Boas constructed this building in September 1899, out of which he operated a tailor shop and fur business until 1903. This shop fits the stereotypical appearance of a western boomtown false front building, common in Gold Rush era architecture in Skagway. To grab the attention of thousands of potential customers, elaborate false fronts such as this projected an image of size, prosperity, and stability. A look at the roofline from the side will reveal its false front, which masked the simple, gabled-roof building behind. The use of this structure is also common to false-front structures in Skagway; a small shop on the first floor and the shopkeeper’s residence upstairs. The history of Boas Tailor and Furrier Shop mirror’s Skagway’s up-and-down, boom-and-bust frontier economy. Today it is part of the National Park Service’s Lease Back program, and is rented by a private business.",
-      "geofence_buffer_in_meters": 10,
-      "id": 19,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.454049,
-      "longitude": -135.317713,
-      "map_thumbnail_image": 104,
-      "name": "Boas Tailor & Furrier Shop",
-      "name_description": "Stampeder Herman Boas built his residence and shop in late 1899.",
-      "primary_image": 38,
-      "type": "Business (NPS)",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
       "description": " Learn the history of the town of Skagway. From a Tlingit hunting camp to helping win World War II.",
       "geofence_buffer_in_meters": 1.5239999512320015,
       "id": 490,
@@ -2547,24 +2627,6 @@
       "name_description": "Access wooded lake, waterfalls, ocean landings, and mountain tops from this trail head",
       "primary_image": 475,
       "type": "Trail"
-    },
-    {
-      "description": "During the early gold rush years in Skagway, this building was associated with one of two businesses that provided retail and wholesale meat to stampeders and commercial clients.  Known as the Frye-Bruhn refrigerated warehouse, it was owned by brothers Frank and Charles Frye and Charles Bruhn and was part of the Frye-Bruhn Meat Packing Company, of Seattle, Washington.  Incorporated in 1891, the company rapidly expanded during the gold rush and soon had stores in several locations in Alaska including Haines, Juneau, Seward, Skagway, Valdez, and a cattle ranch in Katmai.  This building, part of the Frye-Bruhn meat packing empire, was first used briefly as a slaughter house.  It was remodeled in May 1900 and turned into a refrigerated warehouse for meat.  The Frye-Bruhn Company sold the warehouse in September 1919 to Anthony Dortero, a Skagway fruit dealer and clothier to men, for $450, but continued to operate in Skagway until the mid-1930s.  Mr. Dortero died in 1920 but his widow, Sabina, kept the property until 1945.  After that it was owned by several people before being donated to the National Park Service. Exactly when the refrigeration equipment in the old building quit working is unknown but it still contains parts of the original refrigeration coils and overhead track used to keep the meat cool and to move it around.  What is the future of the warehouse? The National Park Service recently moved it across 5th Avenue to where you see it now. The next step is to decide whether it should stay here or be moved to another location and stabilize it. Research and preservation work will need to be done to save the warehouse and put it back into use either as a storage building, interpretive facility, or commercial lease.",
-      "geofence_buffer_in_meters": 10,
-      "id": 25,
-      "information": [
-        {
-          "description": "Closed to the Public (Undergoing Restoration)",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.455224,
-      "longitude": -135.314476,
-      "map_thumbnail_image": 110,
-      "name": "Frye Bruhn Building",
-      "name_description": "Once a refrigerated warehouse for the Frye Bruhn Meat Packing Company, this building is slated for rehabilitation.",
-      "primary_image": 42,
-      "type": "Historic Building"
     },
     {
       "geofence_buffer_in_meters": 10,
@@ -2609,7 +2671,7 @@
       "type": "Wayside Exhibit"
     },
     {
-      "description": "Located in Centennial, Rotary Snowplow No. 1, built in 1899 and used by the White Pass & Yukon Route to clear up to 12 feet of snow.",
+      "description": "Located in Centennial, Rotary Snowplow No. 1, was built in 1899 and used by the White Pass & Yukon Route to clear up to 12 feet of snow.",
       "geofence_buffer_in_meters": 10,
       "id": 10,
       "information": [
@@ -2664,7 +2726,7 @@
       ]
     },
     {
-      "description": "The Pantheon’s history is a diverse one, much like the history of Skagway itself. Constructed in increments over the decades, it began as a simple flop house called the “Rosalie Hotel.” Lodging houses like the Rosalie were usually board and batten structures that went up quickly to meet the lodging needs of the stampeders. With thousands of anxious prospectors wildly making their way through Skagway on their way to the Klondike Gold Fields, some could find rest on the many bunks and cots within, and feast on meals served en masse. As the Gold Rush era waned, the hotel was remodeled in 1898 to serve as a hardware store. The new owner transformed the shack-like building into a more permanent, sturdy structure and added the false front facing Broadway. Today the Pantheon Saloon is a kid-friendly Junior Ranger Center, where children complete their own journey of the Klondike Gold Rush.",
+      "description": "The Pantheon’s history is a diverse one, much like the history of Skagway itself. Constructed in increments over the decades, it began as a simple flop house called the 'Rosalie Hotel'. \n\nLodging houses like the Rosalie were usually board and batten structures that went up quickly to meet the lodging needs of the stampeders. With thousands of anxious prospectors wildly making their way through Skagway on their way to the Klondike Gold Fields, some could find rest on the many bunks and cots within, and feast on meals served en masse. \n\nAs the Gold Rush era waned, the hotel was remodeled in 1898 to serve as a hardware store. The new owner transformed the shack-like building into a more permanent, sturdy structure and added the false front facing Broadway. Today the Pantheon Saloon is a kid-friendly Junior Ranger Center, where children complete their own journey of the Klondike Gold Rush.",
       "geofence_buffer_in_meters": 10,
       "id": 6,
       "information": [
@@ -2684,42 +2746,6 @@
       "name_description": "Families! Dress up like a gold miner, pet real animal pelts, earn your Junior Ranger Badge, and much more ",
       "primary_image": 20,
       "type": "Children's Center",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        },
-        {
-          "description": "Staffed by Ranger",
-          "icon": "ranger.png",
-          "icon_@2x": "ranger@2x.png",
-          "type": "Staffed by Ranger"
-        }
-      ]
-    },
-    {
-      "description": "The log-cabin home of Captain William Moore marks the birthplace of Skagway. Constructed in 1887-1888 by Captain Moore, his son, Ben, and Nan-Suk, a Tlingit native, it is the oldest structure in town. Original newspapers from the late nineteenth century, once used as interior decoration, still adhere to the walls and ceiling of the cabin. Captain Moore was a veteran of gold rushes. He predicted that there would one day be a great gold rush in the Yukon and Alaska and that stampeders would make their way up the Skagway River Valley to get there. He and his son claimed a homestead, built a cabin, and constructed a wharf. When the rush finally came, his land was overrun by a flood of stampeders. Nevertheless, Captain William Moore and his family prospered, and he lived to see his homestead turn into a significant port and railroad town. The life of Ben Moore exemplifies the pioneer spirit of Alaska. As a young man he plied the Inside Passage and traveled up and down the Yukon River, looking for gold and working at various jobs in fishing, mining, and packing. Ben Moore married Klinget-Sai-Yet, daughter of a Tlingit leader, and named her Minnie. In 1897 he began constructing a frame house just south of his father's cabin. This small beginning became the nucleus of the present Ben Moore House. Over the years, continued additions and remodeling created a sizeable home. By 1907 Ben Moore and his family moved to Tacoma, Washington. The house was rented by jeweler Herman Kirmse and later purchased by his wife Hazel in 1914. Today the house is open to the public and depicts life in a pioneer home around 1904.",
-      "geofence_buffer_in_meters": 10,
-      "id": 7,
-      "information": [
-        {
-          "description": "Open Seasonally Monday through Thursday, 10am-5:30pm, Friday through Sunday, 10am-5pm",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.454918,
-      "longitude": -135.314194,
-      "map_thumbnail_image": 92,
-      "media": [
-        73,
-        82
-      ],
-      "name": "Moore Homestead",
-      "name_description": "The first to permanently inhabit this valley, the Moores live here 10 years before the gold rush",
-      "primary_image": 21,
-      "type": "Museum",
       "services": [
         {
           "description": "Handicapped Access",
@@ -2820,6 +2846,36 @@
       "type": "Historic Building"
     },
     {
+      "description": "Construction of the McCabe College finished in 1899 using only local granite and timber.   \n\nNamed after a Methodist bishop, the school was Alaska's first institution of high learning. However financial troubles closed the school in less than two years. From 1901 till 1956 the building served as the U.S. Court house, the U.S. Marshals office, and the City Jail. Today, this unique stone-faced building houses the City Museum and City administration offices.",
+      "geofence_buffer_in_meters": 10,
+      "id": 8,
+      "information": [
+        {
+          "description": "Open Seasonally Monday through Friday, 9 – 5, Saturday 10 – 5, Sunday 1 – 4.",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.455766,
+      "longitude": -135.311997,
+      "map_thumbnail_image": 93,
+      "media": [
+        74,
+        83
+      ],
+      "name": "McCabe Building ",
+      "name_description": "Skagway City Museum",
+      "primary_image": 22,
+      "type": "Museum",
+      "services": [
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        }
+      ]
+    },
+    {
       "description": "Managed by the municipality of Skagway, the Dyea Flats offer a natural area for wildlife viewing, photography and exploring a coastal community teeming with life.  In the spring and summer, colorful wildflowers blanket the area. The Long Wharf, originally 7,500 feet in length, was constructed at the height of the Klondike Gold Rush to stretch the distance of the tidal mud flats. Remnants of its piling are still visible on the Dyea Flats.",
       "geofence_buffer_in_meters": 10,
       "id": 53,
@@ -2864,36 +2920,6 @@
       ]
     },
     {
-      "description": "construction of the McCabe College finished in 1899 using only local granite and timber.   Named after a Methodist bishop,  the school was Alaska's first institution of high learning.  However financial troubles closed the school in less than two years.  from 1901 till 1956 the building served as the U.S. Court house, the U.S. Marshals office, and the City Jail.  Today, this unique stone-faced building houses the City Museum and City administration offices.",
-      "geofence_buffer_in_meters": 10,
-      "id": 8,
-      "information": [
-        {
-          "description": "Open Seasonally Monday through Friday, 9 – 5, Saturday 10 – 5, Sunday 1 – 4.",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.455766,
-      "longitude": -135.311997,
-      "map_thumbnail_image": 93,
-      "media": [
-        74,
-        83
-      ],
-      "name": "McCabe Building ",
-      "name_description": "Skagway City Museum",
-      "primary_image": 22,
-      "type": "Museum",
-      "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        }
-      ]
-    },
-    {
       "geofence_buffer_in_meters": 10,
       "id": 44,
       "information": [
@@ -2915,7 +2941,7 @@
       ]
     },
     {
-      "description": "After the Gold Rush the WP&YR rail road installed a retaining wall along the water’s edge to hold back tide waters.  But before that retaining wall was completed the tide washed up passed 4th ave.  The spot you are at now was once part of a pier that jetted out into the water.  \nBack then, Jeff \"Soapy\" Smith controlled the crime in Skagway.  But as more respectable entrepreneurs arrived in town, his control was challenged.  The respectable folks in Skagway formed the \"Committee of 101\".  This group hoped to rid the town of crime in order to promote more business for the entrepreneurs.  For several months both Soapy and the committee of 101 posted propaganda promoting themselves.  On July 8th 1898 the tension between the two groups came to a head.  The committee was holding a meeting on the Warf.  Soapy walked onto the pier to challenge them.  Frank Reed and two other members of the Committee were at the front of the pier standing guard.  No one knows exactly what happened next but the result was Soupy Smith shot dead and Frank Reed mortally wounded, succumbing to those wounds 12 days later.  Today you can visit the resting place of both these men at the Gold Rush Cemetery located just outside of town.\n",
+      "description": "After the Gold Rush the WP&YR rail road installed a retaining wall along the water’s edge to hold back tide waters.  But before that retaining wall was completed the tide washed up passed 4th ave.  The spot you are at now was once part of a pier that jetted out into the water.  \n\nBack then, Jeff 'Soapy' Smith controlled the crime in Skagway. But as more respectable entrepreneurs arrived in town, his control was challenged. The respectable folks in Skagway formed the 'Committee of 101'. This group hoped to rid the town of crime in order to promote more business for the entrepreneurs. \n\nFor several months both Soapy and the committee of 101 posted propaganda promoting themselves. On July 8th 1898 the tension between the two groups came to a head. The committee was holding a meeting on the Warf. Soapy walked onto the pier to challenge them.  Frank Reed and two other members of the Committee were at the front of the pier standing guard.  No one knows exactly what happened next but the result was Soapy Smith shot dead and Frank Reed mortally wounded, succumbing to those wounds 12 days later.  \n\nToday you can visit the resting place of both these men at the Gold Rush Cemetery located just outside of town.\n",
       "geofence_buffer_in_meters": 10,
       "id": 13,
       "information": [
@@ -2996,6 +3022,24 @@
       "type": "Ruins"
     },
     {
+      "description": "Hotels like this one were common in gold rush towns. Simple construction and a false front do not make this building unique; however it was in this hotel that Thomas Tancred and Mike Heney formed the idea of a train over the White Pass in 1897.  \n\nThe tracks would be completed in just two years two months and two days after construction began.",
+      "geofence_buffer_in_meters": 10,
+      "id": 15,
+      "information": [
+        {
+          "description": "PRIVATE",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.454692,
+      "longitude": -135.315835,
+      "map_thumbnail_image": 100,
+      "name": "St. James Hotel",
+      "name_description": "Private Business",
+      "primary_image": 34,
+      "type": "Historic Building"
+    },
+    {
       "description": "This 33 mile trail maintained by the National Park Service and Parks Canada passes through a coastal temperate rainforest, over the \"Golden Stairs\" mountain pass,  across sub-alpine forest, and ends at Lake Bennett the headwaters of the Yukon River in British Columbia, Canada.\nBackpacking permits required.",
       "geofence_buffer_in_meters": 10,
       "id": 47,
@@ -3023,24 +3067,6 @@
           "type": "Restroom"
         }
       ]
-    },
-    {
-      "description": "Hotels like this one were common in gold rush towns.  Simple construction and a false front do not make this building unique; however it was in this hotel that Thomas Tancred and Mike Heney formed the idea of a train over the White Pass in 1897.  The tracks would be completed in just two years two months and two days after construction began.",
-      "geofence_buffer_in_meters": 10,
-      "id": 15,
-      "information": [
-        {
-          "description": "PRIVATE",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.454692,
-      "longitude": -135.315835,
-      "map_thumbnail_image": 100,
-      "name": "St. James Hotel",
-      "name_description": "Private Business",
-      "primary_image": 34,
-      "type": "Historic Building"
     },
     {
       "geofence_buffer_in_meters": 10,
@@ -3202,7 +3228,7 @@
       "type": "Historic Building (NPS)"
     },
     {
-      "description": "This little structure typifies early gold rush era businesses. There was nothing pretentious about Goldberg’s Cigar Store—just four walls, a shop and a residence in the back. Stores like this one were quickly assembled of wood and lined the streets at the start of the gold rush. Goldberg sold his cigars, candy and tobacco from this shop and like many other merchants, followed the stampeders elsewhere after making his money in Skagway.",
+      "description": "This little structure typifies early gold rush era businesses. There was nothing pretentious about Goldberg’s Cigar Store—just four walls, a shop and a residence in the back. Stores like this one were quickly assembled of wood and lined the streets at the start of the gold rush. \n\nGoldberg sold his cigars, candy and tobacco from this shop and like many other merchants, followed the stampeders elsewhere after making his money in Skagway.",
       "geofence_buffer_in_meters": 10,
       "id": 24,
       "information": [
@@ -3220,7 +3246,7 @@
       "type": "Historic Building"
     },
     {
-      "description": "Listen for the clinking of bottles, laughter, and chatter from the interior of the Mascot, a Gold Rush-era saloon that supplied alcohol to thirsty stampeders and served as a gathering place where men could play pool, gamble, and listen to music. \n\nOriginally constructed in 1898, a corner entry led to the “Mascotte” saloon, owned by Charles Rohbak, who sold liquor, cigars, and fresh beer on draft for ten cents. In early 1899, however, a new law came into force as Skagway transitioned from frontier town to family town, requiring Skagway’s saloons to pay a $1,500 license fee in order to remain open. Of the 80 saloons reported open in January 1899, all but a dozen had closed by April, including Rohbak’s “Mascotte.” After its closure, entrepreneur Albert Reinert and a partner purchased the building, paid the license fee, and began remodeling the interior. As a former restaurant owner, Reinert knew how to keep customers with offers of free lunches including clam chowder, spareribs, enchiladas, and more, along with locally brewed pilsner beer for a nickel a schooner. But moral reforms were sweeping Skagway at the start of the 20th century, and by 1916 Skagway had voted itself a “dry” town. Impressively, the renamed “Mascot” was one of only three Gold Rush-era saloons that survived until local prohibition. \n\nEventually Reinert sold the Mascot to Perry Hern, who converted the interior to a pharmacy, and owned the complex for the next thirty years. In 1974 the National Park Foundation acquired the structure from George Rapuzzi and Charles Hermans, and in 1976, building ownership transferred to the National Park Service. The Mascot Saloon was restored to its 1905-1916 appearance and today exhibits within depict town life, and replica beer bottles of the brand distributed by the Mascot during its heyday line the shelves.",
+      "description": "Listen for the clinking of bottles, laughter, and chatter from the interior of the Mascot, a Gold Rush-era saloon that supplied alcohol to thirsty stampeders and served as a gathering place where men could play pool, gamble, and listen to music. \n\nOriginally constructed in 1898, a corner entry led to the 'Mascotte' saloon, owned by Charles Rohbak, who sold liquor, cigars, and fresh beer on draft for ten cents. In early 1899, however, a new law came into force as Skagway transitioned from frontier town to family town, requiring Skagway’s saloons to pay a $1,500 license fee in order to remain open. Of the 80 saloons reported open in January 1899, all but a dozen had closed by April, including Rohbak’s 'Mascotte.' After its closure, entrepreneur Albert Reinert and a partner purchased the building, paid the license fee, and began remodeling the interior. As a former restaurant owner, Reinert knew how to keep customers with offers of free lunches including clam chowder, spareribs, enchiladas, and more, along with locally brewed pilsner beer for a nickel a schooner. But moral reforms were sweeping Skagway at the start of the 20th century, and by 1916 Skagway had voted itself a 'dry' town. Impressively, the renamed 'Mascot' was one of only three Gold Rush-era saloons that survived until local prohibition. \n\nEventually Reinert sold the Mascot to Perry Hern, who converted the interior to a pharmacy, and owned the complex for the next thirty years. In 1974 the National Park Foundation acquired the structure from George Rapuzzi and Charles Hermans, and in 1976, building ownership transferred to the National Park Service. The Mascot Saloon was restored to its 1905-1916 appearance and today exhibits within depict town life, and replica beer bottles of the brand distributed by the Mascot during its heyday line the shelves.",
       "geofence_buffer_in_meters": 10,
       "id": 5,
       "latitude": 59.454133,
@@ -3254,7 +3280,7 @@
       ]
     },
     {
-      "description": "Skagway's booming tourism industry began just as the Gold Rush was ending in the summer of 1898 with the first boatload of sightseers to the city. Martin Itjen, a Gold rush stampeder and Skagway’s premier tour operator bought this house in 1922 and originally stood on piers near Moore’s Wharf. From that location, Martin and his wife Lucy greeted passing tourists, sold fruit and candies, and booked rides on Itjen’s innovative Skagway Streetcars. During his tours, Itjen recited poetry and told humorous anecdotes about the town, keeping the gold rush tales alive. The Itjen House was later moved several times to other locations before finding its present home in 1978. ",
+      "description": "Skagway's booming tourism industry began just as the Gold Rush was ending in the summer of 1898 with the first boatload of sightseers to the city. \n\nMartin Itjen, a Gold rush stampeder and Skagway’s premier tour operator bought this house in 1922 and originally stood on piers near Moore’s Wharf. From that location, Martin and his wife Lucy greeted passing tourists, sold fruit and candies, and booked rides on Itjen’s innovative Skagway Streetcars. During his tours, Itjen recited poetry and told humorous anecdotes about the town, keeping the gold rush tales alive. The Itjen House was later moved several times to other locations before finding its present home in 1978. ",
       "geofence_buffer_in_meters": 10,
       "id": 12,
       "information": [
@@ -3374,6 +3400,64 @@
       ]
     },
     {
+      "description": "Purchase ticket to ride the train, learn the WP&YR history, buy souvenirs, or enjoy specialty coffees at the Depot.  \n\nPLEASE NOTE: if you purchased train tickets from a cruise ship your train likely does not depart from here. Check with your shore excursion officer to determine departure locations.",
+      "geofence_buffer_in_meters": 10,
+      "id": 11,
+      "information": [
+        {
+          "description": "Open daily in the summer from 7:15am to 5:00pm.",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.453359,
+      "longitude": -135.318105,
+      "map_thumbnail_image": 96,
+      "name": "White Pass & Yukon Route Depot",
+      "name_description": "This modern depot belongs to the White Pass and Yukon Route Railroad.",
+      "primary_image": 30,
+      "type": "Business",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        },
+        {
+          "description": "Restroom",
+          "icon": "restroom.png",
+          "icon_@2x": "restroom@2x.png",
+          "type": "Restroom"
+        }
+      ]
+    },
+    {
+      "description": "Part of the boom-town atmosphere in Skagway during the Klondike Gold Rush was prostitution. Prostitutes often worked out of one-story shacks, known as 'cribs.' \n\nIn the alley next door to Verbauwhede’s Cigar Store and Confectionery are two small one-story buildings purchase by Verbauwhede in 1902 from the former red-light district known as 'French Alley.' These former 'cribs' were relocated after moral reforms swept Skagway at the turn of the century as it transitioned into a more permanent, working-class community, putting an end to the Red Light District. They were used as living space by the Verbauwhede family behind their shop and a second one was rented to lodgers. Today these are offices for the Park's Protection Officers",
+      "geofence_buffer_in_meters": 10,
+      "id": 18,
+      "information": [
+        {
+          "description": "Seasonal",
+          "name": "Hours"
+        }
+      ],
+      "latitude": 59.453852,
+      "longitude": -135.317619,
+      "map_thumbnail_image": 103,
+      "name": "Cribs",
+      "name_description": "Park Protection Ranger offices",
+      "primary_image": 37,
+      "type": "Historic Building (NPS)",
+      "services": [
+        {
+          "description": "Handicapped Access",
+          "icon": "wheelchair.png",
+          "icon_@2x": "wheelchair@2x.png",
+          "type": "Handicapped Access"
+        }
+      ]
+    },
+    {
       "description": "This building was constructed in 1897 by James Brackett. He operated a small trading post here until his expanding business forced a move to a larger structure. In 1898 baker Stephen Baur bought Brackett’s store. Baur, the “Boss Baker,” opened a restaurant specializing in fresh pastries and breads. He made minor repairs to the building and extended the false front. The building also served as a grocery store, a restaurant, and a military mess hall during WW II. Today is looks much like it did in the gold rush and is operated as a store under the Lease Back Program.",
       "geofence_buffer_in_meters": 10,
       "id": 23,
@@ -3390,32 +3474,6 @@
       "name_description": "Maps, Permits, and visitor information Open Daily 8-5 May - Sept.",
       "primary_image": 40,
       "type": "Visitor Center",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "description": "Part of the boom-town atmosphere in Skagway during the Klondike Gold Rush was prostitution. Prostitutes often worked out of one-story shacks, known as “cribs.” In the alley next door to Verbauwhede’s Cigar Store and Confectionery are two small one-story buildings purchase by Verbauwhede in 1902 from the former red-light district known as “French Alley.” These former “cribs” were relocated after moral reforms swept Skagway at the turn of the century as it transitioned into a more permanent, working-class community, putting an end to the Red Light District. They were used as living space by the Verbauwhede family behind their shop and a second one was rented to lodgers. Today these are offices for the Park's Protection Officers",
-      "geofence_buffer_in_meters": 10,
-      "id": 18,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.453852,
-      "longitude": -135.317619,
-      "map_thumbnail_image": 103,
-      "name": "Cribs",
-      "name_description": "Park Protection Ranger offices",
-      "primary_image": 37,
-      "type": "Historic Building (NPS)",
       "services": [
         {
           "description": "Handicapped Access",
@@ -3443,64 +3501,6 @@
       "primary_image": 63,
       "type": "Cemetery",
       "services": [
-        {
-          "description": "Restroom",
-          "icon": "restroom.png",
-          "icon_@2x": "restroom@2x.png",
-          "type": "Restroom"
-        }
-      ]
-    },
-    {
-      "description": "Built in 1899 by Frederick and Nathalie Verbauwhede, this store took full advantage of its corner location near the newly constructed train depot to attract business. Here travelers could easily purchase the candies, nuts, fruits, cigars, and pastries they desired before boarding their train north. This structure is indicative of a story common in Skagway’s history, of abundant opportunities for entrepreneurship, as it has housed more than seven different businesses in the last hundred years. After a series of uses as a barber, gun, and curio shop, the building became the Alaska Transfer Company express office. Today the building is part of Klondike Gold Rush National Historical Park’s Lease Back Program and houses a private business.",
-      "geofence_buffer_in_meters": 10,
-      "id": 17,
-      "information": [
-        {
-          "description": "Seasonal",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.453953,
-      "longitude": -135.317799,
-      "map_thumbnail_image": 102,
-      "name": "Verbauwhede Cigar Store & Confectionery",
-      "name_description": "Private Business",
-      "primary_image": 36,
-      "type": "Business (NPS)",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        }
-      ]
-    },
-    {
-      "description": "Purchase ticket to ride the train, learn the WP&YR history, buy souvenirs, or enjoy specialty coffees at the Depot.  PLEASE NOTE: if you purchased train tickets from a cruise ship your train likely does not depart from here.  check with your shore excursion officer to determine departure locations.",
-      "geofence_buffer_in_meters": 10,
-      "id": 11,
-      "information": [
-        {
-          "description": "Open daily in the summer from 7:15am to 5:00pm.",
-          "name": "Hours"
-        }
-      ],
-      "latitude": 59.453359,
-      "longitude": -135.318105,
-      "map_thumbnail_image": 96,
-      "name": "White Pass & Yukon Route Depot",
-      "name_description": "This modern depot belongs to the White Pass and Yukon Route Railroad.",
-      "primary_image": 30,
-      "type": "Business",
-      "services": [
-        {
-          "description": "Handicapped Access",
-          "icon": "wheelchair.png",
-          "icon_@2x": "wheelchair@2x.png",
-          "type": "Handicapped Access"
-        },
         {
           "description": "Restroom",
           "icon": "restroom.png",
