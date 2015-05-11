@@ -8,7 +8,7 @@
         "marker-size": "medium",
         "marker-symbol": "building",
         "name": "Officers' Row",
-        "notes": "Just as the barracks were designed with four companies in mind, the company officers' quarters were also designed to house four companies' worth of officers. A typical company's officers included two lieutenants and one captain. As such, the officer's quarters were divided into two halls, each with four rooms; a lieutenant was housed in one room while captains could claim two. In the rear of each half of the building was a kitchen and servant's quarters. Officers got several perks that came with their rank. In addition to higher pay and access to some better food, officers could live with their families on post, afford to hire servants, and had the means and education to pursue more sophisticated activities in their leisure time. Books, taxidermy, and music are among the leisure activities in which you might notice the officers take interest based on the furnishings. Officers' wives could look forward to a life of leisure at the post, but often found themselves bored by the monotony of the frontier post and its limited opportunities for socializing and entertainment.",
+        "notes": "A typical company's officers included two lieutenants, who could each select one room in the officers' quarters, and one captain, who could claim two rooms. At the rear, a kitchen and servant's quarters provided for additional comfort and style for officers who could afford the privilege their rank afforded.",
         "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/P6220099.JPG",
         "url": "http://www.nps.gov/fols/learn/photosmultimedia/officers-row.htm"
       },
@@ -29,7 +29,7 @@
         "name": "Barracks",
         "url": "http://www.nps.gov/fols/learn/photosmultimedia/barracks.htm",
         "image": "http://www.nps.gov/common/uploads/photogallery/mwr/park/fols/60F8039F-155D-4519-3EFC5C46D71E7C51/60F8039F-155D-4519-3EFC5C46D71E7C51-large.JPG",
-        "notes": "The barracks were designed to house up to four companies of infantry and cavalry, though on average, just 100 or 150 troops were stationed here at a time. The numbers swelled up to 500 in 1868. Living quarters were cramped for enlisted men, who slept four to a bunk, head to foot, on bed sacks filled with grass ticking. The enlisted men occupied their leisure time with simple activities including playing cards and table games, swimming in the Pawnee Fork on warm days, and sports such as foot races and \"base-ball.\""
+        "notes": "The barracks were designed to house up to four companies of infantry and cavalry, though on average, just 100 or 150 troops were stationed here at a time."
       },
       "geometry": {
         "type": "Point",
@@ -48,7 +48,7 @@
         "name": "Hospital",
         "url": "http://www.nps.gov/fols/learn/photosmultimedia/barracks.htm",
         "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/P6220066.JPG",
-        "notes": "With the departure of the 10th Cavalry in 1869, the barracks were no longer home to any cavalry units. In 1872, the post hospital was moved into the barracks, an improvement over the former adobe hospital building that leaked mud from the ceiling when it rained. Even with a solid roof overhead, medical care was crude by today's standards, to say the least."
+        "notes": "The 10th Cavalry's departure in 1869 left these barracks vacant. In 1872, the post hospital moved here."
       },
       "geometry": {
         "type": "Point",
@@ -119,7 +119,7 @@
         "name": "Shops",
         "url": "http://www.nps.gov/fols/learn/photosmultimedia/shops.htm",
         "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/20100623161013_1.jpg",
-        "notes": "On the frontier, when the Army needed repairs done or something built, it often fell upon skilled, civilian tradesmen to do the work. Blacksmiths and carpenters were paid a handsome wage for their skilled labor. In 1867, blacksmiths made $85 a month, saddlers and wheelwrights $90. Many soldiers took on extra duty working in the shops building as laborers, blacksmiths, and mechanics."
+        "notes": "On the frontier, civilian tradesmen who could fabricate and repair equipment were in demand. In 1867, a blacksmith was paid a handsome $85 a month, saddlers and wheelwrights $90."
       },
       "geometry": {
         "type": "Point",
@@ -138,7 +138,7 @@
         "name": "Bakery",
         "url": "http://www.nps.gov/fols/learn/photosmultimedia/shops.htm",
         "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/P6220072.JPG",
-        "notes": "The bakery on the north end of the shops building was used to bake fresh bread for the men stationed at Fort Larned. The large, brick oven heated by a wood fire had a huge capacity for bread baked by one of the enlisted men assigned to the job. Interestingly, the army did not provide the fresh bread to the troops over concerns that it was causing stomach ailments. Instead, the bread was allowed to \"dry\" on racks for at least two days before being served."
+        "notes": "A baker made fresh bread for the troops in the brick oven The bread was allowed to \"dry\" for a at least two days before being served to the troops."
       },
       "geometry": {
         "type": "Point",
@@ -188,7 +188,7 @@
         "marker-symbol": "building",
         "name": "New Commissary",
         "url": "http://www.nps.gov/fols/learn/photosmultimedia/warehouses.htm",
-        "notes": "The New Commissary was added in 1868 to accommodate the additional supplies needed when the fort's troop levels surged to their highest; it turned out to be the last sandstone building completed at the fort as troop levels only declined over the next decade. The New Commissary then became a multipurpose building including the library and schoolroom."
+        "notes": "This final building, added in 1868 to accommodate the supply needs when the fort was at its peak troop levels, the New Commissary was converted into a schoolroom and library as troop levels decreased over the following years."
       },
       "geometry": {
         "type": "Point",
@@ -207,7 +207,7 @@
         "name": "Blockhouse",
         "url": "www.nps.gov/fols/learn/photosmultimedia/blockhouse.htm",
         "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/P6230173.JPG",
-        "notes": "The first sandstone structure to be completed at Fort Larned, the blockhouse was built for defense. Bristling with two decks of loopholes from which to fire on any would-be attackers, the blockhouse provided a formidable deterrent to attack. Built with a long-term siege in mind, the blockhouse included an underground well from which soldiers could obtain water without exposing themselves to fire. As the threat of attack diminished over time, the blockhouse was converted from its defensive purpose into the post's prison. Instead of being used to keep people out of the fort, the blockhouse was instead used to keep people in. For that purpose, the tunnel was partially filled in and converted into solitary confinement. Moreover, rifle loopholes were filled in to prevent soldiers from passing libations to the prisoners passing the time."
+        "notes": "Bristling with loopholes from which to fire on any attackers, the blockhouse was meant to deter attack. In practice, its use was as a prison for keeping trouble-making troops in, rather than enemies out."
       },
       "geometry": {
         "type": "Point",
@@ -226,7 +226,7 @@
         "name": "Commissary",
         "url": "http://www.nps.gov/fols/learn/photosmultimedia/warehouses.htm",
         "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/P6220121.JPG",
-        "notes": "Perhaps the most important role for any frontier fort was its use for amassing and securing the supplies that kept the Army functioning, including food, ammunition, and clothing. The army's ability to supply itself made possible its permanent presence on the plains. To that end, the first sandstone buildings completed at Fort Larned after the blockhouse was finished were made to warehouse food, ammunition, and supplies. The first two of these buildings, the Old Commissary and the Quartermaster Storehouse, brandish loopholes from which the fort could be defended with rifle fire in the event of an attack. Buildings added to the post later did not include these defenses which proved unnecessary."
+        "notes": "The most important role for any frontier fort was to amass and secure supplies including food, ammunition, and clothing."
       },
       "geometry": {
         "type": "Point",
@@ -244,7 +244,7 @@
         "marker-symbol": "building",
         "name": "Arsenal",
         "url": "http://www.nps.gov/fols/learn/photosmultimedia/warehouses.htm",
-        "notes": "The arsenal provided secure storage for weapons and ammunition.",
+        "notes": "The arsenal provided secure storage for weapons and ammunition. While soldiers maintained their weapons, the ammunition was tightly controlled.",
         "image": "http://www.nps.gov/common/uploads/photogallery/mwr/park/fols/610167E6-155D-4519-3EB89377365396D2/610167E6-155D-4519-3EB89377365396D2-large.JPG"
       },
       "geometry": {
@@ -264,7 +264,7 @@
         "name": "Quartermaster's Storehouse",
         "url": "http://www.nps.gov/fols/learn/photosmultimedia/warehouses.htm",
         "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/P6220145.JPG",
-        "notes": "Perhaps the most important role for any frontier fort was its use for amassing and securing the supplies that kept the Army functioning, including food, ammunition, and clothing. The army's ability to supply itself made possible its permanent presence on the plains. To that end, the first sandstone buildings completed at Fort Larned after the blockhouse was finished were made to warehouse food, ammunition, and supplies. The first two of these buildings, the Old Commissary and the Quartermaster Storehouse, brandish loopholes from which the fort could be defended with rifle fire in the event of an attack. Buildings added to the post later did not include these defenses which proved unnecessary."
+        "notes": "The army's ability to supply itself made possible its permanent presence on the plains. The quatermaster, whose office is at the west end of the building, was essential to the operation of the fort."
       },
       "geometry": {
         "type": "Point",
