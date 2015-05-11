@@ -1,0 +1,41 @@
+{
+  "alerts": [],
+  "categories": [],
+  "description": "Grand Teton National Park",
+  "designation": "National Park",
+  "events": [],
+  "map_thumbnail_zoom": 16,
+  "max_distance_in_meters": 1609.3,
+  "media": [
+    {
+      "id": 485,
+      "image_thumbnail_1x": "496_thumbnail.png",
+      "image_thumbnail_2x": "496_thumbnail@2x.png",
+      "image_thumbnail_3x": "496_thumbnail@3x.png",
+      "relative_url": "496.png",
+      "relative_url_@2x": "496@2x.png",
+      "relative_url_tablet": "496_tablet.png",
+      "relative_url_tablet_@2x": "496_tablet@2x.png",
+      "type": "map_thumbnail"
+    }
+  ],
+  "more": [],
+  "name": "Grand Teton",
+  "searches": [],
+  "sites": [
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 496,
+      "latitude": 43.653175,
+      "longitude": -110.718246,
+      "map_thumbnail_image": 485,
+      "name": "Craig Thomas Discovery & Visitor Center",
+      "type": "Visitor centers"
+    }
+  ],
+  "tours": [],
+  "urls": {
+    "base_url_icon": "http://nationalparkservice.github.io/data/places_mobile/icons/",
+    "base_url_media": "http://nationalparkservice.github.io/data/places_mobile/grte/media/"
+  }
+}
