@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Franklin Delano Roosevelt Memorial",
+        "url": "http://www.nps.gov/frde/",
+        "habitat": "Woodlands, Aquatic",
+        "notes": "Fruit-bearing trees attract robins, cardinals, and waxwings throughout the year while the small patches of woods are favorable for thrushes and warblers. The adjacent Tidal Basin is home to ducks, geese, osprey, gulls, grebes, and terns."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04292416572571,
+          38.883424933696276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Constitution Gardens",
+        "habitat": "Parkland",
+        "url": "http://www.nps.gov/coga/",
+        "notes": "Large and diverse types of trees in the area of Constitution Gardens, the Vietnam Veterans Memorial, and the Reflecting pool host a variety of birds such as goldfinches, robins, tanagers, creepers, woodpeckers, and chickadees."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04634666442871,
+          38.890281259738515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Anacostia Park",
+        "url": "http://www.nps.gov/anac/",
+        "habitat": "Parkland, Marsh, Aquatic",
+        "notes": "An abundance of edge habitat between the parkland's playing fields, the Anacostia River, and the marshy thickets along the edge of the river create an opportunity to find birds that prefer each habitat type."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9942045211792,
+          38.8679477487016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Rock Creek Park",
+        "habitat": "Woodland",
+        "url": "http://www.nps.gov/rocr/",
+        "notes": "32 miles of trails make for D.C.'s best opportunity to find a quiet place to look and listen for woodland birds, from year-round residents like cardinals, Carolina wrens, and tufted titmouse, as well as predators like red-shouldered hawks and barred owls."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0460033416748,
+          38.96534851233293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kenilworth Aquatic Gardens",
+        "url": "http://www.nps.gov/keaq/",
+        "habitat": "Marsh, Woodland",
+        "notes": "The shallow waters and tidal areas of this backwater of the Anacostia River provide a reliable place to find herons, egrets, and other aquatic birds."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94200873374939,
+          38.91268288440943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Inlet Bridge",
+        "url": "http://www.nps.gov/nama/",
+        "habitat": "Aquatic",
+        "notes": "The bridge provides a good look at both the Tidal Basin and the Potomac River. Fish tend to collect here due to the flow of the tide into the Tidal Basin, and fishing birds including herons, mergansers, and grebes often hunt in this area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04024732112885,
+          38.88016773822147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Theodore Roosevelt Island",
+        "url": "http://www.nps.gov/this/",
+        "habitat": "Woodland, Marsh, Aquatic",
+        "notes": "Loop trails at different elevations provide access to woodland, marsh, and aquatic habitats."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06241846084595,
+          38.896093168895845
+        ]
+      }
+    }
+  ]
+}
