@@ -1590,6 +1590,21 @@
       "services": []
     },
     {
+      "audio_description": "Fort Smith Trolley Museum.  One minute.  The Fort Smith Trolley Museum is located at 100 South 4th Street, just south of the National Historic Site.  The museum is on 4th street and Garland Ave, and can be approached from South 4th Street via a broad, flat gravel path.  A black steam engine is parked to the left of the path, with a black tender car behind it, emblazoned with the numbers 4003.\n\nThe museum itself is housed in a beige single-story car barn with three sets of towering front doors that open accordion-style.  A set of train tracks leads directly into the museum.  An orange trolley runs along the tracks between the museum and downtown Fort Smith and is parked inside the museum when not in use.\n\nInside the museum is a mechanic’s pit equipped with tools for restoration work.  It’s a working museum, so visitors have the opportunity to see restoration in progress.  Display cases also hold railroad and streetcar memorabilia.\n\nEnd of Description.",
+      "description": "Museum dedicated to Fort Smith's early street cars and railroad history. \nSeasonal hours\n(479) 783-0205\nwww.fstm.org\n",
+      "geofence_buffer_in_meters": 10,
+      "id": 136,
+      "latitude": 35.385923,
+      "longitude": -94.430081,
+      "map_thumbnail_image": 271,
+      "media": [
+        214
+      ],
+      "name": "Fort Smith Trolley Museum ",
+      "name_description": "Museum dedicated to Fort Smith's early street cars and railroad history. ",
+      "type": "Public Museum"
+    },
+    {
       "description": "Jail versus prison – A jail is for people who are charged with a crime and need to be held until a trial. People who are convicted, found guilty, and have a sentence of less than one year also go to jail. If a sentence is more than one year, the convict is sent to a prison. Fort Smith was home to two different jails. ",
       "geofence_buffer_in_meters": 10,
       "id": 482,
@@ -1657,6 +1672,22 @@
       "type": "Historic Building"
     },
     {
+      "audio_description": "Fort Smith Museum of History.  1 ½ minutes.  The Fort Smith History Museum is located at the western corner of Rogers Avenue and 4th Street, just a few hundred feet south of Fort Smith National Historic Site.  The museum is housed in a four-story red-brick building with limestone trim.  The block-like historic structure was built in 1907 as a warehouse for the Atkinson Williams Hardware Company.  \n\nThe main entrance faces Rogers Avenue.  Two steps lead up to the windowed double doors.  The words “Atkinson-Williams” are inscribed in capital letters into the limestone lintel above the doors; a black plaque with bonze-colored letters to the right of the doors reads:  “Fort Smith Museum of History.”  A second entrance on 4th Street is accessible via a ramp that runs along the 4th Street façade from Rogers Avenue.  Inside, the museum has an elevator and ramps for easy access to all exhibits.\n\nLarge storefront-type windows line the first floor of the building above a three-foot limestone base.  There are six such windows on the Rogers Avenue side and four facing 4th Street.  Three rows of smaller windows line the upper floors of the building.  A small parking area is located on the northwest side of the building, accessed from Rogers Avenue.\n\nEnd of description.",
+      "description": "The museum focuses on the Fort Smith community, includes an operating soda fountain.  \n(479) 783-7841\nwww.fortsmithmuseum.org\n",
+      "geofence_buffer_in_meters": 10,
+      "id": 134,
+      "latitude": 35.387613,
+      "longitude": -94.42822,
+      "map_thumbnail_image": 269,
+      "media": [
+        212
+      ],
+      "name": "Fort Smith Museum of History ",
+      "name_description": "The museum focuses on the Fort Smith community, includes an operating soda fountain.",
+      "type": "Public Museum",
+      "services": []
+    },
+    {
       "description": "This building has evolved over time. Beginning in 1846 it was barracks and dining hall for the enlisted men. In 1872, it was converted to a courthouse and jail. In 1888 a second more modern jail was built. The last major change occurred between 1996-2000 when the National Park Service renovated the exhibits and it now serves as the park Visitor Center.",
       "geofence_buffer_in_meters": 13.352799892710403,
       "id": 94,
@@ -1691,6 +1722,38 @@
       "services": []
     },
     {
+      "audio_description": "Riverfront Park.  1 ½ minutes.  Riverfront Park sits just north of Fort Smith National Historic Site on the banks of the Arkansas River.  At the southern end of the park, under the Garrison Avenue Bridge, is a concrete performance stage.  A green metal shelter with open latticework frame and brown metal roof covers the stage.\n\nNorth of the stage is an open, grassy space about the size and shape of a football field.  A shallow stone amphitheater with terraced walkways rises just north of that, facing the stage.  The amphitheater seats over 1,100 people and the open area in front of it can accommodate another 10,000 for performances and musical acts.  Ramps on either side of the amphitheater provide access to all levels of the theater and to the gathering area below.  Flowering bushes line the ramps, framing the amphitheater in red and pink during the spring and summer.\n\nNorth of the amphitheater, a red-brick, green-roofed events building runs the width of the park from east to west.  The narrow one-story structure is topped with two two-story towers.  The towers rise on either side of a triple-arched pass-through that provides access to the amphitheater from a parking area at the north end of the park.\n\nEnd of description.",
+      "description": "Operated by the City of Fort Smith, on the bank of the Arkansas River, the amphitheater hosts concerts and other events.\n479.784.2368\n",
+      "geofence_buffer_in_meters": 10,
+      "id": 129,
+      "latitude": 35.392024,
+      "longitude": -94.430312,
+      "map_thumbnail_image": 264,
+      "media": [
+        207
+      ],
+      "name": "River Front Park",
+      "name_description": "Operated by the City of Fort Smith, on the bank of the Arkansas River, the amphitheater hosts concerts and other events.",
+      "type": "City Park",
+      "services": []
+    },
+    {
+      "audio_description": "Miss Laura’s Visitor Center.  1 ¼ minutes.  Miss Laura’s is a 2 ½-story Victorian-style house, painted cucumber-green with white and mustard-yellow trim.  It is Fort Smith’s official welcome and information center.  The structure measures approximately 60 feet by 40 feet, oriented southeast to northwest.  The building has a number of decorative flourishes, include stained-glass in several of the lower windows and elaborate dormers surrounding some of the top-floor windows.  A black wrought-iron fence runs along the edge of the mansard roof.\n\nMiss Laura’s is located at the south corner of B Street and Riverfront Drive, about two tenths of a mile north of Fort Smith National Historic Site.  The building’s main entrance is on the short southeast side, facing the railroad tracks, which run past at a distance of about 25 feet.  There are two steps up to the double-doors.  Another entrance is located on the long, northeastern side that fronts B Street, and a ramp leads up along the exterior wall to that door.  To the southwest of the building is a large parking area that can be accessed from A Street.\n\nEnd of description.",
+      "description": "A former bordello, Fort Smith's official welcome center.\n1-800-637-1477\nwww.fortsmith.org/visitors/welcome-center\n",
+      "geofence_buffer_in_meters": 10,
+      "id": 128,
+      "latitude": 35.39207,
+      "longitude": -94.429183,
+      "map_thumbnail_image": 263,
+      "media": [
+        206
+      ],
+      "name": "Miss Laura's Visitor Center",
+      "name_description": "A former bordello, Fort Smith's official welcome center open Mon.-Sat. from 9 a.m. – 4 p.m. and Sun. 1 p.m. - 4:30 p.m.",
+      "type": "City Welcome Center",
+      "services": []
+    },
+    {
       "description": "The U.S. Government used the Indian Removal Act of 1830 to exchange tribal lands in the east for land west of the Mississippi River. For the Choctaw, Cherokee, Chickasaw, Muscogee (Creek), and Seminole tribes, Indian Removal left a bitter legacy remembered today by some as the Trail of Tears. Each of the five tribes traveled various land and water routes to Indian Territory (today Oklahoma). Some of them stopped at Fort Smith for supplies before continuing to their final destination. ",
       "geofence_buffer_in_meters": 10,
       "id": 99,
@@ -1707,36 +1770,7 @@
       "services": []
     },
     {
-      "description": "Operated by the City of Fort Smith, on the bank of the Arkansas River, the amphitheater hosts concerts and other events.\n479.784.2368\n",
-      "geofence_buffer_in_meters": 10,
-      "id": 129,
-      "latitude": 35.392024,
-      "longitude": -94.430312,
-      "map_thumbnail_image": 264,
-      "media": [
-        207
-      ],
-      "name": "River Front Park",
-      "name_description": "Operated by the City of Fort Smith, on the bank of the Arkansas River, the amphitheater hosts concerts and other events.",
-      "type": "City Park",
-      "services": []
-    },
-    {
-      "description": "A former bordello, Fort Smith's official welcome center.\n1-800-637-1477\nwww.fortsmith.org/visitors/welcome-center\n",
-      "geofence_buffer_in_meters": 10,
-      "id": 128,
-      "latitude": 35.39207,
-      "longitude": -94.429183,
-      "map_thumbnail_image": 263,
-      "media": [
-        206
-      ],
-      "name": "Miss Laura's Visitor Center",
-      "name_description": "A former bordello, Fort Smith's official welcome center open Mon.-Sat. from 9 a.m. – 4 p.m. and Sun. 1 p.m. - 4:30 p.m.",
-      "type": "City Welcome Center",
-      "services": []
-    },
-    {
+      "audio_description": "Bass Reeves Statue.  1 ¾ minutes.  First of two messages at this location.  You’re at the north edge of Ross Pendergraft Park—a small urban park featuring grassy patches, crisscrossing paths, park benches, and a few trees and flowers.  A larger-than-life bronze statue on this spot depicts U.S. Deputy Marshal Bass Reeves.  The sculpture rests on a pedestal about four feet high, made of light-brown, rough-hewn stones and topped with several rows of red brick.  The statue itself rises another ten feet or so above the pedestal.  \n\nThe charcoal-colored sculpture depicts Reeves astride his horse.  He sits up straight in the saddle, holding the reins in his left hand and balancing his rifle in his right.  The butt of the rifle rests on his thigh with the barrel pointing up to the sky.  Reeves wears a wide-brimmed hat with a rounded top and looks right, off into the distance.  A dog scampers along on the horse’s right flank, mouth slightly agape. \n\nThe sculpture faces west, toward the Indian Territory.  In fact, a concrete plaque set at a slight angle into the western face of the pedestal identifies the title of the artwork as “Into the Territories.”  The text goes on:  “Sculptor:  Harold T. Holden, Dedicated May 26th, 2012, Guest Reddick Architects.”\n\nA flower bed surrounds the pedestal, with yellow, pink, and purple flowers that blossom in the spring and summer.  Just to the north, a low stone wall about two feet high and 30 feet long separates the statue from the sidewalk that runs along Garrison Avenue.  \n\nEnd of description.\n",
       "description": "Larger than life bronze statue is dedicated to Deputy US Marshal Bass Reeves and his faithful dog.",
       "geofence_buffer_in_meters": 10,
       "id": 130,
@@ -1795,20 +1829,6 @@
       "services": []
     },
     {
-      "description": "Museum dedicated to Fort Smith's early street cars and railroad history. \nSeasonal hours\n(479) 783-0205\nwww.fstm.org\n",
-      "geofence_buffer_in_meters": 10,
-      "id": 136,
-      "latitude": 35.385923,
-      "longitude": -94.430081,
-      "map_thumbnail_image": 271,
-      "media": [
-        214
-      ],
-      "name": "Fort Smith Trolley Museum ",
-      "name_description": "Museum dedicated to Fort Smith's early street cars and railroad history. ",
-      "type": "Public Museum"
-    },
-    {
       "description": "The quartermaster’s storehouse was built on top of the bastion. Nearby is a survey marker for the Arkansas border.",
       "geofence_buffer_in_meters": 10,
       "id": 118,
@@ -1822,21 +1842,6 @@
       "name": "Initial Point Marker and Quartermaster Storehouse",
       "name_description": "The quartermaster’s storehouse was built on top of the bastion. Nearby is a survey marker for the Arkansas border.",
       "type": "Stone Markers"
-    },
-    {
-      "description": "The museum focuses on the Fort Smith community, includes an operating soda fountain.  \n(479) 783-7841\nwww.fortsmithmuseum.org\n",
-      "geofence_buffer_in_meters": 10,
-      "id": 134,
-      "latitude": 35.387613,
-      "longitude": -94.42822,
-      "map_thumbnail_image": 269,
-      "media": [
-        212
-      ],
-      "name": "Fort Smith Museum of History ",
-      "name_description": "The museum focuses on the Fort Smith community, includes an operating soda fountain.",
-      "type": "Public Museum",
-      "services": []
     },
     {
       "description": "National Cemetery for veterans from the War of 1812 to present. Open daily 7:30 am to sunset.",
@@ -1939,6 +1944,22 @@
       "services": []
     },
     {
+      "audio_description": "Judge Isaac C. Parker Federal Building and U.S. Courthouse.  1 ½ minutes. The Judge Isaac C. Parker Federal Building and U.S. Courthouse is a red brick, Classical Revival style building with limestone trim.  The central section is three stories high and 150 feet across.  Two later additions, each two stories high and 60 feet wide, flank the central structure.  The side wings project forward about 15 feet or so from the main building.\n\nTwo wide walkways lead to three central doors, which are located up five steps.  A series of ramps in front of the middle door also provide wheelchair access.  Two additional walkways curve in toward the entrance from the right and left, inscribing a massive semi-circle on the grassy lawn.  Above the main doors, six limestone pilasters rise two stories to the building’s limestone cornice.  Inscribed on the cornice are the words, “United States Post Office and Court House.”  Vertical and horizontal white lines divide each of the building’s many windows into smaller square panes.  There are between 16 and 32 panes per window, creating a latticework appearance.\n\nAn American flag flies in front of the building on a white flagpole situated between the two central walkways.\n\nEnd of description.",
+      "description": "Named for Judge Isaac C. Parker, this building is the current federal courthouse for the Western District of Arkansas.",
+      "geofence_buffer_in_meters": 10,
+      "id": 131,
+      "latitude": 35.386251,
+      "longitude": -94.42712,
+      "map_thumbnail_image": 266,
+      "media": [
+        209
+      ],
+      "name": "Isaac C. Parker Federal Courthouse",
+      "name_description": "Named for Judge Isaac C. Parker, this building is the current federal courthouse for the Western District of Arkansas.",
+      "type": "Federal Courthouse",
+      "services": []
+    },
+    {
       "description": "In 1845, Quartermaster General Thomas Jessup inspected Fort Smith and ordered the fort to be converted into a supply depot. With its new mission, Fort Smith became one of the largest and busiest supply posts in the southwest. ",
       "geofence_buffer_in_meters": 11.2191999609856,
       "id": 97,
@@ -1967,21 +1988,6 @@
       "name": "Commissary Inside",
       "name_description": "Built in 1846, when the fort’s mission shifted from defensive to a supply depot.",
       "type": "Historic Building",
-      "services": []
-    },
-    {
-      "description": "Named for Judge Isaac C. Parker, this building is the current federal courthouse for the Western District of Arkansas.",
-      "geofence_buffer_in_meters": 10,
-      "id": 131,
-      "latitude": 35.386251,
-      "longitude": -94.42712,
-      "map_thumbnail_image": 266,
-      "media": [
-        209
-      ],
-      "name": "Isaac C. Parker Federal Courthouse",
-      "name_description": "Named for Judge Isaac C. Parker, this building is the current federal courthouse for the Western District of Arkansas.",
-      "type": "Federal Courthouse",
       "services": []
     },
     {
@@ -2118,6 +2124,15 @@
       "services": []
     },
     {
+      "audio_description": "\nWayside Panel:  Desperate for Survival.  2 ¼ minutes.  This panel is located beside the cement walkway that runs along the Arkansas River.  As you face the river, the Trail of Tears Overlook is to your left, or south.  Riverfront Park and the Garrison Avenue Bridge are north, to your right.  You’re about 80 feet from the river bank.  A line of thin trees grows right along the water’s edge.  Across the water, about a quarter mile away, is the state of Oklahoma.  \n\nThe panel is 2 feet deep by 3 ½ feet wide and about 2 ½ feet tall.  A full-color illustration shows a young family of four sitting on a bluff above the river.  The father stands, and holding his daughter’s hand, looks out over the water.  He wears a ragged shirt and hat. The mother kneels in front with a baby in her arms.  Down below, at the river’s edge, a mob waits to board an already crowded steamboat.  Text above the image reads:  \n\n“Standing at this spot during the second half of the Civil War you would have witnessed a very chaotic scene. The riverfront landing at the end of Garrison Avenue would have been filled with hundreds, sometimes thousands, of desperate people anxiously waiting and hoping to find available passage on outgoing steamboats.\n\n“Those waiting were orphans, former slaves, pro-Union sympathizers, and rural families seeking protection at Fort Smith from an indiscriminate war. Rogue soldiers (bushwhackers) scavenged the countryside for vengeance, food, livestock, and valuables. Families, like this one, left everything to save themselves and begin a new life—without war.”  End of text.\n\nA quote on the lower left from the Kansas Newspaper Editor reads:\n\n“The people are becoming desperate, exposed as they are to horse thieves on the one hand, and bushwhackers on the other.” \n\nText on the panel’s lower right asks:  “Do you have ancestors who were displaced or suffered hardship as the result of a civil war?” \n\nEnd of description.\n",
+      "geofence_buffer_in_meters": 10,
+      "id": 127,
+      "name": "Desperate for Survival (WS)",
+      "name_description": "From 1863-1865, the riverfront landing was often filled with refugees  hoping to escape the devastation of Civil War.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
+    },
+    {
       "geofence_buffer_in_meters": 10,
       "id": 107,
       "name": "Confederates Occupy (WS)",
@@ -2130,14 +2145,6 @@
       "id": 108,
       "name": "Meeting of Nations (WS)",
       "name_description": "Treated as the enemy,  12 tribes met with the US Government to agree on post Civil War treaties, which were signed in 1866.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 127,
-      "name": "Desperate for Survival (WS)",
-      "name_description": "From 1863-1865, the riverfront landing was often filled with refugees  hoping to escape the devastation of Civil War.",
       "type": "Wayside Exhibit Panel",
       "services": []
     },
@@ -2178,6 +2185,18 @@
       "services": []
     },
     {
+      "audio_description": "Two grave markers are located in the back of section 5 of the cemetery. The markers are separated by a large tree. Both grave markers are of identical design. Each of the rectangular headstones are made of white stone, 42 inches tall and 13 inches wide, with a slight curve on the top. There is a small cross within a circle engraved near the center of the stone. Below the cross is text which identifies the soldier buried in that location.\n\nGrave marker on the left of the tree text reads:\nWilliam Bradford, Virginia, Major US Army, War of 1812, October 20, 1826\n\nGrave marker on the right of the tree text reads:\nThomas Russell, Massachusetts, Surgeon U.S. Army, War of 1812, August 24, 1819.\n\nEnd of description.",
+      "geofence_buffer_in_meters": 10,
+      "id": 135,
+      "media": [
+        213,
+        225
+      ],
+      "name": "Grave markers of Major William Bradford and surgeon Thomas Russell (Do these need AD?)",
+      "name_description": "Fort Smith's earliest grave markers, Major William Bradford, and surgeon Thomas Russell. Both War of 1812 Veterans.",
+      "type": "Stone Marker"
+    },
+    {
       "description": "From 1846-1871 soldiers trained, drilled, and performed ceremonies on the parade ground making it the center of life at the fort. The flagpole in the center of the parade ground is a reproduction of the original built in 1846. This height allows the flag to be seen for miles. \n\nDuring the year two different size flags fly over the fort. The garrison flag flown in the summer is 20 feet by 30 feet and the storm flag flown in the winter months is 10 feet by 20 feet. Both have 37 stars.\n",
       "geofence_buffer_in_meters": 10,
       "id": 109,
@@ -2215,17 +2234,6 @@
       "name": "Bastion #3",
       "name_description": "One of five bastions or gun emplacements that would have defended the fort if attacked",
       "type": "Fort Wall Foundation"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 135,
-      "media": [
-        213,
-        225
-      ],
-      "name": "Grave markers of Major William Bradford and surgeon Thomas Russell (Do these need AD?)",
-      "name_description": "Fort Smith's earliest grave markers, Major William Bradford, and surgeon Thomas Russell. Both War of 1812 Veterans.",
-      "type": "Stone Marker"
     }
   ],
   "tours": [],
