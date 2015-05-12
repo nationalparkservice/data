@@ -2208,19 +2208,6 @@
     },
     {
       "geofence_buffer_in_meters": 10,
-      "id": 137,
-      "latitude": 35.383781,
-      "longitude": -94.429112,
-      "map_thumbnail_image": 272,
-      "media": [
-        215
-      ],
-      "name": "Grave Marker Issac C. Parker (delete me)",
-      "name_description": "Located in the Fort Smith National Cemetery, the white headstone is inscribed with just his name and grave number.",
-      "type": "Stone Marker"
-    },
-    {
-      "geofence_buffer_in_meters": 10,
       "id": 103,
       "media": [
         193
