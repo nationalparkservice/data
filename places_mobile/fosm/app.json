@@ -1567,29 +1567,6 @@
   ],
   "sites": [
     {
-      "description": "Why execution by hanging? At the time, hanging was considered the most humane method of execution. When done properly, the neck is broken and death comes quickly.\n\nMurder, rape, treason, and obstruction of an execution were the only Federal crimes with an automatic death sentence. In Fort Smith, 81 men were hanged for murder and 5 for rape. Crowds in the thousands came to watch the earlier executions. Two years after Judge Parker arrived, a fence was erected and executions became private. In order to attend an execution, individuals had to get permission from the U.S. Marshal by providing a reason to be there. Those who attended executions included reporters, clergy, medical personnel, and family members of both the victim and the condemned. \n\nThe current gallows are a reproduction based on images and historic records. The original gallows was destroyed by the city of Fort Smith in 1897 because of the negative reputation it gave the city. \n",
-      "geofence_buffer_in_meters": 15.791199814681606,
-      "id": 95,
-      "information": [
-        {
-          "description": "August 15, 1873\nJohn Childers\n\nOctober 10, 1873\nTunagee, alias Tuni\nYoung Wolf\n\nApril 3, 1874\nJohn Billy\nIsaac Filmore\nJohn Pointer\n\nJanuary 15, 1875\nMcClish Impson\n\nSeptember 3, 1875\nFirst execution under the tenure of Judge Isaac Parker\nEdmund Campbell\nDaniel Evans\nSamuel Fooy\nSmoker Mankiller\nJames Moore\nWilliam Whittington\n\nApril 21, 1876\nGibson Ishtanubbee\nWilliam Leach\nOrpheus McGee\nIsham Seeley\nAaron Wilson\n\nSeptember 8, 1876\nSamuel Peters\nOsey Sanders\nJohn Valley\nSinker Wilson\n\nDecember 20, 1878\nJames Diggs\nJohn Postoak\n\nAugust 29, 1879\nWilliam Elliot Wiley, alias Colorado Bill\nDr. Henri Stewart\n\nSeptember 9, 1881 \nWilliam Brown\nAbler Manley\nAmos Manley\nPatrick McGowen\nGeorge W. Padgett\n\nJune 30, 1882\nEdward Fulsom\n\nApril 13, 1883\nRobert Massey\n\nJune 29, 1883\nWilliam Finch\nMartin Joseph\nTe-o-lit-se\n\nJuly 11, 1884\nJohn Davis\nThomas Thompson\nJack Womankiller\n\nApril 17, 1885\nWilliam Phillips\n\nJune 26, 1885\nJames Arcine\nWilliam Parchmeal\n\nApril 23, 1886\nJoseph Jackson\nJames Wasson\n\nJuly 23, 1886\nCalvin James\nLincoln Sprole\n\nAugust 6, 1886\nKitt Ross\n\nJanuary 14, 1887\nJohn T. Echols\nJames Lamb\nAlbert O'Dell\nJohn Stephens\n\nApril 8, 1887\nPatrick McCarty\n\nOctober 7, 1887 \nSeaborn Kalijah, alias Seaborn Green\nSilas Hampton\n\nApril 27, 1888\nJackson Crow\nOwen Hill\nGeorge Moss\n\nJuly 6, 1888\nGus Bogles\n\nJanuary 25, 1889\nRichard Smith\n\nApril 19, 1889\nMalachi Allen\nJames Mills\n\nAugust 30, 1889\nJack Spaniard\nWilliam Walker\n\nJanuary 16, 1890\nHarris Austin\nJohn Billy\nJimmon Burris\nSam Goin\nJefferson Jones\nThomas Willis\n\nJanuary 30, 1890\nGeorge Tobler\n\nJuly 9, 1890\nJohn Stansberry\n\nJune 30, 1891\nBoudinot Crumpton, alias Bood Burris\n\nApril 27, 1892\nSheppard Busby\n\nJune 28, 1892\nJohn Thornton\n\nJuly 25, 1894\nLewis Holder\n\nSeptember 20, 1894\nJohn Pointer\n\nMarch 17, 1896\nCrawford Goldsby, alias Cherokee Bill\n\nApril 30, 1896\nWebber Isaacs\nGeorge Pierce\nJohn Pierce\n\nJuly 1, 1896\nRufus Buck\nLewis Davis\nLucky Davis\nMaoma July\nSam Sampson\n\nJuly 30, 1896\nGeorge Wilson, alias James Casherago",
-          "name": "Men Executed at Fort Smith: 1873 to 1896"
-        }
-      ],
-      "latitude": 35.387618,
-      "longitude": -94.430186,
-      "map_thumbnail_image": 230,
-      "media": [
-        187,
-        217,
-        226
-      ],
-      "name": "Gallows",
-      "name_description": "86 men were executed here.",
-      "type": "Reconstruction",
-      "services": []
-    },
-    {
       "audio_description": "Fort Smith Trolley Museum.  One minute.  The Fort Smith Trolley Museum is located at 100 South 4th Street, just south of the National Historic Site.  The museum is on 4th street and Garland Ave, and can be approached from South 4th Street via a broad, flat gravel path.  A black steam engine is parked to the left of the path, with a black tender car behind it, emblazoned with the numbers 4003.\n\nThe museum itself is housed in a beige single-story car barn with three sets of towering front doors that open accordion-style.  A set of train tracks leads directly into the museum.  An orange trolley runs along the tracks between the museum and downtown Fort Smith and is parked inside the museum when not in use.\n\nInside the museum is a mechanic’s pit equipped with tools for restoration work.  It’s a working museum, so visitors have the opportunity to see restoration in progress.  Display cases also hold railroad and streetcar memorabilia.\n\nEnd of Description.",
       "description": "Museum dedicated to Fort Smith's early street cars and railroad history. \nSeasonal hours\n(479) 783-0205\nwww.fstm.org\n",
       "geofence_buffer_in_meters": 10,
@@ -1603,27 +1580,6 @@
       "name": "Fort Smith Trolley Museum ",
       "name_description": "Museum dedicated to Fort Smith's early street cars and railroad history. ",
       "type": "Public Museum"
-    },
-    {
-      "description": "Jail versus prison – A jail is for people who are charged with a crime and need to be held until a trial. People who are convicted, found guilty, and have a sentence of less than one year also go to jail. If a sentence is more than one year, the convict is sent to a prison. Fort Smith was home to two different jails. ",
-      "geofence_buffer_in_meters": 10,
-      "id": 482,
-      "information": [
-        {
-          "description": "In 1872, the basement of the old enlisted men’s barracks was converted to a jail. Porches ran the length of the building shading the windows and adding to the darkness of the cells. There was no heating, cooling, or cross ventilation. The worst time to be in the jail was during the hot, humid Arkansas summer. Although guards threw water across the flagstone floor to “cool” the jail it only added to the humidity making the conditions worse.\n\nHygiene was poor. One fire place had buckets that served as the toilet. The other had smaller pails for washing. There was no place for a prisoner to bathe. The stench from the jail could be smelled upstairs in the courtroom. Judge Parker had sawdust placed in the rafters to absorb some of the odors. The horrid conditions led to the jail’s nickname, “Hell on the Border.”  \n\nJudge Parker tried repeatedly, with no success, to secure funding to build a better jail. Funding did not become available until 1886 when Anna Dawes, a journalist, wrote an article for a Washington D.C. magazine describing the horrid conditions of the jail.\n",
-          "name": "Hell on the Border Jail 1872 - 1888"
-        },
-        {
-          "description": "Second Jail 1888-1917",
-          "name": "Second Jail 1888-1917"
-        }
-      ],
-      "latitude": 35.388278,
-      "longitude": -94.429749,
-      "map_thumbnail_image": 229,
-      "name": "1st and 2nd Jail",
-      "name_description": "First jail in basement and 2nd Jail completed in 1888",
-      "type": "Building"
     },
     {
       "description": "During the Civil War artillery was vital to the defense of the fort if attacked. Fort Smith used a variety of cannons including the 12 pound Napoleon. It was capable of firing a 12 pound ball nearly a mile. This cannon is a replica of one of the cannons left by the military when they abandoned the fort in 1871.",
@@ -1767,22 +1723,6 @@
       "services": []
     },
     {
-      "description": "The U.S. Government used the Indian Removal Act of 1830 to exchange tribal lands in the east for land west of the Mississippi River. For the Choctaw, Cherokee, Chickasaw, Muscogee (Creek), and Seminole tribes, Indian Removal left a bitter legacy remembered today by some as the Trail of Tears. Each of the five tribes traveled various land and water routes to Indian Territory (today Oklahoma). Some of them stopped at Fort Smith for supplies before continuing to their final destination. ",
-      "geofence_buffer_in_meters": 10,
-      "id": 99,
-      "latitude": 35.3877467189272,
-      "longitude": -94.4333213567734,
-      "map_thumbnail_image": 234,
-      "media": [
-        191,
-        221
-      ],
-      "name": "Trail of Tears Scenic Overlook",
-      "name_description": "Scenic view of Arkansas River offering interpretive panels featuring five tribal perspectives of Indian removal.",
-      "type": "Scenic Overlook",
-      "services": []
-    },
-    {
       "audio_description": "First Fort Smith.  Two minutes.  This grassy plateau was the site of the First Fort Smith, built in 1817.  Today, a few vestiges of its stone foundations are all that remain of the fort.     \n\nThe fort’s foundations form a broken grey square on the green landscape.  Each side of the square is about 100 feet long.  At the southernmost corner of the fort’s footprint is the blockhouse—a smaller stone square about 20 feet on a side.  This is the best-preserved portion of the former fort.  \n\nFrom the blockhouse, two parallel stone lines extend northeast, creating the fort’s southeastern edge.  Each line of stone is about a foot wide, and the two are about 10 feet apart.  In some places, the rough stone sticks up an inch or two above the grass; in other spots, the stone foundations have disappeared altogether.  The modern cement walkway cuts across the foundations as it weaves in and out of the ruins.\n\nA single line of stone forms the northeast side of the fort.  On the northwest and southwest sides of the fort, the foundations of the wall are largely absent.  The remnants of a structure are visible, however, near what would have been the western corner of the fort.  This irregularly shaped structure is set into the edge of the hill.  It’s a little smaller than the blockhouse and contains several low walls, platforms, and steps.\n\nIn a few spots, stone markers have been set into the grass to mark the original locations of different parts of the fort.  One is marked “Dining Room.”  Others read “Carpenter’s Shop” and “Wheelwright” shop.\n\nEnd of description.\n",
       "description": "Soldiers arrived here to begin building the first fort on Christmas Day 1817. Their assignment was to stop the fighting between the long established Osage and the newly arriving Cherokees to Indian Territory. \n\nFort Smith was located on the western edge of the United States at that time. Far removed from other towns and supply resources, the first soldiers had to be self-sufficient during long periods of time between supply shipments. Soldiers abandoned the fort and moved deeper into Indian Territory in 1824 and established Fort Gibson.\n\nHere is the first flag to fly over Fort Smith had 15 stars and 15 stripes, one for each state.",
       "geofence_buffer_in_meters": 10,
@@ -1842,6 +1782,22 @@
       "name_description": "This larger than life bronze statue is dedicated to Deputy US Marshal Bass Reeves and his faithful dog.",
       "type": "Statue",
       "services": []
+    },
+    {
+      "audio_description": "Flag of the First Fort Smith.  1 ¼ minutes.  A white flagpole about 25 feet tall stands in the middle of the footprint of the First Fort Smith.  The fort no longer exists; only some of the fort wall’s stone foundations are evident today.  A modern cement walkway circles the site, weaving in and out of the ruined foundations.\n\nThe flagpole—white with a grey wooden knob on top—is a replica of the pole that would have stood in the fort.  Hanging from the top of the staff is an American flag with 15 stars and 15 stripes.  A few feet to the north of the flagpole is a black, six-pound cannon mounted on a metallic-green, two-wheeled fame.  The gun is about 5 feet long.  It points west, toward the Arkansas River and the former Indian Territory –now Oklahoma—in the distance.  This is a replica of the type of cannon that would have been used at the First Fort Smith. \n\nEnd of description.",
+      "description": "From 1846-1871 soldiers trained, drilled, and performed ceremonies on the parade ground making it the center of life at the fort. The flagpole in the center of the parade ground is a reproduction of the original built in 1846. This height allows the flag to be seen for miles. \n\nDuring the year two different size flags fly over the fort. The garrison flag flown in the summer is 20 feet by 30 feet and the storm flag flown in the winter months is 10 feet by 20 feet. Both have 37 stars.\n",
+      "geofence_buffer_in_meters": 10,
+      "id": 109,
+      "latitude": 35.388556,
+      "longitude": -94.430167,
+      "map_thumbnail_image": 244,
+      "media": [
+        195,
+        222
+      ],
+      "name": "Flag Pole and Parade Ground",
+      "name_description": "The flagpole (99 ft.) is a reproduction of the original built in 1846. This height allows the flag to be seen for miles.",
+      "type": "Flag Pole , parade ground, and wayside"
     },
     {
       "audio_description": "Wayside Panel:  Officers’ Quarters – Main Text.  2 ¼ minutes.  First of two descriptions at this location.  This wayside panel is located near the south corner of one of two officers’ quarters constructed and used during the second Fort Smith era, between 1838 and 1871.  Today, all that exists from the building is a cement pad about 75 feet by 20 feet – the same size as the original building foundation. The rectangular pad sits on the western edge of the Parade Ground, parallel to the oval-shaped path that rings the Parade Ground.\n\nBrick lines set into the cement pad mark the original locations of the building’s interior walls.  In addition, a dozen brick squares, about 1 foot by 1 foot each, have been placed in a line parallel to the front edge of the cement pad, about six feet in front of it.   They mark the locations of the building’s original columns.  The squares stick up an inch or two from the grass, so watch your step if you venture off the path.\n\nThe wayside panel includes black-and-white images and text.  The main text reads:\n\n“You are now standing on what was once Officer's Row at the second Fort Smith. From 1846 to 1865, two large buildings stood on the western edge of the parade ground and provided housing for officers and their families. Unlike the cramped quarters of the enlisted men's barracks, there was a degree of privacy here. Large front and back porches, yards, and gardens surrounded by picket fences provided further domestic comforts.\n\n“Fire destroyed both Officers’ Quarters in 1865 and 1870. In 2000, the National Park Service placed the concrete pads here to show the approximate locations and floor plans of both buildings.”  End of text.\n\nThe images and additional text are described in the next message.\n\nWayside Panel: Officers’ Quarters – Images.  Three minutes.  Second of two descriptions at this location.  On the upper right-hand corner of this panel is a faded black-and-white photograph of the officers’ quarters.  The photo shows a two-story building with a pitched roof and six chimneys.  Twelve brick columns support open porches that run across the long façade on both the first and second floors. A white picket fence encircles the building, and a man stands near the gate.  Several small trees shade the front of the building.\n\nBelow the image is the following quote from Mary Rutherford Cravens recalling “Social Life in the Garrison”:\n\n\"The great front porches were common rendezvous for the officers, their families and friends, and we used to delight in being there to watch the soldiers drill, hear the bugles’ shrill call, and listen to the fine concerts by the army band on the parade grounds. The hospitality of the officers and their wives was unstinted, and many delightful functions were enjoyed by friends from the town and surrounding country.\"  End of text.\n\nBelow this is another photograph.  This one depicts Captain Samuel Sturgis, Commander at Fort Smith from 1859 to 1861, along with his family.  The Captain stands on the left, in uniform, his right hand tucked into his shirt.  His wife sits in front, her floor-length skirt billowing.  Their three children stand beside her, nearly expressionless.  The photograph is from the Collection of the New-York Historical Society.  Text beside it reads:\n\n“Officer's wives and children shared the trials and tribulations of military life with their husbands and fathers. At Fort Smith, Sturgis' son, Jack, was badly burned when two other boys accidentally exploded twelve pounds of gunpowder. Jack carried a facial scar until his death as a lieutenant at the Battle of Little Bighorn in 1876.”  End of text.\n\nTo the left is a drawing of the Fort Smith cistern, which is located about 80 feet to your north.  The drawing shows a small dome of stone and mortar protruding above ground level with a large subterranean storage tank below it.  Gravel covers the bottom of the storage area, with water filling about half of the remaining space.  Text beside the picture reads:\n\n“The Cistern – Following the Civil War, the U.S. Army constructed a dome-shaped cistern between the two officer's quarters. This underground storage tank is 22 feet deep and holds 55,000 gallons of water. The cistern, enlisted men’s barracks, and the commissary are the only structures remaining from the second Fort period, 1838-1871.”\n\nEnd of description.\n",
@@ -1949,6 +1905,46 @@
       "type": "Office Building"
     },
     {
+      "audio_description": "Gazebo.  1 ½ minutes.  First of two descriptions at this location. A wooden gazebo stands here, just to the north of the parking area.  This is one of several entrances to Fort Smith National Historic Site.  The six-sided structure is about 15 feet in diameter and open on all sides.  Inside you’ll find a wayside panel and a water fountain.  Six thin wooden support posts are evenly spaced around the edge of the interior.  The gazebo floor is cement; around that, the ground is paved with red bricks arranged in a herringbone pattern.    \n\nAbout 10 feet to the southwest is a free-standing bulletin board that displays park safety messages and program updates.  A paved walkway leads off to the west toward the site of the first Fort Smith.  The walkway crosses an active railroad track after about 40 feet, so please be careful if you take this route.\n\nAbout 150 feet to the northeast of the gazebo is the former barracks-courthouse-jail building—now the park’s visitor center.  It’s a 2 ½-story, red brick building about 150 feet from end to end.  It’s topped with a pitched black-shingle roof.  The Fort Smith flagpole stands just to the left of the building, in the middle of an open area known as the Parade Ground.\n\nEnd of description.",
+      "description": "Welcome to Fort Smith National Historic Site. Established on December 25, 1817 and situated on the edge of the Western Frontier, Fort Smith represented federal law and order in Indian Territory. Here you can explore the foundations of the original Fort Smith on the banks of the Arkansas River, stroll around the parade ground where soldiers trained, visit the oldest standing building in Fort Smith, and see the courtroom where federal judges presided over the Western District of Arkansas and Indian Territory.  ",
+      "geofence_buffer_in_meters": 10,
+      "id": 104,
+      "latitude": 35.387664,
+      "longitude": -94.430854,
+      "map_thumbnail_image": 239,
+      "media": [
+        194
+      ],
+      "name": "Gazebo by Parking Lot ",
+      "name_description": "Welcome to Fort Smith National Historic Site",
+      "type": "Wayside Exhibit Panel",
+      "services": []
+    },
+    {
+      "audio_description": "The Gallows.  Two minutes.  First of three descriptions at this location. This is a reconstruction of the original Fort Smith gallows.  The gallows area is about 50 feet by 50 feet and enclosed by a white wood plank fence 12 feet high.  Within the area, along the south edge of the enclosure, is the gallows structure itself.  \n\nThe gallows structure features a wooden platform about 30 feet long by 20 feet deep.  The platform sits about 6 feet off the ground, supported by 4 one-foot square columns.  Stairs lead up to the platform on the right side, but these are closed to the public.  A horizontal beam sits about 10 feet above the platform, running the full length of gallows.  This is the cross beam, from which the noose would have been hung.  It rests on two square support columns and is braced from above by two diagonal beams.  The whole structure is painted white.  It’s topped by shingled wooden roof that slopes down toward the back, where it meets a 13-foot stone support wall.   \n\nA single door in the fence opposite the gallows structure provides access to the area.  To your right as you enter, is a white metal box on a stand.  The box is about a foot on each side and three feet off the ground.  A button on the side of the box triggers an audio message about the gallows.  The cement walkway that leads into the enclosure turns left immediately and continues about 8 feet.  Two wayside panels along this path explore the gallows’ history.  \n\nEnd of description.",
+      "description": "Why execution by hanging? At the time, hanging was considered the most humane method of execution. When done properly, the neck is broken and death comes quickly.\n\nMurder, rape, treason, and obstruction of an execution were the only Federal crimes with an automatic death sentence. In Fort Smith, 81 men were hanged for murder and 5 for rape. Crowds in the thousands came to watch the earlier executions. Two years after Judge Parker arrived, a fence was erected and executions became private. In order to attend an execution, individuals had to get permission from the U.S. Marshal by providing a reason to be there. Those who attended executions included reporters, clergy, medical personnel, and family members of both the victim and the condemned. \n\nThe current gallows are a reproduction based on images and historic records. The original gallows was destroyed by the city of Fort Smith in 1897 because of the negative reputation it gave the city. \n",
+      "geofence_buffer_in_meters": 15.791199814681606,
+      "id": 95,
+      "information": [
+        {
+          "description": "August 15, 1873\nJohn Childers\n\nOctober 10, 1873\nTunagee, alias Tuni\nYoung Wolf\n\nApril 3, 1874\nJohn Billy\nIsaac Filmore\nJohn Pointer\n\nJanuary 15, 1875\nMcClish Impson\n\nSeptember 3, 1875\nFirst execution under the tenure of Judge Isaac Parker\nEdmund Campbell\nDaniel Evans\nSamuel Fooy\nSmoker Mankiller\nJames Moore\nWilliam Whittington\n\nApril 21, 1876\nGibson Ishtanubbee\nWilliam Leach\nOrpheus McGee\nIsham Seeley\nAaron Wilson\n\nSeptember 8, 1876\nSamuel Peters\nOsey Sanders\nJohn Valley\nSinker Wilson\n\nDecember 20, 1878\nJames Diggs\nJohn Postoak\n\nAugust 29, 1879\nWilliam Elliot Wiley, alias Colorado Bill\nDr. Henri Stewart\n\nSeptember 9, 1881 \nWilliam Brown\nAbler Manley\nAmos Manley\nPatrick McGowen\nGeorge W. Padgett\n\nJune 30, 1882\nEdward Fulsom\n\nApril 13, 1883\nRobert Massey\n\nJune 29, 1883\nWilliam Finch\nMartin Joseph\nTe-o-lit-se\n\nJuly 11, 1884\nJohn Davis\nThomas Thompson\nJack Womankiller\n\nApril 17, 1885\nWilliam Phillips\n\nJune 26, 1885\nJames Arcine\nWilliam Parchmeal\n\nApril 23, 1886\nJoseph Jackson\nJames Wasson\n\nJuly 23, 1886\nCalvin James\nLincoln Sprole\n\nAugust 6, 1886\nKitt Ross\n\nJanuary 14, 1887\nJohn T. Echols\nJames Lamb\nAlbert O'Dell\nJohn Stephens\n\nApril 8, 1887\nPatrick McCarty\n\nOctober 7, 1887 \nSeaborn Kalijah, alias Seaborn Green\nSilas Hampton\n\nApril 27, 1888\nJackson Crow\nOwen Hill\nGeorge Moss\n\nJuly 6, 1888\nGus Bogles\n\nJanuary 25, 1889\nRichard Smith\n\nApril 19, 1889\nMalachi Allen\nJames Mills\n\nAugust 30, 1889\nJack Spaniard\nWilliam Walker\n\nJanuary 16, 1890\nHarris Austin\nJohn Billy\nJimmon Burris\nSam Goin\nJefferson Jones\nThomas Willis\n\nJanuary 30, 1890\nGeorge Tobler\n\nJuly 9, 1890\nJohn Stansberry\n\nJune 30, 1891\nBoudinot Crumpton, alias Bood Burris\n\nApril 27, 1892\nSheppard Busby\n\nJune 28, 1892\nJohn Thornton\n\nJuly 25, 1894\nLewis Holder\n\nSeptember 20, 1894\nJohn Pointer\n\nMarch 17, 1896\nCrawford Goldsby, alias Cherokee Bill\n\nApril 30, 1896\nWebber Isaacs\nGeorge Pierce\nJohn Pierce\n\nJuly 1, 1896\nRufus Buck\nLewis Davis\nLucky Davis\nMaoma July\nSam Sampson\n\nJuly 30, 1896\nGeorge Wilson, alias James Casherago",
+          "name": "Men Executed at Fort Smith: 1873 to 1896"
+        }
+      ],
+      "latitude": 35.387618,
+      "longitude": -94.430186,
+      "map_thumbnail_image": 230,
+      "media": [
+        187,
+        217,
+        226
+      ],
+      "name": "Gallows",
+      "name_description": "86 men were executed here.",
+      "type": "Reconstruction",
+      "services": []
+    },
+    {
       "audio_description": "Wayside Panel:  Defending Freedom – Area Description.  1 ½ minutes. First of two descriptions at this location.  This wayside panel is located at the southern end of the Fort Smith Parade Ground, just inside the oval cement walkway that surrounds it.  The flagpole stands about 200 feet straight ahead as you face the panel, in the middle of the flat, open space.  At the flagpole’s tip, about 100 feet up in the air, is an American flag with 37 stars.  To the right of the flagpole is the large red brick building that at various times housed the barracks, jail, and courthouse.  Today it’s the park visitor center.  A couple hundred feet past the flagpole, in the far left corner of the compound, is a light grey building with a black pitched roof.  This is the former commissary. \n\nAbout thirty feet to your right as you face the panel, at approximately 2:00 on the clock-face, is a 19th-century cannon.  The metallic-green gun sits on a frame supported by two large spoked wheels.  To the right of the cannon is the reconstructed gallows—a white structure enclosed by a white wooden fence.  \n\nEnd of description.\n\nWayside Panel: Defending Freedom – Panel Description.  2 ¼ minutes.  Second of two descriptions at this location.  This wayside panel is titled “Defending Freedom.”  It’s about 3 ½ feet wide and 2 feet deep, and stands about 2 ½ feet off the ground on thin metal legs.\n\nThe panel’s single image depicts members of the United States Colored Troops practicing bayonet lunges on the Fort Smith Parade ground in 1864.  In the full-color illustration, seven soldiers in blue uniforms face the viewer with bayonets drawn.  To the right, a drill-master appears to be urging them on.  To the left, two officers look on approvingly.  Behind the soldiers, the flagpole rises up in the center of the painting, with the barracks to the right.  On the left are the officers’ quarters, which no longer exist.\n\nText on the upper right reads:\n\n“Black infantry drilled on the parade ground in front of you. At various times during the Civil War, Fort Smith housed four regiments of U.S. Colored Troops (USCT). One was organized locally. Drills increased after Confederate soldiers mercilessly massacred black troops who had surrendered at Poison Springs in 1864. Many of the troops were former slaves. Later that year, the 11th USCT, on duty in Indian Territory, battled Confederate cavalry in one of many Civil War skirmishes fought by Fort Smith troops. By war’s end about 10 percent of all Union troops were USCT regiments.”  End of text\n\nOn the upper left is a quote from General Blunt.  It’s dated July 17, 1863, after the Battle of Honey Springs.  It reads:\n\n“I never saw such fighting done as was done by the negro regiment… The question that negroes will fight is settled; besides they make better soldiers in every respect than any troops I have ever had under my command.” \n\nEnd of description",
       "geofence_buffer_in_meters": 10,
       "id": 106,
@@ -1958,56 +1954,24 @@
       "services": []
     },
     {
-      "description": "The plan for Fort Smith was based on coastal fort design with a stone wall 12 feet high and 2 feet thick. There were five bastions or gun emplacements. This fort was one of the last this style built. The fort wall remained until the 1920s when the city had it destroyed.",
+      "audio_description": "Trail of Tears Scenic Overlook.  1 ¾ minutes.  First of eight descriptions at this location. From the main walkway that runs along the river, two side paths jut out toward the water, about 40 feet apart.  The side paths angle in toward each other, creating a three-sided overlook with a broad viewing platform parallel to the river.  A stone wall about 3 feet high runs along the outer edge of the overlook.\n\nSix wayside panels can be found in the area.  An introductory panel is located alongside the main path, in between the two sides of the overlook.  Five other panels are mounted on the stone wall overlooking the river.  Each of these waysides tells the story of one of the Native American tribes that passed through Fort Smith on the Trail of Tears.  All of the panels are audio described in the following messages.  A park bench is located in the middle of the triangle, facing the panels.\n\nOn the right-hand side of the overlook, a small stairway descends through a gap in the wall to the ground below, which slopes toward the river.  The water’s edge is about 40 feet away.   \n\nLooking straight ahead from the overlook, the Arkansas River flows toward you and then off to the right.  The Poteau River joins it from the left.  Birds often perch on fallen branches in the river.  On windy days, white caps frost the tops of the choppy waves.  Across the water, in Oklahoma, dense forests occupy private lands.\n\nEnd of description.",
+      "description": "The U.S. Government used the Indian Removal Act of 1830 to exchange tribal lands in the east for land west of the Mississippi River. For the Choctaw, Cherokee, Chickasaw, Muscogee (Creek), and Seminole tribes, Indian Removal left a bitter legacy remembered today by some as the Trail of Tears. Each of the five tribes traveled various land and water routes to Indian Territory (today Oklahoma). Some of them stopped at Fort Smith for supplies before continuing to their final destination. ",
       "geofence_buffer_in_meters": 10,
-      "id": 105,
-      "latitude": 35.387799,
-      "longitude": -94.430773,
-      "map_thumbnail_image": 240,
-      "name": "Fort Wall",
-      "name_description": "Originally, the fort was surrounded by a stone wall 12’ high and 2’ feet thick. This fort was one of the last this type.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
-      "description": "After the U.S. Army closed Fort Smith in 1871, the federal court converted the guardhouse into a jail for women. Crimes committed by women ranged from the illegal sale of whiskey to murder. When convicted, they received the same sentences as men – fines, jail time, or death by hanging. Although four women were sentenced to hang, none were executed at Fort Smith.\nIf a female prisoner had a child and no family members or friends to take care of the child, he or she went to jail too. We know of at least two children who served time with their mothers. During the day, the children were allowed to play on the grounds. \n\n",
-      "geofence_buffer_in_meters": 10,
-      "id": 96,
-      "information": [
-        {
-          "description": "Constructed in 1849 the guardhouse served as the initial check-in point for soldiers, supplies, and visitors for the second Fort Smith. It was also the place of confinement for soldiers under arrest for offenses including drunkenness, desertion, or fighting and other crimes.",
-          "name": "Guardhouse 1849-1871"
-        }
-      ],
-      "latitude": 35.388982,
-      "longitude": -94.429379,
-      "map_thumbnail_image": 231,
+      "id": 99,
+      "latitude": 35.38774672,
+      "longitude": -94.43332136,
+      "map_thumbnail_image": 234,
       "media": [
-        188,
-        218
+        191,
+        221
       ],
-      "name": "Women's Jail",
-      "name_description": "Guardhouse/jail for 2nd Fort Smith (1838-1871), became the women's jail during Federal Court period (1872-1896).",
-      "type": "Historic Site",
+      "name": "Trail of Tears Scenic Overlook",
+      "name_description": "Scenic view of Arkansas River offering interpretive panels featuring five tribal perspectives of Indian removal.",
+      "type": "Scenic Overlook",
       "services": []
     },
     {
-      "audio_description": "Judge Isaac C. Parker Federal Building and U.S. Courthouse.  1 ½ minutes. The Judge Isaac C. Parker Federal Building and U.S. Courthouse is a red brick, Classical Revival style building with limestone trim.  The central section is three stories high and 150 feet across.  Two later additions, each two stories high and 60 feet wide, flank the central structure.  The side wings project forward about 15 feet or so from the main building.\n\nTwo wide walkways lead to three central doors, which are located up five steps.  A series of ramps in front of the middle door also provide wheelchair access.  Two additional walkways curve in toward the entrance from the right and left, inscribing a massive semi-circle on the grassy lawn.  Above the main doors, six limestone pilasters rise two stories to the building’s limestone cornice.  Inscribed on the cornice are the words, “United States Post Office and Court House.”  Vertical and horizontal white lines divide each of the building’s many windows into smaller square panes.  There are between 16 and 32 panes per window, creating a latticework appearance.\n\nAn American flag flies in front of the building on a white flagpole situated between the two central walkways.\n\nEnd of description.",
-      "description": "Named for Judge Isaac C. Parker, this building is the current federal courthouse for the Western District of Arkansas.",
-      "geofence_buffer_in_meters": 10,
-      "id": 131,
-      "latitude": 35.386251,
-      "longitude": -94.42712,
-      "map_thumbnail_image": 266,
-      "media": [
-        209
-      ],
-      "name": "Isaac C. Parker Federal Courthouse",
-      "name_description": "Named for Judge Isaac C. Parker, this building is the current federal courthouse for the Western District of Arkansas.",
-      "type": "Federal Courthouse",
-      "services": []
-    },
-    {
+      "audio_description": "Commissary – Interior.  1 ½ minutes.  Third of five descriptions at this location. The interior of the commissary has been arranged to show aspects of the building’s historical use.  A smooth flagstone walkway leads into the space, and then curves around to the left.  Wooden railings on either side of the wide path guide your way.  There are two wayside panels mounted on the railing:  One to your left just as you enter; the other on the right just after the bend in the walkway.  They are described in subsequent messages.\n \nOn the left side of the walkway, two wooden chairs with hoop backs and spindles, a couple of small tables, and a twin bed furnish the space.  Two oil lamps rest on a wooden mantle above a fireplace on the far wall.  A small area rug sits on the stone floor; the stone walls and wooden ceiling are painted white.\n\nOn the right side of the walkway, boxes and barrels are piled high, and rows of canned goods fill a rack of wooden shelves.  A mannequin dressed in a blue uniform stands at attention amid the supplies.  At the end of the walkway are additional boxes and barrels that you can touch.  Some have clear plexiglass covers; others have lift-up tops.  They show some of the types of supplies that were once stored here.  \n\nEnd of description.",
       "description": "In 1845, Quartermaster General Thomas Jessup inspected Fort Smith and ordered the fort to be converted into a supply depot. With its new mission, Fort Smith became one of the largest and busiest supply posts in the southwest. ",
       "geofence_buffer_in_meters": 11.2191999609856,
       "id": 97,
@@ -2039,30 +2003,55 @@
       "services": []
     },
     {
-      "description": "Welcome to Fort Smith National Historic Site. Established on December 25, 1817 and situated on the edge of the Western Frontier, Fort Smith represented federal law and order in Indian Territory. Here you can explore the foundations of the original Fort Smith on the banks of the Arkansas River, stroll around the parade ground where soldiers trained, visit the oldest standing building in Fort Smith, and see the courtroom where federal judges presided over the Western District of Arkansas and Indian Territory.  ",
+      "audio_description": "Wayside Panel: Fort Wall – Area Description.  1 ½ minutes.  First of two descriptions at this location.  You are just outside the perimeter of the second Fort Smith, which was built in 1838.  About 15 feet to the left of this wayside panel, a line of stones in the grass intersects with the cement walkway.  The strip of grey stone, about one foot across, marks the location of the former fort wall.  Where the wall line intersects the walkway, there are two light grey stone pillars that create a kind of entranceway into the site.  The pillars step up from the sides to a height of about 4 feet where they frame the pathway.\n\nThe path continues into the site another 30 feet or so, where it meets an oval-shaped walkway that encircles the open Parade Ground.  A flagpole in the middle of the Parade Ground rises about 100 feet above the grass, and an American flag with 37 stars flies at its top.   Just to the right of the Parade Ground is the former barracks/courthouse/jail building—now the Visitor Center.  Further to your right as you face the flagpole is the gallows—about 60 feet away.  It’s a white structure surrounded by a tall white wood plank fence. \n\nEnd of description.\n\nWayside Panel: Fort Wall – Panel Description.  2 ¼ minutes.  Second of two descriptions at this location. A single, colorful image takes up this entire panel.  It’s a reproduction of a 1911 painting by Treseder that shows how the second Fort Smith might have looked in the 1850s.  The painting depicts the fort from the north—directly opposite the side you’re on now. The view is from a slightly elevated perspective so that the interior of the compound is visible over the stone wall that encircles it.  \n\nThe jail/barracks/courthouse building stands in the middle of the scene, with the flagpole to its right.  Several other buildings occupy the site, including a row of two-story structures along the right-hand wall of the compound. The gentle rolling landscape outside the fort walls is dotted with smaller houses and trees.  The Arkansas River flows past in the background.  Text at the top of the panel reads:\n\n“Security has always been a concern for the U.S. military. The army designed the second Fort Smith (1838-1871) as part of a line of forts from Minnesota to Louisiana to separate the territory occupied by Native American tribes from that settled by American citizens. To provide protection in the event of an attack, military engineers called for the construction of a fort with five bastions (gun emplacements), and a massive stone wall that was 12 feet high and 2 feet thick.\n\n“Fort Smith represents the last of a dying breed; from the 1840s on, virtually all frontier forts were built without walls. After Fort Smith was built, the cost of constructing a wall was considered too great in comparison to the benefit of a fortified defense. The fort walls remained in place throughout the federal court era (1872-1897), affording a level of security for proceedings and the executions that took place. Today the location of the original wall is outlined by a continuous band of stone.”  \n\nEnd of description.",
+      "description": "The plan for Fort Smith was based on coastal fort design with a stone wall 12 feet high and 2 feet thick. There were five bastions or gun emplacements. This fort was one of the last this style built. The fort wall remained until the 1920s when the city had it destroyed.",
       "geofence_buffer_in_meters": 10,
-      "id": 104,
-      "latitude": 35.387664,
-      "longitude": -94.430854,
-      "map_thumbnail_image": 239,
-      "media": [
-        194
-      ],
-      "name": "Gazebo by Parking Lot ",
-      "name_description": "Welcome to Fort Smith National Historic Site",
+      "id": 105,
+      "latitude": 35.387799,
+      "longitude": -94.430773,
+      "map_thumbnail_image": 240,
+      "name": "Fort Wall",
+      "name_description": "Originally, the fort was surrounded by a stone wall 12’ high and 2’ feet thick. This fort was one of the last this type.",
       "type": "Wayside Exhibit Panel",
       "services": []
     },
     {
-      "description": "Welcome to Fort Smith National Historic Site. Established on December 25, 1817 and situated on the edge of the Western Frontier, Fort Smith represented federal law and order in Indian Territory. Here you can explore the foundations of the original Fort Smith on the banks of the Arkansas River, stroll around the parade ground where soldiers trained, visit the oldest standing building in Fort Smith, and see the courtroom where federal judges presided over the Western District of Arkansas and Indian Territory.  ",
+      "audio_description": "Judge Isaac C. Parker Federal Building and U.S. Courthouse.  1 ½ minutes. The Judge Isaac C. Parker Federal Building and U.S. Courthouse is a red brick, Classical Revival style building with limestone trim.  The central section is three stories high and 150 feet across.  Two later additions, each two stories high and 60 feet wide, flank the central structure.  The side wings project forward about 15 feet or so from the main building.\n\nTwo wide walkways lead to three central doors, which are located up five steps.  A series of ramps in front of the middle door also provide wheelchair access.  Two additional walkways curve in toward the entrance from the right and left, inscribing a massive semi-circle on the grassy lawn.  Above the main doors, six limestone pilasters rise two stories to the building’s limestone cornice.  Inscribed on the cornice are the words, “United States Post Office and Court House.”  Vertical and horizontal white lines divide each of the building’s many windows into smaller square panes.  There are between 16 and 32 panes per window, creating a latticework appearance.\n\nAn American flag flies in front of the building on a white flagpole situated between the two central walkways.\n\nEnd of description.",
+      "description": "Named for Judge Isaac C. Parker, this building is the current federal courthouse for the Western District of Arkansas.",
       "geofence_buffer_in_meters": 10,
-      "id": 100,
-      "latitude": 35.388204,
-      "longitude": -94.428901,
-      "map_thumbnail_image": 235,
-      "name": "Welcome to Fort Smith - Main Entrance",
-      "name_description": "Welcome to Fort Smith National Historic Site.",
-      "type": "Wayside Exhibit Panel",
+      "id": 131,
+      "latitude": 35.386251,
+      "longitude": -94.42712,
+      "map_thumbnail_image": 266,
+      "media": [
+        209
+      ],
+      "name": "Isaac C. Parker Federal Courthouse",
+      "name_description": "Named for Judge Isaac C. Parker, this building is the current federal courthouse for the Western District of Arkansas.",
+      "type": "Federal Courthouse",
+      "services": []
+    },
+    {
+      "audio_description": "Wayside Panel:  Women’s Jail, 1872-1888 – Main Text. 1 ¾ minutes.   Fourth of five descriptions at this location.  You’re facing southeast from the site of the former Fort Smith guardhouse.  The view is of a grassy field with some modern city buildings several hundred feet in the distance, including the Fort Smith Museum of History.  About 150 feet to your right is the former jail/barracks/courthouse building, now the National Park Service visitor center.\n\nThe angled wayside panel is approximately 36 inches wide and 24 inches high.  It features three black-and-white images set against a beige background.  They’ll be described in the next message.  The main text on the top center of the panel reads:  \n\n“After the U.S. Army closed Fort Smith in 1871, the guardhouse served the Federal Court for the Western District of Arkansas.  It remained in use as a jail, detaining primarily women suspected or convicted of federal crimes until 1888.  At that time, the court moved quarters for female prisoners into the courthouse/jail building.  Although not as numerous as their male counterparts, female prisoners were no novelty in Fort Smith.  They committed the same crimes as men in the Indian Territory, ranging from the illegal sale of whiskey to murder.  When convicted, they received the same sentences – fines, jail time or death by hanging.  From 1873 to 1874 the guardhouse also briefly functioned as “Death Row” by holding the men condemned to die on the gallows.” \n\nEnd of description.\n\nWayside Panel:  Women’s Jail, 1872-1888 – Images and Additional Text.  Two minutes.  Fifth of five descriptions at this location. On this panel’s upper right is a front view of the guardhouse taken from the original 1849 construction drawings.  It shows a one-story rectangular building with a high pitched roof, a central doorway, two windows, two chimneys, and four columns in front—all symmetrically arranged.  An 1894 fire severely damaged the guardhouse, but it probably remained standing until 1896.\n\nOn the left-hand side of the panel is a black-and-white photo of a bearded man in a dark suit, white shirt, and gray cap.  The text below reads:\n\n“Jail Guard Robert Jackson, circa 1896.  During the time that the old guard house was used as a women’s prison, the U.S. Marshal had to hire additional guards to watch over female prisoners in the guardhouse.  Working as a jail guard was considered very desirable, as guards were paid a fixed salary often much higher than that of a deputy marshal.”  End of text.\n\nFinally, in the bottom center of the panel is a photograph of a woman sitting side-saddle on a dark horse.  She looks grimly at the camera, wearing 19th-century clothing, including a hat, and a large pistol holstered at her hip.  The text below reads:\n\n“Romanticized in the movies as a ‘Bandit Queen’ or ‘Lady Robin Hood,’ Belle Starr was neither.  She had entered into a life of petty crime during the Civil War and continued in that vein until her murder in 1889.  Belle was brought in front of Judge Parker on charges of horse theft in 1883, found guilty and sentenced to a year in the Detroit House of Corrections.  It is likely that while awaiting trial, Belle Starr was imprisoned here.”\n\nEnd of description.",
+      "description": "After the U.S. Army closed Fort Smith in 1871, the federal court converted the guardhouse into a jail for women. Crimes committed by women ranged from the illegal sale of whiskey to murder. When convicted, they received the same sentences as men – fines, jail time, or death by hanging. Although four women were sentenced to hang, none were executed at Fort Smith.\nIf a female prisoner had a child and no family members or friends to take care of the child, he or she went to jail too. We know of at least two children who served time with their mothers. During the day, the children were allowed to play on the grounds. \n\n",
+      "geofence_buffer_in_meters": 10,
+      "id": 96,
+      "information": [
+        {
+          "description": "Constructed in 1849 the guardhouse served as the initial check-in point for soldiers, supplies, and visitors for the second Fort Smith. It was also the place of confinement for soldiers under arrest for offenses including drunkenness, desertion, or fighting and other crimes.",
+          "name": "Guardhouse 1849-1871"
+        }
+      ],
+      "latitude": 35.388982,
+      "longitude": -94.429379,
+      "map_thumbnail_image": 231,
+      "media": [
+        188,
+        218
+      ],
+      "name": "Women's Jail",
+      "name_description": "Guardhouse/jail for 2nd Fort Smith (1838-1871), became the women's jail during Federal Court period (1872-1896).",
+      "type": "Historic Site",
       "services": []
     },
     {
@@ -2099,6 +2088,20 @@
       "services": []
     },
     {
+      "audio_description": "Wayside Panel: Welcome to Fort Smith – Panel Description.  Two minutes. Second of two descriptions at this location. This 2-foot by 3 ½-foot panel features one large image—an artist’s conception of Fort Smith at the time of the Council of 1865.  The black-and-white drawing shows a cluster of several large buildings surrounded by a low stone wall.  In the foreground, a dozen or so soldiers and Native Americans congregate on foot and horseback.  Text on the upper left portion of the panel reads:\n\n“Welcome to Fort Smith\n\n“Founded in 1817 by the U.S. Army to contain a volatile Indian feud, Fort Smith later served as a major supply depot for western military posts, and finally as headquarters of the Federal Court for the Western District of Arkansas. For over 80 years, the federal government used Fort Smith to establish and maintain law and order in the Indian Territory (present day Oklahoma).\n\n“Fort Smith National Historic Site preserves the remains of these two military posts and the federal court. During your visit, make sure to visit the following locations at the park:\n\n“Visitor Center - The Barracks/Courthouse/Jail building\nExhibits, restrooms, and bookstore\nThe Gallows\nThe Commissary Storehouse\nThe first Fort Smith\nTrail of Tears Overlook”\n\nEnd of text.\n\nOn the upper right corner of the panel, a modern map of Fort Smith Historic Site is set into the historic drawing.  The map shows your current location as well as 14 key park sites and amenities.  They are:  the Barracks-Courthouse-Jail—now the Visitor Center—the Gallows, the Parking Area, Quartermaster Storehouse Site, Initial Point Marker, Site of the First Fort Smith, Trail of Tears National Historic Trail Overlook, Arkansas River Trail, Commissary Storehouse, Officers’ Quarters, Cistern, Flagpole, Guardhouse, and Memorial Gate. \n\nEnd of description.\n",
+      "description": "Welcome to Fort Smith National Historic Site. Established on December 25, 1817 and situated on the edge of the Western Frontier, Fort Smith represented federal law and order in Indian Territory. Here you can explore the foundations of the original Fort Smith on the banks of the Arkansas River, stroll around the parade ground where soldiers trained, visit the oldest standing building in Fort Smith, and see the courtroom where federal judges presided over the Western District of Arkansas and Indian Territory.  ",
+      "geofence_buffer_in_meters": 10,
+      "id": 100,
+      "latitude": 35.388204,
+      "longitude": -94.428901,
+      "map_thumbnail_image": 235,
+      "name": "Welcome to Fort Smith - Main Entrance",
+      "name_description": "Welcome to Fort Smith National Historic Site.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
+    },
+    {
+      "audio_description": "Wayside Panel:  Welcome to Fort Smith – Area Description.  1 ¼ minutes.  First of two descriptions at this location. This wayside panel stands at the southern entrance to Fort Smith National Historic Site.  The angled welcome panel is on the sidewalk just at the edge of the parking area.  The panel stands 2 ½ feet off the ground on two metal legs.  About 20 feet to the north are two stepped stone pillars on either side of a cement walkway that leads into the site.  The pillars stand about 4 feet high at their highest point.  They mark the spot where the path intersects the outline of the original fort wall.\n\nAbout 150 feet further north is a two-and-a-half story red-brick building with a black pitched roof.  This is the former barracks and courthouse—now the visitor center.  About 80 feet to your left as you face the visitor center is a white structure enclosed by a white, wooden fence.  This is the site of the original gallows.\n\nEnd of description.",
       "description": "Welcome to Fort Smith National Historic Site. Established on December 25, 1817 and situated on the edge of the Western Frontier, Fort Smith represented federal law and order in Indian Territory. Here you can explore the foundations of the original Fort Smith on the banks of the Arkansas River, stroll around the parade ground where soldiers trained, visit the oldest standing building in Fort Smith, and see the courtroom where federal judges presided over the Western District of Arkansas and Indian Territory.  ",
       "geofence_buffer_in_meters": 10,
       "id": 102,
@@ -2146,22 +2149,6 @@
       "services": []
     },
     {
-      "geofence_buffer_in_meters": 10,
-      "id": 107,
-      "name": "Confederates Occupy (WS)",
-      "name_description": "On Apr. 22, 1861, Union troops abandoned Fort Smith. Arkansas State Troops took over the fort the next day.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 108,
-      "name": "Meeting of Nations (WS)",
-      "name_description": "Treated as the enemy,  12 tribes met with the US Government to agree on post Civil War treaties, which were signed in 1866.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
       "audio_description": "Wayside Panel:  Whiskey War – Area Description.  One minute.  First of two descriptions at this location.  This wayside panel stands along the cement path that winds its way around the area of the First Fort Smith.  If you’re facing the panel, your view is toward the west, overlooking a grassy knoll dotted with several trees widely spaced across the landscape.\n\nAbout 20 feet to your south, the cement walkway intersects with the path connecting the First Fort area and the Second Fort area.  About ten feet behind you, parallel to the walkway, are a series of active railroad tracks, so be alert and watch your step if you venture off the path.\n\nEnd of description.\n",
       "description": "100 years before Prohibition, it was illegal to sell whiskey to soldiers and Native Americans. These laws did not stop tavern owners in the growing community of Fort Smith. Captain Stuart and the 7th Infantry were tasked with enforcing those laws. During a violent confrontation, Captain Stuart was severely beaten by the Bigelow brothers, owners of one of the taverns. That night soldiers took revenge by firing a cannonball into the tavern.",
       "geofence_buffer_in_meters": 10,
@@ -2188,6 +2175,15 @@
       "services": []
     },
     {
+      "audio_description": "Wayside Panel:  Confederates Occupy the Fort – Area Description.  About 45 seconds.  First of two descriptions at this location.  This wayside panel stands at the edge of the Parade Ground, along one of the longer sides of the oval-shaped cement path that encircles the area.  The Fort Smith flagpole is about 50 feet away, near the center of the Parade Ground.  It’s at approximately 1:00 on the clock face as you face the panel.  Atop the 100-foot flagstaff is an American flag with 37 stars.  Beyond the flagpole at a distance of about 100 yards is the grey stone commissary building.  Slightly behind you to your right is the former jail/courthouse/barracks building—now the Visitor Center. \n\nEnd of description.\n\nWayside Panel: Confederates Occupy the Fort – Panel Description.  2 ¼ minutes.  Second of two descriptions at this location.  This panel features a large, color photograph of reenactors hoisting an enormous Confederate flag up the Fort Smith flagstaff.  The light grey commissary building is visible behind them.  The flag has two red stripes, one white stripe, and seven stars on a field of blue.  Text explains that the flag contained just seven stars in April 1861 because Arkansas had not yet seceded from the Union.\n\nText below the image reads:\n\n“At the beginning of the Civil War, ‘amid the firing of cannon and the cheers of the people,’ a local newspaper reported, Arkansas State Militia raised the Confederate flag and took control of Fort Smith on April 23, 1861.\n\n“With the Confederate victory in South Carolina at Fort Sumter, the U.S. War Department ordered all southern forts abandoned. Despite pleas of concerned citizens, U.S. troops (later called Union troops) left Fort Smith just an hour before state militia arrived. The transition took place without conflict. \n\n“While Arkansas militia troops controlled the fort, citizens of Fort Smith and the surrounding region remained deeply divided. Many pro-Unionists kept silent, suppressed their loyalties, or left town. After Union victories at Gettysburg and Vicksburg in July 1863, followed by Confederate defeat west of Fort Smith at Honey Springs, Union forces reclaimed Fort Smith in September 1863.”  End of text.\n\nTo the right of the photograph is a sepia-toned reproduction of a newspaper clipping.  A series of headlines reads:  “Arrival of State Troops!  Fort Smith Evacuated by the United States troops in the Night.  They Retreat into the Indian Country.  The Post Occupied by the State Troops!”  \n\nText below the clipping reads: “The Van Buren Press showed the excitement of many locals with these headlines for April 24, 1861.”\n\nEnd of description.",
+      "geofence_buffer_in_meters": 10,
+      "id": 107,
+      "name": "Confederates Occupy (WS)",
+      "name_description": "On Apr. 22, 1861, Union troops abandoned Fort Smith. Arkansas State Troops took over the fort the next day.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
+    },
+    {
       "description": "If you stood here in 1825, on your right would have been Arkansas Territory, and on your left, a vast domain traded to the Choctaw Nation for their ancestral lands in the east.\n\nThe Choctaw Treaty of 1825 placed the Indian Territory's Boundary \"one hundred paces east of Fort Smith, and running thence, due south, to the Red River.\" When government surveyors inspected the eastern boundary in 1857, they discovered the original 1825 survey had not run \"due south,\" but slightly southwest. After lengthy deliberation, Federal court officials decided to keep the 1825 boundary and pay the Choctaw Nation $68,102 for the land between the two survey lines.",
       "geofence_buffer_in_meters": 10,
       "id": 117,
@@ -2197,6 +2193,15 @@
       "name": "Edge of Indian Territory",
       "name_description": "The boundary between Arkansas and Choctaw territory was originally incorrect due to a survey error.",
       "type": "Historic Marker",
+      "services": []
+    },
+    {
+      "audio_description": "Wayside Panel: Meeting of Nations – Area Description.  1 ½ minutes.  First of two descriptions at this location.  This illustrated wayside panel stands along the outer edge of the cement path that encircles the Parade Ground.  The panel faces the former courthouse/barracks/jail building.  The building is about 10 feet in front of you as you face the panel.\n\nThe building comprises two similar structures placed side-by-side.  On the left side, the building has 2 ½ stories.  The bottom floor is set partially underground.  The visible portion of the ground floor has a white exterior and small square windows covered with bars.  There are two full floors above it that feature larger rectangular windows and a red-brick exterior.  Ten stairs lead up to a wooden porch at the level of the first full story.\n\nOn the right side of the building, six barred windows span two full stories each. They are outlined in rough-hewn grey stone.  Below them, a band of white several feet wide runs the length of the otherwise brick façade.  Above the six tall windows, just below the roofline, is a row of decorative brickwork. \n\nEnd of description.\n\nWayside Panel: Meeting of Nations – Panel Description. 2 ½ minutes.  Second of two descriptions at this location.   A reproduction of a 2006 painting fills this panel.  It shows 22 men huddled around a long table—some standing, some sitting.  A few books and several large maps are spread out across the surface.  Most of the men are dressed smartly in jackets, vests, and bowties; one wears a blue Union Army uniform.  The men’s faces are illuminated by a single unseen light source.\n\nText below reads:\n\n“The Fort Smith Council was held in this building in September 1865.  To establish relations following the Civil War, delegates of twelve Indian nations met with President Andrew Johnson’s representatives.  Bitterly divided, Indians had fought for both sides in the war, but the United States now treated them all as defeated enemies.  Tribes were told their rights had been forfeited, their slaves must be freed, and their property could be confiscated.\n\n“The Council ended with little resolved.  Not expecting to sign treaties, and concerned that tribal sovereignty was at stake, the Indians simply pledged allegiance to the United States.  A year later in Washington, D.C., tribes signed separate treaties with the federal government.”  End of text.\n\nText to the right of the image lists the nations represented in the painting:\n\nCherokee\nChickasaw\nChoctaw\nComanche\nMuscogee (Creek)\nOsage\nQuapaw\nSeminole\nSeneca\nShawnee\nWichita\nWynandotte\nUnited States\n\nOn the bottom left is a black-and-white photograph of General Albert Pike.  He has long grey hair and a white beard.  The text reads:\n\n“Confederate General Albert Pike recruited tribal nations to fight for the South in the Civil War.  Whether to fight for South or North caused deep rifts affecting tribes for years to come.”\n\nOn the bottom right is a portrait of Chief Allen Wright, a young man with short dark hair and a bowtie.  The text reads:\n\n“At the Fort Smith Council, Choctaw Chief Allen Wright suggested the term ‘Oklahoma.’  Combining two Choctaw words to mean ‘land of the red man,’ it was this Council’s most lasting result.”\n\nEnd of description.",
+      "geofence_buffer_in_meters": 10,
+      "id": 108,
+      "name": "Meeting of Nations (WS)",
+      "name_description": "Treated as the enemy,  12 tribes met with the US Government to agree on post Civil War treaties, which were signed in 1866.",
+      "type": "Wayside Exhibit Panel",
       "services": []
     },
     {
@@ -2210,21 +2215,6 @@
       "name": "Grave markers of Major William Bradford and surgeon Thomas Russell (Do these need AD?)",
       "name_description": "Fort Smith's earliest grave markers, Major William Bradford, and surgeon Thomas Russell. Both War of 1812 Veterans.",
       "type": "Stone Marker"
-    },
-    {
-      "description": "From 1846-1871 soldiers trained, drilled, and performed ceremonies on the parade ground making it the center of life at the fort. The flagpole in the center of the parade ground is a reproduction of the original built in 1846. This height allows the flag to be seen for miles. \n\nDuring the year two different size flags fly over the fort. The garrison flag flown in the summer is 20 feet by 30 feet and the storm flag flown in the winter months is 10 feet by 20 feet. Both have 37 stars.\n",
-      "geofence_buffer_in_meters": 10,
-      "id": 109,
-      "latitude": 35.388556,
-      "longitude": -94.430167,
-      "map_thumbnail_image": 244,
-      "media": [
-        195,
-        222
-      ],
-      "name": "Flag Pole and Parade Ground",
-      "name_description": "The flagpole (99 ft.) is a reproduction of the original built in 1846. This height allows the flag to be seen for miles.",
-      "type": "Flag Pole , parade ground, and wayside"
     },
     {
       "audio_description": "Cistern.  1 ½ minutes.  An original cistern from the Second Fort Smith era is located along the northwestern edge of the Parade Ground, between the reconstructed foundations of the two officers’ quarters.  You’ll find it about 20 feet outside the oval walkway that rings the Parade Ground.  The cistern appears as a rough mound of grey stones held together by brown mortar.  It’s about 10 feet in diameter and rises a few feet above the surrounding grass.  \n\nThree crude, dark grey steps are set into the cistern on its north side.  They lead up to a cement square on top of the mound, about 1 ½ by 1 ½ feet in size.  On the south side, about ¾ of the way up the mound, a one-foot hole opens to the hollow space below.  The storage tank below is 22 feet deep.\n\nAs you face the cistern from the Parade Ground, the Fort Smith flagstaff and visitor center building are both located directly behind you.  About 80 feet to your left along the oval walkway is a wayside panel that provides information about the cistern and officers’ quarters. \n\nEnd of description.",
@@ -2242,6 +2232,7 @@
       "type": "Stone Water Collector"
     },
     {
+      "audio_description": "Bastion #3.  1 ¼ minutes.  This is the former site of Bastion #3, one of five pentagon-shaped enclosures that originally stood along the wall surrounding Fort Smith.  The bastion and fort wall no longer exist.  Today, a low stone wall about a foot-and-a-half high and a foot wide traces the footprint of the bastion.  The low bench-like wall has a flat, grey stone top.  Along its base, on the outside, several flat stones stick up from the grass.  So be careful when walking around the bastion.  A three-foot opening in the eastern side of the low bastion wall allows access into the enclosure.\n\nThe bastion is about 20 feet long and 15 feet across at its widest point.  On its northeast edge it abuts the back of the reconstructed gallows.  There, the low, re-created bastion wall merges with a much taller stone wall that forms the back support for the gallows.  A small white wooden door is cut into the center of the wall.  It once provided access into the gallows enclosure, but it’s no longer open.  The shingled roof of the gallows sticks up above the support wall.  \n\nEnd of description.",
       "geofence_buffer_in_meters": 10,
       "id": 103,
       "media": [
@@ -2250,6 +2241,28 @@
       "name": "Bastion #3",
       "name_description": "One of five bastions or gun emplacements that would have defended the fort if attacked",
       "type": "Fort Wall Foundation"
+    },
+    {
+      "audio_description": "Wayside Panel:  Barracks, Courthouse, Jail – Panel Description.  2 ¼ minutes.  Second of two descriptions at this location. This wayside panel shows a modern photograph of the building in front of you.  Three smaller, black-and-white photos to the right of the main image depict the building in earlier periods.  The text reads:\n\n“Barracks, Courthouse, Jail\n\n“The building in front of you is very much as it appeared in the 1890s. First built as a military barracks, it was later converted for use as a courthouse and jail. Over time its appearance changed to accommodate different needs of the people using it.\n\n“Compare these photographs to the building you see today. Notice clues of its former appearance by examining bricked-in windows, remnants of porch foundations, changing roof lines, and brick color variations.”\n\nEnd of text.\n\nParts of the building are labeled in the main photo.  The lower level of the right-hand structure is identified as “First Jail 1872.”  The first floor is labeled “Original Barracks 1851-1887,” and the top floor is labeled “Courthouse Second Floor 1891.”  The left-hand side is identified as the “Second Jail 1888.”\n\nThe historical photograph on the top right shows just the right half of the building without its top floor.  The photo is labeled “Original Barracks 1865.”  The photo below it shows the same structure in 1880.  The first floor is labeled “Courthouse” and the lower level is highlighted and labeled “First Jail.”  The bottom photo, from 1888, shows the same structure, again labeled “Courthouse,” but now the second building appears next to it, identified as “Second Jail.”\n\nAn additional historical photo on the bottom left shows a small gazebo in front of the building.  Text reads:\n\n“Under the circular patch of grass before you is the site of a well. Sheltered by a small gazebo, this well supplied water until the courthouse and new jail were added to the city water system in the late 1880s.” \n\nEnd of description.",
+      "description": "Jail versus prison – A jail is for people who are charged with a crime and need to be held until a trial. People who are convicted, found guilty, and have a sentence of less than one year also go to jail. If a sentence is more than one year, the convict is sent to a prison. Fort Smith was home to two different jails. ",
+      "geofence_buffer_in_meters": 10,
+      "id": 482,
+      "information": [
+        {
+          "description": "In 1872, the basement of the old enlisted men’s barracks was converted to a jail. Porches ran the length of the building shading the windows and adding to the darkness of the cells. There was no heating, cooling, or cross ventilation. The worst time to be in the jail was during the hot, humid Arkansas summer. Although guards threw water across the flagstone floor to “cool” the jail it only added to the humidity making the conditions worse.\n\nHygiene was poor. One fire place had buckets that served as the toilet. The other had smaller pails for washing. There was no place for a prisoner to bathe. The stench from the jail could be smelled upstairs in the courtroom. Judge Parker had sawdust placed in the rafters to absorb some of the odors. The horrid conditions led to the jail’s nickname, “Hell on the Border.”  \n\nJudge Parker tried repeatedly, with no success, to secure funding to build a better jail. Funding did not become available until 1886 when Anna Dawes, a journalist, wrote an article for a Washington D.C. magazine describing the horrid conditions of the jail.\n",
+          "name": "Hell on the Border Jail 1872 - 1888"
+        },
+        {
+          "description": "Second Jail 1888-1917",
+          "name": "Second Jail 1888-1917"
+        }
+      ],
+      "latitude": 35.388278,
+      "longitude": -94.429749,
+      "map_thumbnail_image": 229,
+      "name": "1st and 2nd Jail",
+      "name_description": "First jail in basement and 2nd Jail completed in 1888",
+      "type": "Building"
     }
   ],
   "tours": [],
