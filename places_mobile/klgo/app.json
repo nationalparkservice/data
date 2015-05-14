@@ -71,7 +71,12 @@
       ]
     },
     {
-      "name": "Hidden\n"
+      "name": "Hidden\n",
+      "sites": [
+        487,
+        486,
+        490
+      ]
     }
   ],
   "description": "Welcome to the Park! Use the quick buttons to navigate this app.  Be sure to check out the \"More\" tab for Scavenger Hunts, Postcards, and special events!",
