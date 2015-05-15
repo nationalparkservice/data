@@ -1490,7 +1490,14 @@
     {
       "disp_order": 1,
       "name": "Accessibility",
-      "type": "ACCESSIBILITY"
+      "type": "ACCESSIBILITY",
+      "pages": [
+        {
+          "description": "This audio description includes key sites and wayside panels within Fort Smith National Historic Site as well as several non-Park Service landmarks located near the historic site.  The landscape within the Historic Site includes a few small hills, but is otherwise relatively flat, and most sites can be accessed by cement walkways that wind through the area.  An active railroad track cuts across the path that leads from the area of the first Fort Smith to the area of the second Fort Smith, so please be alert and listen for trains.\n\nAlso please note that dimensions and distances used in these audio descriptions are approximate.\n\nFor more information on Park Accessibility services call 479-783-3961, or visit our reception desk in the Visitor Center. ",
+          "header": "Accessibility ",
+          "name": "Accessibility "
+        }
+      ]
     },
     {
       "disp_order": 2,
