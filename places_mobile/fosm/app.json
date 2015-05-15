@@ -62,6 +62,14 @@
         96,
         131
       ]
+    },
+    {
+      "name": "Hidden",
+      "sites": [
+        485,
+        484,
+        483
+      ]
     }
   ],
   "description": "This is a description for the home screen.",
