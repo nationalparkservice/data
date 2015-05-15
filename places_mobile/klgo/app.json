@@ -2124,7 +2124,14 @@
     {
       "disp_order": 1,
       "name": "Accessibility",
-      "type": "ACCESSIBILITY"
+      "type": "ACCESSIBILITY",
+      "pages": [
+        {
+          "description": "Most of the audio-described sites are located within the town of Skagway.  The landscape of the town is fairly flat, and wooden pedestrian boardwalks line the streets.  Watch your step as boardwalks can be slippery in wet weather.  The roads form a regular grid with the numbered streets running east-west, starting near the port at the southern end of town.  Most of the buildings in the downtown area are colorful wooden clapboard structures two to three stories high. The town is nestled between forested mountains to the east and west, and buffeted by the choppy waters of the Taiya Inlet to the south.  \n\nPlease note that dimensions and distances used in these audio descriptions are approximate.",
+          "header": "Accessibility",
+          "name": "Accessibility"
+        }
+      ]
     },
     {
       "disp_order": 2,
