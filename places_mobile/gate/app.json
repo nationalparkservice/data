@@ -36,10 +36,10 @@
   "sites": [
     {
       "description": "Battery Weed is a substantial three-tiered 19th century fortification guarding the Narrows, the main approach from the Atlantic Ocean to New York City",
-      "geofence_buffer_in_meters": 60.95999804928006,
+      "geofence_buffer_in_meters": 30.47999902464003,
       "id": 497,
-      "latitude": 40.605522,
-      "longitude": -74.054139,
+      "latitude": 40.605417,
+      "longitude": -74.054418,
       "map_thumbnail_image": 486,
       "name": "Battery Weed"
     },
