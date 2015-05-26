@@ -46,12 +46,6 @@
     {
       "geofence_buffer_in_meters": 15.239999512320015,
       "id": 493,
-      "information": [
-        {
-          "description": "Gateway is home to many historic forts and defensive structures.  These historic places are classified by the style used when they were built: before and during the War of 1812 (2nd system), the Civil War (3rd system), Spanish-American War (Endicott system), World War I, World War II (New York Harbor Defenses 1907-1945) and the Cold War (Nike Missiles).",
-          "name": "Historic Forts"
-        }
-      ],
       "latitude": 40.461722,
       "longitude": -74.002037,
       "map_thumbnail_image": 482,
