@@ -36,6 +36,6 @@
   "tours": [],
   "urls": {
     "base_url_icon": "http://www.nps.gov/npmap/projects/places-mobile/icons/",
-    "base_url_media": "http://nationalparkservice.github.io/data/places_mobile/grte/media/"
+    "base_url_media": "http://www.nps.gov/npmap/projects/places-mobile/grte/media/"
   }
 }
