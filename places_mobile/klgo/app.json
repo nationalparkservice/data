@@ -3593,6 +3593,94 @@
   ],
   "tours": [
     {
+      "id": 7,
+      "name": "Good For Families",
+      "primary_image": 76,
+      "sites": [
+        {
+          "id": 15
+        },
+        {
+          "id": 16,
+          "media": [
+            76
+          ]
+        },
+        {
+          "id": 17
+        },
+        {
+          "id": 18
+        },
+        {
+          "id": 19
+        },
+        {
+          "id": 20
+        },
+        {
+          "id": 21
+        },
+        {
+          "id": 22
+        },
+        {
+          "id": 23
+        },
+        {
+          "id": 24
+        },
+        {
+          "id": 25
+        },
+        {
+          "id": 26
+        }
+      ],
+      "tours_sites": []
+    },
+    {
+      "id": 8,
+      "name": "Lesser Known",
+      "primary_image": 43,
+      "sites": [
+        {
+          "id": 26
+        },
+        {
+          "id": 27
+        },
+        {
+          "id": 28
+        },
+        {
+          "id": 29
+        },
+        {
+          "id": 30
+        },
+        {
+          "id": 31
+        },
+        {
+          "id": 32
+        },
+        {
+          "id": 33
+        },
+        {
+          "id": 34
+        },
+        {
+          "id": 35
+        },
+        {
+          "id": 36
+        }
+      ],
+      "tours_sites": []
+    },
+    {
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae vulputate elit. In non feugiat metus, ac commodo felis. Proin ultricies pulvinar dapibus. Vestibulum malesuada posuere laoreet. Nulla ullamcorper nec augue a porta. Nullam ac tristique metus.",
       "id": 2,
       "name": "Explore Dyea Townsite",
@@ -3719,52 +3807,6 @@
           "primary_audio": 13
         }
       ]
-    },
-    {
-      "id": 7,
-      "name": "Good For Families",
-      "sites": [
-        {
-          "id": 15
-        },
-        {
-          "id": 16,
-          "media": [
-            76
-          ]
-        },
-        {
-          "id": 17
-        },
-        {
-          "id": 18
-        },
-        {
-          "id": 19
-        },
-        {
-          "id": 20
-        },
-        {
-          "id": 21
-        },
-        {
-          "id": 22
-        },
-        {
-          "id": 23
-        },
-        {
-          "id": 24
-        },
-        {
-          "id": 25
-        },
-        {
-          "id": 26
-        }
-      ],
-      "tours_sites": []
     }
   ],
   "urls": {
