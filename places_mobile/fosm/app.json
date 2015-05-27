@@ -16,12 +16,7 @@
       ]
     },
     {
-      "name": "Favorites",
-      "sites": [
-        105,
-        106,
-        107
-      ]
+      "name": "Favorites"
     },
     {
       "name": "Nearby"
@@ -2280,7 +2275,165 @@
       "type": "Building"
     }
   ],
-  "tours": [],
+  "tours": [
+    {
+      "id": 12,
+      "name": "Indian Policy",
+      "primary_image": 191,
+      "sites": [
+        {
+          "id": 99,
+          "media": [
+            191,
+            221
+          ]
+        },
+        {
+          "id": 126
+        },
+        {
+          "id": 118,
+          "media": [
+            202,
+            224
+          ]
+        },
+        {
+          "id": 117
+        },
+        {
+          "id": 122,
+          "media": [
+            204
+          ]
+        },
+        {
+          "id": 108
+        },
+        {
+          "id": 124
+        }
+      ],
+      "tours_sites": []
+    },
+    {
+      "id": 9,
+      "name": "First Fort (1817-1824)",
+      "primary_image": 204,
+      "sites": [
+        {
+          "id": 122,
+          "media": [
+            204
+          ]
+        },
+        {
+          "id": 123,
+          "media": [
+            205
+          ]
+        },
+        {
+          "id": 121
+        },
+        {
+          "id": 135,
+          "media": [
+            213,
+            225
+          ]
+        },
+        {
+          "id": 119
+        },
+        {
+          "id": 132,
+          "media": [
+            210
+          ]
+        }
+      ],
+      "tours_sites": []
+    },
+    {
+      "id": 10,
+      "name": "Second Fort (1838-1871)",
+      "primary_image": 201,
+      "sites": [
+        {
+          "id": 94,
+          "media": [
+            186,
+            216
+          ]
+        }
+      ],
+      "tours_sites": [
+        {
+          "id": 94,
+          "primary_audio": 407
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Federal Court (1872-1896)",
+      "primary_image": 209,
+      "sites": [
+        {
+          "id": 483
+        },
+        {
+          "id": 95,
+          "media": [
+            187,
+            217,
+            226
+          ]
+        },
+        {
+          "id": 482
+        },
+        {
+          "id": 97,
+          "media": [
+            189,
+            219,
+            227
+          ]
+        },
+        {
+          "id": 132,
+          "media": [
+            210
+          ]
+        },
+        {
+          "id": 96,
+          "media": [
+            188,
+            218
+          ]
+        },
+        {
+          "id": 131,
+          "media": [
+            209
+          ]
+        }
+      ],
+      "tours_sites": [
+        {
+          "id": 95,
+          "primary_audio": 407
+        },
+        {
+          "id": 96,
+          "primary_audio": 407
+        }
+      ]
+    }
+  ],
   "urls": {
     "base_url_icon": "http://nationalparkservice.github.io/data/places_mobile/icons/",
     "base_url_media": "http://nationalparkservice.github.io/data/places_mobile/fosm/media/"
