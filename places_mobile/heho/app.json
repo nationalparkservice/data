@@ -386,22 +386,6 @@
       "type": "image"
     },
     {
-      "id": 280,
-      "image_1080": "280_1080x810.jpg",
-      "image_1536": "280_1536x1152.jpg",
-      "image_350": "280_350x260.jpg",
-      "image_480": "280_480x320.jpg",
-      "image_640": "280_640x504.jpg",
-      "image_768": "280_768x480.jpg",
-      "image_960": "280_960x640.jpg",
-      "name": "1957-B53B Adm Stauss at Blacksmith Dedication",
-      "relative_url": "280.jpg",
-      "relative_url_@2x": "280@2x.jpg",
-      "relative_url_tablet": "280_tablet.jpg",
-      "relative_url_tablet_@2x": "280_tablet_2x.jpg",
-      "type": "image"
-    },
-    {
       "id": 281,
       "image_1080": "281_1080x810.jpg",
       "image_1536": "281_1536x1152.jpg",
@@ -645,6 +629,24 @@
       "relative_url_@2x": "279@2x.jpg",
       "relative_url_tablet": "279_tablet.jpg",
       "relative_url_tablet_@2x": "279_tablet_2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "A man is standing on a raised platform standing in front of a podium, with four men sitting behind him.",
+      "caption": "Blacksmith shop dedication, 1957",
+      "id": 280,
+      "image_1080": "280_1080x810.jpg",
+      "image_1536": "280_1536x1152.jpg",
+      "image_350": "280_350x260.jpg",
+      "image_480": "280_480x320.jpg",
+      "image_640": "280_640x504.jpg",
+      "image_768": "280_768x480.jpg",
+      "image_960": "280_960x640.jpg",
+      "name": "1957-B53B Adm Stauss at Blacksmith Dedication",
+      "relative_url": "280.jpg",
+      "relative_url_@2x": "280@2x.jpg",
+      "relative_url_tablet": "280_tablet.jpg",
+      "relative_url_tablet_@2x": "280_tablet_2x.jpg",
       "type": "image"
     },
     {
@@ -2151,22 +2153,6 @@
       "type": "image"
     },
     {
-      "id": 380,
-      "image_1080": "380_1080x810.jpg",
-      "image_1536": "380_1536x1152.jpg",
-      "image_350": "380_350x260.jpg",
-      "image_480": "380_480x320.jpg",
-      "image_640": "380_640x504.jpg",
-      "image_768": "380_768x480.jpg",
-      "image_960": "380_960x640.jpg",
-      "name": "Blacksmith Shop",
-      "relative_url": "380.jpg",
-      "relative_url_@2x": "380@2x.jpg",
-      "relative_url_tablet": "380_tablet.jpg",
-      "relative_url_tablet_@2x": "380_tablet_2x.jpg",
-      "type": "image"
-    },
-    {
       "id": 381,
       "image_1080": "381_1080x810.jpg",
       "image_1536": "381_1536x1152.jpg",
@@ -2791,6 +2777,24 @@
       "relative_url": "audio/116_HAYHURST_HOUSE.m4a",
       "transcript": "In 1870, real-estate developer J. M. Wetherell managed to sell three lots to E.S. Hayhurst for $325. This cream-colored house with brown trim, completed in 1872, has an open porch with machine-turned posts framed by decorative brackets. Three steps span the full width of the entryway. Notice how the roof lines intersect with each other. Can you see the similarity between this 1-1/2 story T-shaped building and the Staples house at the North end of Poplar Street? It’s possible that the same carpenters had a hand in building both. \nUnfortunately, Hayhurst and his family were only able to call this place home for less than a decade. When they couldn’t make the payments, the mortgage was foreclosed and the family left town in 1878. Ever the businessman, Wetherell repossessed the lots and turned the house into a rental property. Press 117 # to learn about the Wright House.\n",
       "type": "audio"
+    },
+    {
+      "alt": "A low brown barn-like building with three large doorways has a large horseshoe on its facade. ",
+      "caption": "Blacksmith Shop",
+      "id": 380,
+      "image_1080": "380_1080x810.jpg",
+      "image_1536": "380_1536x1152.jpg",
+      "image_350": "380_350x260.jpg",
+      "image_480": "380_480x320.jpg",
+      "image_640": "380_640x504.jpg",
+      "image_768": "380_768x480.jpg",
+      "image_960": "380_960x640.jpg",
+      "name": "Blacksmith Shop",
+      "relative_url": "380.jpg",
+      "relative_url_@2x": "380@2x.jpg",
+      "relative_url_tablet": "380_tablet.jpg",
+      "relative_url_tablet_@2x": "380_tablet_2x.jpg",
+      "type": "image"
     },
     {
       "id": 346,
