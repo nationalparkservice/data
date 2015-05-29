@@ -71,10 +71,8 @@
   "designation": "National Historic Site",
   "events": [
     {
-      "dates": [
-        "2015-02-11"
-      ],
       "description": "\nOpen daily from 9-5pm. \n",
+      "frequency": "Mon,Tue,Wed,Thur,Fri,Sat,Sun",
       "home_description": "Experience Judge Parkers Courtroom, watch the movie, and discover the exhibits.",
       "title": "Explore the Visitor Center"
     },
