@@ -705,6 +705,24 @@
       "type": "image"
     },
     {
+      "alt": "A mound of gray rocks and mortar covering an underground water tank.",
+      "caption": "The cistern was used to collect fresh water for the Officer’s quarters.   ",
+      "id": 200,
+      "image_1080": "200_1080x810.jpg",
+      "image_1536": "200_1536x1152.jpg",
+      "image_350": "200_350x260.jpg",
+      "image_480": "200_480x320.jpg",
+      "image_640": "200_640x504.jpg",
+      "image_768": "200_768x480.jpg",
+      "image_960": "200_960x640.jpg",
+      "name": "Cistern",
+      "relative_url": "200.jpg",
+      "relative_url_@2x": "200@2x.jpg",
+      "relative_url_tablet": "200_tablet.jpg",
+      "relative_url_tablet_@2x": "200_tablet_2x.jpg",
+      "type": "image"
+    },
+    {
       "alt": "Gazebo with water fountain",
       "caption": "Welcome to Fort Smith",
       "id": 194,
@@ -900,24 +918,6 @@
       "relative_url_@2x": "198@2x.jpg",
       "relative_url_tablet": "198_tablet.jpg",
       "relative_url_tablet_@2x": "198_tablet_2x.jpg",
-      "type": "image"
-    },
-    {
-      "alt": "A mound of gray rocks and mortar covering an underground water tank.",
-      "caption": "The original cistern was used to collect fresh water for the Officer’s quarters.   ",
-      "id": 200,
-      "image_1080": "200_1080x810.jpg",
-      "image_1536": "200_1536x1152.jpg",
-      "image_350": "200_350x260.jpg",
-      "image_480": "200_480x320.jpg",
-      "image_640": "200_640x504.jpg",
-      "image_768": "200_768x480.jpg",
-      "image_960": "200_960x640.jpg",
-      "name": "Cistern",
-      "relative_url": "200.jpg",
-      "relative_url_@2x": "200@2x.jpg",
-      "relative_url_tablet": "200_tablet.jpg",
-      "relative_url_tablet_@2x": "200_tablet_2x.jpg",
       "type": "image"
     },
     {
@@ -1458,6 +1458,91 @@
       "type": "image"
     },
     {
+      "alt": "Cannon in snow",
+      "caption": "Cannon ",
+      "id": 494,
+      "image_1080": "c9984c68-47ad-41f3-b278-e395b5dcf30a_image_1080.jpg",
+      "image_1536": "c9984c68-47ad-41f3-b278-e395b5dcf30a_image_1536.jpg",
+      "image_350": "c9984c68-47ad-41f3-b278-e395b5dcf30a_image_350.jpg",
+      "image_480": "c9984c68-47ad-41f3-b278-e395b5dcf30a_image_480.jpg",
+      "image_640": "c9984c68-47ad-41f3-b278-e395b5dcf30a_image_640.jpg",
+      "image_768": "c9984c68-47ad-41f3-b278-e395b5dcf30a_image_768.jpg",
+      "image_960": "c9984c68-47ad-41f3-b278-e395b5dcf30a_image_960.jpg",
+      "relative_url": "c9984c68-47ad-41f3-b278-e395b5dcf30a.jpg",
+      "relative_url_@2x": "c9984c68-47ad-41f3-b278-e395b5dcf30a@2x.jpg",
+      "relative_url_tablet": "c9984c68-47ad-41f3-b278-e395b5dcf30a_tablet.jpg",
+      "relative_url_tablet_@2x": "c9984c68-47ad-41f3-b278-e395b5dcf30a_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "Cannon and Parade Ground",
+      "caption": "Cannon and Parade Ground",
+      "id": 495,
+      "image_1080": "5875e392-c5d2-44cd-bce2-22f200c345de_image_1080.jpg",
+      "image_1536": "5875e392-c5d2-44cd-bce2-22f200c345de_image_1536.jpg",
+      "image_350": "5875e392-c5d2-44cd-bce2-22f200c345de_image_350.jpg",
+      "image_480": "5875e392-c5d2-44cd-bce2-22f200c345de_image_480.jpg",
+      "image_640": "5875e392-c5d2-44cd-bce2-22f200c345de_image_640.jpg",
+      "image_768": "5875e392-c5d2-44cd-bce2-22f200c345de_image_768.jpg",
+      "image_960": "5875e392-c5d2-44cd-bce2-22f200c345de_image_960.jpg",
+      "relative_url": "5875e392-c5d2-44cd-bce2-22f200c345de.jpg",
+      "relative_url_@2x": "5875e392-c5d2-44cd-bce2-22f200c345de@2x.jpg",
+      "relative_url_tablet": "5875e392-c5d2-44cd-bce2-22f200c345de_tablet.jpg",
+      "relative_url_tablet_@2x": "5875e392-c5d2-44cd-bce2-22f200c345de_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "A mound of gray rocks and mortar covering an underground water tank.",
+      "caption": "Cistern",
+      "id": 496,
+      "image_1080": "fd525b84-0b21-4cc9-a6da-66eb30e19d1c_image_1080.jpg",
+      "image_1536": "fd525b84-0b21-4cc9-a6da-66eb30e19d1c_image_1536.jpg",
+      "image_350": "fd525b84-0b21-4cc9-a6da-66eb30e19d1c_image_350.jpg",
+      "image_480": "fd525b84-0b21-4cc9-a6da-66eb30e19d1c_image_480.jpg",
+      "image_640": "fd525b84-0b21-4cc9-a6da-66eb30e19d1c_image_640.jpg",
+      "image_768": "fd525b84-0b21-4cc9-a6da-66eb30e19d1c_image_768.jpg",
+      "image_960": "fd525b84-0b21-4cc9-a6da-66eb30e19d1c_image_960.jpg",
+      "relative_url": "fd525b84-0b21-4cc9-a6da-66eb30e19d1c.jpg",
+      "relative_url_@2x": "fd525b84-0b21-4cc9-a6da-66eb30e19d1c@2x.jpg",
+      "relative_url_tablet": "fd525b84-0b21-4cc9-a6da-66eb30e19d1c_tablet.jpg",
+      "relative_url_tablet_@2x": "fd525b84-0b21-4cc9-a6da-66eb30e19d1c_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "Cannon in snow",
+      "caption": "Cannon",
+      "id": 497,
+      "image_1080": "c96e30e3-dc77-4f3b-a028-bd679d896340_image_1080.jpg",
+      "image_1536": "c96e30e3-dc77-4f3b-a028-bd679d896340_image_1536.jpg",
+      "image_350": "c96e30e3-dc77-4f3b-a028-bd679d896340_image_350.jpg",
+      "image_480": "c96e30e3-dc77-4f3b-a028-bd679d896340_image_480.jpg",
+      "image_640": "c96e30e3-dc77-4f3b-a028-bd679d896340_image_640.jpg",
+      "image_768": "c96e30e3-dc77-4f3b-a028-bd679d896340_image_768.jpg",
+      "image_960": "c96e30e3-dc77-4f3b-a028-bd679d896340_image_960.jpg",
+      "relative_url": "c96e30e3-dc77-4f3b-a028-bd679d896340.jpg",
+      "relative_url_@2x": "c96e30e3-dc77-4f3b-a028-bd679d896340@2x.jpg",
+      "relative_url_tablet": "c96e30e3-dc77-4f3b-a028-bd679d896340_tablet.jpg",
+      "relative_url_tablet_@2x": "c96e30e3-dc77-4f3b-a028-bd679d896340_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "Northwest side of Commissary with snow on the ground",
+      "caption": "Northwest side",
+      "id": 499,
+      "image_1080": "c214378d-ffc5-41d5-a5af-b9634f3e26f8_image_1080.jpg",
+      "image_1536": "c214378d-ffc5-41d5-a5af-b9634f3e26f8_image_1536.jpg",
+      "image_350": "c214378d-ffc5-41d5-a5af-b9634f3e26f8_image_350.jpg",
+      "image_480": "c214378d-ffc5-41d5-a5af-b9634f3e26f8_image_480.jpg",
+      "image_640": "c214378d-ffc5-41d5-a5af-b9634f3e26f8_image_640.jpg",
+      "image_768": "c214378d-ffc5-41d5-a5af-b9634f3e26f8_image_768.jpg",
+      "image_960": "c214378d-ffc5-41d5-a5af-b9634f3e26f8_image_960.jpg",
+      "relative_url": "c214378d-ffc5-41d5-a5af-b9634f3e26f8.jpg",
+      "relative_url_@2x": "c214378d-ffc5-41d5-a5af-b9634f3e26f8@2x.jpg",
+      "relative_url_tablet": "c214378d-ffc5-41d5-a5af-b9634f3e26f8_tablet.jpg",
+      "relative_url_tablet_@2x": "c214378d-ffc5-41d5-a5af-b9634f3e26f8_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
       "alt": "Aerial view of reproduction gallows a white trimmed structure with a roof over a horizontal beam and platform with stairs.  ",
       "caption": "Aerial view of reproduction gallows.",
       "id": 226,
@@ -1543,6 +1628,40 @@
       "relative_url_@2x": "cb6c8061-5054-4736-9bba-6c6f7eb19330@2x.jpg",
       "relative_url_tablet": "cb6c8061-5054-4736-9bba-6c6f7eb19330_tablet.jpg",
       "relative_url_tablet_@2x": "cb6c8061-5054-4736-9bba-6c6f7eb19330_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "Blockhouse March 2015",
+      "caption": "Blockhouse March 2015",
+      "id": 493,
+      "image_1080": "991c9e51-a6d9-48a0-ac1f-609eb14f5347_image_1080.jpg",
+      "image_1536": "991c9e51-a6d9-48a0-ac1f-609eb14f5347_image_1536.jpg",
+      "image_350": "991c9e51-a6d9-48a0-ac1f-609eb14f5347_image_350.jpg",
+      "image_480": "991c9e51-a6d9-48a0-ac1f-609eb14f5347_image_480.jpg",
+      "image_640": "991c9e51-a6d9-48a0-ac1f-609eb14f5347_image_640.jpg",
+      "image_768": "991c9e51-a6d9-48a0-ac1f-609eb14f5347_image_768.jpg",
+      "image_960": "991c9e51-a6d9-48a0-ac1f-609eb14f5347_image_960.jpg",
+      "relative_url": "991c9e51-a6d9-48a0-ac1f-609eb14f5347.jpg",
+      "relative_url_@2x": "991c9e51-a6d9-48a0-ac1f-609eb14f5347@2x.jpg",
+      "relative_url_tablet": "991c9e51-a6d9-48a0-ac1f-609eb14f5347_tablet.jpg",
+      "relative_url_tablet_@2x": "991c9e51-a6d9-48a0-ac1f-609eb14f5347_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "Two story gray stone building",
+      "caption": "Commissary",
+      "id": 498,
+      "image_1080": "0b92640a-6a8e-4e8d-ab6f-3c833d789eff_image_1080.jpg",
+      "image_1536": "0b92640a-6a8e-4e8d-ab6f-3c833d789eff_image_1536.jpg",
+      "image_350": "0b92640a-6a8e-4e8d-ab6f-3c833d789eff_image_350.jpg",
+      "image_480": "0b92640a-6a8e-4e8d-ab6f-3c833d789eff_image_480.jpg",
+      "image_640": "0b92640a-6a8e-4e8d-ab6f-3c833d789eff_image_640.jpg",
+      "image_768": "0b92640a-6a8e-4e8d-ab6f-3c833d789eff_image_768.jpg",
+      "image_960": "0b92640a-6a8e-4e8d-ab6f-3c833d789eff_image_960.jpg",
+      "relative_url": "0b92640a-6a8e-4e8d-ab6f-3c833d789eff.jpg",
+      "relative_url_@2x": "0b92640a-6a8e-4e8d-ab6f-3c833d789eff@2x.jpg",
+      "relative_url_tablet": "0b92640a-6a8e-4e8d-ab6f-3c833d789eff_tablet.jpg",
+      "relative_url_tablet_@2x": "0b92640a-6a8e-4e8d-ab6f-3c833d789eff_tablet@2x.jpg",
       "type": "image"
     },
     {
@@ -1675,15 +1794,19 @@
       "type": "Public Museum"
     },
     {
-      "description": "During the Civil War artillery was vital to the defense of the fort if attacked. Fort Smith used a variety of cannons including the 12 pound Napoleon. It was capable of firing a 12 pound ball nearly a mile. This cannon is a replica of one of the cannons left by the military when they abandoned the fort in 1871.",
+      "description": "The Commissary is the oldest building in Fort Smith. Over the years its appearance has changed, porches were added and taken away. Take a close look at the stones exterior walls. Those stones offer clues to the changes in the building through time. ",
       "geofence_buffer_in_meters": 10,
-      "id": 485,
-      "latitude": 35.387965,
-      "longitude": -94.430494,
+      "id": 484,
+      "latitude": 35.389518,
+      "longitude": -94.429754,
       "map_thumbnail_image": 229,
-      "name": "Cannon",
-      "name_description": "Replica Civil War era 12 pound Napoleon cannon.",
-      "type": "Replica"
+      "media": [
+        498,
+        499
+      ],
+      "name": "Commissary Outside",
+      "name_description": "Commissary outside",
+      "type": "Historic Building"
     },
     {
       "description": "Between 1872 and 1896 three judges presided over the largest federal jurisdiction of the time. This courtroom was used from 1872 until 1890.",
@@ -1710,15 +1833,19 @@
       "type": "Historic building"
     },
     {
-      "description": "The Commissary is the oldest building in Fort Smith. Over the years its appearance has changed, porches were added and taken away. Take a close look at the stones exterior walls. Those stones offer clues to the changes in the building through time. ",
+      "description": "During the Civil War artillery was vital to the defense of the fort if attacked. Fort Smith used a variety of cannons including the 12 pound Napoleon. It was capable of firing a 12 pound ball nearly a mile. This cannon is a replica of one of the cannons left by the military when they abandoned the fort in 1871.",
       "geofence_buffer_in_meters": 10,
-      "id": 484,
-      "latitude": 35.389518,
-      "longitude": -94.429754,
+      "id": 485,
+      "latitude": 35.387965,
+      "longitude": -94.430494,
       "map_thumbnail_image": 229,
-      "name": "Commissary Outside",
-      "name_description": "Commissary outside",
-      "type": "Historic Building"
+      "media": [
+        495,
+        497
+      ],
+      "name": "Cannon",
+      "name_description": "Replica Civil War era 12 pound Napoleon cannon.",
+      "type": "Replica"
     },
     {
       "audio_description": "Fort Smith Museum of History.  1 ½ minutes.  The Fort Smith History Museum is located at the western corner of Rogers Avenue and 4th Street, just a few hundred feet south of Fort Smith National Historic Site.  The museum is housed in a four-story red-brick building with limestone trim.  The block-like historic structure was built in 1907 as a warehouse for the Atkinson Williams Hardware Company.  \n\nThe main entrance faces Rogers Avenue.  Two steps lead up to the windowed double doors.  The words “Atkinson-Williams” are inscribed in capital letters into the limestone lintel above the doors; a black plaque with bonze-colored letters to the right of the doors reads:  “Fort Smith Museum of History.”  A second entrance on 4th Street is accessible via a ramp that runs along the 4th Street façade from Rogers Avenue.  Inside, the museum has an elevator and ramps for easy access to all exhibits.\n\nLarge storefront-type windows line the first floor of the building above a three-foot limestone base.  There are six such windows on the Rogers Avenue side and four facing 4th Street.  Three rows of smaller windows line the upper floors of the building.  A small parking area is located on the northwest side of the building, accessed from Rogers Avenue.\n\nEnd of description.",
@@ -1874,6 +2001,22 @@
       "services": []
     },
     {
+      "audio_description": "Blockhouse of the First Fort Smith.  One minute.  At the southernmost corner of the ruins of the First Fort Smith is a stone square about 20 feet long on each side.  The grey walls of this stone structure are about two feet thick and more-or-less flush with the grassy landscape around its perimeter.  Inside the square, the walls descend about two feet to the sunken ground within.  This stone structure was the foundation of the Fort Smith blockhouse.  The blockhouse was a two-story wooden structure meant to help protect against attack.\n\nA narrow set of stairs about two feet wide is built into the wall near the northern corner of the blockhouse.  Four stone steps lead down into the square.  A broken line of grey stones about one foot wide extends northeast from the blockhouse.  This is all that remains from the foundation of the outer wall of the fort. \n\nEnd of description.\n",
+      "description": "Built by soldiers, the blockhouse was a two story a defensive structure. The fort had two blockhouses on opposite corners. All that remains is the foundation.",
+      "geofence_buffer_in_meters": 10,
+      "id": 123,
+      "latitude": 35.38744,
+      "longitude": -94.432541,
+      "map_thumbnail_image": 258,
+      "media": [
+        205,
+        493
+      ],
+      "name": "Block House of First Fort",
+      "name_description": "Blockhouse foundation",
+      "type": "Stone foundation"
+    },
+    {
       "audio_description": "Wayside Panel:  Abandoned and Forgotten.  2 ¾ minutes.  This wayside panel is located near the southeast edge of the First Fort Smith.  Only the foundations of the original fort remain today.  From here, they appear as a broken line of stones set into the grass about 15 feet in front of you.  The line terminates to your left in a square stone enclosure about 20 feet wide by 20 feet long and a few feet deep.  This was the blockhouse of the first Fort Smith.  Straight ahead, beyond the fort’s foundations, is a white flagpole considerably shorter than the one at the site of the Second Fort.  It’s topped by an American flag with 15 stars and 15 stripes.  To the right of the flagpole is a replica of a 19th-century cannon.\n\nThe 3 ½-foot by 2-foot panel presents a large color photograph of the first fort area.  It shows the cement path you’re standing on that leads through the site.  It shows the remnants of the fort’s foundations, the trees that dot the grassy expanse, and the Arkansas River in the distance.  Superimposed on the photograph is a line drawing of the fort as it may have originally looked.\n\nThe drawing features a tall wooden fence made of pointed logs.  The fence crosses the modern cement walkway just in front of you.  At the south corner, the fence ends at the block house, a two-story enclosed wooden structure with small rectangular windows.  A similar building sits at the north corner, opposite it.  A couple of additional buildings, along with the flagpole, are visible within the fort.  Text below the image reads:\n\n“Imagine spending 5 years building a home only to abandon it. That is exactly what the first Fort Smith soldiers did. They quarried rock and shaped logs to build the fort by hand. Shortly after completing it in 1824, they were reassigned to repeat the process again at Fort Gibson (Oklahoma).\n\n“After the soldiers abandoned the fort, it was eventually lost to time where it would remain for over 120 years until its discovery by archaeologists in 1958. Based on the original stone foundation and Army plans, this is what the fort may have looked like.”\n\nEnd of description.",
       "description": "Soldiers spent five years building Fort Smith only to abandon it in 1824. They were ordered to go deeper into Indian Territory and build a new fort, Fort Gibson.",
       "geofence_buffer_in_meters": 10,
@@ -1888,6 +2031,22 @@
       "name_description": "A pencil drawing of the first Fort Smith superimposed on a modern picture of the fort’s foundations.",
       "type": "Wayside Exhibit Panel",
       "services": []
+    },
+    {
+      "audio_description": "Cistern.  1 ½ minutes.  An original cistern from the Second Fort Smith era is located along the northwestern edge of the Parade Ground, between the reconstructed foundations of the two officers’ quarters.  You’ll find it about 20 feet outside the oval walkway that rings the Parade Ground.  The cistern appears as a rough mound of grey stones held together by brown mortar.  It’s about 10 feet in diameter and rises a few feet above the surrounding grass.  \n\nThree crude, dark grey steps are set into the cistern on its north side.  They lead up to a cement square on top of the mound, about 1 ½ by 1 ½ feet in size.  On the south side, about ¾ of the way up the mound, a one-foot hole opens to the hollow space below.  The storage tank below is 22 feet deep.\n\nAs you face the cistern from the Parade Ground, the Fort Smith flagstaff and visitor center building are both located directly behind you.  About 80 feet to your left along the oval walkway is a wayside panel that provides information about the cistern and officers’ quarters. \n\nEnd of description.",
+      "description": "Water is the most important necessity of life. For most of the fort’s history, officers and their families did not have easy access to water.  In 1869, the U.S. Army constructed a dome-shaped cistern (underground storage tank) next to the officers’ quarters to make life easier. This allowed them to collect rain water from gutters installed on the roof. \n\nUnder the dome is a storage tank that is 22 feet deep and holds 55,000 gallons of water.  It is one of three structures remaining from the second Fort Smith (1846-1871).\n",
+      "geofence_buffer_in_meters": 10,
+      "id": 115,
+      "latitude": 35.388672,
+      "longitude": -94.430446,
+      "map_thumbnail_image": 250,
+      "media": [
+        200,
+        496
+      ],
+      "name": "Cistern",
+      "name_description": "Before indoor plumbing, soldiers dug this cistern in 1869 to collect rainwater.",
+      "type": "Stone Water Collector"
     },
     {
       "audio_description": "Second Fort Smith Officers Quarters #2.  Two minutes.  This is the site of one of two officers’ quarters constructed and used during the second Fort Smith era, between 1838 and 1871.  Today, all that exists is a cement pad about 75 feet by 20 feet – the same size as the original building foundation. The rectangular pad sits on the northwest edge of the Parade Ground, parallel to the oval-shaped path that rings the Parade Ground.  A short cement walkway connects the officers’ quarters with the oval path.\n\nBrick lines set into the cement pad mark the original locations of the building’s interior walls.  In addition, a dozen brick squares, about 1 foot by 1 foot each, have been placed in a line parallel to the front edge of the cement pad, about six feet in front of it.  They mark the locations of the building’s original columns.  The squares stick up an inch or two from the grass, so watch your step if you venture off the path.\n\nAs you face the front of the building site, the commissary building is about 100 feet to your right.  To the left, about 50 feet away, is another cement pad, representing the site of the other officers’ quarters.  A wayside panel near its south corner provides additional information about the buildings.  In between the two officers’ quarters is a small stone mound.  It’s a cistern built during the second Fort Smith era.  Behind the officers’ quarters, a low white picket fence surrounds a re-creation of the officers’ garden.  A wayside panel near the oval walkway provides additional information about the garden.\n\nEnd of description.",
@@ -1935,21 +2094,6 @@
       "name": "Second Fort Smith Officers Quarters (South)",
       "name_description": "One of two officers quarters constructed and used from 1838-1871. ",
       "type": "Cement foundation"
-    },
-    {
-      "audio_description": "Blockhouse of the First Fort Smith.  One minute.  At the southernmost corner of the ruins of the First Fort Smith is a stone square about 20 feet long on each side.  The grey walls of this stone structure are about two feet thick and more-or-less flush with the grassy landscape around its perimeter.  Inside the square, the walls descend about two feet to the sunken ground within.  This stone structure was the foundation of the Fort Smith blockhouse.  The blockhouse was a two-story wooden structure meant to help protect against attack.\n\nA narrow set of stairs about two feet wide is built into the wall near the northern corner of the blockhouse.  Four stone steps lead down into the square.  A broken line of grey stones about one foot wide extends northeast from the blockhouse.  This is all that remains from the foundation of the outer wall of the fort. \n\nEnd of description.\n",
-      "description": "Built by soldiers, the blockhouse was a two story a defensive structure. The fort had two blockhouses on opposite corners. All that remains is the foundation.",
-      "geofence_buffer_in_meters": 10,
-      "id": 123,
-      "latitude": 35.38744,
-      "longitude": -94.432541,
-      "map_thumbnail_image": 258,
-      "media": [
-        205
-      ],
-      "name": "Block House of First Fort",
-      "name_description": "Blockhouse foundation",
-      "type": "Stone foundation"
     },
     {
       "description": "National Cemetery for veterans from the War of 1812 to present. Open daily 7:30 am to sunset.",
@@ -2339,21 +2483,6 @@
       "type": "Stone Marker"
     },
     {
-      "audio_description": "Cistern.  1 ½ minutes.  An original cistern from the Second Fort Smith era is located along the northwestern edge of the Parade Ground, between the reconstructed foundations of the two officers’ quarters.  You’ll find it about 20 feet outside the oval walkway that rings the Parade Ground.  The cistern appears as a rough mound of grey stones held together by brown mortar.  It’s about 10 feet in diameter and rises a few feet above the surrounding grass.  \n\nThree crude, dark grey steps are set into the cistern on its north side.  They lead up to a cement square on top of the mound, about 1 ½ by 1 ½ feet in size.  On the south side, about ¾ of the way up the mound, a one-foot hole opens to the hollow space below.  The storage tank below is 22 feet deep.\n\nAs you face the cistern from the Parade Ground, the Fort Smith flagstaff and visitor center building are both located directly behind you.  About 80 feet to your left along the oval walkway is a wayside panel that provides information about the cistern and officers’ quarters. \n\nEnd of description.",
-      "description": "Water is the most important necessity of life. For most of the fort’s history, officers and their families did not have easy access to water.  In 1869, the U.S. Army constructed a dome-shaped cistern (underground storage tank) next to the officers’ quarters to make life easier. This allowed them to collect rain water from gutters installed on the roof. \n\nUnder the dome is a storage tank that is 22 feet deep and holds 55,000 gallons of water.  It is one of three structures remaining from the second Fort Smith (1846-1871).\n",
-      "geofence_buffer_in_meters": 10,
-      "id": 115,
-      "latitude": 35.388672,
-      "longitude": -94.430446,
-      "map_thumbnail_image": 250,
-      "media": [
-        200
-      ],
-      "name": "Cistern",
-      "name_description": "Before indoor plumbing, soldiers dug this cistern in 1869 to collect rainwater.",
-      "type": "Stone Water Collector"
-    },
-    {
       "audio_description": "Bastion #3.  1 ¼ minutes.  This is the former site of Bastion #3, one of five pentagon-shaped enclosures that originally stood along the wall surrounding Fort Smith.  The bastion and fort wall no longer exist.  Today, a low stone wall about a foot-and-a-half high and a foot wide traces the footprint of the bastion.  The low bench-like wall has a flat, grey stone top.  Along its base, on the outside, several flat stones stick up from the grass.  So be careful when walking around the bastion.  A three-foot opening in the eastern side of the low bastion wall allows access into the enclosure.\n\nThe bastion is about 20 feet long and 15 feet across at its widest point.  On its northeast edge it abuts the back of the reconstructed gallows.  There, the low, re-created bastion wall merges with a much taller stone wall that forms the back support for the gallows.  A small white wooden door is cut into the center of the wall.  It once provided access into the gallows enclosure, but it’s no longer open.  The shingled roof of the gallows sticks up above the support wall.  \n\nEnd of description.",
       "geofence_buffer_in_meters": 10,
       "id": 103,
@@ -2420,7 +2549,8 @@
         {
           "id": 123,
           "media": [
-            205
+            205,
+            493
           ]
         },
         {
