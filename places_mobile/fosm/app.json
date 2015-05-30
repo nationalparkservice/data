@@ -1543,6 +1543,23 @@
       "type": "image"
     },
     {
+      "alt": "Recreation of Judge Parker's Courtroom ",
+      "caption": "Recreation of Judge Parker's Courtroom ",
+      "id": 501,
+      "image_1080": "37254bb7-7d5b-466f-b283-90db701ea8ff_image_1080.jpg",
+      "image_1536": "37254bb7-7d5b-466f-b283-90db701ea8ff_image_1536.jpg",
+      "image_350": "37254bb7-7d5b-466f-b283-90db701ea8ff_image_350.jpg",
+      "image_480": "37254bb7-7d5b-466f-b283-90db701ea8ff_image_480.jpg",
+      "image_640": "37254bb7-7d5b-466f-b283-90db701ea8ff_image_640.jpg",
+      "image_768": "37254bb7-7d5b-466f-b283-90db701ea8ff_image_768.jpg",
+      "image_960": "37254bb7-7d5b-466f-b283-90db701ea8ff_image_960.jpg",
+      "relative_url": "37254bb7-7d5b-466f-b283-90db701ea8ff.jpg",
+      "relative_url_@2x": "37254bb7-7d5b-466f-b283-90db701ea8ff@2x.jpg",
+      "relative_url_tablet": "37254bb7-7d5b-466f-b283-90db701ea8ff_tablet.jpg",
+      "relative_url_tablet_@2x": "37254bb7-7d5b-466f-b283-90db701ea8ff_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
       "alt": "Aerial view of reproduction gallows a white trimmed structure with a roof over a horizontal beam and platform with stairs.  ",
       "caption": "Aerial view of reproduction gallows.",
       "id": 226,
@@ -1662,6 +1679,23 @@
       "relative_url_@2x": "0b92640a-6a8e-4e8d-ab6f-3c833d789eff@2x.jpg",
       "relative_url_tablet": "0b92640a-6a8e-4e8d-ab6f-3c833d789eff_tablet.jpg",
       "relative_url_tablet_@2x": "0b92640a-6a8e-4e8d-ab6f-3c833d789eff_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "Historic photo - Courthouse 1880's two story brick building with  25 men standing in a crowd on the porch and steps",
+      "caption": "Courthouse 1880's ",
+      "id": 500,
+      "image_1080": "1bfdd120-6e5c-4b1c-b89a-779a085d668c_image_1080.jpg",
+      "image_1536": "1bfdd120-6e5c-4b1c-b89a-779a085d668c_image_1536.jpg",
+      "image_350": "1bfdd120-6e5c-4b1c-b89a-779a085d668c_image_350.jpg",
+      "image_480": "1bfdd120-6e5c-4b1c-b89a-779a085d668c_image_480.jpg",
+      "image_640": "1bfdd120-6e5c-4b1c-b89a-779a085d668c_image_640.jpg",
+      "image_768": "1bfdd120-6e5c-4b1c-b89a-779a085d668c_image_768.jpg",
+      "image_960": "1bfdd120-6e5c-4b1c-b89a-779a085d668c_image_960.jpg",
+      "relative_url": "1bfdd120-6e5c-4b1c-b89a-779a085d668c.jpg",
+      "relative_url_@2x": "1bfdd120-6e5c-4b1c-b89a-779a085d668c@2x.jpg",
+      "relative_url_tablet": "1bfdd120-6e5c-4b1c-b89a-779a085d668c_tablet.jpg",
+      "relative_url_tablet_@2x": "1bfdd120-6e5c-4b1c-b89a-779a085d668c_tablet@2x.jpg",
       "type": "image"
     },
     {
@@ -1829,6 +1863,9 @@
       "latitude": 35.388451,
       "longitude": -94.429663,
       "map_thumbnail_image": 229,
+      "media": [
+        501
+      ],
       "name": "Courthouse",
       "type": "Historic building"
     },
@@ -2604,7 +2641,10 @@
       "primary_image": 209,
       "sites": [
         {
-          "id": 483
+          "id": 483,
+          "media": [
+            501
+          ]
         },
         {
           "id": 95,
