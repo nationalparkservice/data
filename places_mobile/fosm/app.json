@@ -1595,24 +1595,6 @@
       "type": "image"
     },
     {
-      "alt": "View from the commissary of supply wagon, parade ground, visitor center, and flag pole where a large American flag hangs on a windless sunny day.",
-      "caption": "Large American hangs on 99-foot tall flagpole in center of parade ground. View is front the front of the Commissary.   ",
-      "id": 222,
-      "image_1080": "222_1080x810.jpg",
-      "image_1536": "222_1536x1152.jpg",
-      "image_350": "222_350x260.jpg",
-      "image_480": "222_480x320.jpg",
-      "image_640": "222_640x504.jpg",
-      "image_768": "222_768x480.jpg",
-      "image_960": "222_960x640.jpg",
-      "name": "View of supply wagon, parade ground, flag pole, and visitor center.",
-      "relative_url": "222.jpg",
-      "relative_url_@2x": "222@2x.jpg",
-      "relative_url_tablet": "222_tablet.jpg",
-      "relative_url_tablet_@2x": "222_tablet_2x.jpg",
-      "type": "image"
-    },
-    {
       "alt": "A three story red brick building with with rows of white trim windows and small porch with stairs to ground level on a sunny day.",
       "caption": "Visitor Center includes Barracks, Courthouse, Jail  ",
       "id": 186,
@@ -1730,6 +1712,41 @@
       "relative_url_@2x": "ee1d2df1-f2c3-4e57-86e8-a3c7c10046a6@2x.jpg",
       "relative_url_tablet": "ee1d2df1-f2c3-4e57-86e8-a3c7c10046a6_tablet.jpg",
       "relative_url_tablet_@2x": "ee1d2df1-f2c3-4e57-86e8-a3c7c10046a6_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "Foundation stones outline parts of the first Fort Smith. ",
+      "caption": "Fort foundation",
+      "id": 504,
+      "image_1080": "a6a5f298-0cf2-4a2c-a68b-4b1d2dd08661_image_1080.jpg",
+      "image_1536": "a6a5f298-0cf2-4a2c-a68b-4b1d2dd08661_image_1536.jpg",
+      "image_350": "a6a5f298-0cf2-4a2c-a68b-4b1d2dd08661_image_350.jpg",
+      "image_480": "a6a5f298-0cf2-4a2c-a68b-4b1d2dd08661_image_480.jpg",
+      "image_640": "a6a5f298-0cf2-4a2c-a68b-4b1d2dd08661_image_640.jpg",
+      "image_768": "a6a5f298-0cf2-4a2c-a68b-4b1d2dd08661_image_768.jpg",
+      "image_960": "a6a5f298-0cf2-4a2c-a68b-4b1d2dd08661_image_960.jpg",
+      "relative_url": "a6a5f298-0cf2-4a2c-a68b-4b1d2dd08661.jpg",
+      "relative_url_@2x": "a6a5f298-0cf2-4a2c-a68b-4b1d2dd08661@2x.jpg",
+      "relative_url_tablet": "a6a5f298-0cf2-4a2c-a68b-4b1d2dd08661_tablet.jpg",
+      "relative_url_tablet_@2x": "a6a5f298-0cf2-4a2c-a68b-4b1d2dd08661_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "View from the commissary of supply wagon, parade ground, visitor center, and flag pole where a large American flag hangs on a windless sunny day.",
+      "caption": "Large American flag hangs on 99-foot tall flagpole in center of parade ground. ",
+      "id": 222,
+      "image_1080": "222_1080x810.jpg",
+      "image_1536": "222_1536x1152.jpg",
+      "image_350": "222_350x260.jpg",
+      "image_480": "222_480x320.jpg",
+      "image_640": "222_640x504.jpg",
+      "image_768": "222_768x480.jpg",
+      "image_960": "222_960x640.jpg",
+      "name": "View of supply wagon, parade ground, flag pole, and visitor center.",
+      "relative_url": "222.jpg",
+      "relative_url_@2x": "222@2x.jpg",
+      "relative_url_tablet": "222_tablet.jpg",
+      "relative_url_tablet_@2x": "222_tablet_2x.jpg",
       "type": "image"
     },
     {
@@ -2048,6 +2065,7 @@
       "longitude": -94.43256,
       "map_thumbnail_image": 257,
       "media": [
+        504,
         204
       ],
       "name": "First Fort Smith",
@@ -2601,6 +2619,7 @@
         {
           "id": 122,
           "media": [
+            504,
             204
           ]
         },
@@ -2621,6 +2640,7 @@
         {
           "id": 122,
           "media": [
+            504,
             204
           ]
         },
