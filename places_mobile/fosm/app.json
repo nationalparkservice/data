@@ -2416,22 +2416,6 @@
       "type": "Office Building"
     },
     {
-      "audio_description": "Gazebo.  1 ½ minutes.  First of two descriptions at this location. A wooden gazebo stands here, just to the north of the parking area.  This is one of several entrances to Fort Smith National Historic Site.  The six-sided structure is about 15 feet in diameter and open on all sides.  Inside you’ll find a wayside panel and a water fountain.  Six thin wooden support posts are evenly spaced around the edge of the interior.  The gazebo floor is cement; around that, the ground is paved with red bricks arranged in a herringbone pattern.    \n\nAbout 10 feet to the southwest is a free-standing bulletin board that displays park safety messages and program updates.  A paved walkway leads off to the west toward the site of the first Fort Smith.  The walkway crosses an active railroad track after about 40 feet, so please be careful if you take this route.\n\nAbout 150 feet to the northeast of the gazebo is the former barracks-courthouse-jail building—now the park’s visitor center.  It’s a 2 ½-story, red brick building about 150 feet from end to end.  It’s topped with a pitched black-shingle roof.  The Fort Smith flagpole stands just to the left of the building, in the middle of an open area known as the Parade Ground.\n\nEnd of description.",
-      "description": "Welcome to Fort Smith National Historic Site. Established on December 25, 1817 and situated on the edge of the Western Frontier, Fort Smith represented federal law and order in Indian Territory. Here you can explore the foundations of the original Fort Smith on the banks of the Arkansas River, stroll around the parade ground where soldiers trained, visit the oldest standing building in Fort Smith, and see the courtroom where federal judges presided over the Western District of Arkansas and Indian Territory.  ",
-      "geofence_buffer_in_meters": 10,
-      "id": 104,
-      "latitude": 35.387664,
-      "longitude": -94.430854,
-      "map_thumbnail_image": 239,
-      "media": [
-        194
-      ],
-      "name": "Gazebo by Parking Lot ",
-      "name_description": "Welcome to Fort Smith National Historic Site",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
       "audio_description": "Frisco Building.  1 ½ minutes.  The Frisco Building originally served as a passenger depot for the Frisco Railroad.  The building is currently closed to the public.  The structure sits just to the north of the commissary, down a small hill.  The Frisco building is oriented toward the northwest, where a set of railroad tracks still run past from northeast to southwest.  These are active tracks, so watch your step and listen carefully for sound of train horns.  \n\nThe rectangular, two-story building measures about 80 feet across the front and 30 feet along the shorter sides.  It’s constructed mainly of smooth, sandy-grey stone, and has a flat roof.  The windows are trimmed in blue and orange, and thin blue columns create a colonnade along the building’s northwest façade.  Fabric awnings overhang most of the second-floor windows, decorated with vertical orange and beige stripes.  A hard awning shingled with rust-orange tiles protrudes from just above the first floor.  On the southwest side, black lettering above the three second-story windows spell out the words “Frisco” and “Fort Smith.”\n\nA large parking area stretches to the southeast from the back of the building.  Cars enter the parking area from Garrison Avenue, which runs past the building on the northeast side.\n\nEnd of description.",
       "description": "Constructed in 1903, it is the last of several railroad stations that were built in Fort Smith. The station served as a passenger and freight depot for the St. Louis-San Francisco Railway Company. It continued to function as a passenger and freight depot until the 1960s.\n\nThe Frisco Railroad Station is a Classical Revival structure of ashlar limestone, quarried and transported from Missouri. The porch roofs at the east, south, and west elevations consist of heavily-bracketed roofs of mission style red clay tiles. When constructed the building featured a north facade portico of massive ionic columns supporting a deep limestone entablature. This feature was removed and replaced by a contemporary wood portico.\n",
       "geofence_buffer_in_meters": 10,
@@ -2747,6 +2731,22 @@
       "name": "Bastion #3",
       "name_description": "One of five bastions or gun emplacements that would have defended the fort if attacked",
       "type": "Fort Wall Foundation"
+    },
+    {
+      "audio_description": "Gazebo.  1 ½ minutes.  First of two descriptions at this location. A wooden gazebo stands here, just to the north of the parking area.  This is one of several entrances to Fort Smith National Historic Site.  The six-sided structure is about 15 feet in diameter and open on all sides.  Inside you’ll find a wayside panel and a water fountain.  Six thin wooden support posts are evenly spaced around the edge of the interior.  The gazebo floor is cement; around that, the ground is paved with red bricks arranged in a herringbone pattern.    \n\nAbout 10 feet to the southwest is a free-standing bulletin board that displays park safety messages and program updates.  A paved walkway leads off to the west toward the site of the first Fort Smith.  The walkway crosses an active railroad track after about 40 feet, so please be careful if you take this route.\n\nAbout 150 feet to the northeast of the gazebo is the former barracks-courthouse-jail building—now the park’s visitor center.  It’s a 2 ½-story, red brick building about 150 feet from end to end.  It’s topped with a pitched black-shingle roof.  The Fort Smith flagpole stands just to the left of the building, in the middle of an open area known as the Parade Ground.\n\nEnd of description.",
+      "description": "Welcome to Fort Smith National Historic Site. Established on December 25, 1817 and situated on the edge of the Western Frontier, Fort Smith represented federal law and order in Indian Territory. Here you can explore the foundations of the original Fort Smith on the banks of the Arkansas River, stroll around the parade ground where soldiers trained, visit the oldest standing building in Fort Smith, and see the courtroom where federal judges presided over the Western District of Arkansas and Indian Territory.  ",
+      "geofence_buffer_in_meters": 10,
+      "id": 104,
+      "latitude": 35.387664,
+      "longitude": -94.430854,
+      "map_thumbnail_image": 239,
+      "media": [
+        194
+      ],
+      "name": "Park Entrance - South",
+      "name_description": "Welcome to Fort Smith National Historic Site",
+      "type": "Gazebo",
+      "services": []
     }
   ],
   "tours": [
