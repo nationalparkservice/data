@@ -1766,6 +1766,74 @@
       "relative_url_tablet": "203_tablet.jpg",
       "relative_url_tablet_@2x": "203_tablet_2x.jpg",
       "type": "image"
+    },
+    {
+      "alt": "Aerial view of parade ground and buildings in 2004",
+      "caption": "Parade Ground in 2004",
+      "id": 505,
+      "image_1080": "30f2bcb4-d83f-42fe-b8f1-4fde44b62f65_image_1080.jpg",
+      "image_1536": "30f2bcb4-d83f-42fe-b8f1-4fde44b62f65_image_1536.jpg",
+      "image_350": "30f2bcb4-d83f-42fe-b8f1-4fde44b62f65_image_350.jpg",
+      "image_480": "30f2bcb4-d83f-42fe-b8f1-4fde44b62f65_image_480.jpg",
+      "image_640": "30f2bcb4-d83f-42fe-b8f1-4fde44b62f65_image_640.jpg",
+      "image_768": "30f2bcb4-d83f-42fe-b8f1-4fde44b62f65_image_768.jpg",
+      "image_960": "30f2bcb4-d83f-42fe-b8f1-4fde44b62f65_image_960.jpg",
+      "relative_url": "30f2bcb4-d83f-42fe-b8f1-4fde44b62f65.jpg",
+      "relative_url_@2x": "30f2bcb4-d83f-42fe-b8f1-4fde44b62f65@2x.jpg",
+      "relative_url_tablet": "30f2bcb4-d83f-42fe-b8f1-4fde44b62f65_tablet.jpg",
+      "relative_url_tablet_@2x": "30f2bcb4-d83f-42fe-b8f1-4fde44b62f65_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "Headstone Surgeon Thomas Russell with small American flag. ",
+      "caption": "Surgeron Thomas Russell",
+      "id": 506,
+      "image_1080": "fe824960-15b9-479b-ab78-40383b13cdbb_image_1080.jpg",
+      "image_1536": "fe824960-15b9-479b-ab78-40383b13cdbb_image_1536.jpg",
+      "image_350": "fe824960-15b9-479b-ab78-40383b13cdbb_image_350.jpg",
+      "image_480": "fe824960-15b9-479b-ab78-40383b13cdbb_image_480.jpg",
+      "image_640": "fe824960-15b9-479b-ab78-40383b13cdbb_image_640.jpg",
+      "image_768": "fe824960-15b9-479b-ab78-40383b13cdbb_image_768.jpg",
+      "image_960": "fe824960-15b9-479b-ab78-40383b13cdbb_image_960.jpg",
+      "relative_url": "fe824960-15b9-479b-ab78-40383b13cdbb.jpg",
+      "relative_url_@2x": "fe824960-15b9-479b-ab78-40383b13cdbb@2x.jpg",
+      "relative_url_tablet": "fe824960-15b9-479b-ab78-40383b13cdbb_tablet.jpg",
+      "relative_url_tablet_@2x": "fe824960-15b9-479b-ab78-40383b13cdbb_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "Headstone Major William Bradford with small American flag. ",
+      "caption": "Major William Bradford",
+      "id": 507,
+      "image_1080": "0d7acde2-9967-459d-bc1e-cfa00466001f_image_1080.jpg",
+      "image_1536": "0d7acde2-9967-459d-bc1e-cfa00466001f_image_1536.jpg",
+      "image_350": "0d7acde2-9967-459d-bc1e-cfa00466001f_image_350.jpg",
+      "image_480": "0d7acde2-9967-459d-bc1e-cfa00466001f_image_480.jpg",
+      "image_640": "0d7acde2-9967-459d-bc1e-cfa00466001f_image_640.jpg",
+      "image_768": "0d7acde2-9967-459d-bc1e-cfa00466001f_image_768.jpg",
+      "image_960": "0d7acde2-9967-459d-bc1e-cfa00466001f_image_960.jpg",
+      "relative_url": "0d7acde2-9967-459d-bc1e-cfa00466001f.jpg",
+      "relative_url_@2x": "0d7acde2-9967-459d-bc1e-cfa00466001f@2x.jpg",
+      "relative_url_tablet": "0d7acde2-9967-459d-bc1e-cfa00466001f_tablet.jpg",
+      "relative_url_tablet_@2x": "0d7acde2-9967-459d-bc1e-cfa00466001f_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "Headstones of Judge Parker and his wife Mary Parker. Green wreaths with Red bows decorate each grave.",
+      "caption": "Isaac C. Parker and Mary Parker",
+      "id": 508,
+      "image_1080": "e51458a1-dc55-4a53-9079-942a1c66e770_image_1080.jpg",
+      "image_1536": "e51458a1-dc55-4a53-9079-942a1c66e770_image_1536.jpg",
+      "image_350": "e51458a1-dc55-4a53-9079-942a1c66e770_image_350.jpg",
+      "image_480": "e51458a1-dc55-4a53-9079-942a1c66e770_image_480.jpg",
+      "image_640": "e51458a1-dc55-4a53-9079-942a1c66e770_image_640.jpg",
+      "image_768": "e51458a1-dc55-4a53-9079-942a1c66e770_image_768.jpg",
+      "image_960": "e51458a1-dc55-4a53-9079-942a1c66e770_image_960.jpg",
+      "relative_url": "e51458a1-dc55-4a53-9079-942a1c66e770.jpg",
+      "relative_url_@2x": "e51458a1-dc55-4a53-9079-942a1c66e770@2x.jpg",
+      "relative_url_tablet": "e51458a1-dc55-4a53-9079-942a1c66e770_tablet.jpg",
+      "relative_url_tablet_@2x": "e51458a1-dc55-4a53-9079-942a1c66e770_tablet@2x.jpg",
+      "type": "image"
     }
   ],
   "more": [
@@ -1935,22 +2003,6 @@
       ],
       "name": "Courthouse",
       "type": "Historic building"
-    },
-    {
-      "audio_description": "Fort Smith Museum of History.  1 ½ minutes.  The Fort Smith History Museum is located at the western corner of Rogers Avenue and 4th Street, just a few hundred feet south of Fort Smith National Historic Site.  The museum is housed in a four-story red-brick building with limestone trim.  The block-like historic structure was built in 1907 as a warehouse for the Atkinson Williams Hardware Company.  \n\nThe main entrance faces Rogers Avenue.  Two steps lead up to the windowed double doors.  The words “Atkinson-Williams” are inscribed in capital letters into the limestone lintel above the doors; a black plaque with bonze-colored letters to the right of the doors reads:  “Fort Smith Museum of History.”  A second entrance on 4th Street is accessible via a ramp that runs along the 4th Street façade from Rogers Avenue.  Inside, the museum has an elevator and ramps for easy access to all exhibits.\n\nLarge storefront-type windows line the first floor of the building above a three-foot limestone base.  There are six such windows on the Rogers Avenue side and four facing 4th Street.  Three rows of smaller windows line the upper floors of the building.  A small parking area is located on the northwest side of the building, accessed from Rogers Avenue.\n\nEnd of description.",
-      "description": "The museum focuses on the Fort Smith community, includes an operating soda fountain.  \n(479) 783-7841\nwww.fortsmithmuseum.org\n",
-      "geofence_buffer_in_meters": 10,
-      "id": 134,
-      "latitude": 35.387613,
-      "longitude": -94.42822,
-      "map_thumbnail_image": 269,
-      "media": [
-        212
-      ],
-      "name": "Fort Smith Museum of History ",
-      "name_description": "The museum focuses on the Fort Smith community, includes an operating soda fountain.",
-      "type": "Public Museum",
-      "services": []
     },
     {
       "description": "This building has evolved over time. Beginning in 1846 it was barracks and dining hall for the enlisted men. In 1872, it was converted to a courthouse and jail. In 1888 a second more modern jail was built. The last major change occurred between 1996-2000 when the National Park Service renovated the exhibits and it now serves as the park Visitor Center.",
@@ -2155,6 +2207,22 @@
       "services": []
     },
     {
+      "audio_description": "Fort Smith Museum of History.  1 ½ minutes.  The Fort Smith History Museum is located at the western corner of Rogers Avenue and 4th Street, just a few hundred feet south of Fort Smith National Historic Site.  The museum is housed in a four-story red-brick building with limestone trim.  The block-like historic structure was built in 1907 as a warehouse for the Atkinson Williams Hardware Company.  \n\nThe main entrance faces Rogers Avenue.  Two steps lead up to the windowed double doors.  The words “Atkinson-Williams” are inscribed in capital letters into the limestone lintel above the doors; a black plaque with bonze-colored letters to the right of the doors reads:  “Fort Smith Museum of History.”  A second entrance on 4th Street is accessible via a ramp that runs along the 4th Street façade from Rogers Avenue.  Inside, the museum has an elevator and ramps for easy access to all exhibits.\n\nLarge storefront-type windows line the first floor of the building above a three-foot limestone base.  There are six such windows on the Rogers Avenue side and four facing 4th Street.  Three rows of smaller windows line the upper floors of the building.  A small parking area is located on the northwest side of the building, accessed from Rogers Avenue.\n\nEnd of description.",
+      "description": "The museum focuses on the Fort Smith community, includes an operating soda fountain.  \n(479) 783-7841\nwww.fortsmithmuseum.org\n",
+      "geofence_buffer_in_meters": 10,
+      "id": 134,
+      "latitude": 35.387613,
+      "longitude": -94.42822,
+      "map_thumbnail_image": 269,
+      "media": [
+        212
+      ],
+      "name": "Fort Smith Museum of History ",
+      "name_description": "The museum focuses on the Fort Smith community, includes an operating soda fountain.",
+      "type": "Public Museum",
+      "services": []
+    },
+    {
       "audio_description": "Flag of the First Fort Smith.  1 ¼ minutes.  A white flagpole about 25 feet tall stands in the middle of the footprint of the First Fort Smith.  The fort no longer exists; only some of the fort wall’s stone foundations are evident today.  A modern cement walkway circles the site, weaving in and out of the ruined foundations.\n\nThe flagpole—white with a grey wooden knob on top—is a replica of the pole that would have stood in the fort.  Hanging from the top of the staff is an American flag with 15 stars and 15 stripes.  A few feet to the north of the flagpole is a black, six-pound cannon mounted on a metallic-green, two-wheeled fame.  The gun is about 5 feet long.  It points west, toward the Arkansas River and the former Indian Territory –now Oklahoma—in the distance.  This is a replica of the type of cannon that would have been used at the First Fort Smith. \n\nEnd of description.",
       "description": "From 1846-1871 soldiers trained, drilled, and performed ceremonies on the parade ground making it the center of life at the fort. The flagpole in the center of the parade ground is a reproduction of the original built in 1846. This height allows the flag to be seen for miles. \n\nDuring the year two different size flags fly over the fort. The garrison flag flown in the summer is 20 feet by 30 feet and the storm flag flown in the winter months is 10 feet by 20 feet. Both have 37 stars.\n",
       "geofence_buffer_in_meters": 10,
@@ -2163,8 +2231,9 @@
       "longitude": -94.430167,
       "map_thumbnail_image": 244,
       "media": [
-        195,
-        222
+        505,
+        222,
+        195
       ],
       "name": "Flag Pole and Parade Ground",
       "name_description": "The flagpole (99 ft.) is a reproduction of the original built in 1846. This height allows the flag to be seen for miles.",
@@ -2184,35 +2253,6 @@
       "name": "Second Fort Smith Officers Quarters (South)",
       "name_description": "One of two officers quarters constructed and used from 1838-1871. ",
       "type": "Cement foundation"
-    },
-    {
-      "description": "National Cemetery for veterans from the War of 1812 to present. Open daily 7:30 am to sunset.",
-      "geofence_buffer_in_meters": 10,
-      "id": 132,
-      "information": [
-        {
-          "description": "Served in the War of 1812\nFirst commander of Fort Smith \nBuried in Section 2 site 604\n",
-          "name": "Major William Bradford"
-        },
-        {
-          "description": "Surgeon US Army\nWar of 1812\nSurgeon for the Rifle Regiment\nBuried in Section 2 Site 605 ",
-          "name": "Thomas Russell"
-        },
-        {
-          "description": "Corporal US Army\nCongressman\nFederal Judge\nBuried in Section 9 Site 4000\nMary Parker is buried next to her husband in site 3999",
-          "name": "Isaac C. Parker and Mary Parker"
-        }
-      ],
-      "latitude": 35.383797,
-      "longitude": -94.428998,
-      "map_thumbnail_image": 267,
-      "media": [
-        210
-      ],
-      "name": "Fort Smith National Cemetery",
-      "name_description": "National Cemetery for veterans from the War of 1812 to present. Open daily 7:30am to sunset.",
-      "type": "Cemetery",
-      "services": []
     },
     {
       "audio_description": "Gazebo near First Fort Smith.  Two minutes.  First of four descriptions at this location.  This eight-sided gazebo is about 15 feet in diameter and open on all sides.  It’s reached via the cement walkway that leads uphill slightly from the railroad tracks; it sits at the intersection with a smaller paved loop that circles the immediate area of the First Fort Smith.  \n\nEight thin wooden support posts are evenly spaced around the interior of the gazebo, and three wayside panels stand along the western edge of the structure.  These panels are described in the following messages.  To the left of the waysides is a black metal box on a stand.  The box is about a foot on each side and three feet off the ground.  A button on the side of the box triggers an audio message about the site.  Atop the gazebo’s dark, shingled roof is a webcam that faces southwest up the Arkansas River.  The gazebo floor is cement.\n\nIf you face west from the gazebo, foundation stones from the first fort’s southeastern wall are about 30 feet in front of you.  Within the footprint of the former fort is a white flagpole from which hangs an American flag with 15 stars and 15 stripes.  A cannon mounted on a greenish, wheeled frame sits several feet to the right of the flagpole.  A few trees dot the grassy hilltop, widely spaced.  In summer, the landscape generally appears a lush green, but other times of the year, the grass may be yellow or brown.  Beyond the flagpole, the ground slopes down toward the river.  Numerous treetops poke up above the crest of the hill from the riverbank.\n \nEnd of description.\n",
@@ -2245,6 +2285,36 @@
       "name": "Initial Point Marker and Quartermaster Storehouse",
       "name_description": "The quartermaster’s storehouse was built on top of the bastion. Nearby is a survey marker for the Arkansas border.",
       "type": "Stone Markers"
+    },
+    {
+      "description": "National Cemetery for veterans from the War of 1812 to present. Open daily 7:30 am to sunset.",
+      "geofence_buffer_in_meters": 10,
+      "id": 132,
+      "information": [
+        {
+          "description": "Served in the War of 1812\nFirst commander of Fort Smith \nBuried in Section 2 site 604\n",
+          "name": "Major William Bradford"
+        },
+        {
+          "description": "Surgeon US Army\nWar of 1812\nSurgeon for the Rifle Regiment\nBuried in Section 2 Site 605 ",
+          "name": "Thomas Russell"
+        },
+        {
+          "description": "Corporal US Army\nCongressman\nFederal Judge\nBuried in Section 9 Site 4000\nMary Parker is buried next to her husband in site 3999",
+          "name": "Isaac C. Parker and Mary Parker"
+        }
+      ],
+      "latitude": 35.383797,
+      "longitude": -94.428998,
+      "map_thumbnail_image": 267,
+      "media": [
+        210,
+        508
+      ],
+      "name": "Fort Smith National Cemetery",
+      "name_description": "National Cemetery for veterans from the War of 1812 to present. Open daily 7:30am to sunset.",
+      "type": "Cemetery",
+      "services": []
     },
     {
       "description": "US Marshal Museum administrative offices. \nwww.usmarshalsmuseum.com\n(479) 709-3766\n\n",
@@ -2670,7 +2740,8 @@
         {
           "id": 132,
           "media": [
-            210
+            210,
+            508
           ]
         }
       ],
@@ -2734,7 +2805,8 @@
         {
           "id": 132,
           "media": [
-            210
+            210,
+            508
           ]
         },
         {
