@@ -1405,24 +1405,6 @@
       "type": "image"
     },
     {
-      "alt": "Aerial view of the jail, barracks, courthouse, and parade ground on a sunny day.",
-      "caption": "Visitor center and parade ground.",
-      "id": 216,
-      "image_1080": "216_1080x810.jpg",
-      "image_1536": "216_1536x1152.jpg",
-      "image_350": "216_350x260.jpg",
-      "image_480": "216_480x320.jpg",
-      "image_640": "216_640x504.jpg",
-      "image_768": "216_768x480.jpg",
-      "image_960": "216_960x640.jpg",
-      "name": "Aerial view of visitor center and parade ground. ",
-      "relative_url": "216.jpg",
-      "relative_url_@2x": "216@2x.jpg",
-      "relative_url_tablet": "216_tablet.jpg",
-      "relative_url_tablet_@2x": "216_tablet_2x.jpg",
-      "type": "image"
-    },
-    {
       "alt": "Aerial view of bastion #2 on a sunny day",
       "caption": "Aerial view of the location of the Quartermaster’s building.",
       "id": 202,
@@ -1455,6 +1437,24 @@
       "relative_url_@2x": "d80bfe7e-e389-40d0-b078-871a5f734d02@2x.jpg",
       "relative_url_tablet": "d80bfe7e-e389-40d0-b078-871a5f734d02_tablet.jpg",
       "relative_url_tablet_@2x": "d80bfe7e-e389-40d0-b078-871a5f734d02_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "Aerial view of the jail, barracks, courthouse, and parade ground on a sunny day.",
+      "caption": "Visitor Center and Parade Ground.",
+      "id": 216,
+      "image_1080": "216_1080x810.jpg",
+      "image_1536": "216_1536x1152.jpg",
+      "image_350": "216_350x260.jpg",
+      "image_480": "216_480x320.jpg",
+      "image_640": "216_640x504.jpg",
+      "image_768": "216_768x480.jpg",
+      "image_960": "216_960x640.jpg",
+      "name": "Aerial view of visitor center and parade ground. ",
+      "relative_url": "216.jpg",
+      "relative_url_@2x": "216@2x.jpg",
+      "relative_url_tablet": "216_tablet.jpg",
+      "relative_url_tablet_@2x": "216_tablet_2x.jpg",
       "type": "image"
     },
     {
@@ -2038,6 +2038,23 @@
       "relative_url_tablet": "09fabd6e-0553-4482-b6b1-25e063696545_tablet.jpg",
       "relative_url_tablet_@2x": "09fabd6e-0553-4482-b6b1-25e063696545_tablet@2x.jpg",
       "type": "image"
+    },
+    {
+      "alt": "Visitor Center Entrance and Jail Wagon on a cloudy day.",
+      "caption": "Visitor Center Entrance",
+      "id": 521,
+      "image_1080": "6aa6b067-0220-4b1a-bcea-677ebbf79030_image_1080.jpg",
+      "image_1536": "6aa6b067-0220-4b1a-bcea-677ebbf79030_image_1536.jpg",
+      "image_350": "6aa6b067-0220-4b1a-bcea-677ebbf79030_image_350.jpg",
+      "image_480": "6aa6b067-0220-4b1a-bcea-677ebbf79030_image_480.jpg",
+      "image_640": "6aa6b067-0220-4b1a-bcea-677ebbf79030_image_640.jpg",
+      "image_768": "6aa6b067-0220-4b1a-bcea-677ebbf79030_image_768.jpg",
+      "image_960": "6aa6b067-0220-4b1a-bcea-677ebbf79030_image_960.jpg",
+      "relative_url": "6aa6b067-0220-4b1a-bcea-677ebbf79030.jpg",
+      "relative_url_@2x": "6aa6b067-0220-4b1a-bcea-677ebbf79030@2x.jpg",
+      "relative_url_tablet": "6aa6b067-0220-4b1a-bcea-677ebbf79030_tablet.jpg",
+      "relative_url_tablet_@2x": "6aa6b067-0220-4b1a-bcea-677ebbf79030_tablet@2x.jpg",
+      "type": "image"
     }
   ],
   "more": [
@@ -2234,8 +2251,9 @@
       "longitude": -94.429899,
       "map_thumbnail_image": 229,
       "media": [
-        186,
-        216
+        521,
+        216,
+        186
       ],
       "name": "Visitor Center",
       "name_description": "Park’s Visitor Center, served as a soldiers’ barracks (1838-1871), converted to jail and courthouse in 1872.",
@@ -2985,8 +3003,9 @@
         {
           "id": 94,
           "media": [
-            186,
-            216
+            521,
+            216,
+            186
           ]
         }
       ],
