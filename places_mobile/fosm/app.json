@@ -1458,6 +1458,17 @@
       "type": "image"
     },
     {
+      "id": 522,
+      "image_thumbnail_1x": "498_thumbnail.png",
+      "image_thumbnail_2x": "498_thumbnail@2x.png",
+      "image_thumbnail_3x": "498_thumbnail@3x.png",
+      "relative_url": "498.png",
+      "relative_url_@2x": "498@2x.png",
+      "relative_url_tablet": "498_tablet.png",
+      "relative_url_tablet_@2x": "498_tablet@2x.png",
+      "type": "map_thumbnail"
+    },
+    {
       "alt": "1st Jail \"Hell on the Border\"",
       "caption": "1st Jail \"Hell on the Border\"",
       "id": 492,
@@ -2054,6 +2065,23 @@
       "relative_url_@2x": "6aa6b067-0220-4b1a-bcea-677ebbf79030@2x.jpg",
       "relative_url_tablet": "6aa6b067-0220-4b1a-bcea-677ebbf79030_tablet.jpg",
       "relative_url_tablet_@2x": "6aa6b067-0220-4b1a-bcea-677ebbf79030_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "Desperate for Survival wayside with grass, trees and the Arkansas River in the background.",
+      "caption": "Desperate for Survival",
+      "id": 523,
+      "image_1080": "a25f91d9-3b7c-455e-a14d-6f4c64ccb7f9_image_1080.jpg",
+      "image_1536": "a25f91d9-3b7c-455e-a14d-6f4c64ccb7f9_image_1536.jpg",
+      "image_350": "a25f91d9-3b7c-455e-a14d-6f4c64ccb7f9_image_350.jpg",
+      "image_480": "a25f91d9-3b7c-455e-a14d-6f4c64ccb7f9_image_480.jpg",
+      "image_640": "a25f91d9-3b7c-455e-a14d-6f4c64ccb7f9_image_640.jpg",
+      "image_768": "a25f91d9-3b7c-455e-a14d-6f4c64ccb7f9_image_768.jpg",
+      "image_960": "a25f91d9-3b7c-455e-a14d-6f4c64ccb7f9_image_960.jpg",
+      "relative_url": "a25f91d9-3b7c-455e-a14d-6f4c64ccb7f9.jpg",
+      "relative_url_@2x": "a25f91d9-3b7c-455e-a14d-6f4c64ccb7f9@2x.jpg",
+      "relative_url_tablet": "a25f91d9-3b7c-455e-a14d-6f4c64ccb7f9_tablet.jpg",
+      "relative_url_tablet_@2x": "a25f91d9-3b7c-455e-a14d-6f4c64ccb7f9_tablet@2x.jpg",
       "type": "image"
     }
   ],
@@ -2677,6 +2705,20 @@
       "name_description": "Originally, the fort was surrounded by a stone wall 12’ high and 2’ feet thick. This fort was one of the last this type.",
       "type": "Wayside Exhibit Panel",
       "services": []
+    },
+    {
+      "description": "The people living in northwest Arkansas suffered as a result of the war. Federal garrisons held the larger towns but the Confederates usually ruled the countryside. Confederate blockades on the Arkansas River limited supplies reaching the area. Farms and homes were destroyed as result of guerrilla warfare. It is estimated that the US government issued as many rations to refugees as they did to Union troops. Thousands believed leaving the area was the only way to survive.",
+      "geofence_buffer_in_meters": 10,
+      "id": 498,
+      "latitude": 35.390264,
+      "longitude": -94.431693,
+      "map_thumbnail_image": 522,
+      "media": [
+        523
+      ],
+      "name": "Desperate for Survival ",
+      "name_description": "Trail Wayside",
+      "type": "Wayside"
     },
     {
       "audio_description": "Wayside Panel: Welcome to Fort Smith – Panel Description.  Two minutes. Second of two descriptions at this location. This 2-foot by 3 ½-foot panel features one large image—an artist’s conception of Fort Smith at the time of the Council of 1865.  The black-and-white drawing shows a cluster of several large buildings surrounded by a low stone wall.  In the foreground, a dozen or so soldiers and Native Americans congregate on foot and horseback.  Text on the upper left portion of the panel reads:\n\n“Welcome to Fort Smith\n\n“Founded in 1817 by the U.S. Army to contain a volatile Indian feud, Fort Smith later served as a major supply depot for western military posts, and finally as headquarters of the Federal Court for the Western District of Arkansas. For over 80 years, the federal government used Fort Smith to establish and maintain law and order in the Indian Territory (present day Oklahoma).\n\n“Fort Smith National Historic Site preserves the remains of these two military posts and the federal court. During your visit, make sure to visit the following locations at the park:\n\n“Visitor Center - The Barracks/Courthouse/Jail building\nExhibits, restrooms, and bookstore\nThe Gallows\nThe Commissary Storehouse\nThe first Fort Smith\nTrail of Tears Overlook”\n\nEnd of text.\n\nOn the upper right corner of the panel, a modern map of Fort Smith Historic Site is set into the historic drawing.  The map shows your current location as well as 14 key park sites and amenities.  They are:  the Barracks-Courthouse-Jail—now the Visitor Center—the Gallows, the Parking Area, Quartermaster Storehouse Site, Initial Point Marker, Site of the First Fort Smith, Trail of Tears National Historic Trail Overlook, Arkansas River Trail, Commissary Storehouse, Officers’ Quarters, Cistern, Flagpole, Guardhouse, and Memorial Gate. \n\nEnd of description.\n",
