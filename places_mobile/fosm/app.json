@@ -1588,6 +1588,17 @@
       "type": "image"
     },
     {
+      "id": 528,
+      "image_thumbnail_1x": "501_thumbnail.png",
+      "image_thumbnail_2x": "501_thumbnail@2x.png",
+      "image_thumbnail_3x": "501_thumbnail@3x.png",
+      "relative_url": "501.png",
+      "relative_url_@2x": "501@2x.png",
+      "relative_url_tablet": "501_tablet.png",
+      "relative_url_tablet_@2x": "501_tablet@2x.png",
+      "type": "map_thumbnail"
+    },
+    {
       "alt": "Boundary line between Arkansas and Indian Territory.",
       "caption": "Boundary line ",
       "id": 503,
@@ -2082,6 +2093,79 @@
       "relative_url_@2x": "a25f91d9-3b7c-455e-a14d-6f4c64ccb7f9@2x.jpg",
       "relative_url_tablet": "a25f91d9-3b7c-455e-a14d-6f4c64ccb7f9_tablet.jpg",
       "relative_url_tablet_@2x": "a25f91d9-3b7c-455e-a14d-6f4c64ccb7f9_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "id": 524,
+      "image_thumbnail_1x": "499_thumbnail.png",
+      "image_thumbnail_2x": "499_thumbnail@2x.png",
+      "image_thumbnail_3x": "499_thumbnail@3x.png",
+      "relative_url": "499.png",
+      "relative_url_@2x": "499@2x.png",
+      "relative_url_tablet": "499_tablet.png",
+      "relative_url_tablet_@2x": "499_tablet@2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Defending Freedom wayside  with parade ground in background on a sunny day.",
+      "caption": "Defending Freedom",
+      "id": 525,
+      "image_1080": "32066478-d329-4dea-9e8e-10d045b86fcd_image_1080.jpg",
+      "image_1536": "32066478-d329-4dea-9e8e-10d045b86fcd_image_1536.jpg",
+      "image_350": "32066478-d329-4dea-9e8e-10d045b86fcd_image_350.jpg",
+      "image_480": "32066478-d329-4dea-9e8e-10d045b86fcd_image_480.jpg",
+      "image_640": "32066478-d329-4dea-9e8e-10d045b86fcd_image_640.jpg",
+      "image_768": "32066478-d329-4dea-9e8e-10d045b86fcd_image_768.jpg",
+      "image_960": "32066478-d329-4dea-9e8e-10d045b86fcd_image_960.jpg",
+      "relative_url": "32066478-d329-4dea-9e8e-10d045b86fcd.jpg",
+      "relative_url_@2x": "32066478-d329-4dea-9e8e-10d045b86fcd@2x.jpg",
+      "relative_url_tablet": "32066478-d329-4dea-9e8e-10d045b86fcd_tablet.jpg",
+      "relative_url_tablet_@2x": "32066478-d329-4dea-9e8e-10d045b86fcd_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "id": 526,
+      "image_thumbnail_1x": "500_thumbnail.png",
+      "image_thumbnail_2x": "500_thumbnail@2x.png",
+      "image_thumbnail_3x": "500_thumbnail@3x.png",
+      "relative_url": "500.png",
+      "relative_url_@2x": "500@2x.png",
+      "relative_url_tablet": "500_tablet.png",
+      "relative_url_tablet_@2x": "500_tablet@2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Confederates Occupy wayside with parade ground in background on a sunny day.",
+      "caption": "Confederates occupy Fort Smith",
+      "id": 527,
+      "image_1080": "71d2e895-54b0-4410-858b-e2ca8574e494_image_1080.jpg",
+      "image_1536": "71d2e895-54b0-4410-858b-e2ca8574e494_image_1536.jpg",
+      "image_350": "71d2e895-54b0-4410-858b-e2ca8574e494_image_350.jpg",
+      "image_480": "71d2e895-54b0-4410-858b-e2ca8574e494_image_480.jpg",
+      "image_640": "71d2e895-54b0-4410-858b-e2ca8574e494_image_640.jpg",
+      "image_768": "71d2e895-54b0-4410-858b-e2ca8574e494_image_768.jpg",
+      "image_960": "71d2e895-54b0-4410-858b-e2ca8574e494_image_960.jpg",
+      "relative_url": "71d2e895-54b0-4410-858b-e2ca8574e494.jpg",
+      "relative_url_@2x": "71d2e895-54b0-4410-858b-e2ca8574e494@2x.jpg",
+      "relative_url_tablet": "71d2e895-54b0-4410-858b-e2ca8574e494_tablet.jpg",
+      "relative_url_tablet_@2x": "71d2e895-54b0-4410-858b-e2ca8574e494_tablet@2x.jpg",
+      "type": "image"
+    },
+    {
+      "alt": "Low stone wall surrounded by grass on a sunny day.",
+      "caption": "Bastion #5",
+      "id": 529,
+      "image_1080": "050c5d12-4108-4315-bc27-cbcf060578e0_image_1080.jpg",
+      "image_1536": "050c5d12-4108-4315-bc27-cbcf060578e0_image_1536.jpg",
+      "image_350": "050c5d12-4108-4315-bc27-cbcf060578e0_image_350.jpg",
+      "image_480": "050c5d12-4108-4315-bc27-cbcf060578e0_image_480.jpg",
+      "image_640": "050c5d12-4108-4315-bc27-cbcf060578e0_image_640.jpg",
+      "image_768": "050c5d12-4108-4315-bc27-cbcf060578e0_image_768.jpg",
+      "image_960": "050c5d12-4108-4315-bc27-cbcf060578e0_image_960.jpg",
+      "relative_url": "050c5d12-4108-4315-bc27-cbcf060578e0.jpg",
+      "relative_url_@2x": "050c5d12-4108-4315-bc27-cbcf060578e0@2x.jpg",
+      "relative_url_tablet": "050c5d12-4108-4315-bc27-cbcf060578e0_tablet.jpg",
+      "relative_url_tablet_@2x": "050c5d12-4108-4315-bc27-cbcf060578e0_tablet@2x.jpg",
       "type": "image"
     }
   ],
@@ -2801,6 +2885,48 @@
       "name_description": "Guardhouse/jail for 2nd Fort Smith (1838-1871), became the women's jail during Federal Court period (1872-1896).",
       "type": "Historic Site",
       "services": []
+    },
+    {
+      "description": "The 11th Regiment, United States Colored Troops (USCT) were recruited out of Fort Smith in the fall of 1863, shortly after the Union had captured the post from Confederate forces.  Four companies were created on December 19, 1863, with a fifth company in March 1864.  They spent most of their time drilling and performing mundane and routine duties such as working on earthwork fortifications that surrounded the town of Fort Smith, serving as guards, and participating in formal dress parades.  \n\nIn August 1864, the unit experienced its first real military action.  In mid-July the five companies of the 11th USCT, numbering 265 men, moved into Indian Territory.  Their assignment was to guard government livestock and cut hay at Gunther’s Prairie, 12 miles northwest of Fort Smith.   At daybreak on August 24, 300 to 400 Confederate cavalry, both white and Indian, attacked the 11th USCT.  The fighting started at 7:30 and continued for two and a half hours.  According to military records, for one hour the contest was close and fire almost incessant.  The cavalry made three separate charges and were repulsed each time and finally were compelled to retreat.  The Confederate losses are unknown but the victorious 11th USCT had 3 men killed and 14 missing or wounded.  \n",
+      "geofence_buffer_in_meters": 10,
+      "id": 499,
+      "latitude": 35.387922,
+      "longitude": -94.430596,
+      "map_thumbnail_image": 524,
+      "media": [
+        525
+      ],
+      "name": "Defending Freedom ",
+      "name_description": "Wayside",
+      "type": "Wayside"
+    },
+    {
+      "description": "In April 1861, the Union forces abandoned Fort Smith and the next day Arkansas State militia took control of the fort. Confederates remained at Fort Smith until September 1863. Both times the fort changed hands no shots were fired. ",
+      "geofence_buffer_in_meters": 10,
+      "id": 500,
+      "latitude": 35.388129,
+      "longitude": -94.430183,
+      "map_thumbnail_image": 526,
+      "media": [
+        527
+      ],
+      "name": "Confederates Occupy ",
+      "name_description": "Wayside",
+      "type": "Wayside"
+    },
+    {
+      "description": "A bastion is a gun emplacement for defending the fort. Fort Smith had five bastions. Bastion 1 was converted to the Commissary, Bastion 2 was converted to the Quarter Master’s office, and Bastion 3 was converted to the powder magazine. Bastions 4 and 5 were left unfinished as part of the fort wall. Today there is a low stone wall outlining the locations of Bastions 3, 4, and 5.",
+      "geofence_buffer_in_meters": 10,
+      "id": 501,
+      "latitude": 35.387456,
+      "longitude": -94.430231,
+      "map_thumbnail_image": 528,
+      "media": [
+        529
+      ],
+      "name": "Bastion",
+      "name_description": "Stone wall",
+      "type": "Stone wall"
     },
     {
       "audio_description": "\nWayside Panel:  Desperate for Survival.  2 ¼ minutes.  This panel is located beside the cement walkway that runs along the Arkansas River.  As you face the river, the Trail of Tears Overlook is to your left, or south.  Riverfront Park and the Garrison Avenue Bridge are north, to your right.  You’re about 80 feet from the river bank.  A line of thin trees grows right along the water’s edge.  Across the water, about a quarter mile away, is the state of Oklahoma.  \n\nThe panel is 2 feet deep by 3 ½ feet wide and about 2 ½ feet tall.  A full-color illustration shows a young family of four sitting on a bluff above the river.  The father stands, and holding his daughter’s hand, looks out over the water.  He wears a ragged shirt and hat. The mother kneels in front with a baby in her arms.  Down below, at the river’s edge, a mob waits to board an already crowded steamboat.  Text above the image reads:  \n\n“Standing at this spot during the second half of the Civil War you would have witnessed a very chaotic scene. The riverfront landing at the end of Garrison Avenue would have been filled with hundreds, sometimes thousands, of desperate people anxiously waiting and hoping to find available passage on outgoing steamboats.\n\n“Those waiting were orphans, former slaves, pro-Union sympathizers, and rural families seeking protection at Fort Smith from an indiscriminate war. Rogue soldiers (bushwhackers) scavenged the countryside for vengeance, food, livestock, and valuables. Families, like this one, left everything to save themselves and begin a new life—without war.”  End of text.\n\nA quote on the lower left from the Kansas Newspaper Editor reads:\n\n“The people are becoming desperate, exposed as they are to horse thieves on the one hand, and bushwhackers on the other.” \n\nText on the panel’s lower right asks:  “Do you have ancestors who were displaced or suffered hardship as the result of a civil war?” \n\nEnd of description.\n",
