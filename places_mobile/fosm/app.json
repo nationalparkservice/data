@@ -2201,6 +2201,23 @@
       "relative_url_tablet": "050c5d12-4108-4315-bc27-cbcf060578e0_tablet.jpg",
       "relative_url_tablet_@2x": "050c5d12-4108-4315-bc27-cbcf060578e0_tablet@2x.jpg",
       "type": "image"
+    },
+    {
+      "alt": "Artist depiction of soldiers firing a cannon at a saloon with angry owners looking at the damage. The fort is in the background.  ",
+      "caption": "Attack on the Bigelow brother's saloon",
+      "id": 532,
+      "image_1080": "64acf160-d1fc-4b0e-be10-9e2e113778ab_image_1080.jpg",
+      "image_1536": "64acf160-d1fc-4b0e-be10-9e2e113778ab_image_1536.jpg",
+      "image_350": "64acf160-d1fc-4b0e-be10-9e2e113778ab_image_350.jpg",
+      "image_480": "64acf160-d1fc-4b0e-be10-9e2e113778ab_image_480.jpg",
+      "image_640": "64acf160-d1fc-4b0e-be10-9e2e113778ab_image_640.jpg",
+      "image_768": "64acf160-d1fc-4b0e-be10-9e2e113778ab_image_768.jpg",
+      "image_960": "64acf160-d1fc-4b0e-be10-9e2e113778ab_image_960.jpg",
+      "relative_url": "64acf160-d1fc-4b0e-be10-9e2e113778ab.jpg",
+      "relative_url_@2x": "64acf160-d1fc-4b0e-be10-9e2e113778ab@2x.jpg",
+      "relative_url_tablet": "64acf160-d1fc-4b0e-be10-9e2e113778ab_tablet.jpg",
+      "relative_url_tablet_@2x": "64acf160-d1fc-4b0e-be10-9e2e113778ab_tablet@2x.jpg",
+      "type": "image"
     }
   ],
   "more": [
@@ -2986,19 +3003,6 @@
       "services": []
     },
     {
-      "audio_description": "Wayside Panel:  Whiskey War – Area Description.  One minute.  First of two descriptions at this location.  This wayside panel stands along the cement path that winds its way around the area of the First Fort Smith.  If you’re facing the panel, your view is toward the west, overlooking a grassy knoll dotted with several trees widely spaced across the landscape.\n\nAbout 20 feet to your south, the cement walkway intersects with the path connecting the First Fort area and the Second Fort area.  About ten feet behind you, parallel to the walkway, are a series of active railroad tracks, so be alert and watch your step if you venture off the path.\n\nEnd of description.\n",
-      "description": "100 years before Prohibition, it was illegal to sell whiskey to soldiers and Native Americans. These laws did not stop tavern owners in the growing community of Fort Smith. Captain Stuart and the 7th Infantry were tasked with enforcing those laws. During a violent confrontation, Captain Stuart was severely beaten by the Bigelow brothers, owners of one of the taverns. That night soldiers took revenge by firing a cannonball into the tavern.",
-      "geofence_buffer_in_meters": 10,
-      "id": 119,
-      "latitude": 35.388069,
-      "longitude": -94.431625,
-      "map_thumbnail_image": 254,
-      "name": "Whiskey War",
-      "name_description": "Soldiers fired a cannon in to the Bigalows tavern after the Bigalows beat-up the fort’s commander.",
-      "type": "Wayside Exhibit Panel",
-      "services": []
-    },
-    {
       "description": "If you stood here in 1825, on your right would have been Arkansas Territory, and on your left, a vast domain traded to the Choctaw Nation for their ancestral lands in the east.\n\nThe Choctaw Treaty of 1825 placed the Indian Territory's Boundary \"one hundred paces east of Fort Smith, and running thence, due south, to the Red River.\" When government surveyors inspected the eastern boundary in 1857, they discovered the original 1825 survey had not run \"due south,\" but slightly southwest. After lengthy deliberation, Federal court officials decided to keep the 1825 boundary and pay the Choctaw Nation $68,102 for the land between the two survey lines.",
       "geofence_buffer_in_meters": 10,
       "id": 117,
@@ -3075,6 +3079,22 @@
       "name": "Grave markers of Major William Bradford and surgeon Thomas Russell (Do these need AD?)",
       "name_description": "Fort Smith's earliest grave markers, Major William Bradford, and surgeon Thomas Russell. Both War of 1812 Veterans.",
       "type": "Stone Marker"
+    },
+    {
+      "audio_description": "Wayside Panel:  Whiskey War – Area Description.  One minute.  First of two descriptions at this location.  This wayside panel stands along the cement path that winds its way around the area of the First Fort Smith.  If you’re facing the panel, your view is toward the west, overlooking a grassy knoll dotted with several trees widely spaced across the landscape.\n\nAbout 20 feet to your south, the cement walkway intersects with the path connecting the First Fort area and the Second Fort area.  About ten feet behind you, parallel to the walkway, are a series of active railroad tracks, so be alert and watch your step if you venture off the path.\n\nEnd of description.\n",
+      "description": "100 years before Prohibition, it was illegal to sell whiskey to soldiers and Native Americans. These laws did not stop tavern owners in the growing community of Fort Smith. Captain Stuart and the 7th Infantry were tasked with enforcing those laws. During a violent confrontation, Captain Stuart was severely beaten by the Bigelow brothers, owners of one of the taverns. That night soldiers took revenge by firing a cannonball into the tavern.",
+      "geofence_buffer_in_meters": 10,
+      "id": 119,
+      "latitude": 35.388069,
+      "longitude": -94.431625,
+      "map_thumbnail_image": 254,
+      "media": [
+        532
+      ],
+      "name": "Whiskey War",
+      "name_description": "Soldiers fired a cannon in to the Bigalows tavern after the Bigalows beat-up the fort’s commander.",
+      "type": "Wayside Exhibit Panel",
+      "services": []
     },
     {
       "audio_description": "Bastion #3.  1 ¼ minutes.  This is the former site of Bastion #3, one of five pentagon-shaped enclosures that originally stood along the wall surrounding Fort Smith.  The bastion and fort wall no longer exist.  Today, a low stone wall about a foot-and-a-half high and a foot wide traces the footprint of the bastion.  The low bench-like wall has a flat, grey stone top.  Along its base, on the outside, several flat stones stick up from the grass.  So be careful when walking around the bastion.  A three-foot opening in the eastern side of the low bastion wall allows access into the enclosure.\n\nThe bastion is about 20 feet long and 15 feet across at its widest point.  On its northeast edge it abuts the back of the reconstructed gallows.  There, the low, re-created bastion wall merges with a much taller stone wall that forms the back support for the gallows.  A small white wooden door is cut into the center of the wall.  It once provided access into the gallows enclosure, but it’s no longer open.  The shingled roof of the gallows sticks up above the support wall.  \n\nEnd of description.",
@@ -3187,7 +3207,10 @@
           ]
         },
         {
-          "id": 119
+          "id": 119,
+          "media": [
+            532
+          ]
         },
         {
           "id": 132,
