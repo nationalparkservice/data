@@ -72,7 +72,7 @@
         "url1": "http://www.nps.gov/nr/travel/cultural_diversity/River_Raisin_National_Battlefield_Park.html",
         "url2": "http://www.nps.gov/auto/index.htm",
         "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
-        "info1": ""http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-detroit.htm?cs_pgIsInLView=1"
+        "info1": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-detroit.htm?cs_pgIsInLView=1"
       },
       "geometry": {
         "type": "Point",
