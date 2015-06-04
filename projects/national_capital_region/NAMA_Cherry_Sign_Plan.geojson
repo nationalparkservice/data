@@ -1,0 +1,478 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Okame",
+        "number": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0321,
+          38.8808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Autumn-Flowering",
+        "number": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0352167,
+          38.8815167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Weeping",
+        "number": 22,
+        "notes": "The weeping cherry tree is easily identified by its long, drooping branches. They are found throughout the park."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0295667,
+          38.8789167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Takesimensis",
+        "number": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0221,
+          38.8621833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "First Ladies & Cherry Trees Information",
+        "number": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369333,
+          38.8878667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "First Lady Tree and the Science Behind the Trees",
+        "number": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0476833,
+          38.8846667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "National Cherry Blossom Festival - the Organization",
+        "number": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0375667,
+          38.8812333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "National Cherry Blossom Festival - the Event",
+        "number": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03755170106886,
+          38.881197111646706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Predicting Peak Bloom",
+        "number": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03334331512451,
+          38.882481197550774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Usuzumi",
+        "number": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0467667,
+          38.8839167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Yoshino",
+        "number": 14,
+        "notes": "Perhaps the most famous and archetypal cherry tree in D.C., the Yoshino is the most common cherry tree in the park."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0410667,
+          38.8815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Akebono",
+        "number": 15,
+        "notes": "The Akebono is a variant of the more common Yoshino cherry tree."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0492085814476,
+          38.886043109495866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Shirofugen",
+        "number": 16,
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0484667,
+          38.8854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Fugenzo",
+        "notes": "Fugenzo trees are a great example of how cherry trees are grafted, and are easily distinguished by their thick, straight trunks.",
+        "number": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0459333,
+          38.8831833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Afterglow",
+        "number": 18,
+        "notes": "Look for this early bloomer to peak ahead of the Yoshino blossoms."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03428745269774,
+          38.87550927164438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Sargent",
+        "number": 19
+        "notes": "Sargent trees are planted individually, scattered throughout the park. They are easy to distinguish from surrounding cherry varieties by their deep pink colored flowers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04000055789948,
+          38.87944528873767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "large",
+        "marker-symbol": "park2",
+        "name": "Kwanzan",
+        "number": 20,
+        "notes": "A popular tree for landscaping, Kwanzan trees bloom 10-14 days after the Yoshinos, and produce large, dense flowers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03336745500565,
+          38.874665661893836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Japanese Pagoda",
+        "notes": "The Japanese Pagoda was given to the people of Washington by Ryozo Kiranuma, the Mayor of Yokohama, on June 19, 1957. The Japanese Pagoda is a nine-tiered, 3,800 lb. stone structure with four seated Buddhas carved into its base. A brass plaque, located on the pagoda’s base, reads: “May this pagoda symbolize the spirit of friendship between the United States of American and Japan manifested in the treaty of peace, amity and commerce signed at Yokohama on March 31, 1854, by plenipotentiaries of the two countries.”"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04149186611176,
+          38.88287372649676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Japanese Stone Lantern",
+        "notes": "The Japanese Lantern was given to the United States by the Tokyo government in 1954 as a symbol of Japanese-American understanding. The lantern was carved in Tokyo in 1651 to honor the dead warlord Tokugawa Iemitsu, and has a twin on the grounds of a temple in Ueno Park, Tokyo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0413833,
+          38.8866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "First Cherry Trees",
+        "notes": "Plaque commemorates the planting of the first cherry trees on the Tidal Basin in this area in 1912. The stone was moved several feet to the east and rotated 90 degrees in 2013."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0414333,
+          38.8866333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Lady Bird Johnson Tree",
+        "notes": "Plaque commemorates tree planted by First Lady Lady Bird Johnson in 1965."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0415667,
+          38.8866667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "name": "Protect the Trees",
+        "notes": "Picking blossoms, climbing trees, and walking on roots damage the trees. Help protect the trees by staying on paved walkways.",
+        "number": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04067647457123,
+          38.880435000909145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "name": "Protect the Trees",
+        "notes": "Picking blossoms, climbing trees, and walking on roots damage the trees. Help protect the trees by staying on paved walkways.",
+        "number": "E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0410667,
+          38.8868667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "name": "Protect the Trees",
+        "notes": "Picking blossoms, climbing trees, and walking on roots damage the trees. Help protect the trees by staying on paved walkways.",
+        "number": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0376667,
+          38.8867333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "name": "Protect the Trees",
+        "notes": "Picking blossoms, climbing trees, and walking on roots damage the trees. Help protect the trees by staying on paved walkways.",
+        "number": "F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03294634819031,
+          38.8831221878471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "name": "Protect the Trees",
+        "notes": "Picking blossoms, climbing trees, and walking on roots damage the trees. Help protect the trees by staying on paved walkways.",
+        "number": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03339695930481,
+          38.88241229596954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "name": "Protect the Trees",
+        "notes": "Picking blossoms, climbing trees, and walking on roots damage the trees. Help protect the trees by staying on paved walkways.",
+        "number": "D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0378333,
+          38.8806167
+        ]
+      }
+    }
+  ]
+}

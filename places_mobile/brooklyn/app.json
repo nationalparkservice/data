@@ -33,7 +33,7 @@
       "name": "Good for Families"
     },
     {
-      "name": "Lesser Know"
+      "name": "Lesser Known"
     }
   ],
   "description": "Brooklyn is the most populous of New York City's five boroughs.",
@@ -43,20 +43,12 @@
   "max_distance_in_meters": 1609.3,
   "media": [
     {
-      "alt": "Test Data Set Images 10032014/1.jpg",
-      "caption": "Test Data Set Images 10032014/1.jpg",
-      "id": 133,
-      "name": "Test Data Set Images 10032014/1.jpg",
-      "relative_url": "133.png",
-      "relative_url_@2x": "133@2x.png",
-      "relative_url_tablet": "133_tablet.png",
-      "relative_url_tablet_@2x": "133_tablet_2x.png",
-      "type": "image"
-    },
-    {
       "alt": "Map Thumbnail for Red Front Building (id: 150)",
       "caption": "Map Thumbnail for Red Front Building (id: 150)",
       "id": 150,
+      "image_thumbnail_1x": "150_thumbnail.png",
+      "image_thumbnail_2x": "150_thumbnail@2x.png",
+      "image_thumbnail_3x": "150_thumbnail@3x.png",
       "name": "Map Thumbnail for Red Front Building (id: 150)",
       "relative_url": "150.png",
       "relative_url_@2x": "150@2x.png",
@@ -68,6 +60,9 @@
       "alt": "Map Thumbnail for Red Front Building (id: 149)",
       "caption": "Map Thumbnail for Red Front Building (id: 149)",
       "id": 149,
+      "image_thumbnail_1x": "149_thumbnail.png",
+      "image_thumbnail_2x": "149_thumbnail@2x.png",
+      "image_thumbnail_3x": "149_thumbnail@3x.png",
       "name": "Map Thumbnail for Red Front Building (id: 149)",
       "relative_url": "149.png",
       "relative_url_@2x": "149@2x.png",
@@ -76,31 +71,54 @@
       "type": "map_thumbnail"
     },
     {
-      "alt": "Map Thumbnail for Red Front Building (id: 148)",
-      "caption": "Map Thumbnail for Red Front Building (id: 148)",
-      "id": 148,
-      "name": "Map Thumbnail for Red Front Building (id: 148)",
-      "relative_url": "148.png",
-      "relative_url_@2x": "148@2x.png",
-      "relative_url_tablet": "148_tablet.png",
-      "relative_url_tablet_@2x": "148_tablet_2x.png",
+      "alt": "Map Thumbnail for Red Front Building (id: 152)",
+      "caption": "Map Thumbnail for Red Front Building (id: 152)",
+      "id": 152,
+      "image_thumbnail_1x": "152_thumbnail.png",
+      "image_thumbnail_2x": "152_thumbnail@2x.png",
+      "image_thumbnail_3x": "152_thumbnail@3x.png",
+      "name": "Map Thumbnail for Red Front Building (id: 152)",
+      "relative_url": "152.png",
+      "relative_url_@2x": "152@2x.png",
+      "relative_url_tablet": "152_tablet.png",
+      "relative_url_tablet_@2x": "152_tablet_2x.png",
       "type": "map_thumbnail"
     },
     {
-      "alt": "Map Thumbnail for Red Front Building (id: 147)",
-      "caption": "Map Thumbnail for Red Front Building (id: 147)",
-      "id": 147,
-      "name": "Map Thumbnail for Red Front Building (id: 147)",
-      "relative_url": "147.png",
-      "relative_url_@2x": "147@2x.png",
-      "relative_url_tablet": "147_tablet.png",
-      "relative_url_tablet_@2x": "147_tablet_2x.png",
+      "alt": "Map Thumbnail for Red Front Building (id: 153)",
+      "caption": "Map Thumbnail for Red Front Building (id: 153)",
+      "id": 153,
+      "image_thumbnail_1x": "153_thumbnail.png",
+      "image_thumbnail_2x": "153_thumbnail@2x.png",
+      "image_thumbnail_3x": "153_thumbnail@3x.png",
+      "name": "Map Thumbnail for Red Front Building (id: 153)",
+      "relative_url": "153.png",
+      "relative_url_@2x": "153@2x.png",
+      "relative_url_tablet": "153_tablet.png",
+      "relative_url_tablet_@2x": "153_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Red Front Building (id: 151)",
+      "caption": "Map Thumbnail for Red Front Building (id: 151)",
+      "id": 151,
+      "image_thumbnail_1x": "151_thumbnail.png",
+      "image_thumbnail_2x": "151_thumbnail@2x.png",
+      "image_thumbnail_3x": "151_thumbnail@3x.png",
+      "name": "Map Thumbnail for Red Front Building (id: 151)",
+      "relative_url": "151.png",
+      "relative_url_@2x": "151@2x.png",
+      "relative_url_tablet": "151_tablet.png",
+      "relative_url_tablet_@2x": "151_tablet_2x.png",
       "type": "map_thumbnail"
     },
     {
       "alt": "Map Thumbnail for Red Front Building (id: 146)",
       "caption": "Map Thumbnail for Red Front Building (id: 146)",
       "id": 146,
+      "image_thumbnail_1x": "146_thumbnail.png",
+      "image_thumbnail_2x": "146_thumbnail@2x.png",
+      "image_thumbnail_3x": "146_thumbnail@3x.png",
       "name": "Map Thumbnail for Red Front Building (id: 146)",
       "relative_url": "146.png",
       "relative_url_@2x": "146@2x.png",
@@ -112,6 +130,9 @@
       "alt": "Map Thumbnail for Red Front Building (id: 145)",
       "caption": "Map Thumbnail for Red Front Building (id: 145)",
       "id": 145,
+      "image_thumbnail_1x": "145_thumbnail.png",
+      "image_thumbnail_2x": "145_thumbnail@2x.png",
+      "image_thumbnail_3x": "145_thumbnail@3x.png",
       "name": "Map Thumbnail for Red Front Building (id: 145)",
       "relative_url": "145.png",
       "relative_url_@2x": "145@2x.png",
@@ -123,11 +144,53 @@
       "alt": "Map Thumbnail for Red Front Building (id: 144)",
       "caption": "Map Thumbnail for Red Front Building (id: 144)",
       "id": 144,
+      "image_thumbnail_1x": "144_thumbnail.png",
+      "image_thumbnail_2x": "144_thumbnail@2x.png",
+      "image_thumbnail_3x": "144_thumbnail@3x.png",
       "name": "Map Thumbnail for Red Front Building (id: 144)",
       "relative_url": "144.png",
       "relative_url_@2x": "144@2x.png",
       "relative_url_tablet": "144_tablet.png",
       "relative_url_tablet_@2x": "144_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Map Thumbnail for Red Front Building (id: 147)",
+      "caption": "Map Thumbnail for Red Front Building (id: 147)",
+      "id": 147,
+      "image_thumbnail_1x": "147_thumbnail.png",
+      "image_thumbnail_2x": "147_thumbnail@2x.png",
+      "image_thumbnail_3x": "147_thumbnail@3x.png",
+      "name": "Map Thumbnail for Red Front Building (id: 147)",
+      "relative_url": "147.png",
+      "relative_url_@2x": "147@2x.png",
+      "relative_url_tablet": "147_tablet.png",
+      "relative_url_tablet_@2x": "147_tablet_2x.png",
+      "type": "map_thumbnail"
+    },
+    {
+      "alt": "Test Data Set Images 10032014/6.jpg",
+      "caption": "Test Data Set Images 10032014/6.jpg",
+      "id": 138,
+      "name": "Test Data Set Images 10032014/6.jpg",
+      "relative_url": "138.png",
+      "relative_url_@2x": "138@2x.png",
+      "relative_url_tablet": "138_tablet.png",
+      "relative_url_tablet_@2x": "138_tablet_2x.png",
+      "type": "image"
+    },
+    {
+      "alt": "Map Thumbnail for Red Front Building (id: 148)",
+      "caption": "Map Thumbnail for Red Front Building (id: 148)",
+      "id": 148,
+      "image_thumbnail_1x": "148_thumbnail.png",
+      "image_thumbnail_2x": "148_thumbnail@2x.png",
+      "image_thumbnail_3x": "148_thumbnail@3x.png",
+      "name": "Map Thumbnail for Red Front Building (id: 148)",
+      "relative_url": "148.png",
+      "relative_url_@2x": "148@2x.png",
+      "relative_url_tablet": "148_tablet.png",
+      "relative_url_tablet_@2x": "148_tablet_2x.png",
       "type": "map_thumbnail"
     },
     {
@@ -186,14 +249,14 @@
       "type": "image"
     },
     {
-      "alt": "Test Data Set Images 10032014/6.jpg",
-      "caption": "Test Data Set Images 10032014/6.jpg",
-      "id": 138,
-      "name": "Test Data Set Images 10032014/6.jpg",
-      "relative_url": "138.png",
-      "relative_url_@2x": "138@2x.png",
-      "relative_url_tablet": "138_tablet.png",
-      "relative_url_tablet_@2x": "138_tablet_2x.png",
+      "alt": "Test Data Set Images 10032014/1.jpg",
+      "caption": "Test Data Set Images 10032014/1.jpg",
+      "id": 133,
+      "name": "Test Data Set Images 10032014/1.jpg",
+      "relative_url": "133.png",
+      "relative_url_@2x": "133@2x.png",
+      "relative_url_tablet": "133_tablet.png",
+      "relative_url_tablet_@2x": "133_tablet_2x.png",
       "type": "image"
     },
     {
@@ -228,39 +291,6 @@
       "relative_url_tablet": "141_tablet.png",
       "relative_url_tablet_@2x": "141_tablet_2x.png",
       "type": "image"
-    },
-    {
-      "alt": "Map Thumbnail for Red Front Building (id: 152)",
-      "caption": "Map Thumbnail for Red Front Building (id: 152)",
-      "id": 152,
-      "name": "Map Thumbnail for Red Front Building (id: 152)",
-      "relative_url": "152.png",
-      "relative_url_@2x": "152@2x.png",
-      "relative_url_tablet": "152_tablet.png",
-      "relative_url_tablet_@2x": "152_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Red Front Building (id: 153)",
-      "caption": "Map Thumbnail for Red Front Building (id: 153)",
-      "id": 153,
-      "name": "Map Thumbnail for Red Front Building (id: 153)",
-      "relative_url": "153.png",
-      "relative_url_@2x": "153@2x.png",
-      "relative_url_tablet": "153_tablet.png",
-      "relative_url_tablet_@2x": "153_tablet_2x.png",
-      "type": "map_thumbnail"
-    },
-    {
-      "alt": "Map Thumbnail for Red Front Building (id: 151)",
-      "caption": "Map Thumbnail for Red Front Building (id: 151)",
-      "id": 151,
-      "name": "Map Thumbnail for Red Front Building (id: 151)",
-      "relative_url": "151.png",
-      "relative_url_@2x": "151@2x.png",
-      "relative_url_tablet": "151_tablet.png",
-      "relative_url_tablet_@2x": "151_tablet_2x.png",
-      "type": "map_thumbnail"
     }
   ],
   "more": [
@@ -288,6 +318,32 @@
     },
     {
       "geofence_buffer_in_meters": 10,
+      "id": 61,
+      "latitude": 40.680303,
+      "longitude": -73.995048,
+      "map_thumbnail_image": 145,
+      "media": [
+        135,
+        136
+      ],
+      "name": "Lavander Lake Brooklyn",
+      "primary_image": 134
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 66,
+      "latitude": 40.673002,
+      "longitude": -73.984587,
+      "map_thumbnail_image": 150,
+      "media": [
+        141,
+        142
+      ],
+      "name": "Old Stone House",
+      "primary_image": 139
+    },
+    {
+      "geofence_buffer_in_meters": 10,
       "id": 62,
       "latitude": 40.677849,
       "longitude": -73.99611,
@@ -298,32 +354,6 @@
       ],
       "name": "Smith Street Tattoo Parlour",
       "primary_image": 135
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 65,
-      "latitude": 40.677614,
-      "longitude": -73.984118,
-      "map_thumbnail_image": 149,
-      "media": [
-        140,
-        141
-      ],
-      "name": "Royal Palms Shuffleboard Club",
-      "primary_image": 138
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 67,
-      "latitude": 40.67728,
-      "longitude": -74.009447,
-      "map_thumbnail_image": 151,
-      "media": [
-        142,
-        143
-      ],
-      "name": "Red Hook Lobster Pound",
-      "primary_image": 140
     },
     {
       "geofence_buffer_in_meters": 10,
@@ -353,16 +383,42 @@
     },
     {
       "geofence_buffer_in_meters": 10,
-      "id": 61,
-      "latitude": 40.680303,
-      "longitude": -73.995048,
-      "map_thumbnail_image": 145,
+      "id": 65,
+      "latitude": 40.677614,
+      "longitude": -73.984118,
+      "map_thumbnail_image": 149,
       "media": [
-        135,
-        136
+        140,
+        141
       ],
-      "name": "Lavander Lake Brooklyn",
-      "primary_image": 134
+      "name": "Royal Palms Shuffleboard Club",
+      "primary_image": 138
+    },
+    {
+      "geofence_buffer_in_meters": 10,
+      "id": 67,
+      "latitude": 40.67728,
+      "longitude": -74.009447,
+      "map_thumbnail_image": 151,
+      "media": [
+        142,
+        143
+      ],
+      "name": "Red Hook Lobster Pound",
+      "primary_image": 140
+    },
+    {
+      "geofence_buffer_in_meters": 30,
+      "id": 68,
+      "latitude": 40.681048,
+      "longitude": -73.995675,
+      "map_thumbnail_image": 152,
+      "media": [
+        143,
+        144
+      ],
+      "name": "Carroll Park",
+      "primary_image": 141
     },
     {
       "geofence_buffer_in_meters": 10,
@@ -376,37 +432,56 @@
       ],
       "name": "Invisible Dog LLC",
       "primary_image": 142
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 66,
-      "latitude": 40.673002,
-      "longitude": -73.984587,
-      "map_thumbnail_image": 150,
-      "media": [
-        141,
-        142
-      ],
-      "name": "Old Stone House",
-      "primary_image": 139
-    },
-    {
-      "geofence_buffer_in_meters": 10,
-      "id": 68,
-      "latitude": 40.681048,
-      "longitude": -73.995675,
-      "map_thumbnail_image": 152,
-      "media": [
-        143,
-        144
-      ],
-      "name": "Carroll Park",
-      "primary_image": 141
     }
   ],
-  "tours": [],
+  "tours": [
+    {
+      "description": "Brooklyn tour around Gowanus, Carroll Gardens, Red Hook\n",
+      "id": 4,
+      "name": "Brooklyn",
+      "primary_image": 141,
+      "sites": [
+        {
+          "id": 60,
+          "media": [
+            134,
+            135
+          ]
+        },
+        {
+          "id": 61,
+          "media": [
+            135,
+            136
+          ]
+        },
+        {
+          "id": 62,
+          "media": [
+            137,
+            138
+          ]
+        },
+        {
+          "id": 63,
+          "media": [
+            138,
+            139
+          ]
+        },
+        {
+          "id": 64,
+          "media": [
+            130,
+            140
+          ]
+        }
+      ],
+      "tours_sites": []
+    }
+  ],
   "urls": {
-    "base_url_icon": "http://nationalparkservice.github.io/data/places_mobile/icons/",
-    "base_url_media": "http://nationalparkservice.github.io/data/places_mobile/brooklyn/media/"
+    "base_url_icon": "http://www.nps.gov/npmap/projects/places-mobile/icons/",
+    "base_url_media": "http://www.nps.gov/npmap/projects/places-mobile/brooklyn/media/"
   }
 }

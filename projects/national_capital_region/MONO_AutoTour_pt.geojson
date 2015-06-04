@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3987906656541,
+          39.37062576721306
+        ]
+      },
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "car",
+        "name": "Stop 1: Best Farm",
+        "audio": "http://www.nps.gov/mono/learn/photosmultimedia/upload/MONO_Stop1.mp3",
+        "link": "http://www.nps.gov/mono/planyourvisit/auto_tour.htm",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/MONO_BF_355_175px_1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39231138563254,
+          39.3708381036969,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "car",
+        "name": "Stop 2: 14th New Jersey Monument",
+        "audio": "http://www.nps.gov/mono/learn/photosmultimedia/upload/MONO_Stop2.mp3",
+        "link": "http://www.nps.gov/mono/planyourvisit/auto_tour.htm",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/DSCN1010.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.40194822862406,
+          39.36180587020361
+        ]
+      },
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "car",
+        "name": "Stop 3: Worthington Farm",
+        "audio": "http://www.nps.gov/mono/learn/photosmultimedia/upload/MONO_Stop3.mp3",
+        "link": "http://www.nps.gov/mono/planyourvisit/auto_tour.htm",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/MONO_WF_Refurbished_175px.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39064178727106,
+          39.35716129560746
+        ]
+      },
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "car",
+        "name": "Stop 4: Thomas Farm",
+        "audio": "http://www.nps.gov/mono/learn/photosmultimedia/upload/MONO_Stop4.mp3",
+        "link": "http://www.nps.gov/mono/planyourvisit/auto_tour.htm",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/ThomasHouse_175px.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.38650148457806,
+          39.36717125273403
+        ]
+      },
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "car",
+        "name": "Stop 5: Gambrill Mill",
+        "audio": "http://www.nps.gov/mono/learn/photosmultimedia/upload/MONO_Stop5.mp3",
+        "link": "http://www.nps.gov/mono/planyourvisit/auto_tour.htm",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/MONO_GF_Mill1893_175px.jpg"
+      }
+    }
+  ]
+}

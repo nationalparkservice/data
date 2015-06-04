@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "Waterfront",
+        "Green": 1,
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=83"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01757729053497,
+          38.876964683737505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "L'Enfant Plaza",
+        "Green": 1,
+        "Yellow": 1,
+        "Blue": 1,
+        "Orange": 1,
+        "Silver": 1,
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=82"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02176690101624,
+          38.88622683750795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "Smithsonian",
+        "Blue": 1,
+        "Orange": 1,
+        "Silver": 1,
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02839732170105,
+          38.88907873639812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "names": "",
+        "name": "Smithsonian",
+        "Blue": 1,
+        "Orange": 1,
+        "Silver": 1,
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0285153388977,
+          38.88737512681811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "L'Enfant Plaza",
+        "Blue": 1,
+        "Orange": 1,
+        "Silver": 1,
+        "Green": 1,
+        "Yellow": 1,
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=82"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02174007892609,
+          38.884928204323785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "Federal Triangle",
+        "Blue": 1,
+        "Orange": 1,
+        "Silver": 1,
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02894181013107,
+          38.893830255057686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "Metro Center",
+        "Blue": 1,
+        "Orange": 1,
+        "Silver": 1,
+        "Red": 1,
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02933877706528,
+          38.89809925269478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "Metro Center",
+        "Blue": 1,
+        "Orange": 1,
+        "Silver": 1,
+        "Red": 1,
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02789574861526,
+          38.89854388170221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "Arlington Cemetery",
+        "Blue": 1,
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06352889537811,
+          38.88419745174159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "McPherson Square",
+        "Blue": 1,
+        "Orange": 1,
+        "Silver": 1,
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03214168548584,
+          38.90116984976726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "Farragut West",
+        "Blue": 1,
+        "Orange": 1,
+        "Silver": 1,
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03954726457596,
+          38.9014537323899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "Farragut West",
+        "Blue": 1,
+        "Orange": 1,
+        "Silver": 1,
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04191565513611,
+          38.90146834396478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "Farragut North",
+        "Red": 1,
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03914493322372,
+          38.9027353648071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "Farragut North",
+        "Red": 1,
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03979671001434,
+          38.903879212638316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "Foggy Bottom",
+        "Blue": 1,
+        "Orange": 1,
+        "Silver": 1,
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05032706260681,
+          38.900863004773704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "Archives - Navy Memorial - Penn Quarter",
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=81",
+        "Green": 1,
+        "Yellow": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02244013547897,
+          38.89393045941017
+        ]
+      }
+    }
+  ]
+}

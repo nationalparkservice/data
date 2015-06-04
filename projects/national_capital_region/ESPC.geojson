@@ -1,0 +1,369 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Manassas National Battlefield Park",
+        "url": "http://www.nps.gov/mana/",
+        "phase": 2,
+        "completion": "September 2015",
+        "lighting": 1,
+        "water": 1,
+        "solar": 1,
+        "energysavings": 399,
+        "watersavings": 194,
+        "cost": "14,561",
+        "lightingnotes": "Install LED lighting, intelligent lighting controls.",
+        "solarnotes": "Install two roof-mounted solar arrays.",
+        "waternotes": "Install low-flow fixtures."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.52476692199707,
+          38.82814096184424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Catoctin Mountain Park",
+        "url": "http://www.nps.gov/cato/",
+        "phase": 1,
+        "completion": "March 2015",
+        "lighting": 1,
+        "water": "",
+        "solar": "",
+        "mechanical": 1,
+        "cost": "12,666",
+        "energysavings": 372,
+        "lightingnotes": "Install LED lighting, intelligent lighting controls, high-efficiency thermostats.",
+        "mechanicalnotes": "Install programmable thermostats."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.43979454040527,
+          39.638876602080664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Harpers Ferry National Historical Park",
+        "url": "http://www.nps.gov/hafe/",
+        "phase": 1,
+        "completion": "May 2015",
+        "lighting": 1,
+        "water": 1,
+        "solar": "",
+        "mechanical": 1,
+        "cost": "27,637",
+        "energysavings": 752,
+        "watersavings": 463,
+        "lightingnotes": "Install LED lighting, intelligent lighting controls.",
+        "waternotes": "Install low-flow fixtures."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.73350715637207,
+          39.3238739435753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Chesapeake & Ohio Canal National Historical Park",
+        "url": "http://www.nps.gov/choh/",
+        "phase": 1,
+        "completion": "May 2015",
+        "lighting": 1,
+        "water": 1,
+        "mechanical": 1,
+        "energysavings": 621,
+        "watersavings": "1,989",
+        "cost": "41,790",
+        "mechanicalnotes": "Replace boiler, install programmable thermostats.",
+        "lightingnotes": "Install LED lighting, intelligent lighting controls.",
+        "waternotes": "Install low-flow fixtures, ice machine retrofit."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.53944396972656,
+          39.272929228756844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Antietam National Battlefield",
+        "url": "http://www.nps.gov/anti/",
+        "phase": 1,
+        "completion": "June 2015",
+        "lighting": 1,
+        "water": 1,
+        "mechanical": 1,
+        "energysavings": 186,
+        "watersavings": "7,316",
+        "cost": "12,462",
+        "mechanicalnotes": "Replace HVAC unit.",
+        "lightingnotes": "Install LED lighting, intelligent lighting controls.",
+        "waternotes": "Install low-flow fixtures, retrofit ice machine."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.73453712463379,
+          39.46667964565638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Monocacy National Battlefield",
+        "url": "http://www.nps.gov/mono/",
+        "phase": 1,
+        "completion": "June 2015",
+        "lighting": 1,
+        "water": 1,
+        "solar": 1,
+        "energysavings": 206,
+        "watersavings": 15,
+        "cost": "7,783",
+        "lightingnotes": "Install LED lighting, intelligent lighting controls.",
+        "solarnotes": "Install two solar photovoltaic arrays.",
+        "waternotes": "Install low-flow fixtures."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.40254402160645,
+          39.35387875861403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Wolf Trap National Park for the Performing Arts",
+        "url": "http://www.nps.gov/wotr/",
+        "phase": 2,
+        "completion": "April 2015",
+        "lighting": 1,
+        "water": 1,
+        "mechanical": 1,
+        "energysavings": "1,008",
+        "watersavings": 270,
+        "cost": "29,278",
+        "mechanicalnotes": "Replace boiler, upgrade BAS/EMCS, replace HVAC, replace variable speed drives at Filene Center.",
+        "lightingnotes": "Install LED lighting, intelligent lighting controls, retrofit dimmer controls.",
+        "waternotes": "Install low-flow fixtures, upgrade irrigation, retrofit ice machine."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.26465702056885,
+          38.93821528571308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Prince William Forest Park",
+        "url": "http://www.nps.gov/prwi/",
+        "phase": 2,
+        "completion": "August 2015",
+        "lighting": 1,
+        "water": 1,
+        "mechanical": 1,
+        "energysavings": 800,
+        "watersavings": "1,286",
+        "cost": "22,526",
+        "mechanicalnotes": "Replace boiler, replace HVAC.",
+        "lightingnotes": "Install LED lighting, intelligent lighting controls.",
+        "waternotes": "Install low-flow fixtures, retrofit ice machine."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.37936973571777,
+          38.57930553828261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "George Washington Memorial Parkway",
+        "url": "http://www.nps.gov/gwmp/",
+        "phase": 2,
+        "completion": "August 2015",
+        "lighting": 1,
+        "water": 1,
+        "solar": "",
+        "mechanical": 1,
+        "energysavings": "1,615",
+        "watersavings": "4,341",
+        "cost": "90,328",
+        "mechanicalnotes": "Upgrade BAS/EMCS automation, replace HVAC equipment.",
+        "lightingnotes": "Install LED lighting, intelligent lighting controls.",
+        "waternotes": "Install low-flow plumbing; retrofit Theodore Roosevelt Island fountain; upgrade irrigation controls at U.S. Marine Corps Memorial, Jones Point Park, and WIMSA Memorial; retrofit ice machines."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.14977264404297,
+          38.962945988985375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "National Mall and Memorial Parks",
+        "url": "http://www.nps.gov/nama/",
+        "phase": 3,
+        "completion": "November 2015",
+        "lighting": 1,
+        "water": 1,
+        "solar": 1,
+        "mechanical": 1,
+        "solarnotes": "Install 288 kW DC carport system.",
+        "cost": "945,595",
+        "energysavings": "7,442",
+        "lightingnotes": "Install LED lighting, intelligent lighting controls.",
+        "mechanicalnotes": "Boiler replacement/retrofit, programmable thermostats, HVAC unit replacement, FDR Memorial motor replacement.",
+        "waternotes": "Install low-flow plumbing, fountain retrofits, efficient irrigation, ice machine retrofit.",
+        "watersavings": "50,926"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04729080200195,
+          38.88749204250674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "President's Park",
+        "url": "http://www.nps.gov/whho/",
+        "phase": 3,
+        "completion": "November 2015",
+        "lighting": 1,
+        "water": 1,
+        "energysavings": 995,
+        "watersavings": "2,481",
+        "cost": "191,626",
+        "lightingnotes": "Install LED lighting, intelligent lighting controls.",
+        "waternotes": "Install low-flow fixtures, retrofit fountains, upgrade irrigation system, retrofit ice machines."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0365297794342,
+          38.89580091470583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Rock Creek Park",
+        "url": "http://www.nps.gov/rocr/",
+        "phase": 4,
+        "completion": "August 2015",
+        "lighting": 1,
+        "water": 1,
+        "mechanical": 1,
+        "lightingnotes": "Install LED lighting, intelligent lighting controls.",
+        "waternotes": "Install low-flow fixtures.",
+        "watersavings": "11,482",
+        "cost": "179,699",
+        "mechanicalnotes": "High-efficiency chiller, programmable thermostats, Carter Barron Box Office HVAC upgrade, Edgewater Stables gas heaters upgraded to infrared heaters.",
+        "energysavings": "1,923"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04557418823242,
+          38.96741728659455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "National Capital Parks - East",
+        "url": "http://www.nps.gov/nace/",
+        "phase": 4,
+        "completion": "October 2015",
+        "lighting": 1,
+        "water": 1,
+        "mechanical": 1,
+        "energysavings": "2,578",
+        "cost": "128,167",
+        "watersavings": "2,108",
+        "mechanicalnotes": "Install condensing boiler, HVAC replacement, ice machine retrofit.",
+        "waternotes": "Install low-flow fixtures.",
+        "lightingnotes": "Install LED lighting, intelligent lighting controls."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99291706085205,
+          38.866945332336115
+        ]
+      }
+    }
+  ]
+}

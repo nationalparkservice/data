@@ -1,0 +1,1086 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "large",
+        "marker-symbol": "swimming",
+        "name": "Swimming Pool",
+        "url": "http://dpr.dc.gov/page/aquatic-facilities",
+        "notes": "The swimming pool is managed by D.C. Parks & Recreation.",
+        "image": "http://app.dpr.dc.gov/dprmap/details_files/dpr_Logo418x268.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.983000934124,
+          38.87247097674689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "tennis",
+        "name": "Tennis",
+        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98148012161255,
+          38.87318514433754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "soccer",
+        "name": "Soccer Field",
+        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/soccer.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98128700256348,
+          38.87273409195726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000080",
+        "marker-size": "medium",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97728514671326,
+          38.874901623055536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "playground",
+        "name": "Playground",
+        "url": "http://www.nps.gov/anac/planyourvisit/Playgrounds.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97770893573761,
+          38.87489327046143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Picnic Area",
+        "url": "/planyourvisit/Picnicking-and-Grilling.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9780308008194,
+          38.87523990229248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "pitch",
+        "name": "Playing Field",
+        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/flag-football_1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97962403297424,
+          38.87425429410134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97707056999207,
+          38.875148024140486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98193073272705,
+          38.873360552823534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98010683059692,
+          38.874914151944886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9862973690033,
+          38.87226633090987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "pitch",
+        "name": "Fitness Station",
+        "notes": "Equipment includes: combo press & pull, pull-up & dip, sit-up boards, seated lat pull, exercise bike, air strider, squat press, rowing machine, horizontal ladder, accessible multi-gym, push-up bars, horizontal bars, elliptical cross-trainer."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9779074192047,
+          38.87498097265072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97068691253662,
+          38.87893998733463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96910977363586,
+          38.87732801008436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "basketball",
+        "name": "Basketball Courts",
+        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/basketball-thumb_1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97039186954498,
+          38.87761198800467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "large",
+        "marker-symbol": "pitch",
+        "name": "Roller Skating",
+        "url": "http://www.nps.gov/anac/planyourvisit/roller-skating.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/skating-pavilion_1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96995198726654,
+          38.87797531104212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000080",
+        "marker-size": "medium",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96944773197173,
+          38.87790014091093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "playground",
+        "name": "Urban Tree House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96962475776672,
+          38.878614253947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "harbor",
+        "name": "Boat Ramp",
+        "url": "http://www.nps.gov/anac/planyourvisit/Boating-and-Fishing.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97079420089722,
+          38.87987541850582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96982860565184,
+          38.880054986473624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "playground",
+        "name": "Playground",
+        "url": "http://www.nps.gov/anac/planyourvisit/Playgrounds.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96152448654175,
+          38.890865812342376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "tennis",
+        "name": "Tennis Courts",
+        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96044087409973,
+          38.89638542188315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "basketball",
+        "name": "Basketball Courts",
+        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/basketball-thumb_1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9601833820343,
+          38.89600966782142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "police",
+        "name": "U.S. Park Police",
+        "url": "http://www.nps.gov/subjects/uspp/index.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/uspp.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9944244623184,
+          38.86678243834162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Park Headquarters",
+        "url": "http://www.nps.gov/nace/index.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/nps.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99398458003998,
+          38.86592619454117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "heliport",
+        "name": "U.S. Park Police Helicopter Pad",
+        "image": "http://www.nps.gov/common/uploads/photogallery/nri/subject/uspp/F1A6FC3F-AAED-F9E8-066FAAEF31DE710E/F1A6FC3F-AAED-F9E8-066FAAEF31DE710E-small.jpg",
+        "url": "http://www.nps.gov/common/uploads/photogallery/nri/subject/uspp/F1A6FC3F-AAED-F9E8-066FAAEF31DE710E/F1A6FC3F-AAED-F9E8-066FAAEF31DE710E-small.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99230551719666,
+          38.86681585252478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "pitch",
+        "name": "Playing Field",
+        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/flag-football_1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98519229888916,
+          38.871706684183444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "playground",
+        "name": "Playground",
+        "url": "http://www.nps.gov/anac/planyourvisit/Playgrounds.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98223114013672,
+          38.87278420902976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "pitch",
+        "name": "Playing Field",
+        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/flag-football_1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9713306427002,
+          38.87694380285652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "pitch",
+        "name": "Playing Field",
+        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/flag-football_1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9673502445221,
+          38.879858714485756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "entrance",
+        "name": "Park Entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99745535850525,
+          38.86397976782957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "entrance",
+        "name": "Park Entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97653949260712,
+          38.87511043758952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "entrance",
+        "name": "Park Entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99003100395203,
+          38.86874967161696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Anacostia River Trail",
+        "notes": "3.5 miles from park boundary to park boundary.",
+        "url": "http://www.nps.gov/anac/planyourvisit/Anacostia-River-Trail.htm"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -76.96016192436218,
+            38.896742386400284
+          ],
+          [
+            -76.96029603481293,
+            38.89674656141327
+          ],
+          [
+            -76.96048378944396,
+            38.896585823236485
+          ],
+          [
+            -76.96074664592743,
+            38.89651902284821
+          ],
+          [
+            -76.96085125207901,
+            38.89646265997174
+          ],
+          [
+            -76.96091026067734,
+            38.89636454670966
+          ],
+          [
+            -76.9608673453331,
+            38.8962580832294
+          ],
+          [
+            -76.96079224348068,
+            38.896141181969185
+          ],
+          [
+            -76.9607439637184,
+            38.895936604300765
+          ],
+          [
+            -76.96067690849304,
+            38.8955337098225
+          ],
+          [
+            -76.96062862873077,
+            38.89523101557606
+          ],
+          [
+            -76.96044892072678,
+            38.89494293295714
+          ],
+          [
+            -76.96018874645233,
+            38.89456925883369
+          ],
+          [
+            -76.96015655994415,
+            38.894314574784936
+          ],
+          [
+            -76.9602021574974,
+            38.894162181433764
+          ],
+          [
+            -76.960309445858,
+            38.89403066362124
+          ],
+          [
+            -76.9605964422226,
+            38.89380311635456
+          ],
+          [
+            -76.9608673453331,
+            38.893625670732426
+          ],
+          [
+            -76.96115702390671,
+            38.893337581601735
+          ],
+          [
+            -76.96130454540253,
+            38.89306619222131
+          ],
+          [
+            -76.96143597364426,
+            38.89257977635224
+          ],
+          [
+            -76.96143865585327,
+            38.89198897491524
+          ],
+          [
+            -76.96144670248032,
+            38.891807349457615
+          ],
+          [
+            -76.96146816015244,
+            38.891646600101936
+          ],
+          [
+            -76.9618946313858,
+            38.89064660567968
+          ],
+          [
+            -76.96182757616043,
+            38.89042948603261
+          ],
+          [
+            -76.96198046207428,
+            38.89031257517854
+          ],
+          [
+            -76.96210652589798,
+            38.889972279990246
+          ],
+          [
+            -76.96216285228729,
+            38.88926036883284
+          ],
+          [
+            -76.96208775043488,
+            38.88878645334424
+          ],
+          [
+            -76.96213334798813,
+            38.88811837327653
+          ],
+          [
+            -76.96250081062317,
+            38.88729579106264
+          ],
+          [
+            -76.96283608675003,
+            38.88659429210659
+          ],
+          [
+            -76.96409672498703,
+            38.88485930511555
+          ],
+          [
+            -76.96494162082672,
+            38.88372141458798
+          ],
+          [
+            -76.9651535153389,
+            38.88354185588582
+          ],
+          [
+            -76.96519911289215,
+            38.88344581267282
+          ],
+          [
+            -76.96548074483871,
+            38.88324746214804
+          ],
+          [
+            -76.9656041264534,
+            38.88309922086796
+          ],
+          [
+            -76.9656765460968,
+            38.88295724301398
+          ],
+          [
+            -76.96584284305573,
+            38.8828298802859
+          ],
+          [
+            -76.96597158908844,
+            38.88267328645488
+          ],
+          [
+            -76.96624249219894,
+            38.88242273560735
+          ],
+          [
+            -76.96657240390778,
+            38.882216030493026
+          ],
+          [
+            -76.96722686290741,
+            38.88208240262434
+          ],
+          [
+            -76.967875957489,
+            38.88190910360783
+          ],
+          [
+            -76.96812272071838,
+            38.88162096695805
+          ],
+          [
+            -76.96827292442322,
+            38.88066259099914
+          ],
+          [
+            -76.96842312812805,
+            38.880468408674425
+          ],
+          [
+            -76.9695121049881,
+            38.88000069853123
+          ],
+          [
+            -76.96975618600845,
+            38.8796394738583
+          ],
+          [
+            -76.96979373693466,
+            38.87950375313089
+          ],
+          [
+            -76.9698366522789,
+            38.87948078498214
+          ],
+          [
+            -76.97005927562714,
+            38.879505841144045
+          ],
+          [
+            -76.97026312351227,
+            38.87946825689789
+          ],
+          [
+            -76.97045892477036,
+            38.87941396850724
+          ],
+          [
+            -76.97059035301208,
+            38.87928033536891
+          ],
+          [
+            -76.97075128555298,
+            38.87920516661815
+          ],
+          [
+            -76.97092294692993,
+            38.8792239588133
+          ],
+          [
+            -76.97101414203644,
+            38.87921143068375
+          ],
+          [
+            -76.97116702795029,
+            38.87892745915503
+          ],
+          [
+            -76.97164982557297,
+            38.87827599077184
+          ],
+          [
+            -76.97176784276962,
+            38.87807971387024
+          ],
+          [
+            -76.97192877531052,
+            38.877893876729736
+          ],
+          [
+            -76.97202533483504,
+            38.87777276911819
+          ],
+          [
+            -76.97236329317093,
+            38.87752011291932
+          ],
+          [
+            -76.97260469198227,
+            38.87744076615914
+          ],
+          [
+            -76.97289437055588,
+            38.877263279664305
+          ],
+          [
+            -76.97309285402297,
+            38.87709205697862
+          ],
+          [
+            -76.97331547737122,
+            38.877033590601215
+          ],
+          [
+            -76.97443932294846,
+            38.8766869675187
+          ],
+          [
+            -76.97476118803024,
+            38.87658882694123
+          ],
+          [
+            -76.97491407394409,
+            38.876505302938774
+          ],
+          [
+            -76.97585821151733,
+            38.87619835138646
+          ],
+          [
+            -76.97732269763945,
+            38.875799521198644
+          ],
+          [
+            -76.97796106338501,
+            38.875638735620804
+          ],
+          [
+            -76.97925925254822,
+            38.87526704808735
+          ],
+          [
+            -76.97933703660964,
+            38.87521066834788
+          ],
+          [
+            -76.98109924793243,
+            38.874600929048796
+          ],
+          [
+            -76.98275417089462,
+            38.873976567291
+          ],
+          [
+            -76.98386192321777,
+            38.87348375614416
+          ],
+          [
+            -76.98537200689316,
+            38.8727549740751
+          ],
+          [
+            -76.98568850755692,
+            38.872581652311204
+          ],
+          [
+            -76.98576897382736,
+            38.872583740527745
+          ],
+          [
+            -76.9861176609993,
+            38.872406241902986
+          ],
+          [
+            -76.98618471622467,
+            38.87233106588123
+          ],
+          [
+            -76.98737293481827,
+            38.87171086066786
+          ],
+          [
+            -76.98841899633408,
+            38.87118253343987
+          ],
+          [
+            -76.9892156124115,
+            38.870727291809175
+          ],
+          [
+            -76.98997467756271,
+            38.8702365464188
+          ],
+          [
+            -76.99086785316467,
+            38.86950564274822
+          ],
+          [
+            -76.99148207902908,
+            38.8689209144007
+          ],
+          [
+            -76.99173152446747,
+            38.86875802493306
+          ],
+          [
+            -76.99219018220901,
+            38.868545015066005
+          ],
+          [
+            -76.99269443750381,
+            38.86834244626702
+          ],
+          [
+            -76.99387729167938,
+            38.868123170112334
+          ],
+          [
+            -76.99423134326935,
+            38.86810855167797
+          ],
+          [
+            -76.9958809018135,
+            38.8682067039653
+          ],
+          [
+            -76.99644684791565,
+            38.868317386169295
+          ],
+          [
+            -76.99894934892654,
+            38.86891882607656
+          ],
+          [
+            -77.00006514787673,
+            38.86925922210243
+          ],
+          [
+            -77.00052112340927,
+            38.86939078577385
+          ],
+          [
+            -77.00057476758957,
+            38.869453435055604
+          ],
+          [
+            -77.00060963630676,
+            38.869455523364046
+          ],
+          [
+            -77.00069814920425,
+            38.869211190860135
+          ],
+          [
+            -77.00077593326569,
+            38.86912765818751
+          ],
+          [
+            -77.00086712837219,
+            38.86909842172893
+          ],
+          [
+            -77.0008134841919,
+            38.869031595492665
+          ],
+          [
+            -77.00084567070007,
+            38.86882902808023
+          ],
+          [
+            -77.00098782777786,
+            38.86869119837681
+          ],
+          [
+            -77.00107634067535,
+            38.8686222834249
+          ],
+          [
+            -77.00154840946198,
+            38.86838003639705
+          ],
+          [
+            -77.00170934200287,
+            38.86823594079064
+          ],
+          [
+            -77.00195074081421,
+            38.868106463329966
+          ],
+          [
+            -77.00233161449432,
+            38.86795610211192
+          ],
+          [
+            -77.00269639492035,
+            38.86790180492724
+          ],
+          [
+            -77.00313091278076,
+            38.86796445552127
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "pitch",
+        "name": "Playing Field",
+        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/flag-football_1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96004122495651,
+          38.895754988938066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "soccer",
+        "name": "Soccer Field",
+        "url": "http://www.nps.gov/anac/planyourvisit/Sports.htm",
+        "image": "http://www.nps.gov/anac/planyourvisit/images/soccer.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99120581150055,
+          38.86821923403476
+        ]
+      }
+    }
+  ]
+}

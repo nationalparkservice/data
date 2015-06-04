@@ -1,0 +1,625 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "Cherry Blossom Shuttle Stop",
+        "notes": "Fee: $1 per ride. During the festival, the shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding. The bus runs a loop from the Jefferson Memorial around Hains Point."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03194856643677,
+          38.880693910679234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "Cherry Blossom Shuttle Stop",
+        "notes": "Fee: $1 per ride. During the festival, the shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding. The bus runs a loop from the Jefferson Memorial around Hains Point."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0372700691223,
+          38.8799756425438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "Cherry Blossom Shuttle Stop",
+        "notes": "Fee: $1 per ride. During the festival, the shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding. The bus runs a loop from the Jefferson Memorial around Hains Point."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02658414840698,
+          38.876050095400004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "Cherry Blossom Shuttle Stop",
+        "notes": "Fee: $1 per ride. During the festival, the shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding. The bus runs a loop from the Jefferson Memorial around Hains Point."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02239453792572,
+          38.86928845849491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "Cherry Blossom Shuttle Stop",
+        "notes": "Fee: $1 per ride. During the festival, the shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding. The bus runs a loop from the Jefferson Memorial around Hains Point."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0235800743103,
+          38.871840331563384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "Cherry Blossom Shuttle Stop",
+        "notes": "Fee: $1 per ride. During the festival, the shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding. The bus runs a loop from the Jefferson Memorial around Hains Point."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02213168144226,
+          38.862467700003045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "Cherry Blossom Shuttle Stop",
+        "notes": "Fee: $1 per ride. During the festival, the shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding. The bus runs a loop from the Jefferson Memorial around Hains Point."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02243208885193,
+          38.866051499156136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "Cherry Blossom Shuttle Stop",
+        "notes": "Fee: $1 per ride. During the festival, the shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding. The bus runs a loop from the Jefferson Memorial around Hains Point."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02371954917908,
+          38.85977764349777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "Cherry Blossom Shuttle Stop",
+        "notes": "Fee: $1 per ride. During the festival, the shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding. The bus runs a loop from the Jefferson Memorial around Hains Point."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02695965766907,
+          38.86590948724251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "Cherry Blossom Shuttle Stop",
+        "notes": "Fee: $1 per ride. During the festival, the shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding. The bus runs a loop from the Jefferson Memorial around Hains Point."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03042507171631,
+          38.87160644848357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000a0",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "Cherry Blossom Shuttle Stop",
+        "notes": "Fee: $1 per ride. During the festival, the shuttle is an option for reaching areas of East Potomac Park, where there are more cherry trees and less crowding. The bus runs a loop from the Jefferson Memorial around Hains Point."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02875137329102,
+          38.869083803495094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0000a0",
+        "stroke-width": 2,
+        "stroke-opacity": 0.5,
+        "name": "Cherry Blossom Shuttle Route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03210145235062,
+            38.88068973472269
+          ],
+          [
+            -77.0335203409195,
+            38.881731628273336
+          ],
+          [
+            -77.03367054462433,
+            38.88175250774747
+          ],
+          [
+            -77.03381806612015,
+            38.88174415595855
+          ],
+          [
+            -77.03399777412415,
+            38.88169404520446
+          ],
+          [
+            -77.03409433364868,
+            38.881646022365295
+          ],
+          [
+            -77.03423380851746,
+            38.88143513907863
+          ],
+          [
+            -77.03435987234116,
+            38.88119502368327
+          ],
+          [
+            -77.03450202941895,
+            38.88072731832278
+          ],
+          [
+            -77.03457176685333,
+            38.880568631876024
+          ],
+          [
+            -77.03477293252945,
+            38.88030763365994
+          ],
+          [
+            -77.03494727611542,
+            38.880176090195675
+          ],
+          [
+            -77.0351243019104,
+            38.88005916246747
+          ],
+          [
+            -77.03559905290604,
+            38.87989421052372
+          ],
+          [
+            -77.03639030456543,
+            38.87987333050353
+          ],
+          [
+            -77.0373022556305,
+            38.87987124250119
+          ],
+          [
+            -77.0376992225647,
+            38.87987541850582
+          ],
+          [
+            -77.03795671463013,
+            38.87987541850582
+          ],
+          [
+            -77.03824371099472,
+            38.879892122521966
+          ],
+          [
+            -77.03866213560104,
+            38.879967290546034
+          ],
+          [
+            -77.0388874411583,
+            38.88003201850304
+          ],
+          [
+            -77.0391047000885,
+            38.88008630642152
+          ],
+          [
+            -77.03927099704742,
+            38.88008421842543
+          ],
+          [
+            -77.03944802284241,
+            38.880044546487916
+          ],
+          [
+            -77.03985303640366,
+            38.87992970654396
+          ],
+          [
+            -77.03987717628479,
+            38.87950375313089
+          ],
+          [
+            -77.03985035419464,
+            38.87942649660106
+          ],
+          [
+            -77.03978598117828,
+            38.87932835980693
+          ],
+          [
+            -77.03971087932587,
+            38.87923022287725
+          ],
+          [
+            -77.03953921794891,
+            38.87911746964179
+          ],
+          [
+            -77.038297355175,
+            38.878420066024766
+          ],
+          [
+            -77.03765898942947,
+            38.878025424418766
+          ],
+          [
+            -77.03707158565521,
+            38.877641220961465
+          ],
+          [
+            -77.036312520504,
+            38.877123378232426
+          ],
+          [
+            -77.03558027744293,
+            38.876572122148595
+          ],
+          [
+            -77.03486680984497,
+            38.87596657076438
+          ],
+          [
+            -77.033970952034,
+            38.87517934625108
+          ],
+          [
+            -77.03288733959198,
+            38.875889310389034
+          ],
+          [
+            -77.03194856643677,
+            38.876668174652636
+          ],
+          [
+            -77.03076839447021,
+            38.87767045390622
+          ],
+          [
+            -77.03016489744186,
+            38.87818829264875
+          ],
+          [
+            -77.02960968017578,
+            38.87865392668304
+          ],
+          [
+            -77.02789306640625,
+            38.87737185969025
+          ],
+          [
+            -77.02708035707474,
+            38.8766848794227
+          ],
+          [
+            -77.02632397413254,
+            38.875983275699376
+          ],
+          [
+            -77.02546298503876,
+            38.87506658658828
+          ],
+          [
+            -77.02533155679703,
+            38.87499350152609
+          ],
+          [
+            -77.02516794204712,
+            38.87498097265072
+          ],
+          [
+            -77.02504724264145,
+            38.87485986007514
+          ],
+          [
+            -77.02492654323578,
+            38.87466775004915
+          ],
+          [
+            -77.02452957630157,
+            38.87411856308901
+          ],
+          [
+            -77.02425330877304,
+            38.873646634782595
+          ],
+          [
+            -77.02398777008057,
+            38.8731767915417
+          ],
+          [
+            -77.0237946510315,
+            38.87274453301693
+          ],
+          [
+            -77.02362835407257,
+            38.872312271863336
+          ],
+          [
+            -77.02322602272034,
+            38.87115747434336
+          ],
+          [
+            -77.0230221748352,
+            38.87057693613468
+          ],
+          [
+            -77.02292025089264,
+            38.870272047262844
+          ],
+          [
+            -77.02282100915909,
+            38.870002658061885
+          ],
+          [
+            -77.02269226312637,
+            38.86961005801842
+          ],
+          [
+            -77.02259033918381,
+            38.86921954412198
+          ],
+          [
+            -77.02250450849532,
+            38.868739229970465
+          ],
+          [
+            -77.02243745326996,
+            38.86824011747899
+          ],
+          [
+            -77.02235698699951,
+            38.86726276571448
+          ],
+          [
+            -77.0223006606102,
+            38.86626242809251
+          ],
+          [
+            -77.02229529619217,
+            38.86525789953147
+          ],
+          [
+            -77.02227652072906,
+            38.86311513629631
+          ],
+          [
+            -77.0221558213234,
+            38.86295014502649
+          ],
+          [
+            -77.0221397280693,
+            38.86216486487445
+          ],
+          [
+            -77.02221751213074,
+            38.86194556966585
+          ],
+          [
+            -77.02204585075378,
+            38.85923460732391
+          ],
+          [
+            -77.0220673084259,
+            38.85873333948274
+          ],
+          [
+            -77.02216655015945,
+            38.85851403369114
+          ],
+          [
+            -77.02231138944626,
+            38.85842213392023
+          ],
+          [
+            -77.02248573303223,
+            38.85833232266574
+          ],
+          [
+            -77.02267348766327,
+            38.85833023403055
+          ],
+          [
+            -77.02283173799515,
+            38.8583532090141
+          ],
+          [
+            -77.0229122042656,
+            38.85837618399022
+          ],
+          [
+            -77.02299535274506,
+            38.85841377938972
+          ],
+          [
+            -77.02308118343353,
+            38.85847017245167
+          ],
+          [
+            -77.02315092086792,
+            38.858524476839406
+          ],
+          [
+            -77.02353179454802,
+            38.859192835138785
+          ],
+          [
+            -77.02389389276503,
+            38.85986118715644
+          ],
+          [
+            -77.02422648668289,
+            38.860464787174
+          ],
+          [
+            -77.02456176280975,
+            38.86111641881171
+          ],
+          [
+            -77.02548444271086,
+            38.862881224509266
+          ],
+          [
+            -77.02712059020996,
+            38.86590113359169
+          ],
+          [
+            -77.02802449464797,
+            38.8674799561567
+          ],
+          [
+            -77.02895522117615,
+            38.869058743658734
+          ],
+          [
+            -77.02971160411835,
+            38.8703179895053
+          ],
+          [
+            -77.03061014413834,
+            38.87155841882728
+          ],
+          [
+            -77.03147649765015,
+            38.87261088733717
+          ],
+          [
+            -77.03194856643677,
+            38.873149644948434
+          ],
+          [
+            -77.03240722417831,
+            38.87364454659728
+          ],
+          [
+            -77.03312873840332,
+            38.87437958403649
+          ],
+          [
+            -77.03385025262833,
+            38.87510626130484
+          ],
+          [
+            -77.03396290540695,
+            38.87517934625108
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cherry Blossom Shuttle Route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.02958822250366,
+            38.87865183864485
+          ],
+          [
+            -77.02947556972504,
+            38.87878129689642
+          ],
+          [
+            -77.03046798706055,
+            38.8794912250507
+          ],
+          [
+            -77.03157305717468,
+            38.880301369690976
+          ],
+          [
+            -77.03210949897766,
+            38.88069808663552
+          ]
+        ]
+      }
+    }
+  ]
+}

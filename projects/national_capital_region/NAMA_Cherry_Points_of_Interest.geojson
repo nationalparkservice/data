@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Japanese Pagoda",
+        "notes": "The Japanese Pagoda was given to the people of Washington by Ryozo Kiranuma, the Mayor of Yokohama, on June 19, 1957. The Japanese Pagoda is a nine-tiered, 3,800 lb. stone structure with four seated Buddhas carved into its base. A brass plaque, located on the pagoda’s base, reads: “May this pagoda symbolize the spirit of friendship between the United States of American and Japan manifested in the treaty of peace, amity and commerce signed at Yokohama on March 31, 1854, by plenipotentiaries of the two countries.”",
+        "url": "http://www.nps.gov/common/uploads/photogallery/ncr/park/chbl/27E1735A-1DD8-B71C-07E1BB73BD2E9F14/27E1735A-1DD8-B71C-07E1BB73BD2E9F14-small.jpg",
+        "image": "http://www.nps.gov/chbl/learn/images/pagoda-thumbnail.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04149186611176,
+          38.88287372649676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Japanese Stone Lantern",
+        "notes": "The Japanese Lantern was given to the United States by the Tokyo government in 1954 as a symbol of Japanese-American understanding. The lantern was carved in Tokyo in 1651 to honor the dead warlord Tokugawa Iemitsu, and has a twin on the grounds of a temple in Ueno Park, Tokyo.",
+        "image": "http://www.nps.gov/common/uploads/photogallery/ncr/park/chbl/27DF9086-1DD8-B71C-07745F61B7D2F0E8/27DF9086-1DD8-B71C-07745F61B7D2F0E8-small.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0413833,
+          38.8866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "First Cherry Trees",
+        "notes": "Plaque commemorates the planting of the first cherry trees on the Tidal Basin in this area in 1912. The stone was moved several feet to the east and rotated 90 degrees in 2013.",
+        "image": "http://ncrcms.nps.doi.net/chbl/images/csthumbnail_large/DYKcherryplaque.gif"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0414333,
+          38.8866333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Lady Bird Johnson Tree",
+        "notes": "Plaque commemorates tree planted by First Lady Lady Bird Johnson in 1965."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0415667,
+          38.8866667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "Tidal Basin Welcome Area",
+        "notes": "Information, Vending, Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03631520271301,
+          38.885395882031915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
+        "name": "Tidal Basin Welcome Area",
+        "notes": "Information, Vending, Food"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.0375543832779,
+              38.88652330670724
+            ],
+            [
+              -77.03706085681915,
+              38.88610574409883
+            ],
+            [
+              -77.03686773777008,
+              38.885788394874986
+            ],
+            [
+              -77.03675508499146,
+              38.885450165852184
+            ],
+            [
+              -77.03656733036041,
+              38.88514534078543
+            ],
+            [
+              -77.03623473644257,
+              38.88498248850142
+            ],
+            [
+              -77.03573048114777,
+              38.88499083990967
+            ],
+            [
+              -77.03524231910706,
+              38.884986664205684
+            ],
+            [
+              -77.03464686870575,
+              38.88482798727153
+            ],
+            [
+              -77.03446984291075,
+              38.884974137092186
+            ],
+            [
+              -77.0351779460907,
+              38.88519962479714
+            ],
+            [
+              -77.03576803207397,
+              38.885253908767375
+            ],
+            [
+              -77.03646004199982,
+              38.88578004356047
+            ],
+            [
+              -77.0366907119751,
+              38.88621013498101
+            ],
+            [
+              -77.03716814517973,
+              38.886602643325375
+            ],
+            [
+              -77.037393450737,
+              38.886794721086574
+            ],
+            [
+              -77.03776895999908,
+              38.88672791148942
+            ],
+            [
+              -77.0375543832779,
+              38.88652330670724
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

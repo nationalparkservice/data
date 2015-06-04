@@ -1,0 +1,372 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Lincoln Born",
+        "date": "2/12/1809",
+        "url": "http://www.nps.gov/libi/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.737151,
+          37.531028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Lincoln's First Inauguration",
+        "date": "3/4/1861",
+        "notes": "Lincoln's election caused outrage in southern states. The Republican platform on which Lincoln was elected sought to stop the spread of slavery, which many southerners saw as their constitutional right."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00859725475311,
+          38.889909648796355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Emancipation Proclamation",
+        "date": "1/1/1863",
+        "notes": "Lincoln's Emancipation Proclamation allowed the U.S. Army to free slaves that the army encountered in states that were rebelling. Although the proclamation was pragmatic and limited in its scope, it marked an important pivot in Lincoln's position on slavery."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03657269477844,
+          38.89765462090334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Lincoln's Second Inauguration",
+        "date": "3/4/1865",
+        "notes": "Lincoln's Second Inaugural Address ranks as one of his finest, briefly and eloquently stating the horrifying nature of the war, the need for the Union to win it, and his vision for America's future."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00824052095413,
+          38.88956100080775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Lincoln Shot",
+        "date": "4/14/1865",
+        "time": "22:10",
+        "url": "http://www.nps.gov/foth/",
+        "notes": "During a performance of "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02564537525177,
+          38.896706898780096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Lincoln Dies",
+        "date": "4/15/1865",
+        "time": "07:22",
+        "url": "http://www.nps.gov/foth/the-petersen-house.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02629178762434,
+          38.89660669834494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Lincoln Buried",
+        "date": "5/3/1865",
+        "notes": "Although Lincoln's funeral train arrived in Springfield, Illinois in May, several years passed before a permanent tomb and memorial was completed."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.655757,
+          39.82319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "name": "John Wilkes Booth Born",
+        "date": "5/10/1838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.34684801101685,
+          39.53398460652548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "name": "John Wilkes Booth's Stage Debut",
+        "date": "8/14/1855"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6105842590332,
+          39.29272701588541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "cross",
+        "name": "Civil War Begins",
+        "date": "4/12/1861",
+        "notes": "Fueled by years of agitation, sparked by Lincoln's election, South Carolinians attack the U.S. Army post at Fort Sumter, starting the Civil War.",
+        "url": "http://www.nps.gov/fosu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8746395111084,
+          32.75212725693016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "name": "Booth Arrested",
+        "date": 1863,
+        "notes": "Booth was heard saying \"He wished the president and the whole damned government would go to hell.\" He was released after taking an oath of allegiance to the Union and paying a fine."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.19432067871094,
+          38.62223527691723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "cross",
+        "name": "General Lee Surrenders at Appomattox Court House",
+        "url": "http://www.nps.gov/appo/",
+        "date": "4/9/1865",
+        "notes": "After four years of conflict, the main body of the Confederate armed forces surrendered to General Ulysses S. Grant."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.79722028970718,
+          37.37713796156035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "name": "Surratt Boarding House",
+        "date": "Fall 1864",
+        "notes": "Booth devises a plan to kidnap Lincoln from his summer residence at the Soldiers' Home and to exchange him for prisoners at Richmond. Booth and fellow conspirators Lewis Powell, Samuel Arnold, Michael O'Laughlin, John Surratt, Jr., George Atzerodt, and David Herold meet at Mary Surratt's home."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89697980880737,
+          38.764139429831516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "cross",
+        "name": "Battle of Gettysburg",
+        "date": "7/1/1863-7/3/1863",
+        "notes": "The Union victory at Gettysburg marks a turning point in the war.",
+        "url": "http://www.nps.gov/gett/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2356194257736,
+          39.81235187260904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "cross",
+        "name": "South Carolina Secedes",
+        "date": "12/24/1860",
+        "notes": "Following Lincoln's election, but months prior to his inauguration, South Carolina's legislature voted to secede from the United States. Mississippi, Florida, Alabama, Georgia, Louisiana, and Texas all followed suit in the next few weeks, followed by Virginia, Arkansas, North Carolina and Tennessee."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.03311777114868,
+          34.000286515255695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "name": "Ford's Theatre Opens",
+        "date": "11/9/1863",
+        "notes": "John T. Ford opens his theatre. Booth is among the first actors to perform at the venue, with Lincoln watching in the audience.",
+        "url": "http://www.nps.gov/foth/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02582508325577,
+          38.89663383597676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "name": "Secretary Seward Attacked",
+        "date": "4/14/1865",
+        "time": "22:10",
+        "notes": "Conspirator Lewis Powell forces his way into Secretary of State William Seward's home. His gun misfires and injures Seward's son; Powell slashes his way through the household to Seward, whom he injures with a knife before fleeing. Seward had been in bed recuperating from a carriage accident days earlier, and a metal brace on his head and neck likely saved his life, but did not spare him from a severe facial wound."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03489363193512,
+          38.899725370607214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "name": "Booth Flees to Dr. Samuel Mudd's House",
+        "notes": "After shooting Lincoln, Booth sought Dr. Mudd to mend his broken leg.",
+        "date": "4/15/1865",
+        "time": "04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.82613730430603,
+          38.609719550300895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "name": "Booth Killed",
+        "date": "4/26/1865",
+        "notes": "Booth was shot during a shootout with U.S. cavalrymen. His final words were, \"Useless, useless.\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2375077009201,
+          38.13203963096456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Gettysburg Address",
+        "date": "11/19/1863",
+        "notes": "Lincoln used the dedication of the cemetery here in November to deliver his famous Gettysburg Address, publicly advocating for an end to slavery as an outcome of the war."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.23118305206299,
+          39.81976040853661
+        ]
+      }
+    }
+  ]
+}

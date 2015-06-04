@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#808000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Officers' Row",
+        "notes": "A typical company's officers included two lieutenants, who could each select one room in the officers' quarters, and one captain, who could claim two rooms. At the rear, a kitchen and servant's quarters provided for additional comfort and style for officers who could enjoy the privilege their rank afforded.",
+        "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/P6220099.JPG",
+        "url": "http://www.nps.gov/fols/learn/photosmultimedia/officers-row.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21905815601349,
+          38.18279005094603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Barracks",
+        "url": "http://www.nps.gov/fols/learn/photosmultimedia/barracks.htm",
+        "image": "http://www.nps.gov/common/uploads/photogallery/mwr/park/fols/60F8039F-155D-4519-3EFC5C46D71E7C51/60F8039F-155D-4519-3EFC5C46D71E7C51-large.JPG",
+        "notes": "The barracks were designed to house up to four companies of infantry and cavalry, though on average, just 100 or 150 troops were stationed here at a time."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2181247472763,
+          38.18383577540497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Hospital",
+        "url": "http://www.nps.gov/fols/learn/photosmultimedia/barracks.htm",
+        "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/P6220066.JPG",
+        "notes": "The 10th Cavalry's departure in 1869 left these barracks vacant. In 1872, the post hospital moved here."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21780824661255,
+          38.1839327571547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Visitor Center",
+        "url": "http://www.nps.gov/fols",
+        "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/P6220076.JPG",
+        "notes": "The park visitor center is located in one of the original barracks buildings."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2186987400055,
+          38.183654461352646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004000",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.22178864479065,
+          38.18305570011386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "name": "Bridge Has Moved",
+        "notes": "The bridge has been relocated to its historic location further upstream, behind the Officers' Quarters. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21937465667725,
+          38.18456524366018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Shops",
+        "url": "http://www.nps.gov/fols/learn/photosmultimedia/shops.htm",
+        "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/20100623161013_1.jpg",
+        "notes": "On the frontier, civilian tradesmen who could fabricate and repair equipment were in demand. In 1867, a blacksmith was paid a handsome $85 a month, saddlers and wheelwrights $90."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21723157167435,
+          38.18370716897253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Bakery",
+        "url": "http://www.nps.gov/fols/learn/photosmultimedia/shops.htm",
+        "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/P6220072.JPG",
+        "notes": "A baker made fresh bread for the troops in the brick oven. The bread was allowed to \"dry\" for a at least two days before being served to the troops."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21729862689972,
+          38.18379150108501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "medium",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2169338464737,
+          38.1878161376478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004000",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "name": "Picnic Area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21737372875212,
+          38.18806911942239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "New Commissary",
+        "url": "http://www.nps.gov/fols/learn/photosmultimedia/warehouses.htm",
+        "notes": "This final building, added in 1868 to accommodate the supply needs when the fort was at its peak troop levels, the New Commissary was converted into a schoolroom and library as troop levels decreased over the following years."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.216810464859,
+          38.1830599167595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Blockhouse",
+        "url": "www.nps.gov/fols/learn/photosmultimedia/blockhouse.htm",
+        "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/P6230173.JPG",
+        "notes": "Bristling with loopholes from which to fire on any attackers, the blockhouse was meant to deter attack. In practice, its use was as a prison for keeping trouble-making troops in, rather than enemies out."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21652615070343,
+          38.18290811736241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Commissary",
+        "url": "http://www.nps.gov/fols/learn/photosmultimedia/warehouses.htm",
+        "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/P6220121.JPG",
+        "notes": "The most important role for any frontier fort was to amass and secure supplies including food, ammunition, and clothing."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21712160110474,
+          38.182659334333266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Arsenal",
+        "url": "http://www.nps.gov/fols/learn/photosmultimedia/warehouses.htm",
+        "notes": "The arsenal provided secure storage for weapons and ammunition. While soldiers maintained their weapons, the ammunition was tightly controlled.",
+        "image": "http://www.nps.gov/common/uploads/photogallery/mwr/park/fols/610167E6-155D-4519-3EB89377365396D2/610167E6-155D-4519-3EB89377365396D2-large.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21732544898987,
+          38.18261295096266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Quartermaster's Storehouse",
+        "url": "http://www.nps.gov/fols/learn/photosmultimedia/warehouses.htm",
+        "image": "http://www.nps.gov/fols/learn/photosmultimedia/images/P6220145.JPG",
+        "notes": "The army's ability to supply itself made possible its permanent presence on the plains. The quatermaster, whose office is at the west end of the building, was essential to the operation of the fort."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21792089939117,
+          38.18240211708785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "cemetery",
+        "name": "Post Cemetery",
+        "image": "http://www.nps.gov/common/uploads/photogallery/mwr/park/fols/60F46F18-155D-4519-3E02A51CCCBBCB8A/60F46F18-155D-4519-3E02A51CCCBBCB8A-large.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21636521816254,
+          38.18390745758024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "entrance",
+        "name": "Foot Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.22006666660309,
+          38.182132248837796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Santa Fe Trail Ruts",
+        "url": "http://www.nps.gov/fols/learn/historyculture/santa-fe-trail.htm",
+        "image": "http://www.nps.gov/fols/learn/historyculture/images/SF-Trail-Ruts-Aerial_1.JPG",
+        "notes": "Fort Larned is situated directly on the Dry Route of the Santa Fe Trail, which follows the Pawnee Fork of the Arkansas River.  “It is a proper place for a military post, and should be the depot of supplies for any troops acting against Indians on that line,” reported Maj. John C. McFerran in 1865"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.240679,
+          38.118098
+        ]
+      }
+    }
+  ]
+}

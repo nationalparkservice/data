@@ -5,7 +5,9 @@
       "type": "Feature",
       "properties": {
         "name": "Tucson, Arizona",
-        "url": "http://www.nps.gov/sagu/"
+        "url": "http://www.nps.gov/sagu/index.htm",
+        "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
+        "info": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-tucson.htm?cs_pgIsInLView=1"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +21,9 @@
       "type": "Feature",
       "properties": {
         "name": "Richmond, California",
-        "url": "http://www.nps.gov/rori/"
+        "url": "http://www.nps.gov/rori/index.htm",
+        "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
+        "info": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-richmond-ca.htm?cs_pgIsInLView=1"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +37,9 @@
       "type": "Feature",
       "properties": {
         "name": "St. Louis, Missouri",
-        "url": "http://www.nps.gov/jeff/"
+        "url": "http://www.nps.gov/jeff/index.htm",
+        "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
+        "info": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-st-louis.htm?cs_pgIsInLView=1"
       },
       "geometry": {
         "type": "Point",
@@ -46,13 +52,16 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chicago, Illinois"
+        "name": "Washington, DC",
+        "url": "http://www.nps.gov/state/dc/index.htm",
+        "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
+        "info": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-washington-dc.htm?cs_pgIsInLView=1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.62557983398438,
-          41.87416255688654
+          -77.036132812,
+          38.865374851
         ]
       }
     },
@@ -60,7 +69,10 @@
       "type": "Feature",
       "properties": {
         "name": "Detroit, Michigan",
-        "url": "http://www.nps.gov/auto/"
+        "url1": "http://www.nps.gov/nr/travel/cultural_diversity/River_Raisin_National_Battlefield_Park.html",
+        "url2": "http://www.nps.gov/auto/index.htm",
+        "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
+        "info1": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-detroit.htm?cs_pgIsInLView=1"
       },
       "geometry": {
         "type": "Point",
@@ -74,7 +86,9 @@
       "type": "Feature",
       "properties": {
         "name": "Jacksonville, Florida",
-        "url": "http://www.nps.gov/foca/"
+        "url": "http://www.nps.gov/foca/index.htm",
+        "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
+        "info": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-jacksonville.htm?cs_pgIsInLView=1"
       },
       "geometry": {
         "type": "Point",
@@ -88,13 +102,63 @@
       "type": "Feature",
       "properties": {
         "name": "New York, New York",
-        "url": "http://www.nps.gov/npnh/"
+        "url": "http://www.nps.gov/npnh/index.htm",
+        "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
+        "info": "http://nricms.nps.doi.net/commonspot/dashboard/index.html#mode=author&url=/subjects/urban/model-city-new-york.htm?cs_pgIsInLView=1"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -73.98674011230469,
           40.73034831215804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boston, MA",
+        "url": "http://www.nps.gov/state/ma/index.htm",
+        "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
+        "info": "http://nricms.nps.doi.net/subjects/urban/model-city-boston.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.103515625,
+          42.32606244456202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richmond, VA",
+        "url": "http://www.nps.gov/rich/index.htm",
+        "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
+        "info": "http://nricms.nps.doi.net/subjects/urban/model-city-richmond-va.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.464599609375,
+          37.54022177661216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Philadelphia, PA",
+        "url": "http://www.nps.gov/inde/index.htm",
+        "fellow": "http://www.nps.gov/subjects/urban/meet-the-urban-fellows.htm",
+        "info": "http://nricms.nps.doi.net/subjects/urban/model-city-philadelphia.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.179443359375,
+          39.9602803542957
         ]
       }
     }

@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#808080",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Visitor Center Parking",
+        "description": "Parking for Visitor Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39497824688749,
+          39.377260395430206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Railroad Junction Parking",
+        "description": "Parking for Railroad Junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39100210221736,
+          39.37098612971488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Worthington Farm Parking",
+        "description": "Parking for Worthington Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.40053830555816,
+          39.36191879207802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "14th New Jersey Monument Parking",
+        "description": "Parking for 14th New Jersey Monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.392111,
+          39.370842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Best Farm Parking",
+        "description": "Parking for Best Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.398562,
+          39.370592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Gambrill Mill Parking",
+        "description": "Parking for Gambrill Mill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.38745,
+          39.367268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Thomas Farm Parking",
+        "description": "Parking for Thomas Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.390602,
+          39.357008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Baker Farm Parking",
+        "description": "Parking for Baker Farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39408433437347,
+          39.35317981619926
+        ]
+      }
+    }
+  ]
+}

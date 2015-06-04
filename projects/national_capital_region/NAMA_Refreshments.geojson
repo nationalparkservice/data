@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Refreshments"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04912811517715,
+          38.887738399935046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Refreshments"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04936414957047,
+          38.89079065584851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Refreshments"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0447239279747,
+          38.890609027326704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Refreshments"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0302990078926,
+          38.8901455593389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Refreshments"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.024245262146,
+          38.889103789175344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Refreshments"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01964259147644,
+          38.88904115721571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Refreshments"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0345664024353,
+          38.884857217259686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Refreshments"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03726470470428,
+          38.88003619449826
+        ]
+      }
+    }
+  ]
+}

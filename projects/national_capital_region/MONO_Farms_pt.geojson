@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "farm",
+        "name": "Best Farm",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/MONO_BF_355_175px_1.jpg",
+        "link": "http://www.nps.gov/mono/learn/historyculture/best_farm.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39842414855957,
+          39.37020340042263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "farm",
+        "name": "Baker Farm",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/MONO_BkF_House_175px.jpg",
+        "link": "http://www.nps.gov/mono/learn/historyculture/baker.htm",
+        "notes": "Not Open to Public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.40018367767334,
+          39.35187939137936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "farm",
+        "name": "Gambrill House (Edgewood)",
+        "image": "http://www.nps.gov/common/uploads/photogallery/ncr/park/mono/236F9B94-1DD8-B71C-077CEE7D80B2ECF0/236F9B94-1DD8-B71C-077CEE7D80B2ECF0-small.JPG",
+        "link": "http://www.nps.gov/mono/learn/historyculture/gambrill_mansion.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.38640785217285,
+          39.36545073532533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "farm",
+        "name": "Gambrill Mill (Araby Mill)",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/MONO_GF_Mill1893_175px.jpg",
+        "link": "http://www.nps.gov/mono/learn/historyculture/gambrill_mill.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.38689064979553,
+          39.36713452627525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "farm",
+        "name": "Lewis Farm",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/MONO_LF_House_175px.jpg",
+        "link": "http://www.nps.gov/mono/learn/historyculture/lewis_farm.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39276468753815,
+          39.3529910798082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "medium",
+        "marker-symbol": "farm",
+        "name": "Thomas Farm",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/ThomasHouse_175px.jpg",
+        "link": "http://www.nps.gov/mono/learn/historyculture/thomas_farm.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39174008369446,
+          39.35891010805261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Worthington Farm",
+        "marker-symbol": "farm",
+        "marker-size": "medium",
+        "marker-color": "#ff8000",
+        "image": "http://www.nps.gov/mono/learn/historyculture/images/MONO_WF_Refurbished_175px.jpg",
+        "link": "http://www.nps.gov/mono/learn/historyculture/worthington_farm.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.40201026201248,
+          39.36145467978341
+        ]
+      }
+    }
+  ]
+}

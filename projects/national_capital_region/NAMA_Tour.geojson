@@ -1,0 +1,1732 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#000000",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "name": "Walking Tour",
+        "notes": "This 4.2 mile loop begins and ends at the Smithsonian Metro station. Following the loop counter-clockwise is recommended, but either direction is possible. The route is optimized for the fastest walking route to visit all the major memorials. If you're willing to spend a little extra time to see other points of interest, try adding in the detours for the in-depth tour."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.02838122844696,
+            38.8890829118616
+          ],
+          [
+            -77.0282632112503,
+            38.88909126278783
+          ],
+          [
+            -77.0282632112503,
+            38.888803155265414
+          ],
+          [
+            -77.03186273574829,
+            38.88869041722118
+          ],
+          [
+            -77.03214168548584,
+            38.88869459270748
+          ],
+          [
+            -77.03281760215758,
+            38.88889084028724
+          ],
+          [
+            -77.03312873840332,
+            38.8889242440766
+          ],
+          [
+            -77.03330039978026,
+            38.889045332681405
+          ],
+          [
+            -77.03348278999327,
+            38.88907038547041
+          ],
+          [
+            -77.0337188243866,
+            38.88894512143699
+          ],
+          [
+            -77.03410506248474,
+            38.88879480430532
+          ],
+          [
+            -77.03449130058289,
+            38.88874052304072
+          ],
+          [
+            -77.03481316566467,
+            38.88877392690076
+          ],
+          [
+            -77.03515648841858,
+            38.88891589313075
+          ],
+          [
+            -77.03524231910706,
+            38.88897852520083
+          ],
+          [
+            -77.03504920005798,
+            38.889158070162374
+          ],
+          [
+            -77.03501164913177,
+            38.889295860173895
+          ],
+          [
+            -77.03490436077118,
+            38.88948375521343
+          ],
+          [
+            -77.03504920005798,
+            38.889680000612984
+          ],
+          [
+            -77.03507602214813,
+            38.88982196503215
+          ],
+          [
+            -77.03527987003326,
+            38.88997645540121
+          ],
+          [
+            -77.03554272651672,
+            38.89012259463024
+          ],
+          [
+            -77.03587532043457,
+            38.89018105023768
+          ],
+          [
+            -77.03622937202454,
+            38.890126770032374
+          ],
+          [
+            -77.03669607639313,
+            38.88996392916758
+          ],
+          [
+            -77.0396277308464,
+            38.88989503484317
+          ],
+          [
+            -77.03963041305542,
+            38.88958396569798
+          ],
+          [
+            -77.04019635915756,
+            38.88957979026394
+          ],
+          [
+            -77.04021781682968,
+            38.88920817565203
+          ],
+          [
+            -77.04031169414519,
+            38.889103789175344
+          ],
+          [
+            -77.04047262668608,
+            38.88902236761703
+          ],
+          [
+            -77.0406174659729,
+            38.88904115721571
+          ],
+          [
+            -77.04073548316956,
+            38.88910587690638
+          ],
+          [
+            -77.04078644514084,
+            38.88916642107975
+          ],
+          [
+            -77.04082131385803,
+            38.8892311406563
+          ],
+          [
+            -77.04083204269409,
+            38.88944826396627
+          ],
+          [
+            -77.04082131385803,
+            38.88960484286446
+          ],
+          [
+            -77.0408695936203,
+            38.8896591234686
+          ],
+          [
+            -77.04079449176787,
+            38.88983031587151
+          ],
+          [
+            -77.04062551259995,
+            38.88989294713532
+          ],
+          [
+            -77.0405262708664,
+            38.88990129796633
+          ],
+          [
+            -77.04052358865738,
+            38.8900724897856
+          ],
+          [
+            -77.04075694084167,
+            38.89003908653618
+          ],
+          [
+            -77.04094469547272,
+            38.8899388766937
+          ],
+          [
+            -77.04098224639893,
+            38.8900724897856
+          ],
+          [
+            -77.04127192497253,
+            38.89012259463024
+          ],
+          [
+            -77.04179227352142,
+            38.89016017324056
+          ],
+          [
+            -77.04218924045563,
+            38.89016017324056
+          ],
+          [
+            -77.04251646995544,
+            38.89024368119226
+          ],
+          [
+            -77.04275250434875,
+            38.890352241382715
+          ],
+          [
+            -77.04289197921753,
+            38.89046497678951
+          ],
+          [
+            -77.04320847988129,
+            38.89052760749375
+          ],
+          [
+            -77.0435357093811,
+            38.89050673059849
+          ],
+          [
+            -77.04395413398743,
+            38.89040234603006
+          ],
+          [
+            -77.04419553279877,
+            38.890368942935766
+          ],
+          [
+            -77.04457640647888,
+            38.89049002907785
+          ],
+          [
+            -77.044957280159,
+            38.89053595825016
+          ],
+          [
+            -77.04538643360137,
+            38.89048167831605
+          ],
+          [
+            -77.0460033416748,
+            38.89058606276789
+          ],
+          [
+            -77.04635202884674,
+            38.890682096328085
+          ],
+          [
+            -77.04674899578094,
+            38.890690447066326
+          ],
+          [
+            -77.04690456390381,
+            38.89066121947824
+          ],
+          [
+            -77.04687774181365,
+            38.890711323907595
+          ],
+          [
+            -77.04679995775223,
+            38.890886689132124
+          ],
+          [
+            -77.04680532217026,
+            38.89095140714132
+          ],
+          [
+            -77.04678654670715,
+            38.8910244757905
+          ],
+          [
+            -77.04673558473586,
+            38.89114347314401
+          ],
+          [
+            -77.04766631126404,
+            38.89125411962717
+          ],
+          [
+            -77.0484709739685,
+            38.89065704410753
+          ],
+          [
+            -77.04828858375548,
+            38.89046080140727
+          ],
+          [
+            -77.04857289791107,
+            38.8899931570426
+          ],
+          [
+            -77.04876601696014,
+            38.8899931570426
+          ],
+          [
+            -77.04902350902557,
+            38.88995140293176
+          ],
+          [
+            -77.0492434501648,
+            38.88975515828201
+          ],
+          [
+            -77.0492622256279,
+            38.889396070923496
+          ],
+          [
+            -77.05010712146759,
+            38.88935640418537
+          ],
+          [
+            -77.05011785030365,
+            38.88920817565203
+          ],
+          [
+            -77.04895108938217,
+            38.88918312291162
+          ],
+          [
+            -77.04898595809937,
+            38.888765575937235
+          ],
+          [
+            -77.04867213964462,
+            38.88859855646026
+          ],
+          [
+            -77.04848170280457,
+            38.88837516729594
+          ],
+          [
+            -77.0473176240921,
+            38.887696644498845
+          ],
+          [
+            -77.04846560955048,
+            38.88769246895389
+          ],
+          [
+            -77.04804450273514,
+            38.88725821093703
+          ],
+          [
+            -77.04666316509247,
+            38.88720601628515
+          ],
+          [
+            -77.04483389854431,
+            38.88713920707478
+          ],
+          [
+            -77.0448312163353,
+            38.886698682270904
+          ],
+          [
+            -77.0442008972168,
+            38.88616002737669
+          ],
+          [
+            -77.04438060522078,
+            38.8861475004701
+          ],
+          [
+            -77.0444718003273,
+            38.88608069026425
+          ],
+          [
+            -77.04466491937637,
+            38.88573828697322
+          ],
+          [
+            -77.04500019550323,
+            38.8855816995524
+          ],
+          [
+            -77.04493582248688,
+            38.884798757271305
+          ],
+          [
+            -77.04431891441344,
+            38.884268439464876
+          ],
+          [
+            -77.04442620277405,
+            38.883988663909
+          ],
+          [
+            -77.04406142234802,
+            38.88377152391224
+          ],
+          [
+            -77.04412579536438,
+            38.883671305228376
+          ],
+          [
+            -77.04377174377441,
+            38.88372976614449
+          ],
+          [
+            -77.04330503940582,
+            38.88328295649315
+          ],
+          [
+            -77.04314947128296,
+            38.8834040547136
+          ],
+          [
+            -77.04295367002487,
+            38.88327042907927
+          ],
+          [
+            -77.04292416572571,
+            38.883063726431054
+          ],
+          [
+            -77.04258352518082,
+            38.882944715542656
+          ],
+          [
+            -77.0422911643982,
+            38.88309086923736
+          ],
+          [
+            -77.04194247722624,
+            38.88280900112837
+          ],
+          [
+            -77.04170376062393,
+            38.882900869375604
+          ],
+          [
+            -77.04158842563629,
+            38.8828298802859
+          ],
+          [
+            -77.04129874706267,
+            38.8828236165393
+          ],
+          [
+            -77.04098224639893,
+            38.881729540325594
+          ],
+          [
+            -77.04060137271881,
+            38.881149088471695
+          ],
+          [
+            -77.04049944877625,
+            38.88076907785513
+          ],
+          [
+            -77.04063355922698,
+            38.880422472993125
+          ],
+          [
+            -77.03983426094055,
+            38.8799756425438
+          ],
+          [
+            -77.03972697257994,
+            38.88003828249577
+          ],
+          [
+            -77.03963041305542,
+            38.880050810479524
+          ],
+          [
+            -77.03952580690382,
+            38.880136418309455
+          ],
+          [
+            -77.0394104719162,
+            38.880205322097694
+          ],
+          [
+            -77.03879356384277,
+            38.88025125791937
+          ],
+          [
+            -77.03858703374863,
+            38.88031389762835
+          ],
+          [
+            -77.03825980424881,
+            38.880305545670346
+          ],
+          [
+            -77.03800231218338,
+            38.880470496659235
+          ],
+          [
+            -77.03787088394165,
+            38.880591599673146
+          ],
+          [
+            -77.03771531581879,
+            38.88086930063265
+          ],
+          [
+            -77.03765898942947,
+            38.8810634818618
+          ],
+          [
+            -77.03762412071228,
+            38.88118040793734
+          ],
+          [
+            -77.03755706548691,
+            38.88129106993878
+          ],
+          [
+            -77.0374846458435,
+            38.88131821342223
+          ],
+          [
+            -77.0374658703804,
+            38.881556240448475
+          ],
+          [
+            -77.03736662864685,
+            38.881742068011164
+          ],
+          [
+            -77.03719228506088,
+            38.88191327949272
+          ],
+          [
+            -77.03702598810196,
+            38.88200723683776
+          ],
+          [
+            -77.03691601753235,
+            38.88204899561789
+          ],
+          [
+            -77.03677117824554,
+            38.882084490561724
+          ],
+          [
+            -77.03664511442183,
+            38.88209284231065
+          ],
+          [
+            -77.03664243221283,
+            38.88144975477214
+          ],
+          [
+            -77.0364385843277,
+            38.88145393068403
+          ],
+          [
+            -77.03643321990967,
+            38.88208031468691
+          ],
+          [
+            -77.03620791435242,
+            38.88205108355627
+          ],
+          [
+            -77.03601747751236,
+            38.881975917736554
+          ],
+          [
+            -77.03572511672974,
+            38.88203646798642
+          ],
+          [
+            -77.0352691411972,
+            38.88192789508789
+          ],
+          [
+            -77.03507870435715,
+            38.881869432689186
+          ],
+          [
+            -77.03474074602127,
+            38.881879872406756
+          ],
+          [
+            -77.03446716070175,
+            38.88200306095839
+          ],
+          [
+            -77.03428745269774,
+            38.88214295278347
+          ],
+          [
+            -77.03412652015685,
+            38.882299547783326
+          ],
+          [
+            -77.03397631645203,
+            38.88239350461759
+          ],
+          [
+            -77.03382611274719,
+            38.88247284584753
+          ],
+          [
+            -77.03323602676392,
+            38.88262317635605
+          ],
+          [
+            -77.03294366598129,
+            38.88308042969771
+          ],
+          [
+            -77.03315019607544,
+            38.883287132297305
+          ],
+          [
+            -77.03358203172682,
+            38.88397404873774
+          ],
+          [
+            -77.03383147716522,
+            38.88426426371843
+          ],
+          [
+            -77.03392267227173,
+            38.884339427117276
+          ],
+          [
+            -77.03379929065704,
+            38.884475138608224
+          ],
+          [
+            -77.0338100194931,
+            38.88471106719853
+          ],
+          [
+            -77.03379929065704,
+            38.88509940812774
+          ],
+          [
+            -77.03382611274719,
+            38.88652748232092
+          ],
+          [
+            -77.03382074832916,
+            38.88795135227787
+          ],
+          [
+            -77.03351497650146,
+            38.88793256239096
+          ],
+          [
+            -77.03353106975555,
+            38.88798475650902
+          ],
+          [
+            -77.03326284885406,
+            38.888147601910916
+          ],
+          [
+            -77.0332145690918,
+            38.888201883628604
+          ],
+          [
+            -77.03306168317795,
+            38.88839813256954
+          ],
+          [
+            -77.03303217887878,
+            38.88855262603524
+          ],
+          [
+            -77.03289806842803,
+            38.888719645620206
+          ],
+          [
+            -77.032173871994,
+            38.88852757306364
+          ],
+          [
+            -77.0282793045044,
+            38.888602731951956
+          ],
+          [
+            -77.02825784683228,
+            38.889124666482935
+          ],
+          [
+            -77.02837586402893,
+            38.889107964637354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
+        "name": "Washington Monument Lodge",
+        "notes": "Get tickets for the Washington Monument here. Tickets are free, and are for assigned time periods throughout the day. Daily supplies are limited.",
+        "stop": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0333594083786,
+          38.88947540433334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800040",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "name": "Washington Monument",
+        "url": "http://www.nps.gov/wamo/",
+        "notes": "The tallest building in the world when it was completed in 1884, the 555' tall obelisk honors President Washington for his leadership in founding the nation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03522622585297,
+          38.889462878011365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "name": "German-American Friendship Garden",
+        "notes": "Get a great view of the White House from this garden."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03654319047926,
+          38.89184283952606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Lock Keeper's House",
+        "notes": "A canal once carried boat traffic where Constitution Ave. now bears motorists. The Lock Keeper's House is one of D.C.'s older buildings."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03974843025208,
+          38.89190129371782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800040",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "name": "World War II Memorial",
+        "notes": "Bronze plaques dramatize various facets of the war effort. A field of stars represents the Americans who gave the ultimate sacrifice.",
+        "url": "http://www.nps.gov/wwii/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04019367694855,
+          38.889396070923496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "Smithsonian Metro",
+        "notes": "The circuit begins and ends at the nearest Metro station. The full loop is approximately 5 miles."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02841341495514,
+          38.88907038547041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "56 Signers of the Declaration of Independence Memorial",
+        "notes": "A small memorial plaza honors the men who signed the Declaration of Independence with granite markers with engravings of each signer's signatures."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04302072525024,
+          38.89113721013036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Vietnam Women's Memorial",
+        "notes": "Sculpture by Glenna Goodacre honors the women who served in the Vietnam War. Eight yellow-wood trees planted around the statue honor the eight women who gave their lives in the conflict."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04718887805939,
+          38.89057771201738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800040",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "name": "Vietnam Veterans Memorial",
+        "notes": "The names of each serviceman who gave his or her life in the Vietnam War is listed in chronological order. To find an individual name, use reference guides near the memorial entrances, or contact a park ranger or volunteer.",
+        "url": "http://www.nps.gov/vive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04765021800995,
+          38.89124576895521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Three Servicemen Statue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04833686351776,
+          38.89048167831605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800040",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "name": "Lincoln Memorial",
+        "url": "http://www.nps.gov/linc/",
+        "notes": "Daniel Chester French's sculpture of Abraham Lincoln is the centerpiece of this memorial, but look to the sides of the chamber to find Jules Guerin's murals and Lincoln's Gettysburg Address and Second Inaugural Address."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05010712146759,
+          38.88923322838362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800040",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "name": "Korean War Veterans Memorial",
+        "url": "http://www.nps.gov/kowa/",
+        "notes": "When North Korea invaded South Korea on July 27, 1950, American troops were on the front lines. The conflict took tens of thousands of American lives over the next three years. Look for Frank Gaylord's 19 stainless steel sculptures and an innovative graphic wall that honor those who served."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04762339591979,
+          38.887717522220036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "D.C. War Memorial",
+        "notes": "Before any national war memorials were built, war memorials typically honored local servicemen, as this beautiful memorial does for D.C.'s men who gave the ultimate sacrifice in World War I."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04350352287292,
+          38.88757555359511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Ranger Station",
+        "notes": "The Survey Lodge Ranger Station is a historic building linked to the Washington Monument."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03742563724518,
+          38.888143426392446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "John Paul Jones Memorial",
+        "notes": "Dedicated in 1912, the memorial honors the first American naval hero."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03948020935059,
+          38.88823528774195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "name": "Tulip/Annual Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369964838028,
+          38.88676549189556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "George Mason Memorial",
+        "url": "http://www.nps.gov/gemm/",
+        "notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03919053077698,
+          38.87958100957675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800040",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "name": "Thomas Jefferson Memorial",
+        "url": "http://www.nps.gov/thje/",
+        "notes": "A jaw-dropping rotunda caps an inspiring space that honors the author of the Declaration of Independence and the third president of the United States."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03654050827026,
+          38.8814205233821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800040",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "name": "Franklin Delano Roosevelt Memorial",
+        "url": "http://www.nps.gov/frde/",
+        "notes": "Unique among the presidential memorials, this 7.5 acre site uses landscape design, art, and water features to take visitors on a journey through time."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04280078411102,
+          38.883149330631056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800040",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "name": "Martin Luther King, Jr. Memorial",
+        "url": "http://www.nps.gov/mlkm/",
+        "notes": "Dedicated in 2011, the memorial features Dr. King's quotes and a massive sculpture of Dr. King by Chinese artist Lei Yixin."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04417943954466,
+          38.886164203011745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8040",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "name": "In-Depth Tour",
+        "notes": "The In-Depth Tour route includes detours off the main walking route to additional memorials and points of interest. Adding all the In-Depth Tour segments adds approximately 3.2 miles to the trip."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03667998313904,
+            38.88998063081193
+          ],
+          [
+            -77.0364224910736,
+            38.89019775183098
+          ],
+          [
+            -77.03632593154907,
+            38.89045662602478
+          ],
+          [
+            -77.03632593154907,
+            38.89073220074276
+          ],
+          [
+            -77.03650832176208,
+            38.89101612509154
+          ],
+          [
+            -77.03657269477844,
+            38.89126664563328
+          ],
+          [
+            -77.03655123710632,
+            38.89194304668247
+          ],
+          [
+            -77.03964114189148,
+            38.89195139727245
+          ],
+          [
+            -77.03964114189148,
+            38.889905473381475
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8040",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "name": "In-Depth Tour"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.04052090644836,
+            38.8900724897856
+          ],
+          [
+            -77.04053699970245,
+            38.890869987700825
+          ],
+          [
+            -77.04095542430876,
+            38.89085328626558
+          ],
+          [
+            -77.04093396663666,
+            38.89119148956352
+          ],
+          [
+            -77.04120755195618,
+            38.89147123675358
+          ],
+          [
+            -77.04157769680023,
+            38.891588145700595
+          ],
+          [
+            -77.04184591770172,
+            38.89161319759279
+          ],
+          [
+            -77.04208195209503,
+            38.891600671647794
+          ],
+          [
+            -77.04228043556213,
+            38.89156309379959
+          ],
+          [
+            -77.04244136810303,
+            38.89148793804351
+          ],
+          [
+            -77.04261302947998,
+            38.891371028931545
+          ],
+          [
+            -77.04284906387328,
+            38.89133762629279
+          ],
+          [
+            -77.04287052154541,
+            38.89113721013036
+          ],
+          [
+            -77.04287588596344,
+            38.89133762629279
+          ],
+          [
+            -77.04318702220917,
+            38.89142530818604
+          ],
+          [
+            -77.04360544681549,
+            38.891542217208645
+          ],
+          [
+            -77.04395413398743,
+            38.89147541207641
+          ],
+          [
+            -77.04409897327423,
+            38.891400256227584
+          ],
+          [
+            -77.04419016838074,
+            38.89124994429132
+          ],
+          [
+            -77.04447448253632,
+            38.891062053923655
+          ],
+          [
+            -77.04461395740509,
+            38.890961845524366
+          ],
+          [
+            -77.04467296600342,
+            38.89076977903055
+          ],
+          [
+            -77.04496800899506,
+            38.89054013362797
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8040",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "name": "In-Depth Tour"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.04690456390381,
+            38.89066330716349
+          ],
+          [
+            -77.04718351364136,
+            38.89056727357788
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8040",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "name": "In-Depth Tour",
+        "notes": "From the chamber level, follow the walk around to the rear of the building for a view of Arlington Cemetery and the Potomac River."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.04985499382019,
+            38.8892040001959
+          ],
+          [
+            -77.04987108707428,
+            38.88896182332086
+          ],
+          [
+            -77.05046653747559,
+            38.88894929690833
+          ],
+          [
+            -77.05046653747559,
+            38.88960484286446
+          ],
+          [
+            -77.04986035823822,
+            38.88960901829702
+          ],
+          [
+            -77.04986572265625,
+            38.88922487747406
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8040",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "name": "In-Depth Tour",
+        "notes": "Take this detour to visit the D.C. War Memorial."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.04846560955048,
+            38.887696644498845
+          ],
+          [
+            -77.04874992370604,
+            38.888026511775855
+          ],
+          [
+            -77.04870164394379,
+            38.88803486282628
+          ],
+          [
+            -77.04813838005066,
+            38.88840230807302
+          ],
+          [
+            -77.04790234565735,
+            38.88841065907927
+          ],
+          [
+            -77.04763412475586,
+            38.88839395706578
+          ],
+          [
+            -77.04744100570677,
+            38.888256165304796
+          ],
+          [
+            -77.04721570014954,
+            38.88813925087375
+          ],
+          [
+            -77.04687774181365,
+            38.88804738940008
+          ],
+          [
+            -77.04628229141235,
+            38.88808079358606
+          ],
+          [
+            -77.0454615354538,
+            38.88808496910822
+          ],
+          [
+            -77.04351425170897,
+            38.88808079358606
+          ],
+          [
+            -77.04350888729095,
+            38.88709536349632
+          ],
+          [
+            -77.04481780529022,
+            38.88713711928594
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8040",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "name": "In-Depth Tour"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.04419553279877,
+            38.88616002737669
+          ],
+          [
+            -77.0440024137497,
+            38.886068163343666
+          ],
+          [
+            -77.04358398914337,
+            38.88625189129095
+          ],
+          [
+            -77.04317092895506,
+            38.88636045758188
+          ],
+          [
+            -77.04262375831604,
+            38.88642726752462
+          ],
+          [
+            -77.0422053337097,
+            38.88642309190506
+          ],
+          [
+            -77.04163134098053,
+            38.88640638942427
+          ],
+          [
+            -77.04134166240692,
+            38.88641474066515
+          ],
+          [
+            -77.0411217212677,
+            38.88651077986469
+          ],
+          [
+            -77.0410305261612,
+            38.886619345760025
+          ],
+          [
+            -77.04107880592346,
+            38.886761316295846
+          ],
+          [
+            -77.04136312007904,
+            38.88671538468294
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Japanese Pagoda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.041355073452,
+          38.882844495692524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8040",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "name": "In-Depth Tour"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03972697257994,
+            38.88003410650067
+          ],
+          [
+            -77.0396089553833,
+            38.87989421052372
+          ],
+          [
+            -77.03942388296126,
+            38.879743874241456
+          ],
+          [
+            -77.03932732343674,
+            38.879660353947195
+          ],
+          [
+            -77.03936487436293,
+            38.87959980167249
+          ],
+          [
+            -77.03933000564575,
+            38.879482872995986
+          ],
+          [
+            -77.03922003507614,
+            38.879443200722754
+          ],
+          [
+            -77.03912079334259,
+            38.87944946476736
+          ],
+          [
+            -77.03902959823608,
+            38.879516281208915
+          ],
+          [
+            -77.03904032707214,
+            38.87966870598104
+          ],
+          [
+            -77.03909665346146,
+            38.8797083781284
+          ],
+          [
+            -77.03917980194092,
+            38.87972090617032
+          ],
+          [
+            -77.0392656326294,
+            38.87972090617032
+          ],
+          [
+            -77.03931391239166,
+            38.879666617972696
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8040",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "name": "In-Depth Tour"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03963577747345,
+            38.88956726396036
+          ],
+          [
+            -77.03961431980133,
+            38.8889033667101
+          ],
+          [
+            -77.0397698879242,
+            38.88878645334424
+          ],
+          [
+            -77.03975915908813,
+            38.888602731951956
+          ],
+          [
+            -77.0400059223175,
+            38.88842318558679
+          ],
+          [
+            -77.0400059223175,
+            38.88827704286152
+          ],
+          [
+            -77.03996300697327,
+            38.88816012846484
+          ],
+          [
+            -77.03985571861267,
+            38.888101671194335
+          ],
+          [
+            -77.03967332839966,
+            38.88828121837215
+          ],
+          [
+            -77.03956067562103,
+            38.8882853938825
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8040",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "name": "In-Depth Tour",
+        "notes": "Take this detour to access the Tulip/Annual Library, a planting of colorful and interesting flowers."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03391194343567,
+            38.884343602859325
+          ],
+          [
+            -77.03441619873047,
+            38.884744472953294
+          ],
+          [
+            -77.03484535217285,
+            38.88487809581533
+          ],
+          [
+            -77.03514575958252,
+            38.884986664205684
+          ],
+          [
+            -77.03560709953308,
+            38.884986664205684
+          ],
+          [
+            -77.03603625297546,
+            38.884986664205684
+          ],
+          [
+            -77.03648686408997,
+            38.88517039494984
+          ],
+          [
+            -77.03673362731934,
+            38.885504449631
+          ],
+          [
+            -77.0369267463684,
+            38.885896961874245
+          ],
+          [
+            -77.03702330589294,
+            38.88612244665026
+          ],
+          [
+            -77.03739881515503,
+            38.88642309190506
+          ],
+          [
+            -77.03762412071228,
+            38.88659846771609
+          ],
+          [
+            -77.03761339187622,
+            38.886681979854906
+          ],
+          [
+            -77.0376455783844,
+            38.886865706214735
+          ],
+          [
+            -77.03704476356506,
+            38.8868239502656
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8040",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "name": "In-Depth Tour",
+        "notes": "Take this detour to access the Tulip/Annual Library, a planting of colorful and interesting flowers."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03763484954834,
+            38.88684065264819
+          ],
+          [
+            -77.03757047653197,
+            38.886990973914905
+          ],
+          [
+            -77.0371091365814,
+            38.887684117863216
+          ],
+          [
+            -77.0371413230896,
+            38.88787619270037
+          ],
+          [
+            -77.03675508499146,
+            38.88787619270037
+          ],
+          [
+            -77.03599333763123,
+            38.887717522220036
+          ],
+          [
+            -77.03538179397583,
+            38.88762566020101
+          ],
+          [
+            -77.0342767238617,
+            38.887801033043345
+          ],
+          [
+            -77.03379392623901,
+            38.88794300121763
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8040",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "name": "In-Depth Tour"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.0400220155716,
+            38.888256165304796
+          ],
+          [
+            -77.04031169414519,
+            38.88826869183956
+          ],
+          [
+            -77.04049944877625,
+            38.888419010084526
+          ],
+          [
+            -77.04092860221863,
+            38.888602731951956
+          ],
+          [
+            -77.04098761081696,
+            38.88874052304072
+          ],
+          [
+            -77.04089641571045,
+            38.88886161195867
+          ],
+          [
+            -77.04105198383331,
+            38.88889501576177
+          ],
+          [
+            -77.04110562801361,
+            38.88987624547037
+          ],
+          [
+            -77.04093933105469,
+            38.889934701280545
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Japanese Stone Lantern and First Cherry Trees",
+        "notes": "This detour passes along some of the famous cherry trees, and arrives at a small plaza with the Japanese Lantern."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04134702682495,
+          38.88667780425031
+        ]
+      }
+    }
+  ]
+}

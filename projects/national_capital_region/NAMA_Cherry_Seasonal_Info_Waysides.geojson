@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "name": "First Ladies & Cherry Trees Information",
+        "number": 2,
+        "notes": "In view of the White House, this informational sign discusses the roles of First Ladies in connection with the cherry blossoms."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369333,
+          38.8878667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "name": "First Lady Tree and the Science Behind the Trees",
+        "number": 3,
+        "notes": "Informational sign discusses how cherry trees are cultivated, including a unique First Lady cherry tree at this location."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0476833,
+          38.8846667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "name": "National Cherry Blossom Festival - the Organization",
+        "number": 5,
+        "notes": "Informational sign discusses the history of the cherry blossom festival."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0375667,
+          38.8812333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "name": "National Cherry Blossom Festival - the Event",
+        "number": 6,
+        "notes": "Informational sign discusses the history of the cherry blossom festival."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03755170106886,
+          38.881197111646706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "name": "Predicting Peak Bloom",
+        "number": 7,
+        "notes": "Informational sign that talks about the science of forecasting when the trees will bloom."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03334331512451,
+          38.882481197550774
+        ]
+      }
+    }
+  ]
+}

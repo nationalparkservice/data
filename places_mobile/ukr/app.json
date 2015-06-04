@@ -1,38 +1,8 @@
 {
   "alerts": [],
-  "categories": [
-    {
-      "name": "Highlights",
-      "sites": [
-        91,
-        92,
-        93
-      ]
-    },
-    {
-      "name": "Favorites",
-      "sites": [
-        84,
-        85,
-        86,
-        87,
-        88,
-        89,
-        90
-      ]
-    },
-    {
-      "name": "Nearby",
-      "sites": [
-        88,
-        89,
-        90,
-        91
-      ]
-    }
-  ],
-  "description": "Ukrainian Locations",
-  "designation": "Country",
+  "categories": [],
+  "description": "Overseas Testing Locations",
+  "designation": "National Park",
   "events": [],
   "map_thumbnail_zoom": 16,
   "max_distance_in_meters": 1609.3,
@@ -41,6 +11,9 @@
       "alt": "Alt text for Ukr Site 1",
       "caption": "Caption text for Ukr Site 1",
       "id": 175,
+      "image_thumbnail_1x": "175_thumbnail.png",
+      "image_thumbnail_2x": "175_thumbnail@2x.png",
+      "image_thumbnail_3x": "175_thumbnail@3x.png",
       "name": "Name text for Ukr Site 1",
       "relative_url": "175.png",
       "relative_url_@2x": "175@2x.png",
@@ -52,6 +25,9 @@
       "alt": "Alt text for Ukr Site 9",
       "caption": "Caption text for Ukr Site 9",
       "id": 183,
+      "image_thumbnail_1x": "183_thumbnail.png",
+      "image_thumbnail_2x": "183_thumbnail@2x.png",
+      "image_thumbnail_3x": "183_thumbnail@3x.png",
       "name": "Name text for Ukr Site 9",
       "relative_url": "183.png",
       "relative_url_@2x": "183@2x.png",
@@ -63,6 +39,9 @@
       "alt": "Alt text for Ukr Site 10",
       "caption": "Caption text for Ukr Site 10",
       "id": 184,
+      "image_thumbnail_1x": "184_thumbnail.png",
+      "image_thumbnail_2x": "184_thumbnail@2x.png",
+      "image_thumbnail_3x": "184_thumbnail@3x.png",
       "name": "Name text for Ukr Site 10",
       "relative_url": "184.png",
       "relative_url_@2x": "184@2x.png",
@@ -74,6 +53,9 @@
       "alt": "Alt text for Ukr Site 2",
       "caption": "Caption text for Ukr Site 2",
       "id": 176,
+      "image_thumbnail_1x": "176_thumbnail.png",
+      "image_thumbnail_2x": "176_thumbnail@2x.png",
+      "image_thumbnail_3x": "176_thumbnail@3x.png",
       "name": "Name text for Ukr Site 2",
       "relative_url": "176.png",
       "relative_url_@2x": "176@2x.png",
@@ -85,6 +67,9 @@
       "alt": "Alt text for Ukr Site 3",
       "caption": "Caption text for Ukr Site 3",
       "id": 177,
+      "image_thumbnail_1x": "177_thumbnail.png",
+      "image_thumbnail_2x": "177_thumbnail@2x.png",
+      "image_thumbnail_3x": "177_thumbnail@3x.png",
       "name": "Name text for Ukr Site 3",
       "relative_url": "177.png",
       "relative_url_@2x": "177@2x.png",
@@ -96,6 +81,9 @@
       "alt": "Alt text for Ukr Site 4",
       "caption": "Caption text for Ukr Site 4",
       "id": 178,
+      "image_thumbnail_1x": "178_thumbnail.png",
+      "image_thumbnail_2x": "178_thumbnail@2x.png",
+      "image_thumbnail_3x": "178_thumbnail@3x.png",
       "name": "Name text for Ukr Site 4",
       "relative_url": "178.png",
       "relative_url_@2x": "178@2x.png",
@@ -107,6 +95,9 @@
       "alt": "Alt text for Ukr Site 5",
       "caption": "Caption text for Ukr Site 5",
       "id": 179,
+      "image_thumbnail_1x": "179_thumbnail.png",
+      "image_thumbnail_2x": "179_thumbnail@2x.png",
+      "image_thumbnail_3x": "179_thumbnail@3x.png",
       "name": "Name text for Ukr Site 5",
       "relative_url": "179.png",
       "relative_url_@2x": "179@2x.png",
@@ -118,6 +109,9 @@
       "alt": "Alt text for Ukr Site 6",
       "caption": "Caption text for Ukr Site 6",
       "id": 180,
+      "image_thumbnail_1x": "180_thumbnail.png",
+      "image_thumbnail_2x": "180_thumbnail@2x.png",
+      "image_thumbnail_3x": "180_thumbnail@3x.png",
       "name": "Name text for Ukr Site 6",
       "relative_url": "180.png",
       "relative_url_@2x": "180@2x.png",
@@ -129,6 +123,9 @@
       "alt": "Alt text for Ukr Site 7",
       "caption": "Caption text for Ukr Site 7",
       "id": 181,
+      "image_thumbnail_1x": "181_thumbnail.png",
+      "image_thumbnail_2x": "181_thumbnail@2x.png",
+      "image_thumbnail_3x": "181_thumbnail@3x.png",
       "name": "Name text for Ukr Site 7",
       "relative_url": "181.png",
       "relative_url_@2x": "181@2x.png",
@@ -140,6 +137,9 @@
       "alt": "Alt text for Ukr Site 8",
       "caption": "Caption text for Ukr Site 8",
       "id": 182,
+      "image_thumbnail_1x": "182_thumbnail.png",
+      "image_thumbnail_2x": "182_thumbnail@2x.png",
+      "image_thumbnail_3x": "182_thumbnail@3x.png",
       "name": "Name text for Ukr Site 8",
       "relative_url": "182.png",
       "relative_url_@2x": "182@2x.png",
@@ -149,103 +149,12 @@
     }
   ],
   "more": [],
-  "name": "Ukraine",
+  "name": "Test",
   "searches": [],
-  "sites": [
-    {
-      "description": "Ukr Site #1",
-      "geofence_buffer_in_meters": 10,
-      "id": 84,
-      "latitude": 49.987905,
-      "longitude": 36.232275,
-      "map_thumbnail_image": 175,
-      "name": "Ukr Site 1"
-    },
-    {
-      "description": "Ukr Site #4",
-      "geofence_buffer_in_meters": 10,
-      "id": 87,
-      "latitude": 49.996943,
-      "longitude": 36.189767,
-      "map_thumbnail_image": 178,
-      "name": "Ukr Site 4"
-    },
-    {
-      "description": "Ukr Site #2",
-      "geofence_buffer_in_meters": 10,
-      "id": 85,
-      "latitude": 50.03656,
-      "longitude": 36.223783,
-      "map_thumbnail_image": 176,
-      "name": "Ukr Site 2"
-    },
-    {
-      "description": "Ukr Site #7",
-      "geofence_buffer_in_meters": 10,
-      "id": 90,
-      "latitude": 49.998366,
-      "longitude": 36.24068,
-      "map_thumbnail_image": 181,
-      "name": "Ukr Site 7"
-    },
-    {
-      "description": "Ukr Site #3",
-      "geofence_buffer_in_meters": 10,
-      "id": 86,
-      "latitude": 49.98984,
-      "longitude": 36.234605,
-      "map_thumbnail_image": 177,
-      "name": "Ukr Site 3"
-    },
-    {
-      "description": "Ukr Site #5",
-      "geofence_buffer_in_meters": 10,
-      "id": 88,
-      "latitude": 49.993455,
-      "longitude": 36.239619,
-      "map_thumbnail_image": 179,
-      "name": "Ukr Site 5"
-    },
-    {
-      "description": "Ukr Site #10",
-      "geofence_buffer_in_meters": 10,
-      "id": 93,
-      "latitude": 50.035205,
-      "longitude": 36.220644,
-      "map_thumbnail_image": 184,
-      "name": "Ukr Site 10"
-    },
-    {
-      "description": "Ukr Site #6",
-      "geofence_buffer_in_meters": 10,
-      "id": 89,
-      "latitude": 49.980948,
-      "longitude": 36.147245,
-      "map_thumbnail_image": 180,
-      "name": "Ukr Site 6"
-    },
-    {
-      "description": "Ukr Site #8",
-      "geofence_buffer_in_meters": 10,
-      "id": 91,
-      "latitude": 49.991493,
-      "longitude": 36.231708,
-      "map_thumbnail_image": 182,
-      "name": "Ukr Site 8"
-    },
-    {
-      "description": "Ukr Site #9",
-      "geofence_buffer_in_meters": 10,
-      "id": 92,
-      "latitude": 49.991493,
-      "longitude": 36.231708,
-      "map_thumbnail_image": 183,
-      "name": "Ukr Site 9"
-    }
-  ],
+  "sites": [],
   "tours": [],
   "urls": {
-    "base_url_icon": "http://nationalparkservice.github.io/data/places_mobile/icons/",
-    "base_url_media": "http://nationalparkservice.github.io/data/places_mobile/ukr/media/"
+    "base_url_icon": "http://www.nps.gov/npmap/projects/places-mobile/icons/",
+    "base_url_media": "http://www.nps.gov/npmap/projects/places-mobile/ukr/media/"
   }
 }

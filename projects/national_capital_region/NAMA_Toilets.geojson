@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03655123710632,
+          38.88172327648197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04165279865265,
+          38.88265658309253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04406678676605,
+          38.88406382759942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0452094078064,
+          38.886164203011745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03150868415831,
+          38.87316426234609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.049820125103,
+          38.88911005236828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04275250434875,
+          38.887959703337145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04144090414047,
+          38.88798266874504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03340232372283,
+          38.889462878011365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04537570476532,
+          38.89027290895218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02621400356293,
+          38.864739966578085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02336549758911,
+          38.860947245787365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02676385641098,
+          38.87604800728532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "small",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0342230796814,
+          38.88805991597167
+        ]
+      }
+    }
+  ]
+}
