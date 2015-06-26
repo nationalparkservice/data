@@ -314,7 +314,8 @@
         "stroke-opacity": 1,
         "fill": "#400080",
         "fill-opacity": 0.5,
-        "name": "Freer Gallery of Art"
+        "details": "Freer Gallery of Art",
+        "name": "Safe Haven"
       },
       "geometry": {
         "type": "Polygon",
@@ -462,7 +463,8 @@
         "stroke-opacity": 1,
         "fill": "#400080",
         "fill-opacity": 0.5,
-        "name": "Safe Haven"
+        "name": "Safe Haven",
+        "details": "Smithsonian Castle"
       },
       "geometry": {
         "type": "Polygon",
