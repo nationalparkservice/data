@@ -452,6 +452,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "entrance",
+        "marker-color": "#7e7e7e",
         "name": "Access Point - A Capitol Fourth Concert",
         "marker-size": "medium"
       },
