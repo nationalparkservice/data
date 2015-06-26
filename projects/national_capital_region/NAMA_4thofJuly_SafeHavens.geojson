@@ -9,9 +9,8 @@
         "stroke-opacity": 1,
         "fill": "#400080",
         "fill-opacity": 0.5,
-        "name": "",
-        "details": "Holocaust Memorial Museum",
-        "name ": "Safe Haven"
+        "name": "Safe Haven",
+        "details": "Holocaust Memorial Museum"
       },
       "geometry": {
         "type": "Polygon",
@@ -133,9 +132,8 @@
         "stroke-opacity": 1,
         "fill": "#400080",
         "fill-opacity": 0.5,
-        "name": "",
-        "details": "National Museum of American History",
-        "name ": "Safe Haven"
+        "name": "Safe Haven",
+        "details": "National Museum of American History"
       },
       "geometry": {
         "type": "Polygon",
@@ -173,9 +171,8 @@
         "stroke-opacity": 1,
         "fill": "#400080",
         "fill-opacity": 0.5,
-        "name": "",
-        "details": "National Museum of Natural History",
-        "name ": "Safe Haven"
+        "name": "Safe Haven",
+        "details": "National Museum of Natural History"
       },
       "geometry": {
         "type": "Polygon",
@@ -317,8 +314,7 @@
         "stroke-opacity": 1,
         "fill": "#400080",
         "fill-opacity": 0.5,
-        "name": "",
-        "name ": "Freer Gallery of Art"
+        "name": "Freer Gallery of Art"
       },
       "geometry": {
         "type": "Polygon",
@@ -388,9 +384,8 @@
         "stroke-opacity": 1,
         "fill": "#400080",
         "fill-opacity": 0.5,
-        "name": "",
-        "details": "Arthur M. Sackler Gallery",
-        "name ": "Safe Haven"
+        "name": "Safe Haven",
+        "details": "Arthur M. Sackler Gallery"
       },
       "geometry": {
         "type": "Polygon",
@@ -428,9 +423,8 @@
         "stroke-opacity": 1,
         "fill": "#400080",
         "fill-opacity": 0.5,
-        "name": "",
-        "details": "African Art Museum",
-        "name ": "Safe Haven"
+        "name": "Safe Haven",
+        "details": "African Art Museum"
       },
       "geometry": {
         "type": "Polygon",
@@ -468,8 +462,7 @@
         "stroke-opacity": 1,
         "fill": "#400080",
         "fill-opacity": 0.5,
-        "name": "",
-        "name ": "Safe Haven"
+        "name": "Safe Haven"
       },
       "geometry": {
         "type": "Polygon",
@@ -651,9 +644,8 @@
         "stroke-opacity": 1,
         "fill": "#400080",
         "fill-opacity": 0.5,
-        "name": "",
-        "details": "Hirshorn Museum",
-        "name ": "Safe Haven"
+        "name": "Safe Haven",
+        "details": "Hirshorn Museum"
       },
       "geometry": {
         "type": "Polygon",
@@ -755,9 +747,8 @@
         "stroke-opacity": 1,
         "fill": "#400080",
         "fill-opacity": 0.5,
-        "name": "",
-        "details": "National Air and Space Museum",
-        "name ": "Safe Haven"
+        "name": "Safe Haven",
+        "details": "National Air and Space Museum"
       },
       "geometry": {
         "type": "Polygon",
@@ -1055,9 +1046,8 @@
         "stroke-opacity": 1,
         "fill": "#400080",
         "fill-opacity": 0.5,
-        "name": "",
-        "details": "National Museum of the American Indian",
-        "name ": "Safe Haven"
+        "name": "Safe Haven",
+        "details": "National Museum of the American Indian"
       },
       "geometry": {
         "type": "Polygon",
