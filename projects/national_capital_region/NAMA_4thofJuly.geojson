@@ -8,7 +8,9 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#ff8080",
-        "fill-opacity": 0.3
+        "fill-opacity": 0.3,
+        "name": "Secure Area",
+        "details": "Prohibited Items: guns, knives, ammunition, explosives, fireworks, alcohol, glass containers, unmanned aerial systems"
       },
       "geometry": {
         "type": "Polygon",
