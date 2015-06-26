@@ -289,7 +289,7 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "hospital",
-        "name ": "First Aid"
+        "name": "First Aid"
       },
       "geometry": {
         "type": "Point",
@@ -305,7 +305,7 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "hospital",
-        "name ": "First Aid"
+        "name": "First Aid"
       },
       "geometry": {
         "type": "Point",
@@ -321,7 +321,7 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "hospital",
-        "name ": "First Aid"
+        "name": "First Aid"
       },
       "geometry": {
         "type": "Point",
@@ -337,7 +337,7 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "hospital",
-        "name ": "First Aid"
+        "name": "First Aid"
       },
       "geometry": {
         "type": "Point",
@@ -353,7 +353,7 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "hospital",
-        "name ": "First Aid"
+        "name": "First Aid"
       },
       "geometry": {
         "type": "Point",
@@ -369,9 +369,8 @@
         "marker-color": "#004080",
         "marker-size": "medium",
         "marker-symbol": "star",
-        "name": "",
-        "details": "6:00 p.m. - 9:09 p.m.",
-        "name ": "U.S. Air Force Band (Max Impact) Performance"
+        "name": "U.S. Air Force Band (Max Impact) Performance",
+        "details": "6:00 p.m. - 9:09 p.m."
       },
       "geometry": {
         "type": "Point",
@@ -398,15 +397,13 @@
         ]
       }
     },
-   
     {
       "type": "Feature",
       "properties": {
         "marker-color": "#008080",
         "marker-size": "medium",
         "marker-symbol": "police",
-        "name": "",
-        "name ": "Family Reunification"
+        "name": "Family Reunification"
       },
       "geometry": {
         "type": "Point",
@@ -422,8 +419,7 @@
         "marker-color": "#008080",
         "marker-size": "medium",
         "marker-symbol": "bicycle",
-        "name": "",
-        "name ": "Bicycle Parking"
+        "name": "Bicycle Parking"
       },
       "geometry": {
         "type": "Point",
@@ -439,9 +435,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "entrance",
-        "name": "",
-        "details": "",
-        "name ": "Access Point - A Capitol Fourth Concert"
+        "name": "Access Point - A Capitol Fourth Concert",
+        "details": ""
       },
       "geometry": {
         "type": "Point",
@@ -455,9 +450,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "entrance",
-        "name": "",
-        "marker-size": "medium",
-        "name ": "Access Point - A Capitol Fourth Concert"
+        "name": "Access Point - A Capitol Fourth Concert",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -470,69 +464,16 @@
     {
       "type": "Feature",
       "properties": {
-        "name ": "First Aid",
         "marker-size": "medium",
         "marker-color": "#ff0000",
-        "marker-symbol": "hospital"
+        "marker-symbol": "hospital",
+        "name": "First Aid"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -77.04973697662352,
           38.88822693671509
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#ffff00",
-        "stroke-width": 5,
-        "stroke-opacity": 1,
-        "name": "Parade Route",
-        "details": "11:45 a.m. - 2:00 p.m."
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.02190637588501,
-            38.89208500657871
-          ],
-          [
-            -77.03948020935059,
-            38.892101707724315
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#ff0000",
-        "stroke-width": 5,
-        "stroke-opacity": 1,
-        "name": "Shoreline Access Prohibited"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.05398559570312,
-            38.88956308852534
-          ],
-          [
-            -77.0514965057373,
-            38.88642309190506
-          ],
-          [
-            -77.03690528869629,
-            38.876668174652636
-          ],
-          [
-            -77.03274250030518,
-            38.87305985229681
-          ]
         ]
       }
     }
