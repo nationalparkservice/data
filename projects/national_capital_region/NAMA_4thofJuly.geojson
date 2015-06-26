@@ -312,8 +312,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.03878283500671,
-          38.89131674963558
+          -77.03893303871155,
+          38.890189401034824
         ]
       }
     },
@@ -452,7 +452,6 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "entrance",
-        "marker-color": "#7e7e7e",
         "name": "Access Point - A Capitol Fourth Concert",
         "marker-size": "medium"
       },
