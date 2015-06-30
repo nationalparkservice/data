@@ -6,7 +6,8 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "parking"
+        "marker-symbol": "parking",
+        "name": "Parking"
       },
       "geometry": {
         "type": "Point",
@@ -37,7 +38,8 @@
       "properties": {
         "marker-color": "#804040",
         "marker-size": "medium",
-        "marker-symbol": "garden"
+        "marker-symbol": "garden",
+        "name": "Aquatic Gardens"
       },
       "geometry": {
         "type": "Point",
@@ -52,7 +54,8 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "parking"
+        "marker-symbol": "parking",
+        "name": "Parking"
       },
       "geometry": {
         "type": "Point",
@@ -67,7 +70,8 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "parking"
+        "marker-symbol": "parking",
+        "name": "Parking"
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +86,8 @@
       "properties": {
         "marker-color": "#804040",
         "marker-size": "medium",
-        "marker-symbol": "pitch"
+        "marker-symbol": "pitch",
+        "name": "Track / Playing Field"
       },
       "geometry": {
         "type": "Point",
@@ -97,7 +102,8 @@
       "properties": {
         "marker-color": "#804040",
         "marker-size": "medium",
-        "marker-symbol": "tennis"
+        "marker-symbol": "tennis",
+        "name": "Tennis Court"
       },
       "geometry": {
         "type": "Point",
@@ -112,7 +118,8 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "parking"
+        "marker-symbol": "parking",
+        "name": "Parking"
       },
       "geometry": {
         "type": "Point",
@@ -127,7 +134,8 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "parking"
+        "marker-symbol": "parking",
+        "name": "Parking"
       },
       "geometry": {
         "type": "Point",
@@ -142,7 +150,8 @@
       "properties": {
         "marker-color": "#804040",
         "marker-size": "medium",
-        "marker-symbol": "basketball"
+        "marker-symbol": "basketball",
+        "name": "Basketball Courts"
       },
       "geometry": {
         "type": "Point",
