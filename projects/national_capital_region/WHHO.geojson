@@ -112,6 +112,7 @@
         "marker-size": "medium",
         "marker-symbol": "park",
         "name": "National Christmas Tree"
+        "url": "http://www.nps.gov/whho/planyourvisit/national-christmas-tree.htm"
       },
       "geometry": {
         "type": "Point",
