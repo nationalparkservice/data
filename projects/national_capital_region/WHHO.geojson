@@ -111,8 +111,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "park",
-        "name": "National Christmas Tree"
-        "url": "http://www.nps.gov/whho/planyourvisit/national-christmas-tree.htm"
+        "name": "National Christmas Tree",
+        "url": "http://www.nps.gov/whho/planyourvisit/national-christmas-tree.htm",
         "image": "http://www.nps.gov/common/uploads/photogallery/ncr/park/whho/2BACF6E5-1DD8-B71C-073CDACB5A914898/2BACF6E5-1DD8-B71C-073CDACB5A914898-small.JPG"
       },
       "geometry": {
@@ -624,7 +624,9 @@
         "marker-size": "large",
         "marker-symbol": "star",
         "name": "White House Visitor Center",
-        "url": "http://www.nps.gov/whho/planyourvisit/white-house-visitor-center.htm"
+        "url": "http://www.nps.gov/whho/planyourvisit/white-house-visitor-center.htm",
+        "image": "http://www.nps.gov/whho/planyourvisit/images/WHHO_RVC_img.jpg",
+        "details": "1450 Pennsylvania Ave. NW. Open daily 7:30 a.m. - 4:00 p.m. (except Jan. 1, Thanksgiving, Dec. 25)."
       },
       "geometry": {
         "type": "Point",
