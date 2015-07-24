@@ -1,0 +1,217 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93985223770142,
+          38.912958372877306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804040",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Visitor Center / Bookstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94188266992569,
+          38.91263696956081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804040",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "name": "Aquatic Gardens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94383800029755,
+          38.91287489163633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95476531982422,
+          38.9077072116671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94866061210632,
+          38.907615375502886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804040",
+        "marker-size": "medium",
+        "marker-symbol": "pitch",
+        "name": "Track / Playing Field"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94591403007507,
+          38.90801611425666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804040",
+        "marker-size": "medium",
+        "marker-symbol": "tennis",
+        "name": "Tennis Court"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94571018218994,
+          38.90705600720972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94400429725647,
+          38.907039309580966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94234132766724,
+          38.909001254076514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#804040",
+        "marker-size": "medium",
+        "marker-symbol": "basketball",
+        "name": "Basketball Courts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94385409355164,
+          38.9089678597302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "entrance",
+        "name": "Park Gate",
+        "details": "Hours",
+        "url": "http://www.nps.gov/keaq/planyourvisit/hours.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94016337394714,
+          38.91243243941981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#808080",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "Deanwood Metro",
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93533539772034,
+          38.90805368339885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#808080",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "Minnesota Ave. Metro",
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94674015045166,
+          38.8991325411757
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "Tour Entrance",
+        "details": "Enter here for tours. By reservation only."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03368932008743,
+          38.89639794698431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Ellipse Visitor Pavilion",
+        "details": "Information, Restrooms, Food"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.03482121229172,
+              38.894990946808136
+            ],
+            [
+              -77.03498214483261,
+              38.894888656390876
+            ],
+            [
+              -77.03479439020157,
+              38.89471747617939
+            ],
+            [
+              -77.03463613986969,
+              38.89481976684318
+            ],
+            [
+              -77.03482121229172,
+              38.894990946808136
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Boy Scout Memorial",
+        "image": "http://www.nps.gov/whho/images/Boy-Scout-1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03425794839859,
+          38.8939847367087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Original Patentees Memorial",
+        "image": "http://www.nps.gov/whho/images/Patentees-3.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03384488821028,
+          38.893867831706444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Bulfinch Gatehouse",
+        "image": "http://www.nps.gov/whho/images/Bullfinch-Gatehouse.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03384488821028,
+          38.89237518842499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "name": "National Christmas Tree",
+        "image": "http://www.nps.gov/whho/planyourvisit/images/National-Christmas-Tree-Feature.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03630715608597,
+          38.89490326931664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Zero Milestone",
+        "image": "http://www.nps.gov/whho/images/Zero-milestone-1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03655391931534,
+          38.89511620017961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Butt-Millett Fountain",
+        "image": "http://www.nps.gov/whho/images/Butt-Millett-Fountain.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03744441270828,
+          38.895274854133035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "First Division Monument",
+        "image": "http://www.nps.gov/whho/images/First-Division.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0387077331543,
+          38.896157882161006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Second Division Memorial",
+        "image": "http://www.nps.gov/whho/images/Second-Division.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0379540324211,
+          38.89259021449601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Bulfinch Gatehouse",
+        "image": "http://www.nps.gov/whho/images/Bullfinch-Gatehouse.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03928709030151,
+          38.89238145132946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Haupt Fountains",
+        "image": "http://www.nps.gov/whho/images/Haupt-Fountain.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0367094874382,
+          38.892360574979065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Haupt Fountains",
+        "image": "http://www.nps.gov/whho/images/Haupt-Fountain.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03639030456543,
+          38.89235848734368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "The White House",
+        "image": "http://www.nps.gov/whho/images/White_House_South_Lawn2_150.jpg"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.0378252863884,
+              38.89760243389082
+            ],
+            [
+              -77.0378252863884,
+              38.89733732327489
+            ],
+            [
+              -77.03745782375336,
+              38.89733314829663
+            ],
+            [
+              -77.03746050596237,
+              38.89735402318542
+            ],
+            [
+              -77.0374122262001,
+              38.897324798339405
+            ],
+            [
+              -77.03736126422882,
+              38.897351935696804
+            ],
+            [
+              -77.03729689121246,
+              38.89734776071941
+            ],
+            [
+              -77.03729689121246,
+              38.897587821520425
+            ],
+            [
+              -77.03685700893402,
+              38.89759408396527
+            ],
+            [
+              -77.03685700893402,
+              38.89755442180541
+            ],
+            [
+              -77.03665316104889,
+              38.89756068425318
+            ],
+            [
+              -77.0366370677948,
+              38.89752728452539
+            ],
+            [
+              -77.0366021990776,
+              38.897500147235014
+            ],
+            [
+              -77.0365458726883,
+              38.89749179729743
+            ],
+            [
+              -77.03648149967194,
+              38.897512672139555
+            ],
+            [
+              -77.0364385843277,
+              38.89755650928808
+            ],
+            [
+              -77.03625351190567,
+              38.89756068425318
+            ],
+            [
+              -77.03624814748764,
+              38.89759408396527
+            ],
+            [
+              -77.0358619093895,
+              38.89759617144674
+            ],
+            [
+              -77.0358619093895,
+              38.89754398439127
+            ],
+            [
+              -77.03578680753708,
+              38.89753980942515
+            ],
+            [
+              -77.03578412532806,
+              38.89738742299468
+            ],
+            [
+              -77.03556686639786,
+              38.89738116053162
+            ],
+            [
+              -77.03556954860687,
+              38.897414560328166
+            ],
+            [
+              -77.03549712896346,
+              38.89741873530161
+            ],
+            [
+              -77.03549444675446,
+              38.897487622328256
+            ],
+            [
+              -77.03550785779953,
+              38.897487622328256
+            ],
+            [
+              -77.03550785779953,
+              38.89765044594376
+            ],
+            [
+              -77.03549712896346,
+              38.89765044594376
+            ],
+            [
+              -77.03549712896346,
+              38.89772142022343
+            ],
+            [
+              -77.03556686639786,
+              38.89772142022343
+            ],
+            [
+              -77.03556686639786,
+              38.89775899481337
+            ],
+            [
+              -77.03577876091002,
+              38.89775690733666
+            ],
+            [
+              -77.03577876091002,
+              38.89769219552863
+            ],
+            [
+              -77.03614890575409,
+              38.89768802057123
+            ],
+            [
+              -77.03614354133606,
+              38.897700545442646
+            ],
+            [
+              -77.03625351190567,
+              38.89769637048576
+            ],
+            [
+              -77.03624546527863,
+              38.8978007443344
+            ],
+            [
+              -77.03644931316376,
+              38.89779656938342
+            ],
+            [
+              -77.03645199537277,
+              38.897909292974276
+            ],
+            [
+              -77.03664243221283,
+              38.89790720550199
+            ],
+            [
+              -77.03664243221283,
+              38.89779865685893
+            ],
+            [
+              -77.03685164451599,
+              38.89779865685893
+            ],
+            [
+              -77.03684896230698,
+              38.897700545442646
+            ],
+            [
+              -77.03694820404053,
+              38.89769637048576
+            ],
+            [
+              -77.03694820404053,
+              38.897750644906196
+            ],
+            [
+              -77.03705549240112,
+              38.89771724526776
+            ],
+            [
+              -77.03706085681915,
+              38.89768802057123
+            ],
+            [
+              -77.03744173049927,
+              38.89768593309246
+            ],
+            [
+              -77.03744441270828,
+              38.89760243389082
+            ],
+            [
+              -77.03759998083115,
+              38.89760243389082
+            ],
+            [
+              -77.03759729862213,
+              38.89766714578066
+            ],
+            [
+              -77.03768849372864,
+              38.89766297082179
+            ],
+            [
+              -77.03768849372864,
+              38.897600346409526
+            ],
+            [
+              -77.0378252863884,
+              38.89760243389082
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "William Tecumseh Sherman Statue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03429818153381,
+          38.895972092305904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Rochambeau Statue",
+        "image": "http://www.nps.gov/whho/images/Rochambeau.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03772336244583,
+          38.899017732087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Von Steuben Statue",
+        "image": "http://www.nps.gov/whho/images/Von-Steuben-3.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03771531581879,
+          38.90001343382585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Kosciuszko Statue",
+        "image": "http://www.nps.gov/whho/images/Kosciuzsko.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03537642955779,
+          38.90001552123623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Lafayette Statue",
+        "image": "http://www.nps.gov/whho/images/Lafayette-Statue.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03537911176682,
+          38.899013557207546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Andrew Jackson Statue",
+        "image": "http://www.nps.gov/whho/images/Jackson-Statue.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03655391931534,
+          38.89951454098916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Baruch Bench of Inspiration",
+        "image": "http://www.nps.gov/whho/images/Baruch-Bench.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03671753406525,
+          38.899652310909445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0000ff",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "White House Visitor Center",
+        "url": "http://www.nps.gov/whho/planyourvisit/white-house-visitor-center.htm",
+        "image": "http://www.nps.gov/whho/images/20---WHVC---J.-Feeney.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03288197517395,
+          38.895258153733586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03928709030151,
+            38.89647518505925
+          ],
+          [
+            -77.03928440809248,
+            38.896349934084576
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03931659460068,
+            38.8953437432393
+          ],
+          [
+            -77.03930854797363,
+            38.895458558267904
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03911006450653,
+            38.892287507704346
+          ],
+          [
+            -77.03891962766647,
+            38.892287507704346
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.0366558432579,
+            38.89252132271886
+          ],
+          [
+            -77.03644126653671,
+            38.89252549797999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03420966863632,
+            38.89228333242923
+          ],
+          [
+            -77.03397631645203,
+            38.89227915715386
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03387975692749,
+            38.89558172327407
+          ],
+          [
+            -77.03386902809143,
+            38.895383406633826
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03520476818085,
+            38.89566731238982
+          ],
+          [
+            -77.0349982380867,
+            38.89569653791793
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03752219676971,
+            38.89553579736452
+          ],
+          [
+            -77.03743904829025,
+            38.895606773757635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.0380425453186,
+            38.89562556161454
+          ],
+          [
+            -77.03784942626953,
+            38.89562556161454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03806132078171,
+            38.89655451056232
+          ],
+          [
+            -77.03792452812195,
+            38.89655659807435
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03927636146545,
+            38.898648254305186
+          ],
+          [
+            -77.03928440809248,
+            38.89887787349177
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03811496496199,
+            38.89855431896941
+          ],
+          [
+            -77.03786820173264,
+            38.89855431896941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03743636608124,
+            38.8985501440627
+          ],
+          [
+            -77.0373585820198,
+            38.8985501440627
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03575730323792,
+            38.89856684368803
+          ],
+          [
+            -77.03555077314377,
+            38.89856475623509
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03520208597183,
+            38.8985417942486
+          ],
+          [
+            -77.0349794626236,
+            38.89854596915577
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03387439250946,
+            38.89890501025565
+          ],
+          [
+            -77.03386902809143,
+            38.89856684368803
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03800767660141,
+            38.89987983943497
+          ],
+          [
+            -77.03787356615065,
+            38.89988192684927
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.0350894331932,
+            38.8998694023626
+          ],
+          [
+            -77.03525304794312,
+            38.89987566460623
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03381270170212,
+            38.896322796344265
+          ],
+          [
+            -77.03381538391113,
+            38.89650232274135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03523963689804,
+            38.89638124684895
+          ],
+          [
+            -77.03523963689804,
+            38.8964459598516
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03520745038986,
+            38.89652528538728
+          ],
+          [
+            -77.03500360250473,
+            38.89652528538728
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Security / Gate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.03786015510559,
+            38.89646683500116
+          ],
+          [
+            -77.03786551952362,
+            38.89636454670966
+          ]
+        ]
+      }
+    }
+  ]
+}
