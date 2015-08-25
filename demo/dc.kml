@@ -1,0 +1,1433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Washington DC</name>
+  <description><![CDATA[]]></description>
+  <Placemark>
+    <name><![CDATA[<a href="http://www.nps.gov/history/nr/travel/wash/dc2.htm">Rock Creek Park</a>]]></name>
+    <description><![CDATA[<p>The Park is located along Rock Creek and tributaries from the National Zoo to the DC boundary.</p><div style="margin-top:10px;text-align:center;"><img src="http://www.nps.gov/history/nr/travel/wash/buildings/nw1.jpg" style="height:147px;"></div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+      <Data name="Phone">
+        <value></value>
+      </Data>
+      <Data name="Website">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-77.050941,38.958035,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name><![CDATA[<a href="http://www.nps.gov/history/nr/travel/wash/dc3.htm">Peirce Mill</a>]]></name>
+    <description><![CDATA[<div>2375 Tilden St., NW</div><div>open Wedneday through Sunday from 9:00 am to 5:00 pm</div><div>Metro stop: Cleveland Park or Van Ness/UDC</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-77.090797,38.941292,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name><![CDATA[<a href="http://www.nps.gov/history/nr/travel/wash/dc4.htm">Cleveland Park Historic District</a>]]></name>
+    <description><![CDATA[<div>The buildings described are private and are not open to the public.</div><div>Metro stop: Cleveland Park</div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -77.072868,38.930603,0.000000
+            -77.063553,38.930271,0.000000
+            -77.055573,38.930470,0.000000
+            -77.058060,38.935211,0.000000
+            -77.059998,38.938316,0.000000
+            -77.061668,38.941120,0.000000
+            -77.074974,38.939117,0.000000
+            -77.072571,38.934643,0.000000
+            -77.072868,38.930603,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name><![CDATA[<a href="http://www.nps.gov/history/nr/travel/wash/dc1.htm">Takoma Park Historic District</a>]]></name>
+    <description><![CDATA[<div>*Boundaries&nbsp;are estimated.</div><div>The buildings described are private and not open to the public.</div><div>Metro stop: Takoma</div><div style="margin-top:10px;text-align:center;"><img style="height:136px;" src="http://www.nps.gov/history/nr/travel/wash/buildings/nw31.jpg"></div>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -77.023041,38.972424,0.000000
+            -77.023041,38.975025,0.000000
+            -77.013985,38.974892,0.000000
+            -77.011070,38.972488,0.000000
+            -77.016563,38.972488,0.000000
+            -77.019699,38.972458,0.000000
+            -77.023041,38.972424,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name><![CDATA[<a href="http://www.nps.gov/history/nr/travel/wash/dc5.htm">Washington National Cathedral</a>]]></name>
+    <description><![CDATA[<div>located at the corner of Wisconsin and Massachusetts Aves</div><div>Tel (202) 537-6263</div><div>Metro stop: Tenleytown/AU</div><div><img src="http://www.nps.gov/history/nr/travel/wash/buildings/nw7.jpg" style="height:191px;"></div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+      <Data name="Phone">
+        <value></value>
+      </Data>
+      <Data name="Website">
+        <value></value>
+      </Data>
+      <Data name="Categories">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-77.071632,38.930298,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Chesapeake and Ohio (C&amp;O) Canal </name>
+    <description><![CDATA[<DIV><STRONG><A href="http://www.nps.gov/history/nr/travel/wash/dc6.htm">The Chesapeake and Ohio (C&amp;O) Canal</A></STRONG></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>The park is open during all daylight hours. Some of the park's five visitor centers operate on a seasonal schedule</DIV>
+<DIV>@38.904305,-77.059872</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><IMG style="width:197px" height="371" src="http://www.nps.gov/history/nr/travel/wash/buildings/nw9.jpg" width="250" border="0"></DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-77.059875,38.904305,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>National Zoological Park</name>
+    <description><![CDATA[<DIV><STRONG><FONT color="#0000cc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><A href="http://www.nps.gov/history/nr/travel/wash/dc7.htm">The National Zoological Park</A></STRONG> </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>The Zoo borders Rock Creek Park with entrances at 3001 Connecticut Ave., on Harvard St. and on Beach Dr. </DIV>
+<DIV>It is open daily from 8:00 am to 8:00 pm between April 15th and October 15th. The rest of the year it is open daily from 8:00 am to 6:00 pm. It is closed on December 5th.</DIV>
+<DIV>Admission is free. </DIV>
+<DIV>Tel 202/633-4800</DIV>
+<DIV>@38.929592,-77.04925</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><IMG height="160" src="http://www.nps.gov/history/nr/travel/wash/buildings/nw12.jpg" width="250" border="0"></DIV>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-77.049248,38.929592,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Old Woodley Park Historic District </name>
+    <description><![CDATA[<DIV><STRONG><A href="http://www.nps.gov/history/nr/travel/wash/dc8.htm">Old Woodley Park Historic District</A></STRONG> </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>* Boundaries are estimated.</DIV>
+<DIV>The buildings described are private and not open to the public. </DIV>
+<DIV>Metro stop: Woodley Park-Zoo </DIV>
+<DIV>&nbsp;</DIV>
+<DIV><IMG height="171" src="http://www.nps.gov/history/nr/travel/wash/buildings/nw14.jpg" width="250" border="0"><br>&nbsp;</div>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -77.057716,38.923393,0.000000
+            -77.057808,38.929035,0.000000
+            -77.051796,38.927601,0.000000
+            -77.050209,38.925430,0.000000
+            -77.049652,38.923695,0.000000
+            -77.051842,38.923592,0.000000
+            -77.054413,38.923492,0.000000
+            -77.057716,38.923393,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name><![CDATA[<a href="http://www.nps.gov/history/nr/travel/wash/dc15.htm">The Georgetown Historic District</a>]]></name>
+    <description><![CDATA[<div>Boundaries are estimated.</div><div>Metro Stop: Foggy Bottom</div><div style="margin-top:10px;text-align:center;"><img src="http://www.nps.gov/history/nr/travel/wash/buildings/nw24.jpg" style="height:250px;"></div>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -77.085403,38.912540,0.000000
+            -77.076820,38.913074,0.000000
+            -77.069260,38.913208,0.000000
+            -77.061623,38.913143,0.000000
+            -77.054070,38.912807,0.000000
+            -77.053818,38.912407,0.000000
+            -77.054413,38.912140,0.000000
+            -77.053383,38.912674,0.000000
+            -77.058022,38.900921,0.000000
+            -77.068748,38.903927,0.000000
+            -77.079224,38.904926,0.000000
+            -77.082993,38.904793,0.000000
+            -77.085999,38.906395,0.000000
+            -77.085403,38.912540,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>The Oak Hill Cemetery </name>
+    <description><![CDATA[<DIV><EM>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </EM><STRONG><A href="http://www.nps.gov/history/nr/travel/wash/dc9.htm">The Oak Hill Cemetery</A></STRONG> </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>30th and R Sts., NW</DIV>
+<DIV>It is open weekdays only from 10:00 am to 4:00 pm. It is closed holidays and during funerals, and photography is not permitted. </DIV>
+<DIV>Metro stop: Foggy Bottom </DIV>
+<DIV>@38.912542,-77.059305</DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>-77.059303,38.912540,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Mount Zion Cemetery </name>
+    <description><![CDATA[<DIV><EM>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; </EM><STRONG><A href="http://www.nps.gov/history/nr/travel/wash/dc10.htm">The Mount Zion Cemetery</A></STRONG></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>27th and Q Sts, NW</DIV>
+<DIV>The cemetery is open daily during daylight hours, to arrange for a tour contact Mt. Zion Church at 202-234-0148</DIV>
+<DIV>Metro stop: Foggy Bottom</DIV>
+<DIV>&nbsp;@38.910574,-77.054963</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><IMG height="162" src="http://www.nps.gov/history/nr/travel/wash/buildings/nw18.jpg" width="250" border="0"><BR>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>-77.054962,38.910576,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Montrose and Dumbarton Parks </name>
+    <description><![CDATA[<DIV><STRONG>&nbsp;&nbsp; <A href="http://www.nps.gov/history/nr/travel/wash/dc11.htm">&nbsp;Montrose and Dumbarton Parks</A></STRONG></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>1703 32nd St., N.W. </DIV>
+<DIV>open daily, except Mondays, from 2:00 pm to 6:00 pm; November-March 14: 2:00 pm to 5:00 pm. They are closed during inclement weather, national holidays, and Christmas Eve</DIV>
+<DIV>@38.914042,-77.064199</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>-77.064201,38.914043,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tudor Place </name>
+    <description><![CDATA[<DIV><FONT color="#0000cc"><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </STRONG></FONT><A href="http://www.nps.gov/history/nr/travel/wash/dc12.htm"><STRONG>Tudor Place</STRONG></A><STRONG> </STRONG></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>1644 31st St., NW.</DIV>
+<DIV>Tuesday through Saturday tours are available from 10:00 am to 4:00 pm; last tour begins at 3:00 pm. On Sunday tours are available 12:00 pm to 4:00 pm; last tour begins at 3:00 pm</DIV>
+<DIV>@38.911494,-77.06241</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><IMG height="169" src="http://www.nps.gov/history/nr/travel/wash/buildings/nw20.jpg" width="250" border="0"></DIV>]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>-77.062408,38.911495,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dumbarton House </name>
+    <description><![CDATA[<DIV><STRONG><FONT color="#0000cc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><A href="http://www.nps.gov/history/nr/travel/wash/DC_Dumbarton%20H.html">Dumbarton House</A></STRONG> </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>2715 Q Street, NW </DIV>
+<DIV>The house is open to the public Tuesdays through Saturdays, with 45-minute tours at 10:15am, 11:15am, 12:15pm, 1:15pm (closed Federal holidays, and Thanksgiving Weekend).&nbsp;</DIV>
+<DIV>Closest Metro stop: Dupont Circle, Red Line.</DIV>
+<DIV>@38.910881,-77.055885</DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-77.055885,38.910881,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Georgetown University</name>
+    <description><![CDATA[<DIV><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="http://www.nps.gov/history/nr/travel/wash/dc13.htm">Georgetown University</A></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV>Prospect and 35th Sts., NW</DIV>
+<DIV>The Georgetown University Transportation Shuttle (GUTS) provides a free ride to Georgetown University to and from Metrorail locations at Dupont Circle (in the District) and Rosslyn (in Arlington, VA). Tours of the campus can be scheduled by calling the Admissions Office at 202/687-3600 between 9:00 am and 5:00 pm. </DIV>
+<DIV>@38.905899,-77.068992</DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-77.068993,38.905899,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Volta Laboratory and Bureau building</name>
+    <description><![CDATA[<DIV><STRONG><FONT color="#0000cc"><A href="http://www.nps.gov/history/nr/travel/wash/dc14.htm">The Volta Laboratory and Bureau building</A></FONT></STRONG></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>1537 35th St., NW</DIV>
+<DIV>Tel 202/337-5220</DIV>
+<DIV>Metro stop: Foggy Bottom </DIV>
+<DIV>@38.909887,-77.068731</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><IMG height="163" src="http://www.nps.gov/history/nr/travel/wash/buildings/nw22.jpg" width="250" border="0"></DIV>
+<DIV><BR>&nbsp;</DIV>]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>-77.068733,38.909885,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Custom House and Post Office of Georgetown </name>
+    <description><![CDATA[<DIV><STRONG><A href="http://www.nps.gov/history/nr/travel/wash/dc16.htm">The Custom House and Post Office of Georgetown</A></STRONG> </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>1221 31st St., NW</DIV>
+<DIV>It is open Monday through Friday, 9:00 am to 5:00 pm. Metro stop: Foggy Bottom.</DIV>
+<DIV>@38.905824,-77.06118</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><IMG height="213" src="http://www.nps.gov/history/nr/travel/wash/buildings/nw25.jpg" width="250" border="0"></DIV>]]></description>
+    <styleUrl>#style68</styleUrl>
+    <Point>
+      <coordinates>-77.061180,38.905823,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Old Stone House</name>
+    <description><![CDATA[<DIV><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A href="http://www.nps.gov/history/nr/travel/wash/dc17.htm">The Old Stone House</A></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV>3051 M St., NW</DIV>
+<DIV>open Wednesday through Sunday, 12:00 noon to 5:00 pm. It is closed New Years Day, Independence Day, Thanksgiving, and Christmas</DIV>
+<DIV>Metro stop: Foggy Bottom </DIV>
+<DIV>@38.905695,-77.060295<BR>&nbsp;</DIV>
+<DIV><IMG style="width:245px" height="226" src="http://www.nps.gov/history/nr/travel/wash/buildings/nw26.jpg" width="250" border="0"></DIV>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>-77.060295,38.905697,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Georgetown Market </name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <STRONG><A href="http://www.nps.gov/history/nr/travel/wash/dc18.htm">The Georgetown Market </A></STRONG></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>It is located at 3276 M St., NW, in Georgetown.</DIV>
+<DIV>It is open Sunday through Thursday from 10:00 am to 8:00 pm and Friday and Saturday from 10:00 am to 9:00 pm. </DIV>
+<DIV>Metro stop: Foggy Bottom</DIV>
+<DIV>&nbsp;@38.904642,-77.06515</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><IMG height="170" src="http://www.nps.gov/history/nr/travel/wash/buildings/nw27.jpg" width="250" border="0"><BR>&nbsp;</DIV>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>-77.065147,38.904640,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Georgetown&#39;s Commercial Buildings </name>
+    <description><![CDATA[<DIV><STRONG><A href="http://www.nps.gov/history/nr/travel/wash/dc19.htm">Georgetown's Commercial Buildings</A></STRONG> </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Georgetown's Commercial Buildings are located in the heart of the Georgetown Historic District between M St. and the waterfront.</DIV>
+<DIV>Boundaries are estimated.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><IMG height="250" src="http://www.nps.gov/history/nr/travel/wash/buildings/nw29.jpg" width="171" border="0"></DIV>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -77.069862,38.905144,0.000000
+            -77.061195,38.905262,0.000000
+            -77.056282,38.905342,0.000000
+            -77.058319,38.900486,0.000000
+            -77.065186,38.902573,0.000000
+            -77.067032,38.903126,0.000000
+            -77.069031,38.903843,0.000000
+            -77.070076,38.904392,0.000000
+            -77.070549,38.905045,0.000000
+            -77.069862,38.905144,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>Massachusetts Avenue Historic District </name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;<STRONG><A href="http://www.nps.gov/history/nr/travel/wash/dc44.htm">Massachusetts Avenue Historic District</A></STRONG> </DIV>
+<DIV>Historic District includes buildings fronting on Massachusetts Avenue from 17th St., NW to Observatory Circle. </DIV>
+<DIV>Unless noted above all embassies and houses mentioned are private and not open to the public.</DIV>
+<DIV>&nbsp;Metro stop: Dupont Circle. </DIV>
+<P><IMG height="147" src="http://www.nps.gov/history/nr/travel/wash/buildings/dup1.jpg" width="250" border="0"><BR></P></P>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style75</styleUrl>
+    <ExtendedData>
+      <Data name="_SnapToRoads">
+        <value>true</value>
+      </Data>
+    </ExtendedData>
+    <LineString>
+      <tessellate>1</tessellate>
+      <coordinates>
+        -77.039062,38.908112,0.000000
+        -77.042480,38.909309,0.000000
+        -77.042679,38.909470,0.000000
+        -77.042679,38.909470,0.000000
+        -77.042633,38.909550,0.000000
+        -77.042664,38.909760,0.000000
+        -77.042793,38.910011,0.000000
+        -77.043098,38.910221,0.000000
+        -77.043312,38.910271,0.000000
+        -77.043671,38.910229,0.000000
+        -77.043999,38.910091,0.000000
+        -77.044128,38.909988,0.000000
+        -77.044250,38.909729,0.000000
+        -77.044212,38.909489,0.000000
+        -77.044121,38.909321,0.000000
+        -77.043938,38.909149,0.000000
+        -77.043823,38.909100,0.000000
+        -77.043388,38.909019,0.000000
+        -77.043037,38.909119,0.000000
+        -77.042763,38.909302,0.000000
+        -77.042480,38.909309,0.000000
+        -77.037392,38.907551,0.000000
+        -77.037331,38.907471,0.000000
+        -77.036987,38.907269,0.000000
+        -77.036987,38.907269,0.000000
+        -77.036873,38.907089,0.000000
+        -77.036598,38.907001,0.000000
+        -77.036270,38.907051,0.000000
+        -77.036079,38.907211,0.000000
+        -77.036133,38.907349,0.000000
+        -77.036293,38.907471,0.000000
+        -77.036621,38.907490,0.000000
+        -77.036789,38.907440,0.000000
+        -77.037392,38.907551,0.000000
+        -77.037781,38.907669,0.000000
+        -77.042480,38.909309,0.000000
+        -77.042679,38.909470,0.000000
+        -77.042679,38.909470,0.000000
+        -77.042633,38.909550,0.000000
+        -77.042679,38.909828,0.000000
+        -77.042877,38.910099,0.000000
+        -77.043152,38.910240,0.000000
+        -77.043503,38.910271,0.000000
+        -77.043663,38.910332,0.000000
+        -77.043739,38.910412,0.000000
+        -77.045990,38.914242,0.000000
+        -77.046158,38.914780,0.000000
+        -77.046242,38.915951,0.000000
+        -77.046242,38.915951,0.000000
+        -77.046410,38.916321,0.000000
+        -77.046700,38.916691,0.000000
+        -77.047218,38.917728,0.000000
+        -77.047653,38.918419,0.000000
+        -77.047798,38.918541,0.000000
+        -77.048767,38.918861,0.000000
+        -77.048897,38.918968,0.000000
+        -77.049698,38.920441,0.000000
+        -77.051529,38.923561,0.000000
+        -77.051529,38.923561,0.000000
+        -77.056450,38.923271,0.000000
+        -77.057564,38.923248,0.000000
+        -77.057823,38.923351,0.000000
+        -77.059288,38.924500,0.000000
+        -77.059288,38.924500,0.000000
+        -77.063164,38.927521,0.000000
+        -77.063164,38.927521,0.000000
+        -77.066383,38.927528,0.000000
+        -77.066383,38.927528,0.000000
+        -77.066360,38.924339,0.000000
+        -77.066360,38.924339,0.000000
+        -77.067207,38.924438,0.000000
+        -77.067589,38.924580,0.000000
+        -77.067589,38.924580,0.000000
+        -77.067520,38.924679,0.000000
+        -77.067520,38.926182,0.000000
+        -77.067520,38.926182,0.000000
+        -77.066383,38.926189,0.000000
+        -77.066383,38.926189,0.000000
+        -77.066399,38.929939,0.000000
+        -77.066399,38.929939,0.000000
+        -77.064522,38.928539,0.000000
+        -77.063438,38.927681,0.000000
+        -77.062767,38.927078,0.000000
+        -77.058327,38.923618,0.000000
+        -77.057930,38.923260,0.000000
+        -77.057732,38.923161,0.000000
+        -77.056732,38.923222,0.000000
+        -77.056450,38.923271,0.000000
+        -77.056450,38.923271,0.000000
+        -77.051529,38.923561,0.000000
+        -77.051529,38.923561,0.000000
+        -77.049698,38.920441,0.000000
+        -77.048897,38.918968,0.000000
+        -77.048767,38.918861,0.000000
+        -77.047798,38.918541,0.000000
+        -77.047691,38.918461,0.000000
+        -77.047218,38.917728,0.000000
+        -77.046638,38.916592,0.000000
+        -77.046654,38.916500,0.000000
+        -77.046410,38.916019,0.000000
+        -77.046219,38.914322,0.000000
+        -77.045052,38.912239,0.000000
+        -77.045052,38.912239,0.000000
+        -77.044884,38.911869,0.000000
+        -77.043930,38.910229,0.000000
+        -77.043983,38.910099,0.000000
+        -77.043983,38.910099,0.000000
+        -77.044128,38.909988,0.000000
+        -77.044250,38.909729,0.000000
+        -77.044212,38.909489,0.000000
+        -77.044121,38.909321,0.000000
+        -77.043900,38.909130,0.000000
+        -77.043388,38.909019,0.000000
+        -77.043037,38.909119,0.000000
+        -77.042763,38.909302,0.000000
+        -77.042480,38.909309,0.000000
+        -77.037392,38.907551,0.000000
+        -77.037331,38.907471,0.000000
+        -77.036987,38.907269,0.000000
+        -77.036987,38.907269,0.000000
+        -77.036873,38.907089,0.000000
+        -77.036598,38.907001,0.000000
+        -77.036270,38.907051,0.000000
+        -77.036079,38.907211,0.000000
+        -77.036133,38.907349,0.000000
+        -77.036293,38.907471,0.000000
+        -77.036621,38.907490,0.000000
+        -77.036789,38.907440,0.000000
+        -77.037392,38.907551,0.000000
+        -77.037781,38.907669,0.000000
+        -77.042480,38.909309,0.000000
+        -77.042679,38.909470,0.000000
+        -77.042679,38.909470,0.000000
+        -77.042633,38.909550,0.000000
+        -77.042664,38.909760,0.000000
+        -77.042793,38.910011,0.000000
+        -77.043098,38.910221,0.000000
+        -77.043312,38.910271,0.000000
+        -77.043671,38.910229,0.000000
+        -77.043999,38.910091,0.000000
+        -77.044128,38.909988,0.000000
+        -77.044250,38.909729,0.000000
+        -77.044212,38.909489,0.000000
+        -77.044121,38.909321,0.000000
+        -77.043938,38.909149,0.000000
+        -77.043823,38.909100,0.000000
+        -77.043388,38.909019,0.000000
+        -77.043037,38.909119,0.000000
+        -77.042763,38.909302,0.000000
+        -77.042480,38.909309,0.000000
+        -77.037392,38.907551,0.000000
+        -77.037331,38.907471,0.000000
+        -77.036987,38.907269,0.000000
+        -77.036987,38.907269,0.000000
+        -77.036873,38.907089,0.000000
+        -77.036598,38.907001,0.000000
+        -77.036270,38.907051,0.000000
+        -77.036079,38.907211,0.000000
+        -77.036133,38.907349,0.000000
+        -77.036293,38.907471,0.000000
+        -77.036621,38.907490,0.000000
+        -77.036789,38.907440,0.000000
+        -77.037392,38.907551,0.000000
+        -77.039017,38.908100,0.000000
+      </coordinates>
+    </LineString>
+  </Placemark>
+  <Placemark>
+    <name>The National Trust for Historic Preservation </name>
+    <description><![CDATA[<DIV><STRONG><A href="http://www.nps.gov/history/nr/travel/wash/dc55.htm">&nbsp;The National Trust for Historic Preservation</A></STRONG> </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>1785 Massachusetts Ave</DIV>
+<DIV>Tours are available by appointment by calling 202/588-6000<EM>.</EM> </DIV>
+<DIV>&nbsp;@38.909336,-77.041325</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><IMG height="176" src="http://www.nps.gov/history/nr/travel/wash/buildings/dup14.jpg" width="250" border="0"></DIV>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>-77.041328,38.909336,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kalorama Triangle </name>
+    <description><![CDATA[<DIV dir="ltr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <STRONG><A href="http://www.nps.gov/history/nr/travel/wash/dc45.htm">Kalorama Triangle </A></STRONG></DIV>
+<DIV dir="ltr"><STRONG></STRONG>&nbsp;</DIV>
+<DIV dir="ltr">Kalorama Triangle is roughly bounded by Columbia Rd., NW, on the east and south; Connecticut Ave., NW, Rock Creek Park on the west; and the rear of the properties on the north side of Calvert St., NW, on the north. </DIV>
+<DIV dir="ltr">Metro stop: Woodley Park/Zoo. </DIV>
+<DIV dir="ltr">&nbsp;</DIV>
+<DIV dir="ltr"><IMG height="153" src="http://www.nps.gov/history/nr/travel/wash/buildings/dup3.jpg" width="250" border="0"></DIV>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -77.046387,38.916164,0.000000
+            -77.042145,38.923561,0.000000
+            -77.050720,38.923492,0.000000
+            -77.046387,38.916164,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name><![CDATA[<A href="http://www.nps.gov/history/nr/travel/wash/dc96.htm">Mount Pleasant Historic District</A>]]></name>
+    <description><![CDATA[<div>Boundaries are estimated.</div><div>The buildings listed above are private and not open to the public.</div><div>Metro stop: Woodley Park-Zoo.</div><div style="text-align:center;"><img src="http://www.nps.gov/history/nr/travel/wash/buildings/dup38.jpg" style="height:174px;margin-top:10px;"></div>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -77.036987,38.926697,0.000000
+            -77.037163,38.932774,0.000000
+            -77.036987,38.936047,0.000000
+            -77.045059,38.934578,0.000000
+            -77.044716,38.930103,0.000000
+            -77.044029,38.925629,0.000000
+            -77.040512,38.926098,0.000000
+            -77.036987,38.926697,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>The Sheridan-Kalorama Historic District</name>
+    <description><![CDATA[<DIV><STRONG><A href="http://www.nps.gov/history/nr/travel/wash/dc46.htm">The Sheridan-Kalorama Historic District</A></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV>
+<P>Roughly bounded by Connecticut Ave., NW and Florida Ave., NW on the east; P St., NW on the south; and Rock Creek Park on the west and north.&nbsp;All the buildings listed above are private and not open to the public unless noted. Metro stop: Dupont Circle. </P></P></P></P>
+<P></P></P></P></P>
+<P></P></P></P></P>
+<P></P></P></P></P>
+<P></P></P></P></P>
+<P></P></P></P></P>
+<P></P></P></P></P>
+<P></P></P></P></P>
+<P>&nbsp;</P></P></P></P>
+<P></P></P></P></P>
+<P></P></P></P></P>
+<P></P></P></P></P>
+<P></P></P></P></P>
+<P></P></P></P></P>
+<P></P></P></P></P>
+<P></P></P></P></P></DIV>]]></description>
+    <styleUrl>#style77</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -77.017426,38.914143,0.000000
+            -77.041626,38.905727,0.000000
+            -77.014847,38.886223,0.000000
+            -76.983948,38.899982,0.000000
+            -77.017426,38.914143,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>The Woodrow Wilson House </name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <STRONG><A href="http://www.nps.gov/history/nr/travel/wash/dc47.htm">The Woodrow Wilson House</A> </STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV>2340 S St., NW</DIV>
+<DIV>It is open to the public Tuesday through Sunday from 10:00 am to 4:00 pm. It is closed Thanksgiving, Christmas and New Years Day. Groups are admitted year round by reservation. Metro stop: Dupont Circle</DIV>
+<DIV>@38.913703,-77.051698</DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>-77.051697,38.913704,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name><![CDATA[<a href="http://www.nps.gov/history/nr/travel/wash/dc48.htm">Meridian Hill Park</a>]]></name>
+    <description><![CDATA[<div>Meridian Hill is located between 16th and 15th Sts.</div><div>Metro stop: Columbia Heights</div><div style="margin-top:10px;text-align:center;"><img src="http://www.nps.gov/history/nr/travel/wash/buildings/dup6.jpg" style="height:250px;"></div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-77.035934,38.921356,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Phillips Collection </name>
+    <description><![CDATA[<DIV><STRONG><U>&nbsp;<A href="http://www.nps.gov/nr/travel/wash/dc51.htm">Phillips Collection</A></U></STRONG> </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>1600 21st St., NW</DIV>
+<DIV>open to the public Tuesday through Saturday 10:00 am to 5:00 pm. On Sunday it is open 11:00 am to 7:00 pm. Thursday there are extended hours from 10:00 am to 8:30 pm</DIV>
+<DIV>Metro stop: Dupont Circle </DIV>
+<DIV>@38.911418,-77.046695</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><IMG style="width:193px" height="167" src="http://www.nps.gov/nr/travel/wash/buildings/dtn46.jpg" width="250" border="0"></DIV>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>-77.046692,38.911419,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Christian Heurich Mansion</name>
+    <description><![CDATA[<DIV><STRONG><A href="http://www.nps.gov/nr/travel/wash/dc56.htm">The Christian Heurich Mansion</A></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV>1307 New Hampshire Ave., NW</DIV>
+<DIV>Walk-in tours are available Thursday through Saturday at 11:30am and 1:00pm, with an additional tour on Saturday at 2:30pm</DIV>
+<DIV>Tel 202-429-1894</DIV>
+<DIV>&nbsp;@38.908086,-77.044313</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><IMG style="width:149px" height="250" src="http://www.nps.gov/nr/travel/wash/buildings/dup15.jpg" width="181" border="0"></DIV>]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>-77.044312,38.908085,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>St. Matthew&#39;s Cathedral </name>
+    <description><![CDATA[<DIV><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A href="http://www.nps.gov/nr/travel/wash/dc57.htm">St. Matthew's Cathedral </A></STRONG></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>1735 Rhode Island Ave NW</DIV>
+<DIV>Tel <EM>202/347-3215</EM></DIV>
+<DIV>Metro stop: Farragut North</DIV>
+<DIV>@38.906426,-77.040068</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><IMG style="width:189px" height="231" src="http://www.nps.gov/nr/travel/wash/buildings/dup35.jpg" width="250" border="0"></DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>-77.040070,38.906425,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Embassy Gulf Service Station</name>
+    <description><![CDATA[<DIV><STRONG><A href="http://www.nps.gov/nr/travel/wash/dc52.htm">The Embassy Gulf Service Station</A></STRONG></DIV>
+<DIV><EM></EM>&nbsp;</DIV>
+<DIV><EM>2200 P St., NW</EM></DIV>
+<DIV>@38.90936,-77.049115</DIV>
+<DIV><EM></EM>&nbsp;</DIV>
+<DIV><EM><IMG style="width:182px" height="172" src="http://www.nps.gov/nr/travel/wash/buildings/Dup11.jpg" width="250" border="0"></EM></DIV>
+<DIV><EM></EM>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>-77.049118,38.909359,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Scottish Rite Temple</name>
+    <description><![CDATA[<DIV><STRONG><FONT color="#0000ff"><EM>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</EM>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></STRONG><A href="http://www.nps.gov/nr/travel/wash/dc54.htm"><FONT color="#0000ff"><STRONG>Scottish Rite Temple</STRONG></FONT></A></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>1733 16th St., NW, between R and S Sts</DIV>
+<DIV>Tours are offered on weekdays from 8:00 am to 2:00 pm. </DIV>
+<DIV>Tel: 202/232-3579</DIV>
+<DIV>Metro stop: Dupont Circle</DIV>
+<DIV>@38.913693,-77.036036</DIV>]]></description>
+    <styleUrl>#style83</styleUrl>
+    <Point>
+      <coordinates>-77.036034,38.913692,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Charles Sumner School </name>
+    <description><![CDATA[<DIV><STRONG><FONT color="#0000cc">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><A href="http://www.nps.gov/nr/travel/wash/dc58.htm">The Charles Sumner School</A></STRONG> </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>17th and M Sts., NW</DIV>
+<DIV>The museum is open to the public free of charge Monday-Friday, 10:00am to 5:00pm; the archives are open by appointment only Monday-Friday 10:00am to 4:00pm, please call 202-730-1421 to schedule an appointment. Nearest Metro Stop: Farragut North (Red Line) </DIV>
+<DIV>@38.905662,-77.038491</DIV>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>-77.038490,38.905663,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mayflower Hotel</name>
+    <description><![CDATA[<DIV><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A href="http://www.nps.gov/nr/travel/wash/dc59.htm">Mayflower Hotel</A></STRONG></DIV>
+<DIV><STRONG>1127 Connecticut Ave., NW</STRONG></DIV>
+<DIV><STRONG>Tel: 202/347-3000</STRONG></DIV>
+<DIV><STRONG>Metro stop: Farragut North</STRONG></DIV>
+<DIV><STRONG>@38.904476,-77.04036</STRONG></DIV>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-77.040359,38.904476,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Metropolitan AME Church </name>
+    <description><![CDATA[<DIV><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A href="http://www.nps.gov/nr/travel/wash/dc60.htm">the Metropolitan AME Church</A></STRONG> </DIV>
+<DIV><STRONG>1518 M St., NW</STRONG></DIV>
+<DIV><STRONG>Tel 202/331-1426</STRONG></DIV>
+<DIV><STRONG>Metro stop: Farragut West </STRONG></DIV>
+<DIV><STRONG>@38.905342,-77.035474</STRONG></DIV>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-77.035477,38.905342,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Greater U Street Historic District </name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;<STRONG><A href="http://www.nps.gov/nr/travel/wash/dc63.htm">The Greater U Street Historic District</A></STRONG></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG>All buildings are private and not open to&nbsp;the public</STRONG></DIV>
+<DIV><STRONG>Metro stop: U Street-Cardozo </STRONG>
+<P><BR></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P></DIV>]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -77.036606,38.917084,0.000000
+            -77.031929,38.917015,0.000000
+            -77.028069,38.917049,0.000000
+            -77.028152,38.914310,0.000000
+            -77.031067,38.914211,0.000000
+            -77.034416,38.914211,0.000000
+            -77.036736,38.914108,0.000000
+            -77.036606,38.917084,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>The Logan Circle Historic District </name>
+    <description><![CDATA[<DIV><EM>&nbsp;&nbsp;&nbsp;&nbsp; </EM><STRONG><A href="http://www.nps.gov/nr/travel/wash/dc64.htm">The Logan Circle Historic District</A></STRONG> </DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV><STRONG>Includes the buildings in the immediate vicinity of Logan Circle</STRONG></DIV>
+<DIV><STRONG>Metro stop: Shaw-Howard University</STRONG> </DIV>
+<P><BR></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style79</styleUrl>
+    <Point>
+      <coordinates>-77.021919,38.911140,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Mary McLeod Bethune Council House</name>
+    <description><![CDATA[<DIV><A href="http://www.nps.gov/nr/travel/wash/dc62.htm"><STRONG>The Mary McLeod Bethune Council House</STRONG></A></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG>1318 Vermont Ave., NW</STRONG></DIV>
+<DIV><STRONG>Tel 202/673-2402</STRONG></DIV>
+<DIV><STRONG>Metro stop: McPherson Square</STRONG></DIV>
+<DIV><STRONG>@38.90807,-77.030582</STRONG></DIV>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>-77.030579,38.908070,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>General Oliver Otis Howard House </name>
+    <description><![CDATA[<DIV><EM><STRONG><A href="http://www.nps.gov/nr/travel/wash/dc21.htm">General Oliver Otis Howard House</A></STRONG> </EM></DIV>
+<DIV><EM></EM>&nbsp;</DIV>
+<DIV><STRONG>2401 Sixth St., NW</STRONG></DIV>
+<DIV><STRONG>Metro stop: Shaw/Howard U</STRONG></DIV>
+<DIV><STRONG>@38.922518,-77.021084<BR></STRONG></DIV>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>
+<P></P></P>]]></description>
+    <styleUrl>#style70</styleUrl>
+    <Point>
+      <coordinates>-77.021088,38.922520,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Mary Church Terrell House </name>
+    <description><![CDATA[<DIV><STRONG><FONT color="#2200c1">&nbsp;&nbsp;&nbsp;&nbsp; </FONT><A href="http://www.nps.gov/nr/travel/wash/dc66.htm">The Mary Church Terrell House</A></STRONG> </DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG>326 T Street, N.W. </STRONG></DIV>
+<DIV><STRONG>not open to the public</STRONG></DIV>
+<DIV><STRONG>@38.915727,-77.016904</STRONG></DIV>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>-77.016907,38.915726,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Cleveland Abbe House </name>
+    <description><![CDATA[<DIV><STRONG><EM>&nbsp;&nbsp;&nbsp;&nbsp;</EM>&nbsp;&nbsp;&nbsp; <A href="http://www.nps.gov/nr/travel/wash/dc43.htm">The Cleveland Abbe House</A></STRONG> </DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV><STRONG>2017 I St., NW</STRONG></DIV>
+<DIV><FONT><STRONG>Tel: 202-331-7282</STRONG></FONT></DIV>
+<DIV><STRONG>@38.901379,-77.045665</STRONG></DIV>]]></description>
+    <styleUrl>#style69</styleUrl>
+    <Point>
+      <coordinates>-77.045662,38.901379,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Octagon House </name>
+    <description><![CDATA[<DIV><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="http://www.nps.gov/nr/travel/wash/dc22.htm">&nbsp; The Octagon House </A></STRONG></DIV>
+<DIV><EM></EM>&nbsp;</DIV>
+<DIV><STRONG>18th St. and New York Ave. NW</STRONG></DIV>
+<DIV><STRONG>Tel 202/638-3221</STRONG></DIV>
+<DIV><STRONG>Metro stop: Farragut West </STRONG></DIV>
+<DIV><STRONG>@38.895971,-77.041719<br>&nbsp;</STRONG></div><A href="http://www.nps.gov/nr/travel/wash/dc22.htm"></A>]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>-77.041718,38.895969,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Constitution Hall</name>
+    <description><![CDATA[<DIV><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A href="http://www.nps.gov/nr/travel/wash/dc23.htm">Constitution Hall</A></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV><STRONG>311 18th Street, NW </STRONG></DIV>
+<DIV><STRONG>metro&nbsp;stops: Farragut West, and Foggy Bottom, GWU. <BR>@38.893902,-77.03969</STRONG></DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <ExtendedData>
+      <Data name="PlaceName">
+        <value></value>
+      </Data>
+      <Data name="Address">
+        <value></value>
+      </Data>
+      <Data name="Phone">
+        <value></value>
+      </Data>
+      <Data name="Website">
+        <value></value>
+      </Data>
+      <Data name="Categories">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>-77.039688,38.893902,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name> Department of Interior</name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>&nbsp;<A href="http://www.nps.gov/nr/travel/wash/dc24.htm">&nbsp;&nbsp; Department of Interior</A></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV><STRONG>open to the public Monday through Friday from 8:30 am to 5:00 pm</STRONG></DIV>
+<DIV><STRONG>@38.893506,-77.042496</STRONG></DIV>]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>-77.042496,38.893505,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Blair House</name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <STRONG><A href="http://www.nps.gov/nr/travel/wash/dc25.htm">The Blair House</A></STRONG></DIV>
+<DIV><EM></EM>&nbsp;</DIV>
+<DIV><EM>&nbsp;&nbsp;</EM><STRONG> 1651-1653 Pennsylvania Ave., NW</STRONG></DIV>
+<DIV><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;not open to the public</STRONG></DIV>
+<DIV><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;Metro stop: McPherson Square</STRONG></DIV>
+<DIV><STRONG>&nbsp;&nbsp;&nbsp;&nbsp; @38.899081,-77.038616</STRONG></DIV>]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>-77.038612,38.899082,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Decatur House</name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<STRONG> </STRONG><A href="http://www.nps.gov/nr/travel/wash/dc26.htm"><STRONG>Decatur House</STRONG></A></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV><STRONG>748 Jackson Pl., NW</STRONG></DIV>
+<DIV><STRONG>Metro stop: Farragut West and Farragut North. </STRONG></DIV>
+<DIV><STRONG>@38.899492,-77.037958</STRONG></DIV>]]></description>
+    <styleUrl>#style81</styleUrl>
+    <Point>
+      <coordinates>-77.037956,38.899490,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Renwick Gallery </name>
+    <description><![CDATA[<DIV><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A href="http://www.nps.gov/nr/travel/wash/dc27.htm">Renwick Gallery</A></STRONG> </DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG>located at the corner of 17 St. and Pennsylvania Ave., NW</STRONG></DIV>
+<DIV><STRONG>Metro stop: McPherson Square <BR>@38.898839,-77.03949</STRONG></DIV>]]></description>
+    <styleUrl>#style80</styleUrl>
+    <Point>
+      <coordinates>-77.039490,38.898838,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>St. John&#39;s Church </name>
+    <description><![CDATA[<DIV><EM><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A href="http://www.nps.gov/nr/travel/wash/dc28.htm">St. John's Church</A></STRONG> </EM></DIV>
+<DIV><EM></EM>&nbsp;</DIV>
+<DIV><STRONG>16th and H Sts., NW at Lafayette Square </STRONG></DIV>
+<DIV><STRONG>Metro stop: McPherson Square </STRONG></DIV>
+<DIV><STRONG>@38.900193,-77.036546<br>&nbsp;</STRONG></div>]]></description>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>-77.036545,38.900192,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The White House</name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <STRONG><A href="http://www.nps.gov/nr/travel/wash/dc31.htm">The White House</A></STRONG></DIV>
+<DIV><EM></EM>&nbsp;</DIV>
+<DIV><STRONG>1600 Pennsylvania Ave., NW</STRONG></DIV>
+<DIV><STRONG>Tel 202-456-7041</STRONG></DIV>
+<DIV><STRONG>Metro stop: McPherson Square </STRONG></DIV>
+<DIV><STRONG>@38.897696,-77.036519</STRONG></DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>-77.036522,38.897697,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Eisenhower Executive Office Buildg</name>
+    <description><![CDATA[<DIV>&nbsp;<STRONG><A href="http://www.nps.gov/nr/travel/wash/dc32.htm">Eisenhower Executive Office Building</A></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV><STRONG>17th St. and Pennsylvania Ave., NW. </STRONG></DIV>
+<DIV><STRONG>Tel 202/395-5895</STRONG></DIV>
+<DIV><STRONG>Metro stop: Farragut North or Farragut West </STRONG></DIV>
+<DIV><STRONG>@38.897383,-77.038544</STRONG></DIV>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>-77.038544,38.897385,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Corcoran Gallery </name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>&nbsp; <A href="http://www.nps.gov/nr/travel/wash/dc33.htm">The Corcoran Gallery</A></STRONG> </DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG>17th St. and New York Ave., NW</STRONG></DIV>
+<DIV><STRONG>Tel 202/639-1700</STRONG></DIV>
+<DIV><STRONG>Metro stop: Farragut West </STRONG></DIV>
+<DIV><STRONG>@38.896599,-77.039452</STRONG></DIV>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>-77.039452,38.896599,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Lockkeeper&#39;s House </name>
+    <description><![CDATA[<DIV><EM>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </EM><STRONG><A href="http://www.nps.gov/nr/travel/wash/dc34.htm">The Lockkeeper's House</A></STRONG> </DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG>17th St. and Constitution Ave., NW</STRONG></DIV>
+<DIV><STRONG>not open to the public</STRONG></DIV>
+<DIV><STRONG>Metro stop: Farragut West </STRONG></DIV>
+<DIV><STRONG>@38.891918,-77.039759</STRONG></DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style82</styleUrl>
+    <Point>
+      <coordinates>-77.039757,38.891918,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>United States Department of the Treasury</name>
+    <description><![CDATA[<DIV dir="ltr"><A href="http://www.nps.gov/nr/travel/wash/dc35.htm"><STRONG>United States Department of the Treasury <BR><BR></STRONG></A><STRONG>15th and H Sts., NW</STRONG></DIV>
+<DIV dir="ltr"><STRONG>@38.898293,-77.034266</STRONG></DIV>]]></description>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>-77.034264,38.898293,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Willard Hotel </name>
+    <description><![CDATA[<DIV><EM>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</EM><STRONG><A href="http://www.nps.gov/nr/travel/wash/dc36.htm">&nbsp;&nbsp; The Willard Hotel</A></STRONG></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG>1401-09 Pennsylvania Ave., NW</STRONG></DIV>
+<DIV><STRONG>Tel 202/628-9100</STRONG></DIV>
+<DIV><STRONG>Metro stop: Metro Center</STRONG></DIV>
+<DIV><STRONG>@38.896427,-77.032721</STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style76</styleUrl>
+    <Point>
+      <coordinates>-77.032722,38.896427,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Warner Theatre</name>
+    <description><![CDATA[<DIV><EM>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <STRONG><A href="http://www.nps.gov/nr/travel/wash/dc37.htm">The Warner Theatre</A></STRONG></EM></DIV>
+<DIV><STRONG><EM></EM></STRONG>&nbsp;</DIV>
+<DIV><STRONG>501 13th St., NW</STRONG></DIV>
+<DIV><STRONG>Tel 202/783-4000</STRONG></DIV>
+<DIV><STRONG>&nbsp;@38.89647,-77.028826</STRONG></DIV>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>-77.028824,38.896469,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ford&#39;s Theatre </name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <STRONG><A href="http://www.nps.gov/nr/travel/wash/dc38.htm">Ford's Theatre</A></STRONG> </DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG>511 10th St., NW</STRONG></DIV>
+<DIV><STRONG>Metro stop: Gallery Place/Chinatown</STRONG></DIV>
+<DIV><STRONG>@38.896544,-77.025817</STRONG></DIV>
+<DIV><STRONG>&nbsp;</STRONG></DIV>]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>-77.025818,38.896545,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>National Building Museum</name>
+    <description><![CDATA[<DIV dir="ltr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <STRONG><A href="http://www.nps.gov/nr/travel/wash/dc40.htm">National Building Museum</A></STRONG></DIV>
+<DIV dir="ltr"><STRONG></STRONG>&nbsp;</DIV>
+<DIV dir="ltr"><STRONG>The Pension Building is located at F St. between 4th and 5th Sts., NW.</STRONG></DIV>
+<DIV dir="ltr"><STRONG>Tel 202-272-2448</STRONG></DIV>
+<DIV dir="ltr"><STRONG>Metro stop: Judiciary Square</STRONG></DIV>
+<DIV dir="ltr"><STRONG>&nbsp;@38.89745,-77.017572</STRONG></DIV>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>-77.017570,38.897449,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The National Mall </name>
+    <description><![CDATA[<DIV dir="ltr"><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</STRONG>&nbsp;<A href="http://www.nps.gov/nr/travel/wash/dc70.htm"><STRONG>&nbsp;&nbsp; The National Mall <BR></STRONG></A><STRONG></STRONG></DIV>
+<DIV dir="ltr"><STRONG>Tel:202-426-6841</STRONG></DIV>
+<DIV dir="ltr"><STRONG>Metro stop: Smithsonian</STRONG></DIV>
+<DIV dir="ltr"><STRONG>@38.889556,-77.023032</STRONG></DIV>]]></description>
+    <styleUrl>#style73</styleUrl>
+    <Point>
+      <coordinates>-77.023033,38.889557,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The United States Capitol </name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <STRONG><A href="http://www.nps.gov/nr/travel/wash/dc76.htm">The United States Capitol</A></STRONG></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG>At the east end of the National Mall</STRONG></DIV>
+<DIV><STRONG>Tel&nbsp;&nbsp;202/225-6827 </STRONG></DIV>
+<DIV><STRONG>Metro stop: Capitol South</STRONG></DIV>
+<DIV><STRONG>&nbsp;@38.889798,-77.010586</STRONG></DIV>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>-77.010590,38.889797,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lincoln Memorial</name>
+    <description><![CDATA[<DIV><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A href="http://www.nps.gov/nr/travel/wash/dc71.htm">Lincoln Memorial</A></STRONG></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG>on the west end of National Mall</STRONG></DIV>
+<DIV><STRONG>Metro stop: Smithsonian</STRONG></DIV>
+<DIV><STRONG>@38.889279,-77.049977</STRONG></DIV>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-77.049980,38.889278,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Washington Monument</name>
+    <description><![CDATA[<DIV><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A href="http://www.nps.gov/nr/travel/wash/dc72.htm">The Washington Monument</A></STRONG> </DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG>Tel 1-877-444-6777</STRONG></DIV>
+<DIV><STRONG>Metro stop: Smithsonian</STRONG></DIV>
+<DIV><STRONG>@38.889452,-77.034857</STRONG></DIV>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>-77.034859,38.889454,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Thomas Jefferson Memorial</name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG><A href="http://www.nps.gov/nr/travel/wash/dc73.htm">The Thomas Jefferson Memorial</A></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV><STRONG>Located on the south bank of the Tidal Basin near downtown Washington, DC</STRONG></DIV>
+<DIV><STRONG>Tel&nbsp;&nbsp;202/426-6841</STRONG></DIV>
+<DIV><STRONG>Metro stop: Smithsonian</STRONG></DIV>
+<DIV><STRONG>@38.881078,-77.036562</STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>-77.036560,38.881077,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Arlington House / The Robert E. Lee National Memorial</name>
+    <description><![CDATA[<DIV dir="ltr"><A href="http://www.nps.gov/nr/travel/wash/dc68.htm"><STRONG>Arlington House / The Robert E. Lee National Memorial<BR><BR></STRONG></A><STRONG>Located in Arlington, Va., just across Memorial Bridge from the Lincoln Memorial</STRONG></DIV>
+<DIV dir="ltr"><STRONG>Metro stop: Arlington Cemetery</STRONG></DIV>
+<DIV dir="ltr"><STRONG>@38.88261482466946,77.07406997680664</STRONG></DIV>]]></description>
+    <styleUrl>#style84</styleUrl>
+    <Point>
+      <coordinates>-77.074074,38.882614,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Arlington Memorial Bridge</name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <STRONG><A href="http://www.nps.gov/nr/travel/wash/dc69.htm">Arlington Memorial Bridge</A></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV><STRONG>Memorial Bridge runs across the Potomac River from the Lincoln Memorial to Arlington House in Virginia.</STRONG></DIV>
+<DIV><STRONG>Metro stop: Arlington Cemetery</STRONG></DIV>
+<DIV><STRONG>@38.887334,-77.055533</STRONG></DIV>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>-77.055534,38.887333,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Smithsonian Institution Building</name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<STRONG><A href="http://www.nps.gov/nr/travel/wash/dc74.htm">Smithsonian Institution Building</A></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV><STRONG>located at 1000 Jefferson Dr., SW</STRONG></DIV>
+<DIV><STRONG>Metro stop: Smithsonian</STRONG></DIV>
+<DIV><STRONG>@38.888943,-77.026075</STRONG></DIV>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>-77.026077,38.888943,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The National Archives</name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<STRONG><A href="http://www.nps.gov/nr/travel/wash/dc75.htm">&nbsp;&nbsp; The National Archives</A></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV><STRONG>Located at 8th St. and Pennsylvania Ave., NW</STRONG></DIV>
+<DIV><STRONG>@38.892319,-77.022893</STRONG></DIV>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>-77.022896,38.892319,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cannon House Office Building</name>
+    <description><![CDATA[<DIV dir="ltr"><STRONG>&nbsp;&nbsp;&nbsp;&nbsp; <A href="http://www.nps.gov/nr/travel/wash/dc77.htm">The Cannon House Office Building </A></STRONG></DIV>
+<DIV dir="ltr"><STRONG></STRONG>&nbsp;</DIV>
+<DIV dir="ltr"><STRONG>Located at Independence and New Jersey Aves., NE</STRONG></DIV>
+<DIV dir="ltr"><STRONG>Tel 202/225-6827</STRONG></DIV>
+<DIV dir="ltr"><STRONG>@38.886289,-77.005882</STRONG></DIV>]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>-77.005882,38.886288,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>   The Russell Senate Office Building</name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;<STRONG><A href="http://www.nps.gov/nr/travel/wash/dc77.htm">The Russell Senate Office Building</A></STRONG></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG>Located at Delaware and Constitution Aves., NE</STRONG></DIV>
+<DIV><STRONG>Tel 202/225-6827</STRONG></DIV>
+<DIV><STRONG>Russell Metro stop: Union Station</STRONG></DIV>
+<DIV><STRONG>@38.892791,-77.006891</STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>-77.006889,38.892792,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Union Station</name>
+    <description><![CDATA[<DIV dir="ltr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<STRONG><A href="http://www.nps.gov/nr/travel/wash/dc80.htm">&nbsp; Union Station</A></STRONG></DIV>
+<DIV dir="ltr">&nbsp;</DIV>
+<DIV dir="ltr"><STRONG>50 Massachusetts Ave., NE</STRONG></DIV>
+<DIV dir="ltr"><STRONG>Tel 202/289-1908</STRONG></DIV>
+<DIV dir="ltr"><STRONG>Metro stop: Union Station</STRONG></DIV>
+<DIV dir="ltr"><STRONG>&nbsp;@38.897773,-77.006399</STRONG></DIV>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>-77.006401,38.897774,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gallaudet University</name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <STRONG><A href="http://www.nps.gov/nr/travel/wash/dc92.htm">Gallaudet University</A></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV><STRONG>Located on Florida Ave. between 6th and 9th Sts., NE</STRONG></DIV>
+<DIV><STRONG>Tel: 202-651-5050</STRONG></DIV>
+<DIV><STRONG>Metro stop: New York Avenue-Florida Avenue-Gallaudet University Station</STRONG></DIV>
+<DIV><STRONG>@38.908417,-76.992116</STRONG></DIV>]]></description>
+    <styleUrl>#style78</styleUrl>
+    <Point>
+      <coordinates>-76.992119,38.908417,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Congressional Cemetery</name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <STRONG><A href="http://www.nps.gov/nr/travel/wash/DC_CongressionCemetery.html">Congressional Cemetery</A></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV><STRONG>located at 1801 E Street, SE, on Capitol Hill</STRONG></DIV>
+<DIV><STRONG>Metro stop: Potomac Avenue</STRONG></DIV>
+<DIV><STRONG>@38.88128,-76.980562</STRONG></DIV>]]></description>
+    <styleUrl>#style71</styleUrl>
+    <Point>
+      <coordinates>-76.980560,38.881279,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Capitol Hill Historic District </name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<STRONG><A href="http://www.nps.gov/nr/travel/wash/dc81.htm">The Capitol Hill Historic District</A></STRONG> </DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG>The Capitol Hill Historic District is bounded by Virginia Ave., SE.; S. Capitol, 2nd Street and and F Sts., NE.; and 14th Sts., SE &amp; NE</STRONG></DIV>
+<DIV><STRONG>Metro stops: Union Station, E. Capitol, and Eastern Market. </STRONG></DIV>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -76.985580,38.877605,0.000000
+            -76.985710,38.897648,0.000000
+            -76.988281,38.897579,0.000000
+            -76.993088,38.897579,0.000000
+            -77.003693,38.897713,0.000000
+            -77.003601,38.881012,0.000000
+            -76.997833,38.879040,0.000000
+            -76.996071,38.878555,0.000000
+            -76.994888,38.878223,0.000000
+            -76.985580,38.877605,0.000000
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <name>United States Supreme Court Building</name>
+    <description><![CDATA[<DIV>&nbsp; <STRONG><A href="http://www.nps.gov/nr/travel/wash/dc78.htm">United States Supreme Court Building</A></STRONG></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG>Located at 1st and East Capitol Sts., NE</STRONG></DIV>
+<DIV><STRONG>Tel 202/479-3000</STRONG></DIV>
+<DIV><STRONG>@38.890565,-77.004461</STRONG></DIV>
+<DIV>&nbsp;</DIV>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-77.004463,38.890564,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name> Library of Congress </name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <STRONG><A href="http://www.nps.gov/nr/travel/wash/dc79.htm">Library of Congress</A></STRONG></DIV>
+<DIV>&nbsp;<STRONG></STRONG>&nbsp;</DIV>
+<DIV><STRONG>Located at Independence Ave. and 1st St., SE</STRONG></DIV>
+<DIV><STRONG>Tel 202/707-8000</STRONG></DIV>
+<DIV><STRONG>metro stop: Capitol South</STRONG></DIV>
+<DIV><STRONG>@38.888731,-77.005957<BR>&nbsp;</STRONG></DIV>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>-77.005959,38.888729,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sewall-Belmont House </name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<FONT color="#2200c1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT><A href="http://www.nps.gov/nr/travel/wash/dc82.htm"><STRONG>Sewall-Belmont House </STRONG></A></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG>Located at 144 Constitution Ave., NE</STRONG></DIV>
+<DIV><STRONG>Metro stop: Capital South, Union Station</STRONG></DIV>
+<DIV><STRONG>@38.892612,-77.003865</STRONG></DIV>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>-77.003868,38.892612,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Folger Shakespeare Library</name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <STRONG><A href="http://www.nps.gov/nr/travel/wash/dc83.htm">Folger Shakespeare Library</A></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV><STRONG>Located at 201 East Capitol St., SE</STRONG></DIV>
+<DIV><STRONG>Metro station: Capitol South or Union Station</STRONG></DIV>
+<DIV><STRONG>@38.889553,-77.002774</STRONG></DIV>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-77.002777,38.889553,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>St Mark&#39;s Episcopal Church</name>
+    <description><![CDATA[<DIV dir="ltr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>&nbsp;&nbsp;<A href="http://www.nps.gov/nr/travel/wash/dc84.htm">St Mark's Episcopal Church</A></STRONG></DIV>
+<DIV dir="ltr"><STRONG></STRONG>&nbsp;</DIV>
+<DIV dir="ltr"><STRONG>Located at 3rd and A Sts., SE</STRONG></DIV>
+<DIV dir="ltr"><STRONG>Metro stop: Capital South, Union Station</STRONG></DIV>
+<DIV dir="ltr"><STRONG>@38.888146,-77.001948</STRONG></DIV>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>-77.001945,38.888145,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Eastern Market</name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<STRONG><A href="http://www.nps.gov/nr/travel/wash/dc85.htm">&nbsp; Eastern Market</A></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV><STRONG>Located at 7th and C Sts., SE</STRONG></DIV>
+<DIV><STRONG>Eastern Market Metro Station</STRONG></DIV>
+<DIV><STRONG>@38.886223,-76.995857</STRONG></DIV>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-76.995857,38.886223,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Christ Church, Washington Parish </name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<STRONG><A href="http://www.nps.gov/nr/travel/wash/dc86.htm">Christ Church, Washington Parish</A></STRONG> </DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG>located at 620 G St., SE</STRONG></DIV>
+<DIV><STRONG>Metro stop: Eastern Market </STRONG></DIV>
+<DIV><STRONG>@38.881828,-76.997583</STRONG></DIV>]]></description>
+    <styleUrl>#style72</styleUrl>
+    <Point>
+      <coordinates>-76.997581,38.881828,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lincoln Park</name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <STRONG><A href="http://www.nps.gov/nr/travel/wash/dc87.htm">Lincoln Park</A></STRONG></DIV>
+<DIV><I></I>&nbsp;</DIV>
+<DIV><STRONG>Lincoln Park, maintained by the National Park Service, is a public park square that is accessible to the public. </STRONG></DIV>
+<DIV><STRONG>@38.889839,-76.989868</STRONG></DIV>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>-76.989868,38.889839,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The Marine Corps Museum</name>
+    <description><![CDATA[<DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <STRONG><A href="http://www.nps.gov/nr/travel/wash/dc89.htm">The Marine Corps Museum</A></STRONG></DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG>At 9th and M Sts., SE</STRONG></DIV>
+<DIV><STRONG>@38.909175,-77.016143</STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-77.016144,38.909176,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Frederick Douglass National Historic Site,</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>-76.985062,38.862801,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>The National Arboretum </name>
+    <description><![CDATA[<DIV><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A href="http://www.nps.gov/nr/travel/wash/dc94.htm">The National Arboretum</A></STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV><STRONG>3501 New York Ave., NE</STRONG></DIV>
+<DIV><STRONG>@38.916742,-76.964933</STRONG></DIV>]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>-76.964935,38.916740,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kenilworth Aquatic Gardens</name>
+    <description><![CDATA[<DIV dir="ltr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <A href="http://www.nps.gov/nr/travel/wash/dc95.htm"><STRONG>Kenilworth Aquatic Gardens</STRONG></A></DIV>
+<DIV dir="ltr">&nbsp;</DIV>
+<DIV dir="ltr"><STRONG>The entrance to the Aquatic Gardens is just west of I-295 (Kenilworth Avenue), between Quarles and Douglas Sts., on Anacostia Ave.</STRONG></DIV>
+<DIV dir="ltr">
+<DIV dir="ltr"><STRONG>Tel: 202/426-6905</STRONG></DIV>
+<DIV dir="ltr"><STRONG>@38.913106,-76.94018</STRONG></DIV></DIV>]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>-76.940178,38.913105,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
