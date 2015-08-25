@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 1,
+        "description": "This polygon has a fill color with a stroke-opacity of 0.",
+        "fill": "#7c117c",
+        "name": "A Polygon",
+        "stroke-opacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.97265625,
+              46.437856895024204
+            ],
+            [
+              -115.927734375,
+              44.902577996288876
+            ],
+            [
+              -115.927734375,
+              42.16340342422401
+            ],
+            [
+              -109.3359375,
+              45.089035564831015
+            ],
+            [
+              -106.083984375,
+              45.460130637921004
+            ],
+            [
+              -105.64453124999999,
+              47.81315451752768
+            ],
+            [
+              -111.97265625,
+              46.437856895024204
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 2,
+        "description": "This polyline has a stroke-width of 10.",
+        "name": "A Polyline",
+        "stroke-width": 10
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.216796875,
+            41.04621681452063
+          ],
+          [
+            -110.21484375,
+            39.842286020743394
+          ],
+          [
+            -102.12890625,
+            44.902577996288876
+          ],
+          [
+            -95.00976562499999,
+            42.48830197960227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 3,
+        "description": "This is the default marker that displays if no style parameters are available.",
+        "name": "A Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.97558593749999,
+          46.28622391806708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 4,
+        "description": "This marker is styled with a marker-size and marker-symbol.",
+        "marker-size": "large",
+        "marker-symbol": "4",
+        "name": "A Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.60205078124999,
+          41.72213058512578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 2,
+        "description": "This is what a polygon looks like if no style parameters are available.",
+        "name": "A Rectangle"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.37158203125,
+              43.88205730390537
+            ],
+            [
+              -98.37158203125,
+              44.88701247981298
+            ],
+            [
+              -95.47119140625,
+              44.88701247981298
+            ],
+            [
+              -95.47119140625,
+              43.88205730390537
+            ],
+            [
+              -98.37158203125,
+              43.88205730390537
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 3,
+        "description": "This polygon has a fill-opacity of 0 and a stroke color.",
+        "fill-opacity": 0,
+        "name": "Another Polygon",
+        "stroke": "#ce195b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -101.6015625,
+              38.71980474264239
+            ],
+            [
+              -103.84277343749999,
+              38.41055825094609
+            ],
+            [
+              -104.1064453125,
+              36.70365959719453
+            ],
+            [
+              -101.90917968749999,
+              36.87962060502676
+            ],
+            [
+              -100.6787109375,
+              37.75334401310656
+            ],
+            [
+              -99.1845703125,
+              38.47939467327645
+            ],
+            [
+              -99.4482421875,
+              39.605688178320804
+            ],
+            [
+              -100.8544921875,
+              39.87601941962116
+            ],
+            [
+              -102.041015625,
+              39.50404070558415
+            ],
+            [
+              -103.623046875,
+              39.232253141714885
+            ],
+            [
+              -105.6884765625,
+              38.993572058209466
+            ],
+            [
+              -101.6015625,
+              38.71980474264239
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "class": 1,
+        "description": "This marker is styled with a color and symbol.",
+        "marker-color": "#d33f2a",
+        "marker-symbol": "bus",
+        "name": "Another Marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9501953125,
+          40.1452892956766
+        ]
+      }
+    }
+  ]
+}
