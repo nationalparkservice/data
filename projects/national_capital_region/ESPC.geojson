@@ -73,7 +73,6 @@
         "lighting": 1,
         "water": 1,
         "solar": "",
-        "mechanical": 1,
         "cost": "27,637",
         "energysavings": 752,
         "watersavings": 463,
