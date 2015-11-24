@@ -20,7 +20,8 @@
         "lightingnotes": "Install LED lighting, intelligent lighting controls.",
         "solarnotes": "Install two roof-mounted solar arrays.",
         "waternotes": "Install low-flow fixtures.",
-        "ghg": "http://www.nps.gov/orgs/1465/images/mana-ghg.JPG"
+        "ghg": "http://www.nps.gov/orgs/1465/images/mana-ghg.JPG",
+        "ghgvalue": 16.3
       },
       "geometry": {
         "type": "Point",
@@ -48,7 +49,8 @@
         "energysavings": 372,
         "lightingnotes": "Install LED lighting, intelligent lighting controls, high-efficiency thermostats.",
         "mechanicalnotes": "Install programmable thermostats.",
-        "ghg": "http://www.nps.gov/orgs/1465/images/cato-ghg.JPG"
+        "ghg": "http://www.nps.gov/orgs/1465/images/cato-ghg.JPG",
+        "ghgvalue": 18.2
       },
       "geometry": {
         "type": "Point",
@@ -77,7 +79,8 @@
         "watersavings": 463,
         "lightingnotes": "Install LED lighting, intelligent lighting controls.",
         "waternotes": "Install low-flow fixtures.",
-        "ghg": "http://www.nps.gov/orgs/1465/images/hafe-ghg.JPG"
+        "ghg": "http://www.nps.gov/orgs/1465/images/hafe-ghg.JPG",
+        "ghgvalue": 36.8
       },
       "geometry": {
         "type": "Point",
@@ -106,7 +109,8 @@
         "mechanicalnotes": "Replace boiler, install programmable thermostats.",
         "lightingnotes": "Install LED lighting, intelligent lighting controls.",
         "waternotes": "Install low-flow fixtures, ice machine retrofit.",
-        "ghg": "http://www.nps.gov/orgs/1465/images/choh-ghg.JPG"
+        "ghg": "http://www.nps.gov/orgs/1465/images/choh-ghg.JPG",
+        "ghgvalue": 26.9
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +139,8 @@
         "mechanicalnotes": "Replace HVAC unit.",
         "lightingnotes": "Install LED lighting, intelligent lighting controls.",
         "waternotes": "Install low-flow fixtures, retrofit ice machine.",
-        "ghg": "http://www.nps.gov/orgs/1465/images/anti-ghg.JPG"
+        "ghg": "http://www.nps.gov/orgs/1465/images/anti-ghg.JPG",
+        "ghgvalue": 11.6
       },
       "geometry": {
         "type": "Point",
@@ -164,7 +169,8 @@
         "lightingnotes": "Install LED fixtures, intelligent lighting controls.",
         "solarnotes": "Install two solar photovoltaic arrays.",
         "waternotes": "Install low-flow fixtures.",
-        "ghg": "http://www.nps.gov/orgs/1465/images/mono-ghg.JPG"
+        "ghg": "http://www.nps.gov/orgs/1465/images/mono-ghg.JPG",
+        "ghgvalue": 10.1
       },
       "geometry": {
         "type": "Point",
@@ -193,7 +199,8 @@
         "mechanicalnotes": "Replace boiler, upgrade BAS/EMCS, replace HVAC, replace variable speed drives at Filene Center.",
         "lightingnotes": "Install LED lighting, intelligent lighting controls, retrofit dimmer controls.",
         "waternotes": "Install low-flow fixtures, upgrade irrigation, retrofit ice machine.",
-        "ghg": "http://www.nps.gov/orgs/1465/images/wotr-ghg.JPG"
+        "ghg": "http://www.nps.gov/orgs/1465/images/wotr-ghg.JPG",
+        "ghgvalue": 41.1
       },
       "geometry": {
         "type": "Point",
@@ -222,7 +229,8 @@
         "mechanicalnotes": "Replace boiler, replace HVAC.",
         "lightingnotes": "Install LED lighting, intelligent lighting controls.",
         "waternotes": "Install low-flow fixtures, retrofit ice machine.",
-        "ghg": "http://www.nps.gov/orgs/1465/images/prwi-ghg.JPG"
+        "ghg": "http://www.nps.gov/orgs/1465/images/prwi-ghg.JPG",
+        "ghgvalue": 29.2
       },
       "geometry": {
         "type": "Point",
@@ -252,7 +260,8 @@
         "mechanicalnotes": "Upgrade BAS/EMCS automation, replace HVAC equipment.",
         "lightingnotes": "Install LED lighting, intelligent lighting controls.",
         "waternotes": "Install low-flow plumbing; retrofit Theodore Roosevelt Island fountain; upgrade irrigation controls at U.S. Marine Corps Memorial, Jones Point Park, and WIMSA Memorial; retrofit ice machines.",
-        "ghg": "http://www.nps.gov/orgs/1465/images/gwmp-ghg.JPG"
+        "ghg": "http://www.nps.gov/orgs/1465/images/gwmp-ghg.JPG",
+        "ghgvalue": 57.7
       },
       "geometry": {
         "type": "Point",
@@ -283,7 +292,8 @@
         "mechanicalnotes": "Boiler replacement/retrofit, programmable thermostats, HVAC unit replacement, FDR Memorial motor replacement.",
         "waternotes": "Install low-flow plumbing, fountain retrofits, efficient irrigation, ice machine retrofit.",
         "watersavings": "50,926",
-        "ghg": "http://www.nps.gov/orgs/1465/images/nama-ghg.JPG"
+        "ghg": "http://www.nps.gov/orgs/1465/images/nama-ghg.JPG",
+        "ghgvalue": 280.3
       },
       "geometry": {
         "type": "Point",
@@ -310,7 +320,8 @@
         "cost": "191,626",
         "lightingnotes": "Install LED lighting, intelligent lighting controls.",
         "waternotes": "Install low-flow fixtures, retrofit fountains, upgrade irrigation system, retrofit ice machines.",
-        "ghg": "http://www.nps.gov/orgs/1465/images/whho-ghg.JPG"
+        "ghg": "",
+        "ghgvalue": ""
       },
       "geometry": {
         "type": "Point",
@@ -339,7 +350,8 @@
         "cost": "179,699",
         "mechanicalnotes": "High-efficiency chiller, programmable thermostats, Carter Barron Box Office HVAC upgrade, Edgewater Stables gas heaters upgraded to infrared heaters.",
         "energysavings": "1,923",
-        "ghg": "http://www.nps.gov/orgs/1465/images/rocr-ghg.JPG"
+        "ghg": "http://www.nps.gov/orgs/1465/images/rocr-ghg.JPG",
+        "ghgvalue": 53.2
       },
       "geometry": {
         "type": "Point",
@@ -368,7 +380,8 @@
         "mechanicalnotes": "Install condensing boiler, HVAC replacement, ice machine retrofit.",
         "waternotes": "Install low-flow fixtures.",
         "lightingnotes": "Install LED lighting, intelligent lighting controls.",
-        "ghg": "http://www.nps.gov/orgs/1465/images/nace-ghg.JPG"
+        "ghg": "http://www.nps.gov/orgs/1465/images/nace-ghg.JPG",
+        "ghgvalue": 93.3
       },
       "geometry": {
         "type": "Point",
