@@ -19,7 +19,8 @@
         "cost": "14,561",
         "lightingnotes": "Install LED lighting, intelligent lighting controls.",
         "solarnotes": "Install two roof-mounted solar arrays.",
-        "waternotes": "Install low-flow fixtures."
+        "waternotes": "Install low-flow fixtures.",
+        "ghg": "http://www.nps.gov/orgs/1465/mana-ghg.JPG"
       },
       "geometry": {
         "type": "Point",
@@ -46,7 +47,8 @@
         "cost": "12,666",
         "energysavings": 372,
         "lightingnotes": "Install LED lighting, intelligent lighting controls, high-efficiency thermostats.",
-        "mechanicalnotes": "Install programmable thermostats."
+        "mechanicalnotes": "Install programmable thermostats.",
+        "ghg": "http://www.nps.gov/orgs/1465/cato-ghg.JPG"
       },
       "geometry": {
         "type": "Point",
@@ -74,7 +76,8 @@
         "energysavings": 752,
         "watersavings": 463,
         "lightingnotes": "Install LED lighting, intelligent lighting controls.",
-        "waternotes": "Install low-flow fixtures."
+        "waternotes": "Install low-flow fixtures.",
+        "ghg": "http://www.nps.gov/orgs/1465/hafe-ghg.JPG"
       },
       "geometry": {
         "type": "Point",
@@ -102,7 +105,8 @@
         "cost": "41,790",
         "mechanicalnotes": "Replace boiler, install programmable thermostats.",
         "lightingnotes": "Install LED lighting, intelligent lighting controls.",
-        "waternotes": "Install low-flow fixtures, ice machine retrofit."
+        "waternotes": "Install low-flow fixtures, ice machine retrofit.",
+        "ghg": "http://www.nps.gov/orgs/1465/choh-ghg.JPG"
       },
       "geometry": {
         "type": "Point",
@@ -130,7 +134,8 @@
         "cost": "12,462",
         "mechanicalnotes": "Replace HVAC unit.",
         "lightingnotes": "Install LED lighting, intelligent lighting controls.",
-        "waternotes": "Install low-flow fixtures, retrofit ice machine."
+        "waternotes": "Install low-flow fixtures, retrofit ice machine.",
+        "ghg": "http://www.nps.gov/orgs/1465/anti-ghg.JPG"
       },
       "geometry": {
         "type": "Point",
@@ -156,9 +161,10 @@
         "energysavings": 206,
         "watersavings": 15,
         "cost": "7,783",
-        "lightingnotes": "Install LED lighting, intelligent lighting controls.",
+        "lightingnotes": "Install LED fixtures, intelligent lighting controls.",
         "solarnotes": "Install two solar photovoltaic arrays.",
-        "waternotes": "Install low-flow fixtures."
+        "waternotes": "Install low-flow fixtures.",
+        "ghg": "http://www.nps.gov/orgs/1465/mono-ghg.JPG"
       },
       "geometry": {
         "type": "Point",
@@ -186,7 +192,8 @@
         "cost": "29,278",
         "mechanicalnotes": "Replace boiler, upgrade BAS/EMCS, replace HVAC, replace variable speed drives at Filene Center.",
         "lightingnotes": "Install LED lighting, intelligent lighting controls, retrofit dimmer controls.",
-        "waternotes": "Install low-flow fixtures, upgrade irrigation, retrofit ice machine."
+        "waternotes": "Install low-flow fixtures, upgrade irrigation, retrofit ice machine.",
+        "ghg": "http://www.nps.gov/orgs/1465/wotr-ghg.JPG"
       },
       "geometry": {
         "type": "Point",
@@ -214,7 +221,8 @@
         "cost": "22,526",
         "mechanicalnotes": "Replace boiler, replace HVAC.",
         "lightingnotes": "Install LED lighting, intelligent lighting controls.",
-        "waternotes": "Install low-flow fixtures, retrofit ice machine."
+        "waternotes": "Install low-flow fixtures, retrofit ice machine.",
+        "ghg": "http://www.nps.gov/orgs/1465/prwi-ghg.JPG"
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +251,8 @@
         "cost": "90,328",
         "mechanicalnotes": "Upgrade BAS/EMCS automation, replace HVAC equipment.",
         "lightingnotes": "Install LED lighting, intelligent lighting controls.",
-        "waternotes": "Install low-flow plumbing; retrofit Theodore Roosevelt Island fountain; upgrade irrigation controls at U.S. Marine Corps Memorial, Jones Point Park, and WIMSA Memorial; retrofit ice machines."
+        "waternotes": "Install low-flow plumbing; retrofit Theodore Roosevelt Island fountain; upgrade irrigation controls at U.S. Marine Corps Memorial, Jones Point Park, and WIMSA Memorial; retrofit ice machines.",
+        "ghg": "http://www.nps.gov/orgs/1465/gwmp-ghg.JPG"
       },
       "geometry": {
         "type": "Point",
@@ -273,7 +282,8 @@
         "lightingnotes": "Install LED lighting, intelligent lighting controls.",
         "mechanicalnotes": "Boiler replacement/retrofit, programmable thermostats, HVAC unit replacement, FDR Memorial motor replacement.",
         "waternotes": "Install low-flow plumbing, fountain retrofits, efficient irrigation, ice machine retrofit.",
-        "watersavings": "50,926"
+        "watersavings": "50,926",
+        "ghg": "http://www.nps.gov/orgs/1465/nama-ghg.JPG"
       },
       "geometry": {
         "type": "Point",
@@ -299,7 +309,8 @@
         "watersavings": "2,481",
         "cost": "191,626",
         "lightingnotes": "Install LED lighting, intelligent lighting controls.",
-        "waternotes": "Install low-flow fixtures, retrofit fountains, upgrade irrigation system, retrofit ice machines."
+        "waternotes": "Install low-flow fixtures, retrofit fountains, upgrade irrigation system, retrofit ice machines.",
+        "ghg": "http://www.nps.gov/orgs/1465/whho-ghg.JPG"
       },
       "geometry": {
         "type": "Point",
@@ -323,11 +334,12 @@
         "water": 1,
         "mechanical": 1,
         "lightingnotes": "Install LED lighting, intelligent lighting controls.",
-        "waternotes": "Install low-flow fixtures.",
+        "waternotes": "Install low-flow plumbing/",
         "watersavings": "11,482",
         "cost": "179,699",
         "mechanicalnotes": "High-efficiency chiller, programmable thermostats, Carter Barron Box Office HVAC upgrade, Edgewater Stables gas heaters upgraded to infrared heaters.",
-        "energysavings": "1,923"
+        "energysavings": "1,923",
+        "ghg": "http://www.nps.gov/orgs/1465/rocr-ghg.JPG"
       },
       "geometry": {
         "type": "Point",
@@ -355,7 +367,8 @@
         "watersavings": "2,108",
         "mechanicalnotes": "Install condensing boiler, HVAC replacement, ice machine retrofit.",
         "waternotes": "Install low-flow fixtures.",
-        "lightingnotes": "Install LED lighting, intelligent lighting controls."
+        "lightingnotes": "Install LED lighting, intelligent lighting controls.",
+        "ghg": "http://www.nps.gov/orgs/1465/nace-ghg.JPG"
       },
       "geometry": {
         "type": "Point",
