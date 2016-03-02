@@ -1,0 +1,855 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park",
+        "name": "Catoctin Mountain Park",
+        "url": "/cato/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.45206832885742,
+          39.645089398186414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Antietam National Battlefield",
+        "url": "/anti/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.73599624633789,
+          39.46714346976499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chesapeake and Ohio Canal National Historical Park",
+        "url": "/choh/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5363540649414,
+          39.27226477644736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George Washington Memorial Parkway",
+        "url": "/gwmp/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.14977264404297,
+          38.96147774016426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Claude Moore Colonial Farm",
+        "url": "/clmo/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.15254068374634,
+          38.953635441473935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glen Echo Park",
+        "url": "/glec/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.13822841644286,
+          38.96593244667172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clara Barton National Historic Site",
+        "url": "/clba/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1406102180481,
+          38.967834370861304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Falls Park",
+        "url": "/grfa/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.24753379821777,
+          38.98596681992875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lyndon Baines Johnson Memorial Grove",
+        "url": "/lyba/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04900741577148,
+          38.87646771710564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arlington House - The Robert E. Lee Memorial",
+        "url": "/arho/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07250356674194,
+          38.88113656068155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Theodore Roosevelt Island",
+        "url": "/this/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06346988677979,
+          38.897161973977234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harpers Ferry National Historical Park",
+        "url": "/hafe/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.73086786270142,
+          39.32306058074011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "National Mall and Memorial Parks",
+        "url": "/nama/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02793598175049,
+          38.889462878011365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "African American Civil War Memorial",
+        "url": "/afam/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02595114707947,
+          38.91662310258231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Constitution Gardens",
+        "url": "/coga/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04302072525024,
+          38.891116333414246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ford's Theatre National Historic Site",
+        "url": "/foth/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02577948570251,
+          38.89666097359819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Franklin Delano Roosevelt Memorial",
+        "url": "/frde/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04289197921753,
+          38.88319944035879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George Mason Memorial",
+        "url": "/gemm/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03920125961304,
+          38.879574745543714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John Ericsson Memorial",
+        "url": "/joer/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05018222332001,
+          38.88665692622359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lincoln Memorial",
+        "url": "/linc/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05018758773804,
+          38.88924575474607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Korean War Veterans Memorial",
+        "url": "/kowa/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04764485359192,
+          38.8878177351962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vietnam Veterans Memorial",
+        "url": "/vive/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04765558242798,
+          38.89118313888421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "President's Park",
+        "url": "/whho/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03651905059814,
+          38.89764627098392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Martin Luther King, Jr. Memorial",
+        "url": "/mlkm/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04434037208556,
+          38.886047285137785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "World War II Memorial",
+        "url": "/wwii/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04044580459595,
+          38.889345965566385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Washington Monument",
+        "url": "/wamo/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03522086143494,
+          38.88944617624529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Post Office Tower",
+        "url": "/opot/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02752828598022,
+          38.89409746635012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pennsylvania Avenue National Historic Site",
+        "url": "/paav/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02098369598389,
+          38.89300356375547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thomas Jefferson Memorial",
+        "url": "/thje/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03655123710632,
+          38.88141217155417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rock Creek Park",
+        "url": "/rocr/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05168962478638,
+          38.959884322073236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Civil War Defenses of Washington",
+        "url": "/cwdw/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03102588653563,
+          38.97072052669015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meridian Hill Park",
+        "url": "/mehi/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03570365905762,
+          38.921289306821066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Stone House",
+        "url": "/olst/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06028342247009,
+          38.905615822291914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anacostia Park",
+        "url": "/anac/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98429107666016,
+          38.87209091972346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore-Washington Parkway",
+        "url": "/bawa/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.90309524536131,
+          38.96621607018527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capitol Hill Parks",
+        "url": "/cahi/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9898271560669,
+          38.889730105734515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carter G. Woodson Home National Historic Site",
+        "url": "/cawo/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02398240566254,
+          38.91076904485461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Dupont Park",
+        "url": "/fodu/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95148229598999,
+          38.877954430458104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Foote Park",
+        "url": "/fofo/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02870845794676,
+          38.76937610029679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harmony Hall",
+        "url": "/haha/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00343132019043,
+          38.745983778934686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Washington Park",
+        "url": "/fowa/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02960968017578,
+          38.70962513631028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piscataway Park",
+        "url": "/pisc/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0500373840332,
+          38.69368310392541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oxon Cove Park and Oxon Hill Farm",
+        "url": "/oxhi/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00952529907227,
+          38.80603875173101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greenbelt Park",
+        "url": "/gree/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89597129821777,
+          38.98276436986852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kenilworth Park and Aquatic Gardens",
+        "url": "/keaq/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94159030914307,
+          38.912674536257356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wolf Trap National Park for the Performing Arts",
+        "url": "/wotr/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.26465702056885,
+          38.93798162119452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manassas National Batlefield",
+        "url": "/mana/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.52656936645506,
+          38.81911365629543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Potomac Heritage National Scenic Trail",
+        "url": "/pohe/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3741340637207,
+          39.06344858720722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monocacy National Battlefield",
+        "url": "/mono/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3935317993164,
+          39.359586180977615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prince William Forest Park",
+        "url": "/prwi/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.38031387329102,
+          38.58520989992523
+        ]
+      }
+    }
+  ]
+}
