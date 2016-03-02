@@ -1,0 +1,276 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park",
+        "name": "Harmony Hall",
+        "url": "/haha/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00308799743652,
+          38.74631848708898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park",
+        "name": "Fort Foote",
+        "url": "/fofo/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02840805053711,
+          38.76894111994395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park",
+        "name": "Fort Washington",
+        "url": "/fowa/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03081130981445,
+          38.71310779635571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piscataway",
+        "url": "/pisc/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05141067504881,
+          38.69328115802396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park",
+        "name": "Oxon Cove Park / Oxon Hill Farm",
+        "url": "/oxhi/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00999736785889,
+          38.80592170210554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore-Washington Parkway",
+        "url": "/bawa/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.84507369995117,
+          39.0463192286753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Dupont",
+        "url": "/fodu/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9508171081543,
+          38.87726954390107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kenilworth Park & Aquatic Gardens",
+        "url": "/keaq/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94214820861816,
+          38.91274132144652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anacostia Park",
+        "url": "/anac/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98240280151367,
+          38.87312667474602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frederick Douglass National Historic Site",
+        "url": "/frdo/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98521375656128,
+          38.86330310056754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suitland Parkway",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.91622734069823,
+          38.834827116921645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mary McLeod Bethune Council House National Historic Site",
+        "url": "/mamc/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.030910551548,
+          38.90796810921272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capitol Hill Parks",
+        "url": "/cahi/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98999881744385,
+          38.88989712255097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greenbelt Park",
+        "url": "/gree/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89571380615234,
+          38.98183029464616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Civil War Defenses of Washington",
+        "url": "/cwdw/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95394992828369,
+          38.86580924336795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carter G. Woodson Home National Historic Site",
+        "url": "/cawo/",
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02404141426086,
+          38.91081078672579
+        ]
+      }
+    }
+  ]
+}
