@@ -89,7 +89,7 @@ var NPMap = {
 
         layer.cartocss = styling;
 
-        L.npmap.util._.appendCssFile('http://www.nps.gov/orgs/1439/upload/map.css');
+        L.npmap.util._.appendCssFile('https://www.nps.gov/orgs/1439/upload/map.css');
 
         html += '<table class="legend">' +
           '<tr>' +
@@ -123,5 +123,5 @@ var NPMap = {
 };
 
 var s = document.createElement('script');
-s.src = 'http://www.nps.gov/lib/npmap.js/3.0.12/npmap-bootstrap.min.js';
+s.src = 'https://www.nps.gov/lib/npmap.js/3.0.14/npmap-bootstrap.min.js';
 document.body.appendChild(s);
