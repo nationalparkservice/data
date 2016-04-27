@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "name": "Martin Luther King, Jr. Memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04425722360611,
+          38.88620804716487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
+        "name": "Bookstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04518795013428,
+          38.88636045758188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0452094078064,
+          38.8861475004701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Handicapped Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04503238201141,
+          38.88552115232383
+        ]
+      }
+    }
+  ]
+}
