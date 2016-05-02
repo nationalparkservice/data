@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "shop",
         "name": "Franklin Delano Roosevelt Memorial Bookstore"
       },
@@ -21,7 +21,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "shop",
         "name": "Martin Luther King, Jr. Memorial Bookstore"
       },
@@ -37,7 +37,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "shop",
         "notes": "Located on the upper level.",
         "name": "Lincoln Memorial Bookstore"
@@ -54,7 +54,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "shop",
         "notes": "Located on the lower level.",
         "name": "Thomas Jefferson Memorial Bookstore"
@@ -71,7 +71,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "shop",
         "notes": "Washington Monument tickets available at rear window (supplies are limited).",
         "name": "Washington Monument Lodge Bookstore"
@@ -88,7 +88,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "shop",
         "name": "Souvenirs"
       },
