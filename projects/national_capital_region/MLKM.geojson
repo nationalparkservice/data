@@ -22,22 +22,6 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "shop",
-        "name": "Bookstore"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.04518795013428,
-          38.88636045758188
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "marker-symbol": "parking",
         "name": "Handicapped Parking"
       },
