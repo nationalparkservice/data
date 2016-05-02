@@ -7,7 +7,8 @@
         "marker-color": "#ff0000",
         "marker-size": "large",
         "marker-symbol": "star",
-        "name": "Ford's Theatre National Historic Site"
+        "name": "Ford's Theatre National Historic Site",
+        "url": "https://www.nps.gov/foth/"
       },
       "geometry": {
         "type": "Point",
