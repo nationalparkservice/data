@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04413920640945,
+          38.88392185167299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04521477222443,
+          38.886412652855014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
+        "notes": "Located on the upper level."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05004543066025,
+          38.88943782536077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
+        "notes": "Located on the lower level."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0365458726883,
+          38.88169822110198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
+        "notes": "Washington Monument tickets available at rear window (supplies are limited)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03338623046875,
+          38.88946496573186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04939633607863,
+          38.89081570802197
+        ]
+      }
+    }
+  ]
+}
