@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "Ford's Theatre National Historic Site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02566146850586,
+          38.89664218601523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "name": "Petersen House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02628642320633,
+          38.89669228622544
+        ]
+      }
+    }
+  ]
+}
