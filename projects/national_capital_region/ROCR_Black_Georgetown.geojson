@@ -1,0 +1,232 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "cemetery",
+        "name": "Mt. Zion Cemetery",
+        "notes": "In 1879, Mt. Zion Church leased a burial ground for 99 years at the east end of the Dumbarton Church Cemetery (known as the Old Methodist Burying Ground.) The Female Union Band Society, an association of black women, formed in 1842 to provide for the burial of free blacks. Both graveyards have constituted the Mount Zion Cemetery for over a century. In the 1950s the Board of Health closed the dilapidated cemetery. Through protest and support of organizations planning the U.S. Bicentennial celebration, Mt. Zion Cemetery was declared an Historic Landmark. The cemetery is located behind the row of townhouses on the north side of the 2700 block of Q Street, NW.",
+        "address": "2501-, 2599 Mill Rd NW",
+        "number": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05464005470276,
+          38.911150982060775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "religious-christian",
+        "name": "Jerusalem Baptist Church",
+        "address": "2600 P St NW",
+        "notes": "In 1870, Reverend Alexander of the First Baptist Church helped found a sister church, Seventh Baptist, as the number of Baptists increased in Georgetown. In 1903, the present red brick building with two magnificent stained glass windows facing P Street was completed and the church was renamed Jerusalem Baptist.",
+        "number": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0549753308296,
+          38.90916405128973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "religious-christian",
+        "name": "First Baptist Church of Georgetown",
+        "notes": "Founded by a former slave, the Reverend Sandy Alexander, in 1862, First Baptist Church is the earliest known Baptist Church in Georgetown. The congregation worshiped in a building located at 21st & O Streets, NW before relocating to its present location at 27th and Dumbarton Avenue, NW.",
+        "address": "2624 Dumbarton St NW",
+        "number": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05564320087433,
+          38.9075569342456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "religious-christian",
+        "name": "Mt. Zion United Methodist Church",
+        "address": "1334 29th St. NW",
+        "notes": "This church is considered the oldest black congregation in the District of Columbia. Dissatisfied with their segregation status in the Dumbarton Avenue United Methodist Church, blacks organized this church in 1816. This church established one of the earliest schools for black children and was an active stop on the Underground Railroad. Fleeing slaves were hidden in the nearby Mt. Zion Cemetery. The present site of the church was purchased in 1875. The construction of the building was performed by black workers and church members. The house around the corner was purchased in 1920 by the church and used for meetings and for the city’s first black library. It was restored in 1982 by the church, and is the last standing English-style brick cottage in the district.",
+        "number": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05826371908188,
+          38.9080077655557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Emma V. Brown Residence",
+        "address": "3044 P St. NW",
+        "notes": "Emma V. Brown opened a school for Georgetown’s black children in her home in 1861. Miss. Brown dedicated her life to educating Washington’s black children and became one of the two teachers at the first publicly financed school for blacks. This school was organized in the basement of the Ebenezer Methodist Church on Capitol Hill in 1864. Miss. Brown later became the head of the John F. Cook School on O Street, NW and the principal of the Sumner School at 17th and M Street, NW."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06088423728943,
+          38.90919953268406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Dr. James Fleet Residence",
+        "address": "1208 30th St. NW",
+        "number": 6,
+        "notes": "This residence belonged to one of three black physicians in the District of Columbia. In 1843, for the sum of $800, Dr. James Fleet purchased this property as his home. Dr. Fleet studied medicine with a former assistant surgeon of the US ARMY. Upon completion of his studies, he refused to emigrate to Liberia and was denounced by society. His career was spent in education and music insted of medicine. He opened his first school for blacks in 1843, which burned, and later opened his second school which became extremely popular. As a violinist, Fleet also taught music."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05929100513458,
+          38.905549030398426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Alfred and William H. Lee Business",
+        "address": "2906 M St. NW",
+        "number": 7,
+        "notes": "One of the city's most prosperous black merchants, Alfred Lee established his Flour, Grain, Feed, and Hay business in 1830 at this site. Worth over $300,000 at the time of his death in 1893, his business was operated by this widow and son, William H. Lee, well into the 20th century."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05839782953262,
+          38.90510235799537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "name": "The Billings School",
+        "address": "3100-3108 Dumbarton St. NW",
+        "number": 8,
+        "notes": "One of the earliest schools in Georgetown where black children could receive a quality education, the Billings School was opened by Mary Billings, who was a white educator, after the death of her husband. Since a mixed school was unacceptable to the white community her school closed. Mrs. Billings then opened a second school on Congress and High Street in 1810 soley for black children. The school was relocated before her death in 1826."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06153333187103,
+          38.90747135946064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "religious-christian",
+        "name": "Site of Yarrow Mamout Residence",
+        "number": 9,
+        "address": "3330-3332 Dent Pl. NW",
+        "notes": "Yarrow Mamout, although almost unrecognized today, was a prominent resident of Georgetown. Mr. Yarrow purchased property, survived the American Revolution, never strayed from his Muslim religion, and lived to be over one hundred years old. His portrait was painted by one of the most accomplished painters in federal America and now hangs in the Georgetown Public Library in the Peobody Collection."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06714183092116,
+          38.91164770606311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "religious-christian",
+        "name": "Holy Trinity Church",
+        "address": "3513 N St. NW",
+        "number": 10,
+        "notes": "Since 1787, blacks have been parishoners at Holy Trinity Church. For more than a century, it was the only place in Georgetown where black Catholics could worship. In 1925, in eastern Georgetown near Rock Creek, the Catholic parish of Epiphany was organized. A year later, a chapel for black Catholics was built on Dumbarton Street."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07023173570633,
+          38.90715410569921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "college",
+        "name": "Georgetown University",
+        "number": 11,
+        "address": "37th & O St. NW",
+        "notes": "Father Patrick Francis Healy was the first black Jesuit and the first black president of a major college in the United States. Father Healy was born to a mulatto slave mother and an Irish father in 1834. His brother Father James Healy was the first black Catholic priest and bishop in America. Educated by Quakers, Father Patrick Healy received a bachelor’s degree from Holy Cross College in 1850. He began teaching at Georgetown College in 1866 after studying in Europe. Eight years later he became its president. Father Healy left the College in 1882 and later returned in 1908 to the campus infirmary where he died. He is buried on the grounds of the University in the Jesuit cemetery."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07224607467651,
+          38.907598678005705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "college",
+        "name": "Duke Ellington School of the Arts",
+        "number": 12,
+        "address": "1500 R. St. NW",
+        "notes": "Duke Ellington School of the Arts is named for one of Washington’s most notable citizens. It is a public four year institution for training in drama, music, dance an the visual arts. The school places equal emphasis on its academic and arts curriculum. Entrance to the school is gained through a demanding audition process. Ellington is located on a hill, in the former Western High School building, overlooking Georgetown."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07063674926758,
+          38.913125335064706
+        ]
+      }
+    }
+  ]
+}
