@@ -231,7 +231,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "name": "Walking Route"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
