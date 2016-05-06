@@ -53,7 +53,7 @@ var NPMap = {
         var name = App.types[i].toLowerCase().replace(/\s/g, ''),
           formalName = App.types[i];
 
-		NPMap.config.overlays.push({type: 'cartodb', user: 'npswrd', table: name, name: formalName, popup: { description: '{{{popupinfo}}}', title: '{{name}}' }});
+		NPMap.config.overlays.push({type: 'cartodb', user: 'npswrd', table: name, name: formalName,, sql: 'SELECT * FROM ' + name + ' ORDER BY cartodb_id', popup: { description: '{{{popupinfo}}}', title: '{{name}}' }});
 
         var layer = NPMap.config.overlays[i];
 
