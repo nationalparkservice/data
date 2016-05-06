@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
+        "marker-color": "#004080",
+        "marker-size": "large",
         "marker-symbol": "cemetery",
         "name": "Mt. Zion Cemetery",
         "notes": "In 1879, Mt. Zion Church leased a burial ground for 99 years at the east end of the Dumbarton Church Cemetery (known as the Old Methodist Burying Ground.) The Female Union Band Society, an association of black women, formed in 1842 to provide for the burial of free blacks. Both graveyards have constituted the Mount Zion Cemetery for over a century. In the 1950s the Board of Health closed the dilapidated cemetery. Through protest and support of organizations planning the U.S. Bicentennial celebration, Mt. Zion Cemetery was declared an Historic Landmark. The cemetery is located behind the row of townhouses on the north side of the 2700 block of Q Street, NW.",
@@ -23,8 +23,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
+        "marker-color": "#004080",
+        "marker-size": "large",
         "marker-symbol": "religious-christian",
         "name": "Jerusalem Baptist Church",
         "address": "2600 P St NW",
@@ -42,8 +42,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
+        "marker-color": "#004080",
+        "marker-size": "large",
         "marker-symbol": "religious-christian",
         "name": "First Baptist Church of Georgetown",
         "notes": "Founded by a former slave, the Reverend Sandy Alexander, in 1862, First Baptist Church is the earliest known Baptist Church in Georgetown. The congregation worshiped in a building located at 21st & O Streets, NW before relocating to its present location at 27th and Dumbarton Avenue, NW.",
@@ -61,8 +61,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
+        "marker-color": "#004080",
+        "marker-size": "large",
         "marker-symbol": "religious-christian",
         "name": "Mt. Zion United Methodist Church",
         "address": "1334 29th St. NW",
@@ -80,8 +80,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
+        "marker-color": "#004080",
+        "marker-size": "large",
         "marker-symbol": "building",
         "name": "Emma V. Brown Residence",
         "address": "3044 P St. NW",
@@ -98,8 +98,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
+        "marker-color": "#004080",
+        "marker-size": "large",
         "marker-symbol": "building",
         "name": "Dr. James Fleet Residence",
         "address": "1208 30th St. NW",
@@ -117,8 +117,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
+        "marker-color": "#004080",
+        "marker-size": "large",
         "marker-symbol": "building",
         "name": "Alfred and William H. Lee Business",
         "address": "2906 M St. NW",
@@ -136,8 +136,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
+        "marker-color": "#004080",
+        "marker-size": "large",
         "marker-symbol": "school",
         "name": "The Billings School",
         "address": "3100-3108 Dumbarton St. NW",
@@ -155,8 +155,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
+        "marker-color": "#004080",
+        "marker-size": "large",
         "marker-symbol": "religious-christian",
         "name": "Site of Yarrow Mamout Residence",
         "number": 9,
@@ -174,8 +174,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
+        "marker-color": "#004080",
+        "marker-size": "large",
         "marker-symbol": "religious-christian",
         "name": "Holy Trinity Church",
         "address": "3513 N St. NW",
@@ -193,8 +193,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
+        "marker-color": "#004080",
+        "marker-size": "large",
         "marker-symbol": "college",
         "name": "Georgetown University",
         "number": 11,
@@ -212,8 +212,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
-        "marker-size": "medium",
+        "marker-color": "#004080",
+        "marker-size": "large",
         "marker-symbol": "college",
         "name": "Duke Ellington School of the Arts",
         "number": 12,
