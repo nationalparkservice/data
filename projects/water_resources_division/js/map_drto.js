@@ -36,7 +36,7 @@ var NPMap = {
     lat: 24.62,
     lng: -82.9
   },
-  detectAvailablePopupSpace: false,
+  //detectAvailablePopupSpace: false,
   div: 'map',
   fullscreenControl: true,
   homeControl: true,
