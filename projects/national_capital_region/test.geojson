@@ -34,6 +34,40 @@
           38.82359401766334
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "name": "Fort Marcy",
+        "url": "https://www.nps.gov/av/ncr/avElement/cwdw-LetterfromFortMarcyAudio.mp3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.12509632110596,
+          38.934209501714534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "The Force Awakens",
+        "url": "https://youtu.be/sGbxmsDFVnE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.80816650390625,
+          39.04371946875431
+        ]
+      }
     }
   ]
 }
