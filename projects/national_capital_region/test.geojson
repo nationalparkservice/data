@@ -17,6 +17,23 @@
           38.889396070923496
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "minefield",
+        "url": "https://www.nps.gov/media/video/view.htm?id=2706643D-1DD8-B71C-070E3430EB5E5DA0",
+        "name": "Manassas Artillery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5334358215332,
+          38.82359401766334
+        ]
+      }
     }
   ]
 }
