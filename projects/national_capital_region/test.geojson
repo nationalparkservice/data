@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "rocket",
+        "url": "https://www.youtube.com/embed/Wji-BZ0oCwg",
+        "name": "Rogue One"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03544616699219,
+          38.889396070923496
+        ]
+      }
+    }
+  ]
+}
