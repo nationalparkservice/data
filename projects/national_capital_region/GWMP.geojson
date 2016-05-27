@@ -201,6 +201,7 @@
         "alpha": "/gwmp/planyourvisit/ladybirdjohnsonpark.htm",
         "image": "/gwmp/planyourvisit/images/Lady-Bird-Johnson-Park.jpg",
         "blurb": "Lady Bird Johnson earned many awards, including a Presidential Medal of Freedom for her work to transform the American landscape and preserve its natural beauty as a national treasure. In 1968 Columbia Island was renamed in her honor. Graceful plantings and picturesque views recall her conviction that beauty can make the world less grim and tense."
+        "name": "Lady Bird Johnson Park",
       },
       "geometry": {
         "type": "Point",
