@@ -289,7 +289,7 @@
         "alpha": "/gwmp/",
         "image": "/common/uploads/banner_image/ncr/homepage/C25C46C0-1DD8-B71B-0BE76C3C9A6F8BA4.jpg?width=2400&height=700&mode=crop&quality=90",
         "marker-color": "#800000",
-        "blurb": ""
+        "blurb": "The George Washington Memorial Parkway was designed for recreational driving. It links sites that commemorate important episodes in American history and preserve habitat for local wildlife. The parkway and its associated trails provide a scenic place to play and rest in the busy Washington, DC metropolitan area."
       },
       "geometry": {
         "type": "LineString",
@@ -1442,7 +1442,8 @@
         "image": "/common/uploads/banner_image/ncr/homepage/C25C46C0-1DD8-B71B-0BE76C3C9A6F8BA4.jpg?width=2400&height=700&mode=crop&quality=90",
         "stroke": "#555555",
         "stroke-width": 5,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "blurb": "The George Washington Memorial Parkway was designed for recreational driving. It links sites that commemorate important episodes in American history and preserve habitat for local wildlife. The parkway and its associated trails provide a scenic place to play and rest in the busy Washington, DC metropolitan area."
       },
       "geometry": {
         "type": "LineString",
@@ -1527,7 +1528,7 @@
       "properties": {
         "marker-color": "#800000",
         "alpha": "/gwmp/",
-        "blurb": "",
+        "blurb": "The George Washington Memorial Parkway was designed for recreational driving. It links sites that commemorate important episodes in American history and preserve habitat for local wildlife. The parkway and its associated trails provide a scenic place to play and rest in the busy Washington, DC metropolitan area.",
         "name": "George Washington Memorial Parkway",
         "image": "/common/uploads/banner_image/ncr/homepage/C25C46C0-1DD8-B71B-0BE76C3C9A6F8BA4.jpg?width=2400&height=700&mode=crop&quality=90",
         "stroke": "#555555",
@@ -1645,7 +1646,8 @@
         "image": "/common/uploads/banner_image/ncr/homepage/C25C46C0-1DD8-B71B-0BE76C3C9A6F8BA4.jpg?width=2400&height=700&mode=crop&quality=90",
         "stroke": "#555555",
         "stroke-width": 5,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "blurb": "The George Washington Memorial Parkway was designed for recreational driving. It links sites that commemorate important episodes in American history and preserve habitat for local wildlife. The parkway and its associated trails provide a scenic place to play and rest in the busy Washington, DC metropolitan area."
       },
       "geometry": {
         "type": "LineString",
@@ -1686,7 +1688,8 @@
         "image": "/common/uploads/banner_image/ncr/homepage/C25C46C0-1DD8-B71B-0BE76C3C9A6F8BA4.jpg?width=2400&height=700&mode=crop&quality=90",
         "stroke": "#555555",
         "stroke-width": 5,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "blurb": "The George Washington Memorial Parkway was designed for recreational driving. It links sites that commemorate important episodes in American history and preserve habitat for local wildlife. The parkway and its associated trails provide a scenic place to play and rest in the busy Washington, DC metropolitan area."
       },
       "geometry": {
         "type": "LineString",
@@ -1767,7 +1770,8 @@
         "image": "/common/uploads/banner_image/ncr/homepage/C25C46C0-1DD8-B71B-0BE76C3C9A6F8BA4.jpg?width=2400&height=700&mode=crop&quality=90",
         "stroke": "#555555",
         "stroke-width": 5,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "blurb": "The George Washington Memorial Parkway was designed for recreational driving. It links sites that commemorate important episodes in American history and preserve habitat for local wildlife. The parkway and its associated trails provide a scenic place to play and rest in the busy Washington, DC metropolitan area."
       },
       "geometry": {
         "type": "LineString",
