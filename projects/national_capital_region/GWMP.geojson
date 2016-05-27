@@ -1,0 +1,1902 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "large",
+        "marker-symbol": "park",
+        "alpha": "/grfa/",
+        "name": "Great Falls Park",
+        "image": "/common/uploads/banner_image/ncr/homepage/FF33F9C2-1DD8-B71B-0B63054A86C0B5D1.jpg?width=2400&height=700&mode=crop&quality=90",
+        "blurb": "At Great Falls, the Potomac River builds up speed and force as it falls over a series of steep, jagged rocks and flows through the narrow Mather Gorge. The Patowmack Canal offers a glimpse into the early history of this country. Great Falls Park has many opportunities to explore history and nature, all in a beautiful 800-acre park only 15 miles from the Nation's Capital.",
+        "fee": "https://www.nps.gov/grfa/planyourvisit/fees.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.24753379821777,
+          38.98486599406053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "large",
+        "marker-symbol": "park",
+        "alpha": "/clmo/",
+        "name": "Claude Moore Colonial Farm",
+        "image": "/common/uploads/banner_image/ncr/homepage/CCB19B54-1DD8-B71B-0B503A6208344AFB.jpg?width=2400&height=700&mode=crop&quality=90",
+        "blurb": "Step back in time and experience life on a small farm in northern Virginia.  Living history programs and demonstrations offer a glimpse of what life was like for a poor farm family, just before the Revolutionary War."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.15241193771362,
+          38.95348526132807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "large",
+        "marker-symbol": "building",
+        "alpha": "/arho/",
+        "name": "Arlington House ",
+        "image": "/common/uploads/banner_image/ncr/homepage/C1D8169F-1DD8-B71B-0BAC02D550930E22.jpg?width=2400&height=700&mode=crop&quality=90",
+        "blurb": "The Robert E. Lee Memorial honors Lee's military and public leadership in pre- and post-Civil War America. Congress designated the memorial to recognize that \"the desire and hope of Robert E. Lee for peace and unity within our Nation has come to pass.\" From the portico you can contemplate our nation's fate as you gaze across the river that once divided us. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07259744405746,
+          38.88115535236593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "large",
+        "marker-symbol": "park",
+        "alpha": "/this/",
+        "name": "Theodore Roosevelt Island",
+        "image": "/common/uploads/banner_image/ncr/homepage/662991DD-1DD8-B71B-0BB617FCCCAE549E.jpg?width=2400&height=700&mode=crop&quality=90",
+        "blurb": "In the 1930s landscape architects transformed Mason’s Island from neglected, overgrown farmland into Theodore Roosevelt Island, a memorial to America’s 26th president. They conceived a “real forest” designed to mimic the natural forest that once covered the island. Today miles of trails through wooded uplands and swampy bottomlands honor the legacy of a great outdoorsman and conservationist."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06400632858276,
+          38.89723712372924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "large",
+        "marker-symbol": "monument",
+        "alpha": "/gwmp/planyourvisit/usmc_memorial.htm",
+        "image": "/gwmp/planyourvisit/images/USMC-War-Memorial-Chris-James.jpg",
+        "blurb": "Based on an iconic image of the second flag-raising on the island of Iwo Jima during World War II, the US Marine Corps War Memorial is dedicated to \"the Marine dead of all wars and their comrades of other services who fell fighting beside them.\"",
+        "name": "U.S. Marine Corps Memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06974089145659,
+          38.890435749108654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "music",
+        "alpha": "/gwmp/planyourvisit/netherlandscarillon.htm",
+        "image": "/gwmp/planyourvisit/images/Netherlands-Carillon.jpg",
+        "blurb": "The 50 bells of the Netherlands Carillon hang in an open steel tower, a symbol of Dutch regard for American aid during and after World War II. The carillon's peaceful setting, with its floral libraries and sculpted lions, is the perfect place to listen to the music of the bells.",
+        "name": "Netherlands Carillon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06949412822723,
+          38.888181006049805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "/gwmp/planyourvisit/memorialave.htm",
+        "image": "/gwmp/planyourvisit/images/Memorial-Ave.jpg",
+        "blurb": "Arlington Memorial Bridge and Avenue provide a ceremonial entrance to Washington, DC from Virginia. Designed to be an \"Avenue of Heroes,\" it is lined with monuments and memorials to such diverse figures as Admiral Byrd, the Seabees, Valor, and Sacrifice.  The Arlington Memorial Bridge crosses the Potomac River at Washington, D.C. The bridge was first proposed in 1886 however, it went unbuilt until 1932. Today, Memorial Bridge symbolically links North and South in its alignment between the Lincoln Memorial and Arlington House, the Robert E. Lee Memorial.",
+        "name": "Arlington Memorial Bridge & Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05539107322693,
+          38.887391829071106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "alpha": "/gwmp/planyourvisit/forthunt.htm",
+        "image": "/gwmp/planyourvisit/images/Fort-Hunt.jpg",
+        "name": "Fort Hunt Park",
+        "blurb": "Originally part of George Washington's Mount Vernon estate, the land that is Fort Hunt Park has undergone several transformations. Batteries at Fort Hunt defended the Potomac River during the Spanish American War; the Civilian Conservation Corps operated a camp there during the Great Depression; and soldiers at Fort Hunt interrogated prisoners, trained pilots in escape and evasion, and combed German documents for intelligence during World War II. Today it is a favorite spot for picnicking.  Fort Hunt Park is located near the shores of the Potomac River in Virginia. Mixed hardwood forests and open fields provide a variety of habitats for birds and other wildlife."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05413579940796,
+          38.715167174147766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "alpha": "/gwmp/planyourvisit/fortmarcy.htm",
+        "name": "Fort Marcy",
+        "image": "/gwmp/planyourvisit/images/Fort-Marcy-Ben-H-Rome.jpg",
+        "blurb": "Fort Marcy and its counterpart, Fort Ethan Allen, were hastily planned and built to protect the Chain Bridge approach to Washington, DC during the Civil War. Its earthwork walls, trenches, rifle pits, and parade ground are among the best preserved defenses from that era. Today it is part of a wildlife corridor around the nation's capital."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.12516069412231,
+          38.934167773607115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "alpha": "/gwmp/planyourvisit/jonespoint.htm",
+        "image": "/gwmp/planyourvisit/images/Jones-Point.jpg",
+        "name": "Jones Point Park",
+        "blurb": "Jones Point Park is located on the Potomac River, just south of Old Town Alexandria. It was a critical piece of the city of Alexandria's history as one of the largest centers for shipping, manufacturing, and transportation in the nation. Its lighthouse, built in 1855, is the last remaining riverine lighthouse in Virginia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04145431518555,
+          38.79473421480265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "alpha": "/gwmp/planyourvisit/ladybirdjohnsonpark.htm",
+        "image": "/gwmp/planyourvisit/images/Lady-Bird-Johnson-Park.jpg",
+        "blurb": "Lady Bird Johnson earned many awards, including a Presidential Medal of Freedom for her work to transform the American landscape and preserve its natural beauty as a national treasure. In 1968 Columbia Island was renamed in her honor. Graceful plantings and picturesque views recall her conviction that beauty can make the world less grim and tense."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05748319625854,
+          38.88351680114713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Navy and Merchant Marine Memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0472103357315,
+          38.87627143520966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "harbor",
+        "name": "Columbia Island Marina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04992473125458,
+          38.876359135698266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "large",
+        "marker-symbol": "park",
+        "alpha": "/lyba/planyourvisit/maps.htm",
+        "name": "Lyndon Baines Johnson Memorial Grove on the Potomac",
+        "image": "/common/uploads/banner_image/ncr/homepage/C357E96E-1DD8-B71B-0B31244A8D10DDE9.JPG?width=2400&height=700&mode=crop&quality=90",
+        "blurb": "From this distance the seat of national power appears pristine across the river, so President Johnson came here often when he needed to escape from the stresses of building a Great Society. After he died, his wife chose this place for his memorial. A landscape of serpentine paths, white pines, a granite monolith, and an open meadow honors his legacy of social justice and conservation legislation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05121219158173,
+          38.87864766256831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "name": "Gravelly Point",
+        "blurb": "Gravelly Point is a popular spot to watch aircraft landing and departing from Reagan National (DCA)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03935146331787,
+          38.86486527328377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 5,
+        "stroke-opacity": 1,
+        "name": "George Washington Memorial Parkway",
+        "alpha": "/gwmp/",
+        "image": "/common/uploads/banner_image/ncr/homepage/C25C46C0-1DD8-B71B-0BE76C3C9A6F8BA4.jpg?width=2400&height=700&mode=crop&quality=90",
+        "marker-color": "#800000",
+        "blurb": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.1860146522522,
+            38.962829197579424
+          ],
+          [
+            -77.18627214431763,
+            38.96279582857093
+          ],
+          [
+            -77.18654036521912,
+            38.96284588207778
+          ],
+          [
+            -77.18683004379272,
+            38.963046095751544
+          ],
+          [
+            -77.18694806098938,
+            38.963296362048084
+          ],
+          [
+            -77.18698024749756,
+            38.96354662746059
+          ],
+          [
+            -77.18676567077637,
+            38.96387197117513
+          ],
+          [
+            -77.18629360198975,
+            38.96411389245588
+          ],
+          [
+            -77.18577861785889,
+            38.96419731339562
+          ],
+          [
+            -77.18505978584288,
+            38.96412223455429
+          ],
+          [
+            -77.18404054641724,
+            38.96388865542792
+          ],
+          [
+            -77.18225955963133,
+            38.963463205754636
+          ],
+          [
+            -77.18100428581238,
+            38.96322962445544
+          ],
+          [
+            -77.17993140220642,
+            38.963146202376244
+          ],
+          [
+            -77.17476010322571,
+            38.9642640500767
+          ],
+          [
+            -77.17377305030823,
+            38.96429741839366
+          ],
+          [
+            -77.17262506484985,
+            38.96415560293804
+          ],
+          [
+            -77.17106938362122,
+            38.9639220239217
+          ],
+          [
+            -77.16966390609741,
+            38.96368844413522
+          ],
+          [
+            -77.16851592063904,
+            38.96365507553145
+          ],
+          [
+            -77.1673035621643,
+            38.963755181295646
+          ],
+          [
+            -77.16553330421448,
+            38.96405549773963
+          ],
+          [
+            -77.1639883518219,
+            38.96430576047047
+          ],
+          [
+            -77.16291546821594,
+            38.96446425974273
+          ],
+          [
+            -77.1618103981018,
+            38.96450597001859
+          ],
+          [
+            -77.16060876846313,
+            38.964447575625506
+          ],
+          [
+            -77.15935349464417,
+            38.964172287124015
+          ],
+          [
+            -77.15802311897278,
+            38.96361336475459
+          ],
+          [
+            -77.15570569038391,
+            38.96262898329273
+          ],
+          [
+            -77.15318441390991,
+            38.961728012000876
+          ],
+          [
+            -77.15063095092773,
+            38.96114404300697
+          ],
+          [
+            -77.14852809906006,
+            38.96074360434361
+          ],
+          [
+            -77.14751958847046,
+            38.960334820873754
+          ],
+          [
+            -77.14611411094666,
+            38.959767525620386
+          ],
+          [
+            -77.14468717575073,
+            38.95893325964384
+          ],
+          [
+            -77.14354991912842,
+            38.95807395541902
+          ],
+          [
+            -77.14216589927673,
+            38.95709783992018
+          ],
+          [
+            -77.14021325111389,
+            38.955629469912054
+          ],
+          [
+            -77.1389901638031,
+            38.954503142752266
+          ],
+          [
+            -77.1383786201477,
+            38.95376059135239
+          ],
+          [
+            -77.1378743648529,
+            38.95274269926329
+          ],
+          [
+            -77.13752031326294,
+            38.95162466979401
+          ],
+          [
+            -77.13732719421387,
+            38.950448216757735
+          ],
+          [
+            -77.13724136352538,
+            38.948237099703796
+          ],
+          [
+            -77.13715553283691,
+            38.94679357852846
+          ],
+          [
+            -77.13706970214844,
+            38.94560870103113
+          ],
+          [
+            -77.13694095611572,
+            38.94502459920257
+          ],
+          [
+            -77.13662981987,
+            38.94437373721032
+          ],
+          [
+            -77.13609337806702,
+            38.9434975674002
+          ],
+          [
+            -77.13523507118225,
+            38.94252959578277
+          ],
+          [
+            -77.13395833969116,
+            38.9410776135774
+          ],
+          [
+            -77.13362574577332,
+            38.94056857829362
+          ],
+          [
+            -77.13343262672423,
+            38.93998443494033
+          ],
+          [
+            -77.13341116905212,
+            38.93930849162539
+          ],
+          [
+            -77.13364720344543,
+            38.93853240061386
+          ],
+          [
+            -77.13407635688782,
+            38.93773126549877
+          ],
+          [
+            -77.13429093360901,
+            38.9370219195608
+          ],
+          [
+            -77.13429093360901,
+            38.93633760263742
+          ],
+          [
+            -77.134108543396,
+            38.935653279110475
+          ],
+          [
+            -77.13370084762573,
+            38.93503571318588
+          ],
+          [
+            -77.13289618492126,
+            38.93440145069248
+          ],
+          [
+            -77.13211297988892,
+            38.934034243498374
+          ],
+          [
+            -77.13077187538147,
+            38.93378387386683
+          ],
+          [
+            -77.12892651557922,
+            38.933633651663655
+          ],
+          [
+            -77.12738156318665,
+            38.93339997204845
+          ],
+          [
+            -77.12639451026917,
+            38.93309117994747
+          ],
+          [
+            -77.12499976158142,
+            38.932615470566354
+          ],
+          [
+            -77.12333679199219,
+            38.93172246363781
+          ],
+          [
+            -77.12167382240295,
+            38.93071260113479
+          ],
+          [
+            -77.11966753005981,
+            38.92940226224098
+          ],
+          [
+            -77.11733937263487,
+            38.92778308393042
+          ],
+          [
+            -77.11633086204527,
+            38.926965134444345
+          ],
+          [
+            -77.11521506309509,
+            38.92592181784155
+          ],
+          [
+            -77.11400270462036,
+            38.92466147092219
+          ],
+          [
+            -77.11326241493225,
+            38.9239019132904
+          ],
+          [
+            -77.11216807365417,
+            38.923042184401524
+          ],
+          [
+            -77.11093425750731,
+            38.92214070991177
+          ],
+          [
+            -77.1096682548523,
+            38.92123922396818
+          ],
+          [
+            -77.10863828659058,
+            38.92033772657078
+          ],
+          [
+            -77.10787653923035,
+            38.9194779544934
+          ],
+          [
+            -77.1072006225586,
+            38.9186348669033
+          ],
+          [
+            -77.10628867149353,
+            38.91692361871836
+          ],
+          [
+            -77.10533380508421,
+            38.91487841431887
+          ],
+          [
+            -77.10463643074036,
+            38.91352604271194
+          ],
+          [
+            -77.1041214466095,
+            38.91274966959075
+          ],
+          [
+            -77.10312366485596,
+            38.91183136783915
+          ],
+          [
+            -77.10129976272583,
+            38.910320318188916
+          ],
+          [
+            -77.09964752197266,
+            38.90894281396019
+          ],
+          [
+            -77.09729790687561,
+            38.90710610007237
+          ],
+          [
+            -77.09540963172913,
+            38.90586211685612
+          ],
+          [
+            -77.0939290523529,
+            38.90506896181494
+          ],
+          [
+            -77.09221243858337,
+            38.90416725900499
+          ],
+          [
+            -77.09097862243652,
+            38.9034993236141
+          ],
+          [
+            -77.08954095840453,
+            38.903040114387764
+          ],
+          [
+            -77.08838224411011,
+            38.902647696877246
+          ],
+          [
+            -77.08709478378296,
+            38.90232207219004
+          ],
+          [
+            -77.08388686180115,
+            38.90169586667116
+          ],
+          [
+            -77.08176255226135,
+            38.9013702376187
+          ],
+          [
+            -77.08055019378662,
+            38.9013702376187
+          ],
+          [
+            -77.07895159721375,
+            38.901570624904615
+          ],
+          [
+            -77.07796454429626,
+            38.901520528136174
+          ],
+          [
+            -77.07579731941223,
+            38.9009611118206
+          ],
+          [
+            -77.07478880882263,
+            38.90070227591454
+          ],
+          [
+            -77.07369446754456,
+            38.90059373154412
+          ],
+          [
+            -77.07241237163544,
+            38.90072732459186
+          ],
+          [
+            -77.07162380218506,
+            38.90077742191998
+          ],
+          [
+            -77.07097470760345,
+            38.90072314981293
+          ],
+          [
+            -77.07001447677612,
+            38.900397516299556
+          ],
+          [
+            -77.06960678100586,
+            38.9002138249409
+          ],
+          [
+            -77.0691990852356,
+            38.89998421007432
+          ],
+          [
+            -77.06886112689972,
+            38.89968362221768
+          ],
+          [
+            -77.06854462623596,
+            38.899312060469676
+          ],
+          [
+            -77.06838369369507,
+            38.89883612460398
+          ],
+          [
+            -77.06825494766235,
+            38.8983059115938
+          ],
+          [
+            -77.06806719303131,
+            38.89764209602383
+          ],
+          [
+            -77.06785261631012,
+            38.89708682414571
+          ],
+          [
+            -77.06704258918762,
+            38.895692362843235
+          ],
+          [
+            -77.06634521484375,
+            38.89463188591892
+          ],
+          [
+            -77.06555128097533,
+            38.89270294635079
+          ],
+          [
+            -77.06514358520508,
+            38.8914837627214
+          ],
+          [
+            -77.06492900848389,
+            38.89079065584851
+          ],
+          [
+            -77.06469297409058,
+            38.8898052633505
+          ],
+          [
+            -77.06436574459076,
+            38.888631960387066
+          ],
+          [
+            -77.06409752368927,
+            38.88788454376844
+          ],
+          [
+            -77.063507437706,
+            38.88702437859767
+          ],
+          [
+            -77.06231117248535,
+            38.88544599017517
+          ],
+          [
+            -77.06174790859222,
+            38.88465260708987
+          ],
+          [
+            -77.06126511096954,
+            38.88369635991259
+          ],
+          [
+            -77.06076085567474,
+            38.88274427570105
+          ],
+          [
+            -77.06021904945374,
+            38.88182140996856
+          ],
+          [
+            -77.05992937088011,
+            38.88149151387992
+          ],
+          [
+            -77.05959677696228,
+            38.88118667182883
+          ],
+          [
+            -77.05897450447083,
+            38.88087765252438
+          ],
+          [
+            -77.05852389335632,
+            38.88074402213866
+          ],
+          [
+            -77.05801963806152,
+            38.88064379918446
+          ],
+          [
+            -77.05692529678345,
+            38.880693910679234
+          ],
+          [
+            -77.0558202266693,
+            38.880919411968385
+          ],
+          [
+            -77.05516040325165,
+            38.881032162344574
+          ],
+          [
+            -77.05466687679291,
+            38.88106974576356
+          ],
+          [
+            -77.05411434173584,
+            38.881023810471
+          ],
+          [
+            -77.05318093299866,
+            38.880794133562745
+          ],
+          [
+            -77.05223679542542,
+            38.88019279414114
+          ],
+          [
+            -77.05112099647522,
+            38.87939100032946
+          ],
+          [
+            -77.05000519752502,
+            38.878447210604946
+          ],
+          [
+            -77.04894304275513,
+            38.87741153311988
+          ],
+          [
+            -77.0475161075592,
+            38.87588304603062
+          ],
+          [
+            -77.04644322395325,
+            38.87455498957465
+          ],
+          [
+            -77.04498410224913,
+            38.87347749157369
+          ],
+          [
+            -77.04262375831604,
+            38.8715646835669
+          ],
+          [
+            -77.041175365448,
+            38.87032007778834
+          ],
+          [
+            -77.04028487205505,
+            38.86910886332267
+          ],
+          [
+            -77.0400595664978,
+            38.86807304975343
+          ],
+          [
+            -77.04013466835022,
+            38.86692027174586
+          ],
+          [
+            -77.04087495803832,
+            38.86550851089629
+          ],
+          [
+            -77.04189419746399,
+            38.86448099868649
+          ],
+          [
+            -77.04287052154541,
+            38.86366231979251
+          ],
+          [
+            -77.04439401626587,
+            38.862242140167794
+          ],
+          [
+            -77.04490900039673,
+            38.86163228962313
+          ],
+          [
+            -77.0457673072815,
+            38.860588012845405
+          ],
+          [
+            -77.04630374908447,
+            38.85936827815146
+          ],
+          [
+            -77.04662561416626,
+            38.858148522535494
+          ],
+          [
+            -77.04688310623169,
+            38.857070775848854
+          ],
+          [
+            -77.04690456390381,
+            38.85556691596731
+          ],
+          [
+            -77.04697966575623,
+            38.85396276370939
+          ],
+          [
+            -77.04729080200195,
+            38.85253403514301
+          ],
+          [
+            -77.04752683639526,
+            38.85124731935827
+          ],
+          [
+            -77.04819202423096,
+            38.84897462163014
+          ],
+          [
+            -77.04856753349304,
+            38.84782153398832
+          ],
+          [
+            -77.0490288734436,
+            38.84603337560815
+          ],
+          [
+            -77.0491898059845,
+            38.8446880492563
+          ],
+          [
+            -77.0489752292633,
+            38.84348475444575
+          ],
+          [
+            -77.04855680465698,
+            38.84210595412369
+          ],
+          [
+            -77.04784870147705,
+            38.840827406314425
+          ],
+          [
+            -77.04655051231384,
+            38.83899728810213
+          ],
+          [
+            -77.04597115516661,
+            38.838103103640364
+          ],
+          [
+            -77.04583168029785,
+            38.83710026657884
+          ],
+          [
+            -77.04584240913391,
+            38.83557091285252
+          ],
+          [
+            -77.04573512077332,
+            38.83440089327814
+          ],
+          [
+            -77.04491972923279,
+            38.83268761562765
+          ],
+          [
+            -77.04405069351196,
+            38.83078206814238
+          ],
+          [
+            -77.04360008239746,
+            38.82931108431905
+          ],
+          [
+            -77.04341769218445,
+            38.82728843193013
+          ],
+          [
+            -77.04336404800415,
+            38.825583341474314
+          ],
+          [
+            -77.04363226890564,
+            38.82349371415055
+          ],
+          [
+            -77.04394340515137,
+            38.82114489983207
+          ],
+          [
+            -77.04430818557739,
+            38.81811055169648
+          ],
+          [
+            -77.04506993293762,
+            38.81401439461022
+          ],
+          [
+            -77.04647541046141,
+            38.80735972702968
+          ],
+          [
+            -77.04794526100157,
+            38.80048704348698
+          ],
+          [
+            -77.0491898059845,
+            38.794776024825794
+          ],
+          [
+            -77.04968333244324,
+            38.79280256499286
+          ],
+          [
+            -77.0506489276886,
+            38.790912675124204
+          ],
+          [
+            -77.05323457717896,
+            38.78746726023798
+          ],
+          [
+            -77.0542860031128,
+            38.78544341949613
+          ],
+          [
+            -77.0546293258667,
+            38.7842474865997
+          ],
+          [
+            -77.05442547798157,
+            38.78221519098677
+          ],
+          [
+            -77.05388903617859,
+            38.78100247671031
+          ],
+          [
+            -77.05254793167114,
+            38.77909554634382
+          ],
+          [
+            -77.05190420150757,
+            38.777564946923995
+          ],
+          [
+            -77.05163598060608,
+            38.77627687605708
+          ],
+          [
+            -77.05207586288452,
+            38.773985056090034
+          ],
+          [
+            -77.05291271209717,
+            38.771007252998764
+          ],
+          [
+            -77.05364227294922,
+            38.76857305757385
+          ],
+          [
+            -77.05380320549011,
+            38.7671175195987
+          ],
+          [
+            -77.05352425575255,
+            38.76592127937673
+          ],
+          [
+            -77.05318093299866,
+            38.76505127389039
+          ],
+          [
+            -77.05209732055664,
+            38.763696051904226
+          ],
+          [
+            -77.05076694488525,
+            38.76234916998361
+          ],
+          [
+            -77.04996228218079,
+            38.76152931636733
+          ],
+          [
+            -77.04942584037781,
+            38.76067598933416
+          ],
+          [
+            -77.04901814460754,
+            38.759688794349636
+          ],
+          [
+            -77.04885721206665,
+            38.75827490656126
+          ],
+          [
+            -77.04890012741089,
+            38.75729604476025
+          ],
+          [
+            -77.04926490783691,
+            38.756166572153425
+          ],
+          [
+            -77.04984426498413,
+            38.754576913759735
+          ],
+          [
+            -77.05011248588562,
+            38.75368166950206
+          ],
+          [
+            -77.05011248588562,
+            38.75271947857536
+          ],
+          [
+            -77.0496940612793,
+            38.75056914414606
+          ],
+          [
+            -77.04886794090271,
+            38.74667829660484
+          ],
+          [
+            -77.0481276512146,
+            38.74333116132183
+          ],
+          [
+            -77.04799890518188,
+            38.74231025383463
+          ],
+          [
+            -77.0479667186737,
+            38.74164079837846
+          ],
+          [
+            -77.0480740070343,
+            38.74042739436768
+          ],
+          [
+            -77.04849243164062,
+            38.73879554267316
+          ],
+          [
+            -77.04888939857483,
+            38.73726407870499
+          ],
+          [
+            -77.04891085624695,
+            38.735766057588656
+          ],
+          [
+            -77.04880356788635,
+            38.7348705774481
+          ],
+          [
+            -77.04825639724731,
+            38.73342272132166
+          ],
+          [
+            -77.04763412475586,
+            38.732368194920426
+          ],
+          [
+            -77.04587459564209,
+            38.73117137228798
+          ],
+          [
+            -77.04421162605286,
+            38.73018376928198
+          ],
+          [
+            -77.04306364059448,
+            38.72931332819453
+          ],
+          [
+            -77.04240918159485,
+            38.7283340692943
+          ],
+          [
+            -77.04203367233276,
+            38.72737153678213
+          ],
+          [
+            -77.04187273979187,
+            38.72626670087067
+          ],
+          [
+            -77.04201221466064,
+            38.72540458219428
+          ],
+          [
+            -77.04266667366026,
+            38.7241239401038
+          ],
+          [
+            -77.04334259033203,
+            38.72291860893401
+          ],
+          [
+            -77.04371809959412,
+            38.72232430622084
+          ],
+          [
+            -77.04384684562683,
+            38.72172999856509
+          ],
+          [
+            -77.04378247261047,
+            38.72044091990238
+          ],
+          [
+            -77.04384684562683,
+            38.71926901003093
+          ],
+          [
+            -77.04411506652832,
+            38.71840680692694
+          ],
+          [
+            -77.04487681388855,
+            38.71710929721482
+          ],
+          [
+            -77.04593896865845,
+            38.71587036273197
+          ],
+          [
+            -77.0467221736908,
+            38.71499974727476
+          ],
+          [
+            -77.04797744750977,
+            38.713995177801
+          ],
+          [
+            -77.04921126365662,
+            38.71303245214072
+          ],
+          [
+            -77.05076694488525,
+            38.712128315366655
+          ],
+          [
+            -77.05209732055664,
+            38.71139997464902
+          ],
+          [
+            -77.0537281036377,
+            38.71089766638225
+          ],
+          [
+            -77.05506920814514,
+            38.71057116411619
+          ],
+          [
+            -77.05718278884888,
+            38.71035349511036
+          ],
+          [
+            -77.0605945587158,
+            38.71017768504494
+          ],
+          [
+            -77.06291198730467,
+            38.710160941206645
+          ],
+          [
+            -77.06604480743408,
+            38.71025303226878
+          ],
+          [
+            -77.06836223602295,
+            38.710453957810806
+          ],
+          [
+            -77.07059383392334,
+            38.71091859596381
+          ],
+          [
+            -77.07227826118468,
+            38.711638569839316
+          ],
+          [
+            -77.07427382469177,
+            38.71309105320368
+          ],
+          [
+            -77.07571148872375,
+            38.71417934992808
+          ],
+          [
+            -77.07788944244385,
+            38.7157447938493
+          ],
+          [
+            -77.07921981811523,
+            38.71664051371989
+          ],
+          [
+            -77.0801317691803,
+            38.71710092610795
+          ],
+          [
+            -77.08095788955688,
+            38.71732694564946
+          ],
+          [
+            -77.08179473876953,
+            38.71738554319169
+          ],
+          [
+            -77.08253502845764,
+            38.71734368780929
+          ],
+          [
+            -77.08333969116211,
+            38.71708418389125
+          ],
+          [
+            -77.08407998085022,
+            38.71663214255813
+          ],
+          [
+            -77.08458423614502,
+            38.71614661349731
+          ],
+          [
+            -77.08502411842346,
+            38.715384828496404
+          ],
+          [
+            -77.0852279663086,
+            38.71467326374438
+          ],
+          [
+            -77.08556056022644,
+            38.71361008909282
+          ],
+          [
+            -77.08574295043945,
+            38.712655729874605
+          ],
+          [
+            -77.08649396896362,
+            38.711785075263315
+          ],
+          [
+            -77.08679437637329,
+            38.71145857705022
+          ],
+          [
+            -77.0867621898651,
+            38.711098590112485
+          ],
+          [
+            -77.08650469779968,
+            38.7108223198378
+          ],
+          [
+            -77.086021900177,
+            38.71076371691501
+          ],
+          [
+            -77.0856785774231,
+            38.7109813846718
+          ],
+          [
+            -77.08550691604614,
+            38.711316256849656
+          ],
+          [
+            -77.08568930625916,
+            38.711692986174725
+          ],
+          [
+            -77.08574295043945,
+            38.71209482859985
+          ],
+          [
+            -77.08576440811157,
+            38.712505040412246
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "alpha": "/gwmp/",
+        "name": "George Washington Memorial Parkway",
+        "image": "/common/uploads/banner_image/ncr/homepage/C25C46C0-1DD8-B71B-0BE76C3C9A6F8BA4.jpg?width=2400&height=700&mode=crop&quality=90",
+        "stroke": "#555555",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.05318093299866,
+            38.880794133562745
+          ],
+          [
+            -77.05486536026001,
+            38.88181305818773
+          ],
+          [
+            -77.05637812614441,
+            38.88332471452353
+          ],
+          [
+            -77.05748319625854,
+            38.884184924488935
+          ],
+          [
+            -77.05774068832397,
+            38.88442711764877
+          ],
+          [
+            -77.0582127571106,
+            38.885287314266904
+          ],
+          [
+            -77.05931782722473,
+            38.88713294370809
+          ],
+          [
+            -77.05984354019165,
+            38.88775092656113
+          ],
+          [
+            -77.06058382987976,
+            38.888352202014936
+          ],
+          [
+            -77.06143140792847,
+            38.888844910051226
+          ],
+          [
+            -77.06205368041992,
+            38.88912884194372
+          ],
+          [
+            -77.06308364868164,
+            38.88945452712883
+          ],
+          [
+            -77.06349670886992,
+            38.88960066743164
+          ],
+          [
+            -77.06387758255003,
+            38.8897635091292
+          ],
+          [
+            -77.06422090530394,
+            38.889970192284665
+          ],
+          [
+            -77.06451863050461,
+            38.89023115500578
+          ],
+          [
+            -77.06473857164383,
+            38.890496292148555
+          ],
+          [
+            -77.06491827964783,
+            38.89081570802197
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "alpha": "/gwmp/",
+        "blurb": "",
+        "name": "George Washington Memorial Parkway",
+        "image": "/common/uploads/banner_image/ncr/homepage/C25C46C0-1DD8-B71B-0BE76C3C9A6F8BA4.jpg?width=2400&height=700&mode=crop&quality=90",
+        "stroke": "#555555",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.09326386451721,
+            38.904726650059736
+          ],
+          [
+            -77.09152579307556,
+            38.90398357739891
+          ],
+          [
+            -77.09019541740417,
+            38.90349097438194
+          ],
+          [
+            -77.0889401435852,
+            38.90310690864164
+          ],
+          [
+            -77.0876955986023,
+            38.90278128606049
+          ],
+          [
+            -77.08633303642273,
+            38.90254750482486
+          ],
+          [
+            -77.08459496498108,
+            38.90227197595178
+          ],
+          [
+            -77.08264231681824,
+            38.90216343398094
+          ],
+          [
+            -77.08079695701599,
+            38.90216343398094
+          ],
+          [
+            -77.07938075065613,
+            38.90212168702489
+          ],
+          [
+            -77.07832932472229,
+            38.90206324124516
+          ],
+          [
+            -77.0771062374115,
+            38.901779361059425
+          ],
+          [
+            -77.07581877708435,
+            38.90138693658079
+          ],
+          [
+            -77.07475662231444,
+            38.90106965562944
+          ],
+          [
+            -77.07353353500366,
+            38.90089431554809
+          ],
+          [
+            -77.07235336303711,
+            38.90089431554809
+          ],
+          [
+            -77.07131266593933,
+            38.90091101462212
+          ],
+          [
+            -77.07037925720215,
+            38.90078577147122
+          ],
+          [
+            -77.0695960521698,
+            38.90049353659338
+          ],
+          [
+            -77.06882357597351,
+            38.899975860428846
+          ],
+          [
+            -77.06821203231812,
+            38.89918263962898
+          ],
+          [
+            -77.06800818443297,
+            38.89821823819494
+          ],
+          [
+            -77.06780433654785,
+            38.89733314829663
+          ],
+          [
+            -77.06725180149078,
+            38.896093168895845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "alpha": "/gwmp/",
+        "name": "George Washington Memorial Parkway",
+        "image": "/common/uploads/banner_image/ncr/homepage/C25C46C0-1DD8-B71B-0BE76C3C9A6F8BA4.jpg?width=2400&height=700&mode=crop&quality=90",
+        "stroke": "#555555",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.18567669391632,
+            38.96241208384366
+          ],
+          [
+            -77.18474328517914,
+            38.96270406371656
+          ],
+          [
+            -77.18387424945831,
+            38.9629293045106
+          ],
+          [
+            -77.18297839164734,
+            38.963100320190826
+          ],
+          [
+            -77.18193769454955,
+            38.963171229010335
+          ],
+          [
+            -77.18010306358337,
+            38.963158715694384
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "alpha": "/gwmp/",
+        "name": "George Washington Memorial Parkway",
+        "image": "/common/uploads/banner_image/ncr/homepage/C25C46C0-1DD8-B71B-0BE76C3C9A6F8BA4.jpg?width=2400&height=700&mode=crop&quality=90",
+        "stroke": "#555555",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.17468500137329,
+            38.964289076315886
+          ],
+          [
+            -77.17586517333984,
+            38.964230681744034
+          ],
+          [
+            -77.17666983604431,
+            38.964130576651705
+          ],
+          [
+            -77.17781782150269,
+            38.9639637345168
+          ],
+          [
+            -77.17860102653503,
+            38.963746839154034
+          ],
+          [
+            -77.17944860458374,
+            38.96363839122365
+          ],
+          [
+            -77.17999577522278,
+            38.96363004906827
+          ],
+          [
+            -77.18025594949722,
+            38.963650904454845
+          ],
+          [
+            -77.18048393726349,
+            38.96370929950462
+          ],
+          [
+            -77.18078970909117,
+            38.963819832859876
+          ],
+          [
+            -77.18096941709518,
+            38.96400961614307
+          ],
+          [
+            -77.18106061220169,
+            38.96416394503154
+          ],
+          [
+            -77.18107670545578,
+            38.96431827358378
+          ],
+          [
+            -77.18105792999268,
+            38.96456853538635
+          ],
+          [
+            -77.1809533238411,
+            38.96483130932758
+          ],
+          [
+            -77.18051880598068,
+            38.96556748827405
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "alpha": "/gwmp/",
+        "name": "George Washington Memorial Parkway",
+        "image": "/common/uploads/banner_image/ncr/homepage/C25C46C0-1DD8-B71B-0BE76C3C9A6F8BA4.jpg?width=2400&height=700&mode=crop&quality=90",
+        "stroke": "#555555",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.17596709728241,
+            38.96420565548421
+          ],
+          [
+            -77.17864394187927,
+            38.963559140707986
+          ],
+          [
+            -77.17917501926422,
+            38.963442350312796
+          ],
+          [
+            -77.17947542667389,
+            38.963367270671384
+          ],
+          [
+            -77.17985093593597,
+            38.963321388629126
+          ],
+          [
+            -77.18025326728821,
+            38.9633172175329
+          ],
+          [
+            -77.18104183673859,
+            38.963342244106556
+          ],
+          [
+            -77.18140125274658,
+            38.96339229722736
+          ],
+          [
+            -77.18191623687744,
+            38.963500745534475
+          ],
+          [
+            -77.18243658542633,
+            38.963617535833386
+          ],
+          [
+            -77.18317151069641,
+            38.96380523412473
+          ],
+          [
+            -77.18384742736816,
+            38.96395539239975
+          ],
+          [
+            -77.18436241149902,
+            38.96411806350521
+          ],
+          [
+            -77.18487739562988,
+            38.96423485278647
+          ],
+          [
+            -77.18538701534271,
+            38.96431827358378
+          ],
+          [
+            -77.18567669391632,
+            38.96433912876776
+          ],
+          [
+            -77.18590736389159,
+            38.96432661565811
+          ],
+          [
+            -77.186159491539,
+            38.96428073423715
+          ],
+          [
+            -77.18643844127655,
+            38.964213997571804
+          ],
+          [
+            -77.18671202659606,
+            38.96411389245588
+          ],
+          [
+            -77.18700170516968,
+            38.9639261949823
+          ],
+          [
+            -77.18719482421874,
+            38.96377186557594
+          ],
+          [
+            -77.18733429908752,
+            38.96359250935698
+          ],
+          [
+            -77.18748986721039,
+            38.96340063941073
+          ],
+          [
+            -77.18757569789886,
+            38.96320042673889
+          ],
+          [
+            -77.18760788440704,
+            38.962987700155146
+          ],
+          [
+            -77.18769371509552,
+            38.96257475849272
+          ],
+          [
+            -77.18776881694794,
+            38.96241208384366
+          ],
+          [
+            -77.18791902065277,
+            38.96218267024223
+          ],
+          [
+            -77.18807458877563,
+            38.961994967652174
+          ],
+          [
+            -77.18865931034088,
+            38.961615389783816
+          ]
+        ]
+      }
+    }
+  ]
+}
