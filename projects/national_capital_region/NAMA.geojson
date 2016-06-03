@@ -492,6 +492,236 @@
           38.88668615545928
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "Belmont-Paul Women's Equality National Monument",
+        "url": "/bepa/",
+        "image": "/common/uploads/banner_image/ncr/homepage/D76A20F5-1DD8-B71B-0BAE8EDA6442924D.jpg",
+        "blurb": "Home to the National Woman's Party for 90 years, this was the epicenter of the struggle for women's suffrage and women's rights. From this house in the shadow of the U.S. Capitol and Supreme Court, Alice Paul and the NWP developed innovative strategies and tactics to secure passage of the 19th Amendment and more. President Barack Obama designated the national monument on April 12, 2016."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0037692785263,
+          38.89224784258087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Washington Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05011248588562,
+          38.902522456789654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Farragut Square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03894913196564,
+          38.90192547600268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "McPherson Square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0341694355011,
+          38.90192130129419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "John Barry Memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0313611626625,
+          38.90186703006146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "name": "Franklin Square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03077375888824,
+          38.90196096101494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "U.S. Navy Memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02292829751968,
+          38.89405780223743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "George C. Meade Memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01631397008896,
+          38.8921831257529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "name": "Old Post Office Tower",
+        "url": "/opot/",
+        "image": "/common/uploads/banner_image/ncr/homepage/54A96739-1DD8-B71B-0B7B68C4EE1C64E7.jpg",
+        "blurb": "uilt in 1899, the Old Post Office's clock tower offers panoramic views of Washington, D.C.  The tower houses the Congress Bells, a Bicentennial gift from England commemorating friendship between the nations."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02759265899658,
+          38.894481580821655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Jose Artigas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04141139984131,
+          38.892264543688185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Simon Bolivar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04213559627533,
+          38.89313717108248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Jose Artigas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0452094078064,
+          38.894949195635206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Bernardo de Galvez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04829394817352,
+          38.895635999310656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Benito Juarez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05352693796158,
+          38.898710877793356
+        ]
+      }
     }
   ]
 }
