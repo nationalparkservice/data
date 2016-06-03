@@ -1,0 +1,497 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "World War II Memorial",
+        "url": "/wwii/",
+        "image": "/common/uploads/banner_image/ncr/homepage/2E9AD57C-1DD8-B71B-0BE1DF4135B22076.jpg",
+        "blurb": "Through stone architecture and bronze sculptures, the World War II Memorial recognizes the ways Americans served, honors those who fell, and recognizes the victory they achieved to restore freedom and end tyranny around the globe."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04048871994019,
+          38.88939815864595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "56 Signers of the Declaration of Independence Memorial",
+        "url": "/nama/blogs/The-Signers-of-the-Declaration-of-Independence.htm",
+        "image": "/nama/blogs/images/56-Signers-Three_1.jpg",
+        "blurb": "Celebrating the courage of the men who signed the Declaration of Independence, risking their lives to send a message to the King of England. Access via footbridge on the north side of the pond."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04287588596344,
+          38.89111007039823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "Vietnam Veterans Memorial",
+        "url": "/vive/",
+        "image": "/common/uploads/banner_image/ncr/homepage/15858B95-1DD8-B71B-0BCB62539CEA6A72.JPG",
+        "blurb": "Honoring the men and women who served in the controversial Vietnam War, the Vietnam Veterans Memorial chronologically lists the names of more than 58,000 Americans who gave their lives in service to their country."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0477145910263,
+          38.89119984024187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "Lincoln Memorial",
+        "url": "/linc/",
+        "image": "/common/uploads/banner_image/ncr/homepage/548C962F-1DD8-B71B-0B6D0940C770ED69.jpg",
+        "blurb": "\"In this temple, as in the hearts of the people for whom he saved the Union, the memory of Abraham Lincoln is enshrined forever.\" Beneath these words, the 16th President of the United States sits immortalized in marble as an enduring symbol of unity, strength, and wisdom."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05017685890198,
+          38.889268719738205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "Washington Monument",
+        "url": "/wamo/",
+        "image": "/common/uploads/banner_image/ncr/homepage/73E3B7EA-1DD8-B71B-0BA546521BA0BCFC.jpg",
+        "blurb": "Built to honor George Washington, the United States' first president, the 555-foot marble obelisk towers over Washington, D.C. Tickets are required to visit the interior of the Washington Monument."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03525573015212,
+          38.88946705345228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "Korean War Veterans Memorial",
+        "url": "/kowa/",
+        "image": "/common/uploads/banner_image/ncr/homepage/54569E6A-1DD8-B71B-0B2E2C9D9B7D61B7.jpg",
+        "blurb": "Our nation honors her sons and daughters who answered the call to defend a country they never knew and a people they never met."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04739809036255,
+          38.887709171132286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "D.C. War Memorial",
+        "url": "/nama/planyourvisit/dc-war-memorial.htm",
+        "image": "/nama/planyourvisit/images/DCWarCover1.jpg",
+        "blurb": "The names of the men and women from the District of Columbia who gave their lives in the World War are here inscribed as a perpetual record of their patriotic service to their country. Those who fell and those who survived have given to this and to future generations an example of high idealism courageous sacrifice and gallant achievement."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04349279403685,
+          38.88757555359511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "Martin Luther King, Jr. Memorial",
+        "url": "/mlkm/",
+        "image": "/common/uploads/banner_image/ncr/homepage/62307FD2-1DD8-B71B-0BCF3A6B635873A6.jpg",
+        "blurb": "Located in downtown Washington, D.C., the memorial honors Martin Luther King, Jr.'s legacy and the struggle for freedom, equality, and justice."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04423308372498,
+          38.886193432450156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "Franklin Delano Roosevelt Memorial",
+        "url": "/frde/",
+        "image": "/common/uploads/banner_image/ncr/homepage/62A298EE-1DD8-B71B-0B935CFD2844B967.jpg",
+        "blurb": "\"The only thing we have to fear is fear itself....\" iconic words from an iconic president. Learn more about the man, his memorial and his lasting legacy to the nation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0437502861023,
+          38.88369635991259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "ff0000",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "Thomas Jefferson Memorial",
+        "url": "/thje/",
+        "image": "/common/uploads/banner_image/ncr/homepage/61BBBBCC-1DD8-B71B-0BE6AE5F4AAFE651.jpg",
+        "blurb": "Author of the Declaration of Independence, Statesman and Visionary for the founding of a Nation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03656196594238,
+          38.881378764232586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "George Mason Memorial",
+        "url": "/nama/planyourvisit/George-Mason-Memorial.htm",
+        "image": "/nama/planyourvisit/images/Masonstatue2.jpg",
+        "blurb": "George Mason was the author of the Virginia Declaration, the inspiration for the Declaration of Independence. He served on the Constitutional Convention in Philadelphia in 1787, withholding his signature from the United States Constitution because it did not abolish the slave trade and lacked necessary protection for the individual from the Federal Government."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03916370868681,
+          38.87957056952142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "name": "Floral Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03708767890929,
+          38.88670285787428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "National Mall",
+        "url": "/nama/",
+        "image": "/common/uploads/banner_image/ncr/homepage/77E1E499-1DD8-B71B-0B54206558DB8EDE.jpg",
+        "blurb": "Each year, millions of people visit the National Mall and Memorial Parks to recreate, to commemorate presidential legacies, to honor our nation's veterans, to make their voices heard, and to celebrate our nation's commitment to freedom and equality."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01978206634521,
+          38.88952968503641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "The Arts of War",
+        "blurb": "Leo Friedlander's sculpture stands at the end of Arlington Memorial bridge. In \"Valor\" on the left, the male equestrian is accompanied by a female striding forward with a shield; in \"Sacrifice\" a standing female symbolizing the earth looks up to the rider Mars."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0525050163269,
+          38.888444063094425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "The Arts of Peace",
+        "blurb": "James Earle Fraser's sculpture flanks the end of the parkway. \"Music and Harvest\" consists of a winged horse, Pegasus, between a male figure with a bundle of wheat and a sickle and a woman with a harp. In \"Aspiration and Literature,\" another Pegasus is flanked by figures holding a book and a bow."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05249428749084,
+          38.89001820949733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "pitch",
+        "name": "West Potomac Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04718351364136,
+          38.885871907966056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "golf",
+        "name": "East Potomac Park Golf Course"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02635884284973,
+          38.874446405244925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Survey Lodge Ranger Station",
+        "blurb": "Visitor Information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03740954399107,
+          38.888101671194335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "baseball",
+        "name": "Softball Diamonds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04302072525024,
+          38.882155480396165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "pitch",
+        "name": "Sand Volleyball Courts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05388903617859,
+          38.89123324294544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "National Mall and Memorial Parks Headquarters",
+        "blurb": "and Permit Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03249573707579,
+          38.88148316206034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "playground",
+        "name": "Playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02315092086792,
+          38.86045016716494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "monument",
+        "name": "Jefferson Pier Marker",
+        "blurb": "Once the location of a pier into the Potomac River, this location offers an expansive view to the North, South, East, and West."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03666388988493,
+          38.889748895145964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "monument",
+        "name": "Japanese Stone Lantern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04142481088638,
+          38.88663813599427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "monument",
+        "name": "Japanese Pagoda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04133361577988,
+          38.88284031986236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "monument",
+        "name": "Cuban American Urn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03730493783951,
+          38.87790640509154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "monument",
+        "name": "First Air Mail Flight"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04474806785583,
+          38.882347570180805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "John Ericsson Memorial",
+        "url": "/nama/planyourvisit/john-ericsson-memorial.htm",
+        "image": "/nama/planyourvisit/images/JOER-crop.jpg",
+        "blurb": "The Swedish-born engineer-inventor is best known for his work during the Civil War when he transformed naval warfare through his design of the iron-plated USS Monitor. The movements of Ericsson’s pencil across his drafting board were as crucial to victory as the movements of Lincoln’s armies across battlefields."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05019026994705,
+          38.88668615545928
+        ]
+      }
+    }
+  ]
+}
