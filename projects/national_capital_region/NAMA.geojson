@@ -194,7 +194,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "monument",
         "name": "George Mason Memorial",
