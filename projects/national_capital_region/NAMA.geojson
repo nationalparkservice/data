@@ -722,6 +722,25 @@
           38.898710877793356
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "Ford's Theatre National Historic Site",
+        "url": "/foth/",
+        "image": "/common/uploads/banner_image/ncr/homepage/2C93AE3B-1DD8-B71B-0BA2413299A2B612.jpg",
+        "blurb": "Explore Ford's Theatre NHS, discover Abraham Lincoln's life in Washington, D.C., the struggle for a united country, and the motivation behind Lincoln's assassination. The National Park Service and the Ford's Theatre Society present a variety of programs year round. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02576607465744,
+          38.89667767366778
+        ]
+      }
     }
   ]
 }
