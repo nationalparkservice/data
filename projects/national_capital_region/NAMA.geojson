@@ -23,7 +23,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "monument",
         "name": "56 Signers of the Declaration of Independence Memorial",
@@ -118,7 +118,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "monument",
         "name": "D.C. War Memorial",
@@ -248,7 +248,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "monument",
         "name": "The Arts of War",
@@ -265,7 +265,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "monument",
         "name": "The Arts of Peace",
@@ -314,7 +314,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "building",
         "name": "Survey Lodge Ranger Station",
@@ -396,7 +396,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "monument",
         "name": "Jefferson Pier Marker",
@@ -413,7 +413,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "monument",
         "name": "Japanese Stone Lantern"
@@ -429,7 +429,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "monument",
         "name": "Japanese Pagoda"
@@ -461,7 +461,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "monument",
         "name": "First Air Mail Flight"
@@ -477,7 +477,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "monument",
         "name": "John Ericsson Memorial",
@@ -627,7 +627,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "star",
         "name": "Old Post Office Tower",
@@ -739,6 +739,25 @@
         "coordinates": [
           -77.02576607465744,
           38.89667767366778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Japanese American Memorial to Patriotism in World War II",
+        "url": "/places/japanese-american-memorial-to-patriotism-during-world-war-ii.htm",
+        "blurb": "The Japanese American Memorial to Patriotism During World War II reflects on the legacy of Japense internment camps in the United States during World War II. Many Japanese Americans were treated with suspicion and as potential spies, and were sent to internment camps, in many cases for several years, to sit out the war because of their race, not because of any actual espionage.  As a result, many were displaced and were never able to return home when the war ended.",
+        "iamge": "/common/uploads/place/nri/20151020/20151020/4AF5B07B-FB1F-5B1E-5EF2B11722EFEAEF/4AF5B07B-FB1F-5B1E-5EF2B11722EFEAEF.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01242744922638,
+          38.89234596153011
         ]
       }
     }
