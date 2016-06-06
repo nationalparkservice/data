@@ -404,8 +404,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "entrance",
-        "name": "Access Point - A Capitol Fourth Concert",
-        "details": ""
+        "name": "Access Point - A Capitol Fourth Concert"
       },
       "geometry": {
         "type": "Point",
@@ -491,6 +490,22 @@
         "coordinates": [
           -77.072514295578,
           38.88082754115918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "hospital",
+        "name": "First Aid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01983571052551,
+          38.889571439395134
         ]
       }
     }
