@@ -306,6 +306,91 @@
           38.934355549897184
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Washington",
+        "url": "fowa/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0342767238617,
+          38.71141671819712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Cronkhite",
+        "url": "goga/learn/historyculture/fort-cronkhite.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.53294229507445,
+          37.832471576407386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Larned",
+        "url": "fols/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.21811938285826,
+          38.18309786655932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bent's Old Fort",
+        "url": "beol/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4296703338623,
+          38.040368373766015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Rosecrans",
+        "url": "cabr/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.24563241004944,
+          32.68418409035974
+        ]
+      }
     }
   ]
 }
