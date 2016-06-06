@@ -161,8 +161,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.03645467758179,
-          38.89186789132842
+          -77.03945875167847,
+          38.891905469015384
         ]
       }
     },
@@ -311,8 +311,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.03426599502563,
-          38.89091591662744
+          -77.03256011009216,
+          38.888502520083186
         ]
       }
     },
@@ -329,22 +329,6 @@
         "coordinates": [
           -77.02782869338989,
           38.88896182332086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff0000",
-        "marker-size": "medium",
-        "marker-symbol": "hospital",
-        "name": "First Aid"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.01630592346191,
-          38.89018105023768
         ]
       }
     },
