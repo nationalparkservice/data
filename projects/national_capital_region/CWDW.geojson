@@ -7,7 +7,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Fort Foote"
+        "name": "Fort Foote",
+        "url": "places/fort-foote.htm"
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +24,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Fort Greble"
+        "name": "Fort Greble",
+        "url": "places/fort-greble-and-battery-carroll.htm"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +41,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Battery Carroll"
+        "name": "Battery Carroll",
+        "url": "places/fort-greble-and-battery-carroll.htm"
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +58,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Fort Stanton"
+        "name": "Fort Stanton",
+        "url": "places/fort-stanton.htm"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +75,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Fort Ricketts"
+        "name": "Fort Ricketts",
+        "url": "places/fort-ricketts.htm"
       },
       "geometry": {
         "type": "Point",
@@ -87,7 +92,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Fort Dupont"
+        "name": "Fort Dupont",
+        "url": "places/fort-dupont.htm"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +109,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Fort Davis"
+        "name": "Fort Davis",
+        "url": "places/fort-davis.htm"
       },
       "geometry": {
         "type": "Point",
@@ -119,7 +126,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Fort Chaplin"
+        "name": "Fort Chaplin",
+        "url": "places/fort-chaplin.htm"
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +143,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Fort Mahan"
+        "name": "Fort Mahan",
+        "url": "places/fort-mahan.htm"
       },
       "geometry": {
         "type": "Point",
@@ -151,7 +160,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Fort Bunker Hill"
+        "name": "Fort Bunker Hill",
+        "url": "places/fort-bunker-hill.htm"
       },
       "geometry": {
         "type": "Point",
@@ -167,7 +177,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Fort Totten"
+        "name": "Fort Totten",
+        "url": "places/fort-totten.htm"
       },
       "geometry": {
         "type": "Point",
@@ -183,7 +194,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Fort Slocum"
+        "name": "Fort Slocum",
+        "url": "places/fort-slocum.htm"
       },
       "geometry": {
         "type": "Point",
@@ -199,7 +211,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Fort Stevens"
+        "name": "Fort Stevens",
+        "url": "places/fort-stevens.htm"
       },
       "geometry": {
         "type": "Point",
@@ -214,8 +227,9 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Battleground National Cemetery"
+        "marker-symbol": "cemetery",
+        "name": "Battleground National Cemetery",
+        "url": "places/battleground-national-cemetery.htm"
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +245,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Fort DeRussy"
+        "name": "Fort DeRussy",
+        "url": "places/fort-derussy.htm"
       },
       "geometry": {
         "type": "Point",
@@ -247,7 +262,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Fort Reno"
+        "name": "Fort Reno",
+        "url": "places/fort-reno.htm"
       },
       "geometry": {
         "type": "Point",
@@ -263,7 +279,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Fort Bayard"
+        "name": "Fort Bayard",
+        "url": "places/fort-bayard.htm"
       },
       "geometry": {
         "type": "Point",
@@ -279,7 +296,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Battery Kemble"
+        "name": "Battery Kemble",
+        "url": "places/battery-kemble.htm"
       },
       "geometry": {
         "type": "Point",
@@ -295,7 +313,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Fort Marcy"
+        "name": "Fort Marcy",
+        "url": "places/fort-marcy.htm"
       },
       "geometry": {
         "type": "Point",
