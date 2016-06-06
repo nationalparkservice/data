@@ -161,8 +161,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.03368663787842,
-          38.89200150079174
+          -77.03645467758179,
+          38.89186789132842
         ]
       }
     },
@@ -264,23 +264,6 @@
         "type": "Point",
         "coordinates": [
           -77.04808473587036,
-          38.89190129371782
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "entrance",
-        "details": "Enter between 10:00 a.m. and 9:00 p.m.",
-        "name": "Access Point"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.03922271728514,
           38.89190129371782
         ]
       }
