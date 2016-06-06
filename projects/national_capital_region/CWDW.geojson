@@ -1,0 +1,309 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Foote"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.029287815094,
+          38.7704217152944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Greble"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0146644115448,
+          38.827171417223546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Battery Carroll"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00768530368805,
+          38.83614337970781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Stanton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97881937026978,
+          38.858816884368316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Ricketts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97558999061583,
+          38.85781433926346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Dupont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95155739784241,
+          38.877545169772574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Davis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95151448249817,
+          38.86654436183219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Chaplin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94332838058472,
+          38.88824363876782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Mahan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9448733329773,
+          38.895274854133035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Bunker Hill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98762774467468,
+          38.93541126067273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Totten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00449347496033,
+          38.948529137984934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Slocum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01456785202025,
+          38.960042831237054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Stevens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03111171722412,
+          38.9706537960916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Battleground National Cemetery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02668070793152,
+          38.970687161398736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort DeRussy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05082058906555,
+          38.96325465106006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Reno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07837224006653,
+          38.95126589540561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Bayard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0915687084198,
+          38.95537083340688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Battery Kemble"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09570467472075,
+          38.929978146647116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Marcy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1253913640976,
+          38.934355549897184
+        ]
+      }
+    }
+  ]
+}
