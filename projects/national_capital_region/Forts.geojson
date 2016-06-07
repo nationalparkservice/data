@@ -1252,6 +1252,183 @@
           39.26326082655933
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Miamis",
+        "url": "/fati/learn/historyculture/fort-miamis.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.62722158432007,
+          41.57264367853885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Rosalie",
+        "url": "/natc/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.41226887702942,
+          31.55757472019457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Stedman",
+        "url": "/pete/learn/historyculture/fort-stedman.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36055135726929,
+          37.229320377178475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Harrison",
+        "url": "/rich/learn/historyculture/fort-harrison.htm",
+        "image": "/rich/learn/historyculture/images/fhtop.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.37290024757385,
+          37.42670942326448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Castillo San Felipe del Morro",
+        "url": "/saju/planyourvisit/index.htm",
+        "image": "/saju/planyourvisit/images/Canon.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.12415552139282,
+          18.47078656638109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Castillo San Cristóbal",
+        "url": "/saju/planyourvisit/index.htm",
+        "image": "/saju/planyourvisit/images/Jose-Gonzales.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.11058354377747,
+          18.467408053481563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort San Juan de la Cruz",
+        "url": "/saju/index.htm",
+        "image": "/getaways/saju/images/saju02.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.13649904727936,
+          18.466431121687812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Wood",
+        "url": "/places/fort-wood-fort-gibson.htm",
+        "image": "/common/uploads/places/images/nri/20140902/siteadmin/28B468DA-A430-E361-953360F18D9853C5/28B468DA-A430-E361-953360F18D9853C5.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04464364051817,
+          40.689274108644256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fortress Rosecrans",
+        "url": "/stri/learn/historyculture/foro.htm",
+        "image": "/stri/learn/historyculture/images/foropostcard.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.43287658691406,
+          35.874515711544404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Caroline",
+        "url": "/timu/learn/historyculture/foca.htm",
+        "image": "/common/uploads/grid_builder/akr/crop16_9/50356A46-1DD8-B71B-0BEF71B86D6128B7.jpg?width=465&quality=90&mode=crop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.49765491485594,
+          30.386152501714506
+        ]
+      }
     }
   ]
 }
