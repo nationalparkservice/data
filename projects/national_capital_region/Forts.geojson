@@ -8,7 +8,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Foote",
-        "url": "places/fort-foote.htm"
+        "url": "/places/fort-foote.htm"
       },
       "geometry": {
         "type": "Point",
@@ -25,7 +25,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Greble",
-        "url": "places/fort-greble-and-battery-carroll.htm"
+        "url": "/places/fort-greble-and-battery-carroll.htm"
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +42,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Battery Carroll",
-        "url": "places/fort-greble-and-battery-carroll.htm"
+        "url": "/places/fort-greble-and-battery-carroll.htm"
       },
       "geometry": {
         "type": "Point",
@@ -59,7 +59,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Stanton",
-        "url": "places/fort-stanton.htm"
+        "url": "/places/fort-stanton.htm"
       },
       "geometry": {
         "type": "Point",
@@ -76,7 +76,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Ricketts",
-        "url": "places/fort-ricketts.htm"
+        "url": "/places/fort-ricketts.htm"
       },
       "geometry": {
         "type": "Point",
@@ -93,7 +93,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Dupont",
-        "url": "places/fort-dupont.htm"
+        "url": "/places/fort-dupont.htm"
       },
       "geometry": {
         "type": "Point",
@@ -110,7 +110,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Davis",
-        "url": "places/fort-davis.htm"
+        "url": "/places/fort-davis.htm"
       },
       "geometry": {
         "type": "Point",
@@ -127,7 +127,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Chaplin",
-        "url": "places/fort-chaplin.htm"
+        "url": "/places/fort-chaplin.htm"
       },
       "geometry": {
         "type": "Point",
@@ -144,7 +144,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Mahan",
-        "url": "places/fort-mahan.htm"
+        "url": "/places/fort-mahan.htm"
       },
       "geometry": {
         "type": "Point",
@@ -161,7 +161,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Bunker Hill",
-        "url": "places/fort-bunker-hill.htm"
+        "url": "/places/fort-bunker-hill.htm"
       },
       "geometry": {
         "type": "Point",
@@ -178,7 +178,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Totten",
-        "url": "places/fort-totten.htm"
+        "url": "/places/fort-totten.htm"
       },
       "geometry": {
         "type": "Point",
@@ -195,7 +195,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Slocum",
-        "url": "places/fort-slocum.htm"
+        "url": "/places/fort-slocum.htm"
       },
       "geometry": {
         "type": "Point",
@@ -212,7 +212,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Stevens",
-        "url": "places/fort-stevens.htm"
+        "url": "/places/fort-stevens.htm"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +229,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort DeRussy",
-        "url": "places/fort-derussy.htm"
+        "url": "/places/fort-derussy.htm"
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +246,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Reno",
-        "url": "places/fort-reno.htm"
+        "url": "/places/fort-reno.htm"
       },
       "geometry": {
         "type": "Point",
@@ -263,7 +263,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Bayard",
-        "url": "places/fort-bayard.htm"
+        "url": "/places/fort-bayard.htm"
       },
       "geometry": {
         "type": "Point",
@@ -280,7 +280,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Battery Kemble",
-        "url": "places/battery-kemble.htm"
+        "url": "/places/battery-kemble.htm"
       },
       "geometry": {
         "type": "Point",
@@ -297,7 +297,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Marcy",
-        "url": "places/fort-marcy.htm"
+        "url": "/places/fort-marcy.htm"
       },
       "geometry": {
         "type": "Point",
@@ -314,7 +314,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Washington",
-        "url": "fowa/index.htm"
+        "url": "/fowa/index.htm",
+        "image": "/common/uploads/banner_image/ncr/homepage/5162A9E7-1DD8-B71B-0BAA3221115AE13C.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -331,7 +332,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Cronkhite",
-        "url": "goga/learn/historyculture/fort-cronkhite.htm"
+        "url": "/goga/learn/historyculture/fort-cronkhite.htm",
+        "image": "/goga/learn/historyculture/images/Banner-1941-640x.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -348,7 +350,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Larned",
-        "url": "fols/index.htm"
+        "url": "/fols/index.htm",
+        "image": "/common/uploads/banner_image/mwr/homepage/22F936D8-1DD8-B71B-0B84E5A86B27C7F7.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -365,7 +368,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Bent's Old Fort",
-        "url": "beol/index.htm"
+        "url": "/beol/index.htm",
+        "image": "/common/uploads/banner_image/imr/homepage/B19EA201-1DD8-B71B-0BE9AF82100544F7.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -382,13 +386,121 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Rosecrans",
-        "url": "cabr/index.htm"
+        "url": "/cabr/index.htm",
+        "image": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -117.24563241004944,
           32.68418409035974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Matanzas",
+        "url": "/foma/index.htm",
+        "image": "/common/uploads/banner_image/akr/homepage/5EB9291E-1DD8-B71B-0BF0CEF2775CADD6.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23763084411621,
+          29.710792228822474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Castillo de San Marcos",
+        "url": "/casa/index.htm",
+        "image": "/common/uploads/banner_image/akr/homepage/60642280-1DD8-B71B-0BD660996D5E113B.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3114881515503,
+          29.897777707158177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Castle Clinton",
+        "url": "/cacl/index.htm",
+        "image": "/common/uploads/banner_image/ner/homepage/79F47850-1DD8-B71B-0B51271D4334F4DE.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0168023109436,
+          40.703440068309256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Christiansvaern",
+        "url": "/chri/index.htm",
+        "image": "/common/uploads/banner_image/akr/homepage/A1062E77-1DD8-B71B-0B37A154F4D0AB92.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.70173180103302,
+          17.74701341801951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "James Fort",
+        "url": "/jame/learn/historyculture/a-short-history-of-jamestown.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.77884995937347,
+          37.20850793127122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Yorktown Redoubts",
+        "url": "/york/index.htm",
+        "image": "/common/uploads/banner_image/ner/homepage/D0088867-1DD8-B71B-0B263597F8227DA1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.49999141693115,
+          37.229439972340266
         ]
       }
     }
