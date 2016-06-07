@@ -503,6 +503,107 @@
           37.229439972340266
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.85547733306883,
+          36.49290500197154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Jefferson",
+        "url": "/drto/learn/historyculture/fort-jefferson.htm",
+        "image": "/common/uploads/banner_image/akr/homepage/B8CF5C7E-1DD8-B71B-0B62F152705DCACA.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.87316143512726,
+          24.62859545334864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Bowie",
+        "url": "/fobo/index.htm",
+        "image": "/common/uploads/banner_image/imr/homepage/D0A78A72-1DD8-B71B-0B90875B5BA1C6B1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.43606436252594,
+          32.144458978372874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Davis",
+        "url": "/foda/index.htm",
+        "image": "/common/uploads/banner_image/imr/homepage/58FA80FD-1DD8-B71B-0BEA34A1203E1198.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.891943693161,
+          30.598071441939663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Frederica",
+        "url": "/fofr/index.htm",
+        "image": "/common/uploads/banner_image/akr/homepage/19ABF855-1DD8-B71B-0B11ABCEF5129842.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.38987302780151,
+          31.222839273555866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Laramie",
+        "url": "/fola/index.htm",
+        "image": "/common/uploads/banner_image/imr/homepage/38136EC7-1DD8-B71B-0BB8B66FAA1D0793.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.55636978149413,
+          42.20385317468063
+        ]
+      }
     }
   ]
 }
