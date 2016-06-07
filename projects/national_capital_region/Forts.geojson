@@ -506,7 +506,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Donelson",
+        "url": "/fodo/index.htm"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -602,6 +608,327 @@
         "coordinates": [
           -104.55636978149413,
           42.20385317468063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Monroe",
+        "url": "/fomr/index.htm",
+        "image": "/common/uploads/banner_image/ner/homepage/F590FACC-1DD8-B71B-0B3E26E2512CBE2A.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.30728006362915,
+          37.00388929052822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Necessity",
+        "url": "/fone/index.htm",
+        "image": "/common/uploads/banner_image/ner/homepage/EC830E3B-1DD8-B71B-0BE2177B00125902.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5969772338867,
+          39.808700876542844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Point",
+        "url": "/fopo/index.htm",
+        "image": "/common/uploads/banner_image/pwr/homepage/BCE6B0BF-1DD8-B71B-0B4C79AB41B8BFFB.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47678756713866,
+          37.81072905670616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Pulaski",
+        "url": "/fopu/index.htm",
+        "image": "/common/uploads/banner_image/akr/homepage/A63FFB8A-1DD8-B71B-0B16AE412AECA4ED.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8902096748352,
+          32.027024649911525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Raleigh",
+        "url": "/fora/index.htm",
+        "image": "/common/uploads/banner_image/akr/homepage/4A93307E-1DD8-B71B-0BBF21B92DD9ED13.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.70916354656218,
+          35.93776681325501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Scott",
+        "url": "/fosc/index.htm",
+        "image": "/common/uploads/banner_image/mwr/homepage/31734C48-1DD8-B71B-0B97ECA35C4486FA.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.70473945140839,
+          37.84362214322731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Smith",
+        "url": "/fosm/index.htm",
+        "image": "/common/uploads/banner_image/mwr/homepage/9A51734D-1DD8-B71B-0B0FAE08B031784F.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.43075716495514,
+          35.387729225522435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Stanwix",
+        "url": "/fost/index.htm",
+        "image": "/common/uploads/banner_image/ner/homepage/F00C555E-1DD8-B71B-0BAD63E4AE9B6BF3.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45531392097473,
+          43.21054814146093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Sumter",
+        "url": "/fosu/index.htm",
+        "image": "/common/uploads/banner_image/akr/homepage/CD8888DA-1DD8-B71B-0B23D1D4E699B78F.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.87460732460022,
+          32.75234832393356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Moultrie",
+        "url": "/fosu/planyourvisit/fomohqdirections.htm",
+        "image": "/common/uploads/photogallery/akr/park/fosu/821EF2F4-1DD8-B71C-07CFD7D02BB79125/821EF2F4-1DD8-B71C-07CFD7D02BB79125-large.JPG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.85776573419571,
+          32.75930263124536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Union",
+        "url": "/foun/index.htm",
+        "image": "/common/uploads/banner_image/imr/homepage/24EEEE8D-1DD8-B71B-0BC30C6180F7F394.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.01356840133667,
+          35.90768354735064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Union Trading Post",
+        "url": "/fous/index.htm",
+        "image": "/common/uploads/banner_image/mwr/homepage/FBDB85DA-1DD8-B71B-0B085466C35F0B92.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.0409779548645,
+          47.99923379935368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Vancouver",
+        "url": "/fova/index.htm",
+        "image": "/common/uploads/banner_image/pwr/homepage/CB3CF57E-1DD8-B71B-0B69381E816B74B0.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66225695610045,
+          45.62253958622305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Tilden",
+        "url": "/gate/learn/historyculture/fort-tilden.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89535188674927,
+          40.56167755915687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Hancock",
+        "url": "/gate/learn/historyculture/hancock.htm",
+        "image": "/gate/learn/historyculture/images/415-hancockparade.gif"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00268316268921,
+          40.464074457742406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Totten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.77596139907837,
+          40.79206034463158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Wadsworth",
+        "url": "/gate/learn/historyculture/fort-wadsworth.htm",
+        "image": "https://www.nps.gov/common/uploads/photogallery/ner/park/gate/EF651301-155D-451F-672E22F1FF6B4B3E/EF651301-155D-451F-672E22F1FF6B4B3E-large.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05830144882202,
+          40.60266335354429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Battery Weed",
+        "url": "/gate/learn/historyculture/fort-wadsworth.htm",
+        "image": "/common/uploads/photogallery/ner/park/gate/EF534A65-155D-451F-673E00B4FEDF65F4/EF534A65-155D-451F-673E00B4FEDF65F4-large.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05409574508667,
+          40.60540027717473
         ]
       }
     }
