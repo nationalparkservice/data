@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Foote",
         "url": "/places/fort-foote.htm"
       },
@@ -21,9 +21,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Greble",
         "url": "/places/fort-greble-and-battery-carroll.htm"
       },
@@ -38,9 +38,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Battery Carroll",
         "url": "/places/fort-greble-and-battery-carroll.htm"
       },
@@ -55,9 +55,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Stanton",
         "url": "/places/fort-stanton.htm"
       },
@@ -72,9 +72,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Ricketts",
         "url": "/places/fort-ricketts.htm"
       },
@@ -89,9 +89,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Dupont",
         "url": "/places/fort-dupont.htm"
       },
@@ -106,9 +106,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Davis",
         "url": "/places/fort-davis.htm"
       },
@@ -123,9 +123,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Chaplin",
         "url": "/places/fort-chaplin.htm"
       },
@@ -140,9 +140,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Mahan",
         "url": "/places/fort-mahan.htm"
       },
@@ -157,9 +157,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Bunker Hill",
         "url": "/places/fort-bunker-hill.htm"
       },
@@ -174,9 +174,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Totten",
         "url": "/places/fort-totten.htm"
       },
@@ -191,9 +191,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Slocum",
         "url": "/places/fort-slocum.htm"
       },
@@ -208,9 +208,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Stevens",
         "url": "/places/fort-stevens.htm"
       },
@@ -225,9 +225,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort DeRussy",
         "url": "/places/fort-derussy.htm"
       },
@@ -242,9 +242,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Reno",
         "url": "/places/fort-reno.htm"
       },
@@ -259,9 +259,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Bayard",
         "url": "/places/fort-bayard.htm"
       },
@@ -276,9 +276,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Battery Kemble",
         "url": "/places/battery-kemble.htm"
       },
@@ -293,9 +293,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Marcy",
         "url": "/places/fort-marcy.htm"
       },
@@ -310,9 +310,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Washington",
         "url": "/fowa/index.htm",
         "image": "/common/uploads/banner_image/ncr/homepage/5162A9E7-1DD8-B71B-0BAA3221115AE13C.jpg"
@@ -328,9 +328,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Cronkhite",
         "url": "/goga/learn/historyculture/fort-cronkhite.htm",
         "image": "/goga/learn/historyculture/images/Banner-1941-640x.jpg"
@@ -346,9 +346,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Larned",
         "url": "/fols/index.htm",
         "image": "/common/uploads/photogallery/mwr/park/fols/60F8039F-155D-4519-3EFC5C46D71E7C51/60F8039F-155D-4519-3EFC5C46D71E7C51-large.JPG"
@@ -364,9 +364,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Bent's Old Fort",
         "url": "/beol/index.htm",
         "image": "/common/uploads/banner_image/imr/homepage/B19EA201-1DD8-B71B-0BE9AF82100544F7.jpg"
@@ -382,9 +382,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Rosecrans",
         "url": "/cabr/index.htm",
         "image": ""
@@ -400,9 +400,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Matanzas",
         "url": "/foma/index.htm",
         "image": "/common/uploads/banner_image/akr/homepage/5EB9291E-1DD8-B71B-0BF0CEF2775CADD6.jpg"
@@ -418,9 +418,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Castillo de San Marcos",
         "url": "/casa/index.htm",
         "image": "/common/uploads/banner_image/akr/homepage/60642280-1DD8-B71B-0BD660996D5E113B.jpg"
@@ -436,9 +436,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Castle Clinton",
         "url": "/cacl/index.htm",
         "image": "/common/uploads/banner_image/ner/homepage/79F47850-1DD8-B71B-0B51271D4334F4DE.jpg"
@@ -454,9 +454,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Christiansvaern",
         "url": "/chri/index.htm",
         "image": "/common/uploads/banner_image/akr/homepage/A1062E77-1DD8-B71B-0B37A154F4D0AB92.jpg"
@@ -472,9 +472,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "James Fort",
         "url": "/jame/learn/historyculture/a-short-history-of-jamestown.htm"
       },
@@ -489,9 +489,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Yorktown Redoubts",
         "url": "/york/index.htm",
         "image": "/common/uploads/banner_image/ner/homepage/D0088867-1DD8-B71B-0B263597F8227DA1.jpg"
@@ -507,9 +507,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Donelson",
         "url": "/fodo/index.htm"
       },
@@ -524,9 +524,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Jefferson",
         "url": "/drto/learn/historyculture/fort-jefferson.htm",
         "image": "/common/uploads/banner_image/akr/homepage/B8CF5C7E-1DD8-B71B-0B62F152705DCACA.jpg"
@@ -542,9 +542,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Bowie",
         "url": "/fobo/index.htm",
         "image": "/common/uploads/banner_image/imr/homepage/D0A78A72-1DD8-B71B-0B90875B5BA1C6B1.jpg"
@@ -560,9 +560,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Davis",
         "url": "/foda/index.htm",
         "image": "/common/uploads/banner_image/imr/homepage/58FA80FD-1DD8-B71B-0BEA34A1203E1198.JPG"
@@ -578,9 +578,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Frederica",
         "url": "/fofr/index.htm",
         "image": "/common/uploads/banner_image/akr/homepage/19ABF855-1DD8-B71B-0B11ABCEF5129842.jpg"
@@ -596,9 +596,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Laramie",
         "url": "/fola/index.htm",
         "image": "/common/uploads/banner_image/imr/homepage/38136EC7-1DD8-B71B-0BB8B66FAA1D0793.jpg"
@@ -614,9 +614,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Monroe",
         "url": "/fomr/index.htm",
         "image": "/common/uploads/banner_image/ner/homepage/F590FACC-1DD8-B71B-0B3E26E2512CBE2A.jpg"
@@ -632,9 +632,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Necessity",
         "url": "/fone/index.htm",
         "image": "/common/uploads/banner_image/ner/homepage/EC830E3B-1DD8-B71B-0BE2177B00125902.JPG"
@@ -650,9 +650,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Point",
         "url": "/fopo/index.htm",
         "image": "/common/uploads/banner_image/pwr/homepage/BCE6B0BF-1DD8-B71B-0B4C79AB41B8BFFB.jpg"
@@ -668,9 +668,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Pulaski",
         "url": "/fopu/index.htm",
         "image": "/common/uploads/banner_image/akr/homepage/A63FFB8A-1DD8-B71B-0B16AE412AECA4ED.jpg"
@@ -686,9 +686,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Raleigh",
         "url": "/fora/index.htm",
         "image": "/common/uploads/banner_image/akr/homepage/4A93307E-1DD8-B71B-0BBF21B92DD9ED13.jpg"
@@ -704,9 +704,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Scott",
         "url": "/fosc/index.htm",
         "image": "/common/uploads/banner_image/mwr/homepage/31734C48-1DD8-B71B-0B97ECA35C4486FA.jpg"
@@ -722,9 +722,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Smith",
         "url": "/fosm/index.htm",
         "image": "/common/uploads/banner_image/mwr/homepage/9A51734D-1DD8-B71B-0B0FAE08B031784F.jpg"
@@ -740,9 +740,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Stanwix",
         "url": "/fost/index.htm",
         "image": "/common/uploads/banner_image/ner/homepage/F00C555E-1DD8-B71B-0BAD63E4AE9B6BF3.jpg"
@@ -758,9 +758,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Sumter",
         "url": "/fosu/index.htm",
         "image": "/common/uploads/banner_image/akr/homepage/CD8888DA-1DD8-B71B-0B23D1D4E699B78F.jpg"
@@ -776,9 +776,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Moultrie",
         "url": "/fosu/planyourvisit/fomohqdirections.htm",
         "image": "/common/uploads/photogallery/akr/park/fosu/821EF2F4-1DD8-B71C-07CFD7D02BB79125/821EF2F4-1DD8-B71C-07CFD7D02BB79125-large.JPG"
@@ -794,9 +794,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Union",
         "url": "/foun/index.htm",
         "image": "/common/uploads/banner_image/imr/homepage/24EEEE8D-1DD8-B71B-0BC30C6180F7F394.jpg"
@@ -812,9 +812,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Union Trading Post",
         "url": "/fous/index.htm",
         "image": "/common/uploads/banner_image/mwr/homepage/FBDB85DA-1DD8-B71B-0B085466C35F0B92.jpg"
@@ -830,9 +830,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Vancouver",
         "url": "/fova/index.htm",
         "image": "/common/uploads/banner_image/pwr/homepage/CB3CF57E-1DD8-B71B-0B69381E816B74B0.jpg"
@@ -848,9 +848,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Tilden",
         "url": "/gate/learn/historyculture/fort-tilden.htm"
       },
@@ -865,9 +865,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Hancock",
         "url": "/gate/learn/historyculture/hancock.htm",
         "image": "/gate/learn/historyculture/images/415-hancockparade.gif"
@@ -883,9 +883,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Totten"
       },
       "geometry": {
@@ -899,9 +899,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Wadsworth",
         "url": "/gate/learn/historyculture/fort-wadsworth.htm",
         "image": "https://www.nps.gov/common/uploads/photogallery/ner/park/gate/EF651301-155D-451F-672E22F1FF6B4B3E/EF651301-155D-451F-672E22F1FF6B4B3E-large.jpg"
@@ -917,9 +917,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Battery Weed",
         "url": "/gate/learn/historyculture/fort-wadsworth.htm",
         "image": "/common/uploads/photogallery/ner/park/gate/EF534A65-155D-451F-673E00B4FEDF65F4/EF534A65-155D-451F-673E00B4FEDF65F4-large.jpg"
@@ -935,9 +935,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Hunt",
         "url": "/gwmp/planyourvisit/forthunt.htm",
         "image": "/gwmp/planyourvisit/images/Fort-Hunt.jpg"
@@ -953,9 +953,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Alcatraz",
         "url": "/alca/index.htm",
         "image": "/alca/learn/historyculture/images/GOGA-35374-12.jpg"
@@ -971,9 +971,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Baker",
         "url": "/goga/planyourvisit/fort-baker.htm",
         "image": "/goga/planyourvisit/images/Ft-Baker-Michal-Venera-X960.jpg"
@@ -989,9 +989,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Barry",
         "url": "/goga/learn/historyculture/fort-barry.htm",
         "image": "/goga/learn/historyculture/images/GOGA-35256-0606-x-960.jpg"
@@ -1007,9 +1007,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Mason",
         "url": "/goga/learn/historyculture/fort-mason.htm",
         "image": "/goga/images/new-FOMA-landscape_1.jpg"
@@ -1025,9 +1025,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Presidio",
         "url": "/prsf/index.htm",
         "image": "/common/uploads/banner_image/pwr/homepage/3715F9E4-1DD8-B71B-0BF5B8A819C7C178.jpg"
@@ -1043,9 +1043,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Funston",
         "url": "/goga/planyourvisit/fortfunston.htm",
         "image": "/goga/planyourvisit/images/FOFU-web.jpg"
@@ -1061,9 +1061,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Miley",
         "url": "/goga/planyourvisit/fort-miley-accessibility.htm"
       },
@@ -1078,9 +1078,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Winfineld Scott",
         "url": "/prsf/learn/historyculture/fort-scott.htm"
       },
@@ -1095,9 +1095,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Jay",
         "url": "/gois/learn/historyculture/fortjay.htm",
         "image": "/gois/learn/historyculture/images/FJ-aerial.jpg"
@@ -1113,9 +1113,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Castle Williams",
         "url": "/gois/learn/historyculture/castle-williams.htm",
         "image": "/gois/learn/historyculture/images/castle-williams-aerial_1.jpg"
@@ -1131,9 +1131,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Pickens",
         "url": "/guis/planyourvisit/fort-pickens-area.htm",
         "image": "/guis/planyourvisit/images/GUIS-DTS-120513-388-cropped-for-web.gif"
@@ -1149,9 +1149,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Massachusetts",
         "url": "/guis/learn/historyculture/fort-massachusetts.htm",
         "image": "/guis/learn/historyculture/images/Inside-FOMA.jpg"
@@ -1167,9 +1167,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort McRee",
         "url": "/guis/learn/historyculture/fort-mcree.htm"
       },
@@ -1184,9 +1184,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Barrancas",
         "url": "guis/planyourvisit/fort-barrancas-area.htm",
         "image": "/guis/planyourvisit/images/Fort-Barrancs-with-drawbrid.jpg"
@@ -1202,9 +1202,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Advanced Redoubt",
         "url": "/guis/learn/historyculture/advanced-redoubt.htm",
         "image": "/guis/learn/historyculture/images/Interior-of-Advanced-Redoub.jpg"
@@ -1220,9 +1220,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Clatsop",
         "url": "/lewi/index.htm",
         "image": "/common/uploads/banner_image/pwr/homepage/0542A813-1DD8-B71B-0BE9A4D62EA8FFE3.jpg"
@@ -1238,9 +1238,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort McHenry",
         "url": "/fomc/index.htm",
         "image": "/common/uploads/banner_image/ner/homepage/205699CB-1DD8-B71B-0B49D08D1F81E3E8.jpg"
@@ -1256,9 +1256,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Miamis",
         "url": "/fati/learn/historyculture/fort-miamis.htm"
       },
@@ -1273,9 +1273,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Rosalie",
         "url": "/natc/index.htm"
       },
@@ -1290,9 +1290,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Stedman",
         "url": "/pete/learn/historyculture/fort-stedman.htm"
       },
@@ -1307,9 +1307,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Harrison",
         "url": "/rich/learn/historyculture/fort-harrison.htm",
         "image": "/rich/learn/historyculture/images/fhtop.jpg"
@@ -1325,9 +1325,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Castillo San Felipe del Morro",
         "url": "/saju/planyourvisit/index.htm",
         "image": "/saju/planyourvisit/images/Canon.JPG"
@@ -1343,9 +1343,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Castillo San Cristóbal",
         "url": "/saju/planyourvisit/index.htm",
         "image": "/saju/planyourvisit/images/Jose-Gonzales.jpg"
@@ -1361,9 +1361,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort San Juan de la Cruz",
         "url": "/saju/index.htm",
         "image": "/getaways/saju/images/saju02.jpg"
@@ -1379,9 +1379,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Wood",
         "url": "/places/fort-wood-fort-gibson.htm",
         "image": "/common/uploads/places/images/nri/20140902/siteadmin/28B468DA-A430-E361-953360F18D9853C5/28B468DA-A430-E361-953360F18D9853C5.jpg"
@@ -1397,9 +1397,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fortress Rosecrans",
         "url": "/stri/learn/historyculture/foro.htm",
         "image": "/stri/learn/historyculture/images/foropostcard.jpg"
@@ -1415,9 +1415,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "star",
         "name": "Fort Caroline",
         "url": "/timu/learn/historyculture/foca.htm",
         "image": "/common/uploads/grid_builder/akr/crop16_9/50356A46-1DD8-B71B-0BEF71B86D6128B7.jpg?width=465&quality=90&mode=crop"
