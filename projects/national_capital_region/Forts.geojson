@@ -351,7 +351,7 @@
         "marker-symbol": "",
         "name": "Fort Larned",
         "url": "/fols/index.htm",
-        "image": "/common/uploads/banner_image/mwr/homepage/22F936D8-1DD8-B71B-0B84E5A86B27C7F7.jpg"
+        "image": "/media/photo/gallery.htm?id=60F3A3D8-155D-4519-3EB98B2734B74B6C"
       },
       "geometry": {
         "type": "Point",
@@ -929,6 +929,327 @@
         "coordinates": [
           -74.05409574508667,
           40.60540027717473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Hunt",
+        "url": "/gwmp/planyourvisit/forthunt.htm",
+        "image": "/gwmp/planyourvisit/images/Fort-Hunt.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05192565917969,
+          38.71494951913638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Alcatraz",
+        "url": "/alca/index.htm",
+        "image": "/alca/learn/historyculture/images/GOGA-35374-12.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42302536964417,
+          37.82671769923867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Baker",
+        "url": "/goga/planyourvisit/fort-baker.htm",
+        "image": "/goga/planyourvisit/images/Ft-Baker-Michal-Venera-X960.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47893333435059,
+          37.836555794223614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Barry",
+        "url": "/goga/learn/historyculture/fort-barry.htm",
+        "image": "/goga/learn/historyculture/images/GOGA-35256-0606-x-960.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.52487421035767,
+          37.83065817900594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Mason",
+        "url": "/goga/learn/historyculture/fort-mason.htm",
+        "image": "/goga/images/new-FOMA-landscape_1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42842197418213,
+          37.806283149631255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Presidio",
+        "url": "/prsf/index.htm",
+        "image": "/common/uploads/banner_image/pwr/homepage/3715F9E4-1DD8-B71B-0BF5B8A819C7C178.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.46547937393188,
+          37.79793310603611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Funston",
+        "url": "/goga/planyourvisit/fortfunston.htm",
+        "image": "/goga/planyourvisit/images/FOFU-web.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.50345945358278,
+          37.71845453701034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Miley",
+        "url": "/goga/planyourvisit/fort-miley-accessibility.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.50874876976013,
+          37.78211205989562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Winfineld Scott",
+        "url": "/prsf/learn/historyculture/fort-scott.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4744701385498,
+          37.801883599648555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Jay",
+        "url": "/gois/learn/historyculture/fortjay.htm",
+        "image": "/gois/learn/historyculture/images/FJ-aerial.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01602983474731,
+          40.69132821714957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Castle Williams",
+        "url": "/gois/learn/historyculture/castle-williams.htm",
+        "image": "/gois/learn/historyculture/images/castle-williams-aerial_1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01935577392578,
+          40.692845369507445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Pickens",
+        "url": "/guis/planyourvisit/fort-pickens-area.htm",
+        "image": "/guis/planyourvisit/images/GUIS-DTS-120513-388-cropped-for-web.gif"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.27908134460449,
+          30.323711687341163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Massachusetts",
+        "url": "/guis/learn/historyculture/fort-massachusetts.htm",
+        "image": "/guis/learn/historyculture/images/Inside-FOMA.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.97209167480469,
+          30.21232213204513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort McRee",
+        "url": "/guis/learn/historyculture/fort-mcree.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.31727600097656,
+          30.3255453458762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Barrancas",
+        "url": "guis/planyourvisit/fort-barrancas-area.htm",
+        "image": "/guis/planyourvisit/images/Fort-Barrancs-with-drawbrid.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.29280352592468,
+          30.345713323960858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Advanced Redoubt",
+        "url": "/guis/learn/historyculture/advanced-redoubt.htm",
+        "image": "/guis/learn/historyculture/images/Interior-of-Advanced-Redoub.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.29729890823364,
+          30.35557356379863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort Clatsop",
+        "url": "/lewi/index.htm",
+        "image": "/common/uploads/banner_image/pwr/homepage/0542A813-1DD8-B71B-0BE9A4D62EA8FFE3.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.8868463039398,
+          46.132162618302225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fort McHenry",
+        "url": "/fomc/index.htm",
+        "image": "/common/uploads/banner_image/ner/homepage/205699CB-1DD8-B71B-0B49D08D1F81E3E8.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57996416091919,
+          39.26326082655933
         ]
       }
     }
