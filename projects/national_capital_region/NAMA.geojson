@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#800000",
         "marker-size": "large",
         "marker-symbol": "star",
         "name": "World War II Memorial",
@@ -24,7 +24,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "monument",
         "name": "56 Signers of the Declaration of Independence Memorial",
         "url": "/nama/blogs/The-Signers-of-the-Declaration-of-Independence.htm",
@@ -42,7 +42,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#800000",
         "marker-size": "large",
         "marker-symbol": "star",
         "name": "Vietnam Veterans Memorial",
@@ -61,7 +61,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#800000",
         "marker-size": "large",
         "marker-symbol": "star",
         "name": "Lincoln Memorial",
@@ -80,7 +80,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#800000",
         "marker-size": "large",
         "marker-symbol": "star",
         "name": "Washington Monument",
@@ -99,7 +99,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#800000",
         "marker-size": "large",
         "marker-symbol": "star",
         "name": "Korean War Veterans Memorial",
@@ -137,7 +137,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#800000",
         "marker-size": "large",
         "marker-symbol": "star",
         "name": "Martin Luther King, Jr. Memorial",
@@ -156,7 +156,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#800000",
         "marker-size": "large",
         "marker-symbol": "star",
         "name": "Franklin Delano Roosevelt Memorial",
@@ -175,7 +175,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "ff0000",
+        "marker-color": "#800000",
         "marker-size": "large",
         "marker-symbol": "star",
         "name": "Thomas Jefferson Memorial",
@@ -229,7 +229,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#800000",
         "marker-size": "large",
         "marker-symbol": "star",
         "name": "National Mall",
@@ -249,7 +249,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "monument",
         "name": "The Arts of War",
         "blurb": "Leo Friedlander's sculpture stands at the end of Arlington Memorial bridge. In \"Valor\" on the left, the male equestrian is accompanied by a female striding forward with a shield; in \"Sacrifice\" a standing female symbolizing the earth looks up to the rider Mars."
@@ -266,7 +266,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "monument",
         "name": "The Arts of Peace",
         "blurb": "James Earle Fraser's sculpture flanks the end of the parkway. \"Music and Harvest\" consists of a winged horse, Pegasus, between a male figure with a bundle of wheat and a sickle and a woman with a harp. In \"Aspiration and Literature,\" another Pegasus is flanked by figures holding a book and a bow."
@@ -314,7 +314,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#800000",
         "marker-size": "medium",
         "marker-symbol": "building",
         "name": "Survey Lodge Ranger Station",
@@ -478,7 +478,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "monument",
         "name": "John Ericsson Memorial",
         "url": "/nama/planyourvisit/john-ericsson-memorial.htm",
@@ -496,7 +496,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#800000",
         "marker-size": "large",
         "marker-symbol": "star",
         "name": "Belmont-Paul Women's Equality National Monument",
@@ -516,7 +516,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "monument",
         "name": "Washington Circle"
       },
@@ -532,7 +532,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "monument",
         "name": "Farragut Square"
       },
@@ -548,7 +548,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "monument",
         "name": "McPherson Square"
       },
@@ -564,7 +564,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "monument",
         "name": "John Barry Memorial"
       },
@@ -612,7 +612,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "monument",
         "name": "George C. Meade Memorial"
       },
@@ -627,7 +627,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#800000",
         "marker-size": "medium",
         "marker-symbol": "star",
         "name": "Old Post Office Tower",
@@ -647,7 +647,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "monument",
         "name": "Jose Artigas"
       },
@@ -663,7 +663,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "monument",
         "name": "Simon Bolivar"
       },
@@ -679,7 +679,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "monument",
         "name": "Jose Artigas"
       },
@@ -695,7 +695,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "monument",
         "name": "Bernardo de Galvez"
       },
@@ -711,7 +711,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "monument",
         "name": "Benito Juarez"
       },
@@ -726,7 +726,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#800000",
         "marker-size": "large",
         "marker-symbol": "star",
         "name": "Ford's Theatre National Historic Site",
@@ -774,6 +774,57 @@
         "coordinates": [
           -77.03621864318848,
           38.8918094371092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "African American Civil War Memorial",
+        "url": "/afam/index.htm",
+        "image": "/common/uploads/banner_image/ncr/homepage/16C67AF1-1DD8-B71B-0B14DC290E4F5AFB.JPG",
+        "blurb": "Over 200,000 African-American soldiers and sailors served in the U.S. Army and Navy during the Civil War. Their service helped to end the war and free over four million slaves. The African American Civil War Memorial honors their service and sacrifice. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02595114707947,
+          38.91663145026991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "monument",
+        "name": "Logan Memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02962040901184,
+          38.909623220905075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "monument",
+        "name": "Samuel F. Dupont Memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04343914985657,
+          38.909639917926036
         ]
       }
     }
