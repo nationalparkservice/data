@@ -8,7 +8,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Foote",
-        "url": "places/fort-foote.htm"
+        "url": "places/fort-foote.htm",
+        "location": "Fort Foote Road & Jessica Drive, Prince George's County, Maryland"
       },
       "geometry": {
         "type": "Point",
@@ -25,7 +26,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Greble",
-        "url": "places/fort-greble-and-battery-carroll.htm"
+        "url": "places/fort-greble-and-battery-carroll.htm",
+        "location": "First & Elmira Streets SW near Martin Luther King, Jr. Boulevard SW, Washington D.C."
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +44,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Battery Carroll",
-        "url": "places/fort-greble-and-battery-carroll.htm"
+        "url": "places/fort-greble-and-battery-carroll.htm",
+        "location": "South Capitol Street nd Martin Luther King, Jr. Boulevard SW, Washington D.C.&"
       },
       "geometry": {
         "type": "Point",
@@ -59,7 +62,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Stanton",
-        "url": "places/fort-stanton.htm"
+        "url": "places/fort-stanton.htm",
+        "location": "W Street SE, Good Hope Road SE and Fort Place SE, Washington D.C."
       },
       "geometry": {
         "type": "Point",
@@ -76,7 +80,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Ricketts",
-        "url": "places/fort-ricketts.htm"
+        "url": "places/fort-ricketts.htm",
+        "location": "W Street SE, Good Hope Road SE, and Fort Place SE, Washington D.C."
       },
       "geometry": {
         "type": "Point",
@@ -93,7 +98,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Dupont",
-        "url": "places/fort-dupont.htm"
+        "url": "places/fort-dupont.htm",
+        "location": "Bounded by Alabama, Massachusetts, Minnesota Avenues SE, Ridge Road SE, and Ely Place SE; historic fort entrance on Alabama Avenue SE, Washington D.C."
       },
       "geometry": {
         "type": "Point",
@@ -110,7 +116,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Davis",
-        "url": "places/fort-davis.htm"
+        "url": "places/fort-davis.htm",
+        "location": "Pennsylvania Ave. & Alabama Ave. SE, Washington D.C."
       },
       "geometry": {
         "type": "Point",
@@ -127,7 +134,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Chaplin",
-        "url": "places/fort-chaplin.htm"
+        "url": "places/fort-chaplin.htm",
+        "location": "East Capitol St. & Texas Ave. SE, Washington, D.C."
       },
       "geometry": {
         "type": "Point",
@@ -144,7 +152,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Mahan",
-        "url": "places/fort-mahan.htm"
+        "url": "places/fort-mahan.htm",
+        "location": "Benning Rd. & 42nd St. NE"
       },
       "geometry": {
         "type": "Point",
@@ -161,7 +170,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Bunker Hill",
-        "url": "places/fort-bunker-hill.htm"
+        "url": "places/fort-bunker-hill.htm",
+        "location": "13th St. & Otis St. NE"
       },
       "geometry": {
         "type": "Point",
@@ -178,7 +188,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Totten",
-        "url": "places/fort-totten.htm"
+        "url": "places/fort-totten.htm",
+        "location": "Fort Totten Drive & Gallatin St. NE, Washington, D.C. Adjacent to Fort Totten Metro station."
       },
       "geometry": {
         "type": "Point",
@@ -195,7 +206,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Slocum",
-        "url": "places/fort-slocum.htm"
+        "url": "places/fort-slocum.htm",
+        "location": "Kansas Ave. & Madison St. NW, Washington, D.C."
       },
       "geometry": {
         "type": "Point",
@@ -212,7 +224,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Stevens",
-        "url": "places/fort-stevens.htm"
+        "url": "places/fort-stevens.htm",
+        "location": "Piney Branch Rd. & Quackenbos Road NW, Washington, D.C."
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +242,8 @@
         "marker-size": "medium",
         "marker-symbol": "cemetery",
         "name": "Battleground National Cemetery",
-        "url": "places/battleground-national-cemetery.htm"
+        "url": "places/battleground-national-cemetery.htm",
+        "location": "Georgia Ave & Whittier St. NW, Washington, D.C."
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +260,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort DeRussy",
-        "url": "places/fort-derussy.htm"
+        "url": "places/fort-derussy.htm",
+        "location": "Military Rd. & Oregon Ave. NW, Washington, D.C."
       },
       "geometry": {
         "type": "Point",
@@ -263,7 +278,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Reno",
-        "url": "places/fort-reno.htm"
+        "url": "places/fort-reno.htm",
+        "location": "Chesapeake St. & 40th St. NW, Washington, D.C."
       },
       "geometry": {
         "type": "Point",
@@ -280,7 +296,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Bayard",
-        "url": "places/fort-bayard.htm"
+        "url": "places/fort-bayard.htm",
+        "location": "Western Ave. & River Rd. NW, Washington, D.C."
       },
       "geometry": {
         "type": "Point",
@@ -297,7 +314,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Battery Kemble",
-        "url": "places/battery-kemble.htm"
+        "url": "places/battery-kemble.htm",
+        "location": "Chain Bridge Road NW, Washington D.C."
       },
       "geometry": {
         "type": "Point",
@@ -314,7 +332,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Marcy",
-        "url": "places/fort-marcy.htm"
+        "url": "places/fort-marcy.htm",
+        "location": "George Washington Memorial Parkway, Fairfax County, Virginia"
       },
       "geometry": {
         "type": "Point",
