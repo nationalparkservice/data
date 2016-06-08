@@ -214,7 +214,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "garden",
         "name": "Floral Library"
       },
@@ -758,6 +758,22 @@
         "coordinates": [
           -77.01242744922638,
           38.89234596153011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "garden",
+        "name": "German-American Friendship Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03621864318848,
+          38.8918094371092
         ]
       }
     }
