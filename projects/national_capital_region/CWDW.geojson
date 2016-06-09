@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Foote",
@@ -24,7 +24,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Greble",
@@ -43,7 +43,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Battery Carroll",
@@ -62,7 +62,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Stanton",
@@ -81,7 +81,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Ricketts",
@@ -100,7 +100,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Dupont",
@@ -120,7 +120,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Davis",
@@ -139,7 +139,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Chaplin",
@@ -158,7 +158,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Mahan",
@@ -177,7 +177,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Bunker Hill",
@@ -196,7 +196,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Totten",
@@ -215,7 +215,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Slocum",
@@ -235,7 +235,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Stevens",
@@ -255,7 +255,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "cemetery",
         "name": "Battleground National Cemetery",
@@ -275,7 +275,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort DeRussy",
@@ -294,7 +294,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Reno",
@@ -314,7 +314,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Bayard",
@@ -333,7 +333,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Battery Kemble",
@@ -352,7 +352,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Fort Marcy",
