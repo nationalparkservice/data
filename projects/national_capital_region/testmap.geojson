@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Stonewall Inn",
+        "url": "www.nps.gov/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00230228900908,
+          40.73357592013933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.00243639945984,
+              40.734199879189205
+            ],
+            [
+              -74.0029701590538,
+              40.73371615900236
+            ],
+            [
+              -74.0025919675827,
+              40.733260889731525
+            ],
+            [
+              -74.00180608034134,
+              40.733425518711364
+            ],
+            [
+              -74.00174975395203,
+              40.73383404071652
+            ],
+            [
+              -74.00189191102982,
+              40.734155165706014
+            ],
+            [
+              -74.00243639945984,
+              40.734199879189205
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00630950927733,
+          40.71278477995827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99137496948242,
+          40.744525856457514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98665428161621,
+          40.7331450394645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99051666259766,
+          40.72267296820733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99927139282227,
+          40.743225290205785
+        ]
+      }
+    }
+  ]
+}
