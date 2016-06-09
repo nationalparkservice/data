@@ -8,7 +8,8 @@
         "marker-size": "medium",
         "marker-symbol": "star",
         "name": "Fort Foote",
-        "url": "/places/fort-foote.htm"
+        "url": "/places/fort-foote.htm",
+        "image": "/common/uploads/place/nri/20160602/places/B6ED293F-1DD8-B71B-0B6A547575B99D90/B6ED293F-1DD8-B71B-0B6A547575B99D90.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -93,7 +94,8 @@
         "marker-size": "medium",
         "marker-symbol": "star",
         "name": "Fort Dupont",
-        "url": "/places/fort-dupont.htm"
+        "url": "/places/fort-dupont.htm",
+        "image": "/common/uploads/place/nri/20160603/places/E1C8415B-1DD8-B71B-0BBCE8F5197C0E42/E1C8415B-1DD8-B71B-0BBCE8F5197C0E42.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -212,7 +214,8 @@
         "marker-size": "medium",
         "marker-symbol": "star",
         "name": "Fort Stevens",
-        "url": "/places/fort-stevens.htm"
+        "url": "/places/fort-stevens.htm",
+        "image": "/common/uploads/places/images/nri/subject/civilwar/CC654FE8-D9C9-08E7-595B679D871C31A2/CC654FE8-D9C9-08E7-595B679D871C31A2.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +249,8 @@
         "marker-size": "medium",
         "marker-symbol": "star",
         "name": "Fort Reno",
-        "url": "/places/fort-reno.htm"
+        "url": "/places/fort-reno.htm",
+        "image": "/common/uploads/place/nri/20160603/places/EDEC251B-1DD8-B71B-0B5B3260642F04CF/EDEC251B-1DD8-B71B-0B5B3260642F04CF.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -904,7 +908,7 @@
         "marker-symbol": "star",
         "name": "Fort Wadsworth",
         "url": "/gate/learn/historyculture/fort-wadsworth.htm",
-        "image": "https://www.nps.gov/common/uploads/photogallery/ner/park/gate/EF651301-155D-451F-672E22F1FF6B4B3E/EF651301-155D-451F-672E22F1FF6B4B3E-large.jpg"
+        "image": "/common/uploads/photogallery/ner/park/gate/EF651301-155D-451F-672E22F1FF6B4B3E/EF651301-155D-451F-672E22F1FF6B4B3E-large.jpg"
       },
       "geometry": {
         "type": "Point",
