@@ -1976,6 +1976,25 @@
           39.06168252252885
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "U St - African-Amer Civil War Mem'l - Cardozo",
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=73",
+        "Green": 1,
+        "Yellow": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02901422977448,
+          38.91681092531646
+        ]
+      }
     }
   ]
 }
