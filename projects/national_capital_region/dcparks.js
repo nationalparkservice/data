@@ -73,6 +73,10 @@ NPMap = {
             '<ul>' +
               '<li>' +
                 '<a href="https://www.nps.gov/' + unitCode +
+                  '/planyourvisit/index.htm" target="_blank_">Visit</a>' +
+              '</li>' +
+              '<li>' +
+                '<a href="https://www.nps.gov/' + unitCode +
                   '/faqs.htm" target="_blank_">Frequently Asked Questions</a>' +
               '</li>' +
               '<li>' +
