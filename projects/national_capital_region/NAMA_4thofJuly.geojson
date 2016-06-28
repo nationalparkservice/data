@@ -338,8 +338,8 @@
         "marker-color": "#004080",
         "marker-size": "medium",
         "marker-symbol": "star",
-        "name": "Musical Performance",
-        "details": "6:00 p.m. - 9:09 p.m."
+        "name": "United States Army Band 'Downrange'",
+        "details": "6 pm to 9:09 pm"
       },
       "geometry": {
         "type": "Point",
@@ -356,7 +356,7 @@
         "marker-size": "medium",
         "marker-symbol": "star",
         "name": "A Capitol Fourth Concert",
-        "details": "8:00 p.m. - 9:30 p.m."
+        "details": "8 pm to 9:30 pm"
       },
       "geometry": {
         "type": "Point",
