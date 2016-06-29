@@ -34,14 +34,33 @@ NPMap = {
   locateControl: true,
   geocoderControl: true,
   maxBounds: [
+    var NPMap = {
+  "baseLayers": [
+    "nps-parkTiles"
+  ],
+  "center": {
+    "lat": 38.91240739487225,
+    "lng": -76.89743041992188
+  },
+  "div": "map",
+  "homeControl": true,
+  "maxBounds": [
     [
-      38.78968338358036,
-      -77.2665023803711
+      38.49229419236133,
+      -77.86560058593749
     ],
     [
-      38.9991753950833,
-      -76.78241729736327
+      39.330048552942415,
+      -75.92926025390625
     ]
+  ],
+  "smallzoomControl": true,
+  "zoom": 10
+};
+
+var s = document.createElement('script');
+s.src = 'https://www.nps.gov/lib/npmap.js/3.0.18/npmap-bootstrap.min.js';
+document.body.appendChild(s);
   ],
   maxZoom: 19,
   minZoom: 10,
