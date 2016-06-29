@@ -113,8 +113,20 @@
               38.887508744732266
             ],
             [
-              -77.0526123046875,
-              38.88841065907927
+              -77.05254793167114,
+              38.88829374490249
+            ],
+            [
+              -77.05828785896301,
+              38.886189256816834
+            ],
+            [
+              -77.05836296081543,
+              38.88635628195838
+            ],
+            [
+              -77.05264449119568,
+              38.8884774670939
             ],
             [
               -77.05284833908081,
@@ -258,7 +270,8 @@
         "marker-size": "medium",
         "marker-symbol": "entrance",
         "details": "Open 10 am to 9 pm",
-        "name": "Access Point"
+        "name": "Access Point",
+        "stroke-width": ""
       },
       "geometry": {
         "type": "Point",
@@ -506,6 +519,23 @@
         "coordinates": [
           -77.01983571052551,
           38.889571439395134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Access Point",
+        "details": "Open 10 am to 9 pm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05842733383179,
+          38.88622266187655
         ]
       }
     }
