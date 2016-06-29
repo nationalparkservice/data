@@ -44,7 +44,7 @@ NPMap = {
     ]
   ],
   maxZoom: 19,
-  minZoom: 12,
+  minZoom: 10,
   scrollWheelZoom: false,
   zoom: 12,
   overlays: [{
