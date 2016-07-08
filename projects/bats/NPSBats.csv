@@ -1,13 +1,52 @@
-Park,Link,Latitude,Longitude
-Bighorn Canyon National Recreation Area,https://www.nps.gov/bica/learn/nature/bats.htm,44.837695,-108.376672
-Carlsbad Caverns National Park,https://www.nps.gov/cave/planyourvisit/bat_flight_program.htm,32.147946,-104.55681
-Craters of the Moon National Monument & Preserve,https://www.nps.gov/crmo/learn/nature/bats.htm,43.20576,-13.50031
-Cuyahoga Valley National Park,https://www.nps.gov/cuva/learn/nature/bats-in-the-park.htm,41.280873,-81.567909
-El Malpais National Monument,https://www.nps.gov/elma/learn/nature/mammals-bats.htm,34.942085,-107.989432
-Everglades National Park,https://www.nps.gov/ever/learn/nature/bats.htm,25.366418,-80.912439
-Glen Canyon National Recreation Area,https://www.nps.gov/glca/learn/nature/bats.htm,37.522196,-110.721683
-Grand Canyon National Park,https://www.nps.gov/grca/learn/nature/bats.htm,36.107009,-112.113094
-Great Basin National Park,https://www.nps.gov/grba/learn/nature/bats.htm,38.983283,-114.300215
-Great Smoky Mountains National Park,https://www.nps.gov/grsm/learn/nature/dff10-wns.htm,35.687458,-83.536805
-Jewel Cave National Monument,https://www.nps.gov/jeca/learn/nature/bats.htm,43.730429,-103.829266
-Joshua Tree National Park,https://www.nps.gov/jotr/learn/nature/bats.htm,33.873486,-115.901024
+Park,Link,Latitude,Longitude,Species
+Acadia National Park,https://www.nps.gov/acad/learn/nature/animals.htm#CP_JUMP_3880320,44.338633,-68.273474,6
+Agate Fossil Beds National Monument,https://www.nps.gov/agfo/learn/nature/mammals.htm,42.423506,-103.757371,5
+Bandelier National Monument,https://www.nps.gov/band/learn/nature/bats.htm,35.768372,-106.313213,13
+Bighorn Canyon National Recreation Area,https://www.nps.gov/bica/learn/nature/bats.htm,44.837695,-108.376672,12
+Buffalo National River,https://www.nps.gov/buff/learn/nature/mammals.htm,35.982147,-92.769773,14
+Canyonlands National Park,https://www.nps.gov/cany/learn/nature/batinventory.htm,38.326844,-109.878023,16
+Carlsbad Caverns National Park,https://www.nps.gov/cave/planyourvisit/bat_flight_program.htm,32.147946,-104.55681,17
+Cedar Breaks National Monument,https://www.nps.gov/cebr/learn/nature/bats.htm,37.635433,-112.845452,5
+Channel Islands National Park,https://home.nps.gov/chis/learn/nature/terrestrial-animals.htm,33.996118,-119.769238,11
+Chesapeake and Ohio Canal National Historical Park,https://www.nps.gov/choh/learn/nature/bats.htm,39.600669,-77.827166,8
+Coronado National Memorial,https://www.nps.gov/coro/learn/nature/bats.htm,31.346176,-110.253255,8
+Craters of the Moon National Monument & Preserve,https://www.nps.gov/crmo/learn/nature/bats.htm,43.20576,-113.50031,11
+Cumberland Gap National Historical Park,https://www.nps.gov/cuga/learn/nature/mammals.htm,36.60373,-83.698424,12
+Cuyahoga Valley National Park,https://www.nps.gov/cuva/learn/nature/bats-in-the-park.htm,41.280873,-81.567909,7
+Death Valley National Park,https://www.nps.gov/deva/learn/nature/mammals.htm,36.500668,-117.056794,9
+El Malpais National Monument,https://www.nps.gov/elma/learn/nature/mammals-bats.htm,34.942085,-107.989432,14
+Everglades National Park,https://www.nps.gov/ever/learn/nature/bats.htm,25.366418,-80.912439,5
+Glacier National Park,https://www.nps.gov/glac/learn/nature/mammals.htm,48.75962,-113.787173,9
+Glen Canyon National Recreation Area,https://www.nps.gov/glca/learn/nature/bats.htm,37.522196,-110.721683,9
+Grand Canyon National Park,https://www.nps.gov/grca/learn/nature/bats.htm,36.107009,-112.113094,22
+Great Basin National Park,https://www.nps.gov/grba/learn/nature/bats.htm,38.983283,-114.300215,10
+Great Smoky Mountains National Park,https://www.nps.gov/grsm/learn/nature/dff10-wns.htm,35.687458,-83.536805,11
+Indiana Dunes National Lakeshore,https://www.nps.gov/indu/learn/nature/mammals.htm,41.667154,-87.049482,9
+Jewel Cave National Monument,https://www.nps.gov/jeca/learn/nature/bats.htm,43.730429,-103.829266,9
+John Day Fossil Beds National Monument,https://www.nps.gov/joda/learn/nature/list-of-mammals-found-at-john-day-fossil-beds.htm,44.544583,-119.632007,13
+Joshua Tree National Park,https://www.nps.gov/jotr/learn/nature/bats.htm,33.873486,-115.901024,12
+Lake Mead National Recreation Area,https://www.nps.gov/lake/learn/nature/bats.htm,36.036616,-114.320351,18
+Lava Beds National Monument,https://www.nps.gov/labe/learn/nature/bats.htm,41.714286,-121.509891,14
+Mammoth Cave National Park,https://www.nps.gov/maca/learn/nature/mammals.htm,37.187109,-86.100603,14
+Montezuma Castle National Monument,https://www.nps.gov/moca/learn/nature/bats.htm,34.611997,-111.839774,14
+Mount Rainier National Park,https://www.nps.gov/mora/learn/nature/bats.htm,46.879952,-121.726866,6
+National Park of American Samoa,https://www.nps.gov/npsa/learn/nature/fruit-bats.htm,-14.258209,-170.683548,3
+New River Gorge National River,https://www.nps.gov/neri/learn/nature/bats.htm,37.881814,-81.061571,10
+North Cascades National Park,https://www.nps.gov/noca/learn/nature/bats.htm,48.771775,-121.29854,8
+Olympic National Park,https://www.nps.gov/olym/learn/nature/mammal-species-list.htm,48.099542,-123.425675,11
+Oregon Caves National Monument & Preserve,https://www.nps.gov/orca/learn/nature/bats.htm,42.095438,-123.404364,8
+Organ Pipe Cactus National Monument,https://www.nps.gov/orpi/learn/nature/lesser-long-nosed-bats.htm,32.087823,-112.905848,21
+Ozark National Scenic Riverways,https://www.nps.gov/ozar/learn/education/bats.htm,36.923799,-90.907089,7
+Pictured Rocks National Lakeshore,https://www.nps.gov/piro/learn/nature/upload/Bats-of-PIRO.pdf,46.561424,-86.321317,6
+Pinnacles National Park,https://www.nps.gov/pinn/learn/nature/bats.htm,36.490583,-121.182653,14
+Pipe Spring National Monument,https://www.nps.gov/pisp/learn/photosmultimedia/bats.htm,36.86296,-112.739807,15
+Rocky Mountain National Park,https://www.nps.gov/romo/learn/nature/mammals.htm,40.34276,-105.68365,7
+Russell Cave National Monument,https://www.nps.gov/ruca/learn/nature/animals.htm,34.976498,-85.814085,8
+Saguaro National Park,https://www.nps.gov/sagu/learn/nature/insectivorous-bats.htm,32.296663,-111.16684,20
+Santa Monica Mountains National Recreation Area,https://www.nps.gov/samo/learn/nature/bats.htm,34.120838,-118.946687,11
+Sequoia and Kings Canyon National Parks,https://www.nps.gov/seki/learn/nature/mammals.htm,36.490932,-118.825597,17
+Timpanogos Cave National Monument,https://www.nps.gov/tica/learn/nature/mammals.htm,40.44067,-111.70908,15
+Virgin Islands National Park,https://www.nps.gov/viis/learn/nature/mammals.htm,18.342344,-64.748576,6
+Weir Farm National Historic Site,https://www.nps.gov/wefa/learn/nature/bats.htm,41.256681,-73.456369,5
+Wind Cave National Park,https://www.nps.gov/wica/learn/nature/mammals.htm,43.604511,-103.421526,11
+Yellowstone National Park,https://www.nps.gov/yell/learn/nature/bats.htm,44.429499,-110.588626,13
