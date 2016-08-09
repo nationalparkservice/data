@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#004080",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "Washington Monument",
+        "image": "/common/uploads/banner_image/ncr/homepage/73E3B7EA-1DD8-B71B-0BA546521BA0BCFC.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03527450561522,
+          38.88922905292896
+        ]
+      }
+    }
+  ]
+}
