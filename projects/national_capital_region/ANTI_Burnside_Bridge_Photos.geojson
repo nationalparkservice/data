@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "url": "https://www.nps.gov/common/uploads/photogallery/ncr/park/anti/2486B478-1DD8-B71C-07E5204D1F6374A2/2486B478-1DD8-B71C-07E5204D1F6374A2-large.jpg",
+        "name": "Burnside Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.73244500160217,
+          39.45041900064241
+        ]
+      }
+    }
+  ]
+}
