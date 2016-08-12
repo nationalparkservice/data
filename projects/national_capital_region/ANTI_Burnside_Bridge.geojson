@@ -11,6 +11,7 @@
         "corpsbadge": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/IXcorpsbadge.png/100px-IXcorpsbadge.png",
         "co": "Lt. Col. Gottfried Becker",
         "nickname": "\"Second German\"",
+        "rank": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Union_army_lt_col_rank_insignia.jpg/800px-Union_army_lt_col_rank_insignia.jpg",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/US_flag_34_stars.svg/2000px-US_flag_34_stars.svg.png"
       },
       "geometry": {
@@ -62,7 +63,7 @@
         "stroke-opacity": 1,
         "regiment": "2nd Maryland",
         "co": "Lt. Col. J. Eugene Duryea",
-        "rank": "https://en.wikipedia.org/wiki/File:Union_army_lt_col_rank_insignia.jpg",
+"rank": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Union_army_lt_col_rank_insignia.jpg/800px-Union_army_lt_col_rank_insignia.jpg",
         "type": "Infantry",
         "insignia": "https://fcsutler.com/pinsiginf.GIF"
       },
