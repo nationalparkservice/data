@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 10,
+        "stroke-opacity": 0.5,
+        "regiment": "Skirmishers",
+        "flag": "http://www.usflag.org/historical/scross.gif"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.73415088653564,
+            39.45369131548019
+          ],
+          [
+            -77.7328634262085,
+            39.451355146921834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 10,
+        "stroke-opacity": 1,
+        "regiment": "20th Georgia",
+        "type": "Infantry",
+        "co": "Col. John B. Cumming",
+        "insignia": "https://fcsutler.com/pinsiginf.GIF",
+        "rank": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Confederate_States_of_America_Colonel.png/100px-Confederate_States_of_America_Colonel.png"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.73312091827393,
+            39.45117288934087
+          ],
+          [
+            -77.73273468017578,
+            39.450460423310304
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 10,
+        "stroke-opacity": 1,
+        "regiment": "2nd Georgia",
+        "type": "Infantry",
+        "co": "Lt. Col. William R. Holmes",
+        "insignia": "https://fcsutler.com/pinsiginf.GIF",
+        "rank": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Confederate_States_of_America_Lieutenant_Colonel.png/75px-Confederate_States_of_America_Lieutenant_Colonel.png"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.73253619670868,
+            39.45014975270045
+          ],
+          [
+            -77.73212313652039,
+            39.44964853452775
+          ],
+          [
+            -77.7314257621765,
+            39.449441418526895
+          ]
+        ]
+      }
+    },
+    
+    
+    }
+  ]
+}
