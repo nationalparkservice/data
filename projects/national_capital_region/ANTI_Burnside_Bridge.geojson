@@ -9,7 +9,90 @@
         "stroke-opacity": 1,
         "regiment": "28th Ohio",
         "corpsbadge": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/IXcorpsbadge.png/100px-IXcorpsbadge.png",
+        "co": "Lt. Col. Gottfried Becker",{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0000ff",
+        "stroke-width": 10,
+        "stroke-opacity": 1,
+        "regiment": "28th Ohio",
+        "corpsbadge": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/IXcorpsbadge.png/100px-IXcorpsbadge.png",
         "co": "Lt. Col. Gottfried Becker",
+        "nickname": "\"Second German\"",
+        "rank": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Union_army_lt_col_rank_insignia.jpg/800px-Union_army_lt_col_rank_insignia.jpg",
+        "type": "Infantry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.73232698440552,
+            39.45329367530403
+          ],
+          [
+            -77.73213386535645,
+            39.45263093663008
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0000ff",
+        "stroke-width": 10,
+        "stroke-opacity": 1,
+        "regiment": "6th New Hampshire",
+        "co": "Col. Simon G. Griffin",
+        "rank": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Union_Army_colonel_rank_insignia.png/800px-Union_Army_colonel_rank_insignia.png",
+        "insignia": "https://fcsutler.com/pinsiginf.GIF",
+        "type": "Infantry"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.7306318283081,
+            39.4514379911191
+          ],
+          [
+            -77.73007392883301,
+            39.450990631282814
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#0000ff",
+        "stroke-width": 10,
+        "stroke-opacity": 1,
+        "regiment": "2nd Maryland",
+        "co": "Lt. Col. J. Eugene Duryea",
+        "rank": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Union_army_lt_col_rank_insignia.jpg/800px-Union_army_lt_col_rank_insignia.jpg",
+        "type": "Infantry",
+        "insignia": "https://fcsutler.com/pinsiginf.GIF"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.72977352142334,
+            39.45085807966819
+          ],
+          [
+            -77.72979497909544,
+            39.450311301590574
+          ]
+        ]
+      }
+    }
+  ]
+}
         "nickname": "\"Second German\"",
         "rank": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Union_army_lt_col_rank_insignia.jpg/800px-Union_army_lt_col_rank_insignia.jpg",
         "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/US_flag_34_stars.svg/2000px-US_flag_34_stars.svg.png"
