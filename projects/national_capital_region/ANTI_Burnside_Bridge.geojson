@@ -10,17 +10,6 @@
         "regiment": "28th Ohio",
         "corpsbadge": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/IXcorpsbadge.png/100px-IXcorpsbadge.png",
         "co": "Lt. Col. Gottfried Becker",
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#0000ff",
-        "stroke-width": 10,
-        "stroke-opacity": 1,
-        "regiment": "28th Ohio",
-        "corpsbadge": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/IXcorpsbadge.png/100px-IXcorpsbadge.png",
-        "co": "Lt. Col. Gottfried Becker",
         "nickname": "\"Second German\"",
         "rank": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Union_army_lt_col_rank_insignia.jpg/800px-Union_army_lt_col_rank_insignia.jpg",
         "type": "Infantry"
@@ -90,30 +79,8 @@
           ]
         ]
       }
-    }
-  ]
-}
-        "nickname": "\"Second German\"",
-        "rank": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Union_army_lt_col_rank_insignia.jpg/800px-Union_army_lt_col_rank_insignia.jpg",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/US_flag_34_stars.svg/2000px-US_flag_34_stars.svg.png"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.73232698440552,
-            39.45329367530403
-          ],
-          [
-            -77.73213386535645,
-            39.45263093663008
-          ]
-        ]
-      }
     },
-    
-    
-    {
+{
       "type": "Feature",
       "properties": {
         "stroke": "#0000ff",
