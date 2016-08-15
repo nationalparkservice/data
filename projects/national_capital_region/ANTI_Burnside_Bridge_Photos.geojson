@@ -17,6 +17,38 @@
           39.45041900064241
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "url": "https://www.nps.gov/common/uploads/photogallery/ncr/park/anti/24546C49-1DD8-B71C-0738FE0DB96AFF4A/24546C49-1DD8-B71C-0738FE0DB96AFF4A-large.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.73146867752075,
+          39.45004205323216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "url": "https://www.nps.gov/common/uploads/photogallery/ncr/park/anti/247A5BB9-1DD8-B71C-07B8F42337AF2C72/247A5BB9-1DD8-B71C-07B8F42337AF2C72-large.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.73240745067596,
+          39.45067996303868
+        ]
+      }
     }
   ]
 }
