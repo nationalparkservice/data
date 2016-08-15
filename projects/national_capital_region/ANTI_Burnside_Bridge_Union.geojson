@@ -8,11 +8,12 @@
         "stroke-width": 10,
         "stroke-opacity": 1,
         "regiment": "28th Ohio",
-        "corpsbadge": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/IXcorpsbadge.png/100px-IXcorpsbadge.png",
         "co": "Lt. Col. Gottfried Becker",
         "nickname": "\"Second German\"",
         "rank": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Union_army_lt_col_rank_insignia.jpg/800px-Union_army_lt_col_rank_insignia.jpg",
-        "type": "Infantry"
+        "type": "Infantry",
+        "corps": "IX",
+        "division": "Kanawha"
       },
       "geometry": {
         "type": "LineString",
@@ -80,7 +81,7 @@
         ]
       }
     },
-{
+    {
       "type": "Feature",
       "properties": {
         "stroke": "#0000ff",
@@ -89,7 +90,10 @@
         "regiment": "6th New Hampshire",
         "co": "Col. Simon G. Griffin",
         "rank": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Union_Army_colonel_rank_insignia.png/800px-Union_Army_colonel_rank_insignia.png",
-        "insignia": "https://fcsutler.com/pinsiginf.GIF"
+        "insignia": "https://fcsutler.com/pinsiginf.GIF",
+        "corpsbadge": "https://upload.wikimedia.org/wikipedia/commons/e/e0/IXcorpsbadge2.png",
+        "corps": "IX",
+        "division": "2nd"
       },
       "geometry": {
         "type": "LineString",
@@ -113,9 +117,12 @@
         "stroke-opacity": 1,
         "regiment": "2nd Maryland",
         "co": "Lt. Col. J. Eugene Duryea",
-"rank": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Union_army_lt_col_rank_insignia.jpg/800px-Union_army_lt_col_rank_insignia.jpg",
+        "rank": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Union_army_lt_col_rank_insignia.jpg/800px-Union_army_lt_col_rank_insignia.jpg",
         "type": "Infantry",
-        "insignia": "https://fcsutler.com/pinsiginf.GIF"
+        "insignia": "https://fcsutler.com/pinsiginf.GIF",
+        "corpsbadge": "https://upload.wikimedia.org/wikipedia/commons/e/e0/IXcorpsbadge2.png",
+        "corps": "IX",
+        "division": "2nd"
       },
       "geometry": {
         "type": "LineString",
