@@ -6,29 +6,6 @@
       "properties": {
         "stroke": "#ff0000",
         "stroke-width": 10,
-        "stroke-opacity": 0.5,
-        "regiment": "Skirmishers",
-        "flag": "http://www.usflag.org/historical/scross.gif"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.73415088653564,
-            39.45369131548019
-          ],
-          [
-            -77.7328634262085,
-            39.451355146921834
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#ff0000",
-        "stroke-width": 10,
         "stroke-opacity": 1,
         "regiment": "20th Georgia",
         "type": "Infantry",
@@ -100,32 +77,6 @@
           [
             -77.73194074630737,
             39.44448702017273
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#ff0000",
-        "stroke-width": 10,
-        "stroke-opacity": ".5",
-        "regiment": "Skirmishers"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.73127555847168,
-            39.44931714863064
-          ],
-          [
-            -77.73206949234009,
-            39.44719624154269
-          ],
-          [
-            -77.73131847381592,
-            39.44532382456719
           ]
         ]
       }
