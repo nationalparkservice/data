@@ -489,7 +489,10 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "monument",
-        "name": "William Tecumseh Sherman Statue"
+        "name": "William Tecumseh Sherman Statue",
+        "sculptor": "Carl Rohl-Smith",
+        "date": "October 15, 1903",
+        "info": "General Sherman served in the Federal Army for the duration of the Civil War. Ascending to command the federal troops in the west, Sherman seized Atlanta in 1864, delivering a severe blow to the Confederate war effort. He later succeeded Ulysses Grant as General of the Army, a post he held from 1869 to 1883."
       },
       "geometry": {
         "type": "Point",
@@ -505,8 +508,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "monument",
-        "name": "Rochambeau Statue",
-        "image": "http://www.nps.gov/whho/images/Rochambeau.jpg"
+        "name": "General Comte de Rochambeau Statue",
+        "image": "http://www.nps.gov/whho/images/Rochambeau.jpg",
+        "sculptor": "Fernand Hamar",
+        "date": "May 24, 1902",
+        "info": "General Rochambeau, a Frenchman, commanded some 7,000 troops aiding the American Revolution. The statue was dedicated by Theodore Roosevelt."
       },
       "geometry": {
         "type": "Point",
@@ -522,8 +528,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "monument",
-        "name": "Von Steuben Statue",
-        "image": "http://www.nps.gov/whho/images/Von-Steuben-3.jpg"
+        "name": "Baron von Steuben Statue",
+        "image": "http://www.nps.gov/whho/images/Von-Steuben-3.jpg",
+        "sculptor": "Albert Jaegers with Thomas R. Johnson (architect, pedestal)",
+        "date": "December 7, 1910",
+        "info": "Prussian by birth, Baron von Steuben's role training American troops at Valley Forge helped save the revolution during a dark hour."
       },
       "geometry": {
         "type": "Point",
@@ -540,7 +549,10 @@
         "marker-size": "medium",
         "marker-symbol": "monument",
         "name": "Kosciuszko Statue",
-        "image": "http://www.nps.gov/whho/images/Kosciuzsko.jpg"
+        "image": "http://www.nps.gov/whho/images/Kosciuzsko.jpg",
+        "sculptor": "Antoni Popiel",
+        "date": "May 11, 1910",
+        "info": "The statue commemorates the Polish patriot and his lifelong dedication to fighting for freedom in America and Poland. His skill building fortifications in key places, including West Point, contributed to the success of the American Revolution."
       },
       "geometry": {
         "type": "Point",
@@ -556,8 +568,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "monument",
-        "name": "Lafayette Statue",
-        "image": "http://www.nps.gov/whho/images/Lafayette-Statue.jpg"
+        "name": "General Marquis de Lafayette Statue",
+        "image": "http://www.nps.gov/whho/images/Lafayette-Statue.jpg",
+        "sculptor": "Alexandre Falguiere, Antonin Mercie",
+        "date": "April 1891",
+        "info": "Born in France, Lafayette served as a general in the Continental Army, helping George Washington force the surrender of Lord Cornwallis at Yorktown in 1781. A lack of funds prevented a formal dedication ceremony for the statue."
       },
       "geometry": {
         "type": "Point",
@@ -573,8 +588,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "monument",
-        "name": "Andrew Jackson Statue",
-        "image": "http://www.nps.gov/whho/images/Jackson-Statue.jpg"
+        "name": "Equestrian Statue of Andrew Jackson",
+        "image": "http://www.nps.gov/whho/images/Jackson-Statue.jpg",
+        "sculptor": "Clark Mills",
+        "date": "January 8, 1853 (38th anniversary of the Battle of New Orleans)",
+        "info": "A hero of the War of 1812, Jackson served as the seventh president of the United States."
       },
       "geometry": {
         "type": "Point",
@@ -591,7 +609,9 @@
         "marker-size": "medium",
         "marker-symbol": "monument",
         "name": "Baruch Bench of Inspiration",
-        "image": "http://www.nps.gov/whho/images/Baruch-Bench.jpg"
+        "image": "http://www.nps.gov/whho/images/Baruch-Bench.jpg",
+        "date": "August 16, 1960.",
+        "info": "Bernard Baruch, a financial advisor from New York City, made his fortune on Wall Street. His greatest satisfaction, however, was his service to his country as an economic advisor during World Wars I and II, and as a confidante to six presidents."
       },
       "geometry": {
         "type": "Point",
