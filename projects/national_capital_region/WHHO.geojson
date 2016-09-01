@@ -492,7 +492,8 @@
         "name": "William Tecumseh Sherman Statue",
         "sculptor": "Carl Rohl-Smith",
         "date": "October 15, 1903",
-        "info": "General Sherman served in the Federal Army for the duration of the Civil War. Ascending to command the federal troops in the west, Sherman seized Atlanta in 1864, delivering a severe blow to the Confederate war effort. He later succeeded Ulysses Grant as General of the Army, a post he held from 1869 to 1883."
+        "info": "General Sherman served in the Federal Army for the duration of the Civil War. Ascending to command the federal troops in the west, Sherman seized Atlanta in 1864, delivering a severe blow to the Confederate war effort. He later succeeded Ulysses Grant as General of the Army, a post he held from 1869 to 1883.",
+        "image": "http://www.nps.gov/whho/images/WTShermanStatue.jpg"
       },
       "geometry": {
         "type": "Point",
