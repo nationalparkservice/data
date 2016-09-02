@@ -68,7 +68,8 @@
         "architect": "William Henry Deacy",
         "sculptor": "Donald DeLue",
         "date": "November 7, 1964",
-        "info": "The memorial to the Boy Scouts of America stands on the site of the first Boy Scout Jamboree in 1937. It is one of the few memorials in Washington, DC, commemorating a living cause."
+        "info": "The memorial to the Boy Scouts of America stands on the site of the first Boy Scout Jamboree in 1937. It is one of the few memorials in Washington, DC, commemorating a living cause.",
+        "url": "https://www.nps.gov/whho/learn/historyculture/boy-scout-memorial.htm"
       },
       "geometry": {
         "type": "Point",
@@ -128,7 +129,8 @@
         "name": "National Christmas Tree",
         "image": "http://www.nps.gov/whho/planyourvisit/images/National-Christmas-Tree-Feature.jpg",
         "date": "Planted October 27, 2012",
-        "info": "This Colorado blue spruce came from a private residence in Virginia. The first National Christmas Tree was placed on the Ellipse in December 1923."
+        "info": "This Colorado blue spruce came from a private residence in Virginia. The first National Christmas Tree was placed on the Ellipse in December 1923.",
+        "url": "https://www.nps.gov/whho/planyourvisit/national-christmas-tree.htm"
       },
       "geometry": {
         "type": "Point",
@@ -169,7 +171,8 @@
         "image": "http://www.nps.gov/whho/images/Butt-Millett-Fountain.jpg",
         "sculptor": "Daniel Chester French",
         "architect": "Thomas Hastings",
-        "info": "This fountain was erected with the contributions of friends of Major Archibald Wallingham Butt and Francis Davis Millet, who lost their lives on the RMS Titanic in April 1912. Both were widely known in Washington’s cultural, social, and political circles. Besides being a memorial, the fountain was designed to double as a water fountain for the horses ridden by U.S. Park Police while on patrol. "
+        "info": "This fountain was erected with the contributions of friends of Major Archibald Wallingham Butt and Francis Davis Millet, who lost their lives on the RMS Titanic in April 1912. Both were widely known in Washington’s cultural, social, and political circles. Besides being a memorial, the fountain was designed to double as a water fountain for the horses ridden by U.S. Park Police while on patrol. ",
+        "url": "https://www.nps.gov/whho/learn/historyculture/butt-millet-memorial-fountain.htm"
       },
       "geometry": {
         "type": "Point",
@@ -190,7 +193,8 @@
         "architect": "Cass Gilbert",
         "sculptor": "Daniel Chester French",
         "date": "October 4, 1924",
-        "info": "The first monument built in Washington, DC, in honor of the soldiers who fought in World War I."
+        "info": "The first monument built in Washington, DC, in honor of the soldiers who fought in World War I.",
+        "url": "https://www.nps.gov/whho/learn/historyculture/first-division-monument.htm"
       },
       "geometry": {
         "type": "Point",
