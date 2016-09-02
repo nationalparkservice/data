@@ -64,7 +64,11 @@
         "marker-size": "medium",
         "marker-symbol": "monument",
         "name": "Boy Scout Memorial",
-        "image": "http://www.nps.gov/whho/images/Boy-Scout-1.jpg"
+        "image": "http://www.nps.gov/whho/images/Boy-Scout-1.jpg",
+        "architect": "William Henry Deacy",
+        "sculptor": "Donald DeLue",
+        "date": "November 7, 1964",
+        "info": "The memorial to the Boy Scouts of America stands on the site of the first Boy Scout Jamboree in 1937. It is one of the few memorials in Washington, DC, commemorating a living cause."
       },
       "geometry": {
         "type": "Point",
@@ -81,7 +85,11 @@
         "marker-size": "medium",
         "marker-symbol": "monument",
         "name": "Original Patentees Memorial",
-        "image": "http://www.nps.gov/whho/images/Patentees-3.jpg"
+        "image": "http://www.nps.gov/whho/images/Patentees-3.jpg",
+        "architect": "Delos Smith",
+        "sculptor": "Carl Mose",
+        "date": "April 25, 1936",
+        "info": "The National Society of the Daughters of the American Revolution donated the Settlers of the District of Columbia memorial “as a way of teaching history.” This simple memorial is a tribute to the original eighteen landowners of what would become the federal city. "
       },
       "geometry": {
         "type": "Point",
@@ -98,7 +106,10 @@
         "marker-size": "medium",
         "marker-symbol": "monument",
         "name": "Bulfinch Gatehouse",
-        "image": "http://www.nps.gov/whho/images/Bullfinch-Gatehouse.jpg"
+        "image": "http://www.nps.gov/whho/images/Bullfinch-Gatehouse.jpg",
+        "architect": "Charles Bulfinch",
+        "date": 1828,
+        "info": "These sandstone guardians silently watched over the U.S. Capitol grounds until 1874. In 1880, the gatehouses were relocated to the Ellipse. The National Park Service restored the structures in the winter of 1938-39."
       },
       "geometry": {
         "type": "Point",
@@ -115,7 +126,9 @@
         "marker-size": "medium",
         "marker-symbol": "park",
         "name": "National Christmas Tree",
-        "image": "http://www.nps.gov/whho/planyourvisit/images/National-Christmas-Tree-Feature.jpg"
+        "image": "http://www.nps.gov/whho/planyourvisit/images/National-Christmas-Tree-Feature.jpg",
+        "date": "Planted October 27, 2012",
+        "info": "This Colorado blue spruce came from a private residence in Virginia. The first National Christmas Tree was placed on the Ellipse in December 1923."
       },
       "geometry": {
         "type": "Point",
@@ -132,7 +145,11 @@
         "marker-size": "medium",
         "marker-symbol": "monument",
         "name": "Zero Milestone",
-        "image": "http://www.nps.gov/whho/images/Zero-milestone-1.jpg"
+        "image": "http://www.nps.gov/whho/images/Zero-milestone-1.jpg",
+        "architect": "Horace Peaslee",
+        "sculptor": "Gorham Manufacturing Company",
+        "date": "June 4, 1923",
+        "info": "This four-foot high shaft of pink granite stands on the north and south meridian of the District of Columbia. It is symbolically the official starting point for measurement of highway distances from Washington, DC. "
       },
       "geometry": {
         "type": "Point",
@@ -148,8 +165,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "monument",
-        "name": "Butt-Millett Fountain",
-        "image": "http://www.nps.gov/whho/images/Butt-Millett-Fountain.jpg"
+        "name": "Butt-Millet Fountain",
+        "image": "http://www.nps.gov/whho/images/Butt-Millett-Fountain.jpg",
+        "sculptor": "Daniel Chester French",
+        "architect": "Thomas Hastings",
+        "info": "This fountain was erected with the contributions of friends of Major Archibald Wallingham Butt and Francis Davis Millet, who lost their lives on the RMS Titanic in April 1912. Both were widely known in Washington’s cultural, social, and political circles. Besides being a memorial, the fountain was designed to double as a water fountain for the horses ridden by U.S. Park Police while on patrol. "
       },
       "geometry": {
         "type": "Point",
@@ -166,7 +186,11 @@
         "marker-size": "medium",
         "marker-symbol": "monument",
         "name": "First Division Monument",
-        "image": "http://www.nps.gov/whho/images/First-Division.jpg"
+        "image": "http://www.nps.gov/whho/images/First-Division.jpg",
+        "architect": "Cass Gilbert",
+        "sculptor": "Daniel Chester French",
+        "date": "October 4, 1924",
+        "info": "The first monument built in Washington, DC, in honor of the soldiers who fought in World War I."
       },
       "geometry": {
         "type": "Point",
@@ -183,7 +207,11 @@
         "marker-size": "medium",
         "marker-symbol": "monument",
         "name": "Second Division Memorial",
-        "image": "http://www.nps.gov/whho/images/Second-Division.jpg"
+        "image": "http://www.nps.gov/whho/images/Second-Division.jpg",
+        "architect": "John Russell Pope",
+        "sculptor": "James Earle Fraser",
+        "date": "July 18, 1936",
+        "info": "The Second Division Memorial is a tribute to the men who lost their lives in the service of the Second Division of the United States Army during World War I & II and the Korean War. The flaming sword guards the open granite frame symbolizing the Second Division’s actions in halting the German advance into Paris in 1918."
       },
       "geometry": {
         "type": "Point",
@@ -217,7 +245,10 @@
         "marker-size": "medium",
         "marker-symbol": "monument",
         "name": "Haupt Fountains",
-        "image": "http://www.nps.gov/whho/images/Haupt-Fountain.jpg"
+        "image": "http://www.nps.gov/whho/images/Haupt-Fountain.jpg",
+        "architect": "Nathaniel Owings",
+        "sculptor": "Gordon Newell",
+        "info": "These two granite fountains “frame the White House in water” when seen from the Washington Monument. They were a gift of publishing magnate Ms. Enid Haupt and were part of Lady Bird Johnson’s campaign  for a More Beautiful Capital. "
       },
       "geometry": {
         "type": "Point",
@@ -489,7 +520,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "monument",
-        "name": "William Tecumseh Sherman Statue",
+        "name": "General William Tecumseh Sherman Statue",
         "sculptor": "Carl Rohl-Smith",
         "date": "October 15, 1903",
         "info": "General Sherman served in the Federal Army for the duration of the Civil War. Ascending to command the federal troops in the west, Sherman seized Atlanta in 1864, delivering a severe blow to the Confederate war effort. He later succeeded Ulysses Grant as General of the Army, a post he held from 1869 to 1883.",
@@ -529,7 +560,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "monument",
-        "name": "Baron von Steuben Statue",
+        "name": "General Baron von Steuben Statue",
         "image": "http://www.nps.gov/whho/images/Von-Steuben-3.jpg",
         "sculptor": "Albert Jaegers with Thomas R. Johnson (architect, pedestal)",
         "date": "December 7, 1910",
@@ -549,7 +580,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "monument",
-        "name": "Kosciuszko Statue",
+        "name": "General Thaddeus Kosciuszko Statue",
         "image": "http://www.nps.gov/whho/images/Kosciuzsko.jpg",
         "sculptor": "Antoni Popiel",
         "date": "May 11, 1910",
@@ -589,7 +620,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "monument",
-        "name": "Equestrian Statue of Andrew Jackson",
+        "name": "Equestrian Statue of General Andrew Jackson",
         "image": "http://www.nps.gov/whho/images/Jackson-Statue.jpg",
         "sculptor": "Clark Mills",
         "date": "January 8, 1853 (38th anniversary of the Battle of New Orleans)",
