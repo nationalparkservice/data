@@ -288,7 +288,11 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "name": "The White House",
-        "image": "http://www.nps.gov/whho/images/White_House_South_Lawn2_150.jpg"
+        "image": "http://www.nps.gov/whho/images/White_House_South_Lawn2_150.jpg",
+        "url": "https://www.nps.gov/whho/planyourvisit/the-white-house-tour.htm",
+        "architect": "James Hoban",
+        "date": 1800,
+        "info": "Although the building has undergone several renovations over the years, every president since the second, John Adams, has lived in this house."
       },
       "geometry": {
         "type": "Polygon",
@@ -548,7 +552,8 @@
         "image": "http://www.nps.gov/whho/images/Rochambeau.jpg",
         "sculptor": "Fernand Hamar",
         "date": "May 24, 1902",
-        "info": "General Rochambeau, a Frenchman, commanded some 7,000 troops aiding the American Revolution. The statue was dedicated by Theodore Roosevelt."
+        "info": "General Rochambeau, a Frenchman, commanded some 7,000 troops aiding the American Revolution. The statue was dedicated by Theodore Roosevelt.",
+        "url": "https://www.nps.gov/whho/learn/historyculture/rochambeau.htm"
       },
       "geometry": {
         "type": "Point",
@@ -1156,6 +1161,42 @@
             -77.03786551952362,
             38.89636454670966
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Navy Yard Urns",
+        "date": 1872,
+        "info": "These ornamental bronze urns were cast at the Navy Yard in Washington, DC, using melted cannon from the Civil War."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03665852546692,
+          38.89903025672387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Navy Yard Urns",
+        "date": 1872,
+        "info": "These ornamental bronze urns were cast at the Navy Yard in Washington, DC, using melted cannon from the Civil War."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03642785549164,
+          38.899032344163125
         ]
       }
     }
