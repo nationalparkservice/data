@@ -232,7 +232,10 @@
         "marker-size": "medium",
         "marker-symbol": "monument",
         "name": "Bulfinch Gatehouse",
-        "image": "http://www.nps.gov/whho/images/Bullfinch-Gatehouse.jpg"
+        "image": "http://www.nps.gov/whho/images/Bullfinch-Gatehouse.jpg",
+        "architect": "Charles Bulfinch",
+        "date": 1828,
+        "info": "These sandstone guardians silently watched over the U.S. Capitol grounds until 1874. In 1880, the gatehouses were relocated to the Ellipse. The National Park Service restored the structures in the winter of 1938-39."
       },
       "geometry": {
         "type": "Point",
@@ -269,7 +272,10 @@
         "marker-size": "medium",
         "marker-symbol": "monument",
         "name": "Haupt Fountains",
-        "image": "http://www.nps.gov/whho/images/Haupt-Fountain.jpg"
+        "image": "http://www.nps.gov/whho/images/Haupt-Fountain.jpg",
+        "info": "These two granite fountains “frame the White House in water” when seen from the Washington Monument. They were a gift of publishing magnate Ms. Enid Haupt and were part of Lady Bird Johnson’s campaign  for a More Beautiful Capital. ",
+        "architect": "Nathaniel Owings",
+        "sculptor": "Gordon Newell"
       },
       "geometry": {
         "type": "Point",
