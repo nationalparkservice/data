@@ -1178,7 +1178,8 @@
         "marker-symbol": "monument",
         "name": "Navy Yard Urns",
         "date": 1872,
-        "info": "These ornamental bronze urns were cast at the Navy Yard in Washington, DC, using melted cannon from the Civil War."
+        "info": "These ornamental bronze urns were cast at the Navy Yard in Washington, DC, using melted cannon from the Civil War.",
+        "image": "https://www.nps.gov/whho/learn/historyculture/images/NavyYardUrnWest.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -1196,7 +1197,8 @@
         "marker-symbol": "monument",
         "name": "Navy Yard Urns",
         "date": 1872,
-        "info": "These ornamental bronze urns were cast at the Navy Yard in Washington, DC, using melted cannon from the Civil War."
+        "info": "These ornamental bronze urns were cast at the Navy Yard in Washington, DC, using melted cannon from the Civil War.",
+        "image": "https://www.nps.gov/whho/learn/historyculture/images/NavyYardUrnWest.jpg"
       },
       "geometry": {
         "type": "Point",
