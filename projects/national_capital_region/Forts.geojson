@@ -249,8 +249,7 @@
         "marker-size": "medium",
         "marker-symbol": "star",
         "name": "Fort Reno",
-        "url": "/places/fort-reno.htm",
-        "image": "/common/uploads/place/nri/20160603/places/EDEC251B-1DD8-B71B-0B5B3260642F04CF/EDEC251B-1DD8-B71B-0B5B3260642F04CF.jpg"
+        "url": "/places/fort-reno.htm"
       },
       "geometry": {
         "type": "Point",
