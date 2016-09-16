@@ -497,7 +497,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Segment 1": "Segment 1 Reconstruction"
+        "name": "Segment 1 Reconstruction"
       },
       "geometry": {
         "type": "Point",
