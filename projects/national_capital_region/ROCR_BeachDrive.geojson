@@ -7,7 +7,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "name": "Beach Drive"
+        "name": "Beach Drive",
+        "website": "https://www.nps.gov/rocr/learn/management/beach-drive-rehabilitation.htm"
       },
       "geometry": {
         "type": "LineString",
