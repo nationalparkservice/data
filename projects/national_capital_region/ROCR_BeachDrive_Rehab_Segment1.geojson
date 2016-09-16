@@ -494,9 +494,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "cross",
         "name": "Segment 1 Reconstruction"
       },
       "geometry": {
