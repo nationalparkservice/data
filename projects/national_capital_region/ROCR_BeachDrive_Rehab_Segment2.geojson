@@ -69,7 +69,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Segment 2 Reconstruction"
+        "name": "Segment 2"
       },
       "geometry": {
         "type": "Point",
