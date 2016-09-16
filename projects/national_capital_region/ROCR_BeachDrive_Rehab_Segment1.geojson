@@ -496,15 +496,15 @@
       "properties": {
         "marker-color": "#ff0000",
         "marker-size": "medium",
-        "marker-symbol": "cross",
+        "marker-symbol": "",
         "name": "Segment 1 Reconstruction",
         "info": "closing on or about September 22, 2016"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.05031633377075,
-          38.92169831546328
+          -77.0493882894516,
+          38.93232753965401
         ]
       }
     }
