@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#00ffff",
+        "stroke-width": 5,
         "stroke-opacity": 1,
         "name": "Segment 2"
       },
@@ -60,22 +60,6 @@
             -77.04967260360718,
             38.944215192999486
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#d39800",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Segment 2"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.05047190189362,
-          38.94180569457824
         ]
       }
     }
