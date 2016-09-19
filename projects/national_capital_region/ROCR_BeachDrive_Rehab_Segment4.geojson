@@ -4,10 +4,11 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
+        "stroke": "#000000",
         "stroke-width": 5,
         "stroke-opacity": 1,
-        "name": "Segment 4"
+        "name": "Segment 4",
+        "route": "Joyce Rd. to DC/MD border"
       },
       "geometry": {
         "type": "LineString",
