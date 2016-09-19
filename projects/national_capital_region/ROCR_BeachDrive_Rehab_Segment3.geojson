@@ -422,7 +422,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#d39800",
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Segment 3"
