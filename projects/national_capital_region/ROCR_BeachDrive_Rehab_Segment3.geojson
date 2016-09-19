@@ -418,22 +418,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#d39800",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Segment 3"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.04450130462645,
-          38.9520668775879
-        ]
-      }
     }
   ]
 }
