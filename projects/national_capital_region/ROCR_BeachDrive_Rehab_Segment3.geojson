@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#f1df01",
-        "stroke-width": 5,
+        "stroke-width": 10,
         "stroke-opacity": 1,
         "name": "Segment 3",
         "route": "Broad Branch Rd. to Joyce Rd."
