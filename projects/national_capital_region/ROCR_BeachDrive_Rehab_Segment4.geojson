@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke-width": 5,
         "stroke-opacity": 1,
         "name": "Segment 4"
       },
@@ -880,22 +880,6 @@
             -77.0531165599823,
             38.986292060659295
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#d39800",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Segment 4"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0403653383255,
-          38.97514754439093
         ]
       }
     }
