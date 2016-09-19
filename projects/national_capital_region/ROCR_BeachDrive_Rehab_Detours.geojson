@@ -992,7 +992,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "name ": "34th St."
+        "name": "34th St."
       },
       "geometry": {
         "type": "LineString",
