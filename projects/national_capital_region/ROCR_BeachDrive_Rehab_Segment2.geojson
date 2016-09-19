@@ -7,7 +7,8 @@
         "stroke": "#00ffff",
         "stroke-width": 5,
         "stroke-opacity": 1,
-        "name": "Segment 2"
+        "name": "Segment 2",
+        "route": "Tilden St. NW to Broad Branch Rd."
       },
       "geometry": {
         "type": "LineString",
