@@ -497,8 +497,8 @@
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Segment 1 Reconstruction",
-        "info": "closing on or about September 22, 2016"
+        "name": "Segment 1",
+        "info": "Closing on or about September 22, 2016"
       },
       "geometry": {
         "type": "Point",
