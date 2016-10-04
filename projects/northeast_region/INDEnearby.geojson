@@ -279,23 +279,6 @@
         "marker-color": "#bf0000",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "Gloria Dei (Old Swedes' Church)",
-        "url": "https://www.nps.gov/glde/index.htm"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.14604985713959,
-          39.93549010047946
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#bf0000",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
         "name": " National Constitution Center",
         "url": "http://constitutioncenter.org"
       },
@@ -440,6 +423,23 @@
         "coordinates": [
           -75.14740705490111,
           39.95330643331106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Gloria Dei (Old Swedes' Church)",
+        "url": "https://www.nps.gov/glde/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14347493648529,
+          39.93449879707172
         ]
       }
     }
