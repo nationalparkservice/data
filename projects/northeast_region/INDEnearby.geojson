@@ -1,0 +1,447 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "African American Museum in Philadelphia",
+        "url": "http://www.aampmuseum.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1517790555954,
+          39.95325708699676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "American Philosophical Society Museum",
+        "url": "http://www.apsmuseum.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14944553375244,
+          39.94863482437934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Arch Street Meeting House",
+        "url": "http://www.archstreetfriends.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14615178108215,
+          39.951891824849355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Athenaeum",
+        "url": "http://www.philaathenaeum.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15099048614502,
+          39.94687055103985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Benjamin Franklin National Memorial",
+        "url": "https://www.fi.edu/exhibit/benjamin-franklin-memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.17303824424744,
+          39.9582326611568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Betsy Ross House",
+        "url": "http://historicphiladelphia.org/betsy-ross-house/what-to-see/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14465510845184,
+          39.95226192872631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Carpenters’ Hall",
+        "url": "http://www.carpentershall.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14721393585205,
+          39.94813721342898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Chemical Heritage Foundation",
+        "url": "https://www.chemheritage.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14654338359833,
+          39.94886923489515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": " Christ Church",
+        "url": "http://www.christchurchphila.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14385044574738,
+          39.95072598454727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Christ Church Burial Ground (Ben Franklin's gravesite)",
+        "url": "http://www.christchurchphila.org/Historic-Christ-Church/Burial-Ground/59/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14836192131042,
+          39.95248399009123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "City Tavern",
+        "url": "https://www.citytavern.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14456123113632,
+          39.94712553041916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Edgar Allan Poe National Historic Site",
+        "url": "https://www.nps.gov/edal/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.149906873703,
+          39.96203400258598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Elfreth's Alley",
+        "url": "http://www.elfrethsalley.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14303505420683,
+          39.95284586632636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Federal Reserve Bank (Money in Motion exhibit)",
+        "url": "https://www.philadelphiafed.org/education/money-in-motion/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15020728111266,
+          39.952956896151015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Fireman's Hall",
+        "url": "http://www.firemanshallmuseum.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14288485050201,
+          39.95329820892781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Franklin Square",
+        "url": "http://historicphiladelphia.org/franklin-square/what-to-see/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15038967132568,
+          39.95566679043038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Gloria Dei (Old Swedes' Church)",
+        "url": "https://www.nps.gov/glde/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14604985713959,
+          39.93549010047946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": " National Constitution Center",
+        "url": "http://constitutioncenter.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14908075332642,
+          39.95350381821224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "National Liberty Museum",
+        "url": "http://www.libertymuseum.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14686793088913,
+          39.94891035946423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "National Museum of American Jewish History",
+        "url": "http://www.nmajh.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14846920967102,
+          39.9502016583568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Philadelphia History Museum at the Atwater Kent ",
+        "url": "http://www.philadelphiahistory.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15193462371826,
+          39.950238669749154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Physick House",
+        "url": "http://www.philalandmarks.org/physick-house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14840215444565,
+          39.944314535880125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": " Polish American Cultural Center",
+        "url": "http://www.polishamericancenter.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14691352844238,
+          39.947041222826314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Powel House",
+        "url": "http://www.philalandmarks.org/powel-house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14686256647109,
+          39.9457519205973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Thaddeus Kosciuszko National Memorial",
+        "url": "https://www.nps.gov/thko/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14742851257324,
+          39.94346936424416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#bf0000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "United States Mint",
+        "url": "https://www.usmint.gov/mint_tours/index3159.html?action=philadelphia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14740705490111,
+          39.95330643331106
+        ]
+      }
+    }
+  ]
+}
