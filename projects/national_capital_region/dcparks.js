@@ -33,6 +33,7 @@ NPMap = {
   homeControl: true,
   locateControl: true,
   geocoderControl: true,
+  fullscreenControl:true,
   maxBounds: [
     [
       38.02213147353745,
