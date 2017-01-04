@@ -1,0 +1,316 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Potomac Gorge",
+        "Theme": "Conservation, Planning, and Recreation",
+        "Description": "One of the goals of the creation of the Parkway was to preserve views of the Potomac Gorge.",
+        "Link_img": "Potomac-Gorge_1",
+        "Link_txt": "https://www.nps.gov/pohe/learn/nature/potomac-gorge-field-guide.htm",
+        "Link_web": "https://www.nps.gov/grfa/planyourvisit/upload/Potomac%20Gorge%20brochure%20B.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.10378885269165,
+          38.91865156180428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Roaches Run Wildlife Sanctuary",
+        "Theme": "Conservation, Planning, and Recreation",
+        "Description": "a wildlife sanctuary at Roaches Run, near National Airport, was recommended by the original designers of the highway.",
+        "Link_img": "Roaches-Run-1_2",
+        "Link_txt": "",
+        "Link_web": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04059600830078,
+          38.864723259000655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dyke Marsh Wildlife Preserve",
+        "Theme": "Conservation, Planning, and Recreation",
+        "Description": "The wildlife preserve at Dyke Marsh was a gravel quarry before the National Park Service acquired the land for the Parkway",
+        "Link_img": "Dyke_Marsh_2",
+        "Link_txt": "",
+        "Link_web": "https://www.nps.gov/gwmp/planyourvisit/dykemarsh.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04980134963989,
+          38.77036316125963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Riverside Park Picnic Area",
+        "Theme": "Conservation, Planning, and Recreation",
+        "Description": "This picnic area was part of the original design of the Mount Vernon Memorial Highway and was part of the recreational facilities designed by park planners",
+        "Link_img": "",
+        "Link_txt": "",
+        "Link_web": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0724606513977,
+          38.71093115370982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Carderock Pavillion",
+        "Theme": "Recreation and Mission 66",
+        "Description": "The Carderock Recreation Area was built under Mission 66, part of a major effort to upgrade the recreational facilities of the Parkway.",
+        "Link_img": "Carderock-Pavilion",
+        "Link_txt": "",
+        "Link_web": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.20025181770325,
+          38.97267236888399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fort Hunt Picnic Pavilion A",
+        "Theme": "Recreation and Mission 66",
+        "Description": "Fort Hunt Picnic Pavilion A was built under Mission 66, along with other improvements at Fort Hunt Park",
+        "Link_img": "Fort-Hunt-Pavilion_1",
+        "Link_txt": "",
+        "Link_web": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05012321472168,
+          38.71616335593364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mount Vernon Terminus",
+        "Theme": "Landscape Architecture",
+        "Description": "At the Mount Vernon terminus is a landscaped traffic circle with flanking parking areas screened by vegetation in accordance with the original design.",
+        "Link_img": "Mount-Vernon-Terminus_1",
+        "Link_txt": "",
+        "Link_web": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08617210388184,
+          38.71118230816674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "View of the Washington Monument from Monument View Hill",
+        "Theme": "Landscape Architecture",
+        "Description": "The allee of trees  and view of the Washington Monument from Monument View Hill, a view carefully laid out by the Parkway's designers",
+        "Link_img": "View-of-Washington-Monument_1",
+        "Link_txt": "",
+        "Link_web": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04456567764282,
+          38.816288208858765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Route 123 Intersection",
+        "Theme": "Landscape Architecture",
+        "Description": "The intersection was built in the late 1950s using advanced engineering approaches and a modernist approach to landscape plantings and design.",
+        "Link_img": "Rt-123-Intersection_1",
+        "Link_txt": "",
+        "Link_web": "",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.13352918624878,
+          38.93899972525118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Description": "The views and guidewalls by the Windy Run bridge are an example of the harmonious use of landscape architecture and engineering to preserve vistas and maintain safe traffic flow. Similar views and guidewalls can be found throughout the northern section of the parkway.",
+        "Name": "Views and Guidewalls, GWMP North",
+        "Theme": "Landscape Architecture",
+        "Link_img": "Views-and-Guardwalls_1",
+        "Link_txt": "",
+        "Link_web": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0961284637451,
+          38.906262865507145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Spout Run Arch Bridge",
+        "Theme": "Transportation and Engineering",
+        "Description": "The Spout Run Arch Bridge was built from 1958 to 1959 as a reinforced concrete rib-arch bridge, which has been called one of the most dramatic constructions on the GWMP. This bridge was also the first to break tradition with the rustic aesthetic used in previous GWMP bridges.",
+        "Link_img": "Spout-Run-Arch-Bridge_1",
+        "Link_txt": "",
+        "Link_web": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0834469795227,
+          38.90162907108983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Clara Barton Parkway Cantilevered Roadway",
+        "Theme": "Transportation and Engineering",
+        "Description": "The Clara Barton Parkway follows a narrow, steep-sided, rocky gorge that necessitated innovative parkway designs. Engineers and landscape architects used terraced retaining walls and a cantilevered roadway in order to fit the road between the base of the bluffs and the C&O Canal.",
+        "Link_img": "Clara-Barton-Cantilever_1",
+        "Link_txt": "",
+        "Link_web": "",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.12533235549927,
+          38.94854582585038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Navy - Merchant Marine Memorial",
+        "Theme": "Commemoration",
+        "Description": "The Navy-Merchant Marine Memorial, an aluminum sculpture depicting sea gulls flying over a curling wave, was designed to honor sailors lost at sea. Constructed in the 1920s, the memorial was not placed in its current location until 1934. ",
+        "Link_img": "Navy-Marine-Memorial_1",
+        "Link_txt": "",
+        "Link_web": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04719424247742,
+          38.876309021146604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Willow Oak Bicentennial Marker",
+        "Theme": "Commemoration",
+        "Description": "This marker was placed by the Society of Colonial Dames in a grove of willow oak trees they planted to commemorate the bicentennial of George Washington's birth",
+        "Link_img": "Willow-Oaks-Marker_1",
+        "Link_txt": "",
+        "Link_web": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04361081123352,
+          38.721169168498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lyndon Baines Johnson Memorial Grove on the Potomac ",
+        "Theme": "Commemoration",
+        "Description": "The Lyndon Baines Johnson Memorial Grove on the Potomac is a 17-acre landscape built in the 1970s as a tribute to our 36th president.",
+        "Link_img": "LBJ-Grove-Monolith_1",
+        "Link_txt": "",
+        "Link_web": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05132484436035,
+          38.878614253947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mount Vernon Memorial Highway Dedication Plaque",
+        "Theme": "Commemoration",
+        "Description": "This plaque marks the southern terminus of the Mount Vernon Memorial Highway and was unveiled as part of the dedication of the parkway in 1932. It is mounted on a large stone from the vicinity of Great Falls ",
+        "Link_img": "MVMH-plaque_1",
+        "Link_txt": "",
+        "Link_web": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08757758140564,
+          38.71163019809173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Name": "Patowmack Canal Locks",
+        "Theme": "George Washington and Patowmack Canal",
+        "Description": "The Canal and locks at Great Falls were built by the Pawtomack Company, an enterprise founded by George Washington, in 1785 to 1802 to carry out his visionary plan to create a water route from the east coast to the Ohio Valley.",
+        "Link_img": "Great-Falls-Lock_1",
+        "Link_txt": "",
+        "Link_web": "https://www.nps.gov/grfa/learn/historyculture/canal.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.25541949272156,
+          38.99930463348147
+        ]
+      }
+    }
+  ]
+}
