@@ -9,8 +9,8 @@
         "marker-symbol": "circle",
         "name": "Harriet Tubman Visitor Center and Tubman Home for the Aged",
         "description": "In 1896, Harriet Tubman purchased this 25 acre property which adjoined her residence. Here she established the Tubman Home for the Aged to provide for the elderly, one of the first such institutions for African-Americans.",
-        "URL": "www.harriethouse.org ",
-        "Image-URL": "https://flic.kr/p/Pbsb7A"
+        "URL": "www.harriethouse.org",
+        "Image-URL": "https://farm6.staticflickr.com/5641/30967039990_5dfd4b6cee_m_d.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -29,7 +29,7 @@
         "name": "Harriet Tubman Residence",
         "description": "Harriet Tubman purchased this seven acre property in 1859 from then Senator William Seward. Here she created a home for her parents and family and where she lived until her death in 1913.",
         "URL": "www.harriethouse.org",
-        "Image-URL": "https://flic.kr/p/PySPgB"
+        "Image-URL": "https://farm6.staticflickr.com/5811/31220810581_3083d35b08_m_d.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -47,8 +47,8 @@
         "marker-symbol": "circle",
         "name": "Harriet Tubman Gravesite at Fort Hill Cemetery",
         "description": "Harriet Tubman’s final resting place is marked by a towering spruce tree planted by her great niece and nephew. In 1937, The Empire State Federation of Women’s Clubs placed the granite marker visible today to replace an earlier one, which had fallen into disrepair.",
-        "URL": "www.forthillcemetery.net ",
-        "Image-URL": "https://flic.kr/p/PySPBg"
+        "URL": "www.forthillcemetery.net",
+        "Image-URL": "https://farm6.staticflickr.com/5520/31220811721_3ea789f4c7_m_d.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -66,8 +66,8 @@
         "marker-symbol": "circle",
         "name": "Thompson Memorial African Methodist Episcopal Zion Church ",
         "description": "Harriet Tubman raised funds for the building of this church, which opened its doors in 1891. Tubman was an active parishioner for over 20 years and her funeral was held here in 1913.",
-        "URL": "www.nps.gov/hart",
-        "Image-URL": "https://flic.kr/p/PbsbyN"
+        "URL": "https://www.nps.gov/hart/index.htm",
+        "Image-URL": "https://farm6.staticflickr.com/5452/30967041510_7bcddddfd8_m_d.jpg"
       },
       "geometry": {
         "type": "Point",
