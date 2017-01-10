@@ -57,6 +57,25 @@
           42.92258620833755
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Thompson Memorial African Methodist Episcopal Zion Church ",
+        "description": "Harriet Tubman raised funds for the building of this church, which opened its doors in 1891. Tubman was an active parishioner for over 20 years and her funeral was held here in 1913.",
+        "URL": "www.nps.gov/hart",
+        "Image URL": "https://flic.kr/p/PbsbyN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.576111,
+          42.923333
+        ]
+      }
     }
   ]
 }
