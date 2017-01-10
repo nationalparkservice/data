@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Harriet Tubman Visitor Center and Tubman Home for the Aged",
+        "description": "In 1896, Harriet Tubman purchased this 25 acre property which adjoined her residence. Here she established the Tubman Home for the Aged to provide for the elderly, one of the first such institutions for African-Americans.",
+        "URL": "www.harriethouse.org ",
+        "Image URL": "https://flic.kr/p/Pbsb7A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.562778,
+          42.911667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Harriet Tubman Residence",
+        "description": "Harriet Tubman purchased this seven acre property in 1859 from then Senator William Seward. Here she created a home for her parents and family and where she lived until her death in 1913.",
+        "URL": "www.harriethouse.org",
+        "Image URL": "https://flic.kr/p/PySPgB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.561667,
+          42.911111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Harriet Tubman Gravesite at Fort Hill Cemetery",
+        "description": "Harriet Tubman’s final resting place is marked by a towering spruce tree planted by her great niece and nephew. In 1937, The Empire State Federation of Women’s Clubs placed the granite marker visible today to replace an earlier one, which had fallen into disrepair.",
+        "URL": "www.forthillcemetery.net ",
+        "Image URL": "https://flic.kr/p/PySPBg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57082319259644,
+          42.92258620833755
+        ]
+      }
+    }
+  ]
+}
