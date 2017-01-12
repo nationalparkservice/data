@@ -11,7 +11,8 @@
         "park": "Jones Point Park - George Washington Memorial Parkway",
         "description": "On April 17, 1917, the United States Shipping Board created the Emergency Fleet Corporation. The Virginia Shipbuilding Corporation of Alexandria, VA took advantage of the lucrative contracts offered.",
         "image": "https://www.nps.gov/common/uploads/stories/images/nri/20161230/articles/283ACEB3-1DD8-B71B-0BD8982FF8DA3489/283ACEB3-1DD8-B71B-0BD8982FF8DA3489.jpg",
-        "url": "https://www.nps.gov/articles/virginia-shipbuilding-corporation.htm"
+        "url": "https://www.nps.gov/articles/virginia-shipbuilding-corporation.htm",
+        "parkurl": "https://www.nps.gov/gwmp/index.htm"
       },
       "geometry": {
         "type": "Point",
@@ -31,7 +32,8 @@
         "park": "Sagamore Hill National Historic Site",
         "description": "During the war years, Theodore Roosevelt advocated for direct U.S. involvement. His sons and daughters all found important roles, and made great sacrifices for the cause.",
         "image": "https://www.nps.gov/common/uploads/stories/images/nri/20161128/articles/BEACBCFC-1DD8-B71B-0B43D82CED62446B/BEACBCFC-1DD8-B71B-0B43D82CED62446B.jpg",
-        "url": "https://www.nps.gov/articles/the-bull-moose-in-winter-theodore-roosevelt-and-world-war-i.htm"
+        "url": "https://www.nps.gov/articles/the-bull-moose-in-winter-theodore-roosevelt-and-world-war-i.htm",
+        "parkurl": "https://www.nps.gov/sahi/index.htm"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +53,8 @@
         "park": "Eisenhower National Historic Site and Gettysburg National Military Park",
         "description": "On the same field where Pickett's Charge occurred 50 years earlier, Dwight Eisenhower trained troops in the new art of tank tactics.",
         "image": "https://www.nps.gov/common/uploads/stories/images/nri/20161221/articles/5F844CE4-1DD8-B71B-0B6B8DE4A1DF0F34/5F844CE4-1DD8-B71B-0B6B8DE4A1DF0F34.jpg",
-        "url": "https://www.nps.gov/articles/the-armys-first-tank-school-camp-colt-at-gettysburg.htm"
+        "url": "https://www.nps.gov/articles/the-armys-first-tank-school-camp-colt-at-gettysburg.htm",
+        "parkurl": "https://www.nps.gov/gett/index.htm"
       },
       "geometry": {
         "type": "Point",
@@ -69,9 +72,10 @@
         "marker-symbol": "",
         "name": "The Art of Camouflage",
         "park": "Saint-Gaudens National Historic Site",
-        "description": "Camouflage was first developed in France in 1914 by artist Lucien-Victor Guirand de Scévola and others. In the United States, this development took place a few years later, using the talents of the artists of the Cornish Colony in Cornish, New Hampshire, at the site of the present-day Saint-Gaudens National Historic Site.",
+        "description": "Camouflage was first developed in France in 1914 by artist Lucien-Victor Guirand de Scévola and others. n the United States, this development took place a few years later, using the talents of the artists of the Cornish Colony in Cornish, New Hampshire, at the site of the present-day Saint-Gaudens National Historic Site.",
         "image": "https://www.nps.gov/common/uploads/stories/images/nri/20161230/articles/2C247886-1DD8-B71B-0B58A40FD0245081/2C247886-1DD8-B71B-0B58A40FD0245081.jpg",
-        "url": "https://www.nps.gov/articles/the-war-of-deception.htm"
+        "url": "https://www.nps.gov/articles/the-war-of-deception.htm",
+        "parkurl": "https://www.nps.gov/saga/index.htm"
       },
       "geometry": {
         "type": "Point",
