@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#008000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "circle",
         "name": "Virginia Shipbuilding Corporation",
         "park": "Jones Point Park - George Washington Memorial Parkway",
         "description": "On April 17, 1917, the United States Shipping Board created the Emergency Fleet Corporation. The Virginia Shipbuilding Corporation of Alexandria, VA took advantage of the lucrative contracts offered.",
@@ -25,9 +25,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#008000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "circle",
         "name": "Theodore Roosevelt",
         "park": "Sagamore Hill National Historic Site",
         "description": "During the war years, Theodore Roosevelt advocated for direct U.S. involvement. His sons and daughters all found important roles, and made great sacrifices for the cause.",
@@ -46,9 +46,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#008000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "circle",
         "name": "Tank Training at Camp Colt",
         "park": "Eisenhower National Historic Site and Gettysburg National Military Park",
         "description": "On the same field where Pickett's Charge occurred 50 years earlier, Dwight Eisenhower trained troops in the new art of tank tactics.",
@@ -67,9 +67,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#008000",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "circle",
         "name": "The Art of Camouflage",
         "park": "Saint-Gaudens National Historic Site",
         "description": "Camouflage was first developed in France in 1914 by artist Lucien-Victor Guirand de Scévola and others. n the United States, this development took place a few years later, using the talents of the artists of the Cornish Colony in Cornish, New Hampshire, at the site of the present-day Saint-Gaudens National Historic Site.",
