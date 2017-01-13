@@ -54,7 +54,9 @@
         "description": "On the same field where Pickett's Charge occurred 50 years earlier, Dwight Eisenhower trained troops in the new art of tank tactics.",
         "image": "https://www.nps.gov/common/uploads/stories/images/nri/20161221/articles/5F844CE4-1DD8-B71B-0B6B8DE4A1DF0F34/5F844CE4-1DD8-B71B-0B6B8DE4A1DF0F34.jpg",
         "url": "https://www.nps.gov/articles/the-armys-first-tank-school-camp-colt-at-gettysburg.htm",
-        "parkurl": "https://www.nps.gov/gett/index.htm"
+        "parkurl": "https://www.nps.gov/gett/index.htm",
+        "park2": "Eisenhower National Historic Site",
+        "park2url": "https://www.nps.gov/eise/index.htm"
       },
       "geometry": {
         "type": "Point",
