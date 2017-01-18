@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Ticketed Area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.01747536659241,
+              38.888869962910924
+            ],
+            [
+              -77.01747536659241,
+              38.89054013362797
+            ],
+            [
+              -77.01531887054443,
+              38.89054013362797
+            ],
+            [
+              -77.01531887054443,
+              38.888869962910924
+            ],
+            [
+              -77.01747536659241,
+              38.888869962910924
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Ticketed Area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.01501846313477,
+              38.887659064585314
+            ],
+            [
+              -77.01501846313477,
+              38.89198479962257
+            ],
+            [
+              -77.00881719589233,
+              38.89198479962257
+            ],
+            [
+              -77.00881719589233,
+              38.887659064585314
+            ],
+            [
+              -77.01501846313477,
+              38.887659064585314
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "name": "Inauguration Stage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00989007949829,
+          38.88979691250822
+        ]
+      }
+    }
+  ]
+}
