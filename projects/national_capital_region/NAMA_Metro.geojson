@@ -9,7 +9,7 @@
         "marker-symbol": "rail-metro",
         "name": "Waterfront",
         "Green": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=83"
+        "url": ""
       },
       "geometry": {
         "type": "Point",
@@ -31,7 +31,7 @@
         "Blue": 1,
         "Orange": 1,
         "Silver": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=82"
+        "url": ""
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +51,7 @@
         "Blue": 1,
         "Orange": 1,
         "Silver": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=54",
+        "url": "",
         "Inaug": "1"
       },
       "geometry": {
@@ -72,7 +72,7 @@
         "Blue": 1,
         "Orange": 1,
         "Silver": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=54",
+        "url": "",
         "Inaug": "1"
       },
       "geometry": {
@@ -95,7 +95,7 @@
         "Silver": 1,
         "Green": 1,
         "Yellow": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=82"
+        "url": ""
       },
       "geometry": {
         "type": "Point",
@@ -115,7 +115,7 @@
         "Blue": 1,
         "Orange": 1,
         "Silver": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=53",
+        "url": "",
         "Inaug": "1"
       },
       "geometry": {
@@ -137,7 +137,7 @@
         "Orange": 1,
         "Silver": 1,
         "Red": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=1"
+        "url": ""
       },
       "geometry": {
         "type": "Point",
@@ -158,7 +158,7 @@
         "Orange": 1,
         "Silver": 1,
         "Red": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=1"
+        "url": ""
       },
       "geometry": {
         "type": "Point",
@@ -176,7 +176,7 @@
         "marker-symbol": "rail-metro",
         "name": "Arlington Cemetery",
         "Blue": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=42"
+        "url": ""
       },
       "geometry": {
         "type": "Point",
@@ -196,7 +196,7 @@
         "Blue": 1,
         "Orange": 1,
         "Silver": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=36"
+        "url": ""
       },
       "geometry": {
         "type": "Point",
@@ -216,7 +216,7 @@
         "Blue": 1,
         "Orange": 1,
         "Silver": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=38"
+        "url": ""
       },
       "geometry": {
         "type": "Point",
@@ -236,7 +236,7 @@
         "Blue": 1,
         "Orange": 1,
         "Silver": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=38"
+        "url": ""
       },
       "geometry": {
         "type": "Point",
@@ -254,7 +254,7 @@
         "marker-symbol": "rail-metro",
         "name": "Farragut North",
         "Red": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=4"
+        "url": ""
       },
       "geometry": {
         "type": "Point",
@@ -272,7 +272,7 @@
         "marker-symbol": "rail-metro",
         "name": "Farragut North",
         "Red": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=4"
+        "url": ""
       },
       "geometry": {
         "type": "Point",
@@ -292,7 +292,7 @@
         "Blue": 1,
         "Orange": 1,
         "Silver": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=40"
+        "url": ""
       },
       "geometry": {
         "type": "Point",
@@ -309,7 +309,7 @@
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "Archives - Navy Memorial - Penn Quarter",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=81",
+        "url": "",
         "Green": 1,
         "Yellow": 1,
         "Inaug": "1"
@@ -330,7 +330,7 @@
         "marker-symbol": "rail-metro",
         "name": "Navy Yard",
         "Green": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=84"
+        "url": ""
       },
       "geometry": {
         "type": "Point",
@@ -347,7 +347,7 @@
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "Federal Center SW",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=58",
+        "url": "",
         "Yellow": "",
         "Blue": 1,
         "Orange": 1,
@@ -367,7 +367,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=41",
+        "url": "",
         "name": "Rosslyn",
         "Green": "",
         "Yellow": "",
@@ -392,7 +392,7 @@
         "marker-symbol": "rail-metro",
         "name": "Pentagon",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=43",
+        "url": "",
         "Yellow": 1,
         "Blue": 1,
         "Orange": ""
@@ -412,7 +412,7 @@
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "Pentagon City",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=44",
+        "url": "",
         "Yellow": 1,
         "Blue": 1
       },
@@ -431,7 +431,7 @@
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "Crystal City",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=45",
+        "url": "",
         "Yellow": 1,
         "Blue": 1,
         "Orange": ""
@@ -452,7 +452,7 @@
         "marker-symbol": "rail-metro",
         "name": "Ronald Reagan Washington National Airport",
         "Yellow": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=93",
+        "url": "",
         "Blue": 1
       },
       "geometry": {
@@ -470,7 +470,7 @@
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "Braddock Road",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=47",
+        "url": "",
         "Yellow": 1,
         "Blue": 1
       },
@@ -489,7 +489,7 @@
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "King Street - Old Town",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=48",
+        "url": "",
         "Yellow": 1,
         "Blue": 1
       },
@@ -507,7 +507,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=49",
+        "url": "",
         "Yellow": 1,
         "name": "Eisenhower Ave.",
         "Green": ""
@@ -527,7 +527,7 @@
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "Yellow": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=50",
+        "url": "",
         "name": "Huntington"
       },
       "geometry": {
@@ -545,7 +545,7 @@
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": " Van Dorn Street",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=94",
+        "url": "",
         "Blue": 1,
         "Orange": ""
       },
@@ -563,7 +563,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=95",
+        "url": "",
         "name": "Franconia-Springfield",
         "Blue": 1,
         "Yellow": "",
@@ -586,7 +586,7 @@
         "marker-symbol": "rail-metro",
         "name": "Courthouse",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=96",
+        "url": "",
         "Yellow": "",
         "Blue": "",
         "Orange": 1,
@@ -608,7 +608,7 @@
         "marker-symbol": "rail-metro",
         "name": "Clarendon",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=97",
+        "url": "",
         "Orange": 1,
         "Silver": 1
       },
@@ -628,7 +628,7 @@
         "marker-symbol": "rail-metro",
         "name": "Virginia Square - GMU",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=98",
+        "url": "",
         "Yellow": "",
         "Blue": "",
         "Orange": 1,
@@ -648,7 +648,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=99",
+        "url": "",
         "name": "Ballston - MU",
         "Green": "",
         "Yellow": "",
@@ -671,7 +671,7 @@
         "marker-symbol": "rail-metro",
         "name": "East Falls Church",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=100",
+        "url": "",
         "Yellow": "",
         "Blue": "",
         "Orange": 1,
@@ -693,7 +693,7 @@
         "marker-symbol": "rail-metro",
         "name": "West Falls Church/UT/UVA",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=101",
+        "url": "",
         "Orange": 1,
         "Silver": "",
         "Red": "",
@@ -715,7 +715,7 @@
         "marker-symbol": "rail-metro",
         "name": "Dunn Loring - Merrifield",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=102",
+        "url": "",
         "Yellow": "",
         "Blue": "",
         "Orange": 1
@@ -734,7 +734,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=103",
+        "url": "",
         "name": "Vienna/Fairfax-GMU",
         "Green": "",
         "Yellow": "",
@@ -756,7 +756,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=111",
+        "url": "",
         "Green": "",
         "name": "McLean",
         "Yellow": "",
@@ -780,7 +780,7 @@
         "marker-symbol": "rail-metro",
         "name": "Tysons Corner",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=112",
+        "url": "",
         "Yellow": "",
         "Blue": "",
         "Orange": "",
@@ -802,7 +802,7 @@
         "marker-symbol": "rail-metro",
         "name": "Greensboro",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=113",
+        "url": "",
         "Yellow": "",
         "Silver": 1
       },
@@ -822,7 +822,7 @@
         "marker-symbol": "rail-metro",
         "name": "Spring Hill",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=114",
+        "url": "",
         "Yellow": "",
         "Blue": "",
         "Orange": "",
@@ -845,7 +845,7 @@
         "marker-symbol": "rail-metro",
         "name": "Wiehle Reston-East",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=115",
+        "url": "",
         "Blue": "",
         "Orange": "",
         "Silver": 1,
@@ -867,7 +867,7 @@
         "marker-symbol": "rail-metro",
         "name": "Anacostia",
         "Green": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=85",
+        "url": "",
         "Yellow": ""
       },
       "geometry": {
@@ -886,7 +886,7 @@
         "marker-symbol": "rail-metro",
         "name": "Congress Heights",
         "Green": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=86"
+        "url": ""
       },
       "geometry": {
         "type": "Point",
@@ -904,7 +904,7 @@
         "marker-symbol": "rail-metro",
         "name": "Southern Avenue",
         "Green": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=107"
+        "url": ""
       },
       "geometry": {
         "type": "Point",
@@ -922,7 +922,7 @@
         "marker-symbol": "rail-metro",
         "name": "Naylor Road",
         "Green": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=87"
+        "url": ""
       },
       "geometry": {
         "type": "Point",
@@ -940,7 +940,7 @@
         "marker-symbol": "rail-metro",
         "name": "Suitland",
         "Green": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=88",
+        "url": "",
         "Yellow": ""
       },
       "geometry": {
@@ -959,7 +959,7 @@
         "marker-symbol": "rail-metro",
         "name": "Branch Avenue",
         "Green": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=89",
+        "url": "",
         "Yellow": ""
       },
       "geometry": {
@@ -978,7 +978,7 @@
         "marker-symbol": "rail-metro",
         "name": "Capitol South",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=59",
+        "url": "",
         "Yellow": "",
         "Blue": 1,
         "Orange": 1,
@@ -1000,7 +1000,7 @@
         "marker-symbol": "rail-metro",
         "name": "Eastern Market",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=60",
+        "url": "",
         "Blue": 1,
         "Orange": 1,
         "Silver": 1
@@ -1021,7 +1021,7 @@
         "marker-symbol": "rail-metro",
         "name": "Potomac Ave",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=61",
+        "url": "",
         "Blue": 1,
         "Orange": 1,
         "Silver": 1,
@@ -1047,7 +1047,7 @@
         "Silver": 1,
         "name": "Stadium-Armory",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=63"
+        "url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1065,7 +1065,7 @@
         "marker-symbol": "rail-metro",
         "name": "Benning Road",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=90",
+        "url": "",
         "Blue": 1,
         "Silver": 1
       },
@@ -1085,7 +1085,7 @@
         "marker-symbol": "rail-metro",
         "name": "Capitol Heights",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=91",
+        "url": "",
         "Yellow": "",
         "Blue": 1,
         "Orange": "",
@@ -1108,7 +1108,7 @@
         "marker-symbol": "rail-metro",
         "name": "Addison Road - Seat Pleasant",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=92",
+        "url": "",
         "Yellow": "",
         "Blue": 1,
         "Orange": "",
@@ -1130,7 +1130,7 @@
         "marker-symbol": "rail-metro",
         "name": "Morgan Blvd",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=110",
+        "url": "",
         "Blue": 1,
         "Orange": "",
         "Silver": 1
@@ -1151,7 +1151,7 @@
         "marker-symbol": "rail-metro",
         "name": "Largo Town Center",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=109",
+        "url": "",
         "Yellow": "",
         "Blue": 1,
         "Orange": "",
@@ -1174,7 +1174,7 @@
         "marker-symbol": "rail-metro",
         "name": "Minnesota Ave",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=64",
+        "url": "",
         "Orange": 1,
         "Blue": ""
       },
@@ -1193,7 +1193,7 @@
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "Deanwood",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=65",
+        "url": "",
         "Orange": 1,
         "Silver": ""
       },
@@ -1213,7 +1213,7 @@
         "marker-symbol": "rail-metro",
         "name": "Cheverly",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=66",
+        "url": "",
         "Orange": 1
       },
       "geometry": {
@@ -1231,7 +1231,7 @@
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "Landover",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=67",
+        "url": "",
         "Yellow": "",
         "Blue": "",
         "Orange": 1
@@ -1250,7 +1250,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=68",
+        "url": "",
         "name": "New Carrollton",
         "Orange": 1
       },
@@ -1270,7 +1270,7 @@
         "marker-symbol": "rail-metro",
         "name": "Gallery Place - Chinatown",
         "Green": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=21",
+        "url": "",
         "Yellow": 1,
         "Blue": "",
         "Red": 1
@@ -1291,7 +1291,7 @@
         "marker-symbol": "rail-metro",
         "name": "Mt. Vernon Sq - 7th St - Convention Center",
         "Green": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=70",
+        "url": "",
         "Yellow": 1
       },
       "geometry": {
@@ -1310,7 +1310,7 @@
         "marker-symbol": "rail-metro",
         "name": "Shaw - Howard U",
         "Green": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=72",
+        "url": "",
         "Yellow": 1
       },
       "geometry": {
@@ -1329,7 +1329,7 @@
         "marker-symbol": "rail-metro",
         "name": "U St - African-Amer Civil War Mem'l - Cardozo",
         "Green": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=73",
+        "url": "",
         "Yellow": 1
       },
       "geometry": {
@@ -1348,7 +1348,7 @@
         "marker-symbol": "rail-metro",
         "name": "Columbia Heights",
         "Green": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=75",
+        "url": "",
         "Yellow": 1,
         "Blue": ""
       },
@@ -1368,7 +1368,7 @@
         "marker-symbol": "rail-metro",
         "name": "Georgia Ave - Petworth",
         "Green": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=76",
+        "url": "",
         "Yellow": 1
       },
       "geometry": {
@@ -1387,7 +1387,7 @@
         "marker-symbol": "rail-metro",
         "name": "Fort Totten",
         "Green": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=28",
+        "url": "",
         "Yellow": 1,
         "Blue": "",
         "Orange": "",
@@ -1410,7 +1410,7 @@
         "marker-symbol": "rail-metro",
         "name": "West Hyattsville",
         "Green": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=77"
+        "url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1428,7 +1428,7 @@
         "marker-symbol": "rail-metro",
         "name": "Prince George's Plaza",
         "Green": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=78"
+        "url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1446,7 +1446,7 @@
         "marker-symbol": "rail-metro",
         "name": "College Park - U of MD",
         "Green": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=79",
+        "url": "",
         "Red": ""
       },
       "geometry": {
@@ -1465,7 +1465,7 @@
         "marker-symbol": "rail-metro",
         "name": "Greenbelt",
         "Green": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=80"
+        "url": ""
       },
       "geometry": {
         "type": "Point",
@@ -1483,7 +1483,7 @@
         "marker-symbol": "rail-metro",
         "name": "Dupont Circle",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=6",
+        "url": "",
         "Red": 1
       },
       "geometry": {
@@ -1501,7 +1501,7 @@
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "Woodley Park - Zoo/Adams Morgan",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=7",
+        "url": "",
         "Red": 1
       },
       "geometry": {
@@ -1520,7 +1520,7 @@
         "marker-symbol": "rail-metro",
         "name": "Cleveland Park",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=8",
+        "url": "",
         "Red": 1
       },
       "geometry": {
@@ -1538,7 +1538,7 @@
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "Van Ness-UDC",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=9",
+        "url": "",
         "Yellow": "",
         "Blue": "",
         "Orange": "",
@@ -1561,7 +1561,7 @@
         "marker-symbol": "rail-metro",
         "name": "Tenleytown-AU",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=10",
+        "url": "",
         "Yellow": "",
         "Blue": "",
         "Orange": "",
@@ -1584,7 +1584,7 @@
         "marker-symbol": "rail-metro",
         "name": "Friendship Heights",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=11",
+        "url": "",
         "Red": 1
       },
       "geometry": {
@@ -1603,7 +1603,7 @@
         "marker-symbol": "rail-metro",
         "name": "Bethesda",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=12",
+        "url": "",
         "Yellow": "",
         "Blue": "",
         "Orange": "",
@@ -1626,7 +1626,7 @@
         "marker-symbol": "rail-metro",
         "name": "Medical Center",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=13",
+        "url": "",
         "Yellow": "",
         "Blue": "",
         "Orange": "",
@@ -1648,7 +1648,7 @@
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "Grosvenor-Strathmore",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=14",
+        "url": "",
         "Red": 1
       },
       "geometry": {
@@ -1666,7 +1666,7 @@
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "White Flint",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=15",
+        "url": "",
         "Red": 1
       },
       "geometry": {
@@ -1685,7 +1685,7 @@
         "marker-symbol": "rail-metro",
         "name": "Twinbrook",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=16",
+        "url": "",
         "Yellow": "",
         "Blue": "",
         "Orange": "",
@@ -1708,7 +1708,7 @@
         "marker-symbol": "rail-metro",
         "name": "Rockville",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=17",
+        "url": "",
         "Yellow": "",
         "Blue": "",
         "Orange": "",
@@ -1730,7 +1730,7 @@
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "Shady Grove",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=18",
+        "url": "",
         "Red": 1
       },
       "geometry": {
@@ -1748,7 +1748,7 @@
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "Judiciary Square",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=23",
+        "url": "",
         "Red": 1
       },
       "geometry": {
@@ -1765,7 +1765,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=23",
+        "url": "",
         "name": "Judiciary Square",
         "Red": 1,
         "Orange": ""
@@ -1785,8 +1785,10 @@
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "Gallery Place - Chinatown",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=21",
-        "Red": 1
+        "url": "",
+        "Red": 1,
+        "Yellow": 1,
+        "Green": 1
       },
       "geometry": {
         "type": "Point",
@@ -1804,7 +1806,7 @@
         "marker-symbol": "rail-metro",
         "name": "Union Station",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=25",
+        "url": "",
         "Red": 1
       },
       "geometry": {
@@ -1823,7 +1825,7 @@
         "marker-symbol": "rail-metro",
         "name": "NoMa-Gallaudet U",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=108",
+        "url": "",
         "Yellow": "",
         "Red": 1
       },
@@ -1843,7 +1845,7 @@
         "marker-symbol": "rail-metro",
         "name": "Rhode Island Ave - Brentwood",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=26",
+        "url": "",
         "Yellow": "",
         "Blue": "",
         "Orange": "",
@@ -1865,7 +1867,7 @@
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "Brookland-CUA",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=27",
+        "url": "",
         "Red": 1
       },
       "geometry": {
@@ -1884,7 +1886,7 @@
         "marker-symbol": "rail-metro",
         "name": "Takoma",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=29",
+        "url": "",
         "Yellow": "",
         "Blue": "",
         "Orange": "",
@@ -1907,7 +1909,7 @@
         "marker-symbol": "rail-metro",
         "name": "Silver Spring",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=31",
+        "url": "",
         "Yellow": "",
         "Blue": "",
         "Red": 1
@@ -1928,7 +1930,7 @@
         "marker-symbol": "rail-metro",
         "name": "Forest Glen",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=32",
+        "url": "",
         "Red": 1
       },
       "geometry": {
@@ -1947,7 +1949,7 @@
         "marker-symbol": "rail-metro",
         "name": "Wheaton",
         "Green": "",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=33",
+        "url": "",
         "Yellow": "",
         "Blue": "",
         "Orange": "",
@@ -1969,7 +1971,7 @@
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "Glenmont",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=34",
+        "url": "",
         "Red": 1,
         "Silver": ""
       },
@@ -1988,7 +1990,7 @@
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "U St - African-Amer Civil War Mem'l - Cardozo",
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=73",
+        "url": "",
         "Green": 1,
         "Yellow": 1
       },
