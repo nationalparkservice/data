@@ -52,7 +52,7 @@
         "Orange": 1,
         "Silver": 1,
         "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=54",
-        "Inauguration": "Closed January 20"
+        "Inaug": "1"
       },
       "geometry": {
         "type": "Point",
@@ -73,7 +73,7 @@
         "Orange": 1,
         "Silver": 1,
         "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=54",
-        "Inauguration": "Closed January 20"
+        "Inaug": "1"
       },
       "geometry": {
         "type": "Point",
@@ -116,7 +116,7 @@
         "Orange": 1,
         "Silver": 1,
         "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=53",
-        "Inauguration": "Closed January 20"
+        "Inaug": "1"
       },
       "geometry": {
         "type": "Point",
@@ -312,7 +312,7 @@
         "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=81",
         "Green": 1,
         "Yellow": 1,
-        "Inauguration": "Closed January 20"
+        "Inaug": "1"
       },
       "geometry": {
         "type": "Point",
