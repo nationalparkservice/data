@@ -51,7 +51,8 @@
         "Blue": 1,
         "Orange": 1,
         "Silver": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=54"
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=54",
+        "Inauguration": "Closed January 20"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +72,8 @@
         "Blue": 1,
         "Orange": 1,
         "Silver": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=54"
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=54",
+        "inauguration": "Closed January 20"
       },
       "geometry": {
         "type": "Point",
@@ -113,7 +115,8 @@
         "Blue": 1,
         "Orange": 1,
         "Silver": 1,
-        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=53"
+        "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=53",
+        "Inauguration": "Closed January 20"
       },
       "geometry": {
         "type": "Point",
@@ -308,7 +311,8 @@
         "name": "Archives - Navy Memorial - Penn Quarter",
         "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=81",
         "Green": 1,
-        "Yellow": 1
+        "Yellow": 1,
+        "Inauguration": "Closed January 20"
       },
       "geometry": {
         "type": "Point",
