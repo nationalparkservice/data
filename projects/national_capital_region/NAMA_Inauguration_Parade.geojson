@@ -7,8 +7,7 @@
         "stroke": "#ffff00",
         "stroke-width": 5,
         "stroke-opacity": 1,
-        "name": "Parade Route",
-        "details": "11:45 a.m. - 2:00 p.m."
+        "name": "Parade Route"
       },
       "geometry": {
         "type": "LineString",
@@ -65,6 +64,198 @@
             -77.03939437866211,
             38.89877350122629
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "entrance",
+        "name": "Parade Route Entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03197002410889,
+          38.896243470582405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "entrance",
+        "name": "Parade Route Entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03197002410889,
+          38.89373840094372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "entrance",
+        "marker-size": "medium",
+        "marker-color": "#ffff00",
+        "name": "Parade Route Entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02965259552002,
+          38.89628522099442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "entrance",
+        "marker-size": "medium",
+        "marker-color": "#ffff00",
+        "name": "Parade Route Entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02809691429138,
+          38.89608481879282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "entrance",
+        "marker-size": "medium",
+        "marker-color": "#ffff00",
+        "name": "Parade Route Entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0259940624237,
+          38.89611821919904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "entrance",
+        "marker-size": "medium",
+        "marker-color": "#ffff00",
+        "name": "Parade Route Entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0259940624237,
+          38.89231047171305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "entrance",
+        "marker-size": "medium",
+        "marker-color": "#ffff00",
+        "name": "Parade Route Entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02191710472107,
+          38.892318822259845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "entrance",
+        "marker-size": "medium",
+        "marker-color": "#ffff00",
+        "name": "Parade Route Entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02194929122925,
+          38.89464023619277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "entrance",
+        "marker-size": "medium",
+        "marker-color": "#ffff00",
+        "name": "Parade Route Entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02024340629578,
+          38.894314574784936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "entrance",
+        "marker-size": "medium",
+        "marker-color": "#ffff00",
+        "name": "Parade Route Entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02101588249207,
+          38.892068305429156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "entrance",
+        "marker-size": "medium",
+        "marker-color": "#ffff00",
+        "name": "Parade Route Entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01756119728088,
+          38.893571393159455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "entrance",
+        "marker-size": "medium",
+        "marker-color": "#ffff00",
+        "name": "Parade Route Entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01362371444702,
+          38.89294511047088
         ]
       }
     }
