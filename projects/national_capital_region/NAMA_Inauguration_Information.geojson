@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#620000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03744173049927,
+          38.8885943809683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#620000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03429818153381,
+          38.891224892271005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#620000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02743172645569,
+          38.88897017426134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#620000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02322602272034,
+          38.889254105653166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#620000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02104806900024,
+          38.889947227519315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#620000",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01942801475525,
+          38.88931256197531
+        ]
+      }
+    }
+  ]
+}
