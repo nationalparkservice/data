@@ -80,7 +80,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "star",
         "name": "Inauguration Stage"
