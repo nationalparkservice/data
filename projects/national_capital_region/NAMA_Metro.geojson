@@ -73,7 +73,7 @@
         "Orange": 1,
         "Silver": 1,
         "url": "http://www.wmata.com/rail/station_detail.cfm?station_id=54",
-        "inauguration": "Closed January 20"
+        "Inauguration": "Closed January 20"
       },
       "geometry": {
         "type": "Point",
