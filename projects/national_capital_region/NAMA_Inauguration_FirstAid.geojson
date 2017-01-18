@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "hospital",
+        "name": "First Aid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03725934028625,
+          38.88826034081662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "hospital",
+        "name": "First Aid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03375101089478,
+          38.89118313888421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "hospital",
+        "name": "First Aid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02800035476685,
+          38.88891171765745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "hospital",
+        "name": "First Aid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02596187591553,
+          38.88988042088698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "hospital",
+        "name": "First Aid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0236873626709,
+          38.889262456559266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "hospital",
+        "name": "First Aid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0214557647705,
+          38.88993052586711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "hospital",
+        "name": "First Aid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01986789703369,
+          38.889279158368545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "hospital",
+        "name": "First Aid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01735734939575,
+          38.889847017547254
+        ]
+      }
+    }
+  ]
+}
