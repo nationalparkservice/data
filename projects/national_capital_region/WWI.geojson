@@ -86,6 +86,27 @@
           43.49651091919527
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "National Woman's Party Protests",
+        "park": "Belmont-Paul Women's Equality National Monument",
+        "description": "“When men are denied justice, they go to war. This is our war, only we are fighting it with banners instead of guns.” -Alice Paul",
+        "image": "https://www.nps.gov/articles/images/SuffragePicketing1az_1.jpg",
+        "url": "https://www.nps.gov/articles/national-womans-party-protests-world-war-i.htm",
+        "parkurl": "https://www.nps.gov/bepa/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00377464294434,
+          38.892277069516105
+        ]
+      }
     }
   ]
 }
