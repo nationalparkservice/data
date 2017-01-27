@@ -107,6 +107,50 @@
           38.892277069516105
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Bonus Expeditionary Forces March on Washington",
+        "park": "Anacostia Park",
+        "description": "In the depths of the Great Depression, a dramatic showdown between jobless WWI veterans, lawmakers, the police, and the Army played out in Washington, DC.",
+        "image": "http://cms.nps.doi.net/common/uploads/articles/images/nri/20170127/articles/C674D83B-1DD8-B71B-0BA2C550DA2F6C87/C674D83B-1DD8-B71B-0BA2C550DA2F6C87.jpg",
+        "url": "https://www.nps.gov/articles/bonus-expeditionary-forces-march-on-washington.htm",
+        "parkurl": "https://www.nps.gov/anac/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99441909790039,
+          38.86667801891811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Franklin Delano Roosevelt - Assistant Secretary of the Navy",
+        "park": "Franklin Delano Roosevelt Memorial",
+        "description": "From the start, FDR worked to prepare the navy for the coming war, and was troubled that others did not see it his way.",
+        "image": "https://www.nps.gov/articles/images/19466r.jpg",
+        "url": "https://www.nps.gov/articles/franklin-delano-roosevelt-assistant-secretary-of-the-navy.htm",
+        "parkurl": "https://www.nps.gov/frde/index.htm",
+        "park2": "Home Of Franklin D Roosevelt National Historic Site",
+        "park2url": "https://www.nps.gov/hofr/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03868627548218,
+          38.897512672139555
+        ]
+      }
     }
   ]
 }
