@@ -117,7 +117,7 @@
         "name": "Bonus Expeditionary Forces March on Washington",
         "park": "Anacostia Park",
         "description": "In the depths of the Great Depression, a dramatic showdown between jobless WWI veterans, lawmakers, the police, and the Army played out in Washington, DC.",
-        "image": "http://cms.nps.doi.net/common/uploads/articles/images/nri/20170127/articles/C674D83B-1DD8-B71B-0BA2C550DA2F6C87/C674D83B-1DD8-B71B-0BA2C550DA2F6C87.jpg",
+        "image": "https://www.nps.gov/articles/images/36887u.jpg",
         "url": "https://www.nps.gov/articles/bonus-expeditionary-forces-march-on-washington.htm",
         "parkurl": "https://www.nps.gov/anac/index.htm"
       },
@@ -149,6 +149,27 @@
         "coordinates": [
           -77.03868627548218,
           38.897512672139555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Charlestown Navy Yard",
+        "park": "Boston National Historical Park",
+        "image": "https://www.nps.gov/bost/learn/historyculture/images/8756-2263.jpg",
+        "description": "Thousands of workers built, repaired, and refitted naval vessels,  and it was the assembly point for destroyers heading out to sea at the outbreak of war.",
+        "url": "https://www.nps.gov/articles/bny_wwi.htm",
+        "parkurl": "https://www.nps.gov/bost/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05499982833862,
+          42.373098037205615
         ]
       }
     }
