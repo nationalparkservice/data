@@ -172,6 +172,28 @@
           42.373098037205615
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Training for Trench Warfare",
+        "park": "Petersburg National Battlefield",
+        "description": "The brutality of trench warfare in the Civil War was but a tiny preview of the horrors to come in World War I, just fifty years later.",
+        "image": "https://www.nps.gov/articles/images/An-instructor-inspects-the-revetments-for-the-trench-wall_National-Archives-RG-77.jpg",
+        "url": "https://www.nps.gov/articles/training-for-trench-warfare.htm",
+        "parkurl": "https://www.nps.gov/pete/index.htm",
+        "park2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.33147621154785,
+          37.23623949953991
+        ]
+      }
     }
   ]
 }
