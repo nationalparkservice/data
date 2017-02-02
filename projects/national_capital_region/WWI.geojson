@@ -28,7 +28,7 @@
         "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "Theodore Roosevelt",
+        "name": "The Bull Moose in Winter: Theodore Roosevelt and World War I",
         "park": "Sagamore Hill National Historic Site",
         "description": "During the war years, Theodore Roosevelt advocated for direct U.S. involvement. His sons and daughters all found important roles, and made great sacrifices for the cause.",
         "image": "https://www.nps.gov/common/uploads/stories/images/nri/20161128/articles/BEACBCFC-1DD8-B71B-0B43D82CED62446B/BEACBCFC-1DD8-B71B-0B43D82CED62446B.jpg",
@@ -256,6 +256,48 @@
         "coordinates": [
           -73.8792371749878,
           40.565361603788865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "The Statue of Liberty in Recruitment and War Bonds Posters",
+        "url": "https://www.nps.gov/articles/statue-of-liberty-and-war-bonds.htm",
+        "park": "Statue of Liberty National Monument",
+        "description": "When the US entered into World War I, the government was faced with the dilemma of converting and funding a standing army to armed forces. The solution enacted were propaganda campaigns with intense recruiting and fundraising appeals that employed the Statue of Liberty as the symbol of American freedom. The Statue appeared in poster images with banner logos designed to appeal to the public’s sense of nationalism, competition, guilt, fear, revenge and social standing.",
+        "image": "https://www.nps.gov/articles/images/STLI4.jpg",
+        "parkurl": "https://www.nps.gov/stli/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04458999633789,
+          40.689221229767504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://www.nps.gov/articles/closing-the-door-on-immigration.htm",
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Closing the Door on Immigration",
+        "image": "https://www.nps.gov/articles/images/Quota-Cartoon.jpg",
+        "park": "Ellis Island - Part of Statue of Liberty National Monument",
+        "description": "US participation in World War I fanned the flames of anti-immigrant sentiment, despite the fact that many immigrants served with distinction in the US military.",
+        "parkurl": "https://www.nps.gov/elis/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04074907302856,
+          40.6986492769344
         ]
       }
     }
