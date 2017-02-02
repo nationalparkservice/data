@@ -194,6 +194,70 @@
           37.23623949953991
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Coastal Defense: Fort Hancock during World War I",
+        "park": "Gateway National Recreation Area",
+        "description": "When the US declared war on Germany in 1917, coastal fortifications like Fort Hancock quickly sprung into action to defend the nation against possible threats. The fort activated from a sleepy post to a center of wartime mobilization in a matter of months.",
+        "image": "https://www.nps.gov/articles/images/Fort-Hancock-Image.jpg",
+        "url": "https://www.nps.gov/articles/fort-hancock-wwi.htm",
+        "parkurl": "https://www.nps.gov/gate/index.htm",
+        "park2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00326251983643,
+          40.46399283130986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parkurl": "https://www.nps.gov/fova/index.htm",
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "The DH-4 Liberty Plane at War and in Peace",
+        "park": "Fort Vancouver National Historic Site",
+        "description": "The DH-4 Liberty plane, manufactured from Sitka spruce logged from the forests of the Pacific Northwest, played a significant role both in battle and after the war.",
+        "image": "https://www.nps.gov/articles/images/Page-32.JPG",
+        "url": "https://www.nps.gov/articles/libertyplane.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65658140182494,
+          45.626186196411055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "marker-color": "#008000",
+        "name": "Innovative Defenses at Fort Tilden and Rockaway Naval Air Station during WWI",
+        "description": "Part of a larger coastal defense system dating to the 18th century, Fort Tilden and Rockaway Naval Air Station helped protect the homeland during World War I against some of the most advanced weapons systems of the time.",
+        "park": "Gateway National Recreation Area",
+        "image": "https://www.nps.gov/articles/images/NAS_Rockaway_1917_NAN12-67.jpg",
+        "url": "https://www.nps.gov/articles/fort-tilden-and-nas-rockaway-wwi.htm",
+        "parkurl": "https://www.nps.gov/gate/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8792371749878,
+          40.565361603788865
+        ]
+      }
     }
   ]
 }
