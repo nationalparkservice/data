@@ -296,8 +296,137 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.04074907302856,
-          40.6986492769344
+          -74.03851747512817,
+          40.699243060955304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "park": "Ellis Island - Part of Statue of Liberty National Monument",
+        "name": "Immigrants in the Military during WWI",
+        "description": "Many of the immigrants who entered the United States in the Ellis Island era found themselves serving in the military during the First World War.",
+        "image": "https://www.nps.gov/articles/images/ELIS-Italian-Soldier.jpg",
+        "url": "https://www.nps.gov/articles/immigrants-in-the-military-during-wwi.htm",
+        "parkurl": "https://www.nps.gov/elis/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04247641563416,
+          40.69790093884909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Immigration and the Great War",
+        "park": "Ellis Island - Part of Statue of Liberty National Monument",
+        "description": " During the decade leading up to the war, an average of 1 million immigrants per year arrived in the United States, with about three-quarters of them entering through the Ellis Island immigration station in New York Harbor. By 1918, a trickle of only 110,618 people were arriving in the United States.",
+        "image": "https://www.nps.gov/articles/images/ELIS-immigrant-propaganda.jpg",
+        "url": "https://www.nps.gov/articles/immigration-and-the-great-war.htm",
+        "parkurl": "https://www.nps.gov/elis/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04142498970032,
+          40.69984497360184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "The War in Popular Music: Irving Berlin",
+        "park": "Ellis Island - Part of Statue of Liberty National Monument",
+        "description": "One of Ellis Island’s most famous immigrants provided the soundtrack to America’s participation in the First World War. Irving Berlin, a popular songwriter, produced patriotic popular music to inspire soldiers and to divert those who needed a break from wartime concerns.",
+        "image": "https://www.nps.gov/articles/images/Irving-Berlin.jpg",
+        "url": "https://www.nps.gov/articles/irving-berlin-wwi.htm",
+        "parkurl": "https://www.nps.gov/elis/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04047012329102,
+          40.69765691374283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Departing and Arriving US Soldiers View the Statue of Liberty",
+        "park": "Statue Of Liberty National Monument",
+        "description": "For some US soldiers shipping off overseas, the journey to the European battle fields began with departure from the port of Hoboken, New Jersey, into New York Harbor past the Statue of Liberty.",
+        "image": "https://www.nps.gov/articles/images/STLI-Soldiers.jpg",
+        "url": "https://www.nps.gov/articles/statue-of-liberty-and-wwi-soldiers.htm",
+        "parkurl": "https://www.nps.gov/stli/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0420150756836,
+          40.687325697706626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Domestic Sabotage: The Explosion at Black Tom Island",
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "park": "Ellis Island - Part of Statue of Liberty National Monument",
+        "description": "In the early morning hours of July 30, 1916, a munitions depot located on Black Tom Island, in Jersey City, NJ, was deliberately sabotaged to prevent supplies from being delivered to Britain and France during World War I. Although this is the closest some would come to combat during the war, the attack rattled at America’s golden door.",
+        "image": "https://www.nps.gov/articles/images/Black-Tom.jpg",
+        "url": "https://www.nps.gov/articles/black-tom-wwi.htm",
+        "parkurl": "https://www.nps.gov/stli/index.htm",
+        "park2": "Ellis Island Part of Statue of Liberty National Monument",
+        "park2url": "https://www.nps.gov/elis/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.05656337738037,
+          40.69625781921317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Keweenaw Copper at War",
+        "park": "Keweenaw National Historical Park",
+        "description": "As World War I entered its second year, the American Institute of Metals trade journal blithely remarked that “[i]t is almost impossible to kill a man in an up-to-date and scientific way without using copper.\"",
+        "image": "https://www.nps.gov/articles/images/KHSC-Keystone-22034-Miner-Drilling-Copper-Rock-with-Leyner-Machine-Calumet-Hecla-Mines-ca.jpg",
+        "url": "https://www.nps.gov/articles/keweenaw-copper-at-war.htm",
+        "parkurl": "https://www.nps.gov/kewe/",
+        "park2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4508204460144,
+          47.241890550809025
         ]
       }
     }
