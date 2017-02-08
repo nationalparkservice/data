@@ -429,6 +429,28 @@
           47.241890550809025
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "The Emergence Of The Great Humanitarian",
+        "park": "Herbert Hoover National Historic Site",
+        "description": "Herbert Hoover grew up in a Quaker family and community that valued peace, simplicity, integrity, and service to others. That Herbert Hoover took these beliefs to heart became evident when he emerged from the ghastly carnage of the First World War an American and international hero.",
+        "image": "https://www.nps.gov/heho/learn/historyculture/images/heho_hh_poland_1919.jpg",
+        "url": "https://www.nps.gov/articles/emergence-of-the-great-humanitarian.htm",
+        "parkurl": "https://www.nps.gov/heho/",
+        "park2": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.35196208953857,
+          41.66797504816516
+        ]
+      }
     }
   ]
 }
