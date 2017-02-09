@@ -451,6 +451,48 @@
           41.66797504816516
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "The Spruce Production Division",
+        "park": "Fort Vancouver National Historic Site",
+        "description": "From 1917 to 1918, the nationalization of the lumber industry in the Pacific Northwest led to the creation of the Spruce Production Division. This massive war effort employed tens of thousands of soldiers and produced millions of board feet of lumber for the manufacture of airplanes.",
+        "image": "https://www.nps.gov/articles/images/Copy-of-page-29.jpg",
+        "url": "https://www.nps.gov/articles/spruceproductiondivision.htm",
+        "parkurl": "https://www.nps.gov/fova/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66042232513428,
+          45.628894738920266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Preparing For the Great War at Chickamauga Battlefield",
+        "park": "Chickamauga & Chattanooga National Military Park",
+        "description": "Beginning in the summer of 1917, the War Department utilized Chickamauga and Chattanooga National Military Park as a training ground for thousands of soldiers preparing to go to France. By the end of the war, six miles of training trenches crisscrossed the battlefield and 60,000 men had trained as officers, engineers, and medical personnel.",
+        "image": "https://www.nps.gov/chch/learn/historyculture/images/camp_greenleaf_lr.jpg",
+        "url": "https://www.nps.gov/articles/chickamaugawwi.htm",
+        "parkurl": "https://www.nps.gov/chch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2509880065918,
+          34.91908559552267
+        ]
+      }
     }
   ]
 }
