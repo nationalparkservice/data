@@ -502,7 +502,7 @@
         "marker-symbol": "circle",
         "name": "Pershing Park",
         "park": "National Mall and Memorial Parks",
-        "description": "Pershing lead American forces to victory in World War I. He resisted calls to distribute American forces among Allied units, preferring to preserve the fighting integrity of American units. The A.E.F.s bravery remains immortalized here upon engraved granite panels as an enduring testimony of the American spirit to later generations.",
+        "description": "Pershing led American forces to victory in World War I. He resisted calls to distribute American forces among Allied units, preferring to preserve the fighting integrity of American units. The A.E.F.s bravery remains immortalized here upon engraved granite panels as an enduring testimony of the American spirit to later generations.",
         "image": "https://www.nps.gov/articles/images/IMG_3284.jpg",
         "url": "https://www.nps.gov/articles/pershing-park.htm",
         "parkurl": "https://www.nps.gov/nama/index.htm"
@@ -568,7 +568,7 @@
         "image": "https://www.nps.gov/articles/images/DC_War_1.jpg",
         "url": "https://www.nps.gov/articles/the-district-of-columbia-war-memorial.htm",
         "parkurl": "https://www.nps.gov/nama/",
-        "description": ""
+        "description": "The DC War Memorial honors DC's residents who gave their lives in the Great War."
       },
       "geometry": {
         "type": "Point",
