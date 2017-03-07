@@ -103,8 +103,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.00377464294434,
-          38.892277069516105
+          -77.03527450561522,
+          38.898047066008985
         ]
       }
     },
@@ -491,6 +491,90 @@
         "coordinates": [
           -85.2509880065918,
           34.91908559552267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Pershing Park",
+        "park": "National Mall and Memorial Parks",
+        "description": "Pershing lead American forces to victory in World War I. He resisted calls to distribute American forces among Allied units, preferring to preserve the fighting integrity of American units. The A.E.F.s bravery remains immortalized here upon engraved granite panels as an enduring testimony of the American spirit to later generations.",
+        "image": "https://www.nps.gov/articles/images/IMG_3284.jpg",
+        "url": "https://www.nps.gov/articles/pershing-park.htm",
+        "parkurl": "https://www.nps.gov/nama/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03274250030518,
+          38.89588859108911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park": "National Mall and Memorial Parks",
+        "url": "https://www.nps.gov/articles/temporary-war-department-buildings.htm",
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "'Temporary' War Department Buildings",
+        "description": "Where visitors now stroll through memorials and green spaces, a huge collection of temporary office buildings once stood.",
+        "image": "https://www.nps.gov/articles/images/kellycol_147.jpeg",
+        "parkurl": "https://www.nps.gov/nama/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04291343688965,
+          38.89101612509154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Women's Suffrage and WWI",
+        "park": "Belmont-Paul Women's Equality National Monument",
+        "description": "Women’s fight for the right to vote was in its final years, but in the heavy sacrifice and a changing understanding of the meaning of democracy the war brought, the movement had found a renewed energy and enthusiasm during World War I.",
+        "image": "https://www.nps.gov/articles/images/Suffrage.png",
+        "url": "https://www.nps.gov/articles/womens-suffrage-wwi.htm",
+        "parkurl": "https://www.nps.gov/bepa/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00377464294434,
+          38.89229377061655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "District of Columbia War Memorial",
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "park": "National Mall and Memorial Parks",
+        "image": "https://www.nps.gov/articles/images/DC_War_1.jpg",
+        "url": "https://www.nps.gov/articles/the-district-of-columbia-war-memorial.htm",
+        "parkurl": "https://www.nps.gov/nama/",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04349011182785,
+          38.887579729146935
         ]
       }
     }
