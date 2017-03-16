@@ -577,6 +577,27 @@
           38.887579729146935
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Camp Sherman, Ohio's WWI Soldier Factory",
+        "park": "Hopewell Culture National Historical Park",
+        "description": "Built in only a few months, immediately after America's entry into World War I, this military cantonment in Chillicothe, Ohio quickly became one of the largest constructed for the war effort. Although its gates were only open for three years, Camp Sherman trained hundreds of thousands of soldiers and would send one army division to Europe before the end of the war.",
+        "image": "https://www.nps.gov/hocu/images/003-450.jpg",
+        "url": "https://www.nps.gov/articles/camp-sherman-ohio.htm",
+        "parkurl": "https://www.nps.gov/hocu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00896167755127,
+          39.37886187489815
+        ]
+      }
     }
   ]
 }
