@@ -598,6 +598,27 @@
           39.37886187489815
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Sabotage and Naval Preparedness in Charleston",
+        "park": "Fort Sumter National Monument",
+        "description": "Before the United States declared war on Germany, entering the Great War, an act of naval sabotage brought the war to Charleston Harbor. The German vessel would be raised and converted to an American naval vessel, the USS Houston, thereby linking sabotage to naval preparedness and increased production on the homefront.",
+        "image": "https://www.nps.gov/articles/images/NH-53577.jpeg",
+        "url": "https://www.nps.gov/articles/charleston-wwi.htm",
+        "parkurl": "https://www.nps.gov/fosu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.87481117248535,
+          32.75227162728024
+        ]
+      }
     }
   ]
 }
