@@ -619,6 +619,69 @@
           32.75227162728024
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Camp Sherman Recreation",
+        "park": "Hopewell Culture National Historical Park",
+        "description": "Training to become a U.S. Soldier was (and still is) a rigorous task that often lasted all day. It was challenging to all involved, both physically and mentally. While training was the key purpose of the thousands of soldiers being at Camp Sherman, they did have some downtime from all of the rigors of becoming a soldier. Recreation at the camp played an important part in maintaining physical and mental well-being.",
+        "image": "https://www.nps.gov/hocu/images/83rd-Div-Football-Team.jpg",
+        "url": "https://www.nps.gov/articles/camp-sherman-recreation.htm",
+        "parkurl": "https://www.nps.gov/hocu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0042839050293,
+          39.378215014496675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Captain Harry Truman",
+        "park": "Harry S Truman National Historic Site",
+        "description": "Long before serving as the 33rd President of the United States, Harry S Truman served his country on the front lines of World War I.",
+        "image": "https://www.nps.gov/articles/images/Harry-Truman-in-uniform.jpg",
+        "url": "https://www.nps.gov/articles/captain-harry-truman.htm",
+        "parkurl": "https://www.nps.gov/hstr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.42357420921326,
+          39.09384379712724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Souvenirs of War",
+        "park": "Harry S Truman National Historic Site",
+        "description": "“Trench art” is any decorative item made by soldiers, prisoners of war or civilians directly linked to armed conflict or its consequences. It offers an insight not only to their feelings and emotions about the war, but also their surroundings and the materials they had available to them.",
+        "image": "https://www.nps.gov/articles/images/vases.jpg",
+        "url": "https://www.nps.gov/articles/souvenirs-of-war.htm",
+        "parkurl": "https://www.nps.gov/hstr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.41552758216858,
+          39.093668934075744
+        ]
+      }
     }
   ]
 }
