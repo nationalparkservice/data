@@ -682,6 +682,27 @@
           39.093668934075744
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Thomas Edison and Military Preparedness",
+        "park": "Thomas Edison National Historical Park",
+        "description": "As new technologies changed military conflict during World War I, Thomas Edison called for industrial preparedness, experimented on some of the Navy's most difficult technical problems and helped the U.S. government prepare for future wars by advocating the creation of the Naval Research Laboratory.",
+        "image": "https://www.nps.gov/articles/images/37_3.jpg",
+        "url": "https://www.nps.gov/articles/thomas-edison-and-military-preparedness.htm",
+        "parkurl": "https://www.nps.gov/edis/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.23336386680603,
+          40.78402656055263
+        ]
+      }
     }
   ]
 }
