@@ -703,6 +703,27 @@
           40.78402656055263
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "The Buffalo Soldiers in WWI",
+        "park": "Charles Young Buffalo Soldiers National Monument",
+        "description": "After years of fighting at home and abroad for a country that held mixed feelings for them, many expected the Buffalo Soldiers to be deployed to France in 1917 to help fight in WWI. However, the regular Army regiments of the Buffalo Soldiers would be found nowhere near France during WWI. Find out about the \"other\" Buffalo Soldiers who would take their place with the American Expeditionary Forces in France.",
+        "image": "https://www.nps.gov/chyo/images/Cuba-BuffSoldiers-1898.jpg",
+        "url": "https://www.nps.gov/articles/the-buffalo-soldiers-in-wwi.htm",
+        "parkurl": "https://www.nps.gov/chyo/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.89042139053345,
+          39.70731871913245
+        ]
+      }
     }
   ]
 }
