@@ -9,7 +9,7 @@
         "stroke-opacity": 1,
         "name": "Segment 1",
         "route": "Rock Creek and Potomac Parkway NW to Tilden St. NW",
-        "info": "Closing on or about September 22, 2016"
+        "info": "Closed September 22, 2016"
       },
       "geometry": {
         "type": "LineString",
@@ -490,23 +490,6 @@
             -77.05032169818877,
             38.92168996837171
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff0000",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Segment 1",
-        "info": "Closing on or about September 22, 2016"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0493882894516,
-          38.93232753965401
         ]
       }
     }
