@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "Mary McLeod Bethune Council House NHS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0308032631874,
+          38.90792219131423
+        ]
+      }
+    }
+  ]
+}
