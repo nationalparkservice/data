@@ -724,6 +724,27 @@
           39.70731871913245
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Private Albert Cooper and the 318th Engineers at Vancouver Barracks",
+        "park": "Fort Vancouver National Historic Site",
+        "description": "On April 2, 1918, at the age of 21, Albert “Abbie” Cooper of Hood River, Oregon, enlisted in the United States Army as a Private and was assigned to Company D, 318th Engineers. Cooper joined his regiment at Vancouver Barracks, where they had been training for several weeks.",
+        "image": "https://www.nps.gov/articles/images/IMG_5573.JPG",
+        "url": "https://www.nps.gov/articles/albertcoopervancouverbarracks.htm",
+        "parkurl": "https://www.nps.gov/fova/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66000390052794,
+          45.62555593506302
+        ]
+      }
     }
   ]
 }
