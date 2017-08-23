@@ -745,6 +745,48 @@
           45.62555593506302
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "The Conspicuous Absence of the Wright Family at the U.S. outset of WWI",
+        "park": "Dayton Aviation Heritage National Historical Park",
+        "description": "As war with Germany proved to be inevitable, the U.S. entered the world-wide conflict in April of 1917. However, from the outset of the U.S. entry into the war, one notable family was conspicuously absent from the outset. While the U.S. prepared for war, the Wright family had their focus on something entirely different.",
+        "image": "https://www.nps.gov/daav/images/Orville-Wright-Bishop-Milton-Wright-Katharine-Wright-LOC-1915-400.jpg",
+        "url": "https://www.nps.gov/articles/wright-absence-in-wwi.htm",
+        "parkurl": "https://www.nps.gov/daav/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21162396669388,
+          39.75609431273295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "description": "Fighting the enemy in combat on the battlefields of France was a horror in and of itself, but in the fall of 1918, soldiers on the battlefield and every other person on the planet would be facing off against an invisible killer that would devastate the world population. The Spanish Influenza Pandemic of 1918 tallied a staggering amount of victims and remains the most deadly viral outbreak in the history of the planet.",
+        "name": "The Spanish Influenza Pandemic of 1918 at Camp Sherman",
+        "park": "Hopewell Culture National Historical Park",
+        "image": "https://www.nps.gov/articles/images/Flu-Soldiers.jpg",
+        "url": "https://www.nps.gov/articles/influenza-at-camp-sherman.htm",
+        "parkurl": "https://www.nps.gov/hocu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00707340240479,
+          39.37600900959002
+        ]
+      }
     }
   ]
 }
