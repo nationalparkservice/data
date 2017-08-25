@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "building",
+        "name": "Headquarters, National Capital Parks - East",
+        "url": "/nace/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99391484260559,
+          38.86592201771687
+        ]
+      }
+    }
+  ]
+}
