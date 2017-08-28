@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#000000",
         "marker-size": "large",
-        "marker-symbol": "park",
+        "marker-symbol": "building",
         "name": "Harmony Hall",
         "url": "/haha/"
       },
@@ -159,9 +159,9 @@
       "properties": {
         "name": "Frederick Douglass National Historic Site",
         "url": "/frdo/",
-        "marker-color": "#008000",
+        "marker-color": "#000000",
         "marker-size": "large",
-        "marker-symbol": "park"
+        "marker-symbol": "building"
       },
       "geometry": {
         "type": "Point",
@@ -177,7 +177,7 @@
         "name": "Suitland Parkway",
         "marker-color": "#008000",
         "marker-size": "large",
-        "marker-symbol": "park"
+        "marker-symbol": "car"
       },
       "geometry": {
         "type": "Point",
@@ -192,9 +192,9 @@
       "properties": {
         "name": "Mary McLeod Bethune Council House National Historic Site",
         "url": "/mamc/",
-        "marker-color": "#008000",
+        "marker-color": "#000000",
         "marker-size": "large",
-        "marker-symbol": "park"
+        "marker-symbol": "building"
       },
       "geometry": {
         "type": "Point",
@@ -260,9 +260,9 @@
       "properties": {
         "name": "Carter G. Woodson Home National Historic Site",
         "url": "/cawo/",
-        "marker-color": "#008000",
+        "marker-color": "#000000",
         "marker-size": "large",
-        "marker-symbol": "park"
+        "marker-symbol": "building"
       },
       "geometry": {
         "type": "Point",
