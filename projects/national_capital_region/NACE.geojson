@@ -8,7 +8,8 @@
         "marker-size": "large",
         "marker-symbol": "building",
         "name": "Harmony Hall",
-        "url": "/haha/"
+        "url": "/haha/",
+        "image": "https://www.nps.gov/common/uploads/banner_image/ncr/homepage/911346EE-1DD8-B71B-0B9A446BF42C3CE5.jpg?width=1200&height=350&mode=crop&quality=90"
       },
       "geometry": {
         "type": "Point",
@@ -25,7 +26,8 @@
         "marker-size": "large",
         "marker-symbol": "park",
         "name": "Fort Foote",
-        "url": "/fofo/"
+        "url": "/fofo/",
+        "image": "https://www.nps.gov/common/uploads/banner_image/ncr/secondary/90AD9A37-1DD8-B71B-0B2328A6351EA3A0.jpg?width=1200&height=200&mode=crop&quality=90"
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +44,8 @@
         "marker-size": "large",
         "marker-symbol": "park",
         "name": "Fort Washington",
-        "url": "/fowa/"
+        "url": "/fowa/",
+        "image": "https://www.nps.gov/common/uploads/banner_image/ncr/homepage/5162A9E7-1DD8-B71B-0BAA3221115AE13C.jpg?width=1200&height=350&mode=crop&quality=90"
       },
       "geometry": {
         "type": "Point",
@@ -59,7 +62,8 @@
         "url": "/pisc/",
         "marker-color": "#008000",
         "marker-size": "large",
-        "marker-symbol": "park"
+        "marker-symbol": "park",
+        "image": "https://www.nps.gov/common/uploads/banner_image/ncr/homepage/90E62BC8-1DD8-B71B-0B3D7F58652235CE.jpg?width=1200&height=350&mode=crop&quality=90"
       },
       "geometry": {
         "type": "Point",
@@ -76,7 +80,8 @@
         "marker-size": "large",
         "marker-symbol": "park",
         "name": "Oxon Cove Park / Oxon Hill Farm",
-        "url": "/oxhi/"
+        "url": "/oxhi/",
+        "image": "https://www.nps.gov/common/uploads/banner_image/ncr/homepage/F250446B-1DD8-B71B-0BA49AB1697C9E95.jpg?width=1200&height=350&mode=crop&quality=90"
       },
       "geometry": {
         "type": "Point",
@@ -93,7 +98,8 @@
         "url": "/bawa/",
         "marker-color": "#008000",
         "marker-size": "large",
-        "marker-symbol": "park"
+        "marker-symbol": "park",
+        "image": "https://www.nps.gov/common/uploads/banner_image/ncr/homepage/1A512DBC-1DD8-B71B-0BF247C0EF868B2D.JPG?width=1200&height=350&mode=crop&quality=90"
       },
       "geometry": {
         "type": "Point",
@@ -110,7 +116,8 @@
         "url": "/fodu/",
         "marker-color": "#008000",
         "marker-size": "large",
-        "marker-symbol": "park"
+        "marker-symbol": "park",
+        "image": "https://www.nps.gov/common/uploads/banner_image/ncr/homepage/F680B8AC-1DD8-B71B-0BB4EDEB1846A906.jpg?width=1200&height=350&mode=crop&quality=90"
       },
       "geometry": {
         "type": "Point",
@@ -127,7 +134,8 @@
         "url": "/keaq/",
         "marker-color": "#008000",
         "marker-size": "large",
-        "marker-symbol": "park"
+        "marker-symbol": "park",
+        "image": "https://www.nps.gov/common/uploads/banner_image/ncr/homepage/51D2C48D-1DD8-B71B-0B41A9BA714C983B.jpg?width=1200&height=350&mode=crop&quality=90"
       },
       "geometry": {
         "type": "Point",
@@ -144,7 +152,8 @@
         "url": "/anac/",
         "marker-color": "#008000",
         "marker-size": "large",
-        "marker-symbol": "park"
+        "marker-symbol": "park",
+        "image": "https://www.nps.gov/common/uploads/banner_image/ncr/homepage/20D7ECCC-1DD8-B71B-0B2B68C9415E82E0.jpg?width=1200&height=350&mode=crop&quality=90"
       },
       "geometry": {
         "type": "Point",
@@ -161,7 +170,8 @@
         "url": "/frdo/",
         "marker-color": "#000000",
         "marker-size": "large",
-        "marker-symbol": "building"
+        "marker-symbol": "building",
+        "image": "https://www.nps.gov/common/uploads/banner_image/ncr/homepage/50D4F6FC-1DD8-B71B-0B3563996DC21D7F.jpg?width=1200&height=350&mode=crop&quality=90"
       },
       "geometry": {
         "type": "Point",
@@ -194,7 +204,8 @@
         "url": "/mamc/",
         "marker-color": "#000000",
         "marker-size": "large",
-        "marker-symbol": "building"
+        "marker-symbol": "building",
+        "image": "https://www.nps.gov/common/uploads/banner_image/ncr/homepage/5981E8B3-1DD8-B71B-0BE56F960A40FE3E.jpg?width=1200&height=350&mode=crop&quality=90"
       },
       "geometry": {
         "type": "Point",
@@ -211,7 +222,8 @@
         "url": "/cahi/",
         "marker-color": "#008000",
         "marker-size": "large",
-        "marker-symbol": "park"
+        "marker-symbol": "park",
+        "image": "https://www.nps.gov/common/uploads/banner_image/ncr/homepage/A5CC627B-1DD8-B71B-0B7A14511915E6C7.jpg?width=1200&height=350&mode=crop&quality=90"
       },
       "geometry": {
         "type": "Point",
@@ -228,7 +240,8 @@
         "url": "/gree/",
         "marker-color": "#008000",
         "marker-size": "large",
-        "marker-symbol": "park"
+        "marker-symbol": "park",
+        "image": "https://www.nps.gov/common/uploads/banner_image/ncr/homepage/C015FCE9-1DD8-B71B-0BB48701B9288D78.jpg?width=1200&height=350&mode=crop&quality=90"
       },
       "geometry": {
         "type": "Point",
@@ -245,7 +258,8 @@
         "url": "/cwdw/",
         "marker-color": "#008000",
         "marker-size": "large",
-        "marker-symbol": "park"
+        "marker-symbol": "park",
+        "image": "https://www.nps.gov/common/uploads/banner_image/ncr/homepage/222BF6B8-1DD8-B71B-0B3D86CE9D4123C2.jpg?width=1200&height=350&mode=crop&quality=90"
       },
       "geometry": {
         "type": "Point",
@@ -262,7 +276,8 @@
         "url": "/cawo/",
         "marker-color": "#000000",
         "marker-size": "large",
-        "marker-symbol": "building"
+        "marker-symbol": "building",
+        "image": "https://www.nps.gov/common/uploads/banner_image/ncr/homepage/95B1AA40-1DD8-B71B-0BE3D0DC1FD49689.jpg?width=1200&height=350&mode=crop&quality=90"
       },
       "geometry": {
         "type": "Point",
