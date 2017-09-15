@@ -4,25 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#800000",
-        "marker-size": "large",
-        "marker-symbol": "swimming",
-        "name": "Swimming Pool",
-        "url": "http://dpr.dc.gov/page/aquatic-facilities",
-        "notes": "The swimming pool is managed by D.C. Parks & Recreation.",
-        "image": "http://app.dpr.dc.gov/dprmap/details_files/dpr_Logo418x268.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.983000934124,
-          38.87247097674689
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#000000",
         "marker-size": "large",
         "marker-symbol": "tennis",
