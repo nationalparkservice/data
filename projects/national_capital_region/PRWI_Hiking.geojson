@@ -1,0 +1,403 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "High Meadows Trail",
+        "foot": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.39258766174316,
+          38.58078167420019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mawavi Fire Road",
+        "foot": 1,
+        "bicycle": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.40650296211243,
+          38.58804029888899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Oak Ridge Trail",
+        "foot": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.40623474121094,
+          38.5975286594663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "West Gate Fire Road",
+        "foot": 1,
+        "bicycle": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.40476489067078,
+          38.59771313129129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "West Gate Fire Road",
+        "foot": 1,
+        "bicycle": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.42281079292296,
+          38.60370820751661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Farms to Forest",
+        "foot": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.413991689682,
+          38.60193069868175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Old Blacktop Road",
+        "foot": 1,
+        "bicycle": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.38937973976135,
+          38.59688300434538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burma Fire Road",
+        "foot": 1,
+        "bicycle": 1,
+        "marker-color": "7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.37385511398315,
+          38.59695008566724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taylor Farm Fire Road",
+        "foot": 1,
+        "bicycle": 1,
+        "marker-color": "7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.37426280975342,
+          38.59643020378302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spriggs Lane Fire Road",
+        "foot": 1,
+        "bicycle": 1,
+        "marker-color": "7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36312627792357,
+          38.608914713521386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Liming Lane Fire Road",
+        "foot": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.37874746322632,
+          38.57548086319016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "South Valley Trail",
+        "foot": 1,
+        "bicycle": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.37527132034302,
+          38.575522801521274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Valley Trail",
+        "foot": 1,
+        "bicycle": 1,
+        "marker-color": "7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3793751001358,
+          38.576550282985615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Turkey Run Ridge Trail",
+        "foot": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36789524555206,
+          38.574589667865695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "North Orenda Fire Road",
+        "foot": 1,
+        "bicycle": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36507892608643,
+          38.57840809991347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Pyrite Mine Fire Road",
+        "foot": 1,
+        "bicycle": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36419916152954,
+          38.5793810232417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Lake One Road",
+        "foot": 1,
+        "bicycle": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36698865890503,
+          38.5864427096322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Quantico Cascades Trail",
+        "foot": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36787378787994,
+          38.58759163567928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mary Bird Branch Trail",
+        "foot": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36817419528961,
+          38.58756647691162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Valley Trail",
+        "foot": 1,
+        "bicycle": 1,
+        "marker-color": "7e7e7e",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3646068572998,
+          38.567839290644706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Laurel Loop Trail",
+        "foot": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34997272491454,
+          38.56128333130874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "The Crossing Trail",
+        "foot": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34362125396729,
+          38.55881263229774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Carter's Pond Wildlife Viewing Trail",
+        "foot": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.36665070056915,
+          38.56385880828513
+        ]
+      }
+    }
+  ]
+}
