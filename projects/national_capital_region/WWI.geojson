@@ -787,6 +787,27 @@
           39.37600900959002
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Harry S Truman and the Influences of His Service in World War I",
+        "park": "Harry S Truman National Historic Site",
+        "description": "Harry Truman is the only US president to see combat during the First World War. His war experience affected the course of his life and influenced his rise to the presidency in two important ways: he discovered a leadership ability he hadn’t known that he possessed, and he garnered a significant political base that supported him in his rise though political ranks.",
+        "image": "https://www.nps.gov/articles/images/TrumanIDCard.JPG",
+        "url": "https://www.nps.gov/articles/harry-s-truman-and-the-influences-of-his-service-in-world-war-i.htm",
+        "parkurl": "https://www.nps.gov/hstr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.42321747541428,
+          39.093585665803566
+        ]
+      }
     }
   ]
 }
