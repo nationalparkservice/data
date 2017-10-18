@@ -187,7 +187,8 @@
         "name": "Suitland Parkway",
         "marker-color": "#008000",
         "marker-size": "large",
-        "marker-symbol": "car"
+        "marker-symbol": "car",
+        "image": ""
       },
       "geometry": {
         "type": "Point",
@@ -284,6 +285,24 @@
         "coordinates": [
           -77.02404141426086,
           38.91081078672579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park",
+        "name": "Shepherd Parkway",
+        "url": "/nace/learn/historyculture/shepherd-parkway.htm",
+        "image": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0090103149414,
+          38.83656541436778
         ]
       }
     }
