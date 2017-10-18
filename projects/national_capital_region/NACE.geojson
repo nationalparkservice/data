@@ -296,7 +296,8 @@
         "marker-symbol": "park",
         "name": "Shepherd Parkway",
         "url": "/nace/learn/historyculture/shepherd-parkway.htm",
-        "image": ""
+        "image": "",
+        "urlcontroller": 1
       },
       "geometry": {
         "type": "Point",
