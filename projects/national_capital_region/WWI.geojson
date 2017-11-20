@@ -808,6 +808,50 @@
           39.093585665803566
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Defending America’s Coasts",
+        "park": "Fire Island National Seashore",
+        "description": "On July 19, 1918, submarine U-156 sank the USS San Diego 10 miles offshore of Fire Island. ",
+        "image": "https://www.nps.gov/articles/images/The-USS-San-Diego-in-1916.jpg?maxwidth=1200",
+        "url": "https://www.nps.gov/articles/defending-america-s-coasts.htm",
+        "parkurl": "https://www.nps.gov/fiis/",
+        "park2": "National Parks of New York Harbor",
+        "park2url": "https://www.nps.gov/npnh/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1041431427002,
+          40.65602942596132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "These Great Present & Future Problems: Erica Thorp and WWI French War Orphans",
+        "park": "Longfellow House Washington's Headquarters National Historic Site",
+        "description": "Soon after the United States entered the war in 1917, Erica Thorp put her life in America on hold to travel to France to work at a colony for orphaned boys. She found immense pleasure in nurturing these boys and providing for them when no one else was able.",
+        "image": "https://www.nps.gov/articles/images/LFP-3007-2-2-3-52.jpg?maxwidth=650",
+        "url": "https://www.nps.gov/articles/erica-thorp-wwi.htm",
+        "parkurl": "https://www.nps.gov/long/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.126389503479,
+          42.37693814538879
+        ]
+      }
     }
   ]
 }
