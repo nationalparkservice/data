@@ -852,6 +852,69 @@
           42.37693814538879
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Advancements in Medical Care during World War I",
+        "park": "Fort McHenry National Monument and Historic Shrine",
+        "description": "The advanced weaponry of World War I, such as chemical agents and trench warfare, created a uniquely afflicted veteran population not seen before. The medical facilities at the fort included several departments that pioneered new treatment strategies and new technology that were designed to tailor to the needs of the victims of this modern war.",
+        "image": "https://www.nps.gov/articles/images/3g10026v.jpg?maxwidth=650&autorotate=false",
+        "url": "https://www.nps.gov/articles/advancements-in-medical-care-during-world-war-i.htm",
+        "parkurl": "https://www.nps.gov/fomc/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.57989978790283,
+          39.26324421303656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "The War Reaches Home: Attack on Cape Cod",
+        "park": "Cape Cod National Seashore",
+        "description": "On July 21, 1918, New Englanders found themselves with World War I on their doorsteps in the form of a German U-boat attack off Cape Cod, at the town of Orleans. During the attack, some of the shells fired from the submarine landed on Nauset Beach, making this the first attack on the US mainland since the War of 1812 and the only attack on US soil during World War I.",
+        "image": "https://www.nps.gov/articles/images/uscg.JPG?maxwidth=650&autorotate=false",
+        "url": "https://www.nps.gov/articles/wwi-caco.htm",
+        "parkurl": "https://www.nps.gov/caco/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.98677253723145,
+          41.7900008560353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Dayton, Aviation, and the First World War",
+        "description": "When the war began in Europe, the United States military had very few airplanes – only six airplanes, and fourteen trained pilots, were available for use. America realized she needed to strengthen its air power, and quickly.",
+        "park": "Dayton Aviation Heritage National Historical Park",
+        "image": "https://www.nps.gov/articles/images/DH-4.JPG?maxwidth=650&autorotate=false",
+        "url": "https://www.nps.gov/articles/dayton-aviation-and-the-first-world-war.htm",
+        "parkurl": "https://www.nps.gov/daav/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.21159714460373,
+          39.75639948984059
+        ]
+      }
     }
   ]
 }
