@@ -25,7 +25,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#800040",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "The Bull Moose in Winter: Theodore Roosevelt and World War I",
@@ -90,7 +90,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#800040",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "National Woman's Party Protests",
@@ -111,7 +111,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Bonus Expeditionary Forces March on Washington",
@@ -132,7 +132,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#800040",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Franklin Delano Roosevelt - Assistant Secretary of the Navy",
@@ -198,7 +198,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Coastal Defense: Fort Hancock during World War I",
@@ -228,7 +228,8 @@
         "park": "Fort Vancouver National Historic Site",
         "description": "The DH-4 Liberty plane, manufactured from Sitka spruce logged from the forests of the Pacific Northwest, played a significant role both in battle and after the war.",
         "image": "https://www.nps.gov/articles/images/Page-32.JPG",
-        "url": "https://www.nps.gov/articles/libertyplane.htm"
+        "url": "https://www.nps.gov/articles/libertyplane.htm",
+        "park2": ""
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +244,7 @@
       "properties": {
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "marker-color": "#008000",
+        "marker-color": "#ff0000",
         "name": "Innovative Defenses at Fort Tilden and Rockaway Naval Air Station during WWI",
         "description": "Part of a larger coastal defense system dating to the 18th century, Fort Tilden and Rockaway Naval Air Station helped protect the homeland during World War I against some of the most advanced weapons systems of the time.",
         "park": "Gateway National Recreation Area",
@@ -262,7 +263,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#800040",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "The Statue of Liberty in Recruitment and War Bonds Posters",
@@ -284,7 +285,7 @@
       "type": "Feature",
       "properties": {
         "url": "https://www.nps.gov/articles/closing-the-door-on-immigration.htm",
-        "marker-color": "#008000",
+        "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Closing the Door on Immigration",
@@ -304,7 +305,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "park": "Ellis Island - Part of Statue of Liberty National Monument",
@@ -325,7 +326,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#800040",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Immigration and the Great War",
@@ -346,7 +347,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "The War in Popular Music: Irving Berlin",
@@ -367,7 +368,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Departing and Arriving US Soldiers View the Statue of Liberty",
@@ -389,7 +390,7 @@
       "type": "Feature",
       "properties": {
         "name": "Domestic Sabotage: The Explosion at Black Tom Island",
-        "marker-color": "#008000",
+        "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "park": "Ellis Island - Part of Statue of Liberty National Monument",
@@ -433,7 +434,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#800040",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "The Emergence Of The Great Humanitarian",
@@ -497,9 +498,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "monument",
         "name": "Pershing Park",
         "park": "National Mall and Memorial Parks",
         "description": "Pershing led American forces to victory in World War I. He resisted calls to distribute American forces among Allied units, preferring to preserve the fighting integrity of American units. The A.E.F.s bravery remains immortalized here upon engraved granite panels as an enduring testimony of the American spirit to later generations.",
@@ -539,7 +540,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#800040",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Women's Suffrage and WWI",
@@ -561,9 +562,9 @@
       "type": "Feature",
       "properties": {
         "name": "District of Columbia War Memorial",
-        "marker-color": "#008000",
+        "marker-color": "#000000",
         "marker-size": "medium",
-        "marker-symbol": "circle",
+        "marker-symbol": "monument",
         "park": "National Mall and Memorial Parks",
         "image": "https://www.nps.gov/articles/images/DC_War_1.jpg",
         "url": "https://www.nps.gov/articles/the-district-of-columbia-war-memorial.htm",
@@ -602,7 +603,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#800040",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Sabotage and Naval Preparedness in Charleston",
@@ -644,7 +645,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#800040",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Captain Harry Truman",
@@ -652,7 +653,8 @@
         "description": "Long before serving as the 33rd President of the United States, Harry S Truman served his country on the front lines of World War I.",
         "image": "https://www.nps.gov/articles/images/Harry-Truman-in-uniform.jpg",
         "url": "https://www.nps.gov/articles/captain-harry-truman.htm",
-        "parkurl": "https://www.nps.gov/hstr/"
+        "parkurl": "https://www.nps.gov/hstr/",
+        "park2url": ""
       },
       "geometry": {
         "type": "Point",
@@ -665,7 +667,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Souvenirs of War",
@@ -707,7 +709,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#800040",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "The Buffalo Soldiers in WWI",
@@ -791,7 +793,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#800040",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Harry S Truman and the Influences of His Service in World War I",
@@ -812,7 +814,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Defending America’s Coasts",
@@ -835,7 +837,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#800040",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "These Great Present & Future Problems: Erica Thorp and WWI French War Orphans",
@@ -856,7 +858,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#0000ff",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Advancements in Medical Care during World War I",
@@ -877,7 +879,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#008000",
+        "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "The War Reaches Home: Attack on Cape Cod",
@@ -913,6 +915,27 @@
         "coordinates": [
           -84.21159714460373,
           39.75639948984059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "First Division Monument",
+        "park": "President's Park (White House)",
+        "description": "The First Division Monument sits on a plaza in President's Park, west of the White House and south of the Eisenhower Executive Office Building (EEOB) at the corner of 17th Street and State Place, NW. The monument was conceived by the Society of the First Division, the veteran's organization of the U.S. Army's First Division, to honor the valiant efforts of the soldiers who fought in World War I.",
+        "image": "https://www.nps.gov/common/uploads/place/nri/20170914/places/0EFEDE88-1DD8-B71B-0B3E264F107C8029/0EFEDE88-1DD8-B71B-0B3E264F107C8029.jpg",
+        "url": "https://www.nps.gov/places/first-division-monument.htm",
+        "parkurl": "https://www.nps.gov/whho/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03872114419937,
+          38.89614535701749
         ]
       }
     }
