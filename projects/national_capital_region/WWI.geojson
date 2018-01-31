@@ -25,7 +25,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#800040",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "The Bull Moose in Winter: Theodore Roosevelt and World War I",
@@ -90,7 +90,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#800040",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "National Woman's Party Protests",
@@ -111,7 +111,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0000ff",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Bonus Expeditionary Forces March on Washington",
@@ -132,7 +132,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#800040",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Franklin Delano Roosevelt - Assistant Secretary of the Navy",
@@ -198,7 +198,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Coastal Defense: Fort Hancock during World War I",
@@ -244,7 +244,7 @@
       "properties": {
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "marker-color": "#ff0000",
+        "marker-color": "#008000",
         "name": "Innovative Defenses at Fort Tilden and Rockaway Naval Air Station during WWI",
         "description": "Part of a larger coastal defense system dating to the 18th century, Fort Tilden and Rockaway Naval Air Station helped protect the homeland during World War I against some of the most advanced weapons systems of the time.",
         "park": "Gateway National Recreation Area",
@@ -263,7 +263,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#800040",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "The Statue of Liberty in Recruitment and War Bonds Posters",
@@ -285,7 +285,7 @@
       "type": "Feature",
       "properties": {
         "url": "https://www.nps.gov/articles/closing-the-door-on-immigration.htm",
-        "marker-color": "#0000ff",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Closing the Door on Immigration",
@@ -305,7 +305,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "park": "Ellis Island - Part of Statue of Liberty National Monument",
@@ -326,7 +326,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#800040",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Immigration and the Great War",
@@ -347,7 +347,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "The War in Popular Music: Irving Berlin",
@@ -368,7 +368,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Departing and Arriving US Soldiers View the Statue of Liberty",
@@ -390,7 +390,7 @@
       "type": "Feature",
       "properties": {
         "name": "Domestic Sabotage: The Explosion at Black Tom Island",
-        "marker-color": "#ff0000",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "park": "Ellis Island - Part of Statue of Liberty National Monument",
@@ -434,7 +434,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#800040",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "The Emergence Of The Great Humanitarian",
@@ -540,7 +540,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#800040",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Women's Suffrage and WWI",
@@ -603,7 +603,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#800040",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Sabotage and Naval Preparedness in Charleston",
@@ -645,7 +645,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#800040",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Captain Harry Truman",
@@ -667,7 +667,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0000ff",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Souvenirs of War",
@@ -709,7 +709,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#800040",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "The Buffalo Soldiers in WWI",
@@ -793,7 +793,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#800040",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Harry S Truman and the Influences of His Service in World War I",
@@ -814,7 +814,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Defending America’s Coasts",
@@ -837,7 +837,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#800040",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "These Great Present & Future Problems: Erica Thorp and WWI French War Orphans",
@@ -858,7 +858,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0000ff",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Advancements in Medical Care during World War I",
@@ -879,7 +879,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "The War Reaches Home: Attack on Cape Cod",
