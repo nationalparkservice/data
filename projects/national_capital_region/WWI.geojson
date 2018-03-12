@@ -938,6 +938,27 @@
           38.89614535701749
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Storer College Students in World War I",
+        "park": "Harpers Ferry National Historical Park",
+        "description": "Storer College was founded in 1867 and was the first institution of higher learning for African Americans in West Virginia. Over 100 students and alumni of the school enlisted and contributed to the United States' efforts during the Great War.",
+        "image": "https://www.nps.gov/hafe/images/-Corporal-Walter-Proctor-Student-and-African-American-World-War-I-Veteran-Storer-College-Harpers-Ferry-W.jpeg?maxwidth=650&autorotate=false",
+        "url": "https://www.nps.gov/articles/storer-college-wwi.htm",
+        "parkurl": "https://www.nps.gov/hafe/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.74107635021208,
+          39.323977688154734
+        ]
+      }
     }
   ]
 }
