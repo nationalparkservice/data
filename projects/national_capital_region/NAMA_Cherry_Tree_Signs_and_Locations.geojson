@@ -90,7 +90,8 @@
         "name": "Usuzumi",
         "number": 13,
         "notes": "The usuzumi variety blooms after the Yoshinos, the blossoms changing from pink to white. In Japan, some Usuzumis are over 1,500 years old.",
-        "genus": "Prunus spachiana f. ascendens"
+        "genus": "Prunus spachiana f. ascendens",
+        "image": "https://www.nps.gov/subjects/cherryblossom/images/Usuzumi-web.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -169,7 +170,8 @@
         "name": "Fugenzo",
         "notes": "Fugenzo trees are a great example of how cherry trees are grafted, and are easily distinguished by their thick, straight trunks.",
         "number": 17,
-        "genus": "Prunus serrulata \"Fugenzo\""
+        "genus": "Prunus serrulata \"Fugenzo\"",
+        "image": ""
       },
       "geometry": {
         "type": "Point",
