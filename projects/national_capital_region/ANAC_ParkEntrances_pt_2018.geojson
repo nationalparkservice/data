@@ -2,7 +2,7 @@
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "name": "Vehicular Entrance" }, "geometry": { "type": "Point", "coordinates": [ -76.989967695018137, 38.868676310992996 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#7e7e7e", "name": "Vehicular Entrance" }, "geometry": { "type": "Point", "coordinates": [ -76.989967695018137, 38.868676310992996 ] } },
 { "type": "Feature", "properties": { "name": "Vehicular Entrance" }, "geometry": { "type": "Point", "coordinates": [ -76.976492965756336, 38.875194569328123 ] } },
 { "type": "Feature", "properties": { "name": "Vehicular Entrance" }, "geometry": { "type": "Point", "coordinates": [ -76.954223729863017, 38.900611463066092 ] } },
 { "type": "Feature", "properties": { "name": "Vehicular Entrance" }, "geometry": { "type": "Point", "coordinates": [ -76.945042947659303, 38.902764663637953 ] } },
