@@ -7,7 +7,7 @@
        "closure":"Currently Open",
        "marker-color":"#3D9C35",
        "marker-size":"large",
-       "marker-symbol":"entrance"
+       "marker-symbol":"car"
      },
      "geometry":{
        "type":"Point",
@@ -24,7 +24,7 @@
        "closure":"Currently Open",
        "marker-color":"#3D9C35",
        "marker-size":"large",
-       "marker-symbol":"entrance"
+       "marker-symbol":"car"
      },
      "geometry":{
        "type":"Point",
@@ -40,7 +40,7 @@
       "closure":"Currently Open",
       "marker-color":"#3D9C35",
       "marker-size":"large",
-      "marker-symbol":"trailhead"
+      "marker-symbol":"entrance"
     },
     "geometry":{
       "type":"Point",
@@ -57,7 +57,7 @@
        "closure":"Currently Open",
        "marker-color":"#3D9C35",
        "marker-size":"large",
-       "marker-symbol":"trailhead"
+       "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -74,7 +74,7 @@
        "closure":"Currently Open",
        "marker-color":"#3D9C35",
        "marker-size":"large",
-       "marker-symbol":"trailhead"
+       "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -91,7 +91,7 @@
        "closure":"Currently Open",
        "marker-color":"#3D9C35",
        "marker-size":"large",
-       "marker-symbol":"entrance"
+       "marker-symbol":"car"
      },
      "geometry":{
        "type":"Point",
@@ -108,7 +108,7 @@
        "closure":"Currently Open",
        "m_color":"#3D9C35",
        "m_size":"large",
-       "m_symbol":"entrance"
+       "m_symbol":"car"
      },
      "geometry":{
        "type":"Point",
@@ -125,7 +125,7 @@
        "closure":"Currently Open",
        "marker-color":"#3D9C35",
        "marker-size":"large",
-       "marker-symbol":"entrance"
+       "marker-symbol":"car"
      },
      "geometry":{
        "type":"Point",
@@ -142,7 +142,7 @@
        "closure":"Currently Open",
        "marker-color":"#3D9C35",
        "marker-size":"large",
-       "marker-symbol":"trailhead"
+       "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
