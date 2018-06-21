@@ -106,9 +106,9 @@
      "properties":{
        "name":"Vehicular Exit: S Capital St, SE",
        "closure":"Currently Open",
-       "m_color":"#3D9C35",
-       "m_size":"large",
-       "m_symbol":"car"
+       "marker-color":"#3D9C35",
+       "marker-size":"large",
+       "marker-symbol":"car"
      },
      "geometry":{
        "type":"Point",
