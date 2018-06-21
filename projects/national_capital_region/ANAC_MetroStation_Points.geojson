@@ -8,7 +8,6 @@
         "marker-size": "medium",
         "marker-symbol": "Rail",
         "name": "Anacostia Metro Station",
-        "url": "https://www.wmata.com/rider-guide/stations/anacostia.cfm"
       },
       "geometry": {
         "type": "Point",
@@ -25,7 +24,6 @@
         "marker-size": "medium",
         "marker-symbol": "Rail",
         "name": "Stadium Armory Station"
-        "url": "https://www.wmata.com/rider-guide/stations/stadium-armory.cfm"
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +40,6 @@
         "marker-size": "medium",
         "marker-symbol": "Rail",
         "name": "Minnesota Ave Station"
-        "url": "https://www.wmata.com/rider-guide/stations/minnesota-ave.cfm"
       },
       "geometry": {
         "type": "Point",
