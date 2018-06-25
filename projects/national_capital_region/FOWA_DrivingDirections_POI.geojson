@@ -5,7 +5,7 @@
      "properties":{
        "marker-color":"#000000",
        "marker-size":"medium",
-       "marker-symbol":"ranger station",
+       "marker-symbol":"park",
        "name":"Oxon Hill Farm",
        "url":"https://www.nps.gov/oxhi/index.htm",
        "notes":null,
@@ -24,7 +24,7 @@
      "properties":{
        "marker-color":"#000000",
        "marker-size":"medium",
-       "marker-symbol":"star stroked",
+       "marker-symbol":"park",
        "name":"Harmony Hall",
        "url":"https://www.nps.gov/haha/index.htm",
        "notes":null,
@@ -43,7 +43,7 @@
      "properties":{
        "marker-color":"#000000",
        "marker-size":"medium",
-       "marker-symbol":"entrance station",
+       "marker-symbol":"park",
        "name":"Fort Washington Park",
        "url":"https://www.nps.gov/fowa/index.htm",
        "notes":null,
@@ -62,7 +62,7 @@
      "properties":{
        "marker-color":"#000000",
        "marker-size":"medium",
-       "marker-symbol":"trailhead",
+       "marker-symbol":"park",
        "name":"Acokeek Creek",
        "url":"https://www.nps.gov/pisc/index.htm",
        "notes":null,"image":"https://www.nps.gov/pisc/planyourvisit/images/100_8990-e_2.JPG"
@@ -80,7 +80,7 @@
      "properties":{
        "marker-color":"#000000",
        "marker-size":"medium",
-       "marker-symbol":"fishing",
+       "marker-symbol":"park",
        "name":"Farmington Landing",
        "url":"https://www.nps.gov/pisc/index.htm",
        "notes":null,
@@ -99,7 +99,7 @@
      "properties":{
        "marker-color":"#000000",
        "marker-size":"medium",
-       "marker-symbol":"museum",
+       "marker-symbol":"park",
        "name":"National Colonial Farm",
        "url":"https://accokeekfoundation.org/agriculture/",
        "notes":null,
@@ -118,7 +118,7 @@
      "properties":{
        "marker-color":"#000000",
        "marker-size":"medium",
-       "marker-symbol":"museum",
+       "marker-symbol":"park",
        "name":"Marshall Hall",
        "url":"https://www.nps.gov/pisc/index.htm",
        "notes":null,
@@ -137,7 +137,7 @@
      "properties":{
        "marker-color":"#000000",
        "marker-size":"medium",
-       "marker-symbol":"interpretive exhibit",
+       "marker-symbol":"park",
        "name":"Fort Foote",
        "url":"https://www.nps.gov/fofo/index.htm",
        "notes":null,
