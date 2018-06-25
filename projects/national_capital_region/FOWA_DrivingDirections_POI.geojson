@@ -24,7 +24,7 @@
      "properties":{
        "marker-color":"#000000",
        "marker-size":"medium",
-       "marker-symbol":"park",
+       "marker-symbol":"star stroked",
        "name":"Harmony Hall",
        "url":"https://www.nps.gov/haha/index.htm",
        "notes":null,
@@ -43,7 +43,7 @@
      "properties":{
        "marker-color":"#000000",
        "marker-size":"medium",
-       "marker-symbol":"park",
+       "marker-symbol":"entrance station",
        "name":"Fort Washington Park",
        "url":"https://www.nps.gov/fowa/index.htm",
        "notes":null,
@@ -62,8 +62,8 @@
      "properties":{
        "marker-color":"#000000",
        "marker-size":"medium",
-       "marker-symbol":"park",
-       "name":"Acokeek Creek",
+       "marker-symbol":"trailhead",
+       "name":"Accokeek Creek",
        "url":"https://www.nps.gov/pisc/index.htm",
        "notes":null,"image":"https://www.nps.gov/pisc/planyourvisit/images/100_8990-e_2.JPG"
      },
@@ -80,7 +80,7 @@
      "properties":{
        "marker-color":"#000000",
        "marker-size":"medium",
-       "marker-symbol":"park",
+       "marker-symbol":"fishing",
        "name":"Farmington Landing",
        "url":"https://www.nps.gov/pisc/index.htm",
        "notes":null,
@@ -99,7 +99,7 @@
      "properties":{
        "marker-color":"#000000",
        "marker-size":"medium",
-       "marker-symbol":"park",
+       "marker-symbol":"museum",
        "name":"National Colonial Farm",
        "url":"https://accokeekfoundation.org/agriculture/",
        "notes":null,
@@ -118,7 +118,7 @@
      "properties":{
        "marker-color":"#000000",
        "marker-size":"medium",
-       "marker-symbol":"park",
+       "marker-symbol":"boat launch",
        "name":"Marshall Hall",
        "url":"https://www.nps.gov/pisc/index.htm",
        "notes":null,
@@ -137,7 +137,7 @@
      "properties":{
        "marker-color":"#000000",
        "marker-size":"medium",
-       "marker-symbol":"park",
+       "marker-symbol":"interpretive exhibit",
        "name":"Fort Foote",
        "url":"https://www.nps.gov/fofo/index.htm",
        "notes":null,
