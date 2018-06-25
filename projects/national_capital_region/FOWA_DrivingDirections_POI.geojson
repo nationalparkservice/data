@@ -9,10 +9,8 @@
        "name":"Oxon Hill Farm",
        "url":"https://www.nps.gov/oxhi/index.htm",
        "notes":null,
-       "image":"https://npgallery.nps.gov/GetAsset/28C6C3E2-1DD8-B71C-0784443078364612/proxyhires.jpg",
-       "stroke":null,
-       "stroke_wid":0,
-       "stroke_opa":0},
+       "image":"https://npgallery.nps.gov/GetAsset/28C6C3E2-1DD8-B71C-0784443078364612/proxyhires.jpg"
+     },
      "geometry":{
        "type":"Point",
        "coordinates":[
@@ -30,10 +28,7 @@
        "name":"Harmony Hall",
        "url":"https://www.nps.gov/haha/index.htm",
        "notes":null,
-       "image":"https://npgallery.nps.gov/GetAsset/326E5C2E-1DD8-B71C-070BC72BFCE46477/proxyhires.jpg",
-       "stroke":null,
-       "stroke_wid":0,
-       "stroke_opa":0
+       "image":"https://npgallery.nps.gov/GetAsset/326E5C2E-1DD8-B71C-070BC72BFCE46477/proxyhires.jpg"
      },
      "geometry":{
        "type":"Point",
@@ -52,10 +47,7 @@
        "name":"Fort Washington Park",
        "url":"https://www.nps.gov/fowa/index.htm",
        "notes":null,
-       "image":"https://npgallery.nps.gov/GetAsset/d9ea2a8fb29a47b48c3b3316d9a02000/proxyhires.jpg",
-       "stroke":null,
-       "stroke_wid":0,
-       "stroke_opa":0
+       "image":"https://npgallery.nps.gov/GetAsset/d9ea2a8fb29a47b48c3b3316d9a02000/proxyhires.jpg"
      },
      "geometry":{
        "type":"Point",
@@ -73,10 +65,8 @@
        "marker-symbol":"trailhead",
        "name":"Acokeek Creek",
        "url":"https://www.nps.gov/pisc/index.htm",
-       "notes":null,"image":"https://www.nps.gov/pisc/planyourvisit/images/100_8990-e_2.JPG",
-       "stroke":null,
-       "stroke_wid":0,
-       "stroke_opa":0},
+       "notes":null,"image":"https://www.nps.gov/pisc/planyourvisit/images/100_8990-e_2.JPG"
+     },
      "geometry":{
        "type":"Point",
        "coordinates":[
@@ -94,10 +84,7 @@
        "name":"Farmington Landing",
        "url":"https://www.nps.gov/pisc/index.htm",
        "notes":null,
-       "image":"https://npgallery.nps.gov/GetAsset/30C9BE4C-1DD8-B71C-07BE51EA2EC8B333/proxyhires.jpg",
-       "stroke":null,
-       "stroke_wid":0,
-       "stroke_opa":0
+       "image":"https://npgallery.nps.gov/GetAsset/30C9BE4C-1DD8-B71C-07BE51EA2EC8B333/proxyhires.jpg"
      },
      "geometry":{
        "type":"Point",
@@ -116,10 +103,7 @@
        "name":"National Colonial Farm",
        "url":"https://accokeekfoundation.org/agriculture/",
        "notes":null,
-       "image":"https://npgallery.nps.gov/GetAsset/1D869D05-1DD8-B71C-07050B6F8F9A4B43/original.jpg",
-       "stroke":null,
-       "stroke_wid":0,
-       "stroke_opa":0
+       "image":"https://npgallery.nps.gov/GetAsset/1D869D05-1DD8-B71C-07050B6F8F9A4B43/original.jpg"
      },
      "geometry":{
        "type":"Point",
@@ -138,10 +122,7 @@
        "name":"Marshall Hall",
        "url":"https://www.nps.gov/pisc/index.htm",
        "notes":null,
-       "image":"https://www.nps.gov/pisc/planyourvisit/images/100_8108.JPG",
-       "stroke":null,
-       "stroke_wid":0,
-       "stroke_opa":0
+       "image":"https://www.nps.gov/pisc/planyourvisit/images/100_8108.JPG"
      },
      "geometry":{
        "type":"Point",
@@ -160,10 +141,7 @@
        "name":"Fort Foote",
        "url":"https://www.nps.gov/fofo/index.htm",
        "notes":null,
-       "image":"https://www.nps.gov/fofo/learn/historyculture/images/Image10.jpg",
-       "stroke":null,
-       "stroke_wid":0,
-       "stroke_opa":0
+       "image":"https://www.nps.gov/fofo/learn/historyculture/images/Image10.jpg"
      },
      "geometry":{
        "type":"Point",
