@@ -3,9 +3,9 @@
    {
      "type":"Feature",
      "properties":{
-       "marker-color":"#000000",
+       "marker-color":"#117733",
        "marker-size":"medium",
-       "marker-symbol":"ranger station",
+       "marker-symbol": "park",
        "name":"Oxon Hill Farm",
        "url":"https://www.nps.gov/oxhi/index.htm",
        "notes":null,
@@ -22,9 +22,9 @@
    {
      "type":"Feature",
      "properties":{
-       "marker-color":"#000000",
-       "marker-size":"medium",
-       "marker-symbol":"star stroked",
+       "marker-color": "#117733",
+       "marker-size": "medium",
+       "marker-symbol": "pitch",
        "name":"Harmony Hall",
        "url":"https://www.nps.gov/haha/index.htm",
        "notes":null,
@@ -41,9 +41,9 @@
    {
      "type":"Feature",
      "properties":{
-       "marker-color":"#000000",
+       "marker-color":"#117733",
        "marker-size":"medium",
-       "marker-symbol":"entrance station",
+       "marker-symbol": "entrance station",
        "name":"Fort Washington Park",
        "url":"https://www.nps.gov/fowa/index.htm",
        "notes":null,
@@ -60,9 +60,9 @@
    {
      "type":"Feature",
      "properties":{
-       "marker-color":"#000000",
+       "marker-color":"#117733",
        "marker-size":"medium",
-       "marker-symbol":"trailhead",
+       "marker-symbol": "trailhead",
        "name":"Accokeek Creek",
        "url":"https://www.nps.gov/pisc/index.htm",
        "notes":null,"image":"https://www.nps.gov/pisc/planyourvisit/images/100_8990-e_2.JPG"
@@ -78,9 +78,9 @@
    {
      "type":"Feature",
      "properties":{
-       "marker-color":"#000000",
+       "marker-color":"#117733",
        "marker-size":"medium",
-       "marker-symbol":"fishing",
+       "marker-symbol": "fishing",
        "name":"Farmington Landing",
        "url":"https://www.nps.gov/pisc/index.htm",
        "notes":null,
@@ -97,7 +97,7 @@
    {
      "type":"Feature",
      "properties":{
-       "marker-color":"#000000",
+       "marker-color":"#117733",
        "marker-size":"medium",
        "marker-symbol":"museum",
        "name":"National Colonial Farm",
@@ -116,9 +116,9 @@
    {
      "type":"Feature",
      "properties":{
-       "marker-color":"#000000",
+       "marker-color":"#117733",
        "marker-size":"medium",
-       "marker-symbol":"boat launch",
+       "marker-symbol": "boat launch",
        "name":"Marshall Hall",
        "url":"https://www.nps.gov/pisc/index.htm",
        "notes":null,
@@ -135,9 +135,9 @@
    {
      "type":"Feature",
      "properties":{
-       "marker-color":"#000000",
+       "marker-color":"#117733",
        "marker-size":"medium",
-       "marker-symbol":"interpretive exhibit",
+       "marker-symbol": "interpretive exhibit",
        "name":"Fort Foote",
        "url":"https://www.nps.gov/fofo/index.htm",
        "notes":null,
