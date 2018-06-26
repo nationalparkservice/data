@@ -6,7 +6,7 @@
        "name":"Oxon Hill Farm",
        "url":"https://www.nps.gov/oxhi/index.htm",
        "image":"https://npgallery.nps.gov/GetAsset/28C6C3E2-1DD8-B71C-0784443078364612/proxylores.jpg",
-       "alt":"Becky, the Belgium horse, looking at the barnyard.",
+       "alt":"Becky, the Belgium horse, looking at the barnyard."
      },
      "geometry":{
        "type":"Point",
@@ -22,7 +22,7 @@
        "name":"Harmony Hall",
        "url":"https://www.nps.gov/haha/index.htm",
        "image":"https://npgallery.nps.gov/GetAsset/326E5C2E-1DD8-B71C-070BC72BFCE46477/proxylores.jpg",
-       "alt":"Harmony Hall as it looks today, seen from Lvingston Road.",
+       "alt":"Harmony Hall as it looks today, seen from Lvingston Road."
      },
      "geometry":{
        "type":"Point",
@@ -38,7 +38,7 @@
        "name":"Fort Washington Park",
        "url":"https://www.nps.gov/fowa/index.htm",
        "image":"https://npgallery.nps.gov/GetAsset/d9ea2a8fb29a47b48c3b3316d9a02000/proxylores.jpg",
-       "alt":"Aerial view of Fort Washington 2015",
+       "alt":"Aerial view of Fort Washington 2015"
      },
      "geometry":{
        "type":"Point",
@@ -54,7 +54,7 @@
        "name":"Accokeek Creek",
        "url":"https://www.nps.gov/pisc/index.htm",
        "image":"https://npgallery.nps.gov/GetAsset/30C0BFD1-1DD8-B71C-0700E0639B1424FE/proxylores.jpg",
-       "alt":"View of Estuary from the Boardwalk",
+       "alt":"View of Estuary from the Boardwalk"
      },
      "geometry":{
        "type":"Point",
@@ -70,7 +70,7 @@
        "name":"Farmington Landing",
        "url":"https://www.nps.gov/pisc/index.htm",
        "image":"https://npgallery.nps.gov/GetAsset/30C9BE4C-1DD8-B71C-07BE51EA2EC8B333/proxylores.jpg",
-       "alt":"Accokeek shorline, looking west from boardwalk",
+       "alt":"Accokeek shorline, looking west from boardwalk"
      },
      "geometry":{
        "type":"Point",
@@ -86,7 +86,7 @@
        "name":"National Colonial Farm",
        "url":"https://accokeekfoundation.org/agriculture/",
        "image":"https://npgallery.nps.gov/GetAsset/1D869D05-1DD8-B71C-07050B6F8F9A4B43/proxylores.jpg",
-       "alt":"Park visitors watching African American Day interpretive program",
+       "alt":"Park visitors watching African American Day interpretive program"
      },
      "geometry":{
        "type":"Point",
@@ -102,7 +102,7 @@
        "name":"Marshall Hall",
        "url":"https://www.nps.gov/pisc/index.htm",
        "image":"https://www.nps.gov/pisc/planyourvisit/images/100_8108.JPG",
-       "alt":"Marshall Hall boat ramp",
+       "alt":"Marshall Hall boat ramp"
      },
      "geometry":{
        "type":"Point",
@@ -118,7 +118,7 @@
        "name":"Fort Foote",
        "url":"https://www.nps.gov/fofo/index.htm",
        "image":"https://www.nps.gov/fofo/learn/historyculture/images/Image10.jpg",
-       "alt":"Cannons at Fort Foote Park",
+       "alt":"Cannons at Fort Foote Park"
      },
      "geometry":{
        "type":"Point",
