@@ -1,1 +1,20 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Fort Washington Park","url":"https://www.nps.gov/fowa/index.htm","image":"https://npgallery.nps.gov/GetAsset/d9ea2a8fb29a47b48c3b3316d9a02000/proxylores.jpg","alt":"Aerial view of Fort Washington 2015","m_color":"#000000","m_size":"medium","m_symbol":"entrance station"},"geometry":{"type":"Point","coordinates":[-77.02447728899995,38.71248558900004]}}]}
+{"type":"FeatureCollection",
+ "features":[
+   {
+     "type":"Feature",
+     "properties":{
+       "name":"Fort Washington Park",
+       "url":"https://www.nps.gov/fowa/index.htm",
+       "image":"https://npgallery.nps.gov/GetAsset/d9ea2a8fb29a47b48c3b3316d9a02000/proxylores.jpg",
+       "alt":"Aerial view of Fort Washington 2015"
+     },
+     "geometry":{
+       "type":"Point",
+       "coordinates":[
+         -77.02447728899995,
+         38.71248558900004
+       ]
+     }
+   }
+ ]
+}
