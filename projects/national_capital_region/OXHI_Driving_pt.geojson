@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park",
+        "name":"Oxon Hill Farm",
+        "url":"https://www.nps.gov/oxhi/index.htm",
+        "image":"https://npgallery.nps.gov/GetAsset/28C6C3E2-1DD8-B71C-0784443078364612/proxylores.jpg",
+        "alt":"Becky, the Belgium horse, looking at the barnyard."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00310106399995,
+          38.80214473700004
+        ]
+      }
+    }
+  ]
+}
