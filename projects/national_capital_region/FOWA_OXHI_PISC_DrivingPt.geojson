@@ -9,7 +9,7 @@
        "alt":"Becky, the Belgium horse, looking at the barnyard.",
       "marker-color":"#000000",
       "marker-size":"medium",
-      "marker-symbol": "park"
+      "marker-symbol": "ranger-station"
      },
      "geometry":{
        "type":"Point",
