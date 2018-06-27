@@ -3,7 +3,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Vehicular Entrance"
+       "TITLE":"Vehicular Entrance",
+      "marker-symbol":"car"
      },
      "geometry":{
        "type":"Point",
@@ -16,7 +17,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Vehicular Entrance"
+       "TITLE":"Vehicular Entrance",
+      "marker-symbol":"car"
      },
      "geometry":{
        "type":"Point",
@@ -29,7 +31,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Vehicular Entrance"
+       "TITLE":"Vehicular Entrance",
+      "marker-symbol":"car"
      },
      "geometry":{
        "type":"Point",
@@ -42,7 +45,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Vehicular Entrance"
+       "TITLE":"Vehicular Entrance",
+      "marker-symbol":"car"
      },
      "geometry":{
        "type":"Point",
@@ -55,7 +59,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Vehicular Entrance"
+       "TITLE":"Vehicular Entrance",
+      "marker-symbol":"car"
      },
      "geometry":{
        "type":"Point",
@@ -68,7 +73,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Vehicular Entrance"
+       "TITLE":"Vehicular Entrance",
+      "marker-symbol":"car"
      },
      "geometry":{
        "type":"Point",
@@ -81,7 +87,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Vehicular Entrance"
+       "TITLE":"Vehicular Entrance",
+      "marker-symbol":"car"
      },
      "geometry":{
        "type":"Point",
@@ -94,7 +101,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -107,7 +115,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -120,7 +129,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -133,7 +143,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -146,7 +157,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -159,7 +171,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -172,7 +185,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -185,7 +199,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -198,7 +213,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -211,7 +227,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -224,7 +241,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -237,7 +255,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -250,7 +269,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -263,7 +283,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -276,7 +297,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -289,7 +311,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -302,7 +325,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -315,7 +339,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -328,7 +353,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -341,7 +367,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -354,7 +381,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -367,7 +395,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -380,7 +409,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -393,7 +423,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -406,7 +437,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -419,7 +451,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
@@ -432,7 +465,8 @@
    {
      "type":"Feature",
      "properties":{
-       "TITLE":"Pedestrian Entrance"
+       "TITLE":"Pedestrian Entrance",
+      "marker-symbol":"entrance"
      },
      "geometry":{
        "type":"Point",
