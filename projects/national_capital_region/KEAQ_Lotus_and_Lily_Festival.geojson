@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94016873836517,
+          38.91324220836218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "name": "Shuttle Stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9399970769882,
+          38.91330064493872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "theatre",
+        "name": "Lily Stage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94126844406128,
+          38.91336325550311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94178879261017,
+          38.91281228064115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "name": "Activity Zone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94128453731537,
+          38.912369828034336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94130063056946,
+          38.91193572090927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9415420293808,
+          38.91150161112916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "theatre",
+        "name": "Lotus Stage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94252371788025,
+          38.91219451586113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "name": "Information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94203019142151,
+          38.91171031808561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "hospital",
+        "name": "First Aid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94239497184752,
+          38.912019203254914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "toilets",
+        "name": "Restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94318354129791,
+          38.91217781944111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "gift",
+        "name": "Gift Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94307088851929,
+          38.91188980557734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "name": "Food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94292068481445,
+          38.91188563145478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "name": "Picnic Area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94277048110962,
+          38.91188563145478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "Deanwood Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93533539772034,
+          38.90805785774674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "name": "Shuttle Stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93472385406494,
+          38.90766546797081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "water",
+        "name": "Water Fill Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94208920001984,
+          38.91252009526671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "water",
+        "name": "Water Fill Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94498598575592,
+          38.913041854020086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "name": "Ranger-Led Activities"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94503426551819,
+          38.91293750257627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "gift",
+        "name": "Gift Shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94194436073303,
+          38.912645317717335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "entrance",
+        "name": "Main Entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94227159023285,
+          38.91165188019966
+        ]
+      }
+    }
+  ]
+}
