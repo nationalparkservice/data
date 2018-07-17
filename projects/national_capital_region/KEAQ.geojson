@@ -20,7 +20,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#804040",
+        "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "building",
         "name": "Visitor Center / Bookstore"
@@ -36,7 +36,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#804040",
+        "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "garden",
         "name": "Aquatic Gardens"
@@ -84,7 +84,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#804040",
+        "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "pitch",
         "name": "Track / Playing Field"
@@ -100,7 +100,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#804040",
+        "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "tennis",
         "name": "Tennis Court"
@@ -148,7 +148,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#804040",
+        "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "basketball",
         "name": "Basketball Courts"
@@ -182,7 +182,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#808080",
+        "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "Deanwood Metro",
@@ -199,7 +199,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#808080",
+        "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "Minnesota Ave. Metro",
