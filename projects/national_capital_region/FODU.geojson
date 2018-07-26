@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "large",
+        "marker-symbol": "theatre",
+        "name": "Fort Dupont Amphitheater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95678770542145,
+          38.881023810471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "Parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95723295211792,
+          38.88033268953028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "name": "Community Garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94992929697037,
+          38.8766869675187
+        ]
+      }
+    }
+  ]
+}
