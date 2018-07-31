@@ -1,0 +1,527 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Rocky Mountain",
+        "des": "National Park",
+        "alpha": "romo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.71731567382812,
+          40.35439349189311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Yellowstone",
+        "des": "National Park",
+        "alpha": "yell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.55953979492188,
+          44.62566377574352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Grand Canyon",
+        "des": "National Park",
+        "alpha": "grca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1044921875,
+          36.09849285185278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Everglades",
+        "des": "National Park",
+        "alpha": "ever"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.85525512695312,
+          25.490389073998024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mississippi",
+        "des": "National River and Recreation Area",
+        "alpha": "miss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.08844566345215,
+          44.943599685316954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Yosemite",
+        "des": "National Park",
+        "alpha": "yose"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.59373474121094,
+          37.74031329210266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Glacier",
+        "des": "National Park",
+        "alpha": "glac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.7139892578125,
+          48.70365031117296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zion",
+        "des": "National Park",
+        "alpha": "zion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.9449462890625,
+          37.26804220665895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Olympic",
+        "des": "National Park",
+        "alpha": "olym"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.519287109375,
+          47.78548011929362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Joshua Tree",
+        "des": "National Park",
+        "alpha": "jotr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.95451354980467,
+          33.895497227123876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Shenandoah",
+        "des": "National Park",
+        "alpha": "shen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.25561523437499,
+          38.758366935612784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Redwood",
+        "des": "National Park",
+        "alpha": "redw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.02877807617186,
+          41.274194173906544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Grand Teton",
+        "des": "National Park",
+        "alpha": "grte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.71094512939452,
+          43.76365585841395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Channel Islands",
+        "des": "National Park",
+        "alpha": "chis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.10528564453125,
+          33.9678506936076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sequoia and Kings Canyon",
+        "des": "National Parks",
+        "alpha": "seki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.62075805664061,
+          36.68714253990003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Death Valley",
+        "des": "National Park",
+        "alpha": "deva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0867919921875,
+          36.50301312197295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bryce Canyon",
+        "des": "National Park",
+        "alpha": "brca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.18963623046875,
+          37.575331106875026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Denali",
+        "des": "National Park",
+        "alpha": "dena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.66650390625,
+          63.35951948621985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mount Rainier",
+        "des": "National Park",
+        "alpha": "mora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75460815429686,
+          46.85126948767615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Assateague Island",
+        "des": "National Seashore",
+        "alpha": "asis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.20725250244139,
+          38.089174937729794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cape Cod",
+        "des": "National Seashore",
+        "alpha": "caco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.95819091796875,
+          41.86547012230937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Padre Island",
+        "des": "National Seashore",
+        "alpha": "pais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.38075256347656,
+          27.147755837357373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Great Smoky Mountains",
+        "des": "National Park",
+        "alpha": "grsm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.43429565429688,
+          35.60874315730877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Lassen Volcanic",
+        "des": "National Park",
+        "alpha": "lavo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.41952514648438,
+          40.49291502689579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Isle Royale",
+        "des": "National Park",
+        "alpha": "isro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.86703491210938,
+          48.007381433478855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cuyahoga Valley",
+        "des": "National Park",
+        "alpha": "cuva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.56387329101562,
+          41.26696898724201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Badlands",
+        "des": "National Park",
+        "alpha": "badl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.35652923583984,
+          43.52291243104015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Theodore Roosevelt",
+        "des": "National Park",
+        "alpha": "thro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.46443176269531,
+          46.953074529521054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Great Sand Dunes",
+        "des": "National Park",
+        "alpha": "grsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.61294555664061,
+          37.791337175930686
+        ]
+      }
+    }
+  ]
+}
