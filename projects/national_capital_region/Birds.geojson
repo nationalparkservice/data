@@ -720,6 +720,276 @@
           34.98106504449502
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "San Juan Island",
+        "des": "National Historical Park",
+        "alpha": "sajh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.08704376220702,
+          48.537749809416624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fire Island",
+        "des": "National Seashore",
+        "alpha": "fiis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.92552947998047,
+          40.71343536379427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Dry Tortugas",
+        "des": "National Park",
+        "alpha": "drto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.87330627441406,
+          24.62844916103919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Chiricahua",
+        "des": "National Monument",
+        "alpha": "chir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.34795379638672,
+          32.0162271965248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Golden Gate",
+        "des": "National Recreation Area",
+        "alpha": "goga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47266769409178,
+          37.80544394934271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Black Canyon of the Gunnison",
+        "des": "National Park",
+        "alpha": "blca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.76283264160156,
+          38.58306291549108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Saguaro",
+        "des": "National Park",
+        "alpha": "sagu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.16035461425781,
+          32.295549167538326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Devils Tower",
+        "des": "National Monument",
+        "alpha": "deto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.71498489379883,
+          44.59071167564237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Lake Clark",
+        "des": "National Park and Preserve",
+        "alpha": "lacl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.24005126953125,
+          60.71351077751845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Chattahoochee River",
+        "des": "National Recreation Area",
+        "alpha": "chat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.32783603668213,
+          33.99400671093899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Lake Mead",
+        "des": "National Recreation Area",
+        "alpha": "lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.80257987976074,
+          36.03785612948406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Hot Springs",
+        "des": "National Park",
+        "alpha": "hosp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.05419921875,
+          34.5235300339023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sleeping Bear Dunes",
+        "des": "National Lakeshore",
+        "alpha": "slbe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.90553283691406,
+          44.93758500391091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Canyonlands",
+        "des": "National Park",
+        "alpha": "cany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.85641479492188,
+          38.347580040410506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "North Cascades",
+        "des": "National Park",
+        "alpha": "noca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.41403198242189,
+          48.81048112472012
+        ]
+      }
     }
   ]
 }
