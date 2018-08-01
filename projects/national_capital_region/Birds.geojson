@@ -522,6 +522,204 @@
           37.791337175930686
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Arches",
+        "des": "National Park",
+        "alpha": "arch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.56390380859375,
+          38.7283759182398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Glacier Bay",
+        "des": "National Park",
+        "alpha": "glba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136.8072509765625,
+          58.65979930575396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kenai Fjords",
+        "des": "National Park",
+        "alpha": "kefj"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.85214233398438,
+          59.957072935349565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bandelier",
+        "des": "National Monument",
+        "alpha": "band"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.31195068359375,
+          35.77994251888403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Pinnacles",
+        "des": "National Park",
+        "alpha": "pinn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.18331909179688,
+          36.488661268293136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Point Reyes",
+        "des": "National Seashore",
+        "alpha": "pore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89581298828125,
+          38.07458199472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mammoth Cave",
+        "des": "National Park",
+        "alpha": "maca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.11186981201172,
+          37.18685211021446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cape Hatteras",
+        "des": "National Seashore",
+        "alpha": "caha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.49701690673828,
+          35.72338144638324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Big Bend",
+        "des": "National Park",
+        "alpha": "bibe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.21517944335938,
+          29.256450395256557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Muir Woods",
+        "des": "National Monument",
+        "alpha": "muwo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.58047103881836,
+          37.89619179264958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Petrified Forest",
+        "des": "National Park",
+        "alpha": "pefo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.71153259277344,
+          34.98106504449502
+        ]
+      }
     }
   ]
 }
