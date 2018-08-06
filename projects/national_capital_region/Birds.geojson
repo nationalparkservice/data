@@ -990,6 +990,312 @@
           48.81048112472012
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Blue Ridge",
+        "des": "Parkway",
+        "alpha": "blri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.86785888671875,
+          37.30013872964709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Santa Monica Mountains",
+        "des": "National Recreation Area",
+        "alpha": "samo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7042713165283,
+          34.101748533093314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Carlsbad Caverns",
+        "des": "National Park",
+        "alpha": "cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6004867553711,
+          32.12212726745142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mesa Verde",
+        "des": "National Park",
+        "alpha": "meve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.45909118652342,
+          37.25328687335229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mojave",
+        "des": "National Preserve",
+        "alpha": "moja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.51300048828125,
+          35.09631620868229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Great Falls",
+        "des": "Park",
+        "alpha": "grfa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.24942207336426,
+          38.99036995221769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Glen Canyon",
+        "des": "National Recreation Area",
+        "alpha": "glca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.08963012695312,
+          37.658819317731265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Great Basin",
+        "des": "National Park",
+        "alpha": "grba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2416763305664,
+          38.90679719352289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "City of Rocks",
+        "des": "National Reserve",
+        "alpha": "ciro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.70677947998047,
+          42.0714686155466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mount Rushmore",
+        "des": "National Memorial",
+        "alpha": "moru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.45846652984619,
+          43.879087756333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Delaware Water Gap",
+        "des": "National Recreation Area",
+        "alpha": "dewa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.90753173828125,
+          41.14401849741132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Capitol Reef",
+        "des": "National Park",
+        "alpha": "care"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.15245819091797,
+          38.06458144502031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Apostle Islands",
+        "des": "National Lakeshore",
+        "alpha": "apis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.71067810058594,
+          46.927758623434435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Gateway",
+        "des": "National Recreation Area",
+        "alpha": "gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9877700805664,
+          40.44093755756703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "White Sands",
+        "des": "National Monument",
+        "alpha": "whsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.32499694824219,
+          32.767068346801274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cedar Breaks",
+        "des": "National Monument",
+        "alpha": "cebr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.84778594970702,
+          37.64196606132065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Pictured Rocks",
+        "des": "National Lakeshore",
+        "alpha": "piro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3082504272461,
+          46.57868671298067
+        ]
+      }
     }
   ]
 }
