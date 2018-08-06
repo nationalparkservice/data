@@ -1546,6 +1546,186 @@
           43.14909399920127
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Pu`uhonua O Hōnaunau",
+        "des": "National Historical Park",
+        "alpha": "puho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.90769052505493,
+          19.41616858375206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Gettysburg",
+        "des": "National Military Park",
+        "alpha": "gett"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.22577571868896,
+          39.81107445811594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "St. Croix",
+        "des": "National Scenic River",
+        "alpha": "sacn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.65045166015625,
+          45.40230699238177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ozark",
+        "des": "National Scenic Riverways",
+        "alpha": "ozar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.27681732177734,
+          37.18876668723709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tonto",
+        "des": "National Monument",
+        "alpha": "tont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.11160278320312,
+          33.643491599185744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Lava Beds",
+        "des": "National Monument",
+        "alpha": "labe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.52595520019531,
+          41.769519280779775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Indiana Dunes",
+        "des": "National Lakeshore",
+        "alpha": "indu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.20294952392578,
+          41.62115308293478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Buffalo",
+        "des": "National River",
+        "alpha": "buff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.84734725952148,
+          35.965363840467134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Oregon Caves",
+        "des": "National Monument & Preserve",
+        "alpha": "https://www.nps.gov/orca/planyourvisit/maps.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.4090805053711,
+          42.106883126911654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Jewel Cave",
+        "des": "National Monument",
+        "alpha": "jeca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.83161544799803,
+          43.73017359599859
+        ]
+      }
     }
   ]
 }
