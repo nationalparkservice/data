@@ -1296,6 +1296,256 @@
           46.57868671298067
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cape Lookout",
+        "des": "National Seashore",
+        "alpha": "calo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.34193420410156,
+          34.831841149828655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Guadalupe Mountains",
+        "des": "National Park",
+        "alpha": "gumo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.88853454589844,
+          31.903792716788487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Boston Harbor Islands",
+        "des": "National Recreation Area",
+        "alpha": "boha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.98633527755737,
+          42.323730365276255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Dinosaur",
+        "des": "National Monument",
+        "alpha": "dino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9239501953125,
+          40.51118899461994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cabrillo",
+        "des": "National Monument",
+        "alpha": "cabr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2410297393799,
+          32.67223656048769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "National Park of American Samoa",
+        "alpha": "npsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.7026481628418,
+          -14.29931784641949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Chesapeake & Ohio Canal",
+        "des": "National Historical Park",
+        "alpha": "choh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.82714843749999,
+          39.59695869911646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Kenilworth Park and Aquatic Gardens",
+        "alpha": "keaq"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94350004196167,
+          38.91279141029714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Wrangell-St. Elias",
+        "des": "National Park",
+        "alpha": "wrst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.86596679687497,
+          61.21737938763191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "New River Gorge",
+        "des": "National River",
+        "alpha": "neri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.06227874755858,
+          37.88108620012162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Prince William Forest",
+        "des": "Park",
+        "alpha": "prwi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.38306045532227,
+          38.586015002539696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Big Cypress",
+        "des": "National Preserve",
+        "alpha": "bicy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.09352111816405,
+          25.930877120921785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Colorado",
+        "des": "National Monument",
+        "alpha": "colm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.6990737915039,
+          39.05065194925692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Craters of the Moon",
+        "des": "National Monument and Preserve",
+        "alpha": "crmo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.51074218749999,
+          43.14909399920127
+        ]
+      }
     }
   ]
 }
