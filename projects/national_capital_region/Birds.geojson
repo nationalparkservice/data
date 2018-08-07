@@ -1870,6 +1870,168 @@
           29.48324086093357
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "John Day Fossil Beds",
+        "des": "National Monument",
+        "alpha": "joda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.63493347167967,
+          44.54839885389387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Historic Jamestowne",
+        "des": "Part of Colonial National Historical Park",
+        "alpha": "jame"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.75589561462402,
+          37.20339792265848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Casa Grande Ruins",
+        "des": "National Monument",
+        "alpha": "cagr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.53238773345947,
+          32.99685854181673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Manassas",
+        "des": "National Battlefield Park",
+        "alpha": "mana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.53068923950195,
+          38.82225662587506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Obed",
+        "des": "Wild and Scenic River",
+        "alpha": "obed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.72450256347656,
+          36.107924111286465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Big Thicket",
+        "des": "National Preserve",
+        "alpha": "bith"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.07524108886719,
+          30.110904625422133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bighorn Canyon",
+        "des": "National Recreation Area",
+        "alpha": "bica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.26271057128906,
+          45.0400521414756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Effigy Mounds",
+        "des": "National Monument",
+        "alpha": "efmo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.19064331054688,
+          43.08719407237443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Whiskeytown",
+        "des": "National Recreation Area",
+        "alpha": "whis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.59231567382812,
+          40.6306300839918
+        ]
+      }
     }
   ]
 }
