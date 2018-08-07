@@ -11,7 +11,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"ABLI",
+    "alpha":"abli",
     "name":"Abraham Lincoln Birthplace",
     "designation":"National Historical Park",
     "birds":"https://www.nps.gov/abli/learn/nature/images/two-robins-at-abli(2).jpg"
@@ -27,7 +27,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"AGFO",
+    "alpha":"agfo",
     "name":"Agate Fossil Beds",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/agfo/learn/nature/images/100_4888.jpg"
@@ -43,7 +43,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"AMIS",
+    "alpha":"amis",
     "name":"Amistad",
     "designation":"National Recreation Area",
     "birds":"https://www.nps.gov/amis/learn/nature/images/9dqlm839.jpg"
@@ -59,7 +59,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"APCO",
+    "alpha":"apco",
     "name":"Appomattox Court House",
     "designation":"National Historical Park",
     "birds":""
@@ -75,7 +75,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"APIS",
+    "alpha":"apis",
     "name":"Apostle Islands",
     "designation":"National Lakeshore",
     "birds":"https://www.nps.gov/apis/learn/nature/images/piping_plovers-6,_Long_I_7-06.jpg"
@@ -91,7 +91,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"ARCH",
+    "alpha":"arch",
     "name":"Arches",
     "designation":"National Park",
     "birds":"https://www.nps.gov/arch/learn/nature/images/ScrubJay.jpg"
@@ -107,7 +107,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"ARPO",
+    "alpha":"arpo",
     "name":"Arkansas Post",
     "designation":"National Memorial",
     "birds":""
@@ -123,7 +123,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"ASIS",
+    "alpha":"asis",
     "name":"Assateague Island",
     "designation":"National Seashore",
     "birds":"https://www.nps.gov/asis/learn/nature/images/gbh.jpg"
@@ -139,7 +139,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"AZRU",
+    "alpha":"azru",
     "name":"Aztec Ruins",
     "designation":"National Monument",
     "birds":""
@@ -155,7 +155,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"BADL",
+    "alpha":"badl",
     "name":"Badlands",
     "designation":"National Park",
     "birds":"https://www.nps.gov/badl/learn/nature/images/Lee-hornedlark-birds.jpg"
@@ -171,7 +171,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"BAND",
+    "alpha":"band",
     "name":"Bandelier",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/band/learn/nature/images/western-screech-owl-14.jpg"
@@ -187,7 +187,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"BEOL",
+    "alpha":"beol",
     "name":"Bent's Old Fort",
     "designation":"National Historic Site",
     "birds":"https://www.nps.gov/beol/learn/nature/images/sd79rcty.jpg"
@@ -203,7 +203,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"BIBE",
+    "alpha":"bibe",
     "name":"Big Bend",
     "designation":"National Park",
     "birds":"https://www.nps.gov/bibe/learn/nature/images/Feathers_cballou_2.jpg"
@@ -219,7 +219,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"BICA",
+    "alpha":"bica",
     "name":"Bighorn Canyon",
     "designation":"National Recreation Area",
     "birds":""
@@ -235,7 +235,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"BICY",
+    "alpha":"bicy",
     "name":"Big Cypress",
     "designation":"National Preserve",
     "birds":""
@@ -251,7 +251,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"BIHO",
+    "alpha":"biho",
     "name":"Big Hole",
     "designation":"National Battlefield",
     "birds":"https://www.nps.gov/biho/learn/nature/images/spruce_grouse.JPG"
@@ -267,7 +267,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"BISO",
+    "alpha":"biso",
     "name":"Big South Fork",
     "designation":"National River & Recreation Area",
     "birds":"https://www.nps.gov/biso/learn/nature/images/housewren_imageonly.jpg"
@@ -283,7 +283,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"BITH",
+    "alpha":"bith",
     "name":"Big Thicket",
     "designation":"National Preserve",
     "birds":""
@@ -299,7 +299,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"BLCA",
+    "alpha":"blca",
     "name":"Black Canyon Of The Gunnison",
     "designation":"National Park",
     "birds":"https://www.nps.gov/blca/learn/nature/images/bluebird.jpg"
@@ -315,7 +315,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"BLRI",
+    "alpha":"blri",
     "name":"Blue Ridge",
     "designation":"Parkway",
     "birds":"https://www.nps.gov/blri/learn/nature/images/heron-Jim-ruff_1.jpg"
@@ -331,7 +331,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"BLUE",
+    "alpha":"blue",
     "name":"Bluestone",
     "designation":"National Scenic River",
     "birds":"https://www.nps.gov/blue/learn/nature/images/web-scarlet-tanager-square.jpg"
@@ -347,7 +347,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"BOHA",
+    "alpha":"boha",
     "name":"Boston Harbor Islands",
     "designation":"National Recreation Area",
     "birds":"https://www.nps.gov/boha/learn/nature/images/tern_nest_1_1.jpg"
@@ -363,7 +363,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"BRCA",
+    "alpha":"brca",
     "name":"Bryce Canyon",
     "designation":"National Park",
     "birds":"https://www.nps.gov/brca/learn/nature/images/bird_collage_001.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -379,7 +379,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"BUFF",
+    "alpha":"buff",
     "name":"Buffalo",
     "designation":"National River",
     "birds":"https://www.nps.gov/buff/learn/nature/images/bald-eagle-II-taken-by-BCHA-30-Oct-2012-near-Carver2.jpg?maxwidth=650&autorotate=false"
@@ -395,7 +395,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CABR",
+    "alpha":"cabr",
     "name":"Cabrillo",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/cabr/learn/nature/images/Birds_2.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -411,7 +411,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CACO",
+    "alpha":"caco",
     "name":"Cape Cod",
     "designation":"National Seashore",
     "birds":"https://www.nps.gov/caco/learn/nature/images/incubating.jpg?maxwidth=650&autorotate=false"
@@ -427,7 +427,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CAGR",
+    "alpha":"cagr",
     "name":"Casa Grande Ruins",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/cagr/learn/nature/images/PICT0012.JPG?maxwidth=650&autorotate=false"
@@ -443,7 +443,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CAHA",
+    "alpha":"caha",
     "name":"Cape Hatteras",
     "designation":"National Seashore",
     "birds":"https://www.nps.gov/caha/learn/nature/images/black_skimmer.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -459,7 +459,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CAKR",
+    "alpha":"cakr",
     "name":"Cape Krusenstern",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/cakr/learn/nature/images/swans-flying-over-the-tundra.jpg?maxwidth=1200&autorotate=false"
@@ -475,7 +475,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CALO",
+    "alpha":"calo",
     "name":"Cape Lookout",
     "designation":"National Seashore",
     "birds":"https://www.nps.gov/calo/learn/nature/images/IMG_9744RESIZE.jpg?maxwidth=650&autorotate=false"
@@ -491,7 +491,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CANY",
+    "alpha":"cany",
     "name":"Canyonlands",
     "designation":"National Park",
     "birds":"https://www.nps.gov/cany/learn/nature/images/CanyonWren_1.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -507,7 +507,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CARE",
+    "alpha":"care",
     "name":"Capitol Reef",
     "designation":"National Park",
     "birds":"https://www.nps.gov/care/learn/nature/images/23-10-2-Canyon-Wren.jpg?maxwidth=650&autorotate=false"
@@ -523,7 +523,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CATO",
+    "alpha":"cato",
     "name":"Catoctin Mountain",
     "designation":"Park",
     "birds":""
@@ -539,7 +539,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CAVE",
+    "alpha":"cave",
     "name":"Carlsbad Caverns",
     "designation":"National Park",
     "birds":"https://www.nps.gov/cave/learn/nature/images/bird_greathornedowl_556.jpg?maxwidth=650&autorotate=false"
@@ -555,7 +555,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CAVO",
+    "alpha":"cavo",
     "name":"Capulin Volcano",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/cavo/learn/nature/images/Mt-Blue-Bird-2_2.jpg?maxwidth=650&autorotate=false"
@@ -571,7 +571,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CEBR",
+    "alpha":"cebr",
     "name":"Cedar Breaks",
     "designation":"National Monument",
     "birds":""
@@ -587,7 +587,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CHAT",
+    "alpha":"chat",
     "name":"Chattahoochee River",
     "designation":"National Recreation Area",
     "birds":""
@@ -603,7 +603,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CHIC",
+    "alpha":"chic",
     "name":"Chickasaw",
     "designation":"National Recreation Area",
     "birds":""
@@ -619,7 +619,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CHIR",
+    "alpha":"chir",
     "name":"Chiricahua",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/chir/learn/nature/images/Canyon_Wren_-18565207405.jpg?maxwidth=650&autorotate=false"
@@ -635,7 +635,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CHIS",
+    "alpha":"chis",
     "name":"Channel Islands",
     "designation":"National Park",
     "birds":"https://www.nps.gov/chis/planyourvisit/images/960-0M9B4450_1.jpg?maxwidth=650&autorotate=false"
@@ -651,7 +651,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CHOH",
+    "alpha":"choh",
     "name":"Chesapeake & Ohio Canal",
     "designation":"National Historical Park",
     "birds":"https://www.nps.gov/choh/learn/nature/images/2-Red-Tailed-Hawk.JPG?maxwidth=650&autorotate=false"
@@ -667,7 +667,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CIRO",
+    "alpha":"ciro",
     "name":"City Of Rocks",
     "designation":"National Reserve",
     "birds":"https://www.nps.gov/ciro/learn/nature/images/1597-Black-throated-Gray-Warbler14b.jpg?maxwidth=650&autorotate=false"
@@ -683,7 +683,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"COLM",
+    "alpha":"colm",
     "name":"Colorado",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/colm/learn/nature/images/bird_collage.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -699,7 +699,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"COLO",
+    "alpha":"colo",
     "name":"Colonial",
     "designation":"National Historical Park",
     "birds":""
@@ -715,7 +715,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CORO",
+    "alpha":"coro",
     "name":"Coronado",
     "designation":"National Memorial",
     "birds":"https://www.nps.gov/coro/learn/nature/images/Strickland-s-002.jpg?maxwidth=650&autorotate=false"
@@ -731,7 +731,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CRMO",
+    "alpha":"crmo",
     "name":"Craters Of The Moon",
     "designation":"National Monument & Preserve",
     "birds":"https://www.nps.gov/crmo/learn/nature/images/Bluebird-Doug-Owen_1_1.jpg?maxwidth=650&autorotate=false"
@@ -747,7 +747,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CUGA",
+    "alpha":"cuga",
     "name":"Cumberland Gap",
     "designation":"National Historical Park",
     "birds":""
@@ -763,7 +763,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CUVA",
+    "alpha":"cuva",
     "name":"Cuyahoga Valley",
     "designation":"National Park",
     "birds":"https://www.nps.gov/cuva/learn/nature/images/CVNP_spring_bids_Yellow_Warbler12_-Jim-Schmidt_285w.jpg?maxwidth=650&autorotate=false"
@@ -779,7 +779,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"CWDW",
+    "alpha":"cwdw",
     "name":"Civil War Defenses of Washington",
     "designation":"",
     "birds":""
@@ -795,7 +795,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"DENA",
+    "alpha":"dena",
     "name":"Denali",
     "designation":"National Park & Preserve",
     "birds":"https://www.nps.gov/dena/learn/nature/images/arctic_tern_banner.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -811,7 +811,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"DETO",
+    "alpha":"deto",
     "name":"Devils Tower",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/deto/learn/nature/images/Turkey.jpg?maxwidth=650&autorotate=false"
@@ -827,7 +827,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"DEVA",
+    "alpha":"deva",
     "name":"Death Valley",
     "designation":"National Park",
     "birds":"https://www.nps.gov/deva/learn/nature/images/IMG_1327.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -843,7 +843,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"DEWA",
+    "alpha":"dewa",
     "name":"Delaware Water Gap",
     "designation":"National Recreation Area",
     "birds":"https://www.nps.gov/dewa/learn/nature/images/Eagle_Mohr_47-IMG_2953_1.jpg?maxwidth=650&autorotate=false"
@@ -859,7 +859,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"DINO",
+    "alpha":"dino",
     "name":"Dinosaur",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/dino/learn/nature/images/Blue-Heron_1.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -875,7 +875,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"DRTO",
+    "alpha":"drto",
     "name":"Dry Tortugas",
     "designation":"National Park",
     "birds":"https://www.nps.gov/drto/learn/nature/images/MaskedBoobyHospitalKey.jpg?maxwidth=650&autorotate=false"
@@ -891,7 +891,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"EFMO",
+    "alpha":"efmo",
     "name":"Effigy Mounds",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/efmo/learn/nature/images/Hawk-Watch-2.jpg?maxwidth=650&autorotate=false"
@@ -907,7 +907,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"EISE",
+    "alpha":"eise",
     "name":"Eisenhower",
     "designation":"National Historic Site",
     "birds":"https://www.nps.gov/eise/learn/nature/images/DSCN2115.JPG?maxwidth=650&autorotate=false"
@@ -923,7 +923,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"ELMA",
+    "alpha":"elma",
     "name":"El Malpais",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/elma/learn/nature/images/Red-Tail.jpg?maxwidth=650&autorotate=false"
@@ -939,7 +939,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"ELMO",
+    "alpha":"elmo",
     "name":"El Morro",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/elmo/learn/nature/images/Raven_1.jpg?maxwidth=650&autorotate=false"
@@ -955,7 +955,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"EVER",
+    "alpha":"ever",
     "name":"Everglades",
     "designation":"National Park",
     "birds":"https://www.nps.gov/ever/learn/nature/images/WadingBirds_RodneyCammauf_1.jpg?maxwidth=650&autorotate=false"
@@ -971,7 +971,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"FIIS",
+    "alpha":"fiis",
     "name":"Fire Island",
     "designation":"National Seashore",
     "birds":"https://www.nps.gov/fiis/learn/nature/images/Shorebirds-1.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -987,7 +987,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"FLFO",
+    "alpha":"flfo",
     "name":"Florissant Fossil Beds",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/flfo/learn/nature/images/woodpecker1_a_1.jpg?maxwidth=650&autorotate=false"
@@ -1003,7 +1003,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"FOBO",
+    "alpha":"fobo",
     "name":"Fort Bowie",
     "designation":"National Historic Site",
     "birds":"https://www.nps.gov/fobo/learn/nature/images/Flycatcher-on-adobe-wall-FOBO_2.jpg?maxwidth=1200&autorotate=false"
@@ -1019,7 +1019,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"FOBU",
+    "alpha":"fobu",
     "name":"Fossil Butte",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/fobu/learn/nature/images/7z8vfojz.jpg?maxwidth=650&autorotate=false"
@@ -1035,7 +1035,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"FOMA",
+    "alpha":"foma",
     "name":"Fort Matanzas",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/foma/learn/nature/images/IMG_1029-1-688.jpg?maxwidth=650&autorotate=false"
@@ -1051,7 +1051,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"FOMC",
+    "alpha":"fomc",
     "name":"Fort McHenry",
     "designation":"National Monument and Historic Shrine",
     "birds":""
@@ -1067,7 +1067,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"FOPU",
+    "alpha":"fopu",
     "name":"Fort Pulaski",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/fopu/learn/nature/images/SAVANNAH_SPARROW_1.jpg?maxwidth=650&autorotate=false"
@@ -1083,7 +1083,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"FRSP",
+    "alpha":"frsp",
     "name":"Fredericksburg & Spotsylvania",
     "designation":"National Military Park",
     "birds":""
@@ -1099,7 +1099,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"GAAR",
+    "alpha":"gaar",
     "name":"Gates Of The Arctic",
     "designation":"National Park & Preserve",
     "birds":""
@@ -1115,7 +1115,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"GATE",
+    "alpha":"gate",
     "name":"Gateway",
     "designation":"National Recreation Area",
     "birds":"https://www.nps.gov/gate/images/Woodcock-2-JBWR-2011_WS.JPG?maxwidth=650&autorotate=false"
@@ -1131,7 +1131,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"GETT",
+    "alpha":"gett",
     "name":"Gettysburg",
     "designation":"National Military Park",
     "birds":"https://www.nps.gov/gett/learn/nature/images/cangooseeggs_birds.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -1147,7 +1147,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"GICL",
+    "alpha":"gicl",
     "name":"Gila Cliff Dwellings",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/gicl/learn/nature/images/Hummingbird-Rufous-male-with-female.jpg?maxwidth=650&autorotate=false"
@@ -1163,7 +1163,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"GLAC",
+    "alpha":"glac",
     "name":"Glacier",
     "designation":"National Park",
     "birds":"https://www.nps.gov/glac/learn/nature/images/harlequincreek_1.jpg?maxwidth=650&autorotate=false"
@@ -1179,7 +1179,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"GLBA",
+    "alpha":"glba",
     "name":"Glacier Bay",
     "designation":"National Park & Preserve",
     "birds":"https://www.nps.gov/glba/learn/nature/images/tufted-puffin.JPG?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -1195,7 +1195,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"GLCA",
+    "alpha":"glca",
     "name":"Glen Canyon",
     "designation":"National Recreation Area",
     "birds":"https://www.nps.gov/glca/learn/nature/images/bird-cover-pic.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -1211,7 +1211,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"GOGA",
+    "alpha":"goga",
     "name":"Golden Gate",
     "designation":"National Recreation Area",
     "birds":"https://www.nps.gov/goga/learn/nature/images/quail_web.jpg?maxwidth=650&autorotate=false"
@@ -1227,7 +1227,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"GOIS",
+    "alpha":"gois",
     "name":"Governors Island",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/gois/learn/nature/images/Web_page_resize_2007_Dec_19_IMG_0144_1.jpg?maxwidth=650&autorotate=false"
@@ -1243,7 +1243,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"GRBA",
+    "alpha":"grba",
     "name":"Great Basin",
     "designation":"National Park",
     "birds":""
@@ -1259,7 +1259,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"GRCA",
+    "alpha":"grca",
     "name":"Grand Canyon",
     "designation":"National Park",
     "birds":"https://www.nps.gov/common/uploads/grid_builder/imr/crop1_1/07C49597-1DD8-B71B-0B44BD6F73564C45.jpg?width=640&quality=90&mode=crop"
@@ -1275,7 +1275,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"GRFA",
+    "alpha":"grfa",
     "name":"Great Falls",
     "designation":"Park",
     "birds":"https://www.nps.gov/grfa/learn/nature/images/small-N-River-Trail-Heron-NPS-photo-2.jpg?maxwidth=650&autorotate=false"
@@ -1291,7 +1291,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"GRKO",
+    "alpha":"grko",
     "name":"Grant-Kohrs Ranch",
     "designation":"National Historic Site",
     "birds":""
@@ -1307,7 +1307,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"GRSA",
+    "alpha":"grsa",
     "name":"Great Sand Dunes",
     "designation":"National Park & Preserve",
     "birds":"https://www.nps.gov/grsa/learn/nature/images/web285western_tanager-nps-s.jpg?maxwidth=650&autorotate=false"
@@ -1323,7 +1323,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"GRSM",
+    "alpha":"grsm",
     "name":"Great Smoky Mountains",
     "designation":"National Park",
     "birds":""
@@ -1339,7 +1339,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"GRTE",
+    "alpha":"grte",
     "name":"Grand Teton",
     "designation":"National Park",
     "birds":"https://www.nps.gov/grte/learn/nature/images/shcrane.jpg?maxwidth=650&autorotate=false"
@@ -1355,7 +1355,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"GUMO",
+    "alpha":"gumo",
     "name":"Guadalupe Mountains",
     "designation":"National Park",
     "birds":"https://www.nps.gov/gumo/learn/nature/images/08k4oz2z.jpg?maxwidth=650&autorotate=false"
@@ -1371,7 +1371,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"GWMP",
+    "alpha":"gwmp",
     "name":"George Washington",
     "designation":"Memorial Parkway",
     "birds":""
@@ -1387,7 +1387,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"HAFE",
+    "alpha":"hafe",
     "name":"Harpers Ferry",
     "designation":"National Historical Park",
     "birds":"https://www.nps.gov/hafe/learn/nature/images/greatblueheron200.jpg?maxwidth=650&autorotate=false"
@@ -1403,7 +1403,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"HAFO",
+    "alpha":"hafo",
     "name":"Hagerman Fossil Beds",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/hafo/learn/nature/images/Blue-Heron.jpg?maxwidth=650&autorotate=false"
@@ -1419,7 +1419,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"HAMP",
+    "alpha":"hamp",
     "name":"Hampton",
     "designation":"National Historic Site",
     "birds":""
@@ -1435,7 +1435,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"HOME",
+    "alpha":"home",
     "name":"Homestead",
     "designation":"National Monument of America",
     "birds":"https://www.nps.gov/home/learn/nature/images/turkey8.jpg?maxwidth=650&autorotate=false"
@@ -1451,7 +1451,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"HOSP",
+    "alpha":"hosp",
     "name":"Hot Springs",
     "designation":"National Park",
     "birds":""
@@ -1467,7 +1467,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"INDU",
+    "alpha":"indu",
     "name":"Indiana Dunes",
     "designation":"National Lakeshore",
     "birds":"https://www.nps.gov/indu/learn/nature/images/bwaixr6s.jpg?maxwidth=650&autorotate=false"
@@ -1483,7 +1483,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"ISRO",
+    "alpha":"isro",
     "name":"Isle Royale",
     "designation":"National Park",
     "birds":"https://www.nps.gov/isro/learn/nature/images/white-throated_sparrow_CROP.jpg?maxwidth=650&autorotate=false"
@@ -1499,7 +1499,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"JAME",
+    "alpha":"jame",
     "name":"Historic Jamestowne",
     "designation":"Part of Colonial National Historical Park",
     "birds":"https://www.nps.gov/jame/learn/nature/images/EaglesNest_500X300.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -1515,7 +1515,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"JECA",
+    "alpha":"jeca",
     "name":"Jewel Cave",
     "designation":"National Monument",
     "birds":""
@@ -1531,7 +1531,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"JODA",
+    "alpha":"joda",
     "name":"John Day Fossil Beds",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/joda/learn/nature/images/kestrel285wide.jpg?maxwidth=650&autorotate=false"
@@ -1547,7 +1547,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"JOTR",
+    "alpha":"jotr",
     "name":"Joshua Tree",
     "designation":"National Park",
     "birds":""
@@ -1563,7 +1563,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"KAHO",
+    "alpha":"kaho",
     "name":"Kaloko-Honok?hau",
     "designation":"National Historical Park",
     "birds":"https://www.nps.gov/kaho/learn/nature/images/IMG_0125x415.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -1579,7 +1579,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"KEAQ",
+    "alpha":"keaq",
     "name":"Kenilworth Park & Aquatic Gardens",
     "designation":"",
     "birds":"https://www.nps.gov/keaq/learn/nature/images/IMG_6159.JPG?maxwidth=650&autorotate=false"
@@ -1595,7 +1595,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"KEFJ",
+    "alpha":"kefj",
     "name":"Kenai Fjords",
     "designation":"National Park",
     "birds":"https://www.nps.gov/kefj/learn/nature/images/KEFJ_Pfeiffenberger_0175-415PIX_1360530_2.jpg?maxwidth=650&autorotate=false"
@@ -1611,7 +1611,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"KLGO",
+    "alpha":"klgo",
     "name":"Klondike Gold Rush",
     "designation":"National Historical Park",
     "birds":"https://www.nps.gov/klgo/learn/nature/images/Eagle-Dyea-2015-688jpg.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -1627,7 +1627,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"KOVA",
+    "alpha":"kova",
     "name":"Kobuk Valley",
     "designation":"National Park",
     "birds":"https://www.nps.gov/kova/learn/nature/images/birds-taking-off.jpg?maxwidth=650&autorotate=false"
@@ -1643,7 +1643,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"LABE",
+    "alpha":"labe",
     "name":"Lava Beds",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/labe/learn/nature/images/meadowlark.jpg?maxwidth=650&autorotate=false"
@@ -1659,7 +1659,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"LACL",
+    "alpha":"lacl",
     "name":"Lake Clark",
     "designation":"National Park & Preserve",
     "birds":"https://www.nps.gov/lacl/learn/nature/images/Image-w-cred-cap_-1200w_-Birds-page_-Merganser-Family_2.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -1675,7 +1675,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"LAKE",
+    "alpha":"lake",
     "name":"Lake Mead",
     "designation":"National Recreation Area",
     "birds":"https://www.nps.gov/lake/learn/nature/images/Egret-Bird-Cover-Image.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -1691,7 +1691,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"LAMR",
+    "alpha":"lamr",
     "name":"Lake Meredith",
     "designation":"National Recreation Area",
     "birds":"https://www.nps.gov/lamr/learn/nature/images/Turkeys-Along-Road-_small.jpg?maxwidth=650&autorotate=false"
@@ -1707,7 +1707,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"LAVO",
+    "alpha":"lavo",
     "name":"Lassen Volcanic",
     "designation":"National Park",
     "birds":"https://www.nps.gov/lavo/learn/nature/images/bufflehead_smaller.jpg?maxwidth=650&autorotate=false"
@@ -1723,7 +1723,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"LEWI",
+    "alpha":"lewi",
     "name":"Lewis and Clark",
     "designation":"National Historical Park",
     "birds":"https://www.nps.gov/lewi/learn/nature/images/SunsetBeach_1.jpg?maxwidth=650&autorotate=false"
@@ -1739,7 +1739,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"LIHO",
+    "alpha":"liho",
     "name":"Lincoln Home",
     "designation":"National Historic Site",
     "birds":"https://www.nps.gov/liho/learn/nature/images/amrobinhdr_1.jpg?maxwidth=650&autorotate=false"
@@ -1755,7 +1755,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"LONG",
+    "alpha":"long",
     "name":"Longfellow House Washington's Headquarters",
     "designation":"National Historic Site",
     "birds":"https://www.nps.gov/long/learn/nature/images/red_tailed_hawk.jpg?maxwidth=650&autorotate=false"
@@ -1771,7 +1771,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"LYJO",
+    "alpha":"lyjo",
     "name":"Lyndon B Johnson",
     "designation":"National Historical Park",
     "birds":"https://www.nps.gov/lyjo/learn/nature/images/Scissortailed.jpg?maxwidth=650&autorotate=false"
@@ -1787,7 +1787,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"MABI",
+    "alpha":"mabi",
     "name":"Marsh - Billings - Rockefeller",
     "designation":"National Historical Park",
     "birds":"https://www.nps.gov/mabi/learn/nature/images/Cedar-waxwing-400x300.jpg?maxwidth=650&autorotate=false"
@@ -1803,7 +1803,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"MACA",
+    "alpha":"maca",
     "name":"Mammoth Cave",
     "designation":"National Park",
     "birds":"https://www.nps.gov/maca/learn/nature/images/m7mhg8c7.jpg?maxwidth=650&autorotate=false"
@@ -1819,7 +1819,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"MANA",
+    "alpha":"mana",
     "name":"Manassas",
     "designation":"National Battlefield Park",
     "birds":"https://www.nps.gov/mana/learn/nature/images/Bird_goose_Gorsira.jpg?maxwidth=650&autorotate=false"
@@ -1835,7 +1835,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"MEVE",
+    "alpha":"meve",
     "name":"Mesa Verde",
     "designation":"National Park",
     "birds":"https://www.nps.gov/meve/learn/nature/images/scrubjay_birdlist_250px.jpg?maxwidth=650&autorotate=false"
@@ -1851,7 +1851,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"MISS",
+    "alpha":"miss",
     "name":"Mississippi",
     "designation":"National River and Recreation Area",
     "birds":"https://www.nps.gov/miss/learn/nature/images/GordonDietzman-20160716-5788.jpg?maxwidth=650&autorotate=false"
@@ -1867,7 +1867,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"MNRR",
+    "alpha":"mnrr",
     "name":"Missouri",
     "designation":"National Recreational River",
     "birds":"https://www.nps.gov/mnrr/learn/nature/images/hummer_1.jpg?maxwidth=650&autorotate=false"
@@ -1883,7 +1883,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"MOCA",
+    "alpha":"moca",
     "name":"Montezuma Castle",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/moca/learn/nature/images/gambelsquailSMALL.jpg?maxwidth=650&autorotate=false"
@@ -1899,7 +1899,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"MOJA",
+    "alpha":"moja",
     "name":"Mojave",
     "designation":"National Preserve",
     "birds":""
@@ -1915,7 +1915,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"MORA",
+    "alpha":"mora",
     "name":"Mount Rainier",
     "designation":"National Park",
     "birds":"https://www.nps.gov/mora/learn/nature/images/spottedowl_09_sml.jpeg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -1931,7 +1931,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"MORR",
+    "alpha":"morr",
     "name":"Morristown",
     "designation":"National Historical Park",
     "birds":"https://www.nps.gov/morr/learn/nature/images/Picture3-17-035small.jpg?maxwidth=650&autorotate=false"
@@ -1947,7 +1947,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"MORU",
+    "alpha":"moru",
     "name":"Mount Rushmore",
     "designation":"National Memorial",
     "birds":"https://www.nps.gov/moru/learn/nature/images/white-breasted-nuthatch-Jan-2008-003-960-wide.jpg?maxwidth=650&autorotate=false"
@@ -1963,7 +1963,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"MUWO",
+    "alpha":"muwo",
     "name":"Muir Woods",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/muwo/learn/nature/images/spot_owl-head_1.jpg?maxwidth=650&autorotate=false"
@@ -1979,7 +1979,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"NATR",
+    "alpha":"natr",
     "name":"Natchez Trace",
     "designation":"Parkway",
     "birds":"https://www.nps.gov/natr/learn/nature/images/Wood-Duck.jpg?maxwidth=650&autorotate=false"
@@ -1995,7 +1995,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"NEPE",
+    "alpha":"nepe",
     "name":"Nez Perce",
     "designation":"National Historical Park",
     "birds":""
@@ -2011,7 +2011,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"NERI",
+    "alpha":"neri",
     "name":"New River Gorge",
     "designation":"National River",
     "birds":"https://www.nps.gov/neri/learn/nature/images/LEM-2July-4.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -2027,7 +2027,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"NIOB",
+    "alpha":"niob",
     "name":"Niobrara",
     "designation":"National Scenic River",
     "birds":"https://www.nps.gov/niob/learn/nature/images/baldeagle.jpg?maxwidth=650&autorotate=false"
@@ -2043,7 +2043,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"NISI",
+    "alpha":"nisi",
     "name":"Ninety Six",
     "designation":"National Historic Site",
     "birds":"https://www.nps.gov/nisi/learn/nature/images/Hermit-Thrush-Rusty-Wilson.jpg?maxwidth=650&autorotate=false"
@@ -2059,7 +2059,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"NOAT",
+    "alpha":"noat",
     "name":"Noatak",
     "designation":"National Preserve",
     "birds":"https://www.nps.gov/noat/learn/nature/images/Arcticternnoatak.jpg?maxwidth=650&autorotate=false"
@@ -2075,7 +2075,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"NOCA",
+    "alpha":"noca",
     "name":"North Cascades",
     "designation":"National Park",
     "birds":""
@@ -2091,7 +2091,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"NPSA",
+    "alpha":"npsa",
     "name":"National Park of American Samoa",
     "designation":"",
     "birds":"https://www.nps.gov/npsa/learn/nature/images/King-Fisher.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -2107,7 +2107,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"OBED",
+    "alpha":"obed",
     "name":"Obed",
     "designation":"Wild & Scenic River",
     "birds":"https://www.nps.gov/obed/learn/nature/images/red-shouldered-hawk-180.jpg?maxwidth=650&autorotate=false"
@@ -2123,7 +2123,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"OLYM",
+    "alpha":"olym",
     "name":"Olympic",
     "designation":"National Park",
     "birds":"https://www.nps.gov/olym/learn/nature/images/bluegrouse150.jpg?maxwidth=650&autorotate=false"
@@ -2139,7 +2139,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"ORCA",
+    "alpha":"orca",
     "name":"Oregon Caves",
     "designation":"National Monument & Preserve",
     "birds":"https://www.nps.gov/orca/images/Steller-s-Jay.jpg?maxwidth=650&autorotate=false"
@@ -2155,7 +2155,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"ORPI",
+    "alpha":"orpi",
     "name":"Organ Pipe Cactus",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/orpi/learn/nature/images/body_hummingbird2.jpg?maxwidth=650&autorotate=false"
@@ -2171,7 +2171,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"OZAR",
+    "alpha":"ozar",
     "name":"Ozark",
     "designation":"National Scenic Riverways",
     "birds":"https://www.nps.gov/ozar/learn/nature/images/barred_owl_3.jpg?maxwidth=650&autorotate=false"
@@ -2187,7 +2187,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"PAAL",
+    "alpha":"paal",
     "name":"Palo Alto Battlefield",
     "designation":"National Historical Park",
     "birds":"https://www.nps.gov/paal/learn/nature/images/harrishawk2162011.jpg?maxwidth=650&autorotate=false"
@@ -2203,7 +2203,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"PAIS",
+    "alpha":"pais",
     "name":"Padre Island",
     "designation":"National Seashore",
     "birds":"https://www.nps.gov/pais/learn/nature/images/Skimmer-Black-IMG_6556A-Phil-Ziegler-NPS.jpg?maxwidth=650&autorotate=false"
@@ -2219,7 +2219,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"PEFO",
+    "alpha":"pefo",
     "name":"Petrified Forest",
     "designation":"National Park",
     "birds":"https://www.nps.gov/pefo/learn/nature/images/Horned-Lark-8-resized.jpg?maxwidth=650&autorotate=false"
@@ -2235,7 +2235,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"PETE",
+    "alpha":"pete",
     "name":"Petersburg",
     "designation":"National Battlefield",
     "birds":""
@@ -2251,7 +2251,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"PINN",
+    "alpha":"pinn",
     "name":"Pinnacles",
     "designation":"National Park",
     "birds":"https://www.nps.gov/pinn/learn/nature/images/California-Quail-Walk-1.jpg?maxwidth=1200&autorotate=false"
@@ -2267,7 +2267,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"PIPE",
+    "alpha":"pipe",
     "name":"Pipestone",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/pipe/learn/nature/images/smallkingbird_2.jpg?maxwidth=650&autorotate=false"
@@ -2283,7 +2283,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"PIRO",
+    "alpha":"piro",
     "name":"Pictured Rocks",
     "designation":"National Lakeshore",
     "birds":"https://www.nps.gov/piro/learn/nature/images/SnowyOwl.jpg?maxwidth=650&autorotate=false"
@@ -2299,7 +2299,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"PISC",
+    "alpha":"pisc",
     "name":"Piscataway",
     "designation":"Park",
     "birds":"https://www.nps.gov/pisc/learn/nature/images/osprey-1-e.JPG?maxwidth=650&autorotate=false"
@@ -2315,7 +2315,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"PISP",
+    "alpha":"pisp",
     "name":"Pipe Spring",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/pisp/learn/nature/images/Spotted-Towhee-12-09270px.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -2331,7 +2331,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"PORE",
+    "alpha":"pore",
     "name":"Point Reyes",
     "designation":"National Seashore",
     "birds":"https://www.nps.gov/pore/learn/nature/images/pic_commonmurre2_285x190.jpg?maxwidth=650&autorotate=false"
@@ -2347,7 +2347,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"PRWI",
+    "alpha":"prwi",
     "name":"Prince William Forest",
     "designation":"Park",
     "birds":"https://www.nps.gov/prwi/learn/nature/images/Hooded-Warbler.jpg?maxwidth=650&autorotate=false"
@@ -2363,7 +2363,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"REDW",
+    "alpha":"redw",
     "name":"Redwood",
     "designation":"National and State Parks",
     "birds":"https://www.nps.gov/redw/learn/nature/images/Pigeon-Guillemots.gif"
@@ -2379,7 +2379,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"RICH",
+    "alpha":"rich",
     "name":"Richmond",
     "designation":"National Battlefield Park",
     "birds":"https://www.nps.gov/rich/learn/nature/images/Great-Egret-Ardea-alba-for-web.jpg?maxwidth=650&autorotate=false"
@@ -2395,7 +2395,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"ROMO",
+    "alpha":"romo",
     "name":"Rocky Mountain",
     "designation":"National Park",
     "birds":"https://www.nps.gov/romo/learn/nature/images/Junco_2_1.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -2411,7 +2411,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"RUCA",
+    "alpha":"ruca",
     "name":"Russell Cave",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/ruca/learn/nature/images/blue-jay-2.jpg?maxwidth=650&autorotate=false"
@@ -2427,7 +2427,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"SACN",
+    "alpha":"sacn",
     "name":"Saint Croix",
     "designation":"National Scenic Riverway",
     "birds":""
@@ -2443,7 +2443,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"SAGA",
+    "alpha":"saga",
     "name":"Saint-Gaudens",
     "designation":"National Historic Site",
     "birds":"https://www.nps.gov/saga/learn/nature/images/Green_Heron.jpg?maxwidth=650&autorotate=false"
@@ -2459,7 +2459,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"SAGU",
+    "alpha":"sagu",
     "name":"Saguaro",
     "designation":"National Park",
     "birds":"https://www.nps.gov/sagu/learn/nature/images/pecker.jpg?maxwidth=650&autorotate=false"
@@ -2475,7 +2475,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"SAHI",
+    "alpha":"sahi",
     "name":"Sagamore Hill",
     "designation":"National Historic Site",
     "birds":"https://www.nps.gov/sahi/learn/nature/images/Kingbird2.JPG?maxwidth=650&autorotate=false"
@@ -2491,7 +2491,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"SAIR",
+    "alpha":"sair",
     "name":"Saugus Iron Works",
     "designation":"National Historic Site",
     "birds":""
@@ -2507,7 +2507,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"SAJH",
+    "alpha":"sajh",
     "name":"San Juan Island",
     "designation":"National Historical Park",
     "birds":"https://www.nps.gov/sajh/learn/nature/images/Northern-Harrier-Male.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -2523,7 +2523,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"SAMO",
+    "alpha":"samo",
     "name":"Santa Monica Mountains",
     "designation":"National Recreation Area",
     "birds":"https://www.nps.gov/samo/learn/nature/images/Male_Anna-s_Humbinbird_by_John_Emerson_1.jpg?maxwidth=650&autorotate=false"
@@ -2539,7 +2539,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"SAND",
+    "alpha":"sand",
     "name":"Sand Creek Massacre",
     "designation":"National Historic Site",
     "birds":""
@@ -2555,7 +2555,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"SAPU",
+    "alpha":"sapu",
     "name":"Salinas Pueblo Missions",
     "designation":"National Monument",
     "birds":""
@@ -2571,7 +2571,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"SEKI",
+    "alpha":"seki",
     "name":"Sequoia & Kings Canyon",
     "designation":"National Parks",
     "birds":"https://www.nps.gov/seki/learn/nature/images/imgCaQu0023_1.JPG?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -2587,7 +2587,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"SHEN",
+    "alpha":"shen",
     "name":"Shenandoah",
     "designation":"National Park",
     "birds":"https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/005ADACD-1DD8-B71B-0B21547D1D6C085A.jpg?width=307&quality=90&mode=crop"
@@ -2603,7 +2603,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"SHIL",
+    "alpha":"shil",
     "name":"Shiloh",
     "designation":"National Military Park",
     "birds":"https://www.nps.gov/shil/learn/nature/images/BirdEggs.jpg?maxwidth=650&autorotate=false"
@@ -2619,7 +2619,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"SITK",
+    "alpha":"sitk",
     "name":"Sitka",
     "designation":"National Historical Park",
     "birds":"https://www.nps.gov/sitk/learn/nature/images/puffin-for-website.jpg?maxwidth=650&autorotate=false"
@@ -2635,7 +2635,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"SLBE",
+    "alpha":"slbe",
     "name":"Sleeping Bear Dunes",
     "designation":"National Lakeshore",
     "birds":""
@@ -2651,7 +2651,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"STRI",
+    "alpha":"stri",
     "name":"Stones River",
     "designation":"National Battlefield",
     "birds":""
@@ -2667,7 +2667,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"THRO",
+    "alpha":"thro",
     "name":"Theodore Roosevelt",
     "designation":"National Park",
     "birds":"https://www.nps.gov/npgallery/GetAsset/02701214-155D-4519-3EE7462D211C8CF9/Thumb/XLarge?"
@@ -2683,7 +2683,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"TICA",
+    "alpha":"tica",
     "name":"Timpanogos Cave",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/tica/learn/nature/images/l3w4vyfk.jpg?maxwidth=650&autorotate=false"
@@ -2699,7 +2699,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"TIMU",
+    "alpha":"timu",
     "name":"Timucuan",
     "designation":"Ecological & Historic Preserve",
     "birds":""
@@ -2715,7 +2715,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"TONT",
+    "alpha":"tont",
     "name":"Tonto",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/tont/learn/nature/images/Curvebill3-adj.jpg?maxwidth=650&autorotate=false"
@@ -2731,7 +2731,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"TUZI",
+    "alpha":"tuzi",
     "name":"Tuzigoot",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/tuzi/learn/nature/images/20090706-Photographer-Unknown-Common-Blackhawk-Fledgling-3_Cropped.jpg?maxwidth=650&autorotate=false"
@@ -2747,7 +2747,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"VAFO",
+    "alpha":"vafo",
     "name":"Valley Forge",
     "designation":"National Historical Park",
     "birds":""
@@ -2763,7 +2763,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"VICK",
+    "alpha":"vick",
     "name":"Vicksburg",
     "designation":"National Military Park",
     "birds":"https://www.nps.gov/vick/learn/nature/images/red-winged-blackbird.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -2779,7 +2779,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"WABA",
+    "alpha":"waba",
     "name":"Washita Battlefield",
     "designation":"National Historic Site",
     "birds":"https://www.nps.gov/waba/learn/nature/images/Scissor-Tail-fly-Catcher.JPG?maxwidth=650&autorotate=false"
@@ -2795,7 +2795,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"WEFA",
+    "alpha":"wefa",
     "name":"Weir Farm",
     "designation":"National Historic Site",
     "birds":""
@@ -2811,7 +2811,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"WHIS",
+    "alpha":"whis",
     "name":"Whiskeytown",
     "designation":"National Recreation Area",
     "birds":""
@@ -2827,7 +2827,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"WHMI",
+    "alpha":"whmi",
     "name":"Whitman Mission",
     "designation":"National Historic Site",
     "birds":"https://www.nps.gov/whmi/learn/nature/images/redwinged.jpg?maxwidth=650&autorotate=false"
@@ -2843,7 +2843,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"WHSA",
+    "alpha":"whsa",
     "name":"White Sands",
     "designation":"National Monument",
     "birds":"https://www.nps.gov/whsa/learn/nature/images/WHSA_BarnSwallow-thumbnail_1.jpg?maxwidth=650&autorotate=false"
@@ -2859,7 +2859,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"WOTR",
+    "alpha":"wotr",
     "name":"Wolf Trap National Park for the Performing Arts",
     "designation":"",
     "birds":""
@@ -2875,7 +2875,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"WRST",
+    "alpha":"wrst",
     "name":"Wrangell - St Elias",
     "designation":"National Park & Preserve",
     "birds":"https://www.nps.gov/wrst/learn/nature/images/grosbeaks.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -2891,7 +2891,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"WUPA",
+    "alpha":"wupa",
     "name":"Wupatki",
     "designation":"National Monument",
     "birds":""
@@ -2907,7 +2907,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"YELL",
+    "alpha":"yell",
     "name":"Yellowstone",
     "designation":"National Park",
     "birds":"https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/1EBF7410-1DD8-B71B-0BB875FA01CA2B5F.jpg?width=950&quality=90&mode=crop"
@@ -2923,7 +2923,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"YOSE",
+    "alpha":"yose",
     "name":"Yosemite",
     "designation":"National Park",
     "birds":"https://www.nps.gov/yose/learn/nature/images/northernpygmyowlweb_2.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -2939,7 +2939,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"YUCH",
+    "alpha":"yuch",
     "name":"Yukon - Charley Rivers",
     "designation":"National Preserve",
     "birds":"https://www.nps.gov/yuch/learn/nature/images/JJS_0912crop.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
@@ -2955,7 +2955,7 @@
     "marker-color":"#7e7e7e",
     "marker-size":"medium",
     "marker-symbol":"circle",
-    "alpha":"ZION",
+    "alpha":"zion",
     "name":"Zion",
     "designation":"National Park",
     "birds":"https://www.nps.gov/zion/learn/nature/images/PeregrineHead3.jpg?maxwidth=650&autorotate=false"
