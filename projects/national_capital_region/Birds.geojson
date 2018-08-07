@@ -14,7 +14,7 @@
     "alpha":"ABLI",
     "name":"Abraham Lincoln Birthplace",
     "designation":"National Historical Park",
-    "birds":""
+    "birds":"https://www.nps.gov/abli/learn/nature/images/two-robins-at-abli(2).jpg"
     }
   },
   {
@@ -30,7 +30,7 @@
     "alpha":"AGFO",
     "name":"Agate Fossil Beds",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/agfo/learn/nature/images/100_4888.jpg"
     }
   },
   {
@@ -46,7 +46,7 @@
     "alpha":"AMIS",
     "name":"Amistad",
     "designation":"National Recreation Area",
-    "birds":""
+    "birds":"https://www.nps.gov/amis/learn/nature/images/9dqlm839.jpg"
     }
   },
   {
@@ -78,7 +78,7 @@
     "alpha":"APIS",
     "name":"Apostle Islands",
     "designation":"National Lakeshore",
-    "birds":""
+    "birds":"https://www.nps.gov/apis/learn/nature/images/piping_plovers-6,_Long_I_7-06.jpg"
     }
   },
   {
@@ -94,7 +94,7 @@
     "alpha":"ARCH",
     "name":"Arches",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/arch/learn/nature/images/ScrubJay.jpg"
     }
   },
   {
@@ -126,7 +126,7 @@
     "alpha":"ASIS",
     "name":"Assateague Island",
     "designation":"National Seashore",
-    "birds":""
+    "birds":"https://www.nps.gov/asis/learn/nature/images/gbh.jpg"
     }
   },
   {
@@ -158,7 +158,7 @@
     "alpha":"BADL",
     "name":"Badlands",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/badl/learn/nature/images/Lee-hornedlark-birds.jpg"
     }
   },
   {
@@ -174,7 +174,7 @@
     "alpha":"BAND",
     "name":"Bandelier",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/band/learn/nature/images/western-screech-owl-14.jpg"
     }
   },
   {
@@ -190,7 +190,7 @@
     "alpha":"BEOL",
     "name":"Bent's Old Fort",
     "designation":"National Historic Site",
-    "birds":""
+    "birds":"https://www.nps.gov/beol/learn/nature/images/sd79rcty.jpg"
     }
   },
   {
@@ -206,7 +206,7 @@
     "alpha":"BIBE",
     "name":"Big Bend",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/bibe/learn/nature/images/Feathers_cballou_2.jpg"
     }
   },
   {
@@ -254,23 +254,7 @@
     "alpha":"BIHO",
     "name":"Big Hole",
     "designation":"National Battlefield",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -80.21023851,25.490587 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"BISC",
-    "name":"Biscayne",
-    "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/biho/learn/nature/images/spruce_grouse.JPG"
     }
   },
   {
@@ -286,7 +270,7 @@
     "alpha":"BISO",
     "name":"Big South Fork",
     "designation":"National River & Recreation Area",
-    "birds":""
+    "birds":"https://www.nps.gov/biso/learn/nature/images/housewren_imageonly.jpg"
     }
   },
   {
@@ -318,7 +302,7 @@
     "alpha":"BLCA",
     "name":"Black Canyon Of The Gunnison",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/blca/learn/nature/images/bluebird.jpg"
     }
   },
   {
@@ -334,7 +318,7 @@
     "alpha":"BLRI",
     "name":"Blue Ridge",
     "designation":"Parkway",
-    "birds":""
+    "birds":"https://www.nps.gov/blri/learn/nature/images/heron-Jim-ruff_1.jpg"
     }
   },
   {
@@ -350,7 +334,7 @@
     "alpha":"BLUE",
     "name":"Bluestone",
     "designation":"National Scenic River",
-    "birds":""
+    "birds":"https://www.nps.gov/blue/learn/nature/images/web-scarlet-tanager-square.jpg"
     }
   },
   {
@@ -366,7 +350,7 @@
     "alpha":"BOHA",
     "name":"Boston Harbor Islands",
     "designation":"National Recreation Area",
-    "birds":""
+    "birds":"https://www.nps.gov/boha/learn/nature/images/tern_nest_1_1.jpg"
     }
   },
   {
@@ -382,7 +366,7 @@
     "alpha":"BRCA",
     "name":"Bryce Canyon",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/brca/learn/nature/images/bird_collage_001.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -398,7 +382,7 @@
     "alpha":"BUFF",
     "name":"Buffalo",
     "designation":"National River",
-    "birds":""
+    "birds":"https://www.nps.gov/buff/learn/nature/images/bald-eagle-II-taken-by-BCHA-30-Oct-2012-near-Carver2.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -414,7 +398,7 @@
     "alpha":"CABR",
     "name":"Cabrillo",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/cabr/learn/nature/images/Birds_2.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -430,7 +414,7 @@
     "alpha":"CACO",
     "name":"Cape Cod",
     "designation":"National Seashore",
-    "birds":""
+    "birds":"https://www.nps.gov/caco/learn/nature/images/incubating.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -446,7 +430,7 @@
     "alpha":"CAGR",
     "name":"Casa Grande Ruins",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/cagr/learn/nature/images/PICT0012.JPG?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -462,7 +446,7 @@
     "alpha":"CAHA",
     "name":"Cape Hatteras",
     "designation":"National Seashore",
-    "birds":""
+    "birds":"https://www.nps.gov/caha/learn/nature/images/black_skimmer.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -478,7 +462,7 @@
     "alpha":"CAKR",
     "name":"Cape Krusenstern",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/cakr/learn/nature/images/swans-flying-over-the-tundra.jpg?maxwidth=1200&autorotate=false"
     }
   },
   {
@@ -494,7 +478,7 @@
     "alpha":"CALO",
     "name":"Cape Lookout",
     "designation":"National Seashore",
-    "birds":""
+    "birds":"https://www.nps.gov/calo/learn/nature/images/IMG_9744RESIZE.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -510,7 +494,7 @@
     "alpha":"CANY",
     "name":"Canyonlands",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/cany/learn/nature/images/CanyonWren_1.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -526,7 +510,7 @@
     "alpha":"CARE",
     "name":"Capitol Reef",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/care/learn/nature/images/23-10-2-Canyon-Wren.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -558,7 +542,7 @@
     "alpha":"CAVE",
     "name":"Carlsbad Caverns",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/cave/learn/nature/images/bird_greathornedowl_556.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -574,7 +558,7 @@
     "alpha":"CAVO",
     "name":"Capulin Volcano",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/cavo/learn/nature/images/Mt-Blue-Bird-2_2.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -638,7 +622,7 @@
     "alpha":"CHIR",
     "name":"Chiricahua",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/chir/learn/nature/images/Canyon_Wren_-18565207405.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -654,7 +638,7 @@
     "alpha":"CHIS",
     "name":"Channel Islands",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/chis/planyourvisit/images/960-0M9B4450_1.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -670,7 +654,7 @@
     "alpha":"CHOH",
     "name":"Chesapeake & Ohio Canal",
     "designation":"National Historical Park",
-    "birds":""
+    "birds":"https://www.nps.gov/choh/learn/nature/images/2-Red-Tailed-Hawk.JPG?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -686,7 +670,7 @@
     "alpha":"CIRO",
     "name":"City Of Rocks",
     "designation":"National Reserve",
-    "birds":""
+    "birds":"https://www.nps.gov/ciro/learn/nature/images/1597-Black-throated-Gray-Warbler14b.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -702,7 +686,7 @@
     "alpha":"COLM",
     "name":"Colorado",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/colm/learn/nature/images/bird_collage.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -734,7 +718,7 @@
     "alpha":"CORO",
     "name":"Coronado",
     "designation":"National Memorial",
-    "birds":""
+    "birds":"https://www.nps.gov/coro/learn/nature/images/Strickland-s-002.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -750,7 +734,7 @@
     "alpha":"CRMO",
     "name":"Craters Of The Moon",
     "designation":"National Monument & Preserve",
-    "birds":""
+    "birds":"https://www.nps.gov/crmo/learn/nature/images/Bluebird-Doug-Owen_1_1.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -782,7 +766,7 @@
     "alpha":"CUVA",
     "name":"Cuyahoga Valley",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/cuva/learn/nature/images/CVNP_spring_bids_Yellow_Warbler12_-Jim-Schmidt_285w.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -814,7 +798,7 @@
     "alpha":"DENA",
     "name":"Denali",
     "designation":"National Park & Preserve",
-    "birds":""
+    "birds":"https://www.nps.gov/dena/learn/nature/images/arctic_tern_banner.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -830,7 +814,7 @@
     "alpha":"DETO",
     "name":"Devils Tower",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/deto/learn/nature/images/Turkey.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -846,7 +830,7 @@
     "alpha":"DEVA",
     "name":"Death Valley",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/deva/learn/nature/images/IMG_1327.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -862,7 +846,7 @@
     "alpha":"DEWA",
     "name":"Delaware Water Gap",
     "designation":"National Recreation Area",
-    "birds":""
+    "birds":"https://www.nps.gov/dewa/learn/nature/images/Eagle_Mohr_47-IMG_2953_1.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -878,7 +862,7 @@
     "alpha":"DINO",
     "name":"Dinosaur",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/dino/learn/nature/images/Blue-Heron_1.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -894,7 +878,7 @@
     "alpha":"DRTO",
     "name":"Dry Tortugas",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/drto/learn/nature/images/MaskedBoobyHospitalKey.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -910,7 +894,7 @@
     "alpha":"EFMO",
     "name":"Effigy Mounds",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/efmo/learn/nature/images/Hawk-Watch-2.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -926,7 +910,7 @@
     "alpha":"EISE",
     "name":"Eisenhower",
     "designation":"National Historic Site",
-    "birds":""
+    "birds":"https://www.nps.gov/eise/learn/nature/images/DSCN2115.JPG?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -942,7 +926,7 @@
     "alpha":"ELMA",
     "name":"El Malpais",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/elma/learn/nature/images/Red-Tail.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -958,7 +942,7 @@
     "alpha":"ELMO",
     "name":"El Morro",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/elmo/learn/nature/images/Raven_1.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -974,7 +958,7 @@
     "alpha":"EVER",
     "name":"Everglades",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/ever/learn/nature/images/WadingBirds_RodneyCammauf_1.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -990,7 +974,7 @@
     "alpha":"FIIS",
     "name":"Fire Island",
     "designation":"National Seashore",
-    "birds":""
+    "birds":"https://www.nps.gov/fiis/learn/nature/images/Shorebirds-1.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -1006,7 +990,7 @@
     "alpha":"FLFO",
     "name":"Florissant Fossil Beds",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/flfo/learn/nature/images/woodpecker1_a_1.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1022,7 +1006,7 @@
     "alpha":"FOBO",
     "name":"Fort Bowie",
     "designation":"National Historic Site",
-    "birds":""
+    "birds":"https://www.nps.gov/fobo/learn/nature/images/Flycatcher-on-adobe-wall-FOBO_2.jpg?maxwidth=1200&autorotate=false"
     }
   },
   {
@@ -1038,7 +1022,7 @@
     "alpha":"FOBU",
     "name":"Fossil Butte",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/fobu/learn/nature/images/7z8vfojz.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1054,7 +1038,7 @@
     "alpha":"FOMA",
     "name":"Fort Matanzas",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/foma/learn/nature/images/IMG_1029-1-688.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1086,23 +1070,7 @@
     "alpha":"FOPU",
     "name":"Fort Pulaski",
     "designation":"National Monument",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -94.43129079,35.38834746 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"FOSM",
-    "name":"Fort Smith",
-    "designation":"National Historic Site",
-    "birds":""
+    "birds":"https://www.nps.gov/fopu/learn/nature/images/SAVANNAH_SPARROW_1.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1150,7 +1118,7 @@
     "alpha":"GATE",
     "name":"Gateway",
     "designation":"National Recreation Area",
-    "birds":""
+    "birds":"https://www.nps.gov/gate/images/Woodcock-2-JBWR-2011_WS.JPG?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1166,7 +1134,7 @@
     "alpha":"GETT",
     "name":"Gettysburg",
     "designation":"National Military Park",
-    "birds":""
+    "birds":"https://www.nps.gov/gett/learn/nature/images/cangooseeggs_birds.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -1182,7 +1150,7 @@
     "alpha":"GICL",
     "name":"Gila Cliff Dwellings",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/gicl/learn/nature/images/Hummingbird-Rufous-male-with-female.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1198,7 +1166,7 @@
     "alpha":"GLAC",
     "name":"Glacier",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/glac/learn/nature/images/harlequincreek_1.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1214,7 +1182,7 @@
     "alpha":"GLBA",
     "name":"Glacier Bay",
     "designation":"National Park & Preserve",
-    "birds":""
+    "birds":"https://www.nps.gov/glba/learn/nature/images/tufted-puffin.JPG?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -1230,7 +1198,7 @@
     "alpha":"GLCA",
     "name":"Glen Canyon",
     "designation":"National Recreation Area",
-    "birds":""
+    "birds":"https://www.nps.gov/glca/learn/nature/images/bird-cover-pic.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -1246,7 +1214,7 @@
     "alpha":"GOGA",
     "name":"Golden Gate",
     "designation":"National Recreation Area",
-    "birds":""
+    "birds":"https://www.nps.gov/goga/learn/nature/images/quail_web.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1262,7 +1230,7 @@
     "alpha":"GOIS",
     "name":"Governors Island",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/gois/learn/nature/images/Web_page_resize_2007_Dec_19_IMG_0144_1.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1294,7 +1262,7 @@
     "alpha":"GRCA",
     "name":"Grand Canyon",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/common/uploads/grid_builder/imr/crop1_1/07C49597-1DD8-B71B-0B44BD6F73564C45.jpg?width=640&quality=90&mode=crop"
     }
   },
   {
@@ -1310,7 +1278,7 @@
     "alpha":"GRFA",
     "name":"Great Falls",
     "designation":"Park",
-    "birds":""
+    "birds":"https://www.nps.gov/grfa/learn/nature/images/small-N-River-Trail-Heron-NPS-photo-2.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1342,7 +1310,7 @@
     "alpha":"GRSA",
     "name":"Great Sand Dunes",
     "designation":"National Park & Preserve",
-    "birds":""
+    "birds":"https://www.nps.gov/grsa/learn/nature/images/web285western_tanager-nps-s.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1374,23 +1342,7 @@
     "alpha":"GRTE",
     "name":"Grand Teton",
     "designation":"National Park",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -87.75064297,30.29924926 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"GUIS",
-    "name":"Gulf Islands",
-    "designation":"National Seashore",
-    "birds":""
+    "birds":"https://www.nps.gov/grte/learn/nature/images/shcrane.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1406,7 +1358,7 @@
     "alpha":"GUMO",
     "name":"Guadalupe Mountains",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/gumo/learn/nature/images/08k4oz2z.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1438,7 +1390,7 @@
     "alpha":"HAFE",
     "name":"Harpers Ferry",
     "designation":"National Historical Park",
-    "birds":""
+    "birds":"https://www.nps.gov/hafe/learn/nature/images/greatblueheron200.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1454,7 +1406,7 @@
     "alpha":"HAFO",
     "name":"Hagerman Fossil Beds",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/hafo/learn/nature/images/Blue-Heron.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1477,38 +1429,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -155.4700257,19.3355036 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"HAVO",
-    "name":"Hawai'i Volcanoes",
-    "designation":"National Park",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -83.08049456,39.31594374 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"HOCU",
-    "name":"Hopewell Culture",
-    "designation":"National Historical Park",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -96.83387781,40.28802381 ]
     },
     "properties": {
@@ -1518,7 +1438,7 @@
     "alpha":"HOME",
     "name":"Homestead",
     "designation":"National Monument of America",
-    "birds":""
+    "birds":"https://www.nps.gov/home/learn/nature/images/turkey8.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1550,7 +1470,7 @@
     "alpha":"INDU",
     "name":"Indiana Dunes",
     "designation":"National Lakeshore",
-    "birds":""
+    "birds":"https://www.nps.gov/indu/learn/nature/images/bwaixr6s.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1566,7 +1486,7 @@
     "alpha":"ISRO",
     "name":"Isle Royale",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/isro/learn/nature/images/white-throated_sparrow_CROP.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1582,7 +1502,7 @@
     "alpha":"JAME",
     "name":"Historic Jamestowne",
     "designation":"Part of Colonial National Historical Park",
-    "birds":""
+    "birds":"https://www.nps.gov/jame/learn/nature/images/EaglesNest_500X300.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -1614,23 +1534,7 @@
     "alpha":"JODA",
     "name":"John Day Fossil Beds",
     "designation":"National Monument",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.1326097,37.9828422 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"JOMU",
-    "name":"John Muir",
-    "designation":"National Historic Site",
-    "birds":""
+    "birds":"https://www.nps.gov/joda/learn/nature/images/kestrel285wide.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1660,9 +1564,9 @@
     "marker-size":"medium",
     "marker-symbol":"circle",
     "alpha":"KAHO",
-    "name":"Kaloko-Honok&#333;hau",
+    "name":"Kaloko-Honok?hau",
     "designation":"National Historical Park",
-    "birds":""
+    "birds":"https://www.nps.gov/kaho/learn/nature/images/IMG_0125x415.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -1678,7 +1582,7 @@
     "alpha":"KEAQ",
     "name":"Kenilworth Park & Aquatic Gardens",
     "designation":"",
-    "birds":""
+    "birds":"https://www.nps.gov/keaq/learn/nature/images/IMG_6159.JPG?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1694,7 +1598,7 @@
     "alpha":"KEFJ",
     "name":"Kenai Fjords",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/kefj/learn/nature/images/KEFJ_Pfeiffenberger_0175-415PIX_1360530_2.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1710,7 +1614,7 @@
     "alpha":"KLGO",
     "name":"Klondike Gold Rush",
     "designation":"National Historical Park",
-    "birds":""
+    "birds":"https://www.nps.gov/klgo/learn/nature/images/Eagle-Dyea-2015-688jpg.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -1726,7 +1630,7 @@
     "alpha":"KOVA",
     "name":"Kobuk Valley",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/kova/learn/nature/images/birds-taking-off.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1742,7 +1646,7 @@
     "alpha":"LABE",
     "name":"Lava Beds",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/labe/learn/nature/images/meadowlark.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1758,7 +1662,7 @@
     "alpha":"LACL",
     "name":"Lake Clark",
     "designation":"National Park & Preserve",
-    "birds":""
+    "birds":"https://www.nps.gov/lacl/learn/nature/images/Image-w-cred-cap_-1200w_-Birds-page_-Merganser-Family_2.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -1774,7 +1678,7 @@
     "alpha":"LAKE",
     "name":"Lake Mead",
     "designation":"National Recreation Area",
-    "birds":""
+    "birds":"https://www.nps.gov/lake/learn/nature/images/Egret-Bird-Cover-Image.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -1790,7 +1694,7 @@
     "alpha":"LAMR",
     "name":"Lake Meredith",
     "designation":"National Recreation Area",
-    "birds":""
+    "birds":"https://www.nps.gov/lamr/learn/nature/images/Turkeys-Along-Road-_small.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1806,7 +1710,7 @@
     "alpha":"LAVO",
     "name":"Lassen Volcanic",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/lavo/learn/nature/images/bufflehead_smaller.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1822,7 +1726,7 @@
     "alpha":"LEWI",
     "name":"Lewis and Clark",
     "designation":"National Historical Park",
-    "birds":""
+    "birds":"https://www.nps.gov/lewi/learn/nature/images/SunsetBeach_1.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1838,7 +1742,7 @@
     "alpha":"LIHO",
     "name":"Lincoln Home",
     "designation":"National Historic Site",
-    "birds":""
+    "birds":"https://www.nps.gov/liho/learn/nature/images/amrobinhdr_1.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1854,7 +1758,7 @@
     "alpha":"LONG",
     "name":"Longfellow House Washington's Headquarters",
     "designation":"National Historic Site",
-    "birds":""
+    "birds":"https://www.nps.gov/long/learn/nature/images/red_tailed_hawk.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1870,7 +1774,7 @@
     "alpha":"LYJO",
     "name":"Lyndon B Johnson",
     "designation":"National Historical Park",
-    "birds":""
+    "birds":"https://www.nps.gov/lyjo/learn/nature/images/Scissortailed.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1886,7 +1790,7 @@
     "alpha":"MABI",
     "name":"Marsh - Billings - Rockefeller",
     "designation":"National Historical Park",
-    "birds":""
+    "birds":"https://www.nps.gov/mabi/learn/nature/images/Cedar-waxwing-400x300.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1902,7 +1806,7 @@
     "alpha":"MACA",
     "name":"Mammoth Cave",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/maca/learn/nature/images/m7mhg8c7.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1918,7 +1822,7 @@
     "alpha":"MANA",
     "name":"Manassas",
     "designation":"National Battlefield Park",
-    "birds":""
+    "birds":"https://www.nps.gov/mana/learn/nature/images/Bird_goose_Gorsira.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1934,7 +1838,7 @@
     "alpha":"MEVE",
     "name":"Mesa Verde",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/meve/learn/nature/images/scrubjay_birdlist_250px.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1950,7 +1854,7 @@
     "alpha":"MISS",
     "name":"Mississippi",
     "designation":"National River and Recreation Area",
-    "birds":""
+    "birds":"https://www.nps.gov/miss/learn/nature/images/GordonDietzman-20160716-5788.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1966,7 +1870,7 @@
     "alpha":"MNRR",
     "name":"Missouri",
     "designation":"National Recreational River",
-    "birds":""
+    "birds":"https://www.nps.gov/mnrr/learn/nature/images/hummer_1.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -1982,7 +1886,7 @@
     "alpha":"MOCA",
     "name":"Montezuma Castle",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/moca/learn/nature/images/gambelsquailSMALL.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2014,7 +1918,7 @@
     "alpha":"MORA",
     "name":"Mount Rainier",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/mora/learn/nature/images/spottedowl_09_sml.jpeg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -2030,7 +1934,7 @@
     "alpha":"MORR",
     "name":"Morristown",
     "designation":"National Historical Park",
-    "birds":""
+    "birds":"https://www.nps.gov/morr/learn/nature/images/Picture3-17-035small.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2046,7 +1950,7 @@
     "alpha":"MORU",
     "name":"Mount Rushmore",
     "designation":"National Memorial",
-    "birds":""
+    "birds":"https://www.nps.gov/moru/learn/nature/images/white-breasted-nuthatch-Jan-2008-003-960-wide.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2062,7 +1966,7 @@
     "alpha":"MUWO",
     "name":"Muir Woods",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/muwo/learn/nature/images/spot_owl-head_1.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2078,7 +1982,7 @@
     "alpha":"NATR",
     "name":"Natchez Trace",
     "designation":"Parkway",
-    "birds":""
+    "birds":"https://www.nps.gov/natr/learn/nature/images/Wood-Duck.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2110,7 +2014,7 @@
     "alpha":"NERI",
     "name":"New River Gorge",
     "designation":"National River",
-    "birds":""
+    "birds":"https://www.nps.gov/neri/learn/nature/images/LEM-2July-4.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -2126,7 +2030,7 @@
     "alpha":"NIOB",
     "name":"Niobrara",
     "designation":"National Scenic River",
-    "birds":""
+    "birds":"https://www.nps.gov/niob/learn/nature/images/baldeagle.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2142,7 +2046,7 @@
     "alpha":"NISI",
     "name":"Ninety Six",
     "designation":"National Historic Site",
-    "birds":""
+    "birds":"https://www.nps.gov/nisi/learn/nature/images/Hermit-Thrush-Rusty-Wilson.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2158,7 +2062,7 @@
     "alpha":"NOAT",
     "name":"Noatak",
     "designation":"National Preserve",
-    "birds":""
+    "birds":"https://www.nps.gov/noat/learn/nature/images/Arcticternnoatak.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2190,7 +2094,7 @@
     "alpha":"NPSA",
     "name":"National Park of American Samoa",
     "designation":"",
-    "birds":""
+    "birds":"https://www.nps.gov/npsa/learn/nature/images/King-Fisher.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -2206,7 +2110,7 @@
     "alpha":"OBED",
     "name":"Obed",
     "designation":"Wild & Scenic River",
-    "birds":""
+    "birds":"https://www.nps.gov/obed/learn/nature/images/red-shouldered-hawk-180.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2222,7 +2126,7 @@
     "alpha":"OLYM",
     "name":"Olympic",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/olym/learn/nature/images/bluegrouse150.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2238,7 +2142,7 @@
     "alpha":"ORCA",
     "name":"Oregon Caves",
     "designation":"National Monument & Preserve",
-    "birds":""
+    "birds":"https://www.nps.gov/orca/images/Steller-s-Jay.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2254,7 +2158,7 @@
     "alpha":"ORPI",
     "name":"Organ Pipe Cactus",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/orpi/learn/nature/images/body_hummingbird2.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2270,7 +2174,7 @@
     "alpha":"OZAR",
     "name":"Ozark",
     "designation":"National Scenic Riverways",
-    "birds":""
+    "birds":"https://www.nps.gov/ozar/learn/nature/images/barred_owl_3.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2286,7 +2190,7 @@
     "alpha":"PAAL",
     "name":"Palo Alto Battlefield",
     "designation":"National Historical Park",
-    "birds":""
+    "birds":"https://www.nps.gov/paal/learn/nature/images/harrishawk2162011.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2302,7 +2206,7 @@
     "alpha":"PAIS",
     "name":"Padre Island",
     "designation":"National Seashore",
-    "birds":""
+    "birds":"https://www.nps.gov/pais/learn/nature/images/Skimmer-Black-IMG_6556A-Phil-Ziegler-NPS.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2318,7 +2222,7 @@
     "alpha":"PEFO",
     "name":"Petrified Forest",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/pefo/learn/nature/images/Horned-Lark-8-resized.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2350,7 +2254,7 @@
     "alpha":"PINN",
     "name":"Pinnacles",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/pinn/learn/nature/images/California-Quail-Walk-1.jpg?maxwidth=1200&autorotate=false"
     }
   },
   {
@@ -2366,7 +2270,7 @@
     "alpha":"PIPE",
     "name":"Pipestone",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/pipe/learn/nature/images/smallkingbird_2.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2382,7 +2286,7 @@
     "alpha":"PIRO",
     "name":"Pictured Rocks",
     "designation":"National Lakeshore",
-    "birds":""
+    "birds":"https://www.nps.gov/piro/learn/nature/images/SnowyOwl.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2398,7 +2302,7 @@
     "alpha":"PISC",
     "name":"Piscataway",
     "designation":"Park",
-    "birds":""
+    "birds":"https://www.nps.gov/pisc/learn/nature/images/osprey-1-e.JPG?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2414,7 +2318,7 @@
     "alpha":"PISP",
     "name":"Pipe Spring",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/pisp/learn/nature/images/Spotted-Towhee-12-09270px.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -2430,7 +2334,7 @@
     "alpha":"PORE",
     "name":"Point Reyes",
     "designation":"National Seashore",
-    "birds":""
+    "birds":"https://www.nps.gov/pore/learn/nature/images/pic_commonmurre2_285x190.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2446,23 +2350,7 @@
     "alpha":"PRWI",
     "name":"Prince William Forest",
     "designation":"Park",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -155.8211629,20.02772186 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"PUHE",
-    "name":"Pu`ukohol&#257; Heiau",
-    "designation":"National Historic Site",
-    "birds":""
+    "birds":"https://www.nps.gov/prwi/learn/nature/images/Hooded-Warbler.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2478,7 +2366,7 @@
     "alpha":"REDW",
     "name":"Redwood",
     "designation":"National and State Parks",
-    "birds":""
+    "birds":"https://www.nps.gov/redw/learn/nature/images/Pigeon-Guillemots.gif"
     }
   },
   {
@@ -2494,7 +2382,7 @@
     "alpha":"RICH",
     "name":"Richmond",
     "designation":"National Battlefield Park",
-    "birds":""
+    "birds":"https://www.nps.gov/rich/learn/nature/images/Great-Egret-Ardea-alba-for-web.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2510,7 +2398,7 @@
     "alpha":"ROMO",
     "name":"Rocky Mountain",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/romo/learn/nature/images/Junco_2_1.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -2526,7 +2414,7 @@
     "alpha":"RUCA",
     "name":"Russell Cave",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/ruca/learn/nature/images/blue-jay-2.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2558,7 +2446,7 @@
     "alpha":"SAGA",
     "name":"Saint-Gaudens",
     "designation":"National Historic Site",
-    "birds":""
+    "birds":"https://www.nps.gov/saga/learn/nature/images/Green_Heron.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2574,7 +2462,7 @@
     "alpha":"SAGU",
     "name":"Saguaro",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/sagu/learn/nature/images/pecker.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2590,7 +2478,7 @@
     "alpha":"SAHI",
     "name":"Sagamore Hill",
     "designation":"National Historic Site",
-    "birds":""
+    "birds":"https://www.nps.gov/sahi/learn/nature/images/Kingbird2.JPG?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2622,7 +2510,7 @@
     "alpha":"SAJH",
     "name":"San Juan Island",
     "designation":"National Historical Park",
-    "birds":""
+    "birds":"https://www.nps.gov/sajh/learn/nature/images/Northern-Harrier-Male.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -2638,7 +2526,7 @@
     "alpha":"SAMO",
     "name":"Santa Monica Mountains",
     "designation":"National Recreation Area",
-    "birds":""
+    "birds":"https://www.nps.gov/samo/learn/nature/images/Male_Anna-s_Humbinbird_by_John_Emerson_1.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2686,7 +2574,7 @@
     "alpha":"SEKI",
     "name":"Sequoia & Kings Canyon",
     "designation":"National Parks",
-    "birds":""
+    "birds":"https://www.nps.gov/seki/learn/nature/images/imgCaQu0023_1.JPG?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -2702,7 +2590,7 @@
     "alpha":"SHEN",
     "name":"Shenandoah",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/005ADACD-1DD8-B71B-0B21547D1D6C085A.jpg?width=307&quality=90&mode=crop"
     }
   },
   {
@@ -2718,7 +2606,7 @@
     "alpha":"SHIL",
     "name":"Shiloh",
     "designation":"National Military Park",
-    "birds":""
+    "birds":"https://www.nps.gov/shil/learn/nature/images/BirdEggs.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2734,7 +2622,7 @@
     "alpha":"SITK",
     "name":"Sitka",
     "designation":"National Historical Park",
-    "birds":""
+    "birds":"https://www.nps.gov/sitk/learn/nature/images/puffin-for-website.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2782,7 +2670,7 @@
     "alpha":"THRO",
     "name":"Theodore Roosevelt",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/npgallery/GetAsset/02701214-155D-4519-3EE7462D211C8CF9/Thumb/XLarge?"
     }
   },
   {
@@ -2798,7 +2686,7 @@
     "alpha":"TICA",
     "name":"Timpanogos Cave",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/tica/learn/nature/images/l3w4vyfk.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2830,7 +2718,7 @@
     "alpha":"TONT",
     "name":"Tonto",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/tont/learn/nature/images/Curvebill3-adj.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2846,7 +2734,7 @@
     "alpha":"TUZI",
     "name":"Tuzigoot",
     "designation":"National Monument",
-    "birds":""
+    "birds":"https://www.nps.gov/tuzi/learn/nature/images/20090706-Photographer-Unknown-Common-Blackhawk-Fledgling-3_Cropped.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2878,23 +2766,7 @@
     "alpha":"VICK",
     "name":"Vicksburg",
     "designation":"National Military Park",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -92.8382913,48.48370609 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"VOYA",
-    "name":"Voyageurs",
-    "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/vick/learn/nature/images/red-winged-blackbird.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -2910,7 +2782,7 @@
     "alpha":"WABA",
     "name":"Washita Battlefield",
     "designation":"National Historic Site",
-    "birds":""
+    "birds":"https://www.nps.gov/waba/learn/nature/images/Scissor-Tail-fly-Catcher.JPG?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2958,7 +2830,7 @@
     "alpha":"WHMI",
     "name":"Whitman Mission",
     "designation":"National Historic Site",
-    "birds":""
+    "birds":"https://www.nps.gov/whmi/learn/nature/images/redwinged.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -2974,23 +2846,7 @@
     "alpha":"WHSA",
     "name":"White Sands",
     "designation":"National Monument",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -103.4394709,43.58012365 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"WICA",
-    "name":"Wind Cave",
-    "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/whsa/learn/nature/images/WHSA_BarnSwallow-thumbnail_1.jpg?maxwidth=650&autorotate=false"
     }
   },
   {
@@ -3022,7 +2878,7 @@
     "alpha":"WRST",
     "name":"Wrangell - St Elias",
     "designation":"National Park & Preserve",
-    "birds":""
+    "birds":"https://www.nps.gov/wrst/learn/nature/images/grosbeaks.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -3054,7 +2910,7 @@
     "alpha":"YELL",
     "name":"Yellowstone",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/1EBF7410-1DD8-B71B-0BB875FA01CA2B5F.jpg?width=950&quality=90&mode=crop"
     }
   },
   {
@@ -3070,7 +2926,7 @@
     "alpha":"YOSE",
     "name":"Yosemite",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/yose/learn/nature/images/northernpygmyowlweb_2.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -3086,7 +2942,7 @@
     "alpha":"YUCH",
     "name":"Yukon - Charley Rivers",
     "designation":"National Preserve",
-    "birds":""
+    "birds":"https://www.nps.gov/yuch/learn/nature/images/JJS_0912crop.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
     }
   },
   {
@@ -3102,7 +2958,7 @@
     "alpha":"ZION",
     "name":"Zion",
     "designation":"National Park",
-    "birds":""
+    "birds":"https://www.nps.gov/zion/learn/nature/images/PeregrineHead3.jpg?maxwidth=650&autorotate=false"
     }
   }
 ]
