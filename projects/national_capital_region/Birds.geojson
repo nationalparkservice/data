@@ -2032,6 +2032,114 @@
           40.6306300839918
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Florissant Fossil Beds",
+        "des": "National Monument",
+        "alpha": "flfo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27597427368164,
+          38.91274132144652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Fredericksburg and Spotsylvania",
+        "des": "National Military Park",
+        "alpha": "frsp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.59969711303711,
+          38.22065004131618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Marsh-Billings-Rockefeller",
+        "des": "National Historical Park",
+        "alpha": "mabi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.52482891082764,
+          43.63169561470926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Colonial",
+        "des": "National Historical Park",
+        "alpha": "colo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.52312278747559,
+          37.20825158456774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Governors Island",
+        "des": "National Monument",
+        "alpha": "gois"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01753187179565,
+          40.69197901059565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Gates of the Arctic",
+        "des": "National Park and Preserve",
+        "alpha": "gaar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.2867431640625,
+          67.75315986669266
+        ]
+      }
     }
   ]
 }
