@@ -1726,6 +1726,150 @@
           43.73017359599859
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Natchez Trace",
+        "des": "Parkway",
+        "alpha": "natr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.56199264526367,
+          34.42645209549924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Missouri",
+        "des": "National Recreation River",
+        "alpha": "mnrr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9925537109375,
+          42.76516228327469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Organ Pipe Cactus",
+        "des": "National Monument",
+        "alpha": "orpi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.86666870117188,
+          32.00341778396365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Chickasaw",
+        "des": "National Recreation Area",
+        "alpha": "chic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.00704574584961,
+          34.455332551541524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Valley Forge",
+        "des": "National Historical Park",
+        "alpha": "vafo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.44174194335938,
+          40.10578058846432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Cactoctin Mountain",
+        "des": "Park",
+        "alpha": "cato"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.45567321777344,
+          39.64535376010791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Harpers Ferry",
+        "des": "National Historical Park",
+        "alpha": "hafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.73200511932373,
+          39.323442364473294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Amistad",
+        "des": "National Recreation Area",
+        "alpha": "amis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.06494903564453,
+          29.48324086093357
+        ]
+      }
     }
   ]
 }
