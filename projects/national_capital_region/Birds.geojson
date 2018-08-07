@@ -1,2145 +1,3109 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Rocky Mountain",
-        "des": "National Park",
-        "alpha": "romo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.71731567382812,
-          40.35439349189311
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Yellowstone",
-        "des": "National Park",
-        "alpha": "yell"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.55953979492188,
-          44.62566377574352
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Grand Canyon",
-        "des": "National Park",
-        "alpha": "grca"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.1044921875,
-          36.09849285185278
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Everglades",
-        "des": "National Park",
-        "alpha": "ever"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.85525512695312,
-          25.490389073998024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Mississippi",
-        "des": "National River and Recreation Area",
-        "alpha": "miss"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.08844566345215,
-          44.943599685316954
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Yosemite",
-        "des": "National Park",
-        "alpha": "yose"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.59373474121094,
-          37.74031329210266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Glacier",
-        "des": "National Park",
-        "alpha": "glac"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.7139892578125,
-          48.70365031117296
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Zion",
-        "des": "National Park",
-        "alpha": "zion"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.9449462890625,
-          37.26804220665895
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Olympic",
-        "des": "National Park",
-        "alpha": "olym"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.519287109375,
-          47.78548011929362
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Joshua Tree",
-        "des": "National Park",
-        "alpha": "jotr"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.95451354980467,
-          33.895497227123876
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Shenandoah",
-        "des": "National Park",
-        "alpha": "shen"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.25561523437499,
-          38.758366935612784
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Redwood",
-        "des": "National Park",
-        "alpha": "redw"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -124.02877807617186,
-          41.274194173906544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Grand Teton",
-        "des": "National Park",
-        "alpha": "grte"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.71094512939452,
-          43.76365585841395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Channel Islands",
-        "des": "National Park",
-        "alpha": "chis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -120.10528564453125,
-          33.9678506936076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Sequoia and Kings Canyon",
-        "des": "National Parks",
-        "alpha": "seki"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.62075805664061,
-          36.68714253990003
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Death Valley",
-        "des": "National Park",
-        "alpha": "deva"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.0867919921875,
-          36.50301312197295
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Bryce Canyon",
-        "des": "National Park",
-        "alpha": "brca"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.18963623046875,
-          37.575331106875026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Denali",
-        "des": "National Park",
-        "alpha": "dena"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -150.66650390625,
-          63.35951948621985
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Mount Rainier",
-        "des": "National Park",
-        "alpha": "mora"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.75460815429686,
-          46.85126948767615
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Assateague Island",
-        "des": "National Seashore",
-        "alpha": "asis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.20725250244139,
-          38.089174937729794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Cape Cod",
-        "des": "National Seashore",
-        "alpha": "caco"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -69.95819091796875,
-          41.86547012230937
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Padre Island",
-        "des": "National Seashore",
-        "alpha": "pais"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.38075256347656,
-          27.147755837357373
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Great Smoky Mountains",
-        "des": "National Park",
-        "alpha": "grsm"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.43429565429688,
-          35.60874315730877
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Lassen Volcanic",
-        "des": "National Park",
-        "alpha": "lavo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.41952514648438,
-          40.49291502689579
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Isle Royale",
-        "des": "National Park",
-        "alpha": "isro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.86703491210938,
-          48.007381433478855
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Cuyahoga Valley",
-        "des": "National Park",
-        "alpha": "cuva"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.56387329101562,
-          41.26696898724201
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Badlands",
-        "des": "National Park",
-        "alpha": "badl"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -102.35652923583984,
-          43.52291243104015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Theodore Roosevelt",
-        "des": "National Park",
-        "alpha": "thro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.46443176269531,
-          46.953074529521054
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Great Sand Dunes",
-        "des": "National Park",
-        "alpha": "grsa"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.61294555664061,
-          37.791337175930686
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Arches",
-        "des": "National Park",
-        "alpha": "arch"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -109.56390380859375,
-          38.7283759182398
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Glacier Bay",
-        "des": "National Park",
-        "alpha": "glba"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -136.8072509765625,
-          58.65979930575396
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Kenai Fjords",
-        "des": "National Park",
-        "alpha": "kefj"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -149.85214233398438,
-          59.957072935349565
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Bandelier",
-        "des": "National Monument",
-        "alpha": "band"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.31195068359375,
-          35.77994251888403
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Pinnacles",
-        "des": "National Park",
-        "alpha": "pinn"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.18331909179688,
-          36.488661268293136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Point Reyes",
-        "des": "National Seashore",
-        "alpha": "pore"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.89581298828125,
-          38.07458199472
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Mammoth Cave",
-        "des": "National Park",
-        "alpha": "maca"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.11186981201172,
-          37.18685211021446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Cape Hatteras",
-        "des": "National Seashore",
-        "alpha": "caha"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.49701690673828,
-          35.72338144638324
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Big Bend",
-        "des": "National Park",
-        "alpha": "bibe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.21517944335938,
-          29.256450395256557
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Muir Woods",
-        "des": "National Monument",
-        "alpha": "muwo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.58047103881836,
-          37.89619179264958
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Petrified Forest",
-        "des": "National Park",
-        "alpha": "pefo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -109.71153259277344,
-          34.98106504449502
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "San Juan Island",
-        "des": "National Historical Park",
-        "alpha": "sajh"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.08704376220702,
-          48.537749809416624
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Fire Island",
-        "des": "National Seashore",
-        "alpha": "fiis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.92552947998047,
-          40.71343536379427
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Dry Tortugas",
-        "des": "National Park",
-        "alpha": "drto"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.87330627441406,
-          24.62844916103919
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Chiricahua",
-        "des": "National Monument",
-        "alpha": "chir"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -109.34795379638672,
-          32.0162271965248
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Golden Gate",
-        "des": "National Recreation Area",
-        "alpha": "goga"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.47266769409178,
-          37.80544394934271
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Black Canyon of the Gunnison",
-        "des": "National Park",
-        "alpha": "blca"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -107.76283264160156,
-          38.58306291549108
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Saguaro",
-        "des": "National Park",
-        "alpha": "sagu"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.16035461425781,
-          32.295549167538326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Devils Tower",
-        "des": "National Monument",
-        "alpha": "deto"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.71498489379883,
-          44.59071167564237
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Lake Clark",
-        "des": "National Park and Preserve",
-        "alpha": "lacl"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -153.24005126953125,
-          60.71351077751845
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Chattahoochee River",
-        "des": "National Recreation Area",
-        "alpha": "chat"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.32783603668213,
-          33.99400671093899
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Lake Mead",
-        "des": "National Recreation Area",
-        "alpha": "lake"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -114.80257987976074,
-          36.03785612948406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Hot Springs",
-        "des": "National Park",
-        "alpha": "hosp"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.05419921875,
-          34.5235300339023
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Sleeping Bear Dunes",
-        "des": "National Lakeshore",
-        "alpha": "slbe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.90553283691406,
-          44.93758500391091
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Canyonlands",
-        "des": "National Park",
-        "alpha": "cany"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -109.85641479492188,
-          38.347580040410506
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "North Cascades",
-        "des": "National Park",
-        "alpha": "noca"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.41403198242189,
-          48.81048112472012
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Blue Ridge",
-        "des": "Parkway",
-        "alpha": "blri"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.86785888671875,
-          37.30013872964709
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Santa Monica Mountains",
-        "des": "National Recreation Area",
-        "alpha": "samo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.7042713165283,
-          34.101748533093314
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Carlsbad Caverns",
-        "des": "National Park",
-        "alpha": "cave"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.6004867553711,
-          32.12212726745142
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Mesa Verde",
-        "des": "National Park",
-        "alpha": "meve"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.45909118652342,
-          37.25328687335229
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Mojave",
-        "des": "National Preserve",
-        "alpha": "moja"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -115.51300048828125,
-          35.09631620868229
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Great Falls",
-        "des": "Park",
-        "alpha": "grfa"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.24942207336426,
-          38.99036995221769
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Glen Canyon",
-        "des": "National Recreation Area",
-        "alpha": "glca"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.08963012695312,
-          37.658819317731265
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Great Basin",
-        "des": "National Park",
-        "alpha": "grba"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -114.2416763305664,
-          38.90679719352289
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "City of Rocks",
-        "des": "National Reserve",
-        "alpha": "ciro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.70677947998047,
-          42.0714686155466
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Mount Rushmore",
-        "des": "National Memorial",
-        "alpha": "moru"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.45846652984619,
-          43.879087756333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Delaware Water Gap",
-        "des": "National Recreation Area",
-        "alpha": "dewa"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.90753173828125,
-          41.14401849741132
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Capitol Reef",
-        "des": "National Park",
-        "alpha": "care"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.15245819091797,
-          38.06458144502031
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Apostle Islands",
-        "des": "National Lakeshore",
-        "alpha": "apis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.71067810058594,
-          46.927758623434435
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Gateway",
-        "des": "National Recreation Area",
-        "alpha": "gate"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.9877700805664,
-          40.44093755756703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "White Sands",
-        "des": "National Monument",
-        "alpha": "whsa"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.32499694824219,
-          32.767068346801274
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Cedar Breaks",
-        "des": "National Monument",
-        "alpha": "cebr"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.84778594970702,
-          37.64196606132065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Pictured Rocks",
-        "des": "National Lakeshore",
-        "alpha": "piro"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.3082504272461,
-          46.57868671298067
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Cape Lookout",
-        "des": "National Seashore",
-        "alpha": "calo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.34193420410156,
-          34.831841149828655
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Guadalupe Mountains",
-        "des": "National Park",
-        "alpha": "gumo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.88853454589844,
-          31.903792716788487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Boston Harbor Islands",
-        "des": "National Recreation Area",
-        "alpha": "boha"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.98633527755737,
-          42.323730365276255
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Dinosaur",
-        "des": "National Monument",
-        "alpha": "dino"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.9239501953125,
-          40.51118899461994
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Cabrillo",
-        "des": "National Monument",
-        "alpha": "cabr"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.2410297393799,
-          32.67223656048769
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "National Park of American Samoa",
-        "alpha": "npsa"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -170.7026481628418,
-          -14.29931784641949
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Chesapeake & Ohio Canal",
-        "des": "National Historical Park",
-        "alpha": "choh"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.82714843749999,
-          39.59695869911646
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Kenilworth Park and Aquatic Gardens",
-        "alpha": "keaq"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.94350004196167,
-          38.91279141029714
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Wrangell-St. Elias",
-        "des": "National Park",
-        "alpha": "wrst"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -143.86596679687497,
-          61.21737938763191
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "New River Gorge",
-        "des": "National River",
-        "alpha": "neri"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.06227874755858,
-          37.88108620012162
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Prince William Forest",
-        "des": "Park",
-        "alpha": "prwi"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.38306045532227,
-          38.586015002539696
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Big Cypress",
-        "des": "National Preserve",
-        "alpha": "bicy"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.09352111816405,
-          25.930877120921785
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Colorado",
-        "des": "National Monument",
-        "alpha": "colm"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.6990737915039,
-          39.05065194925692
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Craters of the Moon",
-        "des": "National Monument and Preserve",
-        "alpha": "crmo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -113.51074218749999,
-          43.14909399920127
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Pu`uhonua O Hōnaunau",
-        "des": "National Historical Park",
-        "alpha": "puho"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -155.90769052505493,
-          19.41616858375206
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Gettysburg",
-        "des": "National Military Park",
-        "alpha": "gett"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.22577571868896,
-          39.81107445811594
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "St. Croix",
-        "des": "National Scenic River",
-        "alpha": "sacn"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.65045166015625,
-          45.40230699238177
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Ozark",
-        "des": "National Scenic Riverways",
-        "alpha": "ozar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -91.27681732177734,
-          37.18876668723709
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Tonto",
-        "des": "National Monument",
-        "alpha": "tont"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.11160278320312,
-          33.643491599185744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Lava Beds",
-        "des": "National Monument",
-        "alpha": "labe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.52595520019531,
-          41.769519280779775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Indiana Dunes",
-        "des": "National Lakeshore",
-        "alpha": "indu"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.20294952392578,
-          41.62115308293478
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Buffalo",
-        "des": "National River",
-        "alpha": "buff"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.84734725952148,
-          35.965363840467134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Oregon Caves",
-        "des": "National Monument & Preserve",
-        "alpha": "https://www.nps.gov/orca/planyourvisit/maps.htm"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.4090805053711,
-          42.106883126911654
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Jewel Cave",
-        "des": "National Monument",
-        "alpha": "jeca"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -103.83161544799803,
-          43.73017359599859
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Natchez Trace",
-        "des": "Parkway",
-        "alpha": "natr"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.56199264526367,
-          34.42645209549924
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Missouri",
-        "des": "National Recreation River",
-        "alpha": "mnrr"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.9925537109375,
-          42.76516228327469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Organ Pipe Cactus",
-        "des": "National Monument",
-        "alpha": "orpi"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.86666870117188,
-          32.00341778396365
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Chickasaw",
-        "des": "National Recreation Area",
-        "alpha": "chic"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.00704574584961,
-          34.455332551541524
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Valley Forge",
-        "des": "National Historical Park",
-        "alpha": "vafo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.44174194335938,
-          40.10578058846432
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Cactoctin Mountain",
-        "des": "Park",
-        "alpha": "cato"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.45567321777344,
-          39.64535376010791
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Harpers Ferry",
-        "des": "National Historical Park",
-        "alpha": "hafe"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.73200511932373,
-          39.323442364473294
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Amistad",
-        "des": "National Recreation Area",
-        "alpha": "amis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -101.06494903564453,
-          29.48324086093357
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "John Day Fossil Beds",
-        "des": "National Monument",
-        "alpha": "joda"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.63493347167967,
-          44.54839885389387
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Historic Jamestowne",
-        "des": "Part of Colonial National Historical Park",
-        "alpha": "jame"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.75589561462402,
-          37.20339792265848
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Casa Grande Ruins",
-        "des": "National Monument",
-        "alpha": "cagr"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.53238773345947,
-          32.99685854181673
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Manassas",
-        "des": "National Battlefield Park",
-        "alpha": "mana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.53068923950195,
-          38.82225662587506
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Obed",
-        "des": "Wild and Scenic River",
-        "alpha": "obed"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.72450256347656,
-          36.107924111286465
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Big Thicket",
-        "des": "National Preserve",
-        "alpha": "bith"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.07524108886719,
-          30.110904625422133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Bighorn Canyon",
-        "des": "National Recreation Area",
-        "alpha": "bica"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -108.26271057128906,
-          45.0400521414756
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Effigy Mounds",
-        "des": "National Monument",
-        "alpha": "efmo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -91.19064331054688,
-          43.08719407237443
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Whiskeytown",
-        "des": "National Recreation Area",
-        "alpha": "whis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.59231567382812,
-          40.6306300839918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Florissant Fossil Beds",
-        "des": "National Monument",
-        "alpha": "flfo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.27597427368164,
-          38.91274132144652
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Fredericksburg and Spotsylvania",
-        "des": "National Military Park",
-        "alpha": "frsp"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.59969711303711,
-          38.22065004131618
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Marsh-Billings-Rockefeller",
-        "des": "National Historical Park",
-        "alpha": "mabi"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.52482891082764,
-          43.63169561470926
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Colonial",
-        "des": "National Historical Park",
-        "alpha": "colo"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.52312278747559,
-          37.20825158456774
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Governors Island",
-        "des": "National Monument",
-        "alpha": "gois"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.01753187179565,
-          40.69197901059565
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Gates of the Arctic",
-        "des": "National Park and Preserve",
-        "alpha": "gaar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -153.2867431640625,
-          67.75315986669266
-        ]
-      }
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.67330523,37.5858662 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"ABLI",
+    "name":"Abraham Lincoln Birthplace",
+    "designation":"National Historical Park",
+    "birds":""
     }
-  ]
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.753886,42.42170419 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"AGFO",
+    "name":"Agate Fossil Beds",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.075821,29.53539777 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"AMIS",
+    "name":"Amistad",
+    "designation":"National Recreation Area",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.79856982,37.38022164 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"APCO",
+    "name":"Appomattox Court House",
+    "designation":"National Historical Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.66045665,46.96240467 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"APIS",
+    "name":"Apostle Islands",
+    "designation":"National Lakeshore",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.5863666,38.72261844 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"ARCH",
+    "name":"Arches",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.30837178,34.00389998 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"ARPO",
+    "name":"Arkansas Post",
+    "designation":"National Memorial",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.24524611,38.05593172 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"ASIS",
+    "name":"Assateague Island",
+    "designation":"National Seashore",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.9999245,36.83682216 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"AZRU",
+    "name":"Aztec Ruins",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.482942,43.68584846 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"BADL",
+    "name":"Badlands",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.3317124,35.77898596 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"BAND",
+    "name":"Bandelier",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4266499,38.03977546 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"BEOL",
+    "name":"Bent's Old Fort",
+    "designation":"National Historic Site",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.2297897,29.29817767 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"BIBE",
+    "name":"Big Bend",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.1443943,45.13154227 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"BICA",
+    "name":"Bighorn Canyon",
+    "designation":"National Recreation Area",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.08120629,25.97079602 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"BICY",
+    "name":"Big Cypress",
+    "designation":"National Preserve",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.6458443,45.64647324 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"BIHO",
+    "name":"Big Hole",
+    "designation":"National Battlefield",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.21023851,25.490587 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"BISC",
+    "name":"Biscayne",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.66506688,36.5348388 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"BISO",
+    "name":"Big South Fork",
+    "designation":"National River & Recreation Area",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.3384557,30.42356654 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"BITH",
+    "name":"Big Thicket",
+    "designation":"National Preserve",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.7242756,38.57779869 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"BLCA",
+    "name":"Black Canyon Of The Gunnison",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0420999,36.53386746 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"BLRI",
+    "name":"Blue Ridge",
+    "designation":"Parkway",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.98366657,37.56577087 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"BLUE",
+    "name":"Bluestone",
+    "designation":"National Scenic River",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.93941138,42.30905526 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"BOHA",
+    "name":"Boston Harbor Islands",
+    "designation":"National Recreation Area",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.1826689,37.58399144 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"BRCA",
+    "name":"Bryce Canyon",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.90761584,36.04116481 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"BUFF",
+    "name":"Buffalo",
+    "designation":"National River",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.2415985,32.6722503 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CABR",
+    "name":"Cabrillo",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.04319832,41.92381465 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CACO",
+    "name":"Cape Cod",
+    "designation":"National Seashore",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.5325383,32.99702582 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CAGR",
+    "name":"Casa Grande Ruins",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.65061112,35.41370839 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CAHA",
+    "name":"Cape Hatteras",
+    "designation":"National Seashore",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -163.5037786,67.41499986 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CAKR",
+    "name":"Cape Krusenstern",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.34319082,34.8267961 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CALO",
+    "name":"Cape Lookout",
+    "designation":"National Seashore",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.8801624,38.24555783 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CANY",
+    "name":"Canyonlands",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.2470484,38.28216531 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CARE",
+    "name":"Capitol Reef",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.46417665,39.65068457 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CATO",
+    "name":"Catoctin Mountain",
+    "designation":"Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.5529688,32.14089463 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CAVE",
+    "name":"Carlsbad Caverns",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.9710427,36.78171096 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CAVO",
+    "name":"Capulin Volcano",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.845268,37.63545562 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CEBR",
+    "name":"Cedar Breaks",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.28953177,33.99698333 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CHAT",
+    "name":"Chattahoochee River",
+    "designation":"National Recreation Area",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.00715669,34.46050507 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CHIC",
+    "name":"Chickasaw",
+    "designation":"National Recreation Area",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.341607,32.01214618 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CHIR",
+    "name":"Chiricahua",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.9112735,33.98680093 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CHIS",
+    "name":"Channel Islands",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.89763546,39.3909816 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CHOH",
+    "name":"Chesapeake & Ohio Canal",
+    "designation":"National Historical Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.7124097,42.0699024 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CIRO",
+    "name":"City Of Rocks",
+    "designation":"National Reserve",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.6920709,39.05045016 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"COLM",
+    "name":"Colorado",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.61998123,37.22824435 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"COLO",
+    "name":"Colonial",
+    "designation":"National Historical Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.2561574,31.34900397 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CORO",
+    "name":"Coronado",
+    "designation":"National Memorial",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.4791609,43.20345611 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CRMO",
+    "name":"Craters Of The Moon",
+    "designation":"National Monument & Preserve",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.6114083,36.62503076 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CUGA",
+    "name":"Cumberland Gap",
+    "designation":"National Historical Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.57116722,41.26093905 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CUVA",
+    "name":"Cuyahoga Valley",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.04998374,38.93596206 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"CWDW",
+    "name":"Civil War Defenses of Washington",
+    "designation":"",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.0526568,63.29777484 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"DENA",
+    "name":"Denali",
+    "designation":"National Park & Preserve",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.7156341,44.59064655 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"DETO",
+    "name":"Devils Tower",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.134395,36.48753731 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"DEVA",
+    "name":"Death Valley",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.94751173,41.12793491 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"DEWA",
+    "name":"Delaware Water Gap",
+    "designation":"National Recreation Area",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.9333714,40.50739742 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"DINO",
+    "name":"Dinosaur",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.87176297,24.64884965 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"DRTO",
+    "name":"Dry Tortugas",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.19687517,43.08095081 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"EFMO",
+    "name":"Effigy Mounds",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.26508101,39.79577592 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"EISE",
+    "name":"Eisenhower",
+    "designation":"National Historic Site",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.9950948,34.88422799 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"ELMA",
+    "name":"El Malpais",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.3463984,35.03895916 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"ELMO",
+    "name":"El Morro",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.88200301,25.37294225 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"EVER",
+    "name":"Everglades",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.00013462,40.69668638 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"FIIS",
+    "name":"Fire Island",
+    "designation":"National Seashore",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.2803396,38.91260586 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"FLFO",
+    "name":"Florissant Fossil Beds",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.451132,32.14925942 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"FOBO",
+    "name":"Fort Bowie",
+    "designation":"National Historic Site",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.7624754,41.85635223 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"FOBU",
+    "name":"Fossil Butte",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.23567535,29.7121489 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"FOMA",
+    "name":"Fort Matanzas",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.58044165,39.26395314 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"FOMC",
+    "name":"Fort McHenry",
+    "designation":"National Monument and Historic Shrine",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.93361681,32.0308274 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"FOPU",
+    "name":"Fort Pulaski",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.43129079,35.38834746 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"FOSM",
+    "name":"Fort Smith",
+    "designation":"National Historic Site",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.6470428,38.28277118 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"FRSP",
+    "name":"Fredericksburg & Spotsylvania",
+    "designation":"National Military Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -153.2917758,67.75961636 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"GAAR",
+    "name":"Gates Of The Arctic",
+    "designation":"National Park & Preserve",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9171087,40.56536246 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"GATE",
+    "name":"Gateway",
+    "designation":"National Recreation Area",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.23246758,39.81557366 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"GETT",
+    "name":"Gettysburg",
+    "designation":"National Military Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.2706711,33.22715258 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"GICL",
+    "name":"Gila Cliff Dwellings",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.8009306,48.68414678 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"GLAC",
+    "name":"Glacier",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -136.8407579,58.80086718 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"GLBA",
+    "name":"Glacier Bay",
+    "designation":"National Park & Preserve",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.7718311,37.51841301 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"GLCA",
+    "name":"Glen Canyon",
+    "designation":"National Recreation Area",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6007386,37.85982543 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"GOGA",
+    "name":"Golden Gate",
+    "designation":"National Recreation Area",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.01670765,40.69164233 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"GOIS",
+    "name":"Governors Island",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.2579782,38.94617378 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"GRBA",
+    "name":"Great Basin",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.6836024,36.17280161 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"GRCA",
+    "name":"Grand Canyon",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.25128326,38.98776107 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"GRFA",
+    "name":"Great Falls",
+    "designation":"Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.7467024,46.41358923 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"GRKO",
+    "name":"Grant-Kohrs Ranch",
+    "designation":"National Historic Site",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5919572,37.79256812 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"GRSA",
+    "name":"Great Sand Dunes",
+    "designation":"National Park & Preserve",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.50818326,35.60116374 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"GRSM",
+    "name":"Great Smoky Mountains",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.7054666,43.81853565 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"GRTE",
+    "name":"Grand Teton",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.75064297,30.29924926 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"GUIS",
+    "name":"Gulf Islands",
+    "designation":"National Seashore",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.885527,31.92304462 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"GUMO",
+    "name":"Guadalupe Mountains",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.08528147,38.85452263 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"GWMP",
+    "name":"George Washington",
+    "designation":"Memorial Parkway",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.74088546,39.31865949 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"HAFE",
+    "name":"Harpers Ferry",
+    "designation":"National Historical Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.9443074,42.79074114 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"HAFO",
+    "name":"Hagerman Fossil Beds",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.58781182,39.4175296 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"HAMP",
+    "name":"Hampton",
+    "designation":"National Historic Site",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.4700257,19.3355036 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"HAVO",
+    "name":"Hawai'i Volcanoes",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.08049456,39.31594374 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"HOCU",
+    "name":"Hopewell Culture",
+    "designation":"National Historical Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.83387781,40.28802381 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"HOME",
+    "name":"Homestead",
+    "designation":"National Monument of America",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.06332936,34.52414366 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"HOSP",
+    "name":"Hot Springs",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.09647445,41.63765525 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"INDU",
+    "name":"Indiana Dunes",
+    "designation":"National Lakeshore",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.82780657,48.01145819 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"ISRO",
+    "name":"Isle Royale",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.75469561,37.20027185 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"JAME",
+    "name":"Historic Jamestowne",
+    "designation":"Part of Colonial National Historical Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.829994,43.73102945 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"JECA",
+    "name":"Jewel Cave",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8811491,44.62566508 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"JODA",
+    "name":"John Day Fossil Beds",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1326097,37.9828422 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"JOMU",
+    "name":"John Muir",
+    "designation":"National Historic Site",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.8398125,33.91418525 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"JOTR",
+    "name":"Joshua Tree",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -156.0306932,19.68083237 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"KAHO",
+    "name":"Kaloko-Honok&#333;hau",
+    "designation":"National Historical Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.94340616,38.91284776 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"KEAQ",
+    "name":"Kenilworth Park & Aquatic Gardens",
+    "designation":"",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.106502,59.81804414 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"KEFJ",
+    "name":"Kenai Fjords",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -135.2618535,59.61042373 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"KLGO",
+    "name":"Klondike Gold Rush",
+    "designation":"National Historical Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -159.2002293,67.35631336 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"KOVA",
+    "name":"Kobuk Valley",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.5172189,41.75915823 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"LABE",
+    "name":"Lava Beds",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -153.55535,60.57405857 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"LACL",
+    "name":"Lake Clark",
+    "designation":"National Park & Preserve",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.3469067,35.96622528 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"LAKE",
+    "name":"Lake Mead",
+    "designation":"National Recreation Area",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.6820066,35.61926203 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"LAMR",
+    "name":"Lake Meredith",
+    "designation":"National Recreation Area",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.4075993,40.49354575 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"LAVO",
+    "name":"Lassen Volcanic",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.9638583,46.21178735 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"LEWI",
+    "name":"Lewis and Clark",
+    "designation":"National Historical Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.64513397,39.79715642 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"LIHO",
+    "name":"Lincoln Home",
+    "designation":"National Historic Site",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.12636956,42.37698854 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"LONG",
+    "name":"Longfellow House Washington's Headquarters",
+    "designation":"National Historic Site",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.60692433,30.2519655 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"LYJO",
+    "name":"Lyndon B Johnson",
+    "designation":"National Historical Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.53424638,43.63348732 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"MABI",
+    "name":"Marsh - Billings - Rockefeller",
+    "designation":"National Historical Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.13090198,37.19760458 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"MACA",
+    "name":"Mammoth Cave",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.5353468,38.81710063 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"MANA",
+    "name":"Manassas",
+    "designation":"National Battlefield Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.4624032,37.23908345 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"MEVE",
+    "name":"Mesa Verde",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.04689808,44.87447858 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"MISS",
+    "name":"Mississippi",
+    "designation":"National River and Recreation Area",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.59077822,42.7882189 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"MNRR",
+    "name":"Missouri",
+    "designation":"National Recreational River",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8147857,34.62237771 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"MOCA",
+    "name":"Montezuma Castle",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.5168258,35.12485941 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"MOJA",
+    "name":"Mojave",
+    "designation":"National Preserve",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.7043885,46.86075416 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"MORA",
+    "name":"Mount Rainier",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.53455122,40.7650755 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"MORR",
+    "name":"Morristown",
+    "designation":"National Historical Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4525186,43.88037021 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"MORU",
+    "name":"Mount Rushmore",
+    "designation":"National Memorial",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5808047,37.89658027 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"MUWO",
+    "name":"Muir Woods",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.03092439,33.78002293 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"NATR",
+    "name":"Natchez Trace",
+    "designation":"Parkway",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.8761258,46.07019093 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"NEPE",
+    "name":"Nez Perce",
+    "designation":"National Historical Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.99956002,37.86878554 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"NERI",
+    "name":"New River Gorge",
+    "designation":"National River",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.91870646,42.79413083 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"NIOB",
+    "name":"Niobrara",
+    "designation":"National Scenic River",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.01636079,34.14273587 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"NISI",
+    "name":"Ninety Six",
+    "designation":"National Historic Site",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -159.831694,68.01027053 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"NOAT",
+    "name":"Noatak",
+    "designation":"National Preserve",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.2069423,48.71171756 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"NOCA",
+    "name":"North Cascades",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -169.8503777,-14.22865935 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"NPSA",
+    "name":"National Park of American Samoa",
+    "designation":"",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.59791705,36.1056026 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"OBED",
+    "name":"Obed",
+    "designation":"Wild & Scenic River",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.6663848,47.80392754 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"OLYM",
+    "name":"Olympic",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.4018586,42.10319143 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"ORCA",
+    "name":"Oregon Caves",
+    "designation":"National Monument & Preserve",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.8573314,32.03585543 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"ORPI",
+    "name":"Organ Pipe Cactus",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.25709817,37.13968894 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"OZAR",
+    "name":"Ozark",
+    "designation":"National Scenic Riverways",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.46296072,26.02387351 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"PAAL",
+    "name":"Palo Alto Battlefield",
+    "designation":"National Historical Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.35901135,27.05381186 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"PAIS",
+    "name":"Padre Island",
+    "designation":"National Seashore",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.7877678,34.98387664 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"PEFO",
+    "name":"Petrified Forest",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.47594865,37.19109957 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"PETE",
+    "name":"Petersburg",
+    "designation":"National Battlefield",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.1813607,36.49029208 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"PINN",
+    "name":"Pinnacles",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.32475523,44.01351958 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"PIPE",
+    "name":"Pipestone",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.31628733,46.56435642 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"PIRO",
+    "name":"Pictured Rocks",
+    "designation":"National Lakeshore",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.06659744,38.68679958 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"PISC",
+    "name":"Piscataway",
+    "designation":"Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.7398567,36.86282666 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"PISP",
+    "name":"Pipe Spring",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8797804,38.05511241 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"PORE",
+    "name":"Point Reyes",
+    "designation":"National Seashore",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.38910997,38.58589108 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"PRWI",
+    "name":"Prince William Forest",
+    "designation":"Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.8211629,20.02772186 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"PUHE",
+    "name":"Pu`ukohol&#257; Heiau",
+    "designation":"National Historic Site",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.0318129,41.37237268 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"REDW",
+    "name":"Redwood",
+    "designation":"National and State Parks",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.29107785,37.48774472 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"RICH",
+    "name":"Richmond",
+    "designation":"National Battlefield Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6972879,40.3556924 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"ROMO",
+    "name":"Rocky Mountain",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.81560314,34.97402063 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"RUCA",
+    "name":"Russell Cave",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.36126685,45.70019235 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"SACN",
+    "name":"Saint Croix",
+    "designation":"National Scenic Riverway",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.37333969,43.4997238 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"SAGA",
+    "name":"Saint-Gaudens",
+    "designation":"National Historic Site",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.7574974,32.20909636 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"SAGU",
+    "name":"Saguaro",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.49686438,40.88579128 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"SAHI",
+    "name":"Sagamore Hill",
+    "designation":"National Historic Site",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0076953,42.46830664 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"SAIR",
+    "name":"Saugus Iron Works",
+    "designation":"National Historic Site",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.0610277,48.51241933 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"SAJH",
+    "name":"San Juan Island",
+    "designation":"National Historical Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.7708619,34.09777606 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"SAMO",
+    "name":"Santa Monica Mountains",
+    "designation":"National Recreation Area",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.5169542,38.56414189 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"SAND",
+    "name":"Sand Creek Massacre",
+    "designation":"National Historic Site",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2050309,34.35423203 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"SAPU",
+    "name":"Salinas Pueblo Missions",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.587429,36.71277299 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"SEKI",
+    "name":"Sequoia & Kings Canyon",
+    "designation":"National Parks",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.46907715,38.49236644 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"SHEN",
+    "name":"Shenandoah",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.3421072,35.13850907 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"SHIL",
+    "name":"Shiloh",
+    "designation":"National Military Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -135.3156876,57.04718173 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"SITK",
+    "name":"Sitka",
+    "designation":"National Historical Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.02706591,44.92844962 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"SLBE",
+    "name":"Sleeping Bear Dunes",
+    "designation":"National Lakeshore",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.43078399,35.87608652 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"STRI",
+    "name":"Stones River",
+    "designation":"National Battlefield",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4300083,47.17777274 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"THRO",
+    "name":"Theodore Roosevelt",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.7093944,40.44039719 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"TICA",
+    "name":"Timpanogos Cave",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.49950104,30.47251894 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"TIMU",
+    "name":"Timucuan",
+    "designation":"Ecological & Historic Preserve",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.1135627,33.64842945 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"TONT",
+    "name":"Tonto",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0279069,34.77296377 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"TUZI",
+    "name":"Tuzigoot",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.44581889,40.10054985 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"VAFO",
+    "name":"Valley Forge",
+    "designation":"National Historical Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.85030186,32.3621286 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"VICK",
+    "name":"Vicksburg",
+    "designation":"National Military Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.8382913,48.48370609 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"VOYA",
+    "name":"Voyageurs",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.70445143,35.62083963 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"WABA",
+    "name":"Washita Battlefield",
+    "designation":"National Historic Site",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.45452542,41.25886268 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"WEFA",
+    "name":"Weir Farm",
+    "designation":"National Historic Site",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6022657,40.61359941 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"WHIS",
+    "name":"Whiskeytown",
+    "designation":"National Recreation Area",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4629388,46.04119286 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"WHMI",
+    "name":"Whitman Mission",
+    "designation":"National Historic Site",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.3333461,32.77907858 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"WHSA",
+    "name":"White Sands",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.4394709,43.58012365 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"WICA",
+    "name":"Wind Cave",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.265089,38.93854526 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"WOTR",
+    "name":"Wolf Trap National Park for the Performing Arts",
+    "designation":"",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -142.6028439,61.4182147 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"WRST",
+    "name":"Wrangell - St Elias",
+    "designation":"National Park & Preserve",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.3957216,35.55741077 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"WUPA",
+    "name":"Wupatki",
+    "designation":"National Monument",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.5471695,44.59824417 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"YELL",
+    "name":"Yellowstone",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.5571873,37.84883288 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"YOSE",
+    "name":"Yosemite",
+    "designation":"National Park",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -142.7960021,65.0935608 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"YUCH",
+    "name":"Yukon - Charley Rivers",
+    "designation":"National Preserve",
+    "birds":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.0265138,37.29839254 ]
+    },
+    "properties": {
+    "marker-color":"#7e7e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "alpha":"ZION",
+    "name":"Zion",
+    "designation":"National Park",
+    "birds":""
+    }
+  }
+]
 }
