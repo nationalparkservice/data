@@ -959,6 +959,27 @@
           39.323977688154734
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Second Division Memorial",
+        "park": "President's Park",
+        "description": "Dedicated in 1936 to honor the Second Division's fallen from World War I, the memorial was expanded in 1962 to include World War II and the Korean War.",
+        "url": "https://www.nps.gov/places/second-division-memorial.htm",
+        "parkurl": "https://www.nps.gov/whho/",
+        "image": "https://www.nps.gov/common/uploads/place/nri/20180810/places/662E78E6-A753-D924-6DCE32BBF0B768E6/662E78E6-A753-D924-6DCE32BBF0B768E6.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03795671463013,
+          38.89257351346526
+        ]
+      }
     }
   ]
 }
