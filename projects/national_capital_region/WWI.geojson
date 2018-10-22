@@ -984,7 +984,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#000000",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "General John J. Pershing",
@@ -999,6 +999,29 @@
         "coordinates": [
           -77.03274518251419,
           38.896057680951216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Women in World War I",
+        "park": "Belmont-Paul Women's Equality National Monument",
+        "description": "Five million men were mobilized for service in the Great War. Over nine million women mobilized themselves.",
+        "image": "https://www.nps.gov/articles/images/grace-banker-distinguished-service-medal2.jpg",
+        "url": "https://www.nps.gov/articles/women-in-world-war-i.htm",
+        "parkurl": "https://www.nps.gov/bepa/",
+        "park2": "Women's Rights National Historical Park",
+        "park2url": "https://www.nps.gov/wori/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00370490550995,
+          38.89245869377258
         ]
       }
     }
