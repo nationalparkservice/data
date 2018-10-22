@@ -980,6 +980,27 @@
           38.89257351346526
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "General John J. Pershing",
+        "park": "National Mall and Memorial Parks",
+        "description": "Pershing became a major-general just before the United States entered World War I on April 6, 1917. This time he was appointed over the heads of 5 other major-generals, to become the commander of the AEF.",
+        "image": "https://www.nps.gov/common/uploads/articles/images/nri/20180716/articles/6CFA8CBA-A0E0-F8DC-06541F8BF2AC712D/6CFA8CBA-A0E0-F8DC-06541F8BF2AC712D.jpg",
+        "url": "https://www.nps.gov/articles/general-john-j-pershing.htm",
+        "parkurl": "https://www.nps.gov/nama/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03274518251419,
+          38.896057680951216
+        ]
+      }
     }
   ]
 }
