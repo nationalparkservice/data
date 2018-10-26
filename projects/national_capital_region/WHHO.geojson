@@ -1218,8 +1218,8 @@
         "name": "Northern Trail",
         "info": "Suggested walking route begins at the White House Visitor Center and passes through Lafayette Park.",
         "url": "https://www.nps.gov/whho/planyourvisit/explore-the-northern-trail.htm",
-        "marker-color": "",
-        "image": ""
+        "marker-color": "#7e7e7e",
+        "image": "https://www.nps.gov/common/uploads/hero_promo/ncr/promo/E699AF3F-EE32-B288-B8C778778F546808.jpg?width=960&quality=90&mode=crop"
       },
       "geometry": {
         "type": "LineString",
@@ -1407,12 +1407,13 @@
       "type": "Feature",
       "properties": {
         "name": "Southern Trail",
-        "marker-color": "",
+        "marker-color": "#7e7e7e",
         "stroke": "#7e7e7e",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "info": "Suggested walking route begins at the White House Visitor Center and passes through Lafayette Park.",
-        "url": "https://www.nps.gov/whho/planyourvisit/explore-the-southern-trail.htm"
+        "url": "https://www.nps.gov/whho/planyourvisit/explore-the-southern-trail.htm",
+        "image": "https://www.nps.gov/common/uploads/hero_promo/ncr/promo/E72E45DB-B790-C4C2-3D235739D96C8EFD.jpg?width=960&quality=90&mode=crop"
       },
       "geometry": {
         "type": "LineString",
