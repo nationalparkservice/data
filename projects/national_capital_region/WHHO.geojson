@@ -1405,7 +1405,7 @@
       "type": "Feature",
       "properties": {
         "name": "Southern Trail",
-        "marker-color": "7e7e7e",
+        "marker-color": "#7e7e7e",
         "stroke": "#7e7e7e",
         "stroke-width": 2,
         "stroke-opacity": 1,
