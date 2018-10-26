@@ -1154,7 +1154,8 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "name": "Security / Gate"
+        "name": "Security / Gate",
+        "image": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1217,7 +1218,8 @@
         "name": "Northern Trail",
         "info": "Suggested walking route begins at the White House Visitor Center and passes through Lafayette Park.",
         "url": "https://www.nps.gov/whho/planyourvisit/explore-the-northern-trail.htm",
-        "marker-color": "#7e7e7e"
+        "marker-color": "",
+        "image": ""
       },
       "geometry": {
         "type": "LineString",
@@ -1405,7 +1407,7 @@
       "type": "Feature",
       "properties": {
         "name": "Southern Trail",
-        "marker-color": "#7e7e7e",
+        "marker-color": "",
         "stroke": "#7e7e7e",
         "stroke-width": 2,
         "stroke-opacity": 1,
