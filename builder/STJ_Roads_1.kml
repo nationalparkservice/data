@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="STJ_Roads" id="STJ_Roads">
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="RdName" type="string"></SimpleField>
+	<SimpleField name="Shape__Length" type="string"></SimpleField>
+	<SimpleField name="Surface2" type="string"></SimpleField>
+	<SimpleField name="Rout" type="string"></SimpleField>
+	<SimpleField name="Meter" type="string"></SimpleField>
+	<SimpleField name="Type" type="string"></SimpleField>
+</Schema>
+<Folder><name>STJ_Roads</name>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Frank St</SimpleData>
+		<SimpleData name="Shape__Length">0.001458</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">514.285973</SimpleData>
+		<SimpleData name="Type">Territory</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.79318874276,18.3294857329554 -64.7937059759249,18.3297296550187 -64.7939837140152,18.3299534880801 -64.7943516891363,18.3303342971863</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Seagrape Ln</SimpleData>
+		<SimpleData name="Shape__Length">0.002297</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">797.785665</SimpleData>
+		<SimpleData name="Type">Territory</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7984070903625,18.328597544606 -64.7981768422924,18.3286697976312 -64.7977887471731,18.3287284526549 -64.7973659610428,18.3287736836754 -64.7968829438942,18.3288414817035 -64.7964373517572,18.3289089247308 -64.7961455036679,18.3289760457555</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Hill St</SimpleData>
+		<SimpleData name="Shape__Length">0.002709</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">963.93912</SimpleData>
+		<SimpleData name="Type">Territory</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7943536991371,18.3303420131885 -64.7946232672155,18.3300575411001 -64.7950322263347,18.3296372969693 -64.7954541804567,18.3291562048202 -64.7961861176689,18.3283468845692</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Caneel Turtle Bay Rd</SimpleData>
+		<SimpleData name="Shape__Length">0.006926</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">2485.496592</SimpleData>
+		<SimpleData name="Type">Private</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7857754467524,18.3454028207754 -64.7857065907333,18.345522988812 -64.7856481397181,18.3456813068597 -64.7856352337178,18.3458870069206 -64.7856968777398,18.3460394179645 -64.7858239937827,18.3462294640185 -64.7859459088237,18.3464004340668 -64.7860789648701,18.3466812611474 -64.7861721199044,18.3469768042331 -64.7862301359277,18.3472631143166 -64.7862567379387,18.3474158543612 -64.7862052099291,18.3477605624637 -64.7861482329169,18.3480622945537 -64.7861169249139,18.3484259366615 -64.7860902789117,18.3487560697593 -64.7861123679223,18.3489566598181 -64.7861963969553,18.3493383449293 -64.786259862981,18.3496676330254 -64.7862572159845,18.3498971410931 -64.7861786899629,18.3500508661397 -64.7861752559647,18.350203887185 -64.7861617609632,18.3503522222289 -64.7862529039933,18.3504517662568 -64.786387973035,18.3504409392513 -64.7865573960862,18.3503628552254 -64.786701542129,18.350261105193 -64.7868857871843,18.3501637581612 -64.787075381242,18.3500998281392 -64.7871606342687,18.3501133711418 -64.787351506329,18.3501737321564 -64.7875577433947,18.3502674161805 -64.7877290834498,18.3503757692096</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Caneel</SimpleData>
+		<SimpleData name="Shape__Length">0.004446</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">1574.165358</SimpleData>
+		<SimpleData name="Type">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7859402217527,18.3426316949551 -64.7857598106963,18.342614261953 -64.7855604766362,18.3427040979829 -64.7855134016233,18.342800157012 -64.7854873726189,18.3429954630701 -64.7852679745524,18.3430816620992 -64.785003895471,18.3431070831111 -64.784767771398,18.3431245941202 -64.7846159433515,18.3431604391333 -64.7844604253045,18.3432269151555 -64.784293481255,18.3433508701949 -64.7842195492359,18.3435619212584 -64.7839040741397,18.3436528442905 -64.783665083068,18.3437812973324 -64.783523147028,18.3440006353995 -64.7833130909668,18.3442167854667 -64.7831358579172,18.344509123556 -64.7831297309186,18.3446927696102 -64.7832035049445,18.3448565416573 -64.7833831700064,18.3451914367531</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Weston</SimpleData>
+		<SimpleData name="Shape__Length">0.00086</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">302.303918</SimpleData>
+		<SimpleData name="Type">Private</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7857594443419,18.3233162332594 -64.7864905285604,18.3228629821135</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">North Shore Rd</SimpleData>
+		<SimpleData name="Shape__Length">0.000643</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">20</SimpleData>
+		<SimpleData name="Meter">232.185575</SimpleData>
+		<SimpleData name="Type">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7950990483837,18.3311787704229 -64.7950991433835,18.3311684904199 -64.7949621843457,18.3314243394977 -64.7948622253207,18.3317524705962</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Tobacco Rd</SimpleData>
+		<SimpleData name="Shape__Length">0.001644</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">595.678409</SimpleData>
+		<SimpleData name="Type">Territory</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7984241763766,18.3290768107471 -64.7984319993763,18.3289231777017 -64.798431429373,18.3287564616524 -64.7983852843531,18.3284551745643 -64.7982806013131,18.3280395374435 -64.7982859613126,18.3279216644086 -64.7983415453252,18.3276688193331 -64.7983915673386,18.3275553942987 -64.7984285133486,18.3274743862742</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">107</SimpleData>
+		<SimpleData name="Shape__Length">0.0086</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">107</SimpleData>
+		<SimpleData name="Meter">3031.302414</SimpleData>
+		<SimpleData name="Type">Primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7072458988001,18.3133614396379 -64.7072959218145,18.313296752618 -64.7075282408836,18.3131385535674 -64.7077651599554,18.3130455125359 -64.7078032019647,18.3129106084955 -64.7078365929715,18.3127155544374 -64.7078403739656,18.3123323913242 -64.7079304109919,18.3122430372963 -64.7080304430222,18.3122038652831 -64.7082187810815,18.3122506422938 -64.7086836202293,18.3124451703434 -64.709007661332,18.3125582853713 -64.7092742664163,18.3126458383927 -64.7095559615065,18.3127986444331 -64.7098275635928,18.3129112864617 -64.7100944166768,18.3129737944757 -64.7106236168419,18.3130236324815 -64.7111580130087,18.3130785254888 -64.7114511851007,18.3131312494994 -64.7116865751748,18.3131934725139 -64.7118741262354,18.3133203845481 -64.7120863223065,18.3136078086294 -64.7122510063634,18.3139268647208 -64.7123214653908,18.3142280438085 -64.7124493634365,18.3145547839028 -64.7126088244918,18.3148717889937 -64.7130523536337,18.3151011790539 -64.7137417498529,18.3153943851289</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Century ST</SimpleData>
+		<SimpleData name="Shape__Length">0.001781</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">618.258439</SimpleData>
+		<SimpleData name="Type">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7952316793646,18.3278986444529 -64.7961654596515,18.3277431633914 -64.7964732507461,18.3277001473736 -64.7966760168089,18.3276936703683 -64.7969964809086,18.3277078373671</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Cactus Hill Run</SimpleData>
+		<SimpleData name="Shape__Length">0.001834</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">649.54509</SimpleData>
+		<SimpleData name="Type">Territory</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7938311339361,18.3282273875734 -64.7940782920166,18.3284312446293 -64.7942949780875,18.3286341506856 -64.7945476521706,18.3288914777573 -64.7948957412838,18.329174474835 -64.7952018063837,18.3294439509094</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Null</SimpleData>
+		<SimpleData name="Shape__Length">0.003282</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">1167.240132</SimpleData>
+		<SimpleData name="Type">Territory</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7915578752326,18.3283165926378 -64.7915347152287,18.3284950146908 -64.7915303812294,18.3286112427251 -64.7915321762332,18.3287855057765 -64.7914509762111,18.328955268828 -64.7913585001852,18.3291040108734 -64.7913705371906,18.3291989599013 -64.7914833012295,18.3294091509613 -64.7915622892568,18.329561564005 -64.7916524992879,18.3297297160531 -64.7917982223366,18.3299184721064 -64.7919044233715,18.330028379137 -64.7921433304476,18.3301370401651 -64.7923544265148,18.330230118189 -64.7930126317234,18.3304688952484 -64.7931514597682,18.3305622052737</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Pickering ST</SimpleData>
+		<SimpleData name="Shape__Length">0.003189</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">1115.883049</SimpleData>
+		<SimpleData name="Type">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7942949780875,18.3286341506856 -64.7945531581664,18.3285666596614 -64.7951554363521,18.3285056896333 -64.7959102745839,18.3283749645821 -64.7961702856641,18.3283529975713 -64.7965134077701,18.328327655558 -64.7968763478817,18.3282726785358 -64.7969006868877,18.3281899555109 -64.7969445938962,18.3279111244279 -64.7969964809086,18.3277078373671</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Null</SimpleData>
+		<SimpleData name="Shape__Length">0.000048</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">16.773488</SimpleData>
+		<SimpleData name="Type">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7055253235769,18.3302403336476 -64.7054823185639,18.3302614696545</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Southshore Road</SimpleData>
+		<SimpleData name="Shape__Length">0.023389</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">104</SimpleData>
+		<SimpleData name="Meter">7133.572177</SimpleData>
+		<SimpleData name="Type">Primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-64.7757310121854,18.3208492006994 -64.7762126763311,18.3206422966303 -64.7762329903407,18.3208269256845 -64.7763056703651,18.3209257467124 -64.7766582464752,18.320961578717 -64.7773296786831,18.3209396786994 -64.777862436849,18.3209738297005 -64.778207541958,18.3210801357261 -64.7785098580504,18.3210069106994 -64.7788954351711,18.3210658997104 -64.7792385022788,18.3211331067245 -64.7802625915969,18.3211548457137 -64.7809181228008,18.3211800197102 -64.7814358629644,18.3213472897509 -64.7817820120756,18.3215552768064 -64.7823751472657,18.3218861228941 -64.782458892295,18.3220652689456 -64.7828160394146,18.3225469530817 -64.7831062225109,18.3228884511777 -64.7837321267112,18.3232189862647 -64.7841368968428,18.3235515863561 -64.7843388369151,18.3240738335068 -64.7844392049499,18.3242762915648 -64.7846969550368,18.3246493806706 -64.7850038481388,18.3250220097754 -64.7853322632421,18.3250971657921 -64.7856353853362,18.3251021517884 -64.7860369504612,18.3251218607876 -64.7863897755717,18.3251811397992 -64.786841045713,18.3252551428135 -64.7873082948586,18.3252898798159 -64.7878248480198,18.325339799822 -64.7882023241381,18.3254066668353 -64.7883752871935,18.3254989208597 -64.7887135823028,18.3257382589246 -64.7890017723949,18.3258841909628 -64.7896852696135,18.3262376330557 -64.7899647077019,18.3263288860779 -64.7902687167978,18.3264199080997 -64.7906463579165,18.3265024151178 -64.7911055000597,18.3265450421226 -64.7914333561618,18.3265654311231 -64.7917215492539,18.3267113591614 -64.7919200513188,18.3268972442129 -64.7920034853475,18.3270450952551 -64.7917608362777,18.3273446463476 -64.7913881051693,18.3277392914702 -64.791556260232,18.3283110986361</coordinates></LineString><LineString><coordinates>-64.7915434262269,18.328252079619 -64.791556260232,18.3283110986361</coordinates></LineString><LineString><coordinates>-64.791556260232,18.3283110986361 -64.7915578752326,18.3283165926378</coordinates></LineString><LineString><coordinates>-64.791556260232,18.3283110986361 -64.7915758822397,18.3284013366624 -64.7915264002308,18.3287504867663 -64.7914246702054,18.3290900388682 -64.791447077216,18.3292891959265 -64.791553497254,18.3295575240039 -64.7917964123363,18.3299345131111 -64.7920377134142,18.3301022321565 -64.7922786304911,18.3302201251873 -64.7925298275708,18.330318014212 -64.7926136115975,18.3303572862222 -64.792739441638,18.3304361262433 -64.792876167683,18.3305746842819</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Princes St</SimpleData>
+		<SimpleData name="Shape__Length">0.000554</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">192.698702</SimpleData>
+		<SimpleData name="Type">Territory</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7939072570077,18.3308386853425 -64.7941807930911,18.3307552543133 -64.7943072121302,18.3307531583106 -64.7943934501574,18.3307793083168 -64.7944422881729,18.3307950693207</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">East End Rd</SimpleData>
+		<SimpleData name="Shape__Length">0.005156</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">10</SimpleData>
+		<SimpleData name="Meter">1792.62881</SimpleData>
+		<SimpleData name="Type">Primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7142053515984,18.3480913237685 -64.7139420885165,18.3480800457696 -64.7136990984407,18.3480567537669 -64.7134025083492,18.348087875781 -64.7131188512624,18.3481528958049 -64.7129021841952,18.348150952808 -64.7126017121015,18.348127142806 -64.7122224789819,18.3480181687802 -64.7116889008135,18.3478655797442 -64.7111952026574,18.347704901705 -64.7105559624554,18.3475049096568 -64.7100575112984,18.3473779696277 -64.7096518341704,18.3472603065998 -64.70926243005,18.347286366614 -64.7091864760264,18.3472842326147</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Null</SimpleData>
+		<SimpleData name="Shape__Length">0.001412</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">201</SimpleData>
+		<SimpleData name="Meter">502.738871</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.793815835994,18.3316407175807 -64.7929285747025,18.3307548263342 -64.7929249006985,18.3305963842875</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Gtohto Dy</SimpleData>
+		<SimpleData name="Shape__Length">0.000875</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">317.404763</SimpleData>
+		<SimpleData name="Type">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7951601553373,18.3276190453716 -64.795215963358,18.3278070994262 -64.795254256374,18.3280301604913 -64.7953010433968,18.3284804736234</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Centerline Rd</SimpleData>
+		<SimpleData name="Shape__Length">0.016899</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">10</SimpleData>
+		<SimpleData name="Meter">5974.675289</SimpleData>
+		<SimpleData name="Type">Primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-64.7188309810936,18.3513596926551 -64.7188172680936,18.3515931317242 -64.7187041470642,18.3519001388166 -64.7186101060389,18.3521113528805 -64.718595977038,18.3523027219372 -64.7185620500315,18.352517219001 -64.7184256159961,18.3528971091154 -64.7182672319579,18.3534875632922 -64.7180472178976,18.353921753424 -64.717976826879,18.3540945064761 -64.7179348888699,18.3543090755401 -64.7179883548891,18.3544501115808 -64.7181104019304,18.3546402526348 -64.7182799439855,18.354772592671 -64.7186608141042,18.3548074056749 -64.7189050161798,18.3547937276668 -64.7193049663027,18.3547327456421 -64.7198801584782,18.3545707345847 -64.7202037065769,18.3544798425524 -64.7203842056334,18.3545049855568 -64.7206780217272,18.3546476755939 -64.7209445228138,18.3548632836531 -64.7211489008774,18.3548729116525 -64.7214448289683,18.3548243396332 -64.7217620340681,18.3549017936507 -64.7220327321564,18.3551364867154 -64.7222223402177,18.3552724657523 -64.7225838683319,18.3553762927769 -64.7230612824813,18.3554522957913 -64.7232650925437,18.3554045537738 -64.7235029356129,18.3551537886959 -64.7239026767279,18.3546682425459 -64.7239837857475,18.3543653474552 -64.724058440768,18.3542193284109 -64.7241705478027,18.3542144884075 -64.7246115319402,18.3542525694114 -64.72490009303,18.3542690814114 -64.7252654361449,18.3543537444303 -64.7254931222144,18.3542904844078 -64.7260543143818,18.3539296912919 -64.7263291864644,18.3537780322426 -64.7264775285106,18.3537919872442 -64.7265737275406,18.3537987652446 -64.7267266455894,18.3538700512631 -64.7268476746285,18.3539569242867 -64.7269909726787,18.3542692603764 -64.727101811718,18.3545398184543 -64.7273209807914,18.3548285175358 -64.7274343048287,18.3549460585686 -64.7275356888625,18.3550713596038 -64.7279532159937,18.3551670166251 -64.7280965640367,18.3550815705974 -64.7282255380707,18.3547591155002 -64.7284195451267,18.3545316914298 -64.7287813882341,18.3542644953449 -64.7289397662798,18.3540794662877 -64.7290835743233,18.3540190632675</coordinates></LineString><LineString><coordinates>-64.7290835743233,18.3540190632675 -64.7291072973305,18.3540090992642</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Alice St</SimpleData>
+		<SimpleData name="Shape__Length">0.001639</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">579.339856</SimpleData>
+		<SimpleData name="Type">Territory</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.793536679856,18.3288356277578 -64.7939826370002,18.3291527038438 -64.7943401651169,18.3294703119316 -64.7948094342697,18.3298662380405</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Princes St</SimpleData>
+		<SimpleData name="Shape__Length">0.000721</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">252.676827</SimpleData>
+		<SimpleData name="Type">Territory</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7944422881729,18.3307950693207 -64.7950795883766,18.3311220634065 -64.795077999376,18.3311174324052</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Frangipani Ln</SimpleData>
+		<SimpleData name="Shape__Length">0.002821</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">984.819076</SimpleData>
+		<SimpleData name="Type">Territory</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7958331165666,18.3287372076903 -64.7964539267679,18.3292118518199 -64.7969668629265,18.3291853328035 -64.7974702690814,18.3291155267745 -64.7977562771699,18.3291041557664 -64.7979193142197,18.3290592447504 -64.7980458412578,18.32899732773 -64.7982319423154,18.3289868977238 -64.7984258533765,18.3290438847374 -64.7984241763766,18.3290768107471</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">King St</SimpleData>
+		<SimpleData name="Shape__Length">0.000674</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">239.93618</SimpleData>
+		<SimpleData name="Type">Territory</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.794354084137,18.3303342741862 -64.7939072570077,18.3308386853425</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Null</SimpleData>
+		<SimpleData name="Shape__Length">0.000829</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">298.265986</SimpleData>
+		<SimpleData name="Type">Territory</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7944422881729,18.3307950693207 -64.7943402091432,18.3309024223541 -64.7943037021337,18.3310031643845 -64.7941930241029,18.3311930504423 -64.7941245740845,18.3313514644902 -64.7940878700746,18.3314330855149 -64.794070665071,18.3315237905419</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Null</SimpleData>
+		<SimpleData name="Shape__Length">0.000289</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">100.931829</SimpleData>
+		<SimpleData name="Type">Private</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7582791627267,18.318430120278 -64.7582257427113,18.3184937222976 -64.7580212936475,18.3184726572948</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Fish Bay Road</SimpleData>
+		<SimpleData name="Shape__Length">0.002521</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">894.761768</SimpleData>
+		<SimpleData name="Type">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7662521042494,18.3211087399348 -64.7662521992492,18.3210972679314 -64.766258461248,18.3209250948805 -64.7662584222479,18.3209212708794 -64.7663232732622,18.3206032147845 -64.7664262592921,18.3204913427497 -64.766574379338,18.3204861467457 -64.7669259414455,18.3204025707151 -64.7669944414675,18.3204440097262 -64.7669279984499,18.3206052647749 -64.7668456174274,18.3207743178262 -64.7668944844441,18.3208541848489 -64.7670234374855,18.3209333108701 -64.7673540415921,18.3211520849291 -64.7674185376129,18.3211935599403 -64.7675640796602,18.3213099099722</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName"></SimpleData>
+		<SimpleData name="Shape__Length">0.001097</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">384.273318</SimpleData>
+		<SimpleData name="Type">Private</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7055254645771,18.3302546756518 -64.7065054228721,18.3297608014897</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Null</SimpleData>
+		<SimpleData name="Shape__Length">0.000343</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">121.798331</SimpleData>
+		<SimpleData name="Type">Private</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7580732096924,18.3200441647577 -64.7579793206623,18.3199869047424 -64.757974022659,18.3199021267174 -64.7580840476914,18.3198035626865</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Null</SimpleData>
+		<SimpleData name="Shape__Length">0.006315</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">2206.268979</SimpleData>
+		<SimpleData name="Type">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7900447698084,18.3307845333913 -64.7893757096011,18.3307941014053 -64.7888859784497,18.3308242154223 -64.788379339293,18.3308492854382 -64.7881067092072,18.3307829374232 -64.7878056221113,18.3306479523884 -64.7874490969984,18.3305187853563 -64.7872824509464,18.3305044463549 -64.7870325098685,18.3304855873535 -64.7868930118239,18.3304126893343 -64.7867367557738,18.3303293483123 -64.7864727756863,18.3300244012268 -64.7862659786196,18.3298832291886 -64.7861032495659,18.3297098431401 -64.7859491095154,18.3295622140992 -64.7858482014823,18.3294637770718 -64.7857686734568,18.3294207940605 -64.7856227564112,18.3293983090563 -64.7854357503537,18.3294278860682 -64.7852365422929,18.3294854050885 -64.7851201272571,18.3294984210943 -64.7849866162151,18.3294678680874 -64.7848989681874,18.3294448370822 -64.7848155641613,18.329429716079 -64.7847108191276,18.3293631170612 -64.7845436030745,18.3292931270433 -64.7843680230186,18.3292192400245 -64.7842801299905,18.3291723600121</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">One Way</SimpleData>
+		<SimpleData name="Shape__Length">0.007236</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">2552.259415</SimpleData>
+		<SimpleData name="Type">Primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7411812731433,18.3576537221366 -64.7409629250735,18.3575438571079 -64.7408128550254,18.3574560670845 -64.7406428039707,18.3573536900572 -64.7404876579211,18.3572706590353 -64.7402816048568,18.3572496260326 -64.7400195217764,18.3573001510519 -64.7397465406942,18.3574370460968 -64.7394936346184,18.3575789211429 -64.7393159475663,18.357745479195 -64.739183114529,18.3579556652592 -64.7390697494989,18.358233274343 -64.7389707774746,18.3585830644478 -64.7389224794654,18.3588948725406 -64.7389254624702,18.3591062586029 -64.7388539214501,18.359220913638 -64.7387431424159,18.3592314636429 -64.7386024813719,18.3592110066392 -64.7383859013053,18.3592379146508 -64.7380468242039,18.359446276718 -64.7377738841216,18.3595783647615 -64.7376221380761,18.3596634877892 -64.7374046710108,18.3597816558276 -64.7371777489415,18.3598372928478 -64.7369402998697,18.3599408718824 -64.7364093137102,18.3602253529752 -64.7360548136047,18.3604672010525 -64.7357157905046,18.36074436414</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Fish Bay Road</SimpleData>
+		<SimpleData name="Shape__Length">0.009112</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">3186.710966</SimpleData>
+		<SimpleData name="Type">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-64.7675640796602,18.3213099099722 -64.7675840736667,18.3213258929766 -64.7677421457191,18.3215118430288 -64.7679072157719,18.3215982830515 -64.7682008908654,18.3217294280853 -64.7684421979421,18.3218304601111 -64.7685903969882,18.3218329101093 -64.7690383351261,18.3217752100848 -64.7692860192018,18.321715542063 -64.7695735912897,18.321640205036 -64.7698255133671,18.3216034450209 -64.7700372354319,18.3215517590021 -64.770157325469,18.3215468199986 -64.7703136095177,18.321556843999 -64.7705945336059,18.3216154330116 -64.7707993376705,18.3216709040245 -64.771128468774,18.3217443430407 -64.7713167488325,18.3217502450393 -64.7716139239262,18.3218316310582 -64.7718150349902,18.3219177320803 -64.7720320080588,18.3219883880975 -64.7721884091077,18.3220098831012 -64.7725778402303,18.322105709123 -64.7730075873658,18.3222279321519 -64.7734815775154,18.3223688671855 -64.7736781785771,18.322405288193 -64.7739976266745,18.3223143481608 -64.7742409157482,18.3222164661278 -64.7745441898404,18.3221103770915 -64.7747547019026,18.3219401300377 -64.775271984057,18.3216140369328</coordinates></LineString><LineString><coordinates>-64.7752718370567,18.3215996959286 -64.7753807060872,18.3214223828744 -64.7754984351194,18.3211860648028 -64.7756345931581,18.3209897357425 -64.7757308661851,18.3208348586952</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Bay St</SimpleData>
+		<SimpleData name="Shape__Length">0.003674</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">1290.293103</SimpleData>
+		<SimpleData name="Type">Territory</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7956158175247,18.3301283341043 -64.7958106605863,18.3301903801194 -64.7960140016514,18.3302998691483 -64.7961752077025,18.330362237164 -64.7965674288232,18.330306627141 -64.7971599120057,18.3302344281098 -64.7973218790556,18.3302154791015 -64.7975566181273,18.3301544570796 -64.7978682182224,18.3300696930494 -64.798171244315,18.329990955021 -64.798248386337,18.3298913829904 -64.7983680453691,18.3296159069071 -64.7984462533903,18.3294478298562 -64.7985195774112,18.3293468008252 -64.7985204024098,18.3292585737991 -64.7984598503887,18.3291320067628 -64.7984241763766,18.3290768107471</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">King Hill Pved</SimpleData>
+		<SimpleData name="Shape__Length">0.013776</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">4894.064331</SimpleData>
+		<SimpleData name="Type">Primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7407423350003,18.3572849290352 -64.7405575789395,18.3570931029817 -64.7401026117965,18.3569951889605 -64.7397453086852,18.356966424958 -64.7395709296299,18.356905715943 -64.7394257845832,18.3568114209176 -64.7393084655447,18.3566958358855 -64.7392320045203,18.3566601978763 -64.739143927493,18.3566648278791 -64.7387627073789,18.3568894559518 -64.7385468073146,18.3570355469985 -64.7381955112106,18.3573027130832 -64.7378387821041,18.3575315841567 -64.7376731790539,18.357594291178 -64.73749828,18.3576139341867 -64.7373612249572,18.3576026381857 -64.7371885109033,18.3575825381826 -64.7371105628796,18.3576108981923 -64.7370066368478,18.3576328832005 -64.7368632148047,18.3577106862259 -64.736745500769,18.3577557452411 -64.7366632607433,18.3577431082388 -64.7367004877534,18.3576605352138 -64.7367589597685,18.3574993601653 -64.7367942037779,18.3574187181409 -64.7368642127962,18.3572311870844 -64.7369697368274,18.357147469058 -64.7370595108546,18.357112227046 -64.7372950129267,18.3570557400254 -64.7374500029732,18.356974949999 -64.737552116002,18.3568158009504 -64.7376155580158,18.3564962568551 -64.7375047549754,18.3561687707603 -64.737392710937,18.3559693147034 -64.7371920688712,18.3557799586508 -64.7370597268268,18.3555995295998 -64.7366997597113,18.3553850755427 -64.7359793934807,18.3550009764414 -64.7356729363819,18.3547997993872 -64.7351654862206,18.3545840363321 -64.7348249011123,18.3544452962969 -64.734471456999,18.3542501022452 -64.7343444549589,18.3542105642357 -64.7338222927954,18.3541291122204 -64.7335481137091,18.3540562592036 -64.733414906666,18.353965448179 -64.7331347845764,18.3538144371391 -64.7328820894941,18.3536009270804 -64.7324696833599,18.353264359988 -64.7323989293323,18.3529564318984 -64.732463082345,18.3525645517817 -64.732633231393,18.3523035747019 -64.7327550854286,18.3521830166643</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName"></SimpleData>
+		<SimpleData name="Shape__Length">0.005763</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">105</SimpleData>
+		<SimpleData name="Meter">2046.697749</SimpleData>
+		<SimpleData name="Type">Territory</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7964732507461,18.3277001473736 -64.7963840477108,18.3272800662511 -64.7961149736266,18.3272428252447 -64.7959839545885,18.3273814792878 -64.7951601553373,18.3276190453716 -64.7949492512745,18.3277633704177 -64.794748832214,18.3278537814478 -64.7944091981093,18.3278921744648 -64.7940856280108,18.3279910614994 -64.7937534399134,18.3282995335959 -64.7936068788748,18.3286763037096 -64.7934281148268,18.3290820228323 -64.7933408648013,18.3291638698579 -64.7932219687692,18.3294281049379 -64.7929649926977,18.3298738160737 -64.7929731237038,18.3300708381317 -64.7930519647302,18.3301763431614 -64.7930441507301,18.3303001651981 -64.7930026897202,18.3304649972475 -64.7930126317234,18.3304688952484</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">King St</SimpleData>
+		<SimpleData name="Shape__Length">0.001266</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">448.647417</SimpleData>
+		<SimpleData name="Type">Territory</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.795613630524,18.3301253261035 -64.7955463535021,18.3300732880893 -64.795481259481,18.3300190300744 -64.7954150734594,18.3299659680598 -64.7953441464366,18.3299187190471 -64.795270653413,18.3298760930357 -64.7951874333871,18.3298714230358 -64.7951191923668,18.3299223040519 -64.7950548753479,18.3299775210692 -64.7950012833325,18.3300422960892 -64.7949487623174,18.3301079421095 -64.7949001843036,18.3301762021304 -64.79485231829,18.3302451571516 -64.7947990862747,18.3303099361716 -64.7947454892592,18.3303750551917 -64.7946944032446,18.3304415722122</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName"></SimpleData>
+		<SimpleData name="Shape__Length">0.000222</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">77.161119</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7349316353214,18.3640104281164 -64.7351486193896,18.3640575741267</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Strand ST</SimpleData>
+		<SimpleData name="Shape__Length">0.001227</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">440.234879</SimpleData>
+		<SimpleData name="Type">Territory</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7950990483837,18.3311787704229 -64.7950479623651,18.3310299053799 -64.7951366903889,18.3308256483181 -64.795285680431,18.3306012512494 -64.7955124054951,18.3302596001448 -64.7956158175247,18.3301283341043</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">To King Hill</SimpleData>
+		<SimpleData name="Shape__Length">0.004845</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">1725.872866</SimpleData>
+		<SimpleData name="Type">Primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7372007399067,18.3575585371754 -64.7370854598751,18.357784792244 -64.7370028988534,18.3580017333094 -64.7367786827895,18.3583070504032 -64.7365086537092,18.3584967244637 -64.7362463226294,18.3585840314938 -64.7357765984845,18.3586246895137 -64.7354013533676,18.3586021605134 -64.7351127032788,18.3586380175288 -64.735084271273,18.3588042195783 -64.7352871243454,18.3593181837265 -64.7353902883852,18.3597416358497 -64.7356172894701,18.3605311030787 -64.7356972164959,18.3605857480935 -64.7357157905046,18.36074436414</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Mooreheads Pount</SimpleData>
+		<SimpleData name="Shape__Length">0.003571</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">1263.98308</SimpleData>
+		<SimpleData name="Type">Territory</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7984285133486,18.3274743862742 -64.7982319192844,18.3272980572255 -64.7981009022397,18.3270809271637 -64.798122640243,18.3268905121071 -64.7983006962947,18.3267014310483 -64.7985214243609,18.3265730700068 -64.7987585154326,18.3264734379734 -64.7990419905191,18.326393260945 -64.7992644125889,18.3264396309549 -64.7993290316127,18.326643487014 -64.7993367546195,18.3268849790851 -64.7991850685764,18.327099700151 -64.7989447695035,18.3271865981807 -64.7986976414287,18.327292498216 -64.7984285133486,18.3274743862742</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">East End Rd</SimpleData>
+		<SimpleData name="Shape__Length">0.006278</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">10</SimpleData>
+		<SimpleData name="Meter">2223.800048</SimpleData>
+		<SimpleData name="Type">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.6800430629747,18.3467479549459 -64.6798935659263,18.3466362079155 -64.6797495118781,18.3464490858627 -64.6795864168266,18.34639692085 -64.6793653737579,18.3463906758519 -64.6792858677331,18.3463815028505 -64.6791936047033,18.3463215398344 -64.6791549106893,18.3462113918025 -64.6792676427202,18.3459941027365 -64.6793536457433,18.3457964166767 -64.6794890927802,18.3455189475926 -64.6795617867992,18.3453253625343 -64.6797150888413,18.3450311664449 -64.679752664849,18.3448119223796 -64.679753976847,18.344681026341 -64.6796410458082,18.3444772972828 -64.6795402787752,18.3443834742568 -64.6793325717089,18.3442823382304 -64.6791260246424,18.344153763196 -64.6789579595903,18.3441564481996 -64.6787672345322,18.3442138222197 -64.6785981524816,18.3443178472533 -64.678447138436,18.3443840292753 -64.6783405524038,18.3444295052905 -64.678230307369,18.3443989372833 -64.6780987163262,18.344292161254 -64.6779058162633,18.3441257052082 -64.6777306462058,18.3439551881608 -64.677592951161,18.3438399101291 -64.6773248000748,18.3436812100868 -64.6771613680238,18.3436628220841 -64.6770189429813,18.3437544201135 -64.6768630819349,18.3438627871482 -64.6768586189337,18.3438669681494</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">East End Rd</SimpleData>
+		<SimpleData name="Shape__Length">0.042622</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">10</SimpleData>
+		<SimpleData name="Meter">15061.885156</SimpleData>
+		<SimpleData name="Type">Primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7091864760264,18.3472842326147 -64.7090413839813,18.3472801556159 -64.7087321528848,18.3472478156116 -64.70842709479,18.3472408486146 -64.7078723356216,18.3474427756835 -64.7075384125222,18.3476720257567 -64.7071732024138,18.3479347768404 -64.7070068883672,18.3482077639237 -64.7069199143457,18.3485068020134 -64.7068026133137,18.3487422230848 -64.7066865842797,18.3488488611182 -64.7064413852073,18.3490493481815 -64.7062447821501,18.3492544962453 -64.7061633961281,18.3494353443 -64.706130192122,18.3496630773678 -64.7060490560997,18.349818591415 -64.7058921650549,18.3500325424808 -64.7057430130147,18.3503584685794 -64.705588164975,18.3508131377161 -64.7054320639373,18.3513944808902 -64.7054021119344,18.3517404829928 -64.7052947499116,18.3523121301632 -64.7052133628897,18.352492977218 -64.7051359378699,18.3527203132863 -64.705071234855,18.3530026593707 -64.7049368338132,18.3529989133718 -64.7047287557491,18.3530223743822 -64.7045459136952,18.3531769714309 -64.7044278966642,18.3534841735235 -64.7042320346141,18.3540609336969 -64.7040391355593,18.3543379007819 -64.7038334724997,18.3545640788521 -64.7036777234532,18.3546619108836 -64.7033945113657,18.3546804698938 -64.7033363573489,18.3547475099145 -64.7031851763035,18.3548306029416 -64.7031354492901,18.3549399479747 -64.7029533132351,18.3550227610022 -64.7027012631568,18.3550204860057 -64.7024531320808,18.3550689200241 -64.7022617770236,18.355189655063 -64.7021269029859,18.3554122471309 -64.7020168759557,18.355626617196 -64.7019014029208,18.3556762492126 -64.7016089688311,18.3557327282341 -64.7012191677114,18.3557967732596 -64.7009537666291,18.3558028202658 -64.7007768035743,18.3558096682708 -64.7006314655281,18.3557492352554 -64.7004512944701,18.3556335912243 -64.700314549427,18.3555985732163 -64.7000485203457,18.3556679562413 -64.6998441482841,18.3557632332728 -64.6996484092255,18.3558797033104 -64.6994868651765,18.3559373623301 -64.699261680106,18.3559015443234 -64.6989973250221,18.3558020282984 -64.6987942499584,18.3557664092913 -64.6986514649149,18.3558052343052 -64.69846928586,18.3558922653339 -64.6982920298056,18.3559286663476 -64.698128333755,18.3559356313524 -64.6979599217034,18.355972113366 -64.6978262996637,18.3560680293966 -64.6974072395399,18.3564062845034 -64.6972322664903,18.3566580695806 -64.6969999764225,18.3568924446537 -64.6967822923568,18.3569918216866 -64.6965144562784,18.3572427647651 -64.6963719882359,18.3573385997958 -64.6963057842151,18.357325331793 -64.6962534331976,18.3572530697726 -64.6961841081734,18.3571088657312 -64.6960313941222,18.3569005636723 -64.6958828500727,18.3567176366208 -64.6956897520101,18.35656808758 -64.695347398899,18.3563073935088 -64.6951544258362,18.3561451764642 -64.6949698377768,18.3560294874332 -64.6947713527142,18.355977014421 -64.6944662376195,18.3559742474253 -64.6940717174988,18.3560677944595 -64.6937614664038,18.3561367684852 -64.693379326287,18.3562304275192 -64.6931490472162,18.3562621205324 -64.6928126421124,18.3562928495471 -64.6923429469684,18.3563857105824 -64.6919930648608,18.3564374306035 -64.6917452657842,18.356452072612 -64.6914219146848,18.3565040316328 -64.6911817406128,18.3566412036773 -64.6909370595396,18.3567867787243 -64.6907246774739,18.356797517731 -64.6905307844124,18.3567281907138 -64.69042966838,18.3566681516978 -64.6902181283113,18.3565057626535 -64.6901664532927,18.3563659396131 -64.6901115362709,18.3561078475379 -64.690174833288,18.3559690704959 -64.6902740103153,18.3557799434384 -64.6904124793557,18.3556418493954 -64.6906085184139,18.355495832349 -64.6906806154337,18.3553613573082 -64.6907181794414,18.3551421112428 -64.6906844874278,18.3549728921935 -64.6905566723873,18.3549295021829 -64.6902387982878,18.3548759391724 -64.6899077851838,18.3548095881583 -64.689603345088,18.3547392551427 -64.6893146569992,18.354774635158 -64.6891641849527,18.3547859341639 -64.6890230619082,18.3547466461546 -64.6889269168762,18.3546317551224 -64.6887662338209,18.3543368070381 -64.6886138687692,18.3540947189692 -64.6885716287524,18.3538958629113 -64.6885738207491,18.3536762958465 -64.6885623247422,18.3534988327943 -64.688380240679,18.3531327456894 -64.6882181906258,18.3529750256456 -64.6879630695441,18.3528375736093 -64.6874910253956,18.3527234835836 -64.6872792813289,18.3526708815716 -64.6870759592656,18.352660584572 -64.6868993802103,18.3526294165658 -64.6868562571949,18.352519230534 -64.6867952371743,18.3524299945087 -64.6866900401399,18.3523361344828 -64.6865048280815,18.3522837744705 -64.6863326410276,18.352255601465 -64.6860335159319,18.3520966314232 -64.685879931882,18.3519769933904 -64.685761132844,18.3519167903746 -64.6856025787936,18.3518520023582 -64.6854926657584,18.3517876593411 -64.6853790897205,18.3516472703016 -64.6850541536155,18.3514162752389 -64.6848650865548,18.3513072912099 -64.6846007474709,18.351207756185 -64.684468599429,18.3511558771719 -64.6841515783281,18.3510178551366 -64.6839232912542,18.3508510820911 -64.683524327124,18.3505053929959 -64.6833792520775,18.350419612973 -64.6832244880294,18.3504182009752 -64.6829764439532,18.3504581639912 -64.6828526759147,18.3504528119917 -64.6826760988593,18.3504216409854 -64.6823941597699,18.3503134959583 -64.682270602731,18.3502870299526 -64.6820802526723,18.3503064059615 -64.6818868866118,18.3502738129551 -64.6817589075716,18.3502473079494 -64.681649165536,18.3501660709273 -64.6816421835304,18.3499802028726 -64.681569085504,18.3497726168126 -64.6814379974603,18.3496151747683 -64.6811718383728,18.349344592693 -64.6808816502797,18.3491772506485 -64.6806270071973,18.3489933415985 -64.6805227461615,18.3488065835452 -64.6804819151426,18.3484683844461 -64.6804440241273,18.3482780103906 -64.68043283312,18.3480709893297 -64.6804963881367,18.3479068802802 -64.6805423671478,18.3477316302277 -64.6805438481455,18.3475838441841 -64.6805325721383,18.3473852681257 -64.6805037361255,18.3471738640638 -64.6804390181025,18.3470128040174 -64.6802801380509,18.3468931119847 -64.6801788610187,18.3468499589737 -64.6800823029874,18.3467772869539 -64.6800430629747,18.3467479549459</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">107</SimpleData>
+		<SimpleData name="Shape__Length">0.010925</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">107</SimpleData>
+		<SimpleData name="Meter">3900.072268</SimpleData>
+		<SimpleData name="Type">Primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7142053515984,18.3480913237685 -64.7141492325722,18.3476156026291 -64.7143486376274,18.3472522835186 -64.7145198916741,18.3469065214137 -64.714728093733,18.3465967113188 -64.7149434317983,18.3465095912895 -64.7152791139024,18.3465125992848 -64.7155693099904,18.3463994332465 -64.7159162390945,18.3462066301838 -64.7161056141479,18.3459144590945 -64.7162949882012,18.3456222890051 -64.7164006172283,18.3453115579116 -64.7165148702593,18.3450721448391 -64.7165374012591,18.3446769637222 -64.7163645732016,18.3444712676643 -64.7161687101366,18.3442373145986 -64.7157989720157,18.3439045165066 -64.7155676119407,18.3437243434574 -64.7155121909224,18.3436704164424 -64.7153148828605,18.3436312474341 -64.7151107977952,18.3435225584055 -64.714936348736,18.3432449393265 -64.714801296685,18.342753950184 -64.7145912146116,18.3423068160556 -64.7140950574438,18.3415543438419 -64.7137154883174,18.3410843157096 -64.7132330831631,18.3408306466428 -64.7130760621116,18.3406778526004 -64.7131816921386,18.3403671235069 -64.7133170481716,18.3398785603605</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Caneel</SimpleData>
+		<SimpleData name="Shape__Length">0.009031</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">3198.25245</SimpleData>
+		<SimpleData name="Type">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-64.7854873726189,18.3429954630701 -64.7855918746537,18.3431288271077</coordinates></LineString><LineString><coordinates>-64.7855918746537,18.3431288271077 -64.7856182806644,18.3432624451466 -64.7856259266689,18.343379326181</coordinates></LineString><LineString><coordinates>-64.7856259266689,18.343379326181 -64.7858659487435,18.3433884111796 -64.7859501547677,18.3432829051471 -64.7859126247543,18.3431878461197 -64.7858318107285,18.3431490441096 -64.7857294976969,18.3431523301123 -64.7855918746537,18.3431288271077</coordinates></LineString><LineString><coordinates>-64.7856259266689,18.343379326181 -64.7856301576714,18.3434440092 -64.785631876675,18.3436113242493 -64.7855892296661,18.3438459893193 -64.7854560336283,18.3440384733783 -64.7853484555995,18.3442880884537 -64.7853300025966,18.3444412514992 -64.7855337786661,18.3447835665968 -64.7857589067446,18.345254767732 -64.7857754467524,18.3454028207754 -64.7858570177803,18.3455454848161 -64.7859879598224,18.3456207518361 -64.7861883478847,18.3456332168364 -64.7864137179548,18.3456406658349 -64.7865688560029,18.3456344298304 -64.7867685560638,18.345579967811 -64.7869676181234,18.3454633597733 -64.7871316361722,18.3453470787362 -64.7872424352063,18.3453369627314</coordinates></LineString><LineString><coordinates>-64.7877777753637,18.3448617425822 -64.7879695514233,18.3448692505813 -64.7881127234681,18.3448896265849 -64.7881712014862,18.3448890785837 -64.7882719155174,18.3448881335818 -64.7883954035558,18.3448900765802 -64.7885124565923,18.3448982865807 -64.7886200186262,18.3449314075887 -64.7886853146471,18.3449618225966</coordinates></LineString><LineString><coordinates>-64.7877777753637,18.3448617425822 -64.7878922544005,18.3449355216021 -64.7880171684404,18.3449971796182</coordinates></LineString><LineString><coordinates>-64.7872424352063,18.3453369627314 -64.7872870802171,18.3451704136815 -64.7874028262508,18.3450514236445 -64.7875087922814,18.3449294236067 -64.7876641933287,18.3448752185881 -64.7877777753637,18.3448617425822</coordinates></LineString><LineString><coordinates>-64.7872424352063,18.3453369627314 -64.7873066992261,18.3453310947286 -64.7874737182812,18.3455064217775 -64.7876262593327,18.3457344748422 -64.7876669953465,18.3458010248612 -64.7877723673797,18.3458239418662 -64.7880023504504,18.3457930978532 -64.7882519625266,18.3457238228286 -64.7882519135265,18.3457190418272 -64.7884157415752,18.3456035167904 -64.7885448646138,18.3455216337641 -64.7885693546187,18.3453755747206 -64.7885746076181,18.3452545186848 -64.7885612606133,18.3452205136749 -64.7885428606067,18.3451691036601</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Centerline Rd</SimpleData>
+		<SimpleData name="Shape__Length">0.021512</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">10</SimpleData>
+		<SimpleData name="Meter">7581.959658</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7939072570077,18.3308386853425 -64.793721566949,18.3307767413274 -64.7931514597682,18.3305622052737 -64.79305769674,18.3306097262892 -64.7928574666774,18.3305896092866 -64.7924299965442,18.3305528232829 -64.7921713604632,18.3305138012757 -64.7918441593609,18.3304705112685 -64.7917226423235,18.330482354274 -64.7913890902203,18.3304997422847 -64.7911034021325,18.3305506683045 -64.7905700049693,18.330671247349 -64.7904636079371,18.3307145053636 -64.7903845169127,18.3307230303674 -64.7901551588416,18.3307265863723 -64.7900447698084,18.3307845333913 -64.7900416498098,18.3309114954287 -64.7899918327976,18.3310859084811 -64.7898475437561,18.3312650335363 -64.7895651196713,18.3314196005866 -64.7892851575855,18.331476093608 -64.7890493765136,18.3315476886331 -64.7888539924545,18.3316269926597 -64.788627632386,18.3317214876914 -64.7884055313181,18.3317729557103 -64.7881934052518,18.3317472097063 -64.788095286221,18.3317298047028 -64.7879275371692,18.3317394077084 -64.7877052281015,18.3318129567338 -64.787409225012,18.3319355647749 -64.7871497789301,18.3318597207569 -64.786913715855,18.3317564697304 -64.7866839067816,18.3316440717011 -64.7865532027404,18.3316079816926 -64.7864026226942,18.3316361347035 -64.7861914756308,18.3317521077412 -64.7858526815287,18.3319166757955 -64.7856347274615,18.3319368878051 -64.7854713214115,18.3319763408195 -64.7853877683869,18.3320492398424 -64.7852367373414,18.3321252388673 -64.7850244422762,18.3321583818806 -64.7847924712041,18.3321527078829 -64.7844677521053,18.3322548189184 -64.7842721350465,18.3323585929523 -64.7840149459684,18.3324520829842 -64.7839067059355,18.3324861199961 -64.7837718888935,18.3324775979958 -64.7836256828477,18.3324505749903 -64.7835238318155,18.3324202519831 -64.7834087347788,18.3323640479684 -64.7833362567548,18.3322842869461 -64.7832104137131,18.332141491906 -64.7831208186834,18.3320376568769 -64.7830350586542,18.3318952058363 -64.7829561916295,18.3318798028331 -64.7829230516199,18.3319200068455 -64.7828254005922,18.3320571978877 -64.7826883085539,18.3322897519585 -64.7825581585193,18.3326033440532 -64.7825303645122,18.3326896040791 -64.7824360714864,18.3328792761367 -64.7823684004697,18.333106906205 -64.7823244094591,18.3332758462555 -64.7821797344182,18.3334947153226 -64.7820428653796,18.3337033443864 -64.7817228282844,18.3339214384561 -64.7816141422521,18.3340025844819 -64.7815142332243,18.3341747245343 -64.7814481742086,18.3344354946124 -64.7813833981945,18.3347643727105 -64.7813756461959,18.3349730097722 -64.781333096183,18.3349892057776 -64.7812777871647,18.3349279967606 -64.7812641271571,18.3347419957059 -64.7811851751287,18.3345315076451 -64.7811087221038,18.3344645936266 -64.7808826250311,18.3343264535897 -64.780609096946,18.3343130535903 -64.7803831088791,18.3344896266462 -64.7802246228346,18.3347422387234 -64.7801550038173,18.3349716907923 -64.7800147637766,18.3351287588409 -64.7796831986739,18.3351387818494 -64.779542041631,18.3351890958667 -64.7791977865304,18.3355220039706 -64.7790204634792,18.3357284420345 -64.7789539874604,18.3358290910653 -64.7788401214269,18.3359278600963 -64.778731808394,18.3359692551104 -64.7785627903405,18.3359089030954 -64.7782631532456,18.3358032530693 -64.7780346601731,18.335714781047 -64.7778591281189,18.3357316700549 -64.7777760230937,18.3357567180636 -64.7776660780627,18.3359298721166 -64.7776223110592,18.3364816212802 -64.7775926670552,18.3367629493636</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Null</SimpleData>
+		<SimpleData name="Shape__Length">0.00227</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">102</SimpleData>
+		<SimpleData name="Meter">799.226861</SimpleData>
+		<SimpleData name="Type">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7915577282322,18.3283022516335 -64.7917399652882,18.3282721486216 -64.7919367763482,18.3282137396011 -64.7921404254108,18.3281804025878 -64.7923380784725,18.3282036835914 -64.7925101875277,18.3283026186177 -64.792695911588,18.3284454176567 -64.7927833266184,18.3286268467088 -64.7928444886409,18.3288148077632 -64.7929186796671,18.3289900768137 -64.7931170447303,18.3290824798376 -64.7933407168009,18.3291495288537</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Caneel MaintenanceRD</SimpleData>
+		<SimpleData name="Shape__Length">0.004659</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">1638.577063</SimpleData>
+		<SimpleData name="Type">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-64.7838782200878,18.3412622115857 -64.7840868261553,18.3414121736264 -64.7842191851983,18.3415183836556 -64.7843372062364,18.341597865677 -64.7843316892355,18.3416436516906</coordinates></LineString><LineString><coordinates>-64.7843316892355,18.3416436516906 -64.7843242462343,18.341705435709 -64.7842351322066,18.3417017937094 -64.7842050301937,18.3415095616532</coordinates></LineString><LineString><coordinates>-64.7843316892355,18.3416436516906 -64.7844361542679,18.3416461866896 -64.7846101053228,18.3416938057007 -64.7848220663903,18.3417903157257</coordinates></LineString><LineString><coordinates>-64.7848220663903,18.3417903157257 -64.7845752703167,18.3419537997781 -64.7842631662235,18.3421492348409 -64.7839784081374,18.3422683038808 -64.7831870018935,18.34235629692</coordinates></LineString><LineString><coordinates>-64.7858875737362,18.3426266079545 -64.7857284146826,18.3423951808889 -64.7853885045729,18.3421655588269 -64.7851852295069,18.342001811782 -64.7849860914411,18.3417843027212 -64.7848220663903,18.3417903157257</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Short St</SimpleData>
+		<SimpleData name="Shape__Length">0.000705</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">249.416567</SimpleData>
+		<SimpleData name="Type">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7950863153308,18.3285126866365 -64.7956166795038,18.3289765257645</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName"></SimpleData>
+		<SimpleData name="Shape__Length">0.000169</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">59.856254</SimpleData>
+		<SimpleData name="Type">Territory</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7944422881729,18.3307950693207 -64.7945665462093,18.3306806812849</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName"></SimpleData>
+		<SimpleData name="Shape__Length">0.000271</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">97.599552</SimpleData>
+		<SimpleData name="Type">Territory</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7946944032446,18.3304415722122 -64.7946308692272,18.3305655242498 -64.7945699472103,18.3306775762839 -64.7945665462093,18.3306806812849</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Concordia</SimpleData>
+		<SimpleData name="Shape__Length">0.00902</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">3216.823739</SimpleData>
+		<SimpleData name="Type">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7008901178258,18.3132336047068 -64.7009223388358,18.3132348697067 -64.7009524758452,18.3132395807076 -64.7009805308541,18.3132477387095 -64.7010065038624,18.3132593407125 -64.7010255798685,18.3132718877159 -64.7010448768748,18.3132893427207 -64.7010637488811,18.3133104917266 -64.7010954938916,18.3133503457378 -64.7011095808964,18.3133693757432 -64.7011224419007,18.3133902497492 -64.7011341949048,18.3134131597557 -64.7011450369086,18.313438484763 -64.7011629869152,18.3134917237785 -64.7011922039262,18.31360023981 -64.7012058719313,18.3136448598229 -64.7012234089376,18.3136897168359 -64.7012433459445,18.3137276898468 -64.7012855939588,18.3137968528664 -64.7013142119685,18.3138387168783 -64.7013434359782,18.3138741928883 -64.701373201988,18.3139024768961 -64.7013984119961,18.3139210789012 -64.7014286840059,18.3139394079061 -64.7015221830357,18.3139852969181 -64.701576566053,18.3140091319242 -64.7016347230714,18.3140305199296 -64.7016970300911,18.3140496029341 -64.7017641711123,18.314066590938 -64.7018346321344,18.3140812649411 -64.7019125121589,18.3140946269438 -64.701999294186,18.314107033946 -64.7021161992225,18.3141215199483 -64.7021860982445,18.3141341419509 -64.7022046132502,18.3141346529507 -64.702220422255,18.3141320649496 -64.70223658026,18.3141261009477 -64.702253227265,18.3141172729447 -64.7022694922698,18.3141060349412 -64.7022841172741,18.3140932489372 -64.7022954382774,18.314079908933 -64.7023058102803,18.3140631179279 -64.702327379286,18.3140125409126 -64.7023334022876,18.3139931059068 -64.7023375342884,18.3139708569002 -64.7023437802888,18.3138836848743 -64.70234979729,18.3138478708637 -64.7023571402918,18.3138235518563 -64.7023672712945,18.3137971848484 -64.7024146873073,18.3136961578178 -64.7024319793118,18.3136520688045 -64.702444895315,18.3136055247905 -64.7024685403202,18.3134920017566 -64.7024819773235,18.3134412547414 -64.7025000693281,18.3133879407254 -64.7025215233338,18.3133323317086 -64.7025465713405,18.3132738116909 -64.7025758363484,18.3132109246718 -64.7026441663671,18.3130719886297 -64.7026707963744,18.3130228856148 -64.7026965503815,18.3129794776015 -64.7027235753892,18.3129384625889 -64.702751031397,18.3129014515776 -64.7027792594052,18.3128679875672 -64.7028084594137,18.3128378365579 -64.7028484484254,18.3128021515467 -64.7028939734389,18.3127665875354 -64.7029453054542,18.312730923524 -64.7030032824715,18.3126945775123 -64.7030436274836,18.3126715825049 -64.7030860384963,18.3126496834977 -64.7031304925098,18.3126288904908 -64.7031769595238,18.3126092184842 -64.7032758145538,18.3125732864719 -64.7033822265863,18.3125420254609 -64.7034782506156,18.3125192224526 -64.7035580766402,18.3125060324473 -64.7036279966618,18.3124995064443 -64.7036970566831,18.3124967634423 -64.7037641017039,18.3124978494415 -64.703828373724,18.3125027484418 -64.703889040743,18.3125113744434 -64.7039459297608,18.312523679446 -64.7039987097775,18.3125395904499 -64.7040471547929,18.3125590394548 -64.7040769658024,18.3125740894587 -64.7041072018121,18.3125921014635 -64.7041380908221,18.3126132074693 -64.7041700488324,18.3126376934759 -64.7042353068537,18.3126946144917 -64.704333739886,18.3127897985181 -64.7043921299052,18.3128501545349 -64.7044527279254,18.3129202075546 -64.7045158189464,18.312999719577 -64.7046093229777,18.3131239256121 -64.7046481329907,18.3131781696274 -64.7047352530202,18.3133067996639 -64.7047798980351,18.313367194681 -64.7048170830475,18.3134111376933 -64.7048617130622,18.3134578517064 -64.705014084112,18.313600853746 -64.705065681129,18.3136519497602 -64.705110912144,18.3137021007743 -64.7051480681564,18.3137502167879 -64.7052041541753,18.3138350228119 -64.7052552271928,18.3139230588371 -64.7053006122085,18.3140131588629 -64.7053397532223,18.3141042178891 -64.7053597082296,18.3141615409057 -64.7053939662424,18.31427968294 -64.7054100362483,18.3143292569543 -64.7054291192551,18.3143790639687 -64.7054528692635,18.3144338219845 -64.705560334301,18.3146595870493 -64.7055813413084,18.3147096590638 -64.7055984283146,18.3147559600771 -64.7057120443584,18.3152215642126 -64.7057503813803,18.315763760372 -64.7057205113769,18.3160857654675 -64.7056107673477,18.316345398546 -64.7055265213227,18.3164089465661</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Null</SimpleData>
+		<SimpleData name="Shape__Length">0.010454</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">3690.206689</SimpleData>
+		<SimpleData name="Type">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7842801299905,18.3291723600121 -64.7842869049898,18.3290212369674 -64.7842651979815,18.328933983942 -64.7841981159598,18.3288869089292 -64.784056157915,18.3288445079191 -64.7837311928136,18.3288157459161 -64.7834391157218,18.3287469229007 -64.7833892947065,18.3287593149052 -64.7832983816795,18.3288237689257 -64.7831082316229,18.3289527549669 -64.7829215915662,18.3290181039893 -64.7826807224924,18.3290720350093 -64.782560023455,18.3290731630117 -64.7825677364563,18.3290134609939 -64.7826288224729,18.328881706954 -64.7826652624823,18.3287819839239 -64.782721413496,18.3285747458619 -64.7827192944915,18.328368051801 -64.7827502274968,18.3281371977323 -64.7828559555252,18.3278937176587 -64.7829380145485,18.3277776686231 -64.7832191576323,18.3275921775637 -64.7833342676655,18.3274519675203 -64.7835152357177,18.3272395864546 -64.7836511137572,18.3270952064098 -64.7837626737903,18.3270146573841 -64.7838455058153,18.3269741303708 -64.7839697128526,18.3269093643496 -64.7840571558798,18.3269125213491 -64.7841529229096,18.3269156013484 -64.7842573399426,18.3269504023569 -64.784382524982,18.3269810323639 -64.7845241960262,18.3269956083657 -64.7846867580771,18.3270179393696 -64.7848033351133,18.3270208233685 -64.7849152601472,18.3269760473534 -64.7849939301709,18.3269355593402 -64.7850976532025,18.3269027863287 -64.7852764152575,18.3268812373194 -64.7854134342994,18.3268481523074 -64.7855174033315,18.326839228303 -64.7856539323724,18.3267584452769 -64.7858279604249,18.3266812852512 -64.7861512885229,18.3265510502073 -64.7862838605629,18.3264901801872 -64.7864703326192,18.3264089281601 -64.786594742657,18.3263640341448 -64.7867817047144,18.3263304811317 -64.786923088758,18.3263172311254 -64.7871519158288,18.3263071361186 -64.787301134874,18.3262461100981 -64.7875456279479,18.3261404610628 -64.7876819939884,18.3260437780321 -64.7878803790474,18.3259067589883 -64.7879262420618,18.3259142799897 -64.7880307810951,18.3259610030018 -64.7880980671172,18.3260279520204 -64.7881487461342,18.3260990310405 -64.7882246011594,18.326189751066 -64.7882636111743,18.3263404451098 -64.7882909471796,18.3261652770577 -64.7883264431871,18.3259741320007 -64.7883318251835,18.3256878629162 -64.7883177521751,18.3254682338516</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName"></SimpleData>
+		<SimpleData name="Shape__Length">0.014597</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">5166.999728</SimpleData>
+		<SimpleData name="Type">Primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7357157905046,18.36074436414 -64.7355461744555,18.3609368161996 -64.735448639429,18.3611377052605 -64.7353782544166,18.3616510704131 -64.7353647414189,18.3620064185181 -64.7354017664365,18.3623381966153 -64.7353636154302,18.3626404877051 -64.7352343103968,18.3630044178146 -64.7351955053915,18.3633739539243 -64.7351605923897,18.3638607320685 -64.7351486193896,18.3640575741267 -64.7352531844241,18.3641689841578 -64.7354839774969,18.3642334741729 -64.7358260456031,18.3642365031681 -64.7363541927671,18.364245980162 -64.7370378629802,18.3643000641665 -64.7373497020771,18.3643076261635 -64.7375510121394,18.3642997991579 -64.7377314541966,18.3643686451751 -64.7382131923503,18.3645986752349 -64.7384580534294,18.364768966281 -64.7389023215719,18.3650241203488 -64.7396445468066,18.3652660544077 -64.7400063659196,18.3653076794139 -64.7401472699632,18.3653036394103 -64.7405776900973,18.3653266534099 -64.740931945207,18.3653182514015 -64.7410132872306,18.3652305823743 -64.7410472302378,18.3650502653205 -64.7409802302143,18.3649036442784 -64.7409168071928,18.3648031692498 -64.740718938125,18.3644555621506 -64.7406118800887,18.3642893721034 -64.7405889250794,18.3641661970675 -64.7405376880614,18.3640543000353 -64.74047896004,18.3638846949863 -64.7404164310171,18.3636919979305 -64.7403568669971,18.363608753907 -64.7403663119993,18.3635684858949 -64.7403163979812,18.3634239368531 -64.7402811839683,18.363319867823 -64.7402251849484,18.3631801647828 -64.7402295139472,18.3630447407427 -64.7402456939502,18.3629324787093 -64.7403309859752,18.3628525306843 -64.7404249970035,18.3628072466694 -64.7405847120535,18.3628345946748 -64.740837127134,18.3629521097052 -64.7410357721967,18.3630115067194 -64.7412340932589,18.3630420787251 -64.7413336942897,18.3630429577237 -64.7414639523293,18.3629951097073 -64.7415185033458,18.3629725326998 -64.7416522253855,18.3628786006699 -64.741806991432,18.3627935006422 -64.741913716463,18.3626820376075 -64.7419988124883,18.3626222625884 -64.7421049805203,18.3625684375708 -64.7422019525496,18.3625289425575 -64.7423199695857,18.3624982785465 -64.7424626076285,18.3624188355207</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">107</SimpleData>
+		<SimpleData name="Shape__Length">0.045108</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">107</SimpleData>
+		<SimpleData name="Meter">16030.712652</SimpleData>
+		<SimpleData name="Type">Primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7133170481716,18.3398785603605 -64.7133965681914,18.3396152942816 -64.7134509372047,18.3394204272231 -64.7133899211822,18.3392245251664 -64.7132997021463,18.338797944042 -64.7132196281143,18.3384065149279 -64.7132146571025,18.3378454527625 -64.7131481500786,18.3376745467131 -64.7130030710303,18.337492918662 -64.7128255699678,18.3370880935455 -64.7126980489215,18.3367212854395 -64.7126064038879,18.3364399533579 -64.7124273248239,18.335982519226 -64.7122673997693,18.3357105921485 -64.7119145086527,18.3353267330411 -64.7116210395572,18.3350871679753 -64.711344354469,18.3349544479408 -64.7109220523332,18.3346951908714 -64.7107386862759,18.3346735068681 -64.7106115812387,18.3347975929068 -64.7104532541914,18.3348963509387 -64.7101387210935,18.3348784979387 -64.7096825339517,18.3348643799422 -64.709405455864,18.3347717249195 -64.7090394647483,18.3346532248907 -64.7086980186434,18.3347052539117 -64.7084045635518,18.3346775689085 -64.7082381674975,18.334530807868 -64.7081192854573,18.3343529178175 -64.7079562493978,18.3338655676764 -64.7078185483477,18.3334686095617 -64.7076182682776,18.333035023437 -64.7073793541991,18.3327959423705 -64.7072029161408,18.3326040083168 -64.7069833850713,18.3325268962978 -64.7068058600147,18.3324451512767 -64.7067077459814,18.3322889862322 -64.706694928972,18.3319933341452 -64.706519030909,18.3315344190127 -64.706368669859,18.3313577459631 -64.7062134608069,18.3311409569018 -64.7059739917293,18.330958472852 -64.705761834658,18.3306660337692 -64.7054824595642,18.3302758116588 -64.7050950834348,18.3297749165175 -64.7048518103532,18.3294471324248 -64.7045974532694,18.3291793573501 -64.7044257712136,18.3290375543112 -64.7043517641898,18.3289898012983 -64.704147378126,18.3289729312968 -64.7039539260648,18.3289110772817 -64.7037921890131,18.3288244632589 -64.7035534199343,18.3285718541884 -64.7034080118865,18.3284252781476 -64.7032351918324,18.3283986731426 -64.7030461427742,18.3284220131527 -64.7026417726497,18.3284734631747 -64.7023942905747,18.3285714112077 -64.7021388214984,18.3287344052601 -64.7019435364401,18.3288578702998 -64.7017060963691,18.329000989346 -64.7014644522948,18.3290388793612 -64.7012660052316,18.3289519323389 -64.7011213421827,18.328730225276 -64.700961492128,18.3284532801969 -64.7009221661109,18.3281874421191 -64.7009454271139,18.3279572340508 -64.7010682331479,18.327737942984 -64.7012128091873,18.3274387028933 -64.7011789751714,18.327147868808 -64.7011275721536,18.3270422137778 -64.7010023101116,18.3268742787303 -64.7007629020338,18.326686778679 -64.7005018219507,18.3265692096487 -64.7002356478657,18.326436567614 -64.7002059178532,18.3262609805627 -64.7003331738902,18.3261218755195 -64.7005077779415,18.3259681714712 -64.7006859519951,18.3258776144415 -64.7010282760987,18.3257354433938 -64.7013542721983,18.3256532333641 -64.7017793153298,18.3256320273507 -64.7020789894215,18.3255595973243 -64.7021961514545,18.3253803272694 -64.7022092184538,18.3251199721924 -64.7020631684069,18.3250385071708 -64.7019007913562,18.3250170051672 -64.7018121333277,18.3249661131536 -64.701703652291,18.324798330106 -64.7015323252346,18.3246214640567 -64.7014022071923,18.3245201060289 -64.701162555115,18.324357649985 -64.7009607040473,18.324085334908 -64.7008843710193,18.3238492168397 -64.7008181949951,18.323646751781 -64.7006387609317,18.3232293746609 -64.7005468948985,18.3229730805868 -64.7003842598403,18.3225543514659 -64.700343148826,18.3224688254414 -64.700259885799,18.3224029544234 -64.7001124987542,18.3224567224417 -64.6998872426838,18.3224296404375 -64.6997515376405,18.3223632954202 -64.6994609845445,18.3220450943312 -64.6990932604218,18.3215759211989 -64.6990270213976,18.3213799671422 -64.6990381563999,18.3213149491228 -64.6991393064284,18.3211635870764 -64.6992615134634,18.3210044010274 -64.6993790724959,18.3207850639607 -64.699575790552,18.3205163508781 -64.6998499806343,18.3203685568299 -64.7001396547219,18.3202459477889 -64.7003871007969,18.3201505077565 -64.7005715908525,18.3200570017258 -64.7006993388886,18.3198678096678 -64.7007855779111,18.3196331605972 -64.7008090359137,18.3193829185229 -64.7008170079112,18.3191074894415 -64.700854759921,18.3190026384099 -64.7009119709374,18.3189322023882 -64.7010232189721,18.3189390423883 -64.7012695970487,18.3189512863878 -64.7015837021472,18.3190092243996 -64.7019290262559,18.3190924884184 -64.7020890523064,18.3191390154295 -64.7022983243723,18.3191909964413 -64.7025078444378,18.3192179334458 -64.7026971304956,18.3191695514283 -64.7029651795777,18.3191118614067 -64.7033532996981,18.3191103543998 -64.7035899327704,18.3190473713772 -64.7040179079032,18.3190462223697 -64.7042857079856,18.3190135753556 -64.7044852360471,18.3189903283454 -64.7047411311285,18.3191008323737 -64.7050284732197,18.3192136224022 -64.7051859482684,18.3192000153955 -64.7053078013039,18.3190758863568 -64.7053740973182,18.3187358642553 -64.7054033363217,18.3184305721648 -64.7054324773253,18.3181352980771 -64.7055042143409,18.3177752889697 -64.7056471423828,18.3176413309278 -64.7058577494466,18.3175580728997 -64.7059422494717,18.3174987248808 -64.7059275064653,18.3173984098514 -64.7058028584243,18.317274563817 -64.7056055113595,18.3170774307621 -64.7055440163377,18.3169316117201 -64.7055095343229,18.316705891654 -64.7056212443546,18.3165466066052 -64.7058176014112,18.3163129475329 -64.7059989934618,18.316001513438 -64.7061176774925,18.3156669713372 -64.7062157325161,18.3152971812265 -64.7062498675217,18.3150269971462 -64.7063740915535,18.3146624510365 -64.706487901584,18.3143964899561 -64.7065952056128,18.3141520098821 -64.7068075876738,18.3138884408008 -64.7070728057505,18.3135852727069 -64.7072458988001,18.3133614396379</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">North Shore Rd</SimpleData>
+		<SimpleData name="Shape__Length">0.08818</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">20</SimpleData>
+		<SimpleData name="Meter">31153.705036</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7948622253207,18.3317524705962 -64.7946766312619,18.3316840595791 -64.7944514031904,18.3315947475565 -64.7941347750903,18.3314943735322 -64.793815835994,18.3316407175807 -64.7935551829177,18.3318852276572 -64.7933106748463,18.3321298747335 -64.7929093137278,18.3324554268363 -64.7927364596754,18.3325207718584 -64.7926280946432,18.3325969508827 -64.7924054505779,18.332805801948 -64.7920541174718,18.3329621470001 -64.7918056283975,18.3331120390485 -64.7917058713704,18.3333245881128 -64.7918024984026,18.3334454541469 -64.7920663314874,18.3336077651904 -64.792342627579,18.3339302352809 -64.7924108256034,18.3341042093311 -64.792533131648,18.3344653734355 -64.7926566896905,18.3346931715007 -64.7930049418003,18.3347895155233 -64.7934801289471,18.3347535665047 -64.7937447150307,18.3348358565245 -64.7938675250744,18.3351436726133 -64.7936556730133,18.3353952786911 -64.7933605289254,18.3355928197543 -64.793287451909,18.3359389738577 -64.7932833239158,18.3363790829876 -64.7931264538735,18.3367245220921 -64.7927728197726,18.3372016532388 -64.7925043506954,18.337532799341 -64.7922211646151,18.337943844467 -64.7919251395286,18.3382347395578 -64.7914767453923,18.3383909526114 -64.7909446832299,18.3385331116622 -64.7905944211234,18.3386501497026 -64.7902295680135,18.3388337507629 -64.789822063892,18.3390970128474 -64.7895271608037,18.3392678749027 -64.7893441047498,18.3394263579525 -64.7891886047052,18.3396250900138 -64.7889469276385,18.340076499151 -64.7888040116005,18.3404220542553 -64.78866260056,18.3406075693124 -64.7884240574882,18.3407255623512 -64.7881023473893,18.3407761533715 -64.7875712802252,18.3408116083909 -64.7869570470341,18.3407796603918 -64.7866079089257,18.3407766623967 -64.7864390658758,18.3409085894385 -64.7862139838091,18.3410800464928 -64.7860462717573,18.3410919424992 -64.7859487637265,18.3410644304926 -64.7856442856267,18.3407683844104 -64.7854501505637,18.3406200013699 -64.7852568944993,18.3403782623018 -64.7850908174448,18.3402167822569 -64.78482698136,18.3400544612135 -64.7847171433222,18.3398534521561 -64.7845503122689,18.3397719911348 -64.784338944207,18.3399702391968 -64.784267481188,18.340143014249 -64.7842781771977,18.3404898873512 -64.7841928751742,18.3406492053996 -64.7838969570875,18.3409267514864 -64.7838527950782,18.3411664505579 -64.7839202341037,18.3414204466317 -64.7839592371215,18.3417275497216 -64.7837893850732,18.3419661667948 -64.7834396149658,18.3420298458195 -64.7832857409186,18.3420551978295 -64.7828534347831,18.341984788816 -64.7825051756734,18.3418884267934 -64.78216962157,18.34192555081 -64.7820144895247,18.3420842668594 -64.781955225513,18.3424438749665 -64.7818267634785,18.3427361970549 -64.7816990574428,18.3429485011197 -64.7814318183635,18.3431462641825 -64.7813317903368,18.3433854812547 -64.7814143253649,18.3435195682929 -64.7816496014421,18.3437483363564 -64.7818715425139,18.3439103004005 -64.7818982155246,18.3440439074394 -64.7818951925296,18.3443639855339 -64.7820314495785,18.3447252766382 -64.7821831856293,18.3449266496951 -64.7822365306507,18.3451938617731 -64.782317680681,18.3454746518545 -64.7824822507381,18.3457961739466 -64.7827035658109,18.3460248190104 -64.782827370853,18.3462259510676 -64.7828800878755,18.3465598461652 -64.7827808158476,18.3467190442138 -64.7824874027568,18.3467298562219 -64.7821538556501,18.3465535941755 -64.7815971054736,18.3463487341244 -64.7812358793578,18.3461455570705 -64.7808902582437,18.3457691239653 -64.7805715631398,18.3454996238911 -64.7804085760879,18.3454248608718 -64.7802290860336,18.345500138897 -64.7800491119801,18.3456266299373 -64.7797801588982,18.3457096719663 -64.7795910028423,18.3458616900143 -64.7793304237641,18.3460045570609 -64.7791329747044,18.3460882150889 -64.7788645056217,18.3461200431028 -64.7785247715164,18.3461256481101 -64.7781041903868,18.3461732341312 -64.7779077923254,18.3461459311264 -64.7775590392174,18.3461599921364 -64.777355083152,18.3460459281062 -64.7772596011223,18.3460403011061 -64.777148945088,18.3460441471091 -64.7770031400428,18.3460428871112 -64.7768523989959,18.3460319821105 -64.7767162399544,18.3460740201251 -64.7767001109514,18.3461843171579 -64.7766944459509,18.3462514901779 -64.7766584789412,18.3463328062025 -64.7766380039356,18.3463710422141 -64.7766069729276,18.3464620042415 -64.7765652959175,18.3466152942873 -64.7765385649123,18.3467831183373 -64.7765474369173,18.346908034374 -64.7765109239086,18.3470469654156 -64.7764542528936,18.3471905224589 -64.7764276128883,18.347348743506 -64.7764256568915,18.3475551945669 -64.7763988348864,18.3477326216198 -64.7764324378999,18.3479009656688 -64.7764863779193,18.3480454787106 -64.7765949419569,18.3482624877728 -64.7767341300032,18.3484317458204 -64.7768928820567,18.3486587908847 -64.7770413511073,18.3489097539562 -64.7771098311323,18.3491120110147 -64.7771230041401,18.349313791074 -64.7771256681455,18.3495634951476 -64.7770685431313,18.3497550652051 -64.7770006801151,18.350018565284 -64.776861197079,18.3504110884021 -64.7767075860367,18.3507026574907 -64.7764999419752,18.3508593145404 -64.7762732319057,18.3509053715578 -64.7758103937626,18.3509301815729 -64.7756349637071,18.3508710455583 -64.7753882786311,18.3509025245717 -64.7750706565342,18.3509910076032 -64.7747838404457,18.3510125356143 -64.7746330023988,18.3510112296165 -64.774436232339,18.3510815506405 -64.7741793992601,18.3511225436569 -64.773998350204,18.3511257786609 -64.7737766211362,18.3511766776796 -64.7734438230348,18.3512746297141 -64.7733022219924,18.3513598317416 -64.7728898428645,18.3513658647503 -64.7727241038128,18.351345223747 -64.7725239467488,18.3512426567201 -64.7722489626604,18.3510770226758 -64.7719343955586,18.3508438216123 -64.7717144914878,18.3507026705744 -64.7714942224175,18.3505999295477 -64.7713633153773,18.3506180015553 -64.7712569543458,18.3506987055809 -64.7711097763027,18.3508414776255 -64.7708969622398,18.3510124886795 -64.7707611641978,18.3510161126828 -64.7704543251028,18.3510278566914 -64.7702983240546,18.3510409086979 -64.7700879289878,18.3509574576768 -64.7699804179537,18.3509145106659 -64.769760563884,18.350834278646 -64.7695884308298,18.3507922716364 -64.7693541797562,18.3507389226246 -64.7692749907316,18.3507382356257 -64.7691640226985,18.350807495648 -64.7691125506836,18.3508664686663 -64.7689528616365,18.3510028267092 -64.768768077581,18.3511011557413 -64.7685356265099,18.3511558567613 -64.7682546584246,18.3512560507956 -64.7681156003841,18.3514039418415 -64.7679727463438,18.3516203719078 -64.767884254319,18.3517604499506 -64.7677484072802,18.3519449300073 -64.7675002432034,18.3519555790146 -64.7673457481561,18.3519862470262 -64.767255268128,18.3519830610268 -64.7671308910887,18.3519460440179 -64.766973442038,18.3518488979919 -64.7668662080032,18.3517662259693 -64.7668064849842,18.3517398869626 -64.7667026849511,18.3516870639487 -64.7666021339191,18.3516461629384 -64.766548152901,18.3515689729165 -64.7665652549032,18.3514044698677 -64.7665048028827,18.3513064228398 -64.7663831698457,18.3513463958536 -64.7659563027165,18.3515266499139 -64.7658446946838,18.3516292809461 -64.7658222146815,18.3518804890205 -64.7656812306374,18.351863867018 -64.7654398105583,18.3516358779548 -64.7652758275105,18.3518025990067 -64.7651600484749,18.3518159960126 -64.7650353584342,18.3517092769832 -64.7649055033922,18.3516169179582 -64.7646745403199,18.3515812969515 -64.7645186752716,18.3515799409537 -64.7642197401813,18.3517117829976 -64.7639975951141,18.3518058800291 -64.7638515560692,18.3518286170383 -64.7637667700415,18.3517558560182 -64.7635018499563,18.3515902959738 -64.7634416519374,18.3515753669705 -64.7633046608972,18.3517038160106 -64.7631931298644,18.3517988760405 -64.7628698757669,18.3519497100904 -64.7625614756744,18.3521246821472 -64.762374570618,18.3522142831768 -64.7621979055646,18.3522847672006 -64.762041535517,18.3523362222184 -64.7618608514603,18.352301036211 -64.7615254033534,18.3521492631718 -64.7610448362002,18.3519242011135 -64.7607647871103,18.3517633060708 -64.760553524043,18.3516659120456 -64.7604379280071,18.3516601020458 -64.7601609799219,18.3517009000625 -64.7597483707945,18.3517309100782 -64.759552005734,18.3517580060895 -64.7591238056027,18.3518406971211 -64.7587752714976,18.3520057091756 -64.7586390124563,18.3520573361931 -64.7581859473167,18.3521109972166 -64.7576783501595,18.3521235162288 -64.7575783991286,18.3521267122313 -64.7574794200981,18.3521419682375 -64.7574061600756,18.3521522002417 -64.7572603510303,18.3521509252438 -64.7570991349809,18.352183126256 -64.7569434539322,18.3521625602526 -64.7567524388728,18.3521560882539 -64.7566820018511,18.3521602732563 -64.7565321248046,18.3521637652598 -64.7563857387593,18.3521671962633 -64.7562101077051,18.3521849562715 -64.7557525955633,18.3521923132813 -64.7554973264815,18.352051236244 -64.7552874074141,18.3519230022097 -64.7549718193161,18.3519226892149 -64.7546488132164,18.3519467002274 -64.7542556240947,18.3519649562394 -64.7539621050041,18.3519859842505 -64.7535997298923,18.3520232932676 -64.7533151148043,18.3520379352766 -64.7533136518044,18.3520677732855 -64.7533047958042,18.352204540326 -64.7532805437998,18.3523735833762 -64.7531819807702,18.3524267373936 -64.7529366266945,18.3524497954045 -64.7527288436307,18.3524875884191 -64.7525801995847,18.3524934874234 -64.7524632665485,18.3524960634261 -64.7523609995176,18.3525419834413 -64.7523152295044,18.3525955984579 -64.7523512075188,18.3527759735105 -64.752421021544,18.3529674475659 -64.7524911125688,18.3531301156126 -64.7525612025935,18.3532927826594 -64.7525659655979,18.3534511557061 -64.7525300315881,18.3535276657293 -64.7523919235498,18.3537713358034 -64.7522692675155,18.3539767278661 -64.7522315325086,18.3542404839445 -64.7522346675132,18.3544373760025 -64.7522684325264,18.354586520046 -64.7522714765312,18.3547930141068 -64.7522695835342,18.3549898621649 -64.7522383545265,18.3551000241979 -64.7521208634936,18.3552910572563 -64.7519682224497,18.3554769793137 -64.7518662314208,18.355624934359 -64.7517589063908,18.3558045324138 -64.7516262383533,18.3560050344751 -64.7515738343411,18.356225447541 -64.7514757153156,18.3564934746218 -64.7513523632825,18.3567708837056 -64.7511443202215,18.3569659237666 -64.7508506601342,18.3571746168332 -64.7505679800486,18.3572873738711 -64.7502358969459,18.357308466883 -64.7499697328627,18.3572725188768 -64.7498742108312,18.357166046847 -64.7497516057872,18.3568432657539 -64.7496443177475,18.3564966106534 -64.7494864716927,18.3561783205621 -64.7492335106075,18.3558159824595 -64.7488584914872,18.3555966174011 -64.7486319064174,18.3556282374142 -64.7482387492973,18.3557256164495 -64.7477001961312,18.3557785024741 -64.7475749580914,18.3557293854618 -64.7474562760508,18.3555218744026 -64.7473508450082,18.3549831712455 -64.7472270429661,18.3547852191892 -64.7471036659292,18.3548561572121 -64.7470109859045,18.35508101628 -64.7469028048759,18.3553489533608 -64.7468710158691,18.3555167294109 -64.7468403848605,18.3555644744255 -64.746740009829,18.3555443864212 -64.7465939657841,18.3555671094304 -64.7465482507708,18.3556147224452 -64.7465425277703,18.3556866964665 -64.7464061697291,18.3557479174868 -64.7460786996287,18.3558122585114 -64.7459369885865,18.3559070425417 -64.7457848035419,18.3560449485849 -64.7455520314725,18.3561965506335 -64.7453229424067,18.3564874297231 -64.7451644783625,18.3567549228047 -64.7450055013191,18.3570752289019 -64.7448016902609,18.3573519249869 -64.7447401022442,18.357481025026 -64.7446681512248,18.3576417250746 -64.7445401311895,18.3578806761472 -64.7444022861507,18.3580955322129 -64.7442489391079,18.3583534662916 -64.7440703110574,18.3586255823749 -64.743968590028,18.3587447254117 -64.7439223740141,18.3587651504185 -64.7438348419866,18.3587435474136 -64.7436647779327,18.3586807133979 -64.7435190458863,18.3586196153823 -64.7432485038008,18.3585367143624 -64.7430578997408,18.358487019351 -64.7426919626251,18.3583685563221 -64.7421054404397,18.3581809252767 -64.7417297273204,18.3580335632395 -64.7415045782484,18.3579163392087 -64.7411812731433,18.3576537221366 -64.7409770740762,18.35745025408 -64.7407423350003,18.3572849290352</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">AnnabergRd</SimpleData>
+		<SimpleData name="Shape__Length">0.005421</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">Null</SimpleData>
+		<SimpleData name="Meter">1899.367949</SimpleData>
+		<SimpleData name="Type">Primary</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-64.7351672473898,18.3637528350365 -64.7350492603559,18.3639001780819 -64.7349316353214,18.3640104281164 -64.7348539982972,18.3640035581157 -64.7346089792193,18.3638962790882 -64.73436474114,18.3637086300369 -64.7340046810235,18.3634457609655 -64.7337982709579,18.3633635549447 -64.7333722628232,18.3632237569106 -64.7330297647156,18.3631527088954 -64.7326084285857,18.3631984359159 -64.7318622733571,18.3633525709739 -64.7315767842696,18.3634118659962 -64.7312651551745,18.3634956600261 -64.7310580251101,18.3634876380273 -64.7309233800658,18.363350420989 -64.730654873976,18.3629956158889 -64.7305269449333,18.3628337258433 -64.7304358779058,18.3628761968573</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Bordeaux Mtn Rd</SimpleData>
+		<SimpleData name="Shape__Length">0.045757</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">108</SimpleData>
+		<SimpleData name="Meter">11831.00966</SimpleData>
+		<SimpleData name="Type">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-64.7195872190697,18.3373135564985 -64.7195034990434,18.3372927714938 -64.7195271600543,18.3374909925519 -64.7194739380405,18.3376331255947 -64.719366441012,18.3378976466746 -64.7192747269883,18.3381572997528 -64.7192973639993,18.3383748738165 -64.7193966260336,18.3385641248707 -64.7195731810917,18.3387460299214 -64.7197354341445,18.3388736389564 -64.7199747472206,18.3389825419845 -64.7201416982742,18.3390741970087 -64.7202561513114,18.3391703920352 -64.7202709533178,18.339265698063 -64.7203635443499,18.3394518611164 -64.7205497084127,18.3397240141935 -64.7207434234735,18.3397608082012 -64.7208801325152,18.3397269661889 -64.7209638525416,18.3397477501936 -64.7211568326036,18.3398596732234 -64.7213025596509,18.3399761832553 -64.7216091607514,18.3402694483367 -64.7215685417441,18.3405549384216 -64.7215238837373,18.340943411537 -64.7215115917396,18.3412725556343 -64.7214251617148,18.3413833296684 -64.7212909996789,18.3416926947619 -64.7211939436538,18.3419623188431 -64.7211224256378,18.3423022979446 -64.7209726745968,18.3425964970339 -64.720808390549,18.3427678440873 -64.7206966765172,18.3429271371361 -64.72056962148,18.3430462201734 -64.7203421274131,18.3432445512357 -64.719935569292,18.3435164183227 -64.7196348412019,18.3436940583802 -64.7193396021131,18.3438467014301 -64.7190346110199,18.3439241194581 -64.7187296179267,18.3440015384861 -64.7183612928146,18.3441184635268 -64.7178881166699,18.3442294395674 -64.7177360136227,18.3442280785696 -64.7176051845815,18.3441968535626 -64.7170304523989,18.3439663015042 -64.7167528143121,18.3439287524978 -64.7165007622344,18.3439565505102 -64.7164099752093,18.3441210385603 -64.7163758992036,18.344386214639 -64.7163645732016,18.3444712676643</coordinates></LineString><LineString><coordinates>-64.7388583141967,18.345372889553 -64.7388470401887,18.3451252994801 -64.7388635561914,18.3449944054412 -64.7388896981962,18.3448140943876 -64.738806637166,18.3445745783183 -64.73870175213,18.344384372264 -64.738645931111,18.3442918602376 -64.7385611480835,18.3442299592208 -64.7384038360323,18.3441004421852 -64.7382350059763,18.3439009351292 -64.7380660639204,18.3437130750766 -64.7379000568657,18.3435368880274 -64.7377480818176,18.3434860410149 -64.7375624267593,18.3434494550073 -64.737419655714,18.3433928649929 -64.7372897596714,18.3432665009578 -64.7371626586301,18.3431663689304 -64.7370544135948,18.3430713549042 -64.7369608805639,18.3429686078755 -64.7366740434694,18.3426748717937 -64.7365891484422,18.3426246177802 -64.73660240144,18.3422802476784 -64.7366392874465,18.3420141285993 -64.7366749244551,18.3418768525582 -64.7367402684729,18.3417420235173 -64.7368147594935,18.3416072744763 -64.7368429845008,18.3415267174521 -64.7368344944969,18.3414589384322 -64.7368452664971,18.3412915213826 -64.7368585644977,18.3410994493258 -64.7369291815158,18.3408925952635 -64.7369258785124,18.3407615272249 -64.7368761204959,18.3407043032089 -64.736812726475,18.3406382221905 -64.7366826124342,18.3406130471852 -64.7364811643721,18.3406331041945 -64.7362907883141,18.3406903872146 -64.7361512742708,18.3406913362172 -64.7359301142009,18.3406216752004 -64.735731906138,18.3405434811807 -64.7356743901182,18.3404372681503 -64.7356076530939,18.3402444850945 -64.7354878310541,18.3401014660543 -64.7353242230014,18.3399930010251 -64.7351212099374,18.3399387880125 -64.7349688518885,18.3398492059886 -64.7347075498042,18.3396743559414 -64.7345625547566,18.3395332959022 -64.7344466507192,18.339458013882 -64.7343838726974,18.3393286028448 -64.7343412896817,18.3391921628053 -64.7342555596529,18.3390712837711 -64.7341648106234,18.3389962237504 -64.733930695548,18.3388478227106 -64.7337913305045,18.3388334827087 -64.7336698774672,18.3388586147182 -64.7335690054364,18.3388839277273 -64.7333488833692,18.3389431287485 -64.7333074453569,18.3389711527574 -64.7330308882734,18.3390953717987 -64.7329252722413,18.3391381148131 -64.7327624021918,18.3391890868309 -64.7326275261499,18.3391835228315 -64.7324980701088,18.3391380388202 -64.7324778071019,18.3391050998109 -64.7324925051047,18.339004766781 -64.732534601116,18.3389090447521 -64.7325858441301,18.338813403723 -64.7325978941327,18.3387501747041 -64.7325918621292,18.3386649456791 -64.7324761300916,18.3385721916537 -64.7322440280174,18.3384521976222 -64.7320196859456,18.338333800591 -64.7317922018728,18.3382094785581 -64.7316715558343,18.3381516245431 -64.7314029317486,18.3380247535101 -64.7311936566815,18.3379093284796 -64.7306461285075,18.3376779874206 -64.7304368114404,18.3375669293913 -64.7303052443976,18.337456561361 -64.7301447993442,18.3372585783052 -64.7300638603164,18.3371158992645 -64.729948682278,18.3369663652223 -64.7297904892271,18.3368660251954 -64.7296877571948,18.3368476401916 -64.7295781851605,18.3368270101874 -64.7294072551063,18.3367665241724 -64.7290734780025,18.3367548221746 -64.7291039290106,18.3366808371522 -64.7291275620165,18.3366024231287 -64.7291261060145,18.3365172351036 -64.729092963002,18.336398131069 -64.7290868259987,18.3363238220472 -64.7290257659785,18.3362533910274 -64.7289736609615,18.3362026960133 -64.7288438069202,18.3361513100004 -64.7288250589118,18.336010057959 -64.7288169129073,18.3359073379288 -64.72873302788,18.3358323369081 -64.7285785738301,18.3357239478787 -64.7285109308072,18.3356250668506 -64.7284634837914,18.3355656778339 -64.7283608377591,18.3355385568277 -64.7282670407301,18.3355420908303 -64.7281524696949,18.335565095839 -64.72807249967,18.3355578328382 -64.7279974426459,18.335515669827 -64.727943156628,18.3354540358097 -64.7279119096168,18.335375133787 -64.72792631162,18.3353053737662 -64.7279614216293,18.3352226947412 -64.7279668466294,18.3351353837154 -64.7279016616071,18.3350190526821 -64.727842590588,18.3349792146713 -64.7277375295551,18.3349651766689 -64.7276323625225,18.3349620566698 -64.7275127054842,18.3348970016526 -64.7273586154336,18.3347514876123 -64.7271453283643,18.334579238565 -64.7269960593149,18.3344084325171 -64.7269329692935,18.3343117754897 -64.7270416093207,18.3339589373837 -64.7271244983411,18.3336670192962 -64.7272135423647,18.33344744823 -64.7272371973705,18.3333668502058 -64.7272199063633,18.3332640491757 -64.7271247383321,18.3331736581507 -64.7270139482953,18.3330438181142 -64.7269781282828,18.3329648750915 -64.7269835332829,18.3328797470663 -64.727061081303,18.332666407002 -64.7270572113005,18.3325943009808 -64.7269786902732,18.3324385389362 -64.7268885452428,18.3323023288976 -64.7267894532109,18.3322392038806 -64.7267581851998,18.3321624848584 -64.7267340761903,18.3320552558272 -64.7267005221785,18.3319785168051 -64.7265843071417,18.3319359867946 -64.7264222100908,18.3319083367891 -64.7262640040425,18.3319506068042 -64.726119836998,18.3319602438095 -64.7259755429537,18.3319829828186 -64.7258723019222,18.3320170068304 -64.7257306558781,18.3320026418285 -64.7255568058242,18.3320076458329 -64.725481196801,18.3320222598385 -64.7254963068073,18.3321141218654 -64.725541102823,18.3322106168931 -64.7255670498339,18.3323637269378 -64.7255385218271,18.3324748559711 -64.7254095507888,18.3325676190006 -64.7252422277384,18.3326534880288 -64.7250726076866,18.3326934730434 -64.7248019916041,18.3327718690711 -64.7245318005209,18.3328065900859 -64.7243483764648,18.3328551861033 -64.7242875814459,18.3328513691031 -64.7242418914317,18.3328465931025 -64.7241774584124,18.3328875141157 -64.7240279283677,18.3329779091449 -64.72386660132,18.3331053271852 -64.7235107562122,18.3332462972327 -64.7231245430961,18.3334525153 -64.7228357910094,18.3336078423507 -64.7226535839558,18.3337656484003 -64.7224591518956,18.333770465405 -64.7221775888087,18.333798528418 -64.7220101177578,18.3338525074368 -64.7218963247261,18.3340512044973 -64.7217274676786,18.3343188945791 -64.7216029176431,18.3344903446318 -64.7213559135689,18.334619286674 -64.7211815155166,18.3347143647049 -64.7209902994634,18.3350508788075 -64.7206107713526,18.3354271259248 -64.7204138142949,18.3356117329826 -64.7203192532667,18.3356730110022 -64.7201955792298,18.3357547360284 -64.7201491072212,18.3360718351228 -64.7201170192172,18.3363959642189 -64.7201513972312,18.3365757362714 -64.7201915832497,18.3369005123666 -64.7202327832665,18.3371217594311 -64.720293162294,18.3375985705708 -64.7203059263011,18.3377712466215 -64.7202923102979,18.3378239726373 -64.7201951602669,18.3377803946261 -64.7200984292353,18.3376941126023 -64.7199893502002,18.3376232505832 -64.7197272351148,18.3374034795227 -64.7196009480741,18.3373191115</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name></name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#STJ_Roads">
+		<SimpleData name="altitudeMode">clampToGround</SimpleData>
+		<SimpleData name="RdName">Centerline Rd</SimpleData>
+		<SimpleData name="Shape__Length">0.080551</SimpleData>
+		<SimpleData name="Surface2">1</SimpleData>
+		<SimpleData name="Rout">10</SimpleData>
+		<SimpleData name="Meter">28434.815573</SimpleData>
+		<SimpleData name="Type">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-64.7775926670552,18.3367629493636 -64.7776140520652,18.3369468084175 -64.7776274820732,18.3371567324792 -64.7775907570658,18.3373717455433 -64.7775212200483,18.3375919956094 -64.7774825330403,18.3378106706746 -64.77756984307,18.3379522177149 -64.7778122231498,18.3382027667847 -64.778057262229,18.3383760418317 -64.7781224592506,18.3384513248529 -64.7781330982557,18.3385489598815 -64.7781300742569,18.3386648809157 -64.7780424622352,18.3389622730049 -64.7779174601996,18.3391378740588 -64.7776812591284,18.3392523330966 -64.7774607920615,18.3393332481241 -64.7771876929757,18.3392738371112 -64.7769725449076,18.339200201093 -64.7766798268164,18.3391774280912 -64.7765040827626,18.3392163991057 -64.7763260897124,18.3394927641902 -64.7761822696739,18.3398235332902 -64.776018357627,18.340037446356 -64.7757822675609,18.3404244704741 -64.7755856765036,18.3406294495379 -64.775430710457,18.3407127695651 -64.7754016474483,18.3407290825704 -64.7753038574178,18.3407171945685 -64.7752291903937,18.3406650165544 -64.7751472183665,18.3405704465278 -64.7750771033425,18.3404446914919 -64.7748129962532,18.3400467163789 -64.7745310291632,18.3399062463423 -64.7744520901385,18.3398982013412 -64.7743165520977,18.3399651243632 -64.7742231810704,18.3400563383917 -64.7740891490309,18.3401674434267 -64.7740020480046,18.3402071794399 -64.7738996179733,18.3402375794505 -64.7737173189168,18.3402360014532 -64.77349909085,18.3402838044709 -64.7733666368116,18.3404317315168 -64.7731204037418,18.3407903226267 -64.7729830897038,18.3410440327038 -64.7727897596487,18.3413110597858 -64.7727064946237,18.3413526677995 -64.7726080745934,18.3413665388053 -64.772508112562,18.3413399067991 -64.772079460426,18.3411815997596 -64.7718103543412,18.3411074907422 -64.771591265272,18.3410430187269 -64.7713746102027,18.3409251936957 -64.7710894191104,18.3407184346395 -64.7707975560155,18.3404840115753 -64.7707262029934,18.3404889135779 -64.7706602459738,18.3405343525924 -64.7706106869611,18.340679316636 -64.7706163299669,18.3408965347 -64.7706401569767,18.3410255707377 -64.7706215879732,18.3411542397759 -64.7705327529498,18.3413761598429 -64.7704720519328,18.3414768568736 -64.7703740299056,18.3416515839268 -64.7702776588757,18.3416525879287 -64.7701759808433,18.341603854916 -64.7701191478237,18.3415002978864 -64.7700846358104,18.3413601268457 -64.7701010668136,18.3412535248139 -64.7700732458028,18.3411391777807 -64.7699970217775,18.3410483357551 -64.7698669797353,18.340942303726 -64.7697504096972,18.3408382286973 -64.7694389145962,18.3406012406326 -64.7693485005678,18.340583891629 -64.7692402535349,18.3406179206409 -64.7691299725015,18.340662973656 -64.7690096204658,18.3407539506848 -64.7688608344226,18.3409164567353 -64.7687423213914,18.3412190978265 -64.7686405193629,18.3413856918774 -64.7685764883439,18.3414311468919 -64.7684978433203,18.3414731619056 -64.768360882278,18.3414866959119 -64.7682007782286,18.3415018699191 -64.7681386212103,18.3415528619351 -64.7680798981938,18.3416480539642 -64.7680595061896,18.3417656629992 -64.7680466541881,18.3419010070394 -64.7680187461813,18.3419983060686 -64.7679755791693,18.3420789100931 -64.767913439151,18.3421280611086 -64.767857310134,18.342153340117 -64.7677279330944,18.342179822127 -64.7675619240434,18.342207828138 -64.7673823389884,18.342244916152 -64.76725448695,18.3423137411744 -64.7671054129051,18.3423847751979 -64.7669425398564,18.3424882632311 -64.7667372167947,18.3425969042666 -64.7665008857237,18.342723679308 -64.7663557066799,18.3427905123301 -64.7659458265567,18.3430083524012 -64.765583550448,18.3432058074656 -64.7654543044096,18.3432992804953 -64.7653202293701,18.3434140615314 -64.7652151663394,18.3435180505639 -64.7651378193159,18.3435449845731 -64.764995040272,18.3435621465805 -64.7648195532178,18.3435735025868 -64.7645279491277,18.343594890598 -64.7642386930383,18.3436126176081 -64.7640922879927,18.3436058226086 -64.763749442886,18.343584433608 -64.7633028867463,18.3435253315981 -64.7629159996254,18.3434741105895 -64.7624829504899,18.3434132845787 -64.7623312374425,18.3433972395766 -64.7622814854264,18.3433599975664 -64.7621799483938,18.3432965385494 -64.7621188623737,18.3432352725323 -64.7621018703677,18.3431983155217 -64.7620394903461,18.3430707824852 -64.7619364483121,18.3429631394551 -64.7618045352691,18.3428515654244 -64.7617355832469,18.3428067934124 -64.7616490752196,18.3427839544071 -64.761436991154,18.3427931474133 -64.7613791441361,18.3427963244152 -64.7611853510759,18.3427872734158 -64.761075366042,18.3428010374217 -64.760980729013,18.3428222964296 -64.7608355469692,18.3428891264518 -64.7607021739285,18.3429302924661 -64.7606097618997,18.3429202844647 -64.7605175798705,18.3428863524563 -64.7603946158316,18.3428466304466 -64.7602543447873,18.3428030774361 -64.7600635827281,18.3427995724383 -64.7599095046801,18.3427890264377 -64.7597305516232,18.3427193674202 -64.7596652786025,18.3426930334135 -64.7594425655318,18.3426045883911 -64.7592792584802,18.3425516313783 -64.7590850974197,18.3425407333783 -64.7588898993602,18.3425979223984 -64.7587485003177,18.3426721454227 -64.7586200272803,18.3428053744641 -64.7585052502482,18.3429976165228 -64.7583826272125,18.343123533562 -64.7582446591719,18.3432419565993 -64.7580977071272,18.3432922046165 -64.7579683640875,18.3433150006254 -64.7577914430319,18.3432748046165 -64.757645248986,18.3432459216104 -64.7575526609574,18.3432543146145 -64.7574077249133,18.343295377629 -64.7572700908721,18.343378833656 -64.7571076158228,18.3434399876767 -64.7569565657766,18.3434754756898 -64.7567289577063,18.3434955706995 -64.7564995996352,18.3434972467038 -64.7563511265893,18.3435051497086 -64.7561441165266,18.3435879987365 -64.7560086564856,18.3436457077558 -64.755854365438,18.3436572407618 -64.7556795663827,18.3435968187469 -64.7555394193381,18.3435403787327 -64.7554135132981,18.3434859057187 -64.7552676032517,18.3434275757039 -64.7551293662078,18.3433729936901 -64.7549290551454,18.3433601976897 -64.7547981021046,18.3433498486888 -64.7545363720228,18.3433107496817 -64.754340234961,18.3432648626715 -64.7541154908899,18.3431874366524 -64.7537350787696,18.3430644776225 -64.7535732397193,18.3430593796237 -64.7534089066693,18.3431131516423 -64.7533122706399,18.3431417516524 -64.7532529516214,18.3431375516521 -64.7531991346044,18.3431223566485 -64.7530896805697,18.3430809086382 -64.7528222414858,18.3430343946289 -64.7526388864295,18.3430622336402 -64.7525361143988,18.3431275886612 -64.7523901673562,18.3432735427067 -64.7522674173206,18.3434123387497 -64.7521890952987,18.3435404817888 -64.7521224602802,18.3436558448239 -64.7519614292337,18.3438473088832 -64.7518513702037,18.3440690339504 -64.7517011091606,18.3442628020101 -64.751516690106,18.344401056054 -64.7513741910615,18.3443887640527 -64.7512343340188,18.344422505065 -64.7509799399398,18.3444221140692 -64.7508797489087,18.3444193940701 -64.7505885988186,18.3444334030791 -64.7503707847512,18.3444370130838 -64.7501565236853,18.3444719410977 -64.7497538885616,18.3445352141231 -64.7494772864776,18.3446395301585 -64.7492560904119,18.3447940222078 -64.7492209244019,18.3448434062229 -64.7490078973399,18.3450702992935 -64.7488859943031,18.3451207603104 -64.7486793332398,18.3451667953274 -64.7484912511836,18.3452847703654 -64.7483229201327,18.3453532273884 -64.7481399960785,18.3454959084336 -64.7480909680649,18.3455838184603 -64.7480100400434,18.3457818725201 -64.7479785750371,18.3459671105753 -64.7479635420354,18.3461270956228 -64.7478978020191,18.3463492086893 -64.7477824349864,18.3465211947421 -64.7476329109422,18.3466376677789 -64.7473947048705,18.3467570398181 -64.7472419478241,18.346809069836 -64.7471045477825,18.3468674908556 -64.7469237997293,18.3470241779048 -64.7467668866822,18.347107456932 -64.7465848676273,18.3471960369612 -64.7464017195706,18.347201787966 -64.7461406454898,18.347214213974 -64.7459305714247,18.3472142059775 -64.7458421543968,18.3471895019717 -64.7457926353803,18.3471283329545 -64.7456941833464,18.3469452649021 -64.7456143643195,18.3468286148691 -64.7454620592687,18.3466340308142 -64.745455173265,18.3465487577892 -64.7454446052598,18.346445601759 -64.745468352266,18.3463813967396 -64.7455059612758,18.3462786637087 -64.7455896813001,18.3461910596814 -64.7456882303302,18.3461643206719 -64.7458025333645,18.3461027526518 -64.745924686401,18.3460265296273 -64.7460042844246,18.3459664956082 -64.746031867432,18.3459041645894 -64.7460363084323,18.3458434695714 -64.7460158194246,18.3457696725499 -64.7459645054072,18.3456948685287 -64.7458552463722,18.3456331725124 -64.7457727533459,18.3455937975021 -64.7455593782787,18.3455367074889 -64.7454657672488,18.345491161477 -64.7453414642084,18.3453906834494 -64.7452442661761,18.3452775624177 -64.7452009731607,18.3451704363869 -64.7452373131689,18.3449995973358 -64.745261132175,18.3449280303143 -64.7452911961821,18.3448082992785 -64.7452645721732,18.3447712572681 -64.7451895401496,18.3447577132653 -64.7451352971333,18.3447866832747 -64.7449545890793,18.344899198311 -64.7447974110326,18.3450100793463 -64.7446958160037,18.3451527373901 -64.7446931420043,18.3452300114129 -64.7447346320189,18.3453242394401 -64.7448467320567,18.3454908644873 -64.7449497120908,18.3456040365189 -64.7450200371144,18.3457058795479 -64.7450999451412,18.3458133275782 -64.7451184611484,18.345891708601 -64.7450999271449,18.3460148536377 -64.7450254171242,18.3461467076778 -64.7449529771039,18.3462638567136 -64.7447475840423,18.3463779957507 -64.7445222139743,18.3464851477861 -64.7442007838775,18.3466405928373 -64.743761870744,18.346787640888 -64.7435725456862,18.346834374905 -64.7433335176158,18.3470383959692 -64.7431489555613,18.3471904440172 -64.7430859715442,18.3473260810582 -64.7429684415114,18.347521970118 -64.742921620498,18.347580450136 -64.7427923254581,18.3475977151433 -64.7426882794258,18.3475949571442 -64.7425934753971,18.347632770157 -64.7425253073758,18.3476268321564 -64.7424332323465,18.3475818501446 -64.7423079693075,18.3475807451464 -64.7421784252681,18.3476237731613 -64.7419673172046,18.3477304961963 -64.7418144151584,18.3477972432186 -64.7416892771193,18.3477832562165 -64.7414844100532,18.3476434171787 -64.7412870189898,18.3475275691479 -64.7411700699524,18.347463962131 -64.7410900039259,18.3473730751056 -64.7410123808991,18.3472288380643 -64.7409062078629,18.3470475390126 -64.7407626178165,18.3469487299859 -64.7406379077768,18.3468905749708 -64.7404407087138,18.3467949729459 -64.7401982126379,18.3467597049396 -64.7399317825554,18.3467678419465 -64.7397449784972,18.3467533089453 -64.739549450436,18.3467239759399 -64.7393551323751,18.3466891319329 -64.7392342943365,18.3466291709173 -64.7391811553184,18.346544041893 -64.7391317473003,18.346392137849 -64.7391211472952,18.3462926628198 -64.7390839422811,18.3461543017797 -64.7390466302672,18.3460269827427 -64.7389843272417,18.3456942356456 -64.7389867712415,18.3456408856299 -64.7389939252411,18.345499236588 -64.7389755822337,18.34540337156 -64.7389083822123,18.3453770125533 -64.7388583141967,18.345372889553 -64.7387565301674,18.3454982435916 -64.7387578321702,18.34562840863 -64.7388246581959,18.3458958097078 -64.7386826321561,18.3461268297783 -64.7384459190898,18.3465118618958 -64.7383287870592,18.3468268859908 -64.7380994029938,18.3471429340879 -64.7379320929439,18.3472516651227 -64.7377162158781,18.347314893145 -64.7375332538241,18.3474620531915 -64.7374222247919,18.3475855852298 -64.7372641577471,18.3478167503006 -64.7371041766982,18.347856495315 -64.7364869305071,18.3478774363316 -64.7363922424806,18.3480314483786 -64.7363691054751,18.3481235494062 -64.7365385595296,18.3482292094345 -64.736747873596,18.3483115334552 -64.736724967591,18.3484266044896 -64.736358120481,18.3486290415554 -64.7359912713709,18.3488314786213 -64.7355124722266,18.3490655636984 -64.7353041501623,18.349082776707 -64.7350248890783,18.3492231547531 -64.7349542530592,18.3493769467996 -64.7349489110625,18.3496450068788 -64.7348613220365,18.3497070638985 -64.7346686539763,18.3496858458955 -64.7342685048536,18.3497660629259 -64.733909210745,18.3499224829781 -64.7337682437075,18.3502606950802 -64.7338034497242,18.3505743301721 -64.7339242597626,18.3506268331856 -64.7341414418313,18.3506937742017 -64.7342381968623,18.3507464952157 -64.734336250896,18.3509293822679 -64.7344212499313,18.3514110284086 -64.7343616899212,18.3518710185453 -64.7343638309258,18.3520854086085 -64.7343099189132,18.3523079656751 -64.734190636878,18.3524085987067 -64.7340385928315,18.3524406127187 -64.7338534057726,18.3523657226998 -64.7336669187111,18.3521606686424 -64.7334417166399,18.3520938006264 -64.7332250665725,18.3520804566262 -64.7327550854286,18.3521830166643 -64.7325161063562,18.3522818216975 -64.7322207202714,18.3526516898115 -64.7319458801914,18.3529397749011 -64.7313787040201,18.3531897189843 -64.7309606448942,18.3533975080526 -64.730698822816,18.3535630791059 -64.7304304887369,18.3537899061773 -64.73023335768,18.3540160862473 -64.7299344425875,18.3540324002571 -64.7295991144823,18.3539674482436 -64.7290835743233,18.3540190632675</coordinates></LineString><LineString><coordinates>-64.7142053515984,18.3480913237685 -64.7145500867075,18.3482083457972 -64.7148963308182,18.3483888228447 -64.7152600699371,18.3487183099358 -64.7155317310276,18.3490524510298 -64.7157631571067,18.3494482421427 -64.7157869181195,18.3497462742302 -64.7157935671265,18.350013953309 -64.715787861129,18.350247320378 -64.7158791071632,18.3505639594699 -64.7159289071818,18.3507394545208 -64.7160223832133,18.3508763065596 -64.7161185442433,18.3508792655589 -64.7162942772968,18.3508279595408 -64.7164337753388,18.3507578555177 -64.7165589543773,18.350742165511 -64.7166660324108,18.3507519385121 -64.716770618444,18.3507968945236 -64.7168599024739,18.3509146595569 -64.7168222694668,18.3511597876298 -64.7167080494349,18.3513558846895 -64.7166769914271,18.3514556107195 -64.7167075214412,18.3517077747934 -64.7167529004577,18.351841234832 -64.716849249488,18.3518633158369 -64.7173365506367,18.3517250537879 -64.7175070176882,18.3516518667635 -64.7180310948477,18.3514816527045 -64.7183503689446,18.3513640276644 -64.7185898420173,18.3512777206349 -64.7187220100583,18.3512765286323 -64.7188309810936,18.3513596926551</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
