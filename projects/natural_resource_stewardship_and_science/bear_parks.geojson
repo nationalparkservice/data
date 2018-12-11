@@ -2376,6 +2376,24 @@
           31.94291280671552
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "UnitCode": "PRWI",
+        "UnitName": "Prince William Forest Park",
+        "UnitWebsite": "http://www.nps.gov/prwi",
+        "Black": true,
+        "BrownGrizzly": false,
+        "Polar": false
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3869753060399,
+          38.5884894088169
+        ]
+      }
     }
   ]
 }
