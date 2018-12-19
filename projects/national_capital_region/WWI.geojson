@@ -308,27 +308,6 @@
         "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "park": "Ellis Island - Part of Statue of Liberty National Monument",
-        "name": "Immigrants in the Military during WWI",
-        "description": "Many of the immigrants who entered the United States in the Ellis Island era found themselves serving in the military during the First World War.",
-        "image": "https://www.nps.gov/articles/images/ELIS-Italian-Soldier.jpg",
-        "url": "https://www.nps.gov/articles/immigrants-in-the-military-during-wwi.htm",
-        "parkurl": "https://www.nps.gov/elis/index.htm"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.04247641563416,
-          40.69790093884909
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#008000",
-        "marker-size": "medium",
-        "marker-symbol": "circle",
         "name": "Immigration and the Great War",
         "park": "Ellis Island - Part of Statue of Liberty National Monument",
         "description": " During the decade leading up to the war, an average of 1 million immigrants per year arrived in the United States, with about three-quarters of them entering through the Ellis Island immigration station in New York Harbor. By 1918, a trickle of only 110,618 people were arriving in the United States.",
@@ -850,8 +829,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.126389503479,
-          42.37693814538879
+          -71.12650483846664,
+          42.37701938353126
         ]
       }
     },
@@ -1022,6 +1001,27 @@
         "coordinates": [
           -77.00370490550995,
           38.89245869377258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Alice Longfellow and the American Ambulance Field Service",
+        "park": "Longfellow House Washington's Headquarters National Historic Site",
+        "description": "Alice Longfellow, the poet’s daughter, contributed to several organizations providing humanitarian relief over the course of the war and beyond. ",
+        "image": "https://www.nps.gov/articles/images/AML-1007-1-4-5-img-29-thumb.jpg?maxwidth=650&autorotate=false",
+        "url": "https://www.nps.gov/articles/alice-longfellow-and-the-american-ambulance-field-service.htm",
+        "parkurl": "https://www.nps.gov/long/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12621247768402,
+          42.37690644267056
         ]
       }
     }
