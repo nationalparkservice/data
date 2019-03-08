@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park",
+        "name": "Fort Foote",
+        "url": "https://www.nps.gov/fowa/planyourvisit/fort-foote-park-a-history.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02930927276611,
+          38.770563917750216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park",
+        "name": "Fort Washington",
+        "url": "https://www.nps.gov/fowa/index.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02630519866943,
+          38.71381100519941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "large",
+        "marker-symbol": "park",
+        "name": "Harmony Hall",
+        "url": "https://www.nps.gov/fowa/planyourvisit/harmony-hall.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00203120708466,
+          38.745933572576206
+        ]
+      }
+    }
+  ]
+}
