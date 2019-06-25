@@ -202,7 +202,8 @@
         "name": "Fort Totten",
         "url": "places/fort-totten.htm",
         "location": "Fort Totten Drive & Gallatin St. NE. Adjacent to Fort Totten Metro station.",
-        "details": "Occupied a high point in advance of the Soldiers' Home or Military Asylum, President's Lincoln summer home. The fort's 100-pounder Parrot rifle provided long-range support to Fort Stevens during its assault in 1864."
+        "details": "Occupied a high point in advance of the Soldiers' Home or Military Asylum, President's Lincoln summer home. The fort's 100-pounder Parrot rifle provided long-range support to Fort Stevens during its assault in 1864.",
+        "image": "/common/uploads/place/nri/20190625/places/9E6066D3-D3B8-E664-9C702CC9B07BB8F0/9E6066D3-D3B8-E664-9C702CC9B07BB8F0.jpg"
       },
       "geometry": {
         "type": "Point",
