@@ -90,6 +90,21 @@
           38.889479579773514
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03766703605652,
+          38.888652837833355
+        ]
+      }
     }
   ]
 }
