@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04899668693542,
+          38.890072489785574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04815983772278,
+          38.8885943809683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04481244087219,
+          38.89084911090617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03920125961304,
+          38.89076560366622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04160451889038,
+          38.88853592405516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02804327011107,
+          38.889479579773514
+        ]
+      }
+    }
+  ]
+}
