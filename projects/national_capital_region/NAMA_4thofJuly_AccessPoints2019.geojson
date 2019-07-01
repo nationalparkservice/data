@@ -3,7 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#3e4abf",
+        "marker-size": "medium",
+        "marker-symbol": "entrance"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -14,7 +18,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#3e4abf",
+        "marker-size": "medium",
+        "marker-symbol": "entrance"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -25,7 +33,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#3e4abf",
+        "marker-size": "medium",
+        "marker-symbol": "entrance"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -36,7 +48,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#3e4abf",
+        "marker-size": "medium",
+        "marker-symbol": "entrance"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -47,7 +63,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#3e4abf",
+        "marker-size": "medium",
+        "marker-symbol": "entrance"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -58,7 +78,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#3e4abf",
+        "marker-size": "medium",
+        "marker-symbol": "entrance"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
