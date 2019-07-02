@@ -60,24 +60,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.02642321586609,
-          38.8879764054527
+          -77.0264258980751,
+          38.887945088982775
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "",
         "class": "Safe Haven",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "name": "Sackler Gallery"
+        "name": "African Art Museum"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.02547907829285,
-          38.887988932036826
+          -77.02546566724776,
+          38.887945088982775
         ]
       }
     },
