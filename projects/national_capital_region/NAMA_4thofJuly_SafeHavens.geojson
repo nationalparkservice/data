@@ -3,7 +3,12 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "class": "Safe Haven",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Holocaust Memorial Museum"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -14,7 +19,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "class": "Safe Haven",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Department of Agriculture"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -25,7 +35,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "class": "Safe Haven",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Smithsonian Castle"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -36,7 +51,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "class": "Safe Haven",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Sackler Gallery"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -47,7 +67,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "class": "Safe Haven",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Sackler Gallery"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -58,7 +83,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "class": "Safe Haven",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "National Museum of Natural History"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -69,7 +99,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "class": "Safe Haven",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "National Museum of American History"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -80,7 +115,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "class": "Safe Haven",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Internal Revenue Service"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -91,7 +131,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "class": "Safe Haven",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Andrew W. Mellon Auditorium"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -102,7 +147,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "class": "Safe Haven",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Ronald Reagan Building"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -113,7 +163,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "class": "Safe Haven",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Department of Commerce"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -124,7 +179,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "class": "Safe Haven",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Department of Interior",
+        "marker-symbol": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -135,7 +196,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "class": "Safe Haven",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "name": "Office of Personnel Management"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -146,7 +212,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "class": "Safe Haven",
+        "name": "Kennedy Center"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
