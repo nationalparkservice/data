@@ -676,7 +676,8 @@
         "marker-symbol": "star",
         "name": "White House Visitor Center",
         "url": "http://www.nps.gov/whho/planyourvisit/white-house-visitor-center.htm",
-        "image": "http://www.nps.gov/whho/images/20---WHVC---J.-Feeney.jpg"
+        "image": "http://www.nps.gov/whho/images/20---WHVC---J.-Feeney.jpg",
+        "info": "The visitor center is open from 7:30 a.m. until 4:00 p.m. daily (except January 1, Thanksgiving, and December 25). Admission is free.  Security screening is required for entry to the visitor center."
       },
       "geometry": {
         "type": "Point",
@@ -698,475 +699,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -77.03928709030151,
-            38.89647518505925
-          ],
-          [
-            -77.03928440809248,
-            38.896349934084576
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.03931659460068,
-            38.8953437432393
-          ],
-          [
-            -77.03930854797363,
-            38.895458558267904
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.03911006450653,
-            38.892287507704346
-          ],
-          [
-            -77.03891962766647,
-            38.892287507704346
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
             -77.0366558432579,
             38.89252132271886
           ],
           [
             -77.03644126653671,
             38.89252549797999
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.03420966863632,
-            38.89228333242923
-          ],
-          [
-            -77.03397631645203,
-            38.89227915715386
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.03387975692749,
-            38.89558172327407
-          ],
-          [
-            -77.03386902809143,
-            38.895383406633826
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.03520476818085,
-            38.89566731238982
-          ],
-          [
-            -77.0349982380867,
-            38.89569653791793
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.03752219676971,
-            38.89553579736452
-          ],
-          [
-            -77.03743904829025,
-            38.895606773757635
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.0380425453186,
-            38.89562556161454
-          ],
-          [
-            -77.03784942626953,
-            38.89562556161454
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.03806132078171,
-            38.89655451056232
-          ],
-          [
-            -77.03792452812195,
-            38.89655659807435
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.03927636146545,
-            38.898648254305186
-          ],
-          [
-            -77.03928440809248,
-            38.89887787349177
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.03811496496199,
-            38.89855431896941
-          ],
-          [
-            -77.03786820173264,
-            38.89855431896941
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.03743636608124,
-            38.8985501440627
-          ],
-          [
-            -77.0373585820198,
-            38.8985501440627
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.03575730323792,
-            38.89856684368803
-          ],
-          [
-            -77.03555077314377,
-            38.89856475623509
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.03520208597183,
-            38.8985417942486
-          ],
-          [
-            -77.0349794626236,
-            38.89854596915577
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.03387439250946,
-            38.89890501025565
-          ],
-          [
-            -77.03386902809143,
-            38.89856684368803
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.03800767660141,
-            38.89987983943497
-          ],
-          [
-            -77.03787356615065,
-            38.89988192684927
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.0350894331932,
-            38.8998694023626
-          ],
-          [
-            -77.03525304794312,
-            38.89987566460623
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.03381270170212,
-            38.896322796344265
-          ],
-          [
-            -77.03381538391113,
-            38.89650232274135
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.03523963689804,
-            38.89638124684895
-          ],
-          [
-            -77.03523963689804,
-            38.8964459598516
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.03520745038986,
-            38.89652528538728
-          ],
-          [
-            -77.03500360250473,
-            38.89652528538728
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "name": "Security / Gate",
-        "image": ""
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -77.03786015510559,
-            38.89646683500116
-          ],
-          [
-            -77.03786551952362,
-            38.89636454670966
           ]
         ]
       }
@@ -1206,6 +744,47 @@
         "coordinates": [
           -77.03642785549164,
           38.899032344163125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "image": "http://www.nps.gov/whho/images/20---WHVC---J.-Feeney.jpg",
+        "url": "http://www.nps.gov/whho/planyourvisit/white-house-visitor-center.htm",
+        "name": "White House Visitor Center",
+        "info": "The visitor center is open from 7:30 a.m. until 4:00 p.m. daily (except January 1, Thanksgiving, and December 25). Admission is free.  Security screening is required for entry to the visitor center."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.03317970037459,
+              38.89510576240708
+            ],
+            [
+              -77.03239649534225,
+              38.89510576240708
+            ],
+            [
+              -77.03239649534225,
+              38.89529364207772
+            ],
+            [
+              -77.03317970037459,
+              38.89529364207772
+            ],
+            [
+              -77.03317970037459,
+              38.89510576240708
+            ]
+          ]
         ]
       }
     }
