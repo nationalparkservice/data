@@ -42,7 +42,7 @@
         "marker-color": "#000080",
         "marker-size": "medium",
         "marker-symbol": "toilets",
-        "name": "Restroom"
+        "name": "Restroom - Open Seasonally"
       },
       "geometry": {
         "type": "Point",
@@ -259,7 +259,7 @@
         "marker-color": "#000080",
         "marker-size": "medium",
         "marker-symbol": "toilets",
-        "name": "Restroom"
+        "name": "Restroom - Open Seasonally"
       },
       "geometry": {
         "type": "Point",
