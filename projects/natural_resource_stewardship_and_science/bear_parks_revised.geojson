@@ -1,1 +1,2665 @@
-{"type": "FeatureCollection", "features": [{"type":"Feature","geometry":{"type":"Point","coordinates":[-68.34856,44.218638]},"properties":{"unitcode":"ACAD","unitname":"Acadia National Park","unitwebsite":"http://www.nps.gov/acad","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.654776,40.410808]},"properties":{"unitcode":"ALPO","unitname":"Allegheny Portage Railroad National Historic Site","unitwebsite":"http://www.nps.gov/alpo","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.065024,45.102532]},"properties":{"unitcode":"BICA","unitname":"Bighorn Canyon National Recreation Area","unitwebsite":"http://www.nps.gov/bica","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.105035,25.936107]},"properties":{"unitcode":"BICY","unitname":"Big Cypress National Preserve","unitwebsite":"http://www.nps.gov/bicy","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-113.651219,45.646261]},"properties":{"unitcode":"BIHO","unitname":"Big Hole National Battlefield","unitwebsite":"http://www.nps.gov/biho","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-84.674307,36.560531]},"properties":{"unitcode":"BISO","unitname":"Big South Fork National River and Recreation Area National River","unitwebsite":"http://www.nps.gov/biso","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.443631,30.44675]},"properties":{"unitcode":"BITH","unitname":"Big Thicket National Preserve","unitwebsite":"http://www.nps.gov/bith","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.72398,38.572106]},"properties":{"unitcode":"BLCA","unitname":"Black Canyon Of The Gunnison National Park","unitwebsite":"http://www.nps.gov/blca","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.077139,36.659089]},"properties":{"unitcode":"BLRI","unitname":"Blue Ridge Parkway National Parkway","unitwebsite":"http://www.nps.gov/blri","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.983759,37.561068]},"properties":{"unitcode":"BLUE","unitname":"Bluestone National Scenic River","unitwebsite":"http://www.nps.gov/blue","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.730807,37.114809]},"properties":{"unitcode":"BOWA","unitname":"Booker T. Washington National Monument","unitwebsite":"http://www.nps.gov/bowa","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-112.178667,37.570685]},"properties":{"unitcode":"BRCA","unitname":"Bryce Canyon National Park","unitwebsite":"http://www.nps.gov/brca","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-92.918106,36.039915]},"properties":{"unitcode":"BUFF","unitname":"Buffalo National River","unitwebsite":"http://www.nps.gov/buff","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.340386,36.143168]},"properties":{"unitcode":"CACH","unitname":"Canyon De Chelly National Monument","unitwebsite":"http://www.nps.gov/cach","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-76.348365,34.83087]},"properties":{"unitcode":"CALO","unitname":"Cape Lookout National Seashore","unitwebsite":"http://www.nps.gov/calo","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.949584,38.233993]},"properties":{"unitcode":"CANY","unitname":"Canyonlands National Park","unitwebsite":"http://www.nps.gov/cany","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-111.142723,38.066506]},"properties":{"unitcode":"CARE","unitname":"Capitol Reef National Park","unitwebsite":"http://www.nps.gov/care","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-82.452443,35.267754]},"properties":{"unitcode":"CARL","unitname":"Carl Sandburg Home National Historic Site","unitwebsite":"http://www.nps.gov/carl","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.461221,39.655954]},"properties":{"unitcode":"CATO","unitname":"Catoctin Mountain Park","unitwebsite":"http://www.nps.gov/cato","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.527766,32.120033]},"properties":{"unitcode":"CAVE","unitname":"Carlsbad Caverns National Park","unitwebsite":"http://www.nps.gov/cave","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.973036,36.781645]},"properties":{"unitcode":"CAVO","unitname":"Capulin Volcano National Monument","unitwebsite":"http://www.nps.gov/cavo","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-112.844821,37.63383]},"properties":{"unitcode":"CEBR","unitname":"Cedar Breaks National Monument","unitwebsite":"http://www.nps.gov/cebr","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.91145,35.878266]},"properties":{"unitcode":"CHCU","unitname":"Chaco Culture National Historical Park","unitwebsite":"http://www.nps.gov/chcu","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.345408,32.015767]},"properties":{"unitcode":"CHIR","unitname":"Chiricahua National Monument","unitwebsite":"http://www.nps.gov/chir","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.68931,39.049148]},"properties":{"unitcode":"COLM","unitname":"Colorado National Monument","unitwebsite":"http://www.nps.gov/colm","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.256542,31.350757]},"properties":{"unitcode":"CORO","unitname":"Coronado National Memorial","unitwebsite":"http://www.nps.gov/coro","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-81.80834,35.132603]},"properties":{"unitcode":"COWP","unitname":"Cowpens National Battlefield","unitwebsite":"http://www.nps.gov/cowp","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.135259,42.927841]},"properties":{"unitcode":"CRLA","unitname":"Crater Lake National Park","unitwebsite":"http://www.nps.gov/crla","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-113.539779,43.141121]},"properties":{"unitcode":"CRMO","unitname":"Craters of the Moon National Monument and Preserve","unitwebsite":"http://www.nps.gov/crmo","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.606357,36.618693]},"properties":{"unitcode":"CUGA","unitname":"Cumberland Gap National Historical Park","unitwebsite":"http://www.nps.gov/cuga","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.330558,38.452372]},"properties":{"unitcode":"CURE","unitname":"Curecanti National Recreation Area","unitwebsite":"http://www.nps.gov/cure","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.087686,37.615374]},"properties":{"unitcode":"DEPO","unitname":"Devils Postpile National Monument","unitwebsite":"http://www.nps.gov/depo","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.95693,41.141947]},"properties":{"unitcode":"DEWA","unitname":"Delaware Water Gap National Recreation Area","unitwebsite":"http://www.nps.gov/dewa","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.839689,40.493652]},"properties":{"unitcode":"DINO","unitname":"Dinosaur National Monument","unitwebsite":"http://www.nps.gov/dino","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-107.977531,34.914086]},"properties":{"unitcode":"ELMA","unitname":"El Malpais National Monument","unitwebsite":"http://www.nps.gov/elma","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.346383,35.038946]},"properties":{"unitcode":"ELMO","unitname":"El Morro National Monument","unitwebsite":"http://www.nps.gov/elmo","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.953496,25.36996]},"properties":{"unitcode":"EVER","unitname":"Everglades National Park","unitwebsite":"http://www.nps.gov/ever","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.278846,38.912549]},"properties":{"unitcode":"FLFO","unitname":"Florissant Fossil Beds National Monument","unitwebsite":"http://www.nps.gov/flfo","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.456197,32.149321]},"properties":{"unitcode":"FOBO","unitname":"Fort Bowie National Historic Site","unitwebsite":"http://www.nps.gov/fobo","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-89.756465,47.982016]},"properties":{"unitcode":"GRPO","unitname":"Grand Portage National Monument","unitwebsite":"http://www.nps.gov/grpo","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.578334,37.809537]},"properties":{"unitcode":"GRSA","unitname":"Great Sand Dunes National Park and Preserve","unitwebsite":"http://www.nps.gov/grsa","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-83.528194,35.634136]},"properties":{"unitcode":"GRSM","unitname":"Great Smoky Mountains National Park","unitwebsite":"http://www.nps.gov/grsm","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-135.311941,59.457314]},"properties":{"unitcode":"KLGO","unitname":"Klondike Gold Rush National Historical Park","unitwebsite":"http://www.nps.gov/klgo","black":true,"browngrizzly":true,"polar":false,"category":"black brown","hex":"#804b19"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-165.126647,65.913651]},"properties":{"unitcode":"BELA","unitname":"Bering Land Bridge National Preserve","unitwebsite":"http://www.nps.gov/bela","black":false,"browngrizzly":true,"polar":true,"category":"polar brown","hex":"#d9cbbd"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.766353,41.860569]},"properties":{"unitcode":"FOBU","unitname":"Fossil Butte National Monument","unitwebsite":"http://www.nps.gov/fobu","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-79.610261,39.844268]},"properties":{"unitcode":"FONE","unitname":"Fort Necessity National Battlefield","unitwebsite":"http://www.nps.gov/fone","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.599465,38.238015]},"properties":{"unitcode":"FRSP","unitname":"Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park National Military Park","unitwebsite":"http://www.nps.gov/frsp","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.258807,33.227286]},"properties":{"unitcode":"GICL","unitname":"Gila Cliff Dwellings National Monument","unitwebsite":"http://www.nps.gov/gicl","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.802128,37.657865]},"properties":{"unitcode":"GLCA","unitname":"Glen Canyon National Recreation Area","unitwebsite":"http://www.nps.gov/glca","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.608262,37.828268]},"properties":{"unitcode":"GOGA","unitname":"Golden Gate National Recreation Area","unitwebsite":"http://www.nps.gov/goga","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-112.783481,36.307854]},"properties":{"unitcode":"GRCA","unitname":"Grand Canyon National Park","unitwebsite":"http://www.nps.gov/grca","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-87.833562,30.296363]},"properties":{"unitcode":"GUIS","unitname":"Gulf Islands National Seashore","unitwebsite":"http://www.nps.gov/guis","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-104.868268,31.906804]},"properties":{"unitcode":"GUMO","unitname":"Guadalupe Mountains National Park","unitwebsite":"http://www.nps.gov/gumo","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.065898,34.529159]},"properties":{"unitcode":"HOSP","unitname":"Hot Springs National Park","unitwebsite":"http://www.nps.gov/hosp","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.954482,37.371199]},"properties":{"unitcode":"HOVE","unitname":"Hovenweep National Monument","unitwebsite":"http://www.nps.gov/hove","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-115.860111,33.899764]},"properties":{"unitcode":"JOTR","unitname":"Joshua Tree National Park","unitwebsite":"http://www.nps.gov/jotr","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.492421,41.773204]},"properties":{"unitcode":"LABE","unitname":"Lava Beds National Monument","unitwebsite":"http://www.nps.gov/labe","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.434719,48.331346]},"properties":{"unitcode":"LARO","unitname":"Lake Roosevelt National Recreation Area","unitwebsite":"http://www.nps.gov/laro","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.431033,40.464748]},"properties":{"unitcode":"LAVO","unitname":"Lassen Volcanic National Park","unitwebsite":"http://www.nps.gov/lavo","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.968023,46.143387]},"properties":{"unitcode":"LEWI","unitname":"Lewis and Clark National Historical Park","unitwebsite":"http://www.nps.gov/lewi","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-85.63355,34.395788]},"properties":{"unitcode":"LIRI","unitname":"Little River Canyon National Preserve","unitwebsite":"http://www.nps.gov/liri","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.531066,43.63349]},"properties":{"unitcode":"MABI","unitname":"Marsh-Billings-Rockefeller National Historical Park","unitwebsite":"http://www.nps.gov/mabi","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.531056,38.821727]},"properties":{"unitcode":"MANA","unitname":"Manassas National Battlefield Park","unitwebsite":"http://www.nps.gov/mana","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.447151,37.253473]},"properties":{"unitcode":"MEVE","unitname":"Mesa Verde National Park","unitwebsite":"http://www.nps.gov/meve","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-71.319764,42.460276]},"properties":{"unitcode":"MIMA","unitname":"Minute Man National Historical Park","unitwebsite":"http://www.nps.gov/mima","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.127602,44.953368]},"properties":{"unitcode":"MISS","unitname":"Mississippi National River and Recreation Areas National River","unitwebsite":"http://www.nps.gov/miss","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-111.798798,34.62926]},"properties":{"unitcode":"MOCA","unitname":"Montezuma Castle National Monument","unitwebsite":"http://www.nps.gov/moca","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.786204,46.854447]},"properties":{"unitcode":"MORA","unitname":"Mount Rainier National Park","unitwebsite":"http://www.nps.gov/mora","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-74.515699,40.769145]},"properties":{"unitcode":"MORR","unitname":"Morristown National Historical Park","unitwebsite":"http://www.nps.gov/morr","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.980493,37.602624]},"properties":{"unitcode":"NABR","unitname":"Natural Bridges National Monument","unitwebsite":"http://www.nps.gov/nabr","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.657598,36.717525]},"properties":{"unitcode":"NAVA","unitname":"Navajo National Monument","unitwebsite":"http://www.nps.gov/nava","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-80.989704,37.884276]},"properties":{"unitcode":"NERI","unitname":"New River Gorge National River","unitwebsite":"http://www.nps.gov/neri","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.928251,47.872108]},"properties":{"unitcode":"OLYM","unitname":"Olympic National Park","unitwebsite":"http://www.nps.gov/olym","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-123.520366,42.126114]},"properties":{"unitcode":"ORCA","unitname":"Oregon Caves National Monument","unitwebsite":"http://www.nps.gov/orca","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-112.846637,32.008199]},"properties":{"unitcode":"ORPI","unitname":"Organ Pipe Cactus National Monument","unitwebsite":"http://www.nps.gov/orpi","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-91.293394,37.134392]},"properties":{"unitcode":"OZAR","unitname":"Ozark National Scenic Riverways National River","unitwebsite":"http://www.nps.gov/ozar","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.737091,35.54676]},"properties":{"unitcode":"PECO","unitname":"Pecos National Historical Park","unitwebsite":"http://www.nps.gov/peco","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.77271,34.974637]},"properties":{"unitcode":"PEFO","unitname":"Petrified Forest National Park","unitwebsite":"http://www.nps.gov/pefo","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-94.032161,36.445734]},"properties":{"unitcode":"PERI","unitname":"Pea Ridge National Military Park","unitwebsite":"http://www.nps.gov/peri","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.45677,37.225356]},"properties":{"unitcode":"PETE","unitname":"Petersburg National Battlefield","unitwebsite":"http://www.nps.gov/pete","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.72636,35.14596]},"properties":{"unitcode":"PETR","unitname":"Petroglyph National Monument","unitwebsite":"http://www.nps.gov/petr","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.298713,46.550131]},"properties":{"unitcode":"PIRO","unitname":"Pictured Rocks National Lakeshore","unitwebsite":"http://www.nps.gov/piro","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.063083,67.391356]},"properties":{"unitcode":"KOVA","unitname":"Kobuk Valley National Park","unitwebsite":"http://www.nps.gov/kova","black":true,"browngrizzly":true,"polar":false,"category":"black brown","hex":"#804b19"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-153.601844,60.682047]},"properties":{"unitcode":"LACL","unitname":"Lake Clark National Park and Preserve","unitwebsite":"http://www.nps.gov/lacl","black":true,"browngrizzly":true,"polar":false,"category":"black brown","hex":"#804b19"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-159.272077,67.846425]},"properties":{"unitcode":"NOAT","unitname":"Noatak National Preserve","unitwebsite":"http://www.nps.gov/noat","black":true,"browngrizzly":true,"polar":false,"category":"black brown","hex":"#804b19"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-121.136491,48.684936]},"properties":{"unitcode":"NOCA","unitname":"North Cascades National Park","unitwebsite":"http://www.nps.gov/noca","black":true,"browngrizzly":true,"polar":false,"category":"black brown","hex":"#804b19"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-142.248235,61.205303]},"properties":{"unitcode":"WRST","unitname":"Wrangell - St Elias National Park and Preserve","unitwebsite":"http://www.nps.gov/wrst","black":true,"browngrizzly":true,"polar":false,"category":"black brown","hex":"#804b19"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.490083,44.620702]},"properties":{"unitcode":"YELL","unitname":"Yellowstone National Park","unitwebsite":"http://www.nps.gov/yell","black":true,"browngrizzly":true,"polar":false,"category":"black brown","hex":"#804b19"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-142.57033,65.052041]},"properties":{"unitcode":"YUCH","unitname":"Yukon-Charley Rivers National Preserve","unitwebsite":"http://www.nps.gov/yuch","black":true,"browngrizzly":true,"polar":false,"category":"black brown","hex":"#804b19"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-101.295935,29.617564]},"properties":{"unitcode":"AMIS","unitname":"Amistad National Recreation Area","unitwebsite":"http://www.nps.gov/amis","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.791742,37.392293]},"properties":{"unitcode":"APCO","unitname":"Appomattox Court House National Historical Park","unitwebsite":"http://www.nps.gov/apco","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.720483,46.890695]},"properties":{"unitcode":"APIS","unitname":"Apostle Islands National Lakeshore","unitwebsite":"http://www.nps.gov/apis","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-109.595456,38.725049]},"properties":{"unitcode":"ARCH","unitname":"Arches National Park","unitwebsite":"http://www.nps.gov/arch","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.32956,35.784557]},"properties":{"unitcode":"BAND","unitname":"Bandelier National Monument","unitwebsite":"http://www.nps.gov/band","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-103.311116,29.333489]},"properties":{"unitcode":"BIBE","unitname":"Big Bend National Park","unitwebsite":"http://www.nps.gov/bibe","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.864923,38.07054]},"properties":{"unitcode":"PORE","unitname":"Point Reyes National Seashore","unitwebsite":"http://www.nps.gov/pore","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-124.00483,41.460206]},"properties":{"unitcode":"REDW","unitname":"Redwood National Park","unitwebsite":"http://www.nps.gov/redw","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-105.703649,40.355927]},"properties":{"unitcode":"ROMO","unitname":"Rocky Mountain National Park","unitwebsite":"http://www.nps.gov/romo","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-92.017163,45.835369]},"properties":{"unitcode":"SACN","unitname":"Saint Croix National Scenic River National Wild And Scenic River","unitwebsite":"http://www.nps.gov/sacn","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.871167,32.228045]},"properties":{"unitcode":"SAGU","unitname":"Saguaro National Park","unitwebsite":"http://www.nps.gov/sagu","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-106.227887,34.424096]},"properties":{"unitcode":"SAPU","unitname":"Salinas Pueblo Missions National Monument","unitwebsite":"http://www.nps.gov/sapu","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-73.629004,42.994139]},"properties":{"unitcode":"SARA","unitname":"Saratoga National Historical Park","unitwebsite":"http://www.nps.gov/sara","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-78.500825,38.47564]},"properties":{"unitcode":"SHEN","unitname":"Shenandoah National Park","unitwebsite":"http://www.nps.gov/shen","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-135.320037,57.047933]},"properties":{"unitcode":"SITK","unitname":"Sitka National Historical Park","unitwebsite":"http://www.nps.gov/sitk","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-86.001479,44.91111]},"properties":{"unitcode":"SLBE","unitname":"Sleeping Bear Dunes National Lakeshore","unitwebsite":"http://www.nps.gov/slbe","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-111.511312,35.371136]},"properties":{"unitcode":"SUCR","unitname":"Sunset Crater Volcano National Monument","unitwebsite":"http://www.nps.gov/sucr","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-111.709394,40.440397]},"properties":{"unitcode":"TICA","unitname":"Timpanogos Cave National Monument","unitwebsite":"http://www.nps.gov/tica","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-111.11355,33.648431]},"properties":{"unitcode":"TONT","unitname":"Tonto National Monument","unitwebsite":"http://www.nps.gov/tont","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.976,31.49472]},"properties":{"unitcode":"TUMA","unitname":"Tumacacori National Historical Park","unitwebsite":"http://www.nps.gov/tuma","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-112.031997,34.773922]},"properties":{"unitcode":"TUZI","unitname":"Tuzigoot National Monument","unitwebsite":"http://www.nps.gov/tuzi","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.009631,41.675059]},"properties":{"unitcode":"UPDE","unitname":"Upper Delaware Scenic & Recreational River","unitwebsite":"http://www.nps.gov/upde","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-92.828487,48.465659]},"properties":{"unitcode":"VOYA","unitname":"Voyageurs National Park","unitwebsite":"http://www.nps.gov/voya","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-111.49503,35.180076]},"properties":{"unitcode":"WACA","unitname":"Walnut Canyon National Monument","unitwebsite":"http://www.nps.gov/waca","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.608049,40.61628]},"properties":{"unitcode":"WHIS","unitname":"Whiskeytown National Recreation Area","unitwebsite":"http://www.nps.gov/whis","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-93.408767,37.100733]},"properties":{"unitcode":"WICR","unitname":"Wilson's Creek National Battlefield","unitwebsite":"http://www.nps.gov/wicr","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-110.685575,43.810964]},"properties":{"unitcode":"GRTE","unitname":"Grand Teton National Park","unitwebsite":"http://www.nps.gov/grte","black":true,"browngrizzly":true,"polar":false,"category":"black brown","hex":"#804b19"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-150.831194,63.182912]},"properties":{"unitcode":"DENA","unitname":"Denali National Park and Preserve","unitwebsite":"http://www.nps.gov/dena","black":true,"browngrizzly":true,"polar":false,"category":"black brown","hex":"#804b19"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-153.264132,67.652511]},"properties":{"unitcode":"GAAR","unitname":"Gates Of The Arctic National Park and Preserve","unitwebsite":"http://www.nps.gov/gaar","black":true,"browngrizzly":true,"polar":false,"category":"black brown","hex":"#804b19"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-156.102264,59.055435]},"properties":{"unitcode":"ALAG","unitname":"Alagnak Wild River National Wild And Scenic River","unitwebsite":"http://www.nps.gov/alag","black":false,"browngrizzly":true,"polar":false,"category":"brown","hex":"#cc9865"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-157.752052,56.856946]},"properties":{"unitcode":"ANIA","unitname":"Aniakchak National Monument and Preserve","unitwebsite":"http://www.nps.gov/ania","black":false,"browngrizzly":true,"polar":false,"category":"brown","hex":"#cc9865"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-154.88944,58.573644]},"properties":{"unitcode":"KATM","unitname":"Katmai National Park and Preserve","unitwebsite":"http://www.nps.gov/katm","black":false,"browngrizzly":true,"polar":false,"category":"brown","hex":"#cc9865"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-113.858746,48.61733]},"properties":{"unitcode":"GLAC","unitname":"Glacier National Park","unitwebsite":"http://www.nps.gov/glac","black":true,"browngrizzly":true,"polar":false,"category":"black brown","hex":"#804b19"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-136.952606,58.821084]},"properties":{"unitcode":"GLBA","unitname":"Glacier Bay National Park and Preserve","unitwebsite":"http://www.nps.gov/glba","black":true,"browngrizzly":true,"polar":false,"category":"black brown","hex":"#804b19"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-150.24657,59.796596]},"properties":{"unitcode":"KEFJ","unitname":"Kenai Fjords National Park","unitwebsite":"http://www.nps.gov/kefj","black":true,"browngrizzly":true,"polar":false,"category":"black brown","hex":"#804b19"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-163.453288,67.395675]},"properties":{"unitcode":"CAKR","unitname":"Cape Krusenstern National Monument","unitwebsite":"http://www.nps.gov/cakr","black":false,"browngrizzly":true,"polar":true,"category":"polar brown","hex":"#d9cbbd"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-111.403636,35.564835]},"properties":{"unitcode":"WUPA","unitname":"Wupatki National Monument","unitwebsite":"http://www.nps.gov/wupa","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.541408,37.839923]},"properties":{"unitcode":"YOSE","unitname":"Yosemite National Park","unitwebsite":"http://www.nps.gov/yose","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-108.685955,37.245338]},"properties":{"unitcode":"YUHO","unitname":"Yucca House National Monument","unitwebsite":"http://www.nps.gov/yuho","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-113.045717,37.322817]},"properties":{"unitcode":"ZION","unitname":"Zion National Park","unitwebsite":"http://www.nps.gov/zion","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-118.596039,36.769692]},"properties":{"unitcode":"SEKI","unitname":"Sequoia & Kings Canyon National Park","unitwebsite":"http://www.nps.gov/seki","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.725182,39.324538]},"properties":{"unitcode":"APPA","unitname":"Appalachian National Scenic Trail","unitwebsite":"http://www.nps.gov/appa","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.9692,31.942913]},"properties":{"unitcode":"NATR","unitname":"Natchez Trace Parkway","unitwebsite":"http://www.nps.gov/natr","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-77.386975,38.588489]},"properties":{"unitcode":"PRWI","unitname":"Prince William Forest Park","unitwebsite":"http://www.nps.gov/prwi","black":true,"browngrizzly":false,"polar":false,"category":"black","hex":"#000000"}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.34856,
+          44.218638
+        ]
+      },
+      "properties": {
+        "unitcode": "ACAD",
+        "unitname": "Acadia National Park",
+        "unitwebsite": "http://www.nps.gov/acad",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.654776,
+          40.410808
+        ]
+      },
+      "properties": {
+        "unitcode": "ALPO",
+        "unitname": "Allegheny Portage Railroad National Historic Site",
+        "unitwebsite": "http://www.nps.gov/alpo",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.065024,
+          45.102532
+        ]
+      },
+      "properties": {
+        "unitcode": "BICA",
+        "unitname": "Bighorn Canyon National Recreation Area",
+        "unitwebsite": "http://www.nps.gov/bica",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.105035,
+          25.936107
+        ]
+      },
+      "properties": {
+        "unitcode": "BICY",
+        "unitname": "Big Cypress National Preserve",
+        "unitwebsite": "http://www.nps.gov/bicy",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.651219,
+          45.646261
+        ]
+      },
+      "properties": {
+        "unitcode": "BIHO",
+        "unitname": "Big Hole National Battlefield",
+        "unitwebsite": "http://www.nps.gov/biho",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.674307,
+          36.560531
+        ]
+      },
+      "properties": {
+        "unitcode": "BISO",
+        "unitname": "Big South Fork National River and Recreation Area National River",
+        "unitwebsite": "http://www.nps.gov/biso",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.443631,
+          30.44675
+        ]
+      },
+      "properties": {
+        "unitcode": "BITH",
+        "unitname": "Big Thicket National Preserve",
+        "unitwebsite": "http://www.nps.gov/bith",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.72398,
+          38.572106
+        ]
+      },
+      "properties": {
+        "unitcode": "BLCA",
+        "unitname": "Black Canyon Of The Gunnison National Park",
+        "unitwebsite": "http://www.nps.gov/blca",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.077139,
+          36.659089
+        ]
+      },
+      "properties": {
+        "unitcode": "BLRI",
+        "unitname": "Blue Ridge Parkway National Parkway",
+        "unitwebsite": "http://www.nps.gov/blri",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.983759,
+          37.561068
+        ]
+      },
+      "properties": {
+        "unitcode": "BLUE",
+        "unitname": "Bluestone National Scenic River",
+        "unitwebsite": "http://www.nps.gov/blue",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.730807,
+          37.114809
+        ]
+      },
+      "properties": {
+        "unitcode": "BOWA",
+        "unitname": "Booker T. Washington National Monument",
+        "unitwebsite": "http://www.nps.gov/bowa",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.178667,
+          37.570685
+        ]
+      },
+      "properties": {
+        "unitcode": "BRCA",
+        "unitname": "Bryce Canyon National Park",
+        "unitwebsite": "http://www.nps.gov/brca",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.918106,
+          36.039915
+        ]
+      },
+      "properties": {
+        "unitcode": "BUFF",
+        "unitname": "Buffalo National River",
+        "unitwebsite": "http://www.nps.gov/buff",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.340386,
+          36.143168
+        ]
+      },
+      "properties": {
+        "unitcode": "CACH",
+        "unitname": "Canyon De Chelly National Monument",
+        "unitwebsite": "http://www.nps.gov/cach",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.348365,
+          34.83087
+        ]
+      },
+      "properties": {
+        "unitcode": "CALO",
+        "unitname": "Cape Lookout National Seashore",
+        "unitwebsite": "http://www.nps.gov/calo",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.949584,
+          38.233993
+        ]
+      },
+      "properties": {
+        "unitcode": "CANY",
+        "unitname": "Canyonlands National Park",
+        "unitwebsite": "http://www.nps.gov/cany",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.142723,
+          38.066506
+        ]
+      },
+      "properties": {
+        "unitcode": "CARE",
+        "unitname": "Capitol Reef National Park",
+        "unitwebsite": "http://www.nps.gov/care",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.452443,
+          35.267754
+        ]
+      },
+      "properties": {
+        "unitcode": "CARL",
+        "unitname": "Carl Sandburg Home National Historic Site",
+        "unitwebsite": "http://www.nps.gov/carl",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.461221,
+          39.655954
+        ]
+      },
+      "properties": {
+        "unitcode": "CATO",
+        "unitname": "Catoctin Mountain Park",
+        "unitwebsite": "http://www.nps.gov/cato",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.527766,
+          32.120033
+        ]
+      },
+      "properties": {
+        "unitcode": "CAVE",
+        "unitname": "Carlsbad Caverns National Park",
+        "unitwebsite": "http://www.nps.gov/cave",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.973036,
+          36.781645
+        ]
+      },
+      "properties": {
+        "unitcode": "CAVO",
+        "unitname": "Capulin Volcano National Monument",
+        "unitwebsite": "http://www.nps.gov/cavo",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.844821,
+          37.63383
+        ]
+      },
+      "properties": {
+        "unitcode": "CEBR",
+        "unitname": "Cedar Breaks National Monument",
+        "unitwebsite": "http://www.nps.gov/cebr",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.91145,
+          35.878266
+        ]
+      },
+      "properties": {
+        "unitcode": "CHCU",
+        "unitname": "Chaco Culture National Historical Park",
+        "unitwebsite": "http://www.nps.gov/chcu",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.345408,
+          32.015767
+        ]
+      },
+      "properties": {
+        "unitcode": "CHIR",
+        "unitname": "Chiricahua National Monument",
+        "unitwebsite": "http://www.nps.gov/chir",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.68931,
+          39.049148
+        ]
+      },
+      "properties": {
+        "unitcode": "COLM",
+        "unitname": "Colorado National Monument",
+        "unitwebsite": "http://www.nps.gov/colm",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.256542,
+          31.350757
+        ]
+      },
+      "properties": {
+        "unitcode": "CORO",
+        "unitname": "Coronado National Memorial",
+        "unitwebsite": "http://www.nps.gov/coro",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.80834,
+          35.132603
+        ]
+      },
+      "properties": {
+        "unitcode": "COWP",
+        "unitname": "Cowpens National Battlefield",
+        "unitwebsite": "http://www.nps.gov/cowp",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.135259,
+          42.927841
+        ]
+      },
+      "properties": {
+        "unitcode": "CRLA",
+        "unitname": "Crater Lake National Park",
+        "unitwebsite": "http://www.nps.gov/crla",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.539779,
+          43.141121
+        ]
+      },
+      "properties": {
+        "unitcode": "CRMO",
+        "unitname": "Craters of the Moon National Monument and Preserve",
+        "unitwebsite": "http://www.nps.gov/crmo",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.606357,
+          36.618693
+        ]
+      },
+      "properties": {
+        "unitcode": "CUGA",
+        "unitname": "Cumberland Gap National Historical Park",
+        "unitwebsite": "http://www.nps.gov/cuga",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.330558,
+          38.452372
+        ]
+      },
+      "properties": {
+        "unitcode": "CURE",
+        "unitname": "Curecanti National Recreation Area",
+        "unitwebsite": "http://www.nps.gov/cure",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.087686,
+          37.615374
+        ]
+      },
+      "properties": {
+        "unitcode": "DEPO",
+        "unitname": "Devils Postpile National Monument",
+        "unitwebsite": "http://www.nps.gov/depo",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.95693,
+          41.141947
+        ]
+      },
+      "properties": {
+        "unitcode": "DEWA",
+        "unitname": "Delaware Water Gap National Recreation Area",
+        "unitwebsite": "http://www.nps.gov/dewa",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.839689,
+          40.493652
+        ]
+      },
+      "properties": {
+        "unitcode": "DINO",
+        "unitname": "Dinosaur National Monument",
+        "unitwebsite": "http://www.nps.gov/dino",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.977531,
+          34.914086
+        ]
+      },
+      "properties": {
+        "unitcode": "ELMA",
+        "unitname": "El Malpais National Monument",
+        "unitwebsite": "http://www.nps.gov/elma",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.346383,
+          35.038946
+        ]
+      },
+      "properties": {
+        "unitcode": "ELMO",
+        "unitname": "El Morro National Monument",
+        "unitwebsite": "http://www.nps.gov/elmo",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.953496,
+          25.36996
+        ]
+      },
+      "properties": {
+        "unitcode": "EVER",
+        "unitname": "Everglades National Park",
+        "unitwebsite": "http://www.nps.gov/ever",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.278846,
+          38.912549
+        ]
+      },
+      "properties": {
+        "unitcode": "FLFO",
+        "unitname": "Florissant Fossil Beds National Monument",
+        "unitwebsite": "http://www.nps.gov/flfo",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.456197,
+          32.149321
+        ]
+      },
+      "properties": {
+        "unitcode": "FOBO",
+        "unitname": "Fort Bowie National Historic Site",
+        "unitwebsite": "http://www.nps.gov/fobo",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.756465,
+          47.982016
+        ]
+      },
+      "properties": {
+        "unitcode": "GRPO",
+        "unitname": "Grand Portage National Monument",
+        "unitwebsite": "http://www.nps.gov/grpo",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.578334,
+          37.809537
+        ]
+      },
+      "properties": {
+        "unitcode": "GRSA",
+        "unitname": "Great Sand Dunes National Park and Preserve",
+        "unitwebsite": "http://www.nps.gov/grsa",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.528194,
+          35.634136
+        ]
+      },
+      "properties": {
+        "unitcode": "GRSM",
+        "unitname": "Great Smoky Mountains National Park",
+        "unitwebsite": "http://www.nps.gov/grsm",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.311941,
+          59.457314
+        ]
+      },
+      "properties": {
+        "unitcode": "KLGO",
+        "unitname": "Klondike Gold Rush National Historical Park",
+        "unitwebsite": "http://www.nps.gov/klgo",
+        "black": true,
+        "browngrizzly": true,
+        "polar": false,
+        "CateGory": "black brown",
+        "hex": "#804b19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165.126647,
+          65.913651
+        ]
+      },
+      "properties": {
+        "unitcode": "BELA",
+        "unitname": "Bering Land Bridge National Preserve",
+        "unitwebsite": "http://www.nps.gov/bela",
+        "black": false,
+        "browngrizzly": true,
+        "polar": true,
+        "CateGory": "polar brown",
+        "hex": "#d9cbbd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.766353,
+          41.860569
+        ]
+      },
+      "properties": {
+        "unitcode": "FOBU",
+        "unitname": "Fossil Butte National Monument",
+        "unitwebsite": "http://www.nps.gov/fobu",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.610261,
+          39.844268
+        ]
+      },
+      "properties": {
+        "unitcode": "FONE",
+        "unitname": "Fort Necessity National Battlefield",
+        "unitwebsite": "http://www.nps.gov/fone",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.599465,
+          38.238015
+        ]
+      },
+      "properties": {
+        "unitcode": "FRSP",
+        "unitname": "Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park National Military Park",
+        "unitwebsite": "http://www.nps.gov/frsp",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.258807,
+          33.227286
+        ]
+      },
+      "properties": {
+        "unitcode": "GICL",
+        "unitname": "Gila Cliff Dwellings National Monument",
+        "unitwebsite": "http://www.nps.gov/gicl",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.802128,
+          37.657865
+        ]
+      },
+      "properties": {
+        "unitcode": "GLCA",
+        "unitname": "Glen Canyon National Recreation Area",
+        "unitwebsite": "http://www.nps.gov/glca",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.608262,
+          37.828268
+        ]
+      },
+      "properties": {
+        "unitcode": "GOGA",
+        "unitname": "Golden Gate National Recreation Area",
+        "unitwebsite": "http://www.nps.gov/goga",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.783481,
+          36.307854
+        ]
+      },
+      "properties": {
+        "unitcode": "GRCA",
+        "unitname": "Grand Canyon National Park",
+        "unitwebsite": "http://www.nps.gov/grca",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.833562,
+          30.296363
+        ]
+      },
+      "properties": {
+        "unitcode": "GUIS",
+        "unitname": "Gulf Islands National Seashore",
+        "unitwebsite": "http://www.nps.gov/guis",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.868268,
+          31.906804
+        ]
+      },
+      "properties": {
+        "unitcode": "GUMO",
+        "unitname": "Guadalupe Mountains National Park",
+        "unitwebsite": "http://www.nps.gov/gumo",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.065898,
+          34.529159
+        ]
+      },
+      "properties": {
+        "unitcode": "HOSP",
+        "unitname": "Hot Springs National Park",
+        "unitwebsite": "http://www.nps.gov/hosp",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.954482,
+          37.371199
+        ]
+      },
+      "properties": {
+        "unitcode": "HOVE",
+        "unitname": "Hovenweep National Monument",
+        "unitwebsite": "http://www.nps.gov/hove",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.860111,
+          33.899764
+        ]
+      },
+      "properties": {
+        "unitcode": "JOTR",
+        "unitname": "Joshua Tree National Park",
+        "unitwebsite": "http://www.nps.gov/jotr",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.492421,
+          41.773204
+        ]
+      },
+      "properties": {
+        "unitcode": "LABE",
+        "unitname": "Lava Beds National Monument",
+        "unitwebsite": "http://www.nps.gov/labe",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.434719,
+          48.331346
+        ]
+      },
+      "properties": {
+        "unitcode": "LARO",
+        "unitname": "Lake Roosevelt National Recreation Area",
+        "unitwebsite": "http://www.nps.gov/laro",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.431033,
+          40.464748
+        ]
+      },
+      "properties": {
+        "unitcode": "LAVO",
+        "unitname": "Lassen Volcanic National Park",
+        "unitwebsite": "http://www.nps.gov/lavo",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.968023,
+          46.143387
+        ]
+      },
+      "properties": {
+        "unitcode": "LEWI",
+        "unitname": "Lewis and Clark National Historical Park",
+        "unitwebsite": "http://www.nps.gov/lewi",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63355,
+          34.395788
+        ]
+      },
+      "properties": {
+        "unitcode": "LIRI",
+        "unitname": "Little River Canyon National Preserve",
+        "unitwebsite": "http://www.nps.gov/liri",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.531066,
+          43.63349
+        ]
+      },
+      "properties": {
+        "unitcode": "MABI",
+        "unitname": "Marsh-Billings-Rockefeller National Historical Park",
+        "unitwebsite": "http://www.nps.gov/mabi",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.531056,
+          38.821727
+        ]
+      },
+      "properties": {
+        "unitcode": "MANA",
+        "unitname": "Manassas National Battlefield Park",
+        "unitwebsite": "http://www.nps.gov/mana",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.447151,
+          37.253473
+        ]
+      },
+      "properties": {
+        "unitcode": "MEVE",
+        "unitname": "Mesa Verde National Park",
+        "unitwebsite": "http://www.nps.gov/meve",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.319764,
+          42.460276
+        ]
+      },
+      "properties": {
+        "unitcode": "MIMA",
+        "unitname": "Minute Man National Historical Park",
+        "unitwebsite": "http://www.nps.gov/mima",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.127602,
+          44.953368
+        ]
+      },
+      "properties": {
+        "unitcode": "MISS",
+        "unitname": "Mississippi National River and Recreation Areas National River",
+        "unitwebsite": "http://www.nps.gov/miss",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.798798,
+          34.62926
+        ]
+      },
+      "properties": {
+        "unitcode": "MOCA",
+        "unitname": "Montezuma Castle National Monument",
+        "unitwebsite": "http://www.nps.gov/moca",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.786204,
+          46.854447
+        ]
+      },
+      "properties": {
+        "unitcode": "MORA",
+        "unitname": "Mount Rainier National Park",
+        "unitwebsite": "http://www.nps.gov/mora",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.515699,
+          40.769145
+        ]
+      },
+      "properties": {
+        "unitcode": "MORR",
+        "unitname": "Morristown National Historical Park",
+        "unitwebsite": "http://www.nps.gov/morr",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.980493,
+          37.602624
+        ]
+      },
+      "properties": {
+        "unitcode": "NABR",
+        "unitname": "Natural Bridges National Monument",
+        "unitwebsite": "http://www.nps.gov/nabr",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.657598,
+          36.717525
+        ]
+      },
+      "properties": {
+        "unitcode": "NAVA",
+        "unitname": "Navajo National Monument",
+        "unitwebsite": "http://www.nps.gov/nava",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.989704,
+          37.884276
+        ]
+      },
+      "properties": {
+        "unitcode": "NERI",
+        "unitname": "New River Gorge National River",
+        "unitwebsite": "http://www.nps.gov/neri",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.928251,
+          47.872108
+        ]
+      },
+      "properties": {
+        "unitcode": "OLYM",
+        "unitname": "Olympic National Park",
+        "unitwebsite": "http://www.nps.gov/olym",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.520366,
+          42.126114
+        ]
+      },
+      "properties": {
+        "unitcode": "ORCA",
+        "unitname": "Oregon Caves National Monument",
+        "unitwebsite": "http://www.nps.gov/orca",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.846637,
+          32.008199
+        ]
+      },
+      "properties": {
+        "unitcode": "ORPI",
+        "unitname": "Organ Pipe Cactus National Monument",
+        "unitwebsite": "http://www.nps.gov/orpi",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.293394,
+          37.134392
+        ]
+      },
+      "properties": {
+        "unitcode": "OZAR",
+        "unitname": "Ozark National Scenic Riverways National River",
+        "unitwebsite": "http://www.nps.gov/ozar",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.737091,
+          35.54676
+        ]
+      },
+      "properties": {
+        "unitcode": "PECO",
+        "unitname": "Pecos National Historical Park",
+        "unitwebsite": "http://www.nps.gov/peco",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.77271,
+          34.974637
+        ]
+      },
+      "properties": {
+        "unitcode": "PEFO",
+        "unitname": "Petrified Forest National Park",
+        "unitwebsite": "http://www.nps.gov/pefo",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.032161,
+          36.445734
+        ]
+      },
+      "properties": {
+        "unitcode": "PERI",
+        "unitname": "Pea Ridge National Military Park",
+        "unitwebsite": "http://www.nps.gov/peri",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.45677,
+          37.225356
+        ]
+      },
+      "properties": {
+        "unitcode": "PETE",
+        "unitname": "Petersburg National Battlefield",
+        "unitwebsite": "http://www.nps.gov/pete",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.72636,
+          35.14596
+        ]
+      },
+      "properties": {
+        "unitcode": "PETR",
+        "unitname": "Petroglyph National Monument",
+        "unitwebsite": "http://www.nps.gov/petr",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.298713,
+          46.550131
+        ]
+      },
+      "properties": {
+        "unitcode": "PIRO",
+        "unitname": "Pictured Rocks National Lakeshore",
+        "unitwebsite": "http://www.nps.gov/piro",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.063083,
+          67.391356
+        ]
+      },
+      "properties": {
+        "unitcode": "KOVA",
+        "unitname": "Kobuk Valley National Park",
+        "unitwebsite": "http://www.nps.gov/kova",
+        "black": true,
+        "browngrizzly": true,
+        "polar": false,
+        "CateGory": "black brown",
+        "hex": "#804b19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.601844,
+          60.682047
+        ]
+      },
+      "properties": {
+        "unitcode": "LACL",
+        "unitname": "Lake Clark National Park and Preserve",
+        "unitwebsite": "http://www.nps.gov/lacl",
+        "black": true,
+        "browngrizzly": true,
+        "polar": false,
+        "CateGory": "black brown",
+        "hex": "#804b19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.272077,
+          67.846425
+        ]
+      },
+      "properties": {
+        "unitcode": "NOAT",
+        "unitname": "Noatak National Preserve",
+        "unitwebsite": "http://www.nps.gov/noat",
+        "black": true,
+        "browngrizzly": true,
+        "polar": false,
+        "CateGory": "black brown",
+        "hex": "#804b19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.136491,
+          48.684936
+        ]
+      },
+      "properties": {
+        "unitcode": "NOCA",
+        "unitname": "North Cascades National Park",
+        "unitwebsite": "http://www.nps.gov/noca",
+        "black": true,
+        "browngrizzly": true,
+        "polar": false,
+        "CateGory": "black brown",
+        "hex": "#804b19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142.248235,
+          61.205303
+        ]
+      },
+      "properties": {
+        "unitcode": "WRST",
+        "unitname": "Wrangell - St Elias National Park and Preserve",
+        "unitwebsite": "http://www.nps.gov/wrst",
+        "black": true,
+        "browngrizzly": true,
+        "polar": false,
+        "CateGory": "black brown",
+        "hex": "#804b19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.490083,
+          44.620702
+        ]
+      },
+      "properties": {
+        "unitcode": "YELL",
+        "unitname": "Yellowstone National Park",
+        "unitwebsite": "http://www.nps.gov/yell",
+        "black": true,
+        "browngrizzly": true,
+        "polar": false,
+        "CateGory": "black brown",
+        "hex": "#804b19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142.57033,
+          65.052041
+        ]
+      },
+      "properties": {
+        "unitcode": "YUCH",
+        "unitname": "Yukon-Charley Rivers National Preserve",
+        "unitwebsite": "http://www.nps.gov/yuch",
+        "black": true,
+        "browngrizzly": true,
+        "polar": false,
+        "CateGory": "black brown",
+        "hex": "#804b19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.295935,
+          29.617564
+        ]
+      },
+      "properties": {
+        "unitcode": "AMIS",
+        "unitname": "Amistad National Recreation Area",
+        "unitwebsite": "http://www.nps.gov/amis",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.791742,
+          37.392293
+        ]
+      },
+      "properties": {
+        "unitcode": "APCO",
+        "unitname": "Appomattox Court House National Historical Park",
+        "unitwebsite": "http://www.nps.gov/apco",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.720483,
+          46.890695
+        ]
+      },
+      "properties": {
+        "unitcode": "APIS",
+        "unitname": "Apostle Islands National Lakeshore",
+        "unitwebsite": "http://www.nps.gov/apis",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.595456,
+          38.725049
+        ]
+      },
+      "properties": {
+        "unitcode": "ARCH",
+        "unitname": "Arches National Park",
+        "unitwebsite": "http://www.nps.gov/arch",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.32956,
+          35.784557
+        ]
+      },
+      "properties": {
+        "unitcode": "BAND",
+        "unitname": "Bandelier National Monument",
+        "unitwebsite": "http://www.nps.gov/band",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.311116,
+          29.333489
+        ]
+      },
+      "properties": {
+        "unitcode": "BIBE",
+        "unitname": "Big Bend National Park",
+        "unitwebsite": "http://www.nps.gov/bibe",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.864923,
+          38.07054
+        ]
+      },
+      "properties": {
+        "unitcode": "PORE",
+        "unitname": "Point Reyes National Seashore",
+        "unitwebsite": "http://www.nps.gov/pore",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.00483,
+          41.460206
+        ]
+      },
+      "properties": {
+        "unitcode": "REDW",
+        "unitname": "Redwood National Park",
+        "unitwebsite": "http://www.nps.gov/redw",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.703649,
+          40.355927
+        ]
+      },
+      "properties": {
+        "unitcode": "ROMO",
+        "unitname": "Rocky Mountain National Park",
+        "unitwebsite": "http://www.nps.gov/romo",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.017163,
+          45.835369
+        ]
+      },
+      "properties": {
+        "unitcode": "SACN",
+        "unitname": "Saint Croix National Scenic River National Wild And Scenic River",
+        "unitwebsite": "http://www.nps.gov/sacn",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.871167,
+          32.228045
+        ]
+      },
+      "properties": {
+        "unitcode": "SAGU",
+        "unitname": "Saguaro National Park",
+        "unitwebsite": "http://www.nps.gov/sagu",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.227887,
+          34.424096
+        ]
+      },
+      "properties": {
+        "unitcode": "SAPU",
+        "unitname": "Salinas Pueblo Missions National Monument",
+        "unitwebsite": "http://www.nps.gov/sapu",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.629004,
+          42.994139
+        ]
+      },
+      "properties": {
+        "unitcode": "SARA",
+        "unitname": "Saratoga National Historical Park",
+        "unitwebsite": "http://www.nps.gov/sara",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.500825,
+          38.47564
+        ]
+      },
+      "properties": {
+        "unitcode": "SHEN",
+        "unitname": "Shenandoah National Park",
+        "unitwebsite": "http://www.nps.gov/shen",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.320037,
+          57.047933
+        ]
+      },
+      "properties": {
+        "unitcode": "SITK",
+        "unitname": "Sitka National Historical Park",
+        "unitwebsite": "http://www.nps.gov/sitk",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.001479,
+          44.91111
+        ]
+      },
+      "properties": {
+        "unitcode": "SLBE",
+        "unitname": "Sleeping Bear Dunes National Lakeshore",
+        "unitwebsite": "http://www.nps.gov/slbe",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.511312,
+          35.371136
+        ]
+      },
+      "properties": {
+        "unitcode": "SUCR",
+        "unitname": "Sunset Crater Volcano National Monument",
+        "unitwebsite": "http://www.nps.gov/sucr",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.709394,
+          40.440397
+        ]
+      },
+      "properties": {
+        "unitcode": "TICA",
+        "unitname": "Timpanogos Cave National Monument",
+        "unitwebsite": "http://www.nps.gov/tica",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.11355,
+          33.648431
+        ]
+      },
+      "properties": {
+        "unitcode": "TONT",
+        "unitname": "Tonto National Monument",
+        "unitwebsite": "http://www.nps.gov/tont",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.976,
+          31.49472
+        ]
+      },
+      "properties": {
+        "unitcode": "TUMA",
+        "unitname": "Tumacacori National Historical Park",
+        "unitwebsite": "http://www.nps.gov/tuma",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.031997,
+          34.773922
+        ]
+      },
+      "properties": {
+        "unitcode": "TUZI",
+        "unitname": "Tuzigoot National Monument",
+        "unitwebsite": "http://www.nps.gov/tuzi",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.009631,
+          41.675059
+        ]
+      },
+      "properties": {
+        "unitcode": "UPDE",
+        "unitname": "Upper Delaware Scenic & Recreational River",
+        "unitwebsite": "http://www.nps.gov/upde",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.828487,
+          48.465659
+        ]
+      },
+      "properties": {
+        "unitcode": "VOYA",
+        "unitname": "Voyageurs National Park",
+        "unitwebsite": "http://www.nps.gov/voya",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.49503,
+          35.180076
+        ]
+      },
+      "properties": {
+        "unitcode": "WACA",
+        "unitname": "Walnut Canyon National Monument",
+        "unitwebsite": "http://www.nps.gov/waca",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.608049,
+          40.61628
+        ]
+      },
+      "properties": {
+        "unitcode": "WHIS",
+        "unitname": "Whiskeytown National Recreation Area",
+        "unitwebsite": "http://www.nps.gov/whis",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.408767,
+          37.100733
+        ]
+      },
+      "properties": {
+        "unitcode": "WICR",
+        "unitname": "Wilson's Creek National Battlefield",
+        "unitwebsite": "http://www.nps.gov/wicr",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.685575,
+          43.810964
+        ]
+      },
+      "properties": {
+        "unitcode": "GRTE",
+        "unitname": "Grand Teton National Park",
+        "unitwebsite": "http://www.nps.gov/grte",
+        "black": true,
+        "browngrizzly": true,
+        "polar": false,
+        "CateGory": "black brown",
+        "hex": "#804b19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.831194,
+          63.182912
+        ]
+      },
+      "properties": {
+        "unitcode": "DENA",
+        "unitname": "Denali National Park and Preserve",
+        "unitwebsite": "http://www.nps.gov/dena",
+        "black": true,
+        "browngrizzly": true,
+        "polar": false,
+        "CateGory": "black brown",
+        "hex": "#804b19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.264132,
+          67.652511
+        ]
+      },
+      "properties": {
+        "unitcode": "GAAR",
+        "unitname": "Gates Of The Arctic National Park and Preserve",
+        "unitwebsite": "http://www.nps.gov/gaar",
+        "black": true,
+        "browngrizzly": true,
+        "polar": false,
+        "CateGory": "black brown",
+        "hex": "#804b19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.102264,
+          59.055435
+        ]
+      },
+      "properties": {
+        "unitcode": "ALAG",
+        "unitname": "Alagnak Wild River National Wild And Scenic River",
+        "unitwebsite": "http://www.nps.gov/alag",
+        "black": false,
+        "browngrizzly": true,
+        "polar": false,
+        "CateGory": "brown",
+        "hex": "#cc9865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.752052,
+          56.856946
+        ]
+      },
+      "properties": {
+        "unitcode": "ANIA",
+        "unitname": "Aniakchak National Monument and Preserve",
+        "unitwebsite": "http://www.nps.gov/ania",
+        "black": false,
+        "browngrizzly": true,
+        "polar": false,
+        "CateGory": "brown",
+        "hex": "#cc9865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -154.88944,
+          58.573644
+        ]
+      },
+      "properties": {
+        "unitcode": "KATM",
+        "unitname": "Katmai National Park and Preserve",
+        "unitwebsite": "http://www.nps.gov/katm",
+        "black": false,
+        "browngrizzly": true,
+        "polar": false,
+        "CateGory": "brown",
+        "hex": "#cc9865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.858746,
+          48.61733
+        ]
+      },
+      "properties": {
+        "unitcode": "GLAC",
+        "unitname": "Glacier National Park",
+        "unitwebsite": "http://www.nps.gov/glac",
+        "black": true,
+        "browngrizzly": true,
+        "polar": false,
+        "CateGory": "black brown",
+        "hex": "#804b19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136.952606,
+          58.821084
+        ]
+      },
+      "properties": {
+        "unitcode": "GLBA",
+        "unitname": "Glacier Bay National Park and Preserve",
+        "unitwebsite": "http://www.nps.gov/glba",
+        "black": true,
+        "browngrizzly": true,
+        "polar": false,
+        "CateGory": "black brown",
+        "hex": "#804b19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.24657,
+          59.796596
+        ]
+      },
+      "properties": {
+        "unitcode": "KEFJ",
+        "unitname": "Kenai Fjords National Park",
+        "unitwebsite": "http://www.nps.gov/kefj",
+        "black": true,
+        "browngrizzly": true,
+        "polar": false,
+        "CateGory": "black brown",
+        "hex": "#804b19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -163.453288,
+          67.395675
+        ]
+      },
+      "properties": {
+        "unitcode": "CAKR",
+        "unitname": "Cape Krusenstern National Monument",
+        "unitwebsite": "http://www.nps.gov/cakr",
+        "black": false,
+        "browngrizzly": true,
+        "polar": true,
+        "CateGory": "polar brown",
+        "hex": "#d9cbbd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.403636,
+          35.564835
+        ]
+      },
+      "properties": {
+        "unitcode": "WUPA",
+        "unitname": "Wupatki National Monument",
+        "unitwebsite": "http://www.nps.gov/wupa",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.541408,
+          37.839923
+        ]
+      },
+      "properties": {
+        "unitcode": "YOSE",
+        "unitname": "Yosemite National Park",
+        "unitwebsite": "http://www.nps.gov/yose",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.685955,
+          37.245338
+        ]
+      },
+      "properties": {
+        "unitcode": "YUHO",
+        "unitname": "Yucca House National Monument",
+        "unitwebsite": "http://www.nps.gov/yuho",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.045717,
+          37.322817
+        ]
+      },
+      "properties": {
+        "unitcode": "ZION",
+        "unitname": "Zion National Park",
+        "unitwebsite": "http://www.nps.gov/zion",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.596039,
+          36.769692
+        ]
+      },
+      "properties": {
+        "unitcode": "SEKI",
+        "unitname": "Sequoia & Kings Canyon National Park",
+        "unitwebsite": "http://www.nps.gov/seki",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.725182,
+          39.324538
+        ]
+      },
+      "properties": {
+        "unitcode": "APPA",
+        "unitname": "Appalachian National Scenic Trail",
+        "unitwebsite": "http://www.nps.gov/appa",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9692,
+          31.942913
+        ]
+      },
+      "properties": {
+        "unitcode": "NATR",
+        "unitname": "Natchez Trace Parkway",
+        "unitwebsite": "http://www.nps.gov/natr",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.386975,
+          38.588489
+        ]
+      },
+      "properties": {
+        "unitcode": "PRWI",
+        "unitname": "Prince William Forest Park",
+        "unitwebsite": "http://www.nps.gov/prwi",
+        "black": true,
+        "browngrizzly": false,
+        "polar": false,
+        "CateGory": "black",
+        "hex": "#000000"
+      }
+    }
+  ]
+}
