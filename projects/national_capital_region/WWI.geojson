@@ -1024,6 +1024,27 @@
           42.37690644267056
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "YMCA Service Clubs at Vancouver Barracks During World War I",
+        "park": "Fort Vancouver National Historic Site",
+        "description": "For soldiers stationed at Vancouver Barracks during World War I, many of whom were working at the Spruce Mill, three YMCA buildings at the post provided places of relaxation, recreation, and personal enrichment. These facilities were staffed by the YMCA, which also provided books, magazines, writing materials, entertainment, educational programs, and religious services conducted by military chaplains.",
+        "image": "https://www.nps.gov/articles/images/YMCA-letters-for-web.jpg?maxwidth=1200&maxheight=1200&autorotate=false",
+        "url": "https://www.nps.gov/articles/vancouverbarracksymca.htm",
+        "parkurl": "https://www.nps.gov/fova/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66369462013245,
+          45.62564597283228
+        ]
+      }
     }
   ]
 }
