@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Dwight D. Eisenhower Memorial",
+        "address": "Independence Ave. & 4th St. SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01838731765747,
+          38.887116241394196
+        ]
+      }
+    }
+  ]
+}
