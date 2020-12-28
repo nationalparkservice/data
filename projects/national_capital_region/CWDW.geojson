@@ -10,7 +10,7 @@
         "name": "Fort Foote",
         "url": "places/fort-foote.htm",
         "location": "Fort Foote Road & Jessica Drive",
-        "image": "/common/uploads/place/nri/20160602/places/B6ED293F-1DD8-B71B-0B6A547575B99D90/B6ED293F-1DD8-B71B-0B6A547575B99D90.jpg",
+        "image": "/common/uploads/cropped_image/primary/982B4352-E71B-2208-C4AA769741419A3D.jpg?width=400&quality=90&mode=crop",
         "details": "Defending the water approach to the city from an elevation of 100 feet above the river, Fort Foote's eight 200-pounder Parrott rifles and two 15-inch guns posed a formidable obstacle for any naval assault."
       },
       "geometry": {
@@ -30,7 +30,8 @@
         "name": "Fort Greble",
         "url": "places/fort-greble-and-battery-carroll.htm",
         "location": "First & Elmira Streets SW near Martin Luther King, Jr. Boulevard SW",
-        "details": "Paired with Battery Carroll, this defensive position dominated the Potomac River and the southern approaches to Washington, D.C."
+        "details": "Paired with Battery Carroll, this defensive position dominated the Potomac River and the southern approaches to Washington, D.C.",
+        "image": "/common/uploads/cropped_image/primary/96F8F24B-923C-125E-F4E48C1841AB2190.jpg?width=400&quality=90&mode=crop"
       },
       "geometry": {
         "type": "Point",
@@ -49,7 +50,8 @@
         "name": "Battery Carroll",
         "url": "places/fort-greble-and-battery-carroll.htm",
         "location": "South Capitol Street & Martin Luther King, Jr. Boulevard SW",
-        "deetails": "Paired with Fort Greble, this defensive position dominated the Potomac River and the southern approaches to Washington, D.C."
+        "deetails": "Paired with Fort Greble, this defensive position dominated the Potomac River and the southern approaches to Washington, D.C.",
+        "image": "/common/uploads/cropped_image/primary/A6E26414-BC9C-6646-2A3902FBB9D74591.jpg?width=400&quality=90&mode=crop"
       },
       "geometry": {
         "type": "Point",
@@ -87,7 +89,8 @@
         "name": "Fort Ricketts",
         "url": "places/fort-ricketts.htm",
         "location": "W Street SE, Good Hope Road SE, & Fort Place SE",
-        "details": "Fort Ricketts was constructed to protect the Maryland or eastern end of the two bridges crossing the Anacostia (at the Navy Yard and two and a half miles upstream at Benning's Bridge) and to occupy the heights above the Navy Yard and Washington Arsenal."
+        "details": "Fort Ricketts was constructed to protect the Maryland or eastern end of the two bridges crossing the Anacostia (at the Navy Yard and two and a half miles upstream at Benning's Bridge) and to occupy the heights above the Navy Yard and Washington Arsenal.",
+        "image": "/common/uploads/cropped_image/primary/97250357-BFF5-B79B-B56E2F053FC37D64.jpg?width=400&quality=90&mode=crop"
       },
       "geometry": {
         "type": "Point",
@@ -106,7 +109,7 @@
         "name": "Fort Dupont",
         "url": "places/fort-dupont.htm",
         "location": "Bounded by Alabama, Massachusetts, Minnesota Avenues SE, Ridge Road SE, and Ely Place SE; historic fort entrance on Alabama Avenue SE.",
-        "image": "/common/uploads/place/nri/20160603/places/E1C8415B-1DD8-B71B-0BBCE8F5197C0E42/E1C8415B-1DD8-B71B-0BBCE8F5197C0E42.jpg",
+        "image": "/common/uploads/cropped_image/primary/97DF520C-C4D4-5B8F-D6515C971E6D60B3.jpg?width=400&quality=90&mode=crop",
         "details": "Although its garrison and guns never saw battle, Fort Dupont served as a lifeline of freedom. Runaway slaves found safety here before moving on to join the growing community of \"contrabands\" in Washington. Today, the park hosts athletic fields, a community garden, and a popular summer concert series."
       },
       "geometry": {
@@ -126,7 +129,8 @@
         "name": "Fort Davis",
         "url": "places/fort-davis.htm",
         "location": "Pennsylvania Ave. & Alabama Ave. SE",
-        "details": "Fort Davis was named in honor of Colonel Benjamin F. Davis. Davis was killed in the spring of 1864, during a cavalry expedition known as \"Stoneman's Raid\" at the Battle of Brandy Station in Beverly Ford, Virginia. "
+        "details": "Fort Davis was named in honor of Colonel Benjamin F. Davis. Davis was killed in the spring of 1864, during a cavalry expedition known as \"Stoneman's Raid\" at the Battle of Brandy Station in Beverly Ford, Virginia. ",
+        "image": "/common/uploads/cropped_image/primary/9784ED57-C7BA-F2AB-13E0E831A57BDFCB.jpg?width=400&quality=90&mode=crop"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +149,8 @@
         "name": "Fort Chaplin",
         "url": "places/fort-chaplin.htm",
         "location": "East Capitol St. & Texas Ave. SE",
-        "details": "Construction of Fort Chaplin began in 1864. The fortification was never fully armed nor garrisoned."
+        "details": "Construction of Fort Chaplin began in 1864. The fortification was never fully armed nor garrisoned.",
+        "image": "/common/uploads/cropped_image/primary/971160BA-E445-68E4-C5E5289B9D9D9946.jpg?width=400&quality=90&mode=crop"
       },
       "geometry": {
         "type": "Point",
@@ -164,7 +169,8 @@
         "name": "Fort Mahan",
         "url": "places/fort-mahan.htm",
         "location": "Benning Rd. & 42nd St. NE",
-        "details": "Fort Mahan was irregularly shaped with nine sides and a perimeter of 354 yards. This fort was located less than mile east of Benning's Bridge and commanded the approaches to the bridge from Bladensburg via the Eastern Branch Road, and from Upper Marlboro by way of Benning Road."
+        "details": "Fort Mahan was irregularly shaped with nine sides and a perimeter of 354 yards. This fort was located less than mile east of Benning's Bridge and commanded the approaches to the bridge from Bladensburg via the Eastern Branch Road, and from Upper Marlboro by way of Benning Road.",
+        "image": "/common/uploads/cropped_image/primary/973BE650-930C-0AE8-D255AB66D06129E5.jpg?width=400&quality=90&mode=crop"
       },
       "geometry": {
         "type": "Point",
@@ -183,7 +189,8 @@
         "name": "Fort Bunker Hill",
         "url": "places/fort-bunker-hill.htm",
         "location": "13th St. & Otis St. NE",
-        "details": "Fort Bunker Hill was built in the fall of 1861 by the 11th Massachusetts Infantry and was named after the Revolutionary fortification at Bunker Hill, Massachusetts. Little evidence of Fort Bunker Hill is still visible today."
+        "details": "Fort Bunker Hill was built in the fall of 1861 by the 11th Massachusetts Infantry and was named after the Revolutionary fortification at Bunker Hill, Massachusetts. Little evidence of Fort Bunker Hill is still visible today.",
+        "image": "/common/uploads/cropped_image/primary/38BF90D1-EEFE-D9F1-45062A7E1568577D.jpg?width=400&quality=90&mode=crop"
       },
       "geometry": {
         "type": "Point",
@@ -282,7 +289,8 @@
         "name": "Fort DeRussy",
         "url": "places/fort-derussy.htm",
         "location": "Military Rd. & Oregon Ave. NW.",
-        "details": "Built on a high hill with the purpose of providing cross fire upon the approaches to Fort Stevens on the 7th Street Pike (now Georgia Avenue)."
+        "details": "Built on a high hill with the purpose of providing cross fire upon the approaches to Fort Stevens on the 7th Street Pike (now Georgia Avenue).",
+        "image": "/common/uploads/cropped_image/primary/F90CEEA7-0B8D-C6DD-1DC9BFA4CBB832DD.jpg?width=400&quality=90&mode=crop"
       },
       "geometry": {
         "type": "Point",
@@ -320,7 +328,8 @@
         "name": "Fort Bayard",
         "url": "places/fort-bayard.htm",
         "location": "Western Ave. & River Rd. NW.",
-        "details": "Fort Bayard was built to overlook River Road, a historically important route into the capital from the north. Connected by rifle-pits to Fort Simmons and Fort Reno, Fort Bayard mounted four 20-pounder Parrott rifles and two 12-pounder field howitzers."
+        "details": "Fort Bayard was built to overlook River Road, a historically important route into the capital from the north. Connected by rifle-pits to Fort Simmons and Fort Reno, Fort Bayard mounted four 20-pounder Parrott rifles and two 12-pounder field howitzers.",
+        "image": "/common/uploads/cropped_image/primary/237F9FF3-CA73-EDAB-8973C1CD39F52EF7.jpg?width=400&quality=90&mode=crop"
       },
       "geometry": {
         "type": "Point",
@@ -339,7 +348,8 @@
         "name": "Battery Kemble",
         "url": "places/battery-kemble.htm",
         "location": "Chain Bridge Road NW.",
-        "details": "The battery held two 100-pounder Parrott rifles, placed in such a way as to sweep Chain Bridge and Virginia beyond."
+        "details": "The battery held two 100-pounder Parrott rifles, placed in such a way as to sweep Chain Bridge and Virginia beyond.",
+        "image": "/common/uploads/cropped_image/primary/3630AABA-A339-E536-0534F35B31A4A7A5.jpg?width=400&quality=90&mode=crop"
       },
       "geometry": {
         "type": "Point",
@@ -358,7 +368,8 @@
         "name": "Fort Marcy",
         "url": "places/fort-marcy.htm",
         "location": "George Washington Memorial Parkway south of Chain Bridge Rd. interchange.",
-        "details": "Protected Leesburg Pike and Chain Bridge. Construction began in 1861. When Fort Marcy was completed, it had a perimeter of 338 feet and mounted 18 guns, a 10-inch mortar and two 24-pounder Coehorn mortars."
+        "details": "Protected Leesburg Pike and Chain Bridge. Construction began in 1861. When Fort Marcy was completed, it had a perimeter of 338 feet and mounted 18 guns, a 10-inch mortar and two 24-pounder Coehorn mortars.",
+        "image": "/common/uploads/cropped_image/primary/A6E26414-BC9C-6646-2A3902FBB9D74591.jpg?width=400&quality=90&mode=crop"
       },
       "geometry": {
         "type": "Point",
