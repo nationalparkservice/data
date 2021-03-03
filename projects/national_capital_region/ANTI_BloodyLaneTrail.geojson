@@ -1,0 +1,303 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "stop": 1,
+        "name": "Mumma farm",
+        "URL": "https://www.nps.gov/anti/planyourvisit/bloody-lane-trail-stop-1.htm",
+        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/9319A7F0-F818-E91E-5D37F874B0023603.jpg?width=640&quality=90&mode=crop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.74065524339676,
+          39.47685200667398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "stop": 2,
+        "name": "Roulette Farm",
+        "URL": "https://www.nps.gov/anti/planyourvisit/bloody-lane-trail-stop-2.htm",
+        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/936A72B7-EC16-8182-F05C712DFB9F8D30.jpg?width=640&quality=90&mode=crop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.73838073015213,
+          39.475657405896605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "stop": 3,
+        "name": "Uphill to the Sunken Road",
+        "URL": "https://www.nps.gov/anti/planyourvisit/bloody-lane-trail-stop-3.htm",
+        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/940C9490-A044-AE85-D5D34E55EB4A89DC.jpg?width=640&quality=90&mode=crop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.73587018251419,
+          39.47351038551638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "stop": 4,
+        "name": "Fire!",
+        "URL": "https://www.nps.gov/anti/planyourvisit/bloody-lane-trail-stop-4.htm",
+        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/946BF441-FBB0-98F6-7FC4E84F9C142C15.jpg?width=640&quality=90&mode=crop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.73711740970612,
+          39.471334311716895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "stop": 5,
+        "name": "Sunken Road to Bloody Lane",
+        "URL": "https://www.nps.gov/anti/planyourvisit/bloody-lane-trail-stop-5.htm",
+        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/94C45246-BC47-780F-3BF6FF8B2C53E19C.jpg?width=640&quality=90&mode=crop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.73811519145964,
+          39.470441915437476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "stop": 6,
+        "name": "Medal of Honor",
+        "URL": "https://www.nps.gov/anti/planyourvisit/bloody-lane-trail-stop-6.htm",
+        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/9579668A-9BB5-FD17-945625103ED4ACFD.jpg?width=640&quality=90&mode=crop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.74066597223282,
+          39.47169250932445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "stop": 7,
+        "name": "Tompkins's Battery",
+        "URL": "https://www.nps.gov/anti/planyourvisit/bloody-lane-trail-stop-7.htm",
+        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/95C06DF5-D615-4639-313A1EBADE444D56.jpg?width=640&quality=90&mode=crop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.74267494678497,
+          39.4736242600067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "name": "Start Here"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.74497359991074,
+          39.475067344217614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -77.74486362934113,
+            39.475052851411654
+          ],
+          [
+            -77.74357080459595,
+            39.47494933128122
+          ],
+          [
+            -77.74227261543274,
+            39.47482096610558
+          ],
+          [
+            -77.74124264717102,
+            39.47643586557736
+          ],
+          [
+            -77.74084031581879,
+            39.47693275018048
+          ],
+          [
+            -77.74063110351562,
+            39.47683751423982
+          ],
+          [
+            -77.7385550737381,
+            39.4756284205275
+          ],
+          [
+            -77.73806691169739,
+            39.475744361931426
+          ],
+          [
+            -77.73764848709106,
+            39.475587012836435
+          ],
+          [
+            -77.73728370666504,
+            39.47521020171485
+          ],
+          [
+            -77.73727297782898,
+            39.47513980820215
+          ],
+          [
+            -77.73730516433716,
+            39.475052851411654
+          ],
+          [
+            -77.73737490177155,
+            39.474957612897335
+          ],
+          [
+            -77.73739635944366,
+            39.47487065587908
+          ],
+          [
+            -77.73735344409943,
+            39.47478783957016
+          ],
+          [
+            -77.73667216300964,
+            39.47438617907337
+          ],
+          [
+            -77.73609280586243,
+            39.473744345630934
+          ],
+          [
+            -77.73547589778899,
+            39.473040392466
+          ],
+          [
+            -77.73544371128082,
+            39.47287475539205
+          ],
+          [
+            -77.73547053337097,
+            39.472804359516196
+          ],
+          [
+            -77.73712277412415,
+            39.471363298875104
+          ],
+          [
+            -77.73813664913177,
+            39.470427421667964
+          ],
+          [
+            -77.74014830589293,
+            39.47142541417346
+          ],
+          [
+            -77.74091005325317,
+            39.47135087580877
+          ],
+          [
+            -77.74065256118773,
+            39.471719425833186
+          ],
+          [
+            -77.74011075496674,
+            39.47260559430576
+          ],
+          [
+            -77.74010002613068,
+            39.472671849438996
+          ],
+          [
+            -77.74039506912231,
+            39.472791936707175
+          ],
+          [
+            -77.74267494678497,
+            39.47362840089376
+          ],
+          [
+            -77.74437546730042,
+            39.47435719317462
+          ],
+          [
+            -77.74446129798889,
+            39.474340629798476
+          ],
+          [
+            -77.74459540843964,
+            39.47449384087733
+          ],
+          [
+            -77.74493336677551,
+            39.47474229055826
+          ],
+          [
+            -77.74497091770172,
+            39.47479198038797
+          ],
+          [
+            -77.74497628211975,
+            39.47506113301543
+          ]
+        ]
+      }
+    }
+  ]
+}
