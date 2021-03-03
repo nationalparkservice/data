@@ -140,7 +140,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "star",
-        "name": "Start Here"
+        "name": "Start Here",
+        "stop": "Tour Start",
+        "url": "https://www.nps.gov/anti/planyourvisit/bloody-lane-trail.htm"
       },
       "geometry": {
         "type": "Point",
