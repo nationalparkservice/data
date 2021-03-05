@@ -10,7 +10,8 @@
         "stop": 1,
         "name": "Mumma Farm",
         "URL": "https://www.nps.gov/anti/planyourvisit/bloody-lane-trail-stop-1.htm",
-        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/9319A7F0-F818-E91E-5D37F874B0023603.jpg?width=640&quality=90&mode=crop"
+        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/9319A7F0-F818-E91E-5D37F874B0023603.jpg?width=640&quality=90&mode=crop",
+        "description": "The story of the Mumma and Roulette families demonstrates how they, as well as others in the community, suffered severely when the opposing armies converged on Sharpsburg."
       },
       "geometry": {
         "type": "Point",
@@ -29,7 +30,8 @@
         "stop": 2,
         "name": "Roulette Farm",
         "URL": "https://www.nps.gov/anti/planyourvisit/bloody-lane-trail-stop-2.htm",
-        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/936A72B7-EC16-8182-F05C712DFB9F8D30.jpg?width=640&quality=90&mode=crop"
+        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/936A72B7-EC16-8182-F05C712DFB9F8D30.jpg?width=640&quality=90&mode=crop",
+        "description": "Thousands of Union soldiers tramped though the Roulette Farm as they marched toward the Sunken Road. "
       },
       "geometry": {
         "type": "Point",
@@ -48,7 +50,8 @@
         "stop": 3,
         "name": "Uphill to the Sunken Road",
         "URL": "https://www.nps.gov/anti/planyourvisit/bloody-lane-trail-stop-3.htm",
-        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/940C9490-A044-AE85-D5D34E55EB4A89DC.jpg?width=640&quality=90&mode=crop"
+        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/940C9490-A044-AE85-D5D34E55EB4A89DC.jpg?width=640&quality=90&mode=crop",
+        "description": "You are standing at the center of the Union battle lines that were over 700 yards wide."
       },
       "geometry": {
         "type": "Point",
@@ -67,7 +70,8 @@
         "stop": 4,
         "name": "Fire!",
         "URL": "https://www.nps.gov/anti/planyourvisit/bloody-lane-trail-stop-4.htm",
-        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/946BF441-FBB0-98F6-7FC4E84F9C142C15.jpg?width=640&quality=90&mode=crop"
+        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/946BF441-FBB0-98F6-7FC4E84F9C142C15.jpg?width=640&quality=90&mode=crop",
+        "description": " was here at the crest of the hill where the Second Corps soldiers did most of their fighting and dying."
       },
       "geometry": {
         "type": "Point",
@@ -86,7 +90,8 @@
         "stop": 5,
         "name": "Sunken Road to Bloody Lane",
         "URL": "https://www.nps.gov/anti/planyourvisit/bloody-lane-trail-stop-5.htm",
-        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/94C45246-BC47-780F-3BF6FF8B2C53E19C.jpg?width=640&quality=90&mode=crop"
+        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/94C45246-BC47-780F-3BF6FF8B2C53E19C.jpg?width=640&quality=90&mode=crop",
+        "description": "As French’s Division drove toward the Sunken Road, approximately 2,200 Confederates anxiously awaited."
       },
       "geometry": {
         "type": "Point",
@@ -105,7 +110,8 @@
         "stop": 6,
         "name": "Medal of Honor",
         "URL": "https://www.nps.gov/anti/planyourvisit/bloody-lane-trail-stop-6.htm",
-        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/9579668A-9BB5-FD17-945625103ED4ACFD.jpg?width=640&quality=90&mode=crop"
+        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/9579668A-9BB5-FD17-945625103ED4ACFD.jpg?width=640&quality=90&mode=crop",
+        "description": "It was here where the First Delaware Infantry was on the front line of French’s Division in their attack on the road. Lt. Charles Tanner remembered that in “less than five minutes, 286 men out of 635, and eight of ten company commanders, lay wounded or dead on that bloody slope...\""
       },
       "geometry": {
         "type": "Point",
@@ -124,7 +130,8 @@
         "stop": 7,
         "name": "Tompkins's Battery",
         "URL": "https://www.nps.gov/anti/planyourvisit/bloody-lane-trail-stop-7.htm",
-        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/95C06DF5-D615-4639-313A1EBADE444D56.jpg?width=640&quality=90&mode=crop"
+        "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/95C06DF5-D615-4639-313A1EBADE444D56.jpg?width=640&quality=90&mode=crop",
+        "description": "As French and Richardson’s Divisions attacked the Confederates in the Sunken Road, Captain John Tompkins and his Rhode Is­land Battery of six rifled guns moved forward in support. "
       },
       "geometry": {
         "type": "Point",
@@ -141,7 +148,8 @@
         "marker-size": "medium",
         "marker-symbol": "star",
         "name": "Start Here",
-        "url": "https://www.nps.gov/anti/planyourvisit/bloody-lane-trail.htm"
+        "url": "https://www.nps.gov/anti/planyourvisit/bloody-lane-trail.htm",
+        "description": "We recommend you follow the trail clockwise starting with the Mumma Farmhouse."
       },
       "geometry": {
         "type": "Point",
@@ -339,7 +347,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
