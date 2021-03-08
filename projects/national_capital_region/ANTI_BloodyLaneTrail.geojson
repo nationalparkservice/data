@@ -91,7 +91,7 @@
         "name": "Sunken Road to Bloody Lane",
         "URL": "https://www.nps.gov/anti/planyourvisit/bloody-lane-trail-stop-5.htm",
         "image": "https://www.nps.gov/common/uploads/grid_builder/anti/crop1_1/94C45246-BC47-780F-3BF6FF8B2C53E19C.jpg?width=640&quality=90&mode=crop",
-        "description": "As French’s Division drove toward the Sunken Road, approximately 2,200 Confederates anxiously awaited."
+        "description": "Approximately 2,200 Confederate soldiers used this old farm lane for cover."
       },
       "geometry": {
         "type": "Point",
@@ -149,7 +149,7 @@
         "marker-symbol": "star",
         "name": "Start Here",
         "url": "https://www.nps.gov/anti/planyourvisit/bloody-lane-trail.htm",
-        "description": "We recommend you follow the trail clockwise starting with the Mumma Farmhouse."
+        "description": "We recommend you start here, and then follow the trail clockwise by walking to the Mumma Farm."
       },
       "geometry": {
         "type": "Point",
