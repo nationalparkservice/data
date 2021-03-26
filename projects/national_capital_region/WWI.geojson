@@ -1045,6 +1045,27 @@
           45.62564597283228
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Robert Simmons",
+        "park": "Alcatraz Island",
+        "description": "When Robert Simmons, an African American man from Savannah, Georgia, was brought to the foggy, windswept island of Alcatraz in the winter of 1918, he was thrown into the “hole,” a pitch-dark dungeon cell with slimy walls, crawling with rats. He was held there for 14 days.",
+        "image": "https://www.nps.gov/people/images/GOGA-34882-alcatraz-photo-c1920s-prisoner-in-all-white-walking-on-parade-ground-below-comandants-house-and-light-house.jpg?maxwidth=650&autorotate=false",
+        "url": "https://www.nps.gov/articles/robertsimmonsprisonerconsciencealcatraz.htm",
+        "parkurl": "https://www.nps.gov/alca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.42297172546387,
+          37.82653126272444
+        ]
+      }
     }
   ]
 }
