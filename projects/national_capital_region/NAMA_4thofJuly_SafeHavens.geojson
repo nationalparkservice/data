@@ -7,22 +7,6 @@
         "class": "Safe Haven",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "name": "Holocaust Memorial Museum"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.03270494937897,
-          38.886652750617486
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "class": "Safe Haven",
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "name": "Department of Agriculture"
       },
       "geometry": {
@@ -30,71 +14,6 @@
         "coordinates": [
           -77.02992618083954,
           38.88673626269249
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "class": "Safe Haven",
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "name": "Smithsonian Castle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.02598333358765,
-          38.88878645334424
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "class": "Safe Haven",
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "name": "Sackler Gallery"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0264258980751,
-          38.887945088982775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": "",
-        "class": "Safe Haven",
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "name": "African Art Museum"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.02546566724776,
-          38.887945088982775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "class": "Safe Haven",
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "name": "National Museum of Natural History"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.02597260475159,
-          38.89126247029814
         ]
       }
     },
@@ -181,33 +100,16 @@
     {
       "type": "Feature",
       "properties": {
-        "class": "Safe Haven",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "name": "Department of Interior",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "National Museum of African American History and Culture"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.04262912273407,
-          38.89444400449762
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "class": "Safe Haven",
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "name": "Office of Personnel Management"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.04417407512665,
-          38.89475713992365
+          -77.03265666961669,
+          38.89099942369067
         ]
       }
     },
@@ -217,14 +119,61 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "class": "Safe Haven",
-        "name": "Kennedy Center"
+        "name": "Wilbur J. Cohen Federal Building"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.05571293830872,
-          38.8958677157696
+          -77.01642394065857,
+          38.88687405740161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Department of Education Headquarters Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01874136924744,
+          38.8864648480898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Department of the Interior Headquarters Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04261302947998,
+          38.89438972755005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "General Services Administration Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0425808429718,
+          38.896652623561934
         ]
       }
     }
