@@ -1049,7 +1049,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "008000",
+        "marker-color": "#008000",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "name": "Robert Simmons",
@@ -1064,6 +1064,27 @@
         "coordinates": [
           -122.42297172546387,
           37.82653126272444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "The Great War Monuments",
+        "park": "Mammoth Cave National Park",
+        "description": "In 1922, the Barren County, KY Post 28 of the American Legion distributed a request to the state’s governors to each submit a list of names of their service members who had died during World War I. The spot chosen to display the monument was the entrance to the Rotunda room of Mammoth Cave, approximately 700 feet (215 meters) into the cave’s Historic Entrance.",
+        "image": "https://www.nps.gov/articles/000/images/IMG_TommyD_6910191_2.jpg",
+        "url": "https://www.nps.gov/articles/000/the-great-war-monuments.htm",
+        "parkurl": "https://www.nps.gov/maca/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10376954078674,
+          37.18748460977844
         ]
       }
     }
