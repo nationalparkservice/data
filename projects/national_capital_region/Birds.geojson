@@ -1,2965 +1,3501 @@
 {
-   "type": "FeatureCollection",
-   "features": [
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -85.67330523,37.5858662 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"abli",
-    "name":"Abraham Lincoln Birthplace",
-    "designation":"National Historical Park",
-    "birds":"https://www.nps.gov/abli/learn/nature/images/two-robins-at-abli(2).jpg"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -103.753886,42.42170419 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"agfo",
-    "name":"Agate Fossil Beds",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/agfo/learn/nature/images/100_4888.jpg"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -101.075821,29.53539777 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"amis",
-    "name":"Amistad",
-    "designation":"National Recreation Area",
-    "birds":"https://www.nps.gov/amis/learn/nature/images/9dqlm839.jpg"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -78.79856982,37.38022164 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"apco",
-    "name":"Appomattox Court House",
-    "designation":"National Historical Park",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -90.66045665,46.96240467 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"apis",
-    "name":"Apostle Islands",
-    "designation":"National Lakeshore",
-    "birds":"https://www.nps.gov/apis/learn/nature/images/piping_plovers-6,_Long_I_7-06.jpg"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -109.5863666,38.72261844 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"arch",
-    "name":"Arches",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/arch/learn/nature/images/ScrubJay.jpg"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -91.30837178,34.00389998 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"arpo",
-    "name":"Arkansas Post",
-    "designation":"National Memorial",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.24524611,38.05593172 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"asis",
-    "name":"Assateague Island",
-    "designation":"National Seashore",
-    "birds":"https://www.nps.gov/asis/learn/nature/images/gbh.jpg"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -107.9999245,36.83682216 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"azru",
-    "name":"Aztec Ruins",
-    "designation":"National Monument",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -102.482942,43.68584846 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"badl",
-    "name":"Badlands",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/badl/learn/nature/images/Lee-hornedlark-birds.jpg"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -106.3317124,35.77898596 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"band",
-    "name":"Bandelier",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/band/learn/nature/images/western-screech-owl-14.jpg"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -103.4266499,38.03977546 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"beol",
-    "name":"Bent's Old Fort",
-    "designation":"National Historic Site",
-    "birds":"https://www.nps.gov/beol/learn/nature/images/sd79rcty.jpg"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -103.2297897,29.29817767 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"bibe",
-    "name":"Big Bend",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/bibe/learn/nature/images/Feathers_cballou_2.jpg"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -108.1443943,45.13154227 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"bica",
-    "name":"Bighorn Canyon",
-    "designation":"National Recreation Area",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -81.08120629,25.97079602 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"bicy",
-    "name":"Big Cypress",
-    "designation":"National Preserve",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -113.6458443,45.64647324 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"biho",
-    "name":"Big Hole",
-    "designation":"National Battlefield",
-    "birds":"https://www.nps.gov/biho/learn/nature/images/spruce_grouse.JPG"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -84.66506688,36.5348388 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"biso",
-    "name":"Big South Fork",
-    "designation":"National River & Recreation Area",
-    "birds":"https://www.nps.gov/biso/learn/nature/images/housewren_imageonly.jpg"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -94.3384557,30.42356654 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"bith",
-    "name":"Big Thicket",
-    "designation":"National Preserve",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -107.7242756,38.57779869 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"blca",
-    "name":"Black Canyon Of The Gunnison",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/blca/learn/nature/images/bluebird.jpg"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -81.0420999,36.53386746 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"blri",
-    "name":"Blue Ridge",
-    "designation":"Parkway",
-    "birds":"https://www.nps.gov/blri/learn/nature/images/heron-Jim-ruff_1.jpg"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -80.98366657,37.56577087 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"blue",
-    "name":"Bluestone",
-    "designation":"National Scenic River",
-    "birds":"https://www.nps.gov/blue/learn/nature/images/web-scarlet-tanager-square.jpg"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -70.93941138,42.30905526 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"boha",
-    "name":"Boston Harbor Islands",
-    "designation":"National Recreation Area",
-    "birds":"https://www.nps.gov/boha/learn/nature/images/tern_nest_1_1.jpg"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -112.1826689,37.58399144 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"brca",
-    "name":"Bryce Canyon",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/brca/learn/nature/images/bird_collage_001.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -92.90761584,36.04116481 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"buff",
-    "name":"Buffalo",
-    "designation":"National River",
-    "birds":"https://www.nps.gov/buff/learn/nature/images/bald-eagle-II-taken-by-BCHA-30-Oct-2012-near-Carver2.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -117.2415985,32.6722503 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"cabr",
-    "name":"Cabrillo",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/cabr/learn/nature/images/Birds_2.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -70.04319832,41.92381465 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"caco",
-    "name":"Cape Cod",
-    "designation":"National Seashore",
-    "birds":"https://www.nps.gov/caco/learn/nature/images/incubating.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -111.5325383,32.99702582 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"cagr",
-    "name":"Casa Grande Ruins",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/cagr/learn/nature/images/PICT0012.JPG?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.65061112,35.41370839 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"caha",
-    "name":"Cape Hatteras",
-    "designation":"National Seashore",
-    "birds":"https://www.nps.gov/caha/learn/nature/images/black_skimmer.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -163.5037786,67.41499986 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"cakr",
-    "name":"Cape Krusenstern",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/cakr/learn/nature/images/swans-flying-over-the-tundra.jpg?maxwidth=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -76.34319082,34.8267961 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"calo",
-    "name":"Cape Lookout",
-    "designation":"National Seashore",
-    "birds":"https://www.nps.gov/calo/learn/nature/images/IMG_9744RESIZE.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -109.8801624,38.24555783 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"cany",
-    "name":"Canyonlands",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/cany/learn/nature/images/CanyonWren_1.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -111.2470484,38.28216531 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"care",
-    "name":"Capitol Reef",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/care/learn/nature/images/23-10-2-Canyon-Wren.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -77.46417665,39.65068457 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"cato",
-    "name":"Catoctin Mountain",
-    "designation":"Park",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -104.5529688,32.14089463 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"cave",
-    "name":"Carlsbad Caverns",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/cave/learn/nature/images/bird_greathornedowl_556.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -103.9710427,36.78171096 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"cavo",
-    "name":"Capulin Volcano",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/cavo/learn/nature/images/Mt-Blue-Bird-2_2.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -112.845268,37.63545562 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"cebr",
-    "name":"Cedar Breaks",
-    "designation":"National Monument",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -84.28953177,33.99698333 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"chat",
-    "name":"Chattahoochee River",
-    "designation":"National Recreation Area",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -97.00715669,34.46050507 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"chic",
-    "name":"Chickasaw",
-    "designation":"National Recreation Area",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -109.341607,32.01214618 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"chir",
-    "name":"Chiricahua",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/chir/learn/nature/images/Canyon_Wren_-18565207405.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -119.9112735,33.98680093 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"chis",
-    "name":"Channel Islands",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/chis/planyourvisit/images/960-0M9B4450_1.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -77.89763546,39.3909816 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"choh",
-    "name":"Chesapeake & Ohio Canal",
-    "designation":"National Historical Park",
-    "birds":"https://www.nps.gov/choh/learn/nature/images/2-Red-Tailed-Hawk.JPG?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -113.7124097,42.0699024 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"ciro",
-    "name":"City Of Rocks",
-    "designation":"National Reserve",
-    "birds":"https://www.nps.gov/ciro/learn/nature/images/1597-Black-throated-Gray-Warbler14b.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -108.6920709,39.05045016 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"colm",
-    "name":"Colorado",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/colm/learn/nature/images/bird_collage.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -76.61998123,37.22824435 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"colo",
-    "name":"Colonial",
-    "designation":"National Historical Park",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -110.2561574,31.34900397 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"coro",
-    "name":"Coronado",
-    "designation":"National Memorial",
-    "birds":"https://www.nps.gov/coro/learn/nature/images/Strickland-s-002.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -113.4791609,43.20345611 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"crmo",
-    "name":"Craters Of The Moon",
-    "designation":"National Monument & Preserve",
-    "birds":"https://www.nps.gov/crmo/learn/nature/images/Bluebird-Doug-Owen_1_1.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -83.6114083,36.62503076 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"cuga",
-    "name":"Cumberland Gap",
-    "designation":"National Historical Park",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -81.57116722,41.26093905 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"cuva",
-    "name":"Cuyahoga Valley",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/cuva/learn/nature/images/CVNP_spring_bids_Yellow_Warbler12_-Jim-Schmidt_285w.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -77.04998374,38.93596206 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"cwdw",
-    "name":"Civil War Defenses of Washington",
-    "designation":"",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -151.0526568,63.29777484 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"dena",
-    "name":"Denali",
-    "designation":"National Park & Preserve",
-    "birds":"https://www.nps.gov/dena/learn/nature/images/arctic_tern_banner.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -104.7156341,44.59064655 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"deto",
-    "name":"Devils Tower",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/deto/learn/nature/images/Turkey.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -117.134395,36.48753731 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"deva",
-    "name":"Death Valley",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/deva/learn/nature/images/IMG_1327.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -74.94751173,41.12793491 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"dewa",
-    "name":"Delaware Water Gap",
-    "designation":"National Recreation Area",
-    "birds":"https://www.nps.gov/dewa/learn/nature/images/Eagle_Mohr_47-IMG_2953_1.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -108.9333714,40.50739742 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"dino",
-    "name":"Dinosaur",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/dino/learn/nature/images/Blue-Heron_1.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -82.87176297,24.64884965 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"drto",
-    "name":"Dry Tortugas",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/drto/learn/nature/images/MaskedBoobyHospitalKey.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -91.19687517,43.08095081 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"efmo",
-    "name":"Effigy Mounds",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/efmo/learn/nature/images/Hawk-Watch-2.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -77.26508101,39.79577592 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"eise",
-    "name":"Eisenhower",
-    "designation":"National Historic Site",
-    "birds":"https://www.nps.gov/eise/learn/nature/images/DSCN2115.JPG?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -107.9950948,34.88422799 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"elma",
-    "name":"El Malpais",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/elma/learn/nature/images/Red-Tail.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -108.3463984,35.03895916 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"elmo",
-    "name":"El Morro",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/elmo/learn/nature/images/Raven_1.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -80.88200301,25.37294225 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"ever",
-    "name":"Everglades",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/ever/learn/nature/images/WadingBirds_RodneyCammauf_1.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -73.00013462,40.69668638 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"fiis",
-    "name":"Fire Island",
-    "designation":"National Seashore",
-    "birds":"https://www.nps.gov/fiis/learn/nature/images/Shorebirds-1.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -105.2803396,38.91260586 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"flfo",
-    "name":"Florissant Fossil Beds",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/flfo/learn/nature/images/woodpecker1_a_1.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -109.451132,32.14925942 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"fobo",
-    "name":"Fort Bowie",
-    "designation":"National Historic Site",
-    "birds":"https://www.nps.gov/fobo/learn/nature/images/Flycatcher-on-adobe-wall-FOBO_2.jpg?maxwidth=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -110.7624754,41.85635223 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"fobu",
-    "name":"Fossil Butte",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/fobu/learn/nature/images/7z8vfojz.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -81.23567535,29.7121489 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"foma",
-    "name":"Fort Matanzas",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/foma/learn/nature/images/IMG_1029-1-688.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -76.58044165,39.26395314 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"fomc",
-    "name":"Fort McHenry",
-    "designation":"National Monument and Historic Shrine",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -80.93361681,32.0308274 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"fopu",
-    "name":"Fort Pulaski",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/fopu/learn/nature/images/SAVANNAH_SPARROW_1.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -77.6470428,38.28277118 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"frsp",
-    "name":"Fredericksburg & Spotsylvania",
-    "designation":"National Military Park",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -153.2917758,67.75961636 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"gaar",
-    "name":"Gates Of The Arctic",
-    "designation":"National Park & Preserve",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -73.9171087,40.56536246 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"gate",
-    "name":"Gateway",
-    "designation":"National Recreation Area",
-    "birds":"https://www.nps.gov/gate/images/Woodcock-2-JBWR-2011_WS.JPG?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -77.23246758,39.81557366 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"gett",
-    "name":"Gettysburg",
-    "designation":"National Military Park",
-    "birds":"https://www.nps.gov/gett/learn/nature/images/cangooseeggs_birds.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -108.2706711,33.22715258 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"gicl",
-    "name":"Gila Cliff Dwellings",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/gicl/learn/nature/images/Hummingbird-Rufous-male-with-female.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -113.8009306,48.68414678 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"glac",
-    "name":"Glacier",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/glac/learn/nature/images/harlequincreek_1.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -136.8407579,58.80086718 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"glba",
-    "name":"Glacier Bay",
-    "designation":"National Park & Preserve",
-    "birds":"https://www.nps.gov/glba/learn/nature/images/tufted-puffin.JPG?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -110.7718311,37.51841301 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"glca",
-    "name":"Glen Canyon",
-    "designation":"National Recreation Area",
-    "birds":"https://www.nps.gov/glca/learn/nature/images/bird-cover-pic.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.6007386,37.85982543 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"goga",
-    "name":"Golden Gate",
-    "designation":"National Recreation Area",
-    "birds":"https://www.nps.gov/goga/learn/nature/images/quail_web.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -74.01670765,40.69164233 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"gois",
-    "name":"Governors Island",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/gois/learn/nature/images/Web_page_resize_2007_Dec_19_IMG_0144_1.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -114.2579782,38.94617378 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"grba",
-    "name":"Great Basin",
-    "designation":"National Park",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -112.6836024,36.17280161 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"grca",
-    "name":"Grand Canyon",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/common/uploads/grid_builder/imr/crop1_1/07C49597-1DD8-B71B-0B44BD6F73564C45.jpg?width=640&quality=90&mode=crop"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -77.25128326,38.98776107 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"grfa",
-    "name":"Great Falls",
-    "designation":"Park",
-    "birds":"https://www.nps.gov/grfa/learn/nature/images/small-N-River-Trail-Heron-NPS-photo-2.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -112.7467024,46.41358923 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"grko",
-    "name":"Grant-Kohrs Ranch",
-    "designation":"National Historic Site",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -105.5919572,37.79256812 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"grsa",
-    "name":"Great Sand Dunes",
-    "designation":"National Park & Preserve",
-    "birds":"https://www.nps.gov/grsa/learn/nature/images/web285western_tanager-nps-s.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -83.50818326,35.60116374 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"grsm",
-    "name":"Great Smoky Mountains",
-    "designation":"National Park",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -110.7054666,43.81853565 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"grte",
-    "name":"Grand Teton",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/grte/learn/nature/images/shcrane.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -104.885527,31.92304462 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"gumo",
-    "name":"Guadalupe Mountains",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/gumo/learn/nature/images/08k4oz2z.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -77.08528147,38.85452263 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"gwmp",
-    "name":"George Washington",
-    "designation":"Memorial Parkway",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -77.74088546,39.31865949 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"hafe",
-    "name":"Harpers Ferry",
-    "designation":"National Historical Park",
-    "birds":"https://www.nps.gov/hafe/learn/nature/images/greatblueheron200.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -114.9443074,42.79074114 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"hafo",
-    "name":"Hagerman Fossil Beds",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/hafo/learn/nature/images/Blue-Heron.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -76.58781182,39.4175296 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"hamp",
-    "name":"Hampton",
-    "designation":"National Historic Site",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.83387781,40.28802381 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"home",
-    "name":"Homestead",
-    "designation":"National Monument of America",
-    "birds":"https://www.nps.gov/home/learn/nature/images/turkey8.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -93.06332936,34.52414366 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"hosp",
-    "name":"Hot Springs",
-    "designation":"National Park",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -87.09647445,41.63765525 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"indu",
-    "name":"Indiana Dunes",
-    "designation":"National Lakeshore",
-    "birds":"https://www.nps.gov/indu/learn/nature/images/bwaixr6s.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.82780657,48.01145819 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"isro",
-    "name":"Isle Royale",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/isro/learn/nature/images/white-throated_sparrow_CROP.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -76.75469561,37.20027185 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"jame",
-    "name":"Historic Jamestowne",
-    "designation":"Part of Colonial National Historical Park",
-    "birds":"https://www.nps.gov/jame/learn/nature/images/EaglesNest_500X300.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -103.829994,43.73102945 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"jeca",
-    "name":"Jewel Cave",
-    "designation":"National Monument",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -119.8811491,44.62566508 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"joda",
-    "name":"John Day Fossil Beds",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/joda/learn/nature/images/kestrel285wide.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.8398125,33.91418525 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"jotr",
-    "name":"Joshua Tree",
-    "designation":"National Park",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -156.0306932,19.68083237 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"kaho",
-    "name":"Kaloko-Honok?hau",
-    "designation":"National Historical Park",
-    "birds":"https://www.nps.gov/kaho/learn/nature/images/IMG_0125x415.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -76.94340616,38.91284776 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"keaq",
-    "name":"Kenilworth Park & Aquatic Gardens",
-    "designation":"",
-    "birds":"https://www.nps.gov/keaq/learn/nature/images/IMG_6159.JPG?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -150.106502,59.81804414 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"kefj",
-    "name":"Kenai Fjords",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/kefj/learn/nature/images/KEFJ_Pfeiffenberger_0175-415PIX_1360530_2.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -135.2618535,59.61042373 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"klgo",
-    "name":"Klondike Gold Rush",
-    "designation":"National Historical Park",
-    "birds":"https://www.nps.gov/klgo/learn/nature/images/Eagle-Dyea-2015-688jpg.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -159.2002293,67.35631336 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"kova",
-    "name":"Kobuk Valley",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/kova/learn/nature/images/birds-taking-off.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -121.5172189,41.75915823 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"labe",
-    "name":"Lava Beds",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/labe/learn/nature/images/meadowlark.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -153.55535,60.57405857 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"lacl",
-    "name":"Lake Clark",
-    "designation":"National Park & Preserve",
-    "birds":"https://www.nps.gov/lacl/learn/nature/images/Image-w-cred-cap_-1200w_-Birds-page_-Merganser-Family_2.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -114.3469067,35.96622528 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"lake",
-    "name":"Lake Mead",
-    "designation":"National Recreation Area",
-    "birds":"https://www.nps.gov/lake/learn/nature/images/Egret-Bird-Cover-Image.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -101.6820066,35.61926203 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"lamr",
-    "name":"Lake Meredith",
-    "designation":"National Recreation Area",
-    "birds":"https://www.nps.gov/lamr/learn/nature/images/Turkeys-Along-Road-_small.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -121.4075993,40.49354575 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"lavo",
-    "name":"Lassen Volcanic",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/lavo/learn/nature/images/bufflehead_smaller.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -123.9638583,46.21178735 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"lewi",
-    "name":"Lewis and Clark",
-    "designation":"National Historical Park",
-    "birds":"https://www.nps.gov/lewi/learn/nature/images/SunsetBeach_1.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -89.64513397,39.79715642 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"liho",
-    "name":"Lincoln Home",
-    "designation":"National Historic Site",
-    "birds":"https://www.nps.gov/liho/learn/nature/images/amrobinhdr_1.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -71.12636956,42.37698854 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"long",
-    "name":"Longfellow House Washington's Headquarters",
-    "designation":"National Historic Site",
-    "birds":"https://www.nps.gov/long/learn/nature/images/red_tailed_hawk.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -98.60692433,30.2519655 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"lyjo",
-    "name":"Lyndon B Johnson",
-    "designation":"National Historical Park",
-    "birds":"https://www.nps.gov/lyjo/learn/nature/images/Scissortailed.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -72.53424638,43.63348732 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"mabi",
-    "name":"Marsh - Billings - Rockefeller",
-    "designation":"National Historical Park",
-    "birds":"https://www.nps.gov/mabi/learn/nature/images/Cedar-waxwing-400x300.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -86.13090198,37.19760458 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"maca",
-    "name":"Mammoth Cave",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/maca/learn/nature/images/m7mhg8c7.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -77.5353468,38.81710063 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"mana",
-    "name":"Manassas",
-    "designation":"National Battlefield Park",
-    "birds":"https://www.nps.gov/mana/learn/nature/images/Bird_goose_Gorsira.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -108.4624032,37.23908345 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"meve",
-    "name":"Mesa Verde",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/meve/learn/nature/images/scrubjay_birdlist_250px.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -93.04689808,44.87447858 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"miss",
-    "name":"Mississippi",
-    "designation":"National River and Recreation Area",
-    "birds":"https://www.nps.gov/miss/learn/nature/images/GordonDietzman-20160716-5788.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -97.59077822,42.7882189 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"mnrr",
-    "name":"Missouri",
-    "designation":"National Recreational River",
-    "birds":"https://www.nps.gov/mnrr/learn/nature/images/hummer_1.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -111.8147857,34.62237771 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"moca",
-    "name":"Montezuma Castle",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/moca/learn/nature/images/gambelsquailSMALL.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.5168258,35.12485941 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"moja",
-    "name":"Mojave",
-    "designation":"National Preserve",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -121.7043885,46.86075416 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"mora",
-    "name":"Mount Rainier",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/mora/learn/nature/images/spottedowl_09_sml.jpeg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -74.53455122,40.7650755 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"morr",
-    "name":"Morristown",
-    "designation":"National Historical Park",
-    "birds":"https://www.nps.gov/morr/learn/nature/images/Picture3-17-035small.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -103.4525186,43.88037021 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"moru",
-    "name":"Mount Rushmore",
-    "designation":"National Memorial",
-    "birds":"https://www.nps.gov/moru/learn/nature/images/white-breasted-nuthatch-Jan-2008-003-960-wide.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.5808047,37.89658027 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"muwo",
-    "name":"Muir Woods",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/muwo/learn/nature/images/spot_owl-head_1.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -89.03092439,33.78002293 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"natr",
-    "name":"Natchez Trace",
-    "designation":"Parkway",
-    "birds":"https://www.nps.gov/natr/learn/nature/images/Wood-Duck.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -115.8761258,46.07019093 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"nepe",
-    "name":"Nez Perce",
-    "designation":"National Historical Park",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -80.99956002,37.86878554 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"neri",
-    "name":"New River Gorge",
-    "designation":"National River",
-    "birds":"https://www.nps.gov/neri/learn/nature/images/LEM-2July-4.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -99.91870646,42.79413083 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"niob",
-    "name":"Niobrara",
-    "designation":"National Scenic River",
-    "birds":"https://www.nps.gov/niob/learn/nature/images/baldeagle.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -82.01636079,34.14273587 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"nisi",
-    "name":"Ninety Six",
-    "designation":"National Historic Site",
-    "birds":"https://www.nps.gov/nisi/learn/nature/images/Hermit-Thrush-Rusty-Wilson.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -159.831694,68.01027053 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"noat",
-    "name":"Noatak",
-    "designation":"National Preserve",
-    "birds":"https://www.nps.gov/noat/learn/nature/images/Arcticternnoatak.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -121.2069423,48.71171756 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"noca",
-    "name":"North Cascades",
-    "designation":"National Park",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -169.8503777,-14.22865935 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"npsa",
-    "name":"National Park of American Samoa",
-    "designation":"",
-    "birds":"https://www.nps.gov/npsa/learn/nature/images/King-Fisher.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -84.59791705,36.1056026 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"obed",
-    "name":"Obed",
-    "designation":"Wild & Scenic River",
-    "birds":"https://www.nps.gov/obed/learn/nature/images/red-shouldered-hawk-180.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -123.6663848,47.80392754 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"olym",
-    "name":"Olympic",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/olym/learn/nature/images/bluegrouse150.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -123.4018586,42.10319143 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"orca",
-    "name":"Oregon Caves",
-    "designation":"National Monument & Preserve",
-    "birds":"https://www.nps.gov/orca/images/Steller-s-Jay.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -112.8573314,32.03585543 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"orpi",
-    "name":"Organ Pipe Cactus",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/orpi/learn/nature/images/body_hummingbird2.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -91.25709817,37.13968894 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"ozar",
-    "name":"Ozark",
-    "designation":"National Scenic Riverways",
-    "birds":"https://www.nps.gov/ozar/learn/nature/images/barred_owl_3.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -97.46296072,26.02387351 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"paal",
-    "name":"Palo Alto Battlefield",
-    "designation":"National Historical Park",
-    "birds":"https://www.nps.gov/paal/learn/nature/images/harrishawk2162011.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -97.35901135,27.05381186 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"pais",
-    "name":"Padre Island",
-    "designation":"National Seashore",
-    "birds":"https://www.nps.gov/pais/learn/nature/images/Skimmer-Black-IMG_6556A-Phil-Ziegler-NPS.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -109.7877678,34.98387664 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"pefo",
-    "name":"Petrified Forest",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/pefo/learn/nature/images/Horned-Lark-8-resized.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -77.47594865,37.19109957 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"pete",
-    "name":"Petersburg",
-    "designation":"National Battlefield",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -121.1813607,36.49029208 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"pinn",
-    "name":"Pinnacles",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/pinn/learn/nature/images/California-Quail-Walk-1.jpg?maxwidth=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.32475523,44.01351958 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"pipe",
-    "name":"Pipestone",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/pipe/learn/nature/images/smallkingbird_2.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -86.31628733,46.56435642 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"piro",
-    "name":"Pictured Rocks",
-    "designation":"National Lakeshore",
-    "birds":"https://www.nps.gov/piro/learn/nature/images/SnowyOwl.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -77.06659744,38.68679958 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"pisc",
-    "name":"Piscataway",
-    "designation":"Park",
-    "birds":"https://www.nps.gov/pisc/learn/nature/images/osprey-1-e.JPG?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -112.7398567,36.86282666 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"pisp",
-    "name":"Pipe Spring",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/pisp/learn/nature/images/Spotted-Towhee-12-09270px.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.8797804,38.05511241 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"pore",
-    "name":"Point Reyes",
-    "designation":"National Seashore",
-    "birds":"https://www.nps.gov/pore/learn/nature/images/pic_commonmurre2_285x190.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -77.38910997,38.58589108 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"prwi",
-    "name":"Prince William Forest",
-    "designation":"Park",
-    "birds":"https://www.nps.gov/prwi/learn/nature/images/Hooded-Warbler.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -124.0318129,41.37237268 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"redw",
-    "name":"Redwood",
-    "designation":"National and State Parks",
-    "birds":"https://www.nps.gov/redw/learn/nature/images/Pigeon-Guillemots.gif"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -77.29107785,37.48774472 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"rich",
-    "name":"Richmond",
-    "designation":"National Battlefield Park",
-    "birds":"https://www.nps.gov/rich/learn/nature/images/Great-Egret-Ardea-alba-for-web.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -105.6972879,40.3556924 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"romo",
-    "name":"Rocky Mountain",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/romo/learn/nature/images/Junco_2_1.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -85.81560314,34.97402063 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"ruca",
-    "name":"Russell Cave",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/ruca/learn/nature/images/blue-jay-2.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -92.36126685,45.70019235 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"sacn",
-    "name":"Saint Croix",
-    "designation":"National Scenic Riverway",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -72.37333969,43.4997238 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"saga",
-    "name":"Saint-Gaudens",
-    "designation":"National Historic Site",
-    "birds":"https://www.nps.gov/saga/learn/nature/images/Green_Heron.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -110.7574974,32.20909636 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"sagu",
-    "name":"Saguaro",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/sagu/learn/nature/images/pecker.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -73.49686438,40.88579128 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"sahi",
-    "name":"Sagamore Hill",
-    "designation":"National Historic Site",
-    "birds":"https://www.nps.gov/sahi/learn/nature/images/Kingbird2.JPG?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -71.0076953,42.46830664 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"sair",
-    "name":"Saugus Iron Works",
-    "designation":"National Historic Site",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -123.0610277,48.51241933 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"sajh",
-    "name":"San Juan Island",
-    "designation":"National Historical Park",
-    "birds":"https://www.nps.gov/sajh/learn/nature/images/Northern-Harrier-Male.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -118.7708619,34.09777606 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"samo",
-    "name":"Santa Monica Mountains",
-    "designation":"National Recreation Area",
-    "birds":"https://www.nps.gov/samo/learn/nature/images/Male_Anna-s_Humbinbird_by_John_Emerson_1.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -102.5169542,38.56414189 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"sand",
-    "name":"Sand Creek Massacre",
-    "designation":"National Historic Site",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -106.2050309,34.35423203 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"sapu",
-    "name":"Salinas Pueblo Missions",
-    "designation":"National Monument",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -118.587429,36.71277299 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"seki",
-    "name":"Sequoia & Kings Canyon",
-    "designation":"National Parks",
-    "birds":"https://www.nps.gov/seki/learn/nature/images/imgCaQu0023_1.JPG?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -78.46907715,38.49236644 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"shen",
-    "name":"Shenandoah",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/005ADACD-1DD8-B71B-0B21547D1D6C085A.jpg?width=307&quality=90&mode=crop"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -88.3421072,35.13850907 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"shil",
-    "name":"Shiloh",
-    "designation":"National Military Park",
-    "birds":"https://www.nps.gov/shil/learn/nature/images/BirdEggs.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -135.3156876,57.04718173 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"sitk",
-    "name":"Sitka",
-    "designation":"National Historical Park",
-    "birds":"https://www.nps.gov/sitk/learn/nature/images/puffin-for-website.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -86.02706591,44.92844962 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"slbe",
-    "name":"Sleeping Bear Dunes",
-    "designation":"National Lakeshore",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -86.43078399,35.87608652 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"stri",
-    "name":"Stones River",
-    "designation":"National Battlefield",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -103.4300083,47.17777274 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"thro",
-    "name":"Theodore Roosevelt",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/npgallery/GetAsset/02701214-155D-4519-3EE7462D211C8CF9/Thumb/XLarge?"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -111.7093944,40.44039719 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"tica",
-    "name":"Timpanogos Cave",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/tica/learn/nature/images/l3w4vyfk.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -81.49950104,30.47251894 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"timu",
-    "name":"Timucuan",
-    "designation":"Ecological & Historic Preserve",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -111.1135627,33.64842945 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"tont",
-    "name":"Tonto",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/tont/learn/nature/images/Curvebill3-adj.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -112.0279069,34.77296377 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"tuzi",
-    "name":"Tuzigoot",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/tuzi/learn/nature/images/20090706-Photographer-Unknown-Common-Blackhawk-Fledgling-3_Cropped.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -75.44581889,40.10054985 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"vafo",
-    "name":"Valley Forge",
-    "designation":"National Historical Park",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -90.85030186,32.3621286 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"vick",
-    "name":"Vicksburg",
-    "designation":"National Military Park",
-    "birds":"https://www.nps.gov/vick/learn/nature/images/red-winged-blackbird.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -99.70445143,35.62083963 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"waba",
-    "name":"Washita Battlefield",
-    "designation":"National Historic Site",
-    "birds":"https://www.nps.gov/waba/learn/nature/images/Scissor-Tail-fly-Catcher.JPG?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -73.45452542,41.25886268 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"wefa",
-    "name":"Weir Farm",
-    "designation":"National Historic Site",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -122.6022657,40.61359941 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"whis",
-    "name":"Whiskeytown",
-    "designation":"National Recreation Area",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -118.4629388,46.04119286 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"whmi",
-    "name":"Whitman Mission",
-    "designation":"National Historic Site",
-    "birds":"https://www.nps.gov/whmi/learn/nature/images/redwinged.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -106.3333461,32.77907858 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"whsa",
-    "name":"White Sands",
-    "designation":"National Monument",
-    "birds":"https://www.nps.gov/whsa/learn/nature/images/WHSA_BarnSwallow-thumbnail_1.jpg?maxwidth=650&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -77.265089,38.93854526 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"wotr",
-    "name":"Wolf Trap National Park for the Performing Arts",
-    "designation":"",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -142.6028439,61.4182147 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"wrst",
-    "name":"Wrangell - St Elias",
-    "designation":"National Park & Preserve",
-    "birds":"https://www.nps.gov/wrst/learn/nature/images/grosbeaks.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -111.3957216,35.55741077 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"wupa",
-    "name":"Wupatki",
-    "designation":"National Monument",
-    "birds":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -110.5471695,44.59824417 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"yell",
-    "name":"Yellowstone",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/1EBF7410-1DD8-B71B-0BB875FA01CA2B5F.jpg?width=950&quality=90&mode=crop"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -119.5571873,37.84883288 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"yose",
-    "name":"Yosemite",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/yose/learn/nature/images/northernpygmyowlweb_2.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -142.7960021,65.0935608 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"yuch",
-    "name":"Yukon - Charley Rivers",
-    "designation":"National Preserve",
-    "birds":"https://www.nps.gov/yuch/learn/nature/images/JJS_0912crop.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -113.0265138,37.29839254 ]
-    },
-    "properties": {
-    "marker-color":"#7e7e7e",
-    "marker-size":"medium",
-    "marker-symbol":"circle",
-    "alpha":"zion",
-    "name":"Zion",
-    "designation":"National Park",
-    "birds":"https://www.nps.gov/zion/learn/nature/images/PeregrineHead3.jpg?maxwidth=650&autorotate=false"
-    }
-  }
-]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.67330523,
+          37.5858662
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "abli",
+        "name": "Abraham Lincoln Birthplace",
+        "designation": "National Historical Park",
+        "birds": "https://www.nps.gov/abli/learn/nature/images/two-robins-at-abli(2).jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.753886,
+          42.42170419
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "agfo",
+        "name": "Agate Fossil Beds",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/agfo/learn/nature/images/100_4888.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.075821,
+          29.53539777
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "amis",
+        "name": "Amistad",
+        "designation": "National Recreation Area",
+        "birds": "https://www.nps.gov/amis/learn/nature/images/9dqlm839.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.79856982,
+          37.38022164
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "apco",
+        "name": "Appomattox Court House",
+        "designation": "National Historical Park",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.66045665,
+          46.96240467
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "apis",
+        "name": "Apostle Islands",
+        "designation": "National Lakeshore",
+        "birds": "https://www.nps.gov/apis/learn/nature/images/piping_plovers-6,_Long_I_7-06.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5863666,
+          38.72261844
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "arch",
+        "name": "Arches",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/arch/learn/nature/images/ScrubJay.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.30837178,
+          34.00389998
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "arpo",
+        "name": "Arkansas Post",
+        "designation": "National Memorial",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.24524611,
+          38.05593172
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "asis",
+        "name": "Assateague Island",
+        "designation": "National Seashore",
+        "birds": "https://www.nps.gov/asis/learn/nature/images/gbh.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.9999245,
+          36.83682216
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "azru",
+        "name": "Aztec Ruins",
+        "designation": "National Monument",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.482942,
+          43.68584846
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "badl",
+        "name": "Badlands",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/badl/learn/nature/images/Lee-hornedlark-birds.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3317124,
+          35.77898596
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "band",
+        "name": "Bandelier",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/band/learn/nature/images/western-screech-owl-14.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4266499,
+          38.03977546
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "beol",
+        "name": "Bent's Old Fort",
+        "designation": "National Historic Site",
+        "birds": "https://www.nps.gov/beol/learn/nature/images/sd79rcty.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2297897,
+          29.29817767
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "bibe",
+        "name": "Big Bend",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/bibe/learn/nature/images/Feathers_cballou_2.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.1443943,
+          45.13154227
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "bica",
+        "name": "Bighorn Canyon",
+        "designation": "National Recreation Area",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.08120629,
+          25.97079602
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "bicy",
+        "name": "Big Cypress",
+        "designation": "National Preserve",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6458443,
+          45.64647324
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "biho",
+        "name": "Big Hole",
+        "designation": "National Battlefield",
+        "birds": "https://www.nps.gov/biho/learn/nature/images/spruce_grouse.JPG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.66506688,
+          36.5348388
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "biso",
+        "name": "Big South Fork",
+        "designation": "National River & Recreation Area",
+        "birds": "https://www.nps.gov/biso/learn/nature/images/housewren_imageonly.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3384557,
+          30.42356654
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "bith",
+        "name": "Big Thicket",
+        "designation": "National Preserve",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7242756,
+          38.57779869
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "blca",
+        "name": "Black Canyon Of The Gunnison",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/blca/learn/nature/images/bluebird.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0420999,
+          36.53386746
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "blri",
+        "name": "Blue Ridge",
+        "designation": "Parkway",
+        "birds": "https://www.nps.gov/blri/learn/nature/images/heron-Jim-ruff_1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.98366657,
+          37.56577087
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "blue",
+        "name": "Bluestone",
+        "designation": "National Scenic River",
+        "birds": "https://www.nps.gov/blue/learn/nature/images/web-scarlet-tanager-square.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.93941138,
+          42.30905526
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "boha",
+        "name": "Boston Harbor Islands",
+        "designation": "National Recreation Area",
+        "birds": "https://www.nps.gov/boha/learn/nature/images/tern_nest_1_1.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.1826689,
+          37.58399144
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "brca",
+        "name": "Bryce Canyon",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/brca/learn/nature/images/bird_collage_001.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.90761584,
+          36.04116481
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "buff",
+        "name": "Buffalo",
+        "designation": "National River",
+        "birds": "https://www.nps.gov/buff/learn/nature/images/bald-eagle-II-taken-by-BCHA-30-Oct-2012-near-Carver2.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2415985,
+          32.6722503
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "cabr",
+        "name": "Cabrillo",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/cabr/learn/nature/images/Birds_2.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.04319832,
+          41.92381465
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "caco",
+        "name": "Cape Cod",
+        "designation": "National Seashore",
+        "birds": "https://www.nps.gov/caco/learn/nature/images/incubating.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.5325383,
+          32.99702582
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "cagr",
+        "name": "Casa Grande Ruins",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/cagr/learn/nature/images/PICT0012.JPG?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.65061112,
+          35.41370839
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "caha",
+        "name": "Cape Hatteras",
+        "designation": "National Seashore",
+        "birds": "https://www.nps.gov/caha/learn/nature/images/black_skimmer.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -163.5037786,
+          67.41499986
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "cakr",
+        "name": "Cape Krusenstern",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/cakr/learn/nature/images/swans-flying-over-the-tundra.jpg?maxwidth=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.34319082,
+          34.8267961
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "calo",
+        "name": "Cape Lookout",
+        "designation": "National Seashore",
+        "birds": "https://www.nps.gov/calo/learn/nature/images/IMG_9744RESIZE.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8801624,
+          38.24555783
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "cany",
+        "name": "Canyonlands",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/cany/learn/nature/images/CanyonWren_1.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2470484,
+          38.28216531
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "care",
+        "name": "Capitol Reef",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/care/learn/nature/images/23-10-2-Canyon-Wren.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.46417665,
+          39.65068457
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "cato",
+        "name": "Catoctin Mountain",
+        "designation": "Park",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5529688,
+          32.14089463
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "cave",
+        "name": "Carlsbad Caverns",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/cave/learn/nature/images/bird_greathornedowl_556.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.9710427,
+          36.78171096
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "cavo",
+        "name": "Capulin Volcano",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/cavo/learn/nature/images/Mt-Blue-Bird-2_2.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.845268,
+          37.63545562
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "cebr",
+        "name": "Cedar Breaks",
+        "designation": "National Monument",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.28953177,
+          33.99698333
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "chat",
+        "name": "Chattahoochee River",
+        "designation": "National Recreation Area",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.00715669,
+          34.46050507
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "chic",
+        "name": "Chickasaw",
+        "designation": "National Recreation Area",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.341607,
+          32.01214618
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "chir",
+        "name": "Chiricahua",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/chir/learn/nature/images/Canyon_Wren_-18565207405.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9112735,
+          33.98680093
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "chis",
+        "name": "Channel Islands",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/chis/planyourvisit/images/960-0M9B4450_1.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.89763546,
+          39.3909816
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "choh",
+        "name": "Chesapeake & Ohio Canal",
+        "designation": "National Historical Park",
+        "birds": "https://www.nps.gov/choh/learn/nature/images/2-Red-Tailed-Hawk.JPG?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.7124097,
+          42.0699024
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "ciro",
+        "name": "City Of Rocks",
+        "designation": "National Reserve",
+        "birds": "https://www.nps.gov/ciro/learn/nature/images/1597-Black-throated-Gray-Warbler14b.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.6920709,
+          39.05045016
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "colm",
+        "name": "Colorado",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/colm/learn/nature/images/bird_collage.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.61998123,
+          37.22824435
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "colo",
+        "name": "Colonial",
+        "designation": "National Historical Park",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.2561574,
+          31.34900397
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "coro",
+        "name": "Coronado",
+        "designation": "National Memorial",
+        "birds": "https://www.nps.gov/coro/learn/nature/images/Strickland-s-002.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4791609,
+          43.20345611
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "crmo",
+        "name": "Craters Of The Moon",
+        "designation": "National Monument & Preserve",
+        "birds": "https://www.nps.gov/crmo/learn/nature/images/Bluebird-Doug-Owen_1_1.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6114083,
+          36.62503076
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "cuga",
+        "name": "Cumberland Gap",
+        "designation": "National Historical Park",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.57116722,
+          41.26093905
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "cuva",
+        "name": "Cuyahoga Valley",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/cuva/learn/nature/images/CVNP_spring_bids_Yellow_Warbler12_-Jim-Schmidt_285w.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04998374,
+          38.93596206
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "cwdw",
+        "name": "Civil War Defenses of Washington",
+        "designation": "",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.0526568,
+          63.29777484
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "dena",
+        "name": "Denali",
+        "designation": "National Park & Preserve",
+        "birds": "https://www.nps.gov/dena/learn/nature/images/arctic_tern_banner.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7156341,
+          44.59064655
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "deto",
+        "name": "Devils Tower",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/deto/learn/nature/images/Turkey.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.134395,
+          36.48753731
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "deva",
+        "name": "Death Valley",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/deva/learn/nature/images/IMG_1327.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.94751173,
+          41.12793491
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "dewa",
+        "name": "Delaware Water Gap",
+        "designation": "National Recreation Area",
+        "birds": "https://www.nps.gov/dewa/learn/nature/images/Eagle_Mohr_47-IMG_2953_1.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.9333714,
+          40.50739742
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "dino",
+        "name": "Dinosaur",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/dino/learn/nature/images/Blue-Heron_1.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.87176297,
+          24.64884965
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "drto",
+        "name": "Dry Tortugas",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/drto/learn/nature/images/MaskedBoobyHospitalKey.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.19687517,
+          43.08095081
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "efmo",
+        "name": "Effigy Mounds",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/efmo/learn/nature/images/Hawk-Watch-2.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.26508101,
+          39.79577592
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "eise",
+        "name": "Eisenhower",
+        "designation": "National Historic Site",
+        "birds": "https://www.nps.gov/eise/learn/nature/images/DSCN2115.JPG?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.9950948,
+          34.88422799
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "elma",
+        "name": "El Malpais",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/elma/learn/nature/images/Red-Tail.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.3463984,
+          35.03895916
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "elmo",
+        "name": "El Morro",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/elmo/learn/nature/images/Raven_1.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.88200301,
+          25.37294225
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "ever",
+        "name": "Everglades",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/ever/learn/nature/images/WadingBirds_RodneyCammauf_1.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.00013462,
+          40.69668638
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "fiis",
+        "name": "Fire Island",
+        "designation": "National Seashore",
+        "birds": "https://www.nps.gov/fiis/learn/nature/images/Shorebirds-1.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2803396,
+          38.91260586
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "flfo",
+        "name": "Florissant Fossil Beds",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/flfo/learn/nature/images/woodpecker1_a_1.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.451132,
+          32.14925942
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "fobo",
+        "name": "Fort Bowie",
+        "designation": "National Historic Site",
+        "birds": "https://www.nps.gov/fobo/learn/nature/images/Flycatcher-on-adobe-wall-FOBO_2.jpg?maxwidth=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7624754,
+          41.85635223
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "fobu",
+        "name": "Fossil Butte",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/fobu/learn/nature/images/7z8vfojz.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23567535,
+          29.7121489
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "foma",
+        "name": "Fort Matanzas",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/foma/learn/nature/images/IMG_1029-1-688.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58044165,
+          39.26395314
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "fomc",
+        "name": "Fort McHenry",
+        "designation": "National Monument and Historic Shrine",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.93361681,
+          32.0308274
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "fopu",
+        "name": "Fort Pulaski",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/fopu/learn/nature/images/SAVANNAH_SPARROW_1.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6470428,
+          38.28277118
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "frsp",
+        "name": "Fredericksburg & Spotsylvania",
+        "designation": "National Military Park",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.2917758,
+          67.75961636
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "gaar",
+        "name": "Gates Of The Arctic",
+        "designation": "National Park & Preserve",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9171087,
+          40.56536246
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "gate",
+        "name": "Gateway",
+        "designation": "National Recreation Area",
+        "birds": "https://www.nps.gov/gate/images/Woodcock-2-JBWR-2011_WS.JPG?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.23246758,
+          39.81557366
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "gett",
+        "name": "Gettysburg",
+        "designation": "National Military Park",
+        "birds": "https://www.nps.gov/gett/learn/nature/images/cangooseeggs_birds.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.2706711,
+          33.22715258
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "gicl",
+        "name": "Gila Cliff Dwellings",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/gicl/learn/nature/images/Hummingbird-Rufous-male-with-female.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.8009306,
+          48.68414678
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "glac",
+        "name": "Glacier",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/glac/learn/nature/images/harlequincreek_1.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136.8407579,
+          58.80086718
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "glba",
+        "name": "Glacier Bay",
+        "designation": "National Park & Preserve",
+        "birds": "https://www.nps.gov/glba/learn/nature/images/tufted-puffin.JPG?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7718311,
+          37.51841301
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "glca",
+        "name": "Glen Canyon",
+        "designation": "National Recreation Area",
+        "birds": "https://www.nps.gov/glca/learn/nature/images/bird-cover-pic.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6007386,
+          37.85982543
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "goga",
+        "name": "Golden Gate",
+        "designation": "National Recreation Area",
+        "birds": "https://www.nps.gov/goga/learn/nature/images/quail_web.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01670765,
+          40.69164233
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "gois",
+        "name": "Governors Island",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/gois/learn/nature/images/Web_page_resize_2007_Dec_19_IMG_0144_1.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2579782,
+          38.94617378
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "grba",
+        "name": "Great Basin",
+        "designation": "National Park",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6836024,
+          36.17280161
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "grca",
+        "name": "Grand Canyon",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/common/uploads/grid_builder/imr/crop1_1/07C49597-1DD8-B71B-0B44BD6F73564C45.jpg?width=640&quality=90&mode=crop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.25128326,
+          38.98776107
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "grfa",
+        "name": "Great Falls",
+        "designation": "Park",
+        "birds": "https://www.nps.gov/grfa/learn/nature/images/small-N-River-Trail-Heron-NPS-photo-2.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7467024,
+          46.41358923
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "grko",
+        "name": "Grant-Kohrs Ranch",
+        "designation": "National Historic Site",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5919572,
+          37.79256812
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "grsa",
+        "name": "Great Sand Dunes",
+        "designation": "National Park & Preserve",
+        "birds": "https://www.nps.gov/grsa/learn/nature/images/web285western_tanager-nps-s.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.50818326,
+          35.60116374
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "grsm",
+        "name": "Great Smoky Mountains",
+        "designation": "National Park",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7054666,
+          43.81853565
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "grte",
+        "name": "Grand Teton",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/grte/learn/nature/images/shcrane.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.885527,
+          31.92304462
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "gumo",
+        "name": "Guadalupe Mountains",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/gumo/learn/nature/images/08k4oz2z.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.74088546,
+          39.31865949
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "hafe",
+        "name": "Harpers Ferry",
+        "designation": "National Historical Park",
+        "birds": "https://www.nps.gov/hafe/learn/nature/images/greatblueheron200.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9443074,
+          42.79074114
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "hafo",
+        "name": "Hagerman Fossil Beds",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/hafo/learn/nature/images/Blue-Heron.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58781182,
+          39.4175296
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "hamp",
+        "name": "Hampton",
+        "designation": "National Historic Site",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.83387781,
+          40.28802381
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "home",
+        "name": "Homestead",
+        "designation": "National Monument of America",
+        "birds": "https://www.nps.gov/home/learn/nature/images/turkey8.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.06332936,
+          34.52414366
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "hosp",
+        "name": "Hot Springs",
+        "designation": "National Park",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.09647445,
+          41.63765525
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "indu",
+        "name": "Indiana Dunes",
+        "designation": "National Lakeshore",
+        "birds": "https://www.nps.gov/indu/learn/nature/images/bwaixr6s.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.82780657,
+          48.01145819
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "isro",
+        "name": "Isle Royale",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/isro/learn/nature/images/white-throated_sparrow_CROP.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.75469561,
+          37.20027185
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "jame",
+        "name": "Historic Jamestowne",
+        "designation": "Part of Colonial National Historical Park",
+        "birds": "https://www.nps.gov/jame/learn/nature/images/EaglesNest_500X300.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.829994,
+          43.73102945
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "jeca",
+        "name": "Jewel Cave",
+        "designation": "National Monument",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8811491,
+          44.62566508
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "joda",
+        "name": "John Day Fossil Beds",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/joda/learn/nature/images/kestrel285wide.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.8398125,
+          33.91418525
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "jotr",
+        "name": "Joshua Tree",
+        "designation": "National Park",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.0306932,
+          19.68083237
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "kaho",
+        "name": "Kaloko-Honok?hau",
+        "designation": "National Historical Park",
+        "birds": "https://www.nps.gov/kaho/learn/nature/images/IMG_0125x415.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94340616,
+          38.91284776
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "keaq",
+        "name": "Kenilworth Park & Aquatic Gardens",
+        "designation": "",
+        "birds": "https://www.nps.gov/keaq/learn/nature/images/IMG_6159.JPG?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.106502,
+          59.81804414
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "kefj",
+        "name": "Kenai Fjords",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/kefj/learn/nature/images/KEFJ_Pfeiffenberger_0175-415PIX_1360530_2.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.2618535,
+          59.61042373
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "klgo",
+        "name": "Klondike Gold Rush",
+        "designation": "National Historical Park",
+        "birds": "https://www.nps.gov/klgo/learn/nature/images/Eagle-Dyea-2015-688jpg.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.2002293,
+          67.35631336
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "kova",
+        "name": "Kobuk Valley",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/kova/learn/nature/images/birds-taking-off.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5172189,
+          41.75915823
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "labe",
+        "name": "Lava Beds",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/labe/learn/nature/images/meadowlark.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -153.55535,
+          60.57405857
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "lacl",
+        "name": "Lake Clark",
+        "designation": "National Park & Preserve",
+        "birds": "https://www.nps.gov/lacl/learn/nature/images/Image-w-cred-cap_-1200w_-Birds-page_-Merganser-Family_2.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3469067,
+          35.96622528
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "lake",
+        "name": "Lake Mead",
+        "designation": "National Recreation Area",
+        "birds": "https://www.nps.gov/lake/learn/nature/images/Egret-Bird-Cover-Image.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6820066,
+          35.61926203
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "lamr",
+        "name": "Lake Meredith",
+        "designation": "National Recreation Area",
+        "birds": "https://www.nps.gov/lamr/learn/nature/images/Turkeys-Along-Road-_small.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4075993,
+          40.49354575
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "lavo",
+        "name": "Lassen Volcanic",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/lavo/learn/nature/images/bufflehead_smaller.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.9638583,
+          46.21178735
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "lewi",
+        "name": "Lewis and Clark",
+        "designation": "National Historical Park",
+        "birds": "https://www.nps.gov/lewi/learn/nature/images/SunsetBeach_1.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.64513397,
+          39.79715642
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "liho",
+        "name": "Lincoln Home",
+        "designation": "National Historic Site",
+        "birds": "https://www.nps.gov/liho/learn/nature/images/amrobinhdr_1.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.12636956,
+          42.37698854
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "long",
+        "name": "Longfellow House Washington's Headquarters",
+        "designation": "National Historic Site",
+        "birds": "https://www.nps.gov/long/learn/nature/images/red_tailed_hawk.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.60692433,
+          30.2519655
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "lyjo",
+        "name": "Lyndon B Johnson",
+        "designation": "National Historical Park",
+        "birds": "https://www.nps.gov/lyjo/learn/nature/images/Scissortailed.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.53424638,
+          43.63348732
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "mabi",
+        "name": "Marsh - Billings - Rockefeller",
+        "designation": "National Historical Park",
+        "birds": "https://www.nps.gov/mabi/learn/nature/images/Cedar-waxwing-400x300.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13090198,
+          37.19760458
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "maca",
+        "name": "Mammoth Cave",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/maca/learn/nature/images/m7mhg8c7.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5353468,
+          38.81710063
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "mana",
+        "name": "Manassas",
+        "designation": "National Battlefield Park",
+        "birds": "https://www.nps.gov/mana/learn/nature/images/Bird_goose_Gorsira.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4624032,
+          37.23908345
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "meve",
+        "name": "Mesa Verde",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/meve/learn/nature/images/scrubjay_birdlist_250px.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.04689808,
+          44.87447858
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "miss",
+        "name": "Mississippi",
+        "designation": "National River and Recreation Area",
+        "birds": "https://www.nps.gov/miss/learn/nature/images/GordonDietzman-20160716-5788.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.59077822,
+          42.7882189
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "mnrr",
+        "name": "Missouri",
+        "designation": "National Recreational River",
+        "birds": "https://www.nps.gov/mnrr/learn/nature/images/hummer_1.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8147857,
+          34.62237771
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "moca",
+        "name": "Montezuma Castle",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/moca/learn/nature/images/gambelsquailSMALL.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5168258,
+          35.12485941
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "moja",
+        "name": "Mojave",
+        "designation": "National Preserve",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7043885,
+          46.86075416
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "mora",
+        "name": "Mount Rainier",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/mora/learn/nature/images/spottedowl_09_sml.jpeg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.53455122,
+          40.7650755
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "morr",
+        "name": "Morristown",
+        "designation": "National Historical Park",
+        "birds": "https://www.nps.gov/morr/learn/nature/images/Picture3-17-035small.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4525186,
+          43.88037021
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "moru",
+        "name": "Mount Rushmore",
+        "designation": "National Memorial",
+        "birds": "https://www.nps.gov/moru/learn/nature/images/white-breasted-nuthatch-Jan-2008-003-960-wide.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5808047,
+          37.89658027
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "muwo",
+        "name": "Muir Woods",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/muwo/learn/nature/images/spot_owl-head_1.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.03092439,
+          33.78002293
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "natr",
+        "name": "Natchez Trace",
+        "designation": "Parkway",
+        "birds": "https://www.nps.gov/natr/learn/nature/images/Wood-Duck.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.8761258,
+          46.07019093
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "nepe",
+        "name": "Nez Perce",
+        "designation": "National Historical Park",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.99956002,
+          37.86878554
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "neri",
+        "name": "New River Gorge",
+        "designation": "National River",
+        "birds": "https://www.nps.gov/neri/learn/nature/images/LEM-2July-4.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.91870646,
+          42.79413083
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "niob",
+        "name": "Niobrara",
+        "designation": "National Scenic River",
+        "birds": "https://www.nps.gov/niob/learn/nature/images/baldeagle.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.01636079,
+          34.14273587
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "nisi",
+        "name": "Ninety Six",
+        "designation": "National Historic Site",
+        "birds": "https://www.nps.gov/nisi/learn/nature/images/Hermit-Thrush-Rusty-Wilson.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.831694,
+          68.01027053
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "noat",
+        "name": "Noatak",
+        "designation": "National Preserve",
+        "birds": "https://www.nps.gov/noat/learn/nature/images/Arcticternnoatak.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2069423,
+          48.71171756
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "noca",
+        "name": "North Cascades",
+        "designation": "National Park",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -169.8503777,
+          -14.22865935
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "npsa",
+        "name": "National Park of American Samoa",
+        "designation": "",
+        "birds": "https://www.nps.gov/npsa/learn/nature/images/King-Fisher.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.59791705,
+          36.1056026
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "obed",
+        "name": "Obed",
+        "designation": "Wild & Scenic River",
+        "birds": "https://www.nps.gov/obed/learn/nature/images/red-shouldered-hawk-180.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.6663848,
+          47.80392754
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "olym",
+        "name": "Olympic",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/olym/learn/nature/images/bluegrouse150.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.4018586,
+          42.10319143
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "orca",
+        "name": "Oregon Caves",
+        "designation": "National Monument & Preserve",
+        "birds": "https://www.nps.gov/orca/images/Steller-s-Jay.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8573314,
+          32.03585543
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "orpi",
+        "name": "Organ Pipe Cactus",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/orpi/learn/nature/images/body_hummingbird2.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.25709817,
+          37.13968894
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "ozar",
+        "name": "Ozark",
+        "designation": "National Scenic Riverways",
+        "birds": "https://www.nps.gov/ozar/learn/nature/images/barred_owl_3.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.46296072,
+          26.02387351
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "paal",
+        "name": "Palo Alto Battlefield",
+        "designation": "National Historical Park",
+        "birds": "https://www.nps.gov/paal/learn/nature/images/harrishawk2162011.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.35901135,
+          27.05381186
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "pais",
+        "name": "Padre Island",
+        "designation": "National Seashore",
+        "birds": "https://www.nps.gov/pais/learn/nature/images/Skimmer-Black-IMG_6556A-Phil-Ziegler-NPS.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.7877678,
+          34.98387664
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "pefo",
+        "name": "Petrified Forest",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/pefo/learn/nature/images/Horned-Lark-8-resized.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.47594865,
+          37.19109957
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "pete",
+        "name": "Petersburg",
+        "designation": "National Battlefield",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1813607,
+          36.49029208
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "pinn",
+        "name": "Pinnacles",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/pinn/learn/nature/images/California-Quail-Walk-1.jpg?maxwidth=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.32475523,
+          44.01351958
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "pipe",
+        "name": "Pipestone",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/pipe/learn/nature/images/smallkingbird_2.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.31628733,
+          46.56435642
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "piro",
+        "name": "Pictured Rocks",
+        "designation": "National Lakeshore",
+        "birds": "https://www.nps.gov/piro/learn/nature/images/SnowyOwl.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06659744,
+          38.68679958
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "pisc",
+        "name": "Piscataway",
+        "designation": "Park",
+        "birds": "https://www.nps.gov/pisc/learn/nature/images/osprey-1-e.JPG?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7398567,
+          36.86282666
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "pisp",
+        "name": "Pipe Spring",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/pisp/learn/nature/images/Spotted-Towhee-12-09270px.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8797804,
+          38.05511241
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "pore",
+        "name": "Point Reyes",
+        "designation": "National Seashore",
+        "birds": "https://www.nps.gov/pore/learn/nature/images/pic_commonmurre2_285x190.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.38910997,
+          38.58589108
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "prwi",
+        "name": "Prince William Forest",
+        "designation": "Park",
+        "birds": "https://www.nps.gov/prwi/learn/nature/images/Hooded-Warbler.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0318129,
+          41.37237268
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "redw",
+        "name": "Redwood",
+        "designation": "National and State Parks",
+        "birds": "https://www.nps.gov/redw/learn/nature/images/Pigeon-Guillemots.gif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.29107785,
+          37.48774472
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "rich",
+        "name": "Richmond",
+        "designation": "National Battlefield Park",
+        "birds": "https://www.nps.gov/rich/learn/nature/images/Great-Egret-Ardea-alba-for-web.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6972879,
+          40.3556924
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "romo",
+        "name": "Rocky Mountain",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/romo/learn/nature/images/Junco_2_1.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.81560314,
+          34.97402063
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "ruca",
+        "name": "Russell Cave",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/ruca/learn/nature/images/blue-jay-2.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.36126685,
+          45.70019235
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "sacn",
+        "name": "Saint Croix",
+        "designation": "National Scenic Riverway",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.37333969,
+          43.4997238
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "saga",
+        "name": "Saint-Gaudens",
+        "designation": "National Historic Site",
+        "birds": "https://www.nps.gov/saga/learn/nature/images/Green_Heron.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7574974,
+          32.20909636
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "sagu",
+        "name": "Saguaro",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/sagu/learn/nature/images/pecker.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.49686438,
+          40.88579128
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "sahi",
+        "name": "Sagamore Hill",
+        "designation": "National Historic Site",
+        "birds": "https://www.nps.gov/sahi/learn/nature/images/Kingbird2.JPG?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0076953,
+          42.46830664
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "sair",
+        "name": "Saugus Iron Works",
+        "designation": "National Historic Site",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0610277,
+          48.51241933
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "sajh",
+        "name": "San Juan Island",
+        "designation": "National Historical Park",
+        "birds": "https://www.nps.gov/sajh/learn/nature/images/Northern-Harrier-Male.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7708619,
+          34.09777606
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "samo",
+        "name": "Santa Monica Mountains",
+        "designation": "National Recreation Area",
+        "birds": "https://www.nps.gov/samo/learn/nature/images/Male_Anna-s_Humbinbird_by_John_Emerson_1.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.5169542,
+          38.56414189
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "sand",
+        "name": "Sand Creek Massacre",
+        "designation": "National Historic Site",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.2050309,
+          34.35423203
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "sapu",
+        "name": "Salinas Pueblo Missions",
+        "designation": "National Monument",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.587429,
+          36.71277299
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "seki",
+        "name": "Sequoia & Kings Canyon",
+        "designation": "National Parks",
+        "birds": "https://www.nps.gov/seki/learn/nature/images/imgCaQu0023_1.JPG?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.46907715,
+          38.49236644
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "shen",
+        "name": "Shenandoah",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/common/uploads/grid_builder/ner/crop16_9/005ADACD-1DD8-B71B-0B21547D1D6C085A.jpg?width=307&quality=90&mode=crop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3421072,
+          35.13850907
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "shil",
+        "name": "Shiloh",
+        "designation": "National Military Park",
+        "birds": "https://www.nps.gov/shil/learn/nature/images/BirdEggs.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3156876,
+          57.04718173
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "sitk",
+        "name": "Sitka",
+        "designation": "National Historical Park",
+        "birds": "https://www.nps.gov/sitk/learn/nature/images/puffin-for-website.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.02706591,
+          44.92844962
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "slbe",
+        "name": "Sleeping Bear Dunes",
+        "designation": "National Lakeshore",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.43078399,
+          35.87608652
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "stri",
+        "name": "Stones River",
+        "designation": "National Battlefield",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4300083,
+          47.17777274
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "thro",
+        "name": "Theodore Roosevelt",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/npgallery/GetAsset/02701214-155D-4519-3EE7462D211C8CF9/Thumb/XLarge?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7093944,
+          40.44039719
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "tica",
+        "name": "Timpanogos Cave",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/tica/learn/nature/images/l3w4vyfk.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.49950104,
+          30.47251894
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "timu",
+        "name": "Timucuan",
+        "designation": "Ecological & Historic Preserve",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1135627,
+          33.64842945
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "tont",
+        "name": "Tonto",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/tont/learn/nature/images/Curvebill3-adj.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0279069,
+          34.77296377
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "tuzi",
+        "name": "Tuzigoot",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/tuzi/learn/nature/images/20090706-Photographer-Unknown-Common-Blackhawk-Fledgling-3_Cropped.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.44581889,
+          40.10054985
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "vafo",
+        "name": "Valley Forge",
+        "designation": "National Historical Park",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.85030186,
+          32.3621286
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "vick",
+        "name": "Vicksburg",
+        "designation": "National Military Park",
+        "birds": "https://www.nps.gov/vick/learn/nature/images/red-winged-blackbird.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.70445143,
+          35.62083963
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "waba",
+        "name": "Washita Battlefield",
+        "designation": "National Historic Site",
+        "birds": "https://www.nps.gov/waba/learn/nature/images/Scissor-Tail-fly-Catcher.JPG?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.45452542,
+          41.25886268
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "wefa",
+        "name": "Weir Farm",
+        "designation": "National Historic Site",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6022657,
+          40.61359941
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "whis",
+        "name": "Whiskeytown",
+        "designation": "National Recreation Area",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4629388,
+          46.04119286
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "whmi",
+        "name": "Whitman Mission",
+        "designation": "National Historic Site",
+        "birds": "https://www.nps.gov/whmi/learn/nature/images/redwinged.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3333461,
+          32.77907858
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "whsa",
+        "name": "White Sands",
+        "designation": "National Monument",
+        "birds": "https://www.nps.gov/whsa/learn/nature/images/WHSA_BarnSwallow-thumbnail_1.jpg?maxwidth=650&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.265089,
+          38.93854526
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "wotr",
+        "name": "Wolf Trap National Park for the Performing Arts",
+        "designation": "",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142.6028439,
+          61.4182147
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "wrst",
+        "name": "Wrangell - St Elias",
+        "designation": "National Park & Preserve",
+        "birds": "https://www.nps.gov/wrst/learn/nature/images/grosbeaks.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3957216,
+          35.55741077
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "wupa",
+        "name": "Wupatki",
+        "designation": "National Monument",
+        "birds": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5471695,
+          44.59824417
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "yell",
+        "name": "Yellowstone",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/common/uploads/grid_builder/imr/crop16_9/1EBF7410-1DD8-B71B-0BB875FA01CA2B5F.jpg?width=950&quality=90&mode=crop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5571873,
+          37.84883288
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "yose",
+        "name": "Yosemite",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/yose/learn/nature/images/northernpygmyowlweb_2.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142.7960021,
+          65.0935608
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "yuch",
+        "name": "Yukon - Charley Rivers",
+        "designation": "National Preserve",
+        "birds": "https://www.nps.gov/yuch/learn/nature/images/JJS_0912crop.jpg?maxwidth=1200&maxheight=1200&autorotate=false"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.0265138,
+          37.29839254
+        ]
+      },
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "alpha": "zion",
+        "name": "Zion",
+        "designation": "National Park",
+        "birds": "https://www.nps.gov/zion/learn/nature/images/PeregrineHead3.jpg?maxwidth=650&autorotate=false"
+      }
+    }
+  ]
 }
