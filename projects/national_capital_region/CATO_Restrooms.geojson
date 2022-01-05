@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#5900ff",
+        "marker-size": "large",
+        "marker-symbol": "toilets",
+        "name": "Hog Rock Parking Area Restroom",
+        "url": "https://www.nps.gov/places/hog-rock-parking-area-restroom.htm",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/D42D9C6C-BF35-83C1-FDA324E7079702DE.jpg?width=300&quality=90&mode=crop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.453965,
+          39.646684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#5900ff",
+        "marker-size": "large",
+        "marker-symbol": "toilets",
+        "name": "Chestnut Picnic Area Restrooms",
+        "url": "https://www.nps.gov/places/chestnut-picnic-area-restrooms.htm",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/DCAC6ADE-EC79-FA10-5C6EFC8BEF835FFE.jpg?width=300&quality=90&mode=crop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.478311,
+          39.647463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#5900ff",
+        "marker-size": "large",
+        "marker-symbol": "toilets",
+        "name": "Owens Creek Picnic Area Restrooms",
+        "url": "https://www.nps.gov/places/owens-creek-picnic-area-restrooms.htm",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/D42D9C6C-BF35-83C1-FDA324E7079702DE.jpg?width=300&quality=90&mode=crop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.487956,
+          39.652737
+        ]
+      }
+    }
+  ]
+}
