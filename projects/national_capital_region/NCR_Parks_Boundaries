@@ -1,0 +1,1438 @@
+{
+  "currentVersion" : 10.81, 
+  "id" : 0, 
+  "name" : "NCA Visitor Use and Management Boundary", 
+  "type" : "Feature Layer", 
+  "serviceItemId" : "e88ec6c7acdc42b7ac94e6da038d2f31", 
+  "cacheMaxAge" : 30, 
+  "isView" : true, 
+  "isUpdatableView" : true, 
+  "sourceSchemaChangesAllowed" : true, 
+  "displayField" : "GROUPNAME", 
+  "description" : "Boundary, Visitor Use and Management", 
+  "copyrightText" : "", 
+  "defaultVisibility" : true, 
+  "editFieldsInfo" : {
+    "creationDateField" : "CreationDate", 
+    "creatorField" : "Creator", 
+    "editDateField" : "EditDate_1", 
+    "editorField" : "Editor"
+  }, 
+  "editingInfo" : {
+    "lastEditDate" : 1647551984751
+  }, 
+  "relationships" : [], 
+  "isDataVersioned" : false, 
+  "hasContingentValuesDefinition" : false, 
+  "supportsAppend" : true, 
+  "supportsCalculate" : true, 
+  "supportsASyncCalculate" : true, 
+  "supportsTruncate" : false, 
+  "supportsAttachmentsByUploadId" : true, 
+  "supportsAttachmentsResizing" : true, 
+  "supportsRollbackOnFailureParameter" : true, 
+  "supportsStatistics" : true, 
+  "supportsExceedsLimitStatistics" : true, 
+  "supportsAdvancedQueries" : true, 
+  "supportsValidateSql" : true, 
+  "supportsCoordinatesQuantization" : true, 
+  "supportsLayerOverrides" : true, 
+  "supportsTilesAndBasicQueriesMode" : true, 
+  "supportsFieldDescriptionProperty" : true, 
+  "supportsQuantizationEditMode" : true, 
+  "supportsApplyEditsWithGlobalIds" : true, 
+  "supportsMultiScaleGeometry" : true, 
+  "supportsReturningQueryGeometry" : true, 
+  "hasGeometryProperties" : true, 
+  "geometryProperties" : 
+  {
+    "shapeAreaFieldName" : "Shape__Area", 
+    "shapeLengthFieldName" : "Shape__Length", 
+    "units" : "esriFeet"
+  }, 
+  "advancedQueryCapabilities" : {
+    "supportsPagination" : true, 
+    "supportsQueryAttachmentsCountOnly" : true, 
+    "supportsPaginationOnAggregatedQueries" : true, 
+    "supportsQueryRelatedPagination" : true, 
+    "supportsQueryWithDistance" : true, 
+    "supportsReturningQueryExtent" : true, 
+    "supportsStatistics" : true, 
+    "supportsOrderBy" : true, 
+    "supportsDistinct" : true, 
+    "supportsQueryWithResultType" : true, 
+    "supportsSqlExpression" : true, 
+    "supportsAdvancedQueryRelated" : true, 
+    "supportsCountDistinct" : true, 
+    "supportsPercentileStatistics" : true, 
+    "supportsSpatialAggregationStatistics" : true, 
+    "supportedSpatialAggregationStatistics" : [
+      "EnvelopeAggregate", 
+      "CentroidAggregate", 
+      "ConvexHullAggregate"
+    ], 
+    "supportsLod" : true, 
+    "supportsQueryWithLodSR" : false, 
+    "supportedLodTypes" : [
+      "geohash"
+    ], 
+    "supportsReturningGeometryCentroid" : true, 
+    "supportsReturningGeometryProperties" : true, 
+    "supportsQueryWithDatumTransformation" : true, 
+    "supportsHavingClause" : true, 
+    "supportsOutFieldSQLExpression" : true, 
+    "supportsMaxRecordCountFactor" : true, 
+    "supportsTopFeaturesQuery" : true, 
+    "supportsDisjointSpatialRel" : true, 
+    "supportsQueryWithCacheHint" : true, 
+    "supportsQueryAnalytic" : true
+  }, 
+  "advancedQueryAnalyticCapabilities" : {
+    "supportsLinearRegression" : true, 
+    "supportsAsync" : true, 
+    "supportsPercentileAnalytic" : true
+  }, 
+  "advancedEditingCapabilities" : {
+    "supportedSqlFormatsInCalculate" : [
+      "standard"
+    ], 
+    "supportsAsyncApplyEdits" : true, 
+    "supportsReturnEditResults" : true
+  }, 
+  "infoInEstimates" : [
+    "extent", 
+    "count"
+  ], 
+  "useStandardizedQueries" : true, 
+  "geometryType" : "esriGeometryPolygon", 
+  "minScale" : 0, 
+  "maxScale" : 0, 
+  "extent" : {
+    "xmin" : 804677.34602929652, 
+    "ymin" : 316907.69136153959, 
+    "xmax" : 1382523.9011966798, 
+    "ymax" : 744857.91466378036, 
+    "spatialReference" : {
+      "wkid" : 102685, 
+      "latestWkid" : 2248
+    }
+  }, 
+  "drawingInfo":{"renderer":{"type":"simple","symbol":{"type":"esriSFS","style":"esriSFSSolid","color":[252,207,213,0],"outline":{"type":"esriSLS","style":"esriSLSSolid","color":[56,168,0,255],"width":2}}},"scaleSymbols":true,"transparency":0,"labelingInfo":null}, 
+  "allowGeometryUpdates" : true, 
+  "hasAttachments" : false, 
+  "viewSourceHasAttachments" : false, 
+  "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText", 
+  "hasMetadata" : true, 
+  "hasM" : false, 
+  "hasZ" : false, 
+  "objectIdField" : "OBJECTID", 
+  "uniqueIdField" : 
+  {
+    "name" : "OBJECTID", 
+    "isSystemMaintained" : true
+  }, 
+  "globalIdField" : "GlobalID", 
+  "typeIdField" : "", 
+  "fields" : [
+    {
+      "name" : "OBJECTID", 
+      "type" : "esriFieldTypeOID", 
+      "alias" : "OBJECTID", 
+      "sqlType" : "sqlTypeOther", 
+      "nullable" : false, 
+      "editable" : false, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "STATE", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "STATE", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 2, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "REGIONCODE", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "REGIONCODE", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 4, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : 
+      {
+        "type" : "codedValue", 
+        "name" : "DOM_REGIONCODE_NPS2016", 
+        "codedValues" : [
+          {
+            "name" : "AKR", 
+            "code" : "AKR"
+          }, 
+          {
+            "name" : "IMR", 
+            "code" : "IMR"
+          }, 
+          {
+            "name" : "MWR", 
+            "code" : "MWR"
+          }, 
+          {
+            "name" : "NCR", 
+            "code" : "NCR"
+          }, 
+          {
+            "name" : "NER", 
+            "code" : "NER"
+          }, 
+          {
+            "name" : "PWR", 
+            "code" : "PWR"
+          }, 
+          {
+            "name" : "SER", 
+            "code" : "SER"
+          }, 
+          {
+            "name" : "WASO", 
+            "code" : "WASO"
+          }
+        ]
+      }, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "GROUPCODE", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "GROUPCODE", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 10, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : 
+      {
+        "type" : "codedValue", 
+        "name" : "NCR_GroupCodes", 
+        "codedValues" : [
+          {
+            "name" : "ANTI", 
+            "code" : "ANTI"
+          }, 
+          {
+            "name" : "APPA", 
+            "code" : "APPA"
+          }, 
+          {
+            "name" : "CATO", 
+            "code" : "CATO"
+          }, 
+          {
+            "name" : "CHOH", 
+            "code" : "CHOH"
+          }, 
+          {
+            "name" : "GWMP", 
+            "code" : "GWMP"
+          }, 
+          {
+            "name" : "HAFE", 
+            "code" : "HAFE"
+          }, 
+          {
+            "name" : "MANA", 
+            "code" : "MANA"
+          }, 
+          {
+            "name" : "MONO", 
+            "code" : "MONO"
+          }, 
+          {
+            "name" : "NACE", 
+            "code" : "NACE"
+          }, 
+          {
+            "name" : "NAMA", 
+            "code" : "NAMA"
+          }, 
+          {
+            "name" : "NCA", 
+            "code" : "NCA"
+          }, 
+          {
+            "name" : "POHE", 
+            "code" : "POHE"
+          }, 
+          {
+            "name" : "PRWI", 
+            "code" : "PRWI"
+          }, 
+          {
+            "name" : "ROCR", 
+            "code" : "ROCR"
+          }, 
+          {
+            "name" : "WHHO", 
+            "code" : "WHHO"
+          }, 
+          {
+            "name" : "WOTR", 
+            "code" : "WOTR"
+          }
+        ]
+      }, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "GROUPNAME", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "GROUPNAME", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 254, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : 
+      {
+        "type" : "codedValue", 
+        "name" : "NCR_GroupNames", 
+        "codedValues" : [
+          {
+            "name" : "Antietam National Battlefield", 
+            "code" : "Antietam National Battlefield"
+          }, 
+          {
+            "name" : "Appalachian National Scenic Trail", 
+            "code" : "Appalachian National Scenic Trail"
+          }, 
+          {
+            "name" : "Catoctin Mountain Park", 
+            "code" : "Catoctin Mountain Park"
+          }, 
+          {
+            "name" : "Chesapeake and Ohio Canal National Historical Park", 
+            "code" : "Chesapeake and Ohio Canal National Historical Park"
+          }, 
+          {
+            "name" : "Fort Washington and Piscataway Parks", 
+            "code" : "Fort Washington and Piscataway Parks"
+          }, 
+          {
+            "name" : "George Washington Memorial Parkway", 
+            "code" : "George Washington Memorial Parkway"
+          }, 
+          {
+            "name" : "Greenbelt Park & Baltimore-Washington Parkway", 
+            "code" : "Greenbelt Park & Baltimore-Washington Parkway"
+          }, 
+          {
+            "name" : "Harpers Ferry National Historial Park", 
+            "code" : "Harpers Ferry National Historial Park"
+          }, 
+          {
+            "name" : "Manassas National Battlefield Park", 
+            "code" : "Manassas National Battlefield Park"
+          }, 
+          {
+            "name" : "Monocacy National Battlefield", 
+            "code" : "Monocacy National Battlefield"
+          }, 
+          {
+            "name" : "National Capital Parks - East", 
+            "code" : "National Capital Parks - East"
+          }, 
+          {
+            "name" : "National Mall and Memorial Parks", 
+            "code" : "National Mall and Memorial Parks"
+          }, 
+          {
+            "name" : "Potomac Heritage National Scenic Trail", 
+            "code" : "Potomac Heritage National Scenic Trail"
+          }, 
+          {
+            "name" : "President's Park (White House)", 
+            "code" : "President's Park (White House)"
+          }, 
+          {
+            "name" : "Prince William Forest Park", 
+            "code" : "Prince William Forest Park"
+          }, 
+          {
+            "name" : "Region 1 - National Capital Area", 
+            "code" : "Region 1 - National Capital Area"
+          }, 
+          {
+            "name" : "Rock Creek Park", 
+            "code" : "Rock Creek Park"
+          }, 
+          {
+            "name" : "Wolf Trap National Park for the Performing Arts", 
+            "code" : "Wolf Trap National Park for the Performing Arts"
+          }
+        ]
+      }, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "UNITCODE", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "UNITCODE", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 10, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : 
+      {
+        "type" : "codedValue", 
+        "name" : "NCR_UnitCodes", 
+        "codedValues" : [
+          {
+            "name" : "AFAM", 
+            "code" : "AFAM"
+          }, 
+          {
+            "name" : "ANAC", 
+            "code" : "ANAC"
+          }, 
+          {
+            "name" : "ANCM", 
+            "code" : "ANCM"
+          }, 
+          {
+            "name" : "ANTI", 
+            "code" : "ANTI"
+          }, 
+          {
+            "name" : "ARHO", 
+            "code" : "ARHO"
+          }, 
+          {
+            "name" : "BATT", 
+            "code" : "BATT"
+          }, 
+          {
+            "name" : "BAWA", 
+            "code" : "BAWA"
+          }, 
+          {
+            "name" : "BEPA", 
+            "code" : "BEPA"
+          }, 
+          {
+            "name" : "CAHI", 
+            "code" : "CAHI"
+          }, 
+          {
+            "name" : "CATO", 
+            "code" : "CATO"
+          }, 
+          {
+            "name" : "CAWO", 
+            "code" : "CAWO"
+          }, 
+          {
+            "name" : "CHOH", 
+            "code" : "CHOH"
+          }, 
+          {
+            "name" : "CLBA", 
+            "code" : "CLBA"
+          }, 
+          {
+            "name" : "CLMO", 
+            "code" : "CLMO"
+          }, 
+          {
+            "name" : "COGA", 
+            "code" : "COGA"
+          }, 
+          {
+            "name" : "CUE", 
+            "code" : "CUE"
+          }, 
+          {
+            "name" : "FDRM", 
+            "code" : "FDRM"
+          }, 
+          {
+            "name" : "FOCI", 
+            "code" : "FOCI"
+          }, 
+          {
+            "name" : "FODU", 
+            "code" : "FODU"
+          }, 
+          {
+            "name" : "FOFO", 
+            "code" : "FOFO"
+          }, 
+          {
+            "name" : "FOTH", 
+            "code" : "FOTH"
+          }, 
+          {
+            "name" : "FOWA", 
+            "code" : "FOWA"
+          }, 
+          {
+            "name" : "FRDO", 
+            "code" : "FRDO"
+          }, 
+          {
+            "name" : "FRSC", 
+            "code" : "FRSC"
+          }, 
+          {
+            "name" : "GEMM", 
+            "code" : "GEMM"
+          }, 
+          {
+            "name" : "GLEC", 
+            "code" : "GLEC"
+          }, 
+          {
+            "name" : "GREE", 
+            "code" : "GREE"
+          }, 
+          {
+            "name" : "GRFA", 
+            "code" : "GRFA"
+          }, 
+          {
+            "name" : "GWMP", 
+            "code" : "GWMP"
+          }, 
+          {
+            "name" : "HAFE", 
+            "code" : "HAFE"
+          }, 
+          {
+            "name" : "HAHA", 
+            "code" : "HAHA"
+          }, 
+          {
+            "name" : "HFC", 
+            "code" : "HFC"
+          }, 
+          {
+            "name" : "JOER", 
+            "code" : "JOER"
+          }, 
+          {
+            "name" : "KEAQ", 
+            "code" : "KEAQ"
+          }, 
+          {
+            "name" : "KWVM", 
+            "code" : "KWVM"
+          }, 
+          {
+            "name" : "LIME", 
+            "code" : "LIME"
+          }, 
+          {
+            "name" : "LYBA", 
+            "code" : "LYBA"
+          }, 
+          {
+            "name" : "MABE", 
+            "code" : "MABE"
+          }, 
+          {
+            "name" : "MALL", 
+            "code" : "MALL"
+          }, 
+          {
+            "name" : "MANA", 
+            "code" : "MANA"
+          }, 
+          {
+            "name" : "MLKJ", 
+            "code" : "MLKJ"
+          }, 
+          {
+            "name" : "MONO", 
+            "code" : "MONO"
+          }, 
+          {
+            "name" : "NACE", 
+            "code" : "NACE"
+          }, 
+          {
+            "name" : "NACP", 
+            "code" : "NACP"
+          }, 
+          {
+            "name" : "NAMA", 
+            "code" : "NAMA"
+          }, 
+          {
+            "name" : "NCA", 
+            "code" : "NCA"
+          }, 
+          {
+            "name" : "OXHI", 
+            "code" : "OXHI"
+          }, 
+          {
+            "name" : "PAAV", 
+            "code" : "PAAV"
+          }, 
+          {
+            "name" : "PISC", 
+            "code" : "PISC"
+          }, 
+          {
+            "name" : "POHE", 
+            "code" : "POHE"
+          }, 
+          {
+            "name" : "PRWI", 
+            "code" : "PRWI"
+          }, 
+          {
+            "name" : "ROCR", 
+            "code" : "ROCR"
+          }, 
+          {
+            "name" : "STMA", 
+            "code" : "STMA"
+          }, 
+          {
+            "name" : "SUIT", 
+            "code" : "SUIT"
+          }, 
+          {
+            "name" : "THIS", 
+            "code" : "THIS"
+          }, 
+          {
+            "name" : "THJE", 
+            "code" : "THJE"
+          }, 
+          {
+            "name" : "USPP", 
+            "code" : "USPP"
+          }, 
+          {
+            "name" : "VIVE", 
+            "code" : "VIVE"
+          }, 
+          {
+            "name" : "WAMO", 
+            "code" : "WAMO"
+          }, 
+          {
+            "name" : "WHHO", 
+            "code" : "WHHO"
+          }, 
+          {
+            "name" : "WOTR", 
+            "code" : "WOTR"
+          }, 
+          {
+            "name" : "WWII", 
+            "code" : "WWII"
+          }
+        ]
+      }, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "UNITNAME", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "UNITNAME", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 254, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : 
+      {
+        "type" : "codedValue", 
+        "name" : "NCR_UnitNames", 
+        "codedValues" : [
+          {
+            "name" : "African American Civil War Memorial", 
+            "code" : "African American Civil War Memorial"
+          }, 
+          {
+            "name" : "Anacostia Park", 
+            "code" : "Anacostia Park"
+          }, 
+          {
+            "name" : "Antietam National Battlefield", 
+            "code" : "Antietam National Battlefield"
+          }, 
+          {
+            "name" : "Antietam National Cemetery", 
+            "code" : "Antietam National Cemetery"
+          }, 
+          {
+            "name" : "Arlington House, The Robert E. Lee Memorial", 
+            "code" : "Arlington House, The Robert E. Lee Memorial"
+          }, 
+          {
+            "name" : "Baltimore-Washington National Parkway", 
+            "code" : "Baltimore-Washington National Parkway"
+          }, 
+          {
+            "name" : "Battleground National Cemetery", 
+            "code" : "Battleground National Cemetery"
+          }, 
+          {
+            "name" : "Belmont-Paul Women's Equality National Monument", 
+            "code" : "Belmont-Paul Women's Equality National Monument"
+          }, 
+          {
+            "name" : "Capitol Hill Parks", 
+            "code" : "Capitol Hill Parks"
+          }, 
+          {
+            "name" : "Carter G. Woodson Home National Historic Site", 
+            "code" : "Carter G. Woodson Home National Historic Site"
+          }, 
+          {
+            "name" : "Catoctin Mountain Park", 
+            "code" : "Catoctin Mountain Park"
+          }, 
+          {
+            "name" : "Center for Urban Ecology", 
+            "code" : "Center for Urban Ecology"
+          }, 
+          {
+            "name" : "Chesapeake and Ohio Canal National Historical Park", 
+            "code" : "Chesapeake and Ohio Canal National Historical Park"
+          }, 
+          {
+            "name" : "Clara Barton National Historic Site", 
+            "code" : "Clara Barton National Historic Site"
+          }, 
+          {
+            "name" : "Claude Moore Colonial Farm", 
+            "code" : "Claude Moore Colonial Farm"
+          }, 
+          {
+            "name" : "Constitution Gardens", 
+            "code" : "Constitution Gardens"
+          }, 
+          {
+            "name" : "Ford's Theatre National Historic Site", 
+            "code" : "Ford's Theatre National Historic Site"
+          }, 
+          {
+            "name" : "Fort Circle Parks", 
+            "code" : "Fort Circle Parks"
+          }, 
+          {
+            "name" : "Fort Dupont Park", 
+            "code" : "Fort Dupont Park"
+          }, 
+          {
+            "name" : "Fort Foote Park", 
+            "code" : "Fort Foote Park"
+          }, 
+          {
+            "name" : "Fort Washington Park", 
+            "code" : "Fort Washington Park"
+          }, 
+          {
+            "name" : "Francis Scott Key Memorial", 
+            "code" : "Francis Scott Key Memorial"
+          }, 
+          {
+            "name" : "Franklin Delano Roosevelt Memorial", 
+            "code" : "Franklin Delano Roosevelt Memorial"
+          }, 
+          {
+            "name" : "Frederick Douglass National Historic Site", 
+            "code" : "Frederick Douglass National Historic Site"
+          }, 
+          {
+            "name" : "George Mason Memorial", 
+            "code" : "George Mason Memorial"
+          }, 
+          {
+            "name" : "George Washington Memorial Parkway", 
+            "code" : "George Washington Memorial Parkway"
+          }, 
+          {
+            "name" : "Glen Echo Park", 
+            "code" : "Glen Echo Park"
+          }, 
+          {
+            "name" : "Great Falls Park", 
+            "code" : "Great Falls Park"
+          }, 
+          {
+            "name" : "Greenbelt Park", 
+            "code" : "Greenbelt Park"
+          }, 
+          {
+            "name" : "Harmony Hall", 
+            "code" : "Harmony Hall"
+          }, 
+          {
+            "name" : "Harpers Ferry Center", 
+            "code" : "Harpers Ferry Center"
+          }, 
+          {
+            "name" : "Harpers Ferry National Historical Park", 
+            "code" : "Harpers Ferry National Historical Park"
+          }, 
+          {
+            "name" : "John Ericsson National Memorial", 
+            "code" : "John Ericsson National Memorial"
+          }, 
+          {
+            "name" : "Kenilworth Park & Aquatic Gardens", 
+            "code" : "Kenilworth Park & Aquatic Gardens"
+          }, 
+          {
+            "name" : "Korean War Veterans Memorial", 
+            "code" : "Korean War Veterans Memorial"
+          }, 
+          {
+            "name" : "Lincoln Memorial", 
+            "code" : "Lincoln Memorial"
+          }, 
+          {
+            "name" : "Lyndon Baines Johnson Memorial Grove on the Potomac", 
+            "code" : "Lyndon Baines Johnson Memorial Grove on the Potomac"
+          }, 
+          {
+            "name" : "Manassas National Battlefield Park", 
+            "code" : "Manassas National Battlefield Park"
+          }, 
+          {
+            "name" : "Martin Luther King, Jr. Memorial", 
+            "code" : "Martin Luther King, Jr. Memorial"
+          }, 
+          {
+            "name" : "Mary McLeod Bethune Council House National Historic Site", 
+            "code" : "Mary McLeod Bethune Council House National Historic Site"
+          }, 
+          {
+            "name" : "Monocacy National Battlefield", 
+            "code" : "Monocacy National Battlefield"
+          }, 
+          {
+            "name" : "National Capital Parks", 
+            "code" : "National Capital Parks"
+          }, 
+          {
+            "name" : "National Capital Parks-East", 
+            "code" : "National Capital Parks-East"
+          }, 
+          {
+            "name" : "National Mall", 
+            "code" : "National Mall"
+          }, 
+          {
+            "name" : "National Mall and Memorial Parks", 
+            "code" : "National Mall and Memorial Parks"
+          }, 
+          {
+            "name" : "Oxon Cove Park & Oxon Hill Farm", 
+            "code" : "Oxon Cove Park & Oxon Hill Farm"
+          }, 
+          {
+            "name" : "Pennsylvania Avenue National Historic Site", 
+            "code" : "Pennsylvania Avenue National Historic Site"
+          }, 
+          {
+            "name" : "Piscataway Park", 
+            "code" : "Piscataway Park"
+          }, 
+          {
+            "name" : "Potomac Heritage National Scenic Trail", 
+            "code" : "Potomac Heritage National Scenic Trail"
+          }, 
+          {
+            "name" : "President's Park (White House)", 
+            "code" : "President's Park (White House)"
+          }, 
+          {
+            "name" : "Prince William Forest Park", 
+            "code" : "Prince William Forest Park"
+          }, 
+          {
+            "name" : "Region 1 - National Capital Area", 
+            "code" : "Region 1 - National Capital Area"
+          }, 
+          {
+            "name" : "Rock Creek Park", 
+            "code" : "Rock Creek Park"
+          }, 
+          {
+            "name" : "Stephen T. Mather Training Center", 
+            "code" : "Stephen T. Mather Training Center"
+          }, 
+          {
+            "name" : "Suitland Parkway", 
+            "code" : "Suitland Parkway"
+          }, 
+          {
+            "name" : "Theodore Roosevelt Island", 
+            "code" : "Theodore Roosevelt Island"
+          }, 
+          {
+            "name" : "Thomas Jefferson Memorial", 
+            "code" : "Thomas Jefferson Memorial"
+          }, 
+          {
+            "name" : "United States Park Police", 
+            "code" : "United States Park Police"
+          }, 
+          {
+            "name" : "Vietnam Veterans Memorial", 
+            "code" : "Vietnam Veterans Memorial"
+          }, 
+          {
+            "name" : "Washington Monument", 
+            "code" : "Washington Monument"
+          }, 
+          {
+            "name" : "Wolf Trap National Park for the Performing Arts", 
+            "code" : "Wolf Trap National Park for the Performing Arts"
+          }, 
+          {
+            "name" : "World War II Memorial National Memorial", 
+            "code" : "World War II Memorial National Memorial"
+          }
+        ]
+      }, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "UNITTYPE", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "UNITTYPE", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 254, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "PARKAREA", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "PARKAREA", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 200, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "MAPLABEL", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "MAPLABEL", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 100, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "ORIGINATOR", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "ORIGINATOR", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 254, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "CREATEDATE", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "CREATEDATE", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "CREATEUSER", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "CREATEUSER", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 50, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "EDITDATE", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "EDITDATE", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "EDITUSER", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "EDITUSER", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 50, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "MAPMETHOD", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "MAPMETHOD", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 254, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : "Digitized on Screen"
+    }, 
+    {
+      "name" : "MAPSOURCE", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "MAPSOURCE", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 254, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "SOURCEDATE", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "SOURCEDATE", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "XYACCURACY", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "XYACCURACY", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 50, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : 
+      {
+        "type" : "codedValue", 
+        "name" : "DOM_XYACCURACY_NPS2016", 
+        "codedValues" : [
+          {
+            "name" : "\u003c5cm", 
+            "code" : "\u003c5cm"
+          }, 
+          {
+            "name" : "\u003e=5cm and \u003c50cm", 
+            "code" : "\u003e=5cm and \u003c50cm"
+          }, 
+          {
+            "name" : "\u003e=50cm and \u003c1m", 
+            "code" : "\u003e=50cm and \u003c1m"
+          }, 
+          {
+            "name" : "\u003e=1m and \u003c5m", 
+            "code" : "\u003e=1m and \u003c5m"
+          }, 
+          {
+            "name" : "\u003e=5m and \u003c14m", 
+            "code" : "\u003e=5m and \u003c14m"
+          }, 
+          {
+            "name" : "\u003e=14m", 
+            "code" : "\u003e=14m"
+          }, 
+          {
+            "name" : "Scaled", 
+            "code" : "Scaled"
+          }, 
+          {
+            "name" : "Unknown", 
+            "code" : "Unknown"
+          }
+        ]
+      }, 
+      "defaultValue" : "Unknown"
+    }, 
+    {
+      "name" : "PUBLICDISPLAY", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "PUBLICDISPLAY", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 50, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : 
+      {
+        "type" : "codedValue", 
+        "name" : "DOM_PUBLICDISPLAY_NPS2016", 
+        "codedValues" : [
+          {
+            "name" : "No Public Map Display", 
+            "code" : "No Public Map Display"
+          }, 
+          {
+            "name" : "Public Map Display", 
+            "code" : "Public Map Display"
+          }
+        ]
+      }, 
+      "defaultValue" : "Public Map Display"
+    }, 
+    {
+      "name" : "DATAACCESS", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "DATAACCESS", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 50, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : 
+      {
+        "type" : "codedValue", 
+        "name" : "DOM_DATAACCESS_NPS2016", 
+        "codedValues" : [
+          {
+            "name" : "Unrestricted", 
+            "code" : "Unrestricted"
+          }, 
+          {
+            "name" : "Internal NPS Only", 
+            "code" : "Internal NPS Only"
+          }, 
+          {
+            "name" : "Secure Access Only", 
+            "code" : "Secure Access Only"
+          }
+        ]
+      }, 
+      "defaultValue" : "Unrestricted"
+    }, 
+    {
+      "name" : "ACCESSNOTES", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "ACCESSNOTES", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 254, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "GNIS_ID", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "GNIS_ID", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 50, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "GEOMETRYID", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "GEOMETRYID", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 38, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "FEATUREID", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "FEATUREID", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 50, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "NOTES", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "NOTES", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 254, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "LANDS_UNITCODE", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "LANDS_UNITCODE", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 16, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "LANDS_UNITNAME", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "LANDS_UNITNAME", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 254, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "WEBSITE", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "WEBSITE", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 255, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "PHOTO_URL", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "PHOTO_URL", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 255, 
+      "nullable" : true, 
+      "editable" : true, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "GlobalID", 
+      "type" : "esriFieldTypeGlobalID", 
+      "alias" : "GlobalID", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 38, 
+      "nullable" : false, 
+      "editable" : false, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Shape__Area", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "Shape__Area", 
+      "sqlType" : "sqlTypeDouble", 
+      "nullable" : true, 
+      "editable" : false, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Shape__Length", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "Shape__Length", 
+      "sqlType" : "sqlTypeDouble", 
+      "nullable" : true, 
+      "editable" : false, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "CreationDate", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "CreationDate", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "nullable" : true, 
+      "editable" : false, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Creator", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Creator", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 128, 
+      "nullable" : true, 
+      "editable" : false, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "EditDate_1", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "EditDate", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "nullable" : true, 
+      "editable" : false, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Editor", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Editor", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 128, 
+      "nullable" : true, 
+      "editable" : false, 
+      "domain" : null, 
+      "defaultValue" : null
+    }
+  ], 
+  "indexes" : [
+    {
+      "name" : "PK__NCA_VISI__F4B70D85BB3100F3", 
+      "fields" : "OBJECTID", 
+      "isAscending" : true, 
+      "isUnique" : true, 
+      "description" : ""
+    }, 
+    {
+      "name" : "user_6233.NCA_VISITOR_USE_AND_MANAGEMENT_BOUNDARY_NPS_ONLY_NCA_VISITOR_USE_AND_MANAGEMENT_BOUNDARY__NPS_ONLY__Shape_sidx", 
+      "fields" : "Shape", 
+      "isAscending" : true, 
+      "isUnique" : false, 
+      "description" : ""
+    }, 
+    {
+      "name" : "FDO_GlobalID", 
+      "fields" : "GlobalID", 
+      "isAscending" : true, 
+      "isUnique" : true, 
+      "description" : ""
+    }, 
+    {
+      "name" : "Shape__Area_Index", 
+      "fields" : "Shape__Area", 
+      "isAscending" : true, 
+      "isUnique" : false, 
+      "description" : ""
+    }, 
+    {
+      "name" : "Shape__Length_Index", 
+      "fields" : "Shape__Length", 
+      "isAscending" : true, 
+      "isUnique" : false, 
+      "description" : ""
+    }, 
+    {
+      "name" : "CreationDateIndex", 
+      "fields" : "CreationDate", 
+      "isAscending" : true, 
+      "isUnique" : false, 
+      "description" : "CreationDate Field index"
+    }, 
+    {
+      "name" : "CreatorIndex", 
+      "fields" : "Creator", 
+      "isAscending" : false, 
+      "isUnique" : false, 
+      "description" : "Creator Field index"
+    }, 
+    {
+      "name" : "EditDate_1Index", 
+      "fields" : "EditDate_1", 
+      "isAscending" : true, 
+      "isUnique" : false, 
+      "description" : "EditDate_1 Field index"
+    }, 
+    {
+      "name" : "EditorIndex", 
+      "fields" : "Editor", 
+      "isAscending" : false, 
+      "isUnique" : false, 
+      "description" : "Editor Field index"
+    }, 
+    {
+      "name" : "GROUPCODE_Index", 
+      "fields" : "GROUPCODE", 
+      "isAscending" : true, 
+      "isUnique" : false, 
+      "description" : "GROUPCODE_Index"
+    }
+  ], 
+  "dateFieldsTimeReference" : {
+    "timeZone" : "UTC", 
+    "respectsDaylightSaving" : false
+  }, 
+  "preferredTimeReference" : null, 
+  "types" : [], 
+  "templates" : [
+    {
+      "name" : "NCA Visitor Use and Management Boundary (NPS Only)", 
+      "description" : "", 
+      "drawingTool" : "esriFeatureEditToolPolygon", 
+      "prototype" : {
+        "attributes" : {
+          "EDITUSER" : null, 
+          "SOURCEDATE" : null, 
+          "XYACCURACY" : "Unknown", 
+          "PUBLICDISPLAY" : "Public Map Display", 
+          "EDITDATE_NCR" : null, 
+          "STATE" : null, 
+          "REGIONCODE" : null, 
+          "GROUPCODE" : null, 
+          "GROUPNAME" : null, 
+          "UNITCODE" : null, 
+          "UNITNAME" : null, 
+          "UNITTYPE" : null, 
+          "PARKAREA" : null, 
+          "MAPLABEL" : null, 
+          "ORIGINATOR" : null, 
+          "CREATEDATE" : null, 
+          "CREATEUSER" : null, 
+          "EDITDATE" : null, 
+          "MAPMETHOD" : "Digitized on Screen", 
+          "MAPSOURCE" : null, 
+          "DATAACCESS" : "Unrestricted", 
+          "ACCESSNOTES" : null, 
+          "GNIS_ID" : null, 
+          "GEOMETRYID" : null, 
+          "FEATUREID" : null, 
+          "NOTES" : null, 
+          "LANDS_UNITCODE" : null, 
+          "LANDS_UNITNAME" : null, 
+          "WEBSITE" : null, 
+          "PHOTO_URL" : null, 
+          "EDITOR_NCR" : null
+        }
+      }
+    }
+  ], 
+  "supportedQueryFormats" : "JSON, geoJSON, PBF", 
+  "supportedAppendFormats" : "sqlite,gpkg,shapefile,filegdb,featureCollection,geojson,csv,excel", 
+  "supportedExportFormats" : "csv,shapefile,sqlite,gpkg,filegdb,featureCollection,geojson,excel", 
+  "supportedContingentValuesFormats" : "JSON, PBF", 
+  "supportedSyncDataOptions" : 4, 
+  "hasStaticData" : true, 
+  "maxRecordCount" : 2000, 
+  "standardMaxRecordCount" : 4000, 
+  "standardMaxRecordCountNoGeometry" : 32000, 
+  "tileMaxRecordCount" : 4000, 
+  "maxRecordCountFactor" : 1, 
+  "capabilities" : "Query,Sync"
+}
