@@ -11,8 +11,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.04899668693542,
-          38.890072489785574
+          -77.04954385757446,
+          38.89026455816485
         ]
       }
     },
@@ -26,8 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.04815983772278,
-          38.8885943809683
+          -77.04191565513611,
+          38.89330417988778
         ]
       }
     },
@@ -41,8 +41,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.04481244087219,
-          38.89084911090617
+          -77.03699111938477,
+          38.891684177905994
         ]
       }
     },
@@ -56,8 +56,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.03920125961304,
-          38.89076560366622
+          -77.02797889709473,
+          38.88898687613934
         ]
       }
     },
@@ -71,38 +71,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.04160451889038,
+          -77.03763484954834,
+          38.88844406309445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d50000",
+        "marker-size": "medium",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03295707702637,
           38.88853592405516
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#d50000",
-        "marker-size": "medium",
-        "marker-symbol": "hospital"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.02804327011107,
-          38.889479579773514
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#d50000",
-        "marker-size": "medium",
-        "marker-symbol": "hospital"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.03766703605652,
-          38.888652837833355
         ]
       }
     }
