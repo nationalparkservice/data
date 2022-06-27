@@ -45,6 +45,21 @@
           38.879942234546846
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3e4abf",
+        "marker-size": "medium",
+        "marker-symbol": "entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05847024917603,
+          38.88623936440054
+        ]
+      }
     }
   ]
 }
