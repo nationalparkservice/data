@@ -38,7 +38,7 @@
     {
       "type": "Feature",
       "properties": {
-        "text": "Closed for turf renovation"
+        "name": "Closed for turf renovation"
       },
       "geometry": {
         "coordinates": [
