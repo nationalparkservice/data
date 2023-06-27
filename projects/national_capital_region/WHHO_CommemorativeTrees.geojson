@@ -6,7 +6,7 @@
       "properties": {
         "marker-color": "#306b00",
         "marker-size": "medium",
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "number": 1,
         "tree": "White Dogwood (3)",
         "person": "Hillary Rodham Clinton",
@@ -23,7 +23,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "marker-size": "medium",
         "marker-color": "#306b00",
         "number": 9,
@@ -44,7 +44,7 @@
       "type": "Feature",
       "properties": {
         "number": 7,
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "marker-size": "medium",
         "marker-color": "#306b00",
         "tree": "White Oak",
@@ -63,7 +63,7 @@
       "type": "Feature",
       "properties": {
         "number": 8,
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "marker-size": "medium",
         "marker-color": "#306b00",
         "tree": "Japanese Maple",
@@ -103,7 +103,7 @@
       "type": "Feature",
       "properties": {
         "number": 3,
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "marker-size": "medium",
         "marker-color": "#306b00",
         "tree": "Cutleaf Silver Maple",
@@ -122,7 +122,7 @@
       "type": "Feature",
       "properties": {
         "number": 4,
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "marker-size": "medium",
         "marker-color": "#306b00",
         "tree": "Cedar of Lebanon",
@@ -141,7 +141,7 @@
       "type": "Feature",
       "properties": {
         "number": 5,
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "marker-size": "medium",
         "marker-color": "#306b00",
         "tree": "Japanese Maple",
@@ -160,7 +160,7 @@
       "type": "Feature",
       "properties": {
         "number": 6,
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "marker-size": "medium",
         "marker-color": "#306b00",
         "tree": "White House Kitchen Garden",
@@ -178,7 +178,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "marker-size": "medium",
         "marker-color": "#306b00",
         "number": 10,
@@ -198,7 +198,7 @@
       "type": "Feature",
       "properties": {
         "number": 11,
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "marker-size": "medium",
         "marker-color": "#306b00",
         "tree": "Pin Oak",
@@ -218,7 +218,7 @@
       "properties": {
         "marker-color": "#306b00",
         "marker-size": "medium",
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "number": 12,
         "tree": "White Dogwood (2)",
         "person": "Bill & Hillary Clinton",
@@ -237,7 +237,7 @@
       "properties": {
         "marker-color": "#306b00",
         "marker-size": "medium",
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "number": 13,
         "tree": "Littleleaf Linden",
         "person": "George W. Bush & Queen Elizabeth II",
@@ -256,7 +256,7 @@
       "properties": {
         "marker-color": "#306b00",
         "marker-size": "medium",
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "number": 14,
         "tree": "Silver Linden",
         "person": "George W. & Laura Bush",
@@ -295,7 +295,7 @@
       "properties": {
         "marker-color": "#306b00",
         "marker-size": "medium",
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "number": 16,
         "tree": "Willow Oak",
         "person": "Ronald Reagan",
@@ -314,7 +314,7 @@
       "properties": {
         "marker-color": "#306b00",
         "marker-size": "medium",
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "number": 17,
         "tree": "Southern Magnolia",
         "person": "Joe & Jill Biden",
@@ -333,7 +333,7 @@
       "properties": {
         "marker-color": "#306b00",
         "marker-size": "medium",
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "number": 18,
         "tree": "Southern Magnolia",
         "person": "Andrew Jackson",
@@ -352,7 +352,7 @@
       "properties": {
         "marker-color": "#306b00",
         "marker-size": "medium",
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "number": 19,
         "tree": "Willow Oak",
         "person": "Lyndon B. Johnson",
@@ -390,7 +390,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#306b00",
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "marker-size": "medium",
         "number": 21,
         "tree": "Saucer Magnolia (3)",
@@ -410,7 +410,7 @@
       "properties": {
         "marker-color": "#306b00",
         "marker-size": "medium",
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "number": 22,
         "tree": "Littleleaf Linden",
         "person": "Bill Clinton",
@@ -428,7 +428,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#306b00",
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "marker-size": "medium",
         "number": 23,
         "tree": "October Glory Maple",
@@ -447,12 +447,12 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#306b00",
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "marker-size": "medium",
         "number": 24,
         "tree": "Southern Magnolia",
         "person": "Franklin D. Roosevelt",
-        "year": "1942`"
+        "year": "1942"
       },
       "geometry": {
         "coordinates": [
@@ -466,7 +466,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#306b00",
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "marker-size": "medium",
         "number": 25,
         "tree": "Southern Magnolia",
@@ -485,7 +485,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#306b00",
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "marker-size": "medium",
         "number": 26,
         "tree": "White Oak",
@@ -504,7 +504,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#306b00",
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "marker-size": "medium",
         "number": 27,
         "tree": "Littleleaf Linden",
@@ -523,7 +523,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#306b00",
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "marker-size": "medium",
         "number": 28,
         "tree": "Red Maple",
@@ -542,7 +542,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#306b00",
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "marker-size": "medium",
         "number": 29,
         "tree": "Silver Linden",
@@ -561,7 +561,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#306b00",
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "marker-size": "medium",
         "number": 30,
         "tree": "Yulan Magnolia",
@@ -580,7 +580,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#306b00",
-        "marker-symbol": "park",
+        "marker-symbol": "park2",
         "marker-size": "medium",
         "number": 31,
         "tree": "Jefferson Elm",
