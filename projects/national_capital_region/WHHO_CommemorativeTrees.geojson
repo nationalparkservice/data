@@ -160,7 +160,7 @@
       "type": "Feature",
       "properties": {
         "number": 6,
-        "marker-symbol": "park2",
+        "marker-symbol": "garden-centre",
         "marker-size": "medium",
         "marker-color": "#306b00",
         "tree": "White House Kitchen Garden",
@@ -173,7 +173,8 @@
           38.895803780484925
         ],
         "type": "Point"
-      }
+      },
+      "id": 8
     },
     {
       "type": "Feature",
@@ -452,7 +453,7 @@
         "number": 24,
         "tree": "Southern Magnolia",
         "person": "Franklin D. Roosevelt",
-        "year": "1942"
+        "year": "1942`"
       },
       "geometry": {
         "coordinates": [
