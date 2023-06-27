@@ -160,7 +160,7 @@
       "type": "Feature",
       "properties": {
         "number": 6,
-        "marker-symbol": "garden-centre",
+        "marker-symbol": "circle",
         "marker-size": "medium",
         "marker-color": "#306b00",
         "tree": "White House Kitchen Garden",
