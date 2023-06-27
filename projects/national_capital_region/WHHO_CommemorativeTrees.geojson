@@ -1,0 +1,599 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "number": 1,
+        "tree": "White Dogwood (3)",
+        "person": "Hillary Rodham Clinton",
+        "year": 1994
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03725571127697,
+          38.89646310801274
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "park",
+        "marker-size": "medium",
+        "marker-color": "#306b00",
+        "number": 9,
+        "tree": "Willow Oak",
+        "person": "Bill and Hillary Clinton",
+        "year": 1993
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03606017248586,
+          38.89629735476947
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": 7,
+        "marker-symbol": "park",
+        "marker-size": "medium",
+        "marker-color": "#306b00",
+        "tree": "White Oak",
+        "person": "Herbert Hoover",
+        "year": 1931
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03609352208468,
+          38.895641266112676
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": 8,
+        "marker-symbol": "park",
+        "marker-size": "medium",
+        "marker-color": "#306b00",
+        "tree": "Japanese Maple",
+        "person": "Rosalynn Carter",
+        "year": 1978
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03632922328705,
+          38.89628985075413
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "garden",
+        "number": 2,
+        "marker-size": "medium",
+        "tree": "Children's Garden",
+        "person": "\"Lady Bird\" Johnson",
+        "year": 1969
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03738083510562,
+          38.89620363515289
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": 3,
+        "marker-symbol": "park",
+        "marker-size": "medium",
+        "marker-color": "#306b00",
+        "tree": "Cutleaf Silver Maple",
+        "person": "George W. & Laura Bush",
+        "year": 2001
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03720069689038,
+          38.896657964033125
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": 4,
+        "marker-symbol": "park",
+        "marker-size": "medium",
+        "marker-color": "#306b00",
+        "tree": "Cedar of Lebanon",
+        "person": "Jimmy Carter",
+        "year": 1978
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03681888092191,
+          38.89655651425397
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": 5,
+        "marker-symbol": "park",
+        "marker-size": "medium",
+        "marker-color": "#306b00",
+        "tree": "Japanese Maple",
+        "person": "Frances Folsom Cleveland",
+        "year": 1893
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0367537052983,
+          38.896287312181045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": 6,
+        "marker-symbol": "park",
+        "marker-size": "medium",
+        "marker-color": "#306b00",
+        "tree": "White House Kitchen Garden",
+        "person": "",
+        "year": 2009
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03707519637787,
+          38.895803780484925
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "park",
+        "marker-size": "medium",
+        "marker-color": "#306b00",
+        "number": 10,
+        "tree": "American Elm",
+        "person": "Joe & Jill Biden",
+        "year": 2022
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03606877359125,
+          38.89659120916622
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": 11,
+        "marker-symbol": "park",
+        "marker-size": "medium",
+        "marker-color": "#306b00",
+        "tree": "Pin Oak",
+        "person": "Melania Trump",
+        "year": 2018
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03594885495437,
+          38.896604036280564
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "number": 12,
+        "tree": "White Dogwood (2)",
+        "person": "Bill & Hillary Clinton",
+        "year": 1996
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03607849882874,
+          38.89673435813944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "number": 13,
+        "tree": "Littleleaf Linden",
+        "person": "George W. Bush & Queen Elizabeth II",
+        "year": 1991
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03588578721244,
+          38.89693335543157
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "number": 14,
+        "tree": "Silver Linden",
+        "person": "George W. & Laura Bush",
+        "year": 2008
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03594135625725,
+          38.897315526353026
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "number": 15,
+        "tree": "Jacqueline Kennedy Garden",
+        "person": "",
+        "year": 1965
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03604001966094,
+          38.89749116541583
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "number": 16,
+        "tree": "Willow Oak",
+        "person": "Ronald Reagan",
+        "year": 1988
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03620445867061,
+          38.897218439246586
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "number": 17,
+        "tree": "Southern Magnolia",
+        "person": "Joe & Jill Biden",
+        "year": 2022
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0366784843359,
+          38.897455563308114
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "number": 18,
+        "tree": "Southern Magnolia",
+        "person": "Andrew Jackson",
+        "year": 1830
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0368045483629,
+          38.89745082686892
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "number": 19,
+        "tree": "Willow Oak",
+        "person": "Lyndon B. Johnson",
+        "year": 1964
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03713134121148,
+          38.89726845717158
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "garden",
+        "marker-size": "medium",
+        "number": 20,
+        "tree": "Rose Garden",
+        "person": "",
+        "year": 1913
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03711696485817,
+          38.89747765219661
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park",
+        "marker-size": "medium",
+        "number": 21,
+        "tree": "Saucer Magnolia (3)",
+        "person": "John F. Kennedy",
+        "year": 1962
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03724896592519,
+          38.897564110252006
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "number": 22,
+        "tree": "Littleleaf Linden",
+        "person": "Bill Clinton",
+        "year": 1993
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03726247105605,
+          38.89716504608592
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park",
+        "marker-size": "medium",
+        "number": 23,
+        "tree": "October Glory Maple",
+        "person": "Donald & Melania Trump",
+        "year": 2020
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03759312721044,
+          38.89712266448058
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park",
+        "marker-size": "medium",
+        "number": 24,
+        "tree": "Southern Magnolia",
+        "person": "Franklin D. Roosevelt",
+        "year": "1942`"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03532323790321,
+          38.89740667986845
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park",
+        "marker-size": "medium",
+        "number": 25,
+        "tree": "Southern Magnolia",
+        "person": "Warren G. Harding",
+        "year": "1922, replaced 1947"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03532440038342,
+          38.89773389215469
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park",
+        "marker-size": "medium",
+        "number": 26,
+        "tree": "White Oak",
+        "person": "Franklin D. Roosevelt",
+        "year": 1935
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03554909483641,
+          38.89796132564561
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park",
+        "marker-size": "medium",
+        "number": 27,
+        "tree": "Littleleaf Linden",
+        "person": "Barack Obama",
+        "year": 2009
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03541052910185,
+          38.898526226466316
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park",
+        "marker-size": "medium",
+        "number": 28,
+        "tree": "Red Maple",
+        "person": "Jimmy Carter",
+        "year": 1977
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03626927575714,
+          38.89812520735168
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park",
+        "marker-size": "medium",
+        "number": 29,
+        "tree": "Silver Linden",
+        "person": "Jill Biden",
+        "year": 2021
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03614014425126,
+          38.898224787851206
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park",
+        "marker-size": "medium",
+        "number": 30,
+        "tree": "Yulan Magnolia",
+        "person": "Nancy Reagan",
+        "year": 1982
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03626337934196,
+          38.89847763909228
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park",
+        "marker-size": "medium",
+        "number": 31,
+        "tree": "Jefferson Elm",
+        "person": "George W. & Laura Bush",
+        "year": 2006
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03718833405138,
+          38.898414048324526
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
