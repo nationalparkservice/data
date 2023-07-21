@@ -49,7 +49,8 @@
         "marker-color": "#306b00",
         "tree": "White Oak",
         "person": "Herbert Hoover",
-        "year": 1931
+        "year": 1931,
+        "url": ""
       },
       "geometry": {
         "coordinates": [
@@ -269,7 +270,8 @@
           38.897315526353026
         ],
         "type": "Point"
-      }
+      },
+      "id": 13
     },
     {
       "type": "Feature",
@@ -300,7 +302,10 @@
         "number": 16,
         "tree": "Willow Oak",
         "person": "Ronald Reagan",
-        "year": 1988
+        "year": 1988,
+        "url": "/whho/learn/historyculture/ronald-reagan-willow-oak.htm",
+        "image": "/whho/learn/historyculture/images/REAGAN_1.jpg",
+        "latin": "Quercus phellos"
       },
       "geometry": {
         "coordinates": [
@@ -308,7 +313,8 @@
           38.897218439246586
         ],
         "type": "Point"
-      }
+      },
+      "id": 15
     },
     {
       "type": "Feature",
@@ -357,7 +363,10 @@
         "number": 19,
         "tree": "Willow Oak",
         "person": "Lyndon B. Johnson",
-        "year": 1964
+        "year": 1964,
+        "url": "/whho/learn/historyculture/lyndon-johnson-willow-oak.htm",
+        "image": "/whho/learn/historyculture/images/JOHNSON_2.png",
+        "latin": "Quercus phellos"
       },
       "geometry": {
         "coordinates": [
@@ -365,7 +374,8 @@
           38.89726845717158
         ],
         "type": "Point"
-      }
+      },
+      "id": 18
     },
     {
       "type": "Feature",
@@ -396,7 +406,9 @@
         "number": 21,
         "tree": "Saucer Magnolia (3)",
         "person": "John F. Kennedy",
-        "year": 1962
+        "year": 1962,
+        "image": "",
+        "url": ""
       },
       "geometry": {
         "coordinates": [
@@ -415,7 +427,10 @@
         "number": 22,
         "tree": "Littleleaf Linden",
         "person": "Bill Clinton",
-        "year": 1993
+        "year": 1993,
+        "url": "/whho/learn/historyculture/bill-clinton-littleleaf-linden.htm",
+        "image": "/whho/learn/historyculture/images/CLINTON_2.png",
+        "latin": "Tilia cordata"
       },
       "geometry": {
         "coordinates": [
@@ -423,7 +438,8 @@
           38.89716504608592
         ],
         "type": "Point"
-      }
+      },
+      "id": 21
     },
     {
       "type": "Feature",
