@@ -251,7 +251,8 @@
           38.89693335543157
         ],
         "type": "Point"
-      }
+      },
+      "id": 12
     },
     {
       "type": "Feature",
@@ -368,7 +369,7 @@
         "url": "/whho/learn/historyculture/lyndon-johnson-willow-oak.htm",
         "image": "/whho/learn/historyculture/images/JOHNSON_2.png",
         "latin": "Quercus phellos",
-        "notes": "First Lady Claudia “Lady Bird” Johnson chose this specific type of tree to represent her home state of Texas. Irvin Williams, National Park Service Superintendent of the White House Grounds, accompanied the President and First Lady during this planting."
+        "notes": "First Lady Claudia “Lady Bird” Johnson chose this specific type of tree to represent her home state of Texas. Irvin Williams, National Park Service Superintendent of the White House Grounds, accompanied the president and first lady during this planting."
       },
       "geometry": {
         "coordinates": [
@@ -472,7 +473,7 @@
         "number": 24,
         "tree": "Southern Magnolia",
         "person": "Franklin D. Roosevelt",
-        "year": "1942`"
+        "year": 1942
       },
       "geometry": {
         "coordinates": [
@@ -480,7 +481,8 @@
           38.89740667986845
         ],
         "type": "Point"
-      }
+      },
+      "id": 23
     },
     {
       "type": "Feature",
