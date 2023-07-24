@@ -147,7 +147,8 @@
         "marker-color": "#306b00",
         "tree": "Japanese Maple",
         "person": "Frances Folsom Cleveland",
-        "year": 1893
+        "year": 1893,
+        "latin": ""
       },
       "geometry": {
         "coordinates": [
@@ -165,8 +166,13 @@
         "marker-size": "medium",
         "marker-color": "#306b00",
         "tree": "White House Kitchen Garden",
-        "person": "",
-        "year": 2009
+        "person": "Michelle Obama",
+        "year": 2009,
+        "latin": "",
+        "credit": "NPS",
+        "notes": "Although the White House Kitchen Garden is a recent addition, there is a long tradition of produce-growing at the White House. President John Adams planned the first vegetable garden on the White House grounds in 1797. Many presidents and first ladies continued the practice by planting fruit trees, orchards, and establishing greenhouses. During World War II, First Lady Eleanor Roosevelt planted a Victory Garden at the White House, encouraging all Americans to grow their own food to overcome supply shortages during the war.",
+        "url": "/places/000/white-house-kitchen-garden.htm",
+        "image": "/common/uploads/cropped_image/primary/0349B8D4-B4B1-9219-9FEE8B42ADAE7DE9.jpg"
       },
       "geometry": {
         "coordinates": [
@@ -186,7 +192,8 @@
         "number": 10,
         "tree": "American Elm",
         "person": "Joe & Jill Biden",
-        "year": 2022
+        "year": 2022,
+        "url": ""
       },
       "geometry": {
         "coordinates": [
