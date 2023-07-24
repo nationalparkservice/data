@@ -307,7 +307,8 @@
         "url": "/whho/learn/historyculture/ronald-reagan-willow-oak.htm",
         "image": "/whho/learn/historyculture/images/REAGAN_1.jpg",
         "latin": "Quercus phellos",
-        "notes": "The oak was a gift from the American Association of Nurserymen. "
+        "notes": "The oak was a gift from the American Association of Nurserymen. ",
+        "credit": "NPS"
       },
       "geometry": {
         "coordinates": [
@@ -369,7 +370,8 @@
         "url": "/whho/learn/historyculture/lyndon-johnson-willow-oak.htm",
         "image": "/whho/learn/historyculture/images/JOHNSON_2.png",
         "latin": "Quercus phellos",
-        "notes": "First Lady Claudia “Lady Bird” Johnson chose this specific type of tree to represent her home state of Texas. Irvin Williams, National Park Service Superintendent of the White House Grounds, accompanied the president and first lady during this planting."
+        "notes": "First Lady Claudia “Lady Bird” Johnson chose this specific type of tree to represent her home state of Texas. Irvin Williams, National Park Service Superintendent of the White House Grounds, accompanied the president and first lady during this planting.",
+        "credit": "NPS"
       },
       "geometry": {
         "coordinates": [
@@ -434,7 +436,8 @@
         "url": "/whho/learn/historyculture/bill-clinton-littleleaf-linden.htm",
         "image": "/whho/learn/historyculture/images/CLINTON_2.png",
         "latin": "Tilia cordata",
-        "notes": ""
+        "notes": "",
+        "credit": "NPS"
       },
       "geometry": {
         "coordinates": [
