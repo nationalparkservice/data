@@ -302,11 +302,11 @@
         "number": 16,
         "tree": "Willow Oak",
         "person": "Ronald Reagan",
-        "year": 1988,
+        "year": "October 24, 1988",
         "url": "/whho/learn/historyculture/ronald-reagan-willow-oak.htm",
         "image": "/whho/learn/historyculture/images/REAGAN_1.jpg",
         "latin": "Quercus phellos",
-        "notes": "President Ronald W. Reagan planted a Willow Oak on the South Grounds center panel on October 24, 1998. The oak was a gift from the American Association of Nurserymen. "
+        "notes": "The oak was a gift from the American Association of Nurserymen. "
       },
       "geometry": {
         "coordinates": [
@@ -364,11 +364,11 @@
         "number": 19,
         "tree": "Willow Oak",
         "person": "Lyndon B. Johnson",
-        "year": 1964,
+        "year": "October 16, 1964",
         "url": "/whho/learn/historyculture/lyndon-johnson-willow-oak.htm",
         "image": "/whho/learn/historyculture/images/JOHNSON_2.png",
         "latin": "Quercus phellos",
-        "notes": "President Lyndon B. Johnson planted a Willow Oak outside the Oval Office on the South Grounds on October 16, 1964. First Lady Claudia “Lady Bird” Johnson chose this specific type of tree to represent her home state of Texas. Irvin Williams, National Park Service Superintendent of the White House Grounds, accompanied the President and First Lady during this planting."
+        "notes": "First Lady Claudia “Lady Bird” Johnson chose this specific type of tree to represent her home state of Texas. Irvin Williams, National Park Service Superintendent of the White House Grounds, accompanied the President and First Lady during this planting."
       },
       "geometry": {
         "coordinates": [
@@ -429,11 +429,11 @@
         "number": 22,
         "tree": "Littleleaf Linden",
         "person": "Bill Clinton",
-        "year": 1993,
+        "year": "October 10, 1993",
         "url": "/whho/learn/historyculture/bill-clinton-littleleaf-linden.htm",
         "image": "/whho/learn/historyculture/images/CLINTON_2.png",
         "latin": "Tilia cordata",
-        "notes": "On October 10, 1993, President Bill Clinton planted a Littleleaf Linden on the South Grounds outside the Oval Office."
+        "notes": ""
       },
       "geometry": {
         "coordinates": [
