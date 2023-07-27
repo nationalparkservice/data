@@ -4,8 +4,119 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Dam Ruins Trail (Coming Soon)",
+        "distance": 0.2,
+        "url": "/mono/planyourvisit/dam-ruins-trail.htm",
+        "image": "/common/uploads/grid_builder/mono/crop1_1/85CD70B3-B250-0E39-7D96A400C8F919A9.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -77.38558615955452,
+            39.36874296183714
+          ],
+          [
+            -77.3854943656356,
+            39.368951611223224
+          ],
+          [
+            -77.38534252880133,
+            39.368971174804756
+          ],
+          [
+            -77.37990801310603,
+            39.368136021732084
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Gambrill Trail (Coming Soon)",
+        "distance": 1.4,
+        "url": "/mono/planyourvisit/upper-gambrill-trail.htm",
+        "image": "/common/uploads/grid_builder/mono/crop1_1/DBEA9AEC-9DC8-80BF-F981FCDC351170C3.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -77.38128765544747,
+            39.36538761891285
+          ],
+          [
+            -77.38123485899894,
+            39.3655100722811
+          ],
+          [
+            -77.38084128547347,
+            39.36570673936268
+          ],
+          [
+            -77.38079808837922,
+            39.36629673728433
+          ],
+          [
+            -77.38070689451357,
+            39.366779121818496
+          ],
+          [
+            -77.3806253000022,
+            39.36688301958975
+          ],
+          [
+            -77.38047651001087,
+            39.366946100304006
+          ],
+          [
+            -77.38031332098811,
+            39.366964653444455
+          ],
+          [
+            -77.37943977974815,
+            39.36681993881851
+          ],
+          [
+            -77.37922379427687,
+            39.36682364945369
+          ],
+          [
+            -77.37912300105693,
+            39.366905283377776
+          ],
+          [
+            -77.37914699944263,
+            39.36701289158643
+          ],
+          [
+            -77.37988614972267,
+            39.3675064029712
+          ],
+          [
+            -77.38153243898161,
+            39.36816688643566
+          ],
+          [
+            -77.38215639701032,
+            39.36840436210926
+          ],
+          [
+            -77.38218519507315,
+            39.368489704732184
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Brooks Hill Loop",
-        "distance": 1.9
+        "distance": 1.9,
+        "url": "/mono/planyourvisit/brooks-hill-loop-trail.htm",
+        "image": "/common/uploads/grid_builder/mono/crop1_1/F2AD219B-E2C4-29E6-F9DFFE78436D8A8B.jpg"
       },
       "geometry": {
         "coordinates": [
@@ -419,13 +530,16 @@
           ]
         ],
         "type": "LineString"
-      }
+      },
+      "id": 2
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Upper Gambrill Trail (Coming Soon)",
-        "distance": 1.4
+        "distance": 1.4,
+        "url": "/mono/planyourvisit/upper-gambrill-trail.htm",
+        "image": "/common/uploads/grid_builder/mono/crop1_1/DBEA9AEC-9DC8-80BF-F981FCDC351170C3.jpg"
       },
       "geometry": {
         "coordinates": [
@@ -619,13 +733,16 @@
           ]
         ],
         "type": "LineString"
-      }
+      },
+      "id": 3
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Thomas Farm Loop Trail",
-        "distance": 1.75
+        "distance": 1.75,
+        "url": "/mono/planyourvisit/thomas-farm-loop-trail.htm",
+        "image": "/common/uploads/grid_builder/mono/crop1_1/DC2A6A7C-CD43-0A63-F26875CAC3E40177.jpg"
       },
       "geometry": {
         "coordinates": [
@@ -831,13 +948,15 @@
           ]
         ],
         "type": "LineString"
-      }
+      },
+      "id": 4
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Brooks Hill Loop / Ford Loop Trail",
-        "distance": ""
+        "distance": "1.9 / 1.6",
+        "url": ""
       },
       "geometry": {
         "coordinates": [
@@ -909,7 +1028,9 @@
       "type": "Feature",
       "properties": {
         "name": "Ford Loop Trail",
-        "distance": 1.6
+        "distance": 1.6,
+        "url": "/mono/planyourvisit/ford-loop-trail.htm",
+        "image": "/common/uploads/grid_builder/mono/crop1_1/DAEF4766-FCF1-606C-312C3B47B824C7A3.jpg"
       },
       "geometry": {
         "coordinates": [
@@ -1131,13 +1252,16 @@
           ]
         ],
         "type": "LineString"
-      }
+      },
+      "id": 6
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "High Water Trail",
-        "distance": 1.55
+        "name": "Ford Loop High Water Trail",
+        "distance": 1.55,
+        "url": "/mono/planyourvisit/ford-loop-trail.htm",
+        "image": "/common/uploads/grid_builder/mono/crop1_1/DAEF4766-FCF1-606C-312C3B47B824C7A3.jpg"
       },
       "geometry": {
         "coordinates": [
@@ -1259,13 +1383,16 @@
           ]
         ],
         "type": "LineString"
-      }
+      },
+      "id": 7
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Gambrill Mill Loop Trail",
-        "distance": 0.5
+        "distance": 0.5,
+        "url": "/mono/planyourvisit/gambrill-mill-trail.htm",
+        "image": "/common/uploads/grid_builder/mono/crop1_1/DB0FA67A-A861-E90D-D1931CB6692F2EC1.jpg"
       },
       "geometry": {
         "coordinates": [
@@ -1403,13 +1530,16 @@
           ]
         ],
         "type": "LineString"
-      }
+      },
+      "id": 8
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Best Farm Loop",
-        "distance": 1.5
+        "distance": 1.5,
+        "url": "/mono/planyourvisit/best-farm-trail.htm",
+        "image": "/common/uploads/grid_builder/mono/crop1_1/DD25E31C-DA0F-A191-643FEC3EE5D705B6.jpg"
       },
       "geometry": {
         "coordinates": [
@@ -1475,13 +1605,16 @@
           ]
         ],
         "type": "LineString"
-      }
+      },
+      "id": 9
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Junction Trail",
-        "distance": "1.0"
+        "distance": "1.0",
+        "url": "/mono/planyourvisit/junction-trail.htm",
+        "image": "/common/uploads/grid_builder/mono/crop1_1/DD79CB06-E14D-EDED-8461CCED96EA1DB7.jpg"
       },
       "geometry": {
         "coordinates": [
@@ -1559,36 +1692,8 @@
           ]
         ],
         "type": "LineString"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Dam Ruins Trail (Coming Soon)",
-        "distance": 0.2
       },
-      "geometry": {
-        "coordinates": [
-          [
-            -77.38558615955452,
-            39.36874296183714
-          ],
-          [
-            -77.3854943656356,
-            39.368951611223224
-          ],
-          [
-            -77.38534252880133,
-            39.368971174804756
-          ],
-          [
-            -77.37990801310603,
-            39.368136021732084
-          ]
-        ],
-        "type": "LineString"
-      },
-      "id": 9
+      "id": 10
     }
   ]
 }
