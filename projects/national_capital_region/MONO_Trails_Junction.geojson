@@ -86,6 +86,20 @@
         ],
         "type": "LineString"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trailhead - Visitor Center"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.39467069614142,
+          39.37707330098331
+        ],
+        "type": "Point"
+      },
+      "id": 1
     }
   ]
 }
