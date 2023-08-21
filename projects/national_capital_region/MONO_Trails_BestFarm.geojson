@@ -74,6 +74,20 @@
         ],
         "type": "LineString"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trailhead - Tour Stop #1"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.39878660352889,
+          39.37051225129545
+        ],
+        "type": "Point"
+      },
+      "id": 1
     }
   ]
 }
