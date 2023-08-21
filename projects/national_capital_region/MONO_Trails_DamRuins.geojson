@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dam Ruins Trail (Coming Soon)",
+        "distance": 0.2,
+        "url": "/mono/planyourvisit/dam-ruins-trail.htm",
+        "image": "/common/uploads/grid_builder/mono/crop1_1/85CD70B3-B250-0E39-7D96A400C8F919A9.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            -77.38558615955452,
+            39.36874296183714
+          ],
+          [
+            -77.3854943656356,
+            39.368951611223224
+          ],
+          [
+            -77.38534252880133,
+            39.368971174804756
+          ],
+          [
+            -77.3797485097932,
+            39.368050078457884
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
