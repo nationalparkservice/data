@@ -108,10 +108,10 @@
         "person": "Jill Biden",
         "year": 2023,
         "url": "/whho/learn/historyculture/biden-cherry-2023.htm",
-        "marker-color": 32,
+        "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "medium",
-        "number": "#306b00"
+        "number": ""
       },
       "geometry": {
         "coordinates": [
