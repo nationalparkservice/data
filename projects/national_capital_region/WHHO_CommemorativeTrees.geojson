@@ -4,6 +4,160 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "medium",
+        "number": 24,
+        "tree": "Southern Magnolia",
+        "person": "Franklin D. Roosevelt",
+        "year": 1942
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03532323790321,
+          38.89740667986845
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "medium",
+        "number": 25,
+        "tree": "Southern Magnolia",
+        "person": "Warren G. Harding",
+        "year": "1922, replaced 1947"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03532440038342,
+          38.89773389215469
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "medium",
+        "number": 29,
+        "tree": "Silver Linden",
+        "person": "Jill Biden",
+        "year": 2021
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03609022298127,
+          38.898153308280456
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "park2",
+        "marker-size": "medium",
+        "marker-color": "#306b00",
+        "number": 10,
+        "tree": "American Elm",
+        "person": "Joe & Jill Biden",
+        "year": 2022,
+        "url": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03597339745293,
+          38.89667336589676
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": 11,
+        "marker-symbol": "park2",
+        "marker-size": "medium",
+        "marker-color": "#306b00",
+        "tree": "Pin Oak",
+        "person": "Melania Trump",
+        "year": 2018
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03595733957378,
+          38.896734292211136
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "medium",
+        "number": 28,
+        "tree": "Red Maple",
+        "person": "Jimmy Carter",
+        "year": 1977
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0362565736832,
+          38.89804153637573
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "number": 12,
+        "tree": "White Dogwood (2)",
+        "person": "Bill & Hillary Clinton",
+        "year": 1996
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03607849882874,
+          38.89673435813944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "number": 18,
+        "tree": "Southern Magnolia",
+        "person": "Andrew Jackson",
+        "year": "1830?",
+        "url": "/whho/learn/historyculture/jackson-magnolia.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0368045483629,
+          38.89745082686892
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "number": 4,
         "marker-symbol": "park2",
         "marker-size": "medium",
@@ -111,64 +265,6 @@
         "coordinates": [
           -77.03722377939667,
           38.89672927820351
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": "park2",
-        "marker-size": "medium",
-        "marker-color": "#306b00",
-        "number": 10,
-        "tree": "American Elm",
-        "person": "Joe & Jill Biden",
-        "year": 2022,
-        "url": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03597339745293,
-          38.89667336589676
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "number": 11,
-        "marker-symbol": "park2",
-        "marker-size": "medium",
-        "marker-color": "#306b00",
-        "tree": "Pin Oak",
-        "person": "Melania Trump",
-        "year": 2018
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03595733957378,
-          38.896734292211136
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "medium",
-        "number": 28,
-        "tree": "Red Maple",
-        "person": "Jimmy Carter",
-        "year": 1977
-      },
-      "geometry": {
-        "coordinates": [
-          -77.0362682320343,
-          38.89800417579178
         ],
         "type": "Point"
       }
@@ -348,25 +444,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "medium",
-        "number": 24,
-        "tree": "Southern Magnolia",
-        "person": "Franklin D. Roosevelt",
-        "year": 1942
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03532323790321,
-          38.89740667986845
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "number": 7,
         "marker-symbol": "park2",
         "marker-size": "medium",
@@ -410,25 +487,6 @@
         "marker-color": "#306b00",
         "marker-size": "medium",
         "marker-symbol": "park2",
-        "number": 12,
-        "tree": "White Dogwood (2)",
-        "person": "Bill & Hillary Clinton",
-        "year": 1996
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03607849882874,
-          38.89673435813944
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "medium",
-        "marker-symbol": "park2",
         "number": 17,
         "tree": "Southern Magnolia",
         "person": "Joe & Jill Biden",
@@ -438,25 +496,6 @@
         "coordinates": [
           -77.0366784843359,
           38.897455563308114
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "medium",
-        "marker-symbol": "park2",
-        "number": 18,
-        "tree": "Southern Magnolia",
-        "person": "Andrew Jackson",
-        "year": 1830
-      },
-      "geometry": {
-        "coordinates": [
-          -77.0368045483629,
-          38.89745082686892
         ],
         "type": "Point"
       }
@@ -507,25 +546,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "medium",
-        "number": 25,
-        "tree": "Southern Magnolia",
-        "person": "Warren G. Harding",
-        "year": "1922, replaced 1947"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03532440038342,
-          38.89773389215469
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "medium",
         "number": 26,
         "tree": "White Oak",
         "person": "Franklin D. Roosevelt",
@@ -554,25 +574,6 @@
         "coordinates": [
           -77.03541052910185,
           38.898526226466316
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "medium",
-        "number": 29,
-        "tree": "Silver Linden",
-        "person": "Jill Biden",
-        "year": 2021
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03613179446778,
-          38.898081824563775
         ],
         "type": "Point"
       }
@@ -614,6 +615,27 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tree": "Cherry",
+        "person": "Jill Biden",
+        "year": 2023,
+        "url": "/whho/learn/historyculture/biden-cherry-2023.htm",
+        "marker-color": 32,
+        "marker-symbol": "park2",
+        "marker-size": "medium",
+        "number": "#306b00"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03555613736214,
+          38.897260755678786
+        ],
+        "type": "Point"
+      },
+      "id": 31
     }
   ]
 }
