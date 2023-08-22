@@ -4,18 +4,18 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "medium",
+        "number": 4,
         "marker-symbol": "park2",
-        "number": 1,
-        "tree": "White Dogwood (3)",
-        "person": "Hillary Rodham Clinton",
-        "year": 1994
+        "marker-size": "medium",
+        "marker-color": "#306b00",
+        "tree": "Cedar of Lebanon",
+        "person": "Jimmy Carter",
+        "year": 1978
       },
       "geometry": {
         "coordinates": [
-          -77.03725571127697,
-          38.89646310801274
+          -77.03708187830425,
+          38.896696457395905
         ],
         "type": "Point"
       }
@@ -37,25 +37,162 @@
           38.89629735476947
         ],
         "type": "Point"
-      },
-      "id": 1
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "number": 7,
+        "marker-color": "#306b00",
+        "marker-symbol": "garden",
+        "number": 2,
+        "marker-size": "medium",
+        "tree": "Children's Garden",
+        "person": "\"Lady Bird\" Johnson",
+        "year": 1969
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03738083510562,
+          38.89620363515289
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "number": 13,
+        "tree": "Littleleaf Linden",
+        "person": "George W. Bush & Queen Elizabeth II",
+        "year": 1991
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03588578721244,
+          38.89693335543157
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "number": 1,
+        "tree": "White Dogwood (3)",
+        "person": "Hillary Rodham Clinton",
+        "year": 1994
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03725571127697,
+          38.89646310801274
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": 3,
         "marker-symbol": "park2",
         "marker-size": "medium",
         "marker-color": "#306b00",
-        "tree": "White Oak",
-        "person": "Herbert Hoover",
-        "year": 1931,
+        "tree": "Cutleaf Silver Maple",
+        "person": "George W. & Laura Bush",
+        "year": 2001
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03722377939667,
+          38.89672927820351
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "park2",
+        "marker-size": "medium",
+        "marker-color": "#306b00",
+        "number": 10,
+        "tree": "American Elm",
+        "person": "Joe & Jill Biden",
+        "year": 2022,
         "url": ""
       },
       "geometry": {
         "coordinates": [
-          -77.03609352208468,
-          38.895641266112676
+          -77.03597339745293,
+          38.89667336589676
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": 11,
+        "marker-symbol": "park2",
+        "marker-size": "medium",
+        "marker-color": "#306b00",
+        "tree": "Pin Oak",
+        "person": "Melania Trump",
+        "year": 2018
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03595733957378,
+          38.896734292211136
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "medium",
+        "number": 28,
+        "tree": "Red Maple",
+        "person": "Jimmy Carter",
+        "year": 1977
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0362682320343,
+          38.89800417579178
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "number": 19,
+        "tree": "Willow Oak",
+        "person": "Lyndon B. Johnson",
+        "year": "October 16, 1964",
+        "url": "/whho/learn/historyculture/lyndon-johnson-willow-oak.htm",
+        "image": "/whho/learn/historyculture/images/JOHNSON_2.png",
+        "latin": "Quercus phellos",
+        "notes": "First Lady Claudia “Lady Bird” Johnson chose this specific type of tree to represent her home state of Texas. Irvin Williams, National Park Service Superintendent of the White House Grounds, accompanied the president and first lady during this planting.",
+        "credit": "NPS"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03713134121148,
+          38.89726845717158
         ],
         "type": "Point"
       }
@@ -77,44 +214,28 @@
           38.89628985075413
         ],
         "type": "Point"
-      },
-      "id": 3
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "garden",
-        "number": 2,
+        "number": 6,
+        "marker-symbol": "circle",
         "marker-size": "medium",
-        "tree": "Children's Garden",
-        "person": "\"Lady Bird\" Johnson",
-        "year": 1969
+        "marker-color": "#306b00",
+        "tree": "White House Kitchen Garden",
+        "person": "Michelle Obama",
+        "year": 2009,
+        "latin": "",
+        "credit": "NPS",
+        "notes": "Although the White House Kitchen Garden is a recent addition, there is a long tradition of produce-growing at the White House. President John Adams planned the first vegetable garden on the White House grounds in 1797. Many presidents and first ladies continued the practice by planting fruit trees, orchards, and establishing greenhouses. During World War II, First Lady Eleanor Roosevelt planted a Victory Garden at the White House, encouraging all Americans to grow their own food to overcome supply shortages during the war.",
+        "url": "/places/000/white-house-kitchen-garden.htm",
+        "image": "/common/uploads/cropped_image/primary/0349B8D4-B4B1-9219-9FEE8B42ADAE7DE9.jpg"
       },
       "geometry": {
         "coordinates": [
-          -77.03738083510562,
-          38.89620363515289
-        ],
-        "type": "Point"
-      },
-      "id": 4
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "number": 3,
-        "marker-symbol": "park2",
-        "marker-size": "medium",
-        "marker-color": "#306b00",
-        "tree": "Cutleaf Silver Maple",
-        "person": "George W. & Laura Bush",
-        "year": 2001
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03720069689038,
-          38.896657964033125
+          -77.03707519637787,
+          38.895803780484925
         ],
         "type": "Point"
       }
@@ -122,18 +243,143 @@
     {
       "type": "Feature",
       "properties": {
-        "number": 4,
-        "marker-symbol": "park2",
-        "marker-size": "medium",
         "marker-color": "#306b00",
-        "tree": "Cedar of Lebanon",
-        "person": "Jimmy Carter",
-        "year": 1978
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "number": 14,
+        "tree": "Silver Linden",
+        "person": "George W. & Laura Bush",
+        "year": 2008
       },
       "geometry": {
         "coordinates": [
-          -77.03681888092191,
-          38.89655651425397
+          -77.03594135625725,
+          38.897315526353026
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "number": 15,
+        "tree": "Jacqueline Kennedy Garden",
+        "person": "",
+        "year": 1965
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03604001966094,
+          38.89749116541583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "number": 16,
+        "tree": "Willow Oak",
+        "person": "Ronald Reagan",
+        "year": "October 24, 1988",
+        "url": "/whho/learn/historyculture/ronald-reagan-willow-oak.htm",
+        "image": "/whho/learn/historyculture/images/REAGAN_1.jpg",
+        "latin": "Quercus phellos",
+        "notes": "The oak was a gift from the American Association of Nurserymen. ",
+        "credit": "NPS"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03620445867061,
+          38.897218439246586
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "garden",
+        "marker-size": "medium",
+        "number": 20,
+        "tree": "Rose Garden",
+        "person": "",
+        "year": 1913
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03711696485817,
+          38.89747765219661
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "number": 22,
+        "tree": "Littleleaf Linden",
+        "person": "Bill Clinton",
+        "year": "October 10, 1993",
+        "url": "/whho/learn/historyculture/bill-clinton-littleleaf-linden.htm",
+        "image": "/whho/learn/historyculture/images/CLINTON_2.png",
+        "latin": "Tilia cordata",
+        "notes": "",
+        "credit": "NPS"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03726247105605,
+          38.89716504608592
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "medium",
+        "number": 24,
+        "tree": "Southern Magnolia",
+        "person": "Franklin D. Roosevelt",
+        "year": 1942
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03532323790321,
+          38.89740667986845
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": 7,
+        "marker-symbol": "park2",
+        "marker-size": "medium",
+        "marker-color": "#306b00",
+        "tree": "White Oak",
+        "person": "Herbert Hoover",
+        "year": 1931,
+        "url": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03609352208468,
+          38.895641266112676
         ],
         "type": "Point"
       }
@@ -161,70 +407,6 @@
     {
       "type": "Feature",
       "properties": {
-        "number": 6,
-        "marker-symbol": "circle",
-        "marker-size": "medium",
-        "marker-color": "#306b00",
-        "tree": "White House Kitchen Garden",
-        "person": "Michelle Obama",
-        "year": 2009,
-        "latin": "",
-        "credit": "NPS",
-        "notes": "Although the White House Kitchen Garden is a recent addition, there is a long tradition of produce-growing at the White House. President John Adams planned the first vegetable garden on the White House grounds in 1797. Many presidents and first ladies continued the practice by planting fruit trees, orchards, and establishing greenhouses. During World War II, First Lady Eleanor Roosevelt planted a Victory Garden at the White House, encouraging all Americans to grow their own food to overcome supply shortages during the war.",
-        "url": "/places/000/white-house-kitchen-garden.htm",
-        "image": "/common/uploads/cropped_image/primary/0349B8D4-B4B1-9219-9FEE8B42ADAE7DE9.jpg"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03707519637787,
-          38.895803780484925
-        ],
-        "type": "Point"
-      },
-      "id": 8
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": "park2",
-        "marker-size": "medium",
-        "marker-color": "#306b00",
-        "number": 10,
-        "tree": "American Elm",
-        "person": "Joe & Jill Biden",
-        "year": 2022,
-        "url": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03606877359125,
-          38.89659120916622
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "number": 11,
-        "marker-symbol": "park2",
-        "marker-size": "medium",
-        "marker-color": "#306b00",
-        "tree": "Pin Oak",
-        "person": "Melania Trump",
-        "year": 2018
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03594885495437,
-          38.896604036280564
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#306b00",
         "marker-size": "medium",
         "marker-symbol": "park2",
@@ -240,91 +422,6 @@
         ],
         "type": "Point"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "medium",
-        "marker-symbol": "park2",
-        "number": 13,
-        "tree": "Littleleaf Linden",
-        "person": "George W. Bush & Queen Elizabeth II",
-        "year": 1991
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03588578721244,
-          38.89693335543157
-        ],
-        "type": "Point"
-      },
-      "id": 12
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "medium",
-        "marker-symbol": "park2",
-        "number": 14,
-        "tree": "Silver Linden",
-        "person": "George W. & Laura Bush",
-        "year": 2008
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03594135625725,
-          38.897315526353026
-        ],
-        "type": "Point"
-      },
-      "id": 13
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "medium",
-        "marker-symbol": "garden",
-        "number": 15,
-        "tree": "Jacqueline Kennedy Garden",
-        "person": "",
-        "year": 1965
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03604001966094,
-          38.89749116541583
-        ],
-        "type": "Point"
-      },
-      "id": 14
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "medium",
-        "marker-symbol": "park2",
-        "number": 16,
-        "tree": "Willow Oak",
-        "person": "Ronald Reagan",
-        "year": "October 24, 1988",
-        "url": "/whho/learn/historyculture/ronald-reagan-willow-oak.htm",
-        "image": "/whho/learn/historyculture/images/REAGAN_1.jpg",
-        "latin": "Quercus phellos",
-        "notes": "The oak was a gift from the American Association of Nurserymen. ",
-        "credit": "NPS"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03620445867061,
-          38.897218439246586
-        ],
-        "type": "Point"
-      },
-      "id": 15
     },
     {
       "type": "Feature",
@@ -368,51 +465,6 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#306b00",
-        "marker-size": "medium",
-        "marker-symbol": "park2",
-        "number": 19,
-        "tree": "Willow Oak",
-        "person": "Lyndon B. Johnson",
-        "year": "October 16, 1964",
-        "url": "/whho/learn/historyculture/lyndon-johnson-willow-oak.htm",
-        "image": "/whho/learn/historyculture/images/JOHNSON_2.png",
-        "latin": "Quercus phellos",
-        "notes": "First Lady Claudia “Lady Bird” Johnson chose this specific type of tree to represent her home state of Texas. Irvin Williams, National Park Service Superintendent of the White House Grounds, accompanied the president and first lady during this planting.",
-        "credit": "NPS"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03713134121148,
-          38.89726845717158
-        ],
-        "type": "Point"
-      },
-      "id": 18
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "garden",
-        "marker-size": "medium",
-        "number": 20,
-        "tree": "Rose Garden",
-        "person": "",
-        "year": 1913
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03711696485817,
-          38.89747765219661
-        ],
-        "type": "Point"
-      },
-      "id": 19
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "medium",
         "number": 21,
@@ -434,31 +486,6 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#306b00",
-        "marker-size": "medium",
-        "marker-symbol": "park2",
-        "number": 22,
-        "tree": "Littleleaf Linden",
-        "person": "Bill Clinton",
-        "year": "October 10, 1993",
-        "url": "/whho/learn/historyculture/bill-clinton-littleleaf-linden.htm",
-        "image": "/whho/learn/historyculture/images/CLINTON_2.png",
-        "latin": "Tilia cordata",
-        "notes": "",
-        "credit": "NPS"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03726247105605,
-          38.89716504608592
-        ],
-        "type": "Point"
-      },
-      "id": 21
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "medium",
         "number": 23,
@@ -473,26 +500,6 @@
         ],
         "type": "Point"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "medium",
-        "number": 24,
-        "tree": "Southern Magnolia",
-        "person": "Franklin D. Roosevelt",
-        "year": 1942
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03532323790321,
-          38.89740667986845
-        ],
-        "type": "Point"
-      },
-      "id": 23
     },
     {
       "type": "Feature",
@@ -557,25 +564,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "medium",
-        "number": 28,
-        "tree": "Red Maple",
-        "person": "Jimmy Carter",
-        "year": 1977
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03626927575714,
-          38.89812520735168
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "medium",
         "number": 29,
         "tree": "Silver Linden",
         "person": "Jill Biden",
@@ -583,8 +571,8 @@
       },
       "geometry": {
         "coordinates": [
-          -77.03614014425126,
-          38.898224787851206
+          -77.03613179446778,
+          38.898081824563775
         ],
         "type": "Point"
       }
@@ -602,8 +590,8 @@
       },
       "geometry": {
         "coordinates": [
-          -77.03626337934196,
-          38.89847763909228
+          -77.03626012143965,
+          38.898479987846656
         ],
         "type": "Point"
       }
@@ -621,8 +609,8 @@
       },
       "geometry": {
         "coordinates": [
-          -77.03718833405138,
-          38.898414048324526
+          -77.03683647997084,
+          38.89806548072616
         ],
         "type": "Point"
       }
