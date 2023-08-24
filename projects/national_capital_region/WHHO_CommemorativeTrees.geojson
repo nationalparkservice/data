@@ -5,6 +5,130 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "number": 12,
+        "tree": "White Dogwood (2)",
+        "person": "Bill & Hillary Clinton",
+        "year": 1996,
+        "url": "/whho/learn/historyculture/clinton-dogwood-1996.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03597322678459,
+          38.89667537285615
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tree": "Cherry",
+        "person": "Jill Biden",
+        "year": 2023,
+        "url": "/whho/learn/historyculture/biden-cherry-2023.htm",
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "medium",
+        "number": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03555613736214,
+          38.897260755678786
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "number": 18,
+        "tree": "Southern Magnolia",
+        "person": "Andrew Jackson",
+        "year": "1830?",
+        "url": "/whho/learn/historyculture/jackson-magnolia.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0368045483629,
+          38.89745082686892
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "number": 13,
+        "tree": "Littleleaf Linden",
+        "person": "George W. Bush & Queen Elizabeth II",
+        "year": 1991,
+        "url": "/whho/learn/historyculture/bush-linden-1991.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0358810000348,
+          38.89694080692934
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "number": 16,
+        "tree": "Willow Oak",
+        "person": "Ronald Reagan",
+        "year": "October 24, 1988",
+        "url": "/whho/learn/historyculture/ronald-reagan-willow-oak.htm",
+        "image": "/whho/learn/historyculture/images/REAGAN_1.jpg",
+        "latin": "Quercus phellos",
+        "notes": "The oak was a gift from the American Association of Nurserymen. ",
+        "credit": "NPS"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03621499046218,
+          38.89721098777741
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "number": 17,
+        "tree": "Southern Magnolia",
+        "person": "Joe & Jill Biden",
+        "year": 2022,
+        "url": "/whho/learn/historyculture/biden-magnolia-2022.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0366784843359,
+          38.897455563308114
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "medium",
         "number": 29,
@@ -37,26 +161,6 @@
         "coordinates": [
           -77.03625934968805,
           38.89811859296597
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "medium",
-        "marker-symbol": "park2",
-        "number": 12,
-        "tree": "White Dogwood (2)",
-        "person": "Bill & Hillary Clinton",
-        "year": 1996,
-        "url": "/whho/learn/historyculture/clinton-dogwood-1996.htm"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03597322678459,
-          38.89667537285615
         ],
         "type": "Point"
       }
@@ -104,26 +208,6 @@
     {
       "type": "Feature",
       "properties": {
-        "tree": "Cherry",
-        "person": "Jill Biden",
-        "year": 2023,
-        "url": "/whho/learn/historyculture/biden-cherry-2023.htm",
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "medium",
-        "number": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03555613736214,
-          38.897260755678786
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "medium",
@@ -157,26 +241,6 @@
         "coordinates": [
           -77.03532440038342,
           38.89773389215469
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "medium",
-        "marker-symbol": "park2",
-        "number": 18,
-        "tree": "Southern Magnolia",
-        "person": "Andrew Jackson",
-        "year": "1830?",
-        "url": "/whho/learn/historyculture/jackson-magnolia.htm"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.0368045483629,
-          38.89745082686892
         ],
         "type": "Point"
       }
@@ -236,26 +300,6 @@
         "coordinates": [
           -77.03738083510562,
           38.89620363515289
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "medium",
-        "marker-symbol": "park2",
-        "number": 13,
-        "tree": "Littleleaf Linden",
-        "person": "George W. Bush & Queen Elizabeth II",
-        "year": 1991,
-        "url": "/whho/learn/historyculture/bush-linden-1991.htm"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.0358810000348,
-          38.89694080692934
         ],
         "type": "Point"
       }
@@ -412,30 +456,6 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#306b00",
-        "marker-size": "medium",
-        "marker-symbol": "park2",
-        "number": 16,
-        "tree": "Willow Oak",
-        "person": "Ronald Reagan",
-        "year": "October 24, 1988",
-        "url": "/whho/learn/historyculture/ronald-reagan-willow-oak.htm",
-        "image": "/whho/learn/historyculture/images/REAGAN_1.jpg",
-        "latin": "Quercus phellos",
-        "notes": "The oak was a gift from the American Association of Nurserymen. ",
-        "credit": "NPS"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03621499046218,
-          38.89721098777741
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
         "marker-symbol": "garden",
         "marker-size": "medium",
         "number": 20,
@@ -512,26 +532,6 @@
         "coordinates": [
           -77.0367537052983,
           38.896287312181045
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "medium",
-        "marker-symbol": "park2",
-        "number": 17,
-        "tree": "Southern Magnolia",
-        "person": "Joe & Jill Biden",
-        "year": 2022,
-        "url": "/whho/learn/historyculture/biden-magnolia-2022.htm"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.0366784843359,
-          38.897455563308114
         ],
         "type": "Point"
       }
@@ -656,6 +656,28 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tree": "Ruth Ellen Dogwood",
+        "person": "Bill & Hillary Clinton",
+        "year": 1995,
+        "url": "/whho/learn/historyculture/clinton-dogwood-1995.htm",
+        "image": "/whho/learn/historyculture/images/Clinton-Dogwood-1995_1.jpg",
+        "latin": "Cornus x rutgersensis ‘Ruth Ellen’ ",
+        "marker-color": "#306b00",
+        "marker-size": "park2",
+        "marker-symbol": "medium"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03596332994407,
+          38.89673673820798
+        ],
+        "type": "Point"
+      },
+      "id": 32
     }
   ]
 }
