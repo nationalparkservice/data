@@ -671,8 +671,8 @@
         "image": "/whho/learn/historyculture/images/Clinton-Dogwood-1995_1.jpg",
         "latin": "Cornus x rutgersensis ‘Ruth Ellen’ ",
         "marker-color": "#306b00",
-        "marker-size": "park2",
-        "marker-symbol": "medium"
+        "marker-size": "medium",
+        "marker-symbol": "park2"
       },
       "geometry": {
         "coordinates": [
