@@ -8,10 +8,11 @@
         "marker-size": "medium",
         "marker-symbol": "park2",
         "number": 12,
-        "tree": "White Dogwood (2)",
+        "tree": "White Dogwood",
         "person": "Bill & Hillary Clinton",
         "year": 1996,
-        "url": "/whho/learn/historyculture/clinton-dogwood-1996.htm"
+        "url": "/whho/learn/historyculture/clinton-dogwood-1996.htm",
+        "image": ""
       },
       "geometry": {
         "coordinates": [
@@ -69,7 +70,7 @@
         "marker-symbol": "park2",
         "number": 13,
         "tree": "Littleleaf Linden",
-        "person": "George W. Bush & Queen Elizabeth II",
+        "person": "George H. W. Bush & Queen Elizabeth II",
         "year": 1991,
         "url": "/whho/learn/historyculture/bush-linden-1991.htm"
       },
@@ -90,7 +91,7 @@
         "number": 16,
         "tree": "Willow Oak",
         "person": "Ronald Reagan",
-        "year": "October 24, 1988",
+        "year": 1988,
         "url": "/whho/learn/historyculture/ronald-reagan-willow-oak.htm",
         "image": "/whho/learn/historyculture/images/REAGAN_1.jpg",
         "latin": "Quercus phellos",
@@ -115,7 +116,10 @@
         "tree": "Southern Magnolia",
         "person": "Joe & Jill Biden",
         "year": 2022,
-        "url": "/whho/learn/historyculture/biden-magnolia-2022.htm"
+        "url": "/whho/learn/historyculture/biden-magnolia-2022.htm",
+        "image": "",
+        "latin": "Magnolia grandiflora",
+        "notes": "President Joe Biden and First Lady Jill Biden planted a southern magnolia tree near the South Portico on May 30, 2022, as part of a Memorial Day ceremony. The tree was planted with five Gold Star family members in attendance to honor the U.S. Armed Forces members who lost their lives in combat."
       },
       "geometry": {
         "coordinates": [
