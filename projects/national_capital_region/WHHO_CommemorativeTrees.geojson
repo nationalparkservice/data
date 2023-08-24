@@ -7,7 +7,6 @@
         "marker-color": "#306b00",
         "marker-size": "medium",
         "marker-symbol": "park2",
-        "number": 12,
         "tree": "White Dogwood",
         "person": "Bill & Hillary Clinton",
         "year": 1996,
@@ -31,8 +30,7 @@
         "url": "/whho/learn/historyculture/biden-cherry-2023.htm",
         "marker-color": "#306b00",
         "marker-symbol": "park2",
-        "marker-size": "medium",
-        "number": ""
+        "marker-size": "medium"
       },
       "geometry": {
         "coordinates": [
@@ -48,7 +46,6 @@
         "marker-color": "#306b00",
         "marker-size": "medium",
         "marker-symbol": "park2",
-        "number": 18,
         "tree": "Southern Magnolia",
         "person": "Andrew Jackson",
         "year": "1830?",
@@ -68,7 +65,6 @@
         "marker-color": "#306b00",
         "marker-size": "medium",
         "marker-symbol": "park2",
-        "number": 13,
         "tree": "Littleleaf Linden",
         "person": "George H. W. Bush & Queen Elizabeth II",
         "year": 1991,
@@ -88,15 +84,12 @@
         "marker-color": "#306b00",
         "marker-size": "medium",
         "marker-symbol": "park2",
-        "number": 16,
         "tree": "Willow Oak",
         "person": "Ronald Reagan",
         "year": 1988,
         "url": "/whho/learn/historyculture/ronald-reagan-willow-oak.htm",
         "image": "/whho/learn/historyculture/images/REAGAN_1.jpg",
-        "latin": "Quercus phellos",
-        "notes": "The oak was a gift from the American Association of Nurserymen. ",
-        "credit": "NPS"
+        "latin": "Quercus phellos"
       },
       "geometry": {
         "coordinates": [
@@ -112,14 +105,12 @@
         "marker-color": "#306b00",
         "marker-size": "medium",
         "marker-symbol": "park2",
-        "number": 17,
         "tree": "Southern Magnolia",
         "person": "Joe & Jill Biden",
         "year": 2022,
         "url": "/whho/learn/historyculture/biden-magnolia-2022.htm",
         "image": "",
-        "latin": "Magnolia grandiflora",
-        "notes": "President Joe Biden and First Lady Jill Biden planted a southern magnolia tree near the South Portico on May 30, 2022, as part of a Memorial Day ceremony. The tree was planted with five Gold Star family members in attendance to honor the U.S. Armed Forces members who lost their lives in combat."
+        "latin": "Magnolia grandiflora"
       },
       "geometry": {
         "coordinates": [
@@ -135,7 +126,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "medium",
-        "number": 29,
         "tree": "Silver Linden",
         "person": "Jill Biden",
         "year": 2021,
@@ -155,7 +145,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "medium",
-        "number": 28,
         "tree": "Red Maple",
         "person": "Jimmy Carter",
         "year": 1977,
@@ -175,7 +164,6 @@
         "marker-symbol": "park2",
         "marker-size": "medium",
         "marker-color": "#306b00",
-        "number": 10,
         "tree": "American Elm",
         "person": "Joe & Jill Biden",
         "year": 2022,
@@ -192,7 +180,6 @@
     {
       "type": "Feature",
       "properties": {
-        "number": 11,
         "marker-symbol": "park2",
         "marker-size": "medium",
         "marker-color": "#306b00",
@@ -215,7 +202,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "medium",
-        "number": 24,
         "tree": "Southern Magnolia",
         "person": "Franklin D. Roosevelt",
         "year": 1942,
@@ -235,7 +221,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "medium",
-        "number": 25,
         "tree": "Southern Magnolia",
         "person": "Warren G. Harding",
         "year": "1922, replaced 1947",
@@ -252,7 +237,6 @@
     {
       "type": "Feature",
       "properties": {
-        "number": 4,
         "marker-symbol": "park2",
         "marker-size": "medium",
         "marker-color": "#306b00",
@@ -275,7 +259,6 @@
         "marker-symbol": "park2",
         "marker-size": "medium",
         "marker-color": "#306b00",
-        "number": 9,
         "tree": "Willow Oak",
         "person": "Bill and Hillary Clinton",
         "year": 1993,
@@ -294,7 +277,6 @@
       "properties": {
         "marker-color": "#306b00",
         "marker-symbol": "garden",
-        "number": 2,
         "marker-size": "medium",
         "tree": "Children's Garden",
         "person": "\"Lady Bird\" Johnson",
@@ -314,7 +296,6 @@
         "marker-color": "#306b00",
         "marker-size": "medium",
         "marker-symbol": "park2",
-        "number": 1,
         "tree": "White Dogwood (3)",
         "person": "Hillary Rodham Clinton",
         "year": 1994,
@@ -331,7 +312,6 @@
     {
       "type": "Feature",
       "properties": {
-        "number": 3,
         "marker-symbol": "park2",
         "marker-size": "medium",
         "marker-color": "#306b00",
@@ -354,15 +334,12 @@
         "marker-color": "#306b00",
         "marker-size": "medium",
         "marker-symbol": "park2",
-        "number": 19,
         "tree": "Willow Oak",
         "person": "Lyndon B. Johnson",
         "year": "October 16, 1964",
         "url": "/whho/learn/historyculture/lyndon-johnson-willow-oak.htm",
         "image": "/whho/learn/historyculture/images/JOHNSON_2.png",
-        "latin": "Quercus phellos",
-        "notes": "First Lady Claudia “Lady Bird” Johnson chose this specific type of tree to represent her home state of Texas. Irvin Williams, National Park Service Superintendent of the White House Grounds, accompanied the president and first lady during this planting.",
-        "credit": "NPS"
+        "latin": "Quercus phellos"
       },
       "geometry": {
         "coordinates": [
@@ -375,7 +352,6 @@
     {
       "type": "Feature",
       "properties": {
-        "number": 8,
         "marker-symbol": "park2",
         "marker-size": "medium",
         "marker-color": "#306b00",
@@ -395,7 +371,6 @@
     {
       "type": "Feature",
       "properties": {
-        "number": 6,
         "marker-symbol": "circle",
         "marker-size": "medium",
         "marker-color": "#306b00",
@@ -403,8 +378,6 @@
         "person": "Michelle Obama",
         "year": 2009,
         "latin": "",
-        "credit": "NPS",
-        "notes": "Although the White House Kitchen Garden is a recent addition, there is a long tradition of produce-growing at the White House. President John Adams planned the first vegetable garden on the White House grounds in 1797. Many presidents and first ladies continued the practice by planting fruit trees, orchards, and establishing greenhouses. During World War II, First Lady Eleanor Roosevelt planted a Victory Garden at the White House, encouraging all Americans to grow their own food to overcome supply shortages during the war.",
         "url": "/places/000/white-house-kitchen-garden.htm",
         "image": "/common/uploads/cropped_image/primary/0349B8D4-B4B1-9219-9FEE8B42ADAE7DE9.jpg"
       },
@@ -422,7 +395,6 @@
         "marker-color": "#306b00",
         "marker-size": "medium",
         "marker-symbol": "park2",
-        "number": 14,
         "tree": "Silver Linden",
         "person": "George W. & Laura Bush",
         "year": 2008,
@@ -442,7 +414,6 @@
         "marker-color": "#306b00",
         "marker-size": "medium",
         "marker-symbol": "garden",
-        "number": 15,
         "tree": "Jacqueline Kennedy Garden",
         "person": "",
         "year": 1965,
@@ -462,7 +433,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "garden",
         "marker-size": "medium",
-        "number": 20,
         "tree": "Rose Garden",
         "person": "",
         "year": 1913
@@ -481,15 +451,12 @@
         "marker-color": "#306b00",
         "marker-size": "medium",
         "marker-symbol": "park2",
-        "number": 22,
         "tree": "Littleleaf Linden",
         "person": "Bill Clinton",
         "year": "October 10, 1993",
         "url": "/whho/learn/historyculture/bill-clinton-littleleaf-linden.htm",
         "image": "/whho/learn/historyculture/images/CLINTON_2.png",
-        "latin": "Tilia cordata",
-        "notes": "",
-        "credit": "NPS"
+        "latin": "Tilia cordata"
       },
       "geometry": {
         "coordinates": [
@@ -502,7 +469,6 @@
     {
       "type": "Feature",
       "properties": {
-        "number": 7,
         "marker-symbol": "park2",
         "marker-size": "medium",
         "marker-color": "#306b00",
@@ -522,7 +488,6 @@
     {
       "type": "Feature",
       "properties": {
-        "number": 5,
         "marker-symbol": "park2",
         "marker-size": "medium",
         "marker-color": "#306b00",
@@ -546,7 +511,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "medium",
-        "number": 21,
         "tree": "Saucer Magnolia (3)",
         "person": "John F. Kennedy",
         "year": 1962,
@@ -567,7 +531,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "medium",
-        "number": 23,
         "tree": "October Glory Maple",
         "person": "Donald & Melania Trump",
         "year": 2020,
@@ -587,7 +550,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "medium",
-        "number": 26,
         "tree": "White Oak",
         "person": "Franklin D. Roosevelt",
         "year": 1935,
@@ -607,7 +569,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "medium",
-        "number": 27,
         "tree": "Littleleaf Linden",
         "person": "Barack Obama",
         "year": 2009,
@@ -627,7 +588,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "medium",
-        "number": 30,
         "tree": "Yulan Magnolia",
         "person": "Nancy Reagan",
         "year": 1982,
@@ -647,7 +607,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "medium",
-        "number": 31,
         "tree": "Jefferson Elm",
         "person": "George W. & Laura Bush",
         "year": 2006,
