@@ -4,27 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "small",
-        "marker-symbol": "park2",
-        "number": 12,
-        "tree": "White Dogwood",
-        "person": "Bill & Hillary Clinton",
-        "year": 1996,
-        "url": "/whho/learn/historyculture/clinton-dogwood-1996.htm",
-        "image": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03597322678459,
-          38.89667537285615
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "tree": "Cherry",
         "person": "Jill Biden",
         "year": 2023,
@@ -40,8 +19,89 @@
           38.897260755678786
         ],
         "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "number": 26,
+        "tree": "White Oak",
+        "person": "Franklin D. Roosevelt",
+        "year": 1935,
+        "url": "/whho/learn/historyculture/roosevelt-oak-1935.htm"
       },
-      "id": 1
+      "geometry": {
+        "coordinates": [
+          -77.035679567063,
+          38.89798768359228
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "number": 27,
+        "tree": "Littleleaf Linden",
+        "person": "Barack Obama",
+        "year": 2009,
+        "url": "/whho/learn/historyculture/obama-linden-2009.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03541361228858,
+          38.898520513517525
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tree": "Ruth Ellen Dogwood",
+        "person": "Bill & Hillary Clinton",
+        "year": 1995,
+        "url": "/whho/learn/historyculture/clinton-dogwood-1995.htm",
+        "image": "/whho/learn/historyculture/images/Clinton-Dogwood-1995_1.jpg",
+        "latin": "Cornus x rutgersensis ‘Ruth Ellen’ ",
+        "marker-color": "#306b00",
+        "marker-size": "small",
+        "marker-symbol": "park2"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03598608399436,
+          38.896780875586444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "small",
+        "marker-symbol": "park2",
+        "number": 12,
+        "tree": "White Dogwood",
+        "person": "Bill & Hillary Clinton",
+        "year": 1996,
+        "url": "/whho/learn/historyculture/clinton-dogwood-1996.htm",
+        "image": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03597436213533,
+          38.89663981607859
+        ],
+        "type": "Point"
+      }
     },
     {
       "type": "Feature",
@@ -184,8 +244,8 @@
       },
       "geometry": {
         "coordinates": [
-          -77.03604773806667,
-          38.89668451280809
+          -77.03606029750873,
+          38.89669251033524
         ],
         "type": "Point"
       }
@@ -204,8 +264,8 @@
       },
       "geometry": {
         "coordinates": [
-          -77.0359651979652,
-          38.896703458796566
+          -77.03593503126055,
+          38.89670698599559
         ],
         "type": "Point"
       }
@@ -284,8 +344,8 @@
       },
       "geometry": {
         "coordinates": [
-          -77.03614915570382,
-          38.896312663588986
+          -77.03614094062678,
+          38.89630243373287
         ],
         "type": "Point"
       }
@@ -387,8 +447,8 @@
       },
       "geometry": {
         "coordinates": [
-          -77.03632922328705,
-          38.89628985075413
+          -77.03633196164594,
+          38.896280473384024
         ],
         "type": "Point"
       }
@@ -515,7 +575,7 @@
       "geometry": {
         "coordinates": [
           -77.0361087352304,
-          38.89562843917133
+          38.89560561434047
         ],
         "type": "Point"
       }
@@ -588,46 +648,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "small",
-        "number": 26,
-        "tree": "White Oak",
-        "person": "Franklin D. Roosevelt",
-        "year": 1935,
-        "url": "/whho/learn/historyculture/roosevelt-oak-1935.htm"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.035679567063,
-          38.898003094696094
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "number": 27,
-        "tree": "Littleleaf Linden",
-        "person": "Barack Obama",
-        "year": 2009,
-        "url": "/whho/learn/historyculture/obama-linden-2009.htm"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03541361228858,
-          38.89853342502195
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "small",
         "number": 30,
         "tree": "Yulan Magnolia",
         "person": "Nancy Reagan",
@@ -636,8 +656,8 @@
       },
       "geometry": {
         "coordinates": [
-          -77.03626012143965,
-          38.898479987846656
+          -77.03626313784585,
+          38.89846590255698
         ],
         "type": "Point"
       }
@@ -661,28 +681,6 @@
         ],
         "type": "Point"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "tree": "Ruth Ellen Dogwood",
-        "person": "Bill & Hillary Clinton",
-        "year": 1995,
-        "url": "/whho/learn/historyculture/clinton-dogwood-1995.htm",
-        "image": "/whho/learn/historyculture/images/Clinton-Dogwood-1995_1.jpg",
-        "latin": "Cornus x rutgersensis ‘Ruth Ellen’ ",
-        "marker-color": "#306b00",
-        "marker-size": "small",
-        "marker-symbol": "park2"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03596332994407,
-          38.89673673820798
-        ],
-        "type": "Point"
-      },
-      "id": 32
     }
   ]
 }
