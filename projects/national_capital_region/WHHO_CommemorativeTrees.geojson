@@ -56,7 +56,9 @@
         "tree": "Littleleaf Linden",
         "person": "Barack Obama",
         "year": 2009,
-        "url": "/whho/learn/historyculture/obama-linden-2009.htm"
+        "url": "/whho/learn/historyculture/obama-linden-2009.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/66BDBEDB-DF35-DE1C-A937EB0F8E69EAAA.jpg",
+        "latin": "Tilia cordata"
       },
       "geometry": {
         "coordinates": [
@@ -213,7 +215,8 @@
           38.896780875586444
         ],
         "type": "Point"
-      }
+      },
+      "id": 9
     },
     {
       "type": "Feature",
@@ -226,7 +229,8 @@
         "person": "Bill & Hillary Clinton",
         "year": 1996,
         "url": "/whho/learn/historyculture/clinton-dogwood-1996.htm",
-        "image": ""
+        "image": "/common/uploads/grid_builder/whho/crop1_1/99AD38BD-F782-238D-1B4BB8B704F62C15.jpg",
+        "latin": "Cornus florida"
       },
       "geometry": {
         "coordinates": [
@@ -234,7 +238,8 @@
           38.89663981607859
         ],
         "type": "Point"
-      }
+      },
+      "id": 10
     },
     {
       "type": "Feature",
@@ -274,7 +279,8 @@
           38.89694080692934
         ],
         "type": "Point"
-      }
+      },
+      "id": 12
     },
     {
       "type": "Feature",
@@ -432,7 +438,9 @@
         "tree": "Cutleaf Silver Maple",
         "person": "George W. & Laura Bush",
         "year": 2001,
-        "url": "/whho/learn/historyculture/bush-maple-2001.htm"
+        "url": "/whho/learn/historyculture/bush-maple-2001.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/CAAEE141-D081-0C24-E0CE1F0FA3FBD705.jpg",
+        "latin": "Acer saccharinum ‘Wieri’"
       },
       "geometry": {
         "coordinates": [
@@ -440,7 +448,8 @@
           38.89673397458387
         ],
         "type": "Point"
-      }
+      },
+      "id": 20
     },
     {
       "type": "Feature",
@@ -520,7 +529,9 @@
         "tree": "Silver Linden",
         "person": "George W. & Laura Bush",
         "year": 2008,
-        "url": "/whho/learn/historyculture/bush-linden-2008.htm"
+        "url": "/whho/learn/historyculture/bush-linden-2008.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/96AC957E-F11A-A77E-7D94BAA2531EB627.jpg",
+        "latin": "Tilia tomentosa"
       },
       "geometry": {
         "coordinates": [
@@ -528,7 +539,8 @@
           38.897315526353026
         ],
         "type": "Point"
-      }
+      },
+      "id": 24
     },
     {
       "type": "Feature",
@@ -685,7 +697,9 @@
         "tree": "Jefferson Elm",
         "person": "George W. & Laura Bush",
         "year": 2006,
-        "url": "/whho/learn/historyculture/bush-elm-2006.htm"
+        "url": "/whho/learn/historyculture/bush-elm-2006.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/970A64C9-C938-2BAE-4A2CA05A1637C0D6.jpg",
+        "latin": "Ulmus americana ‘Jefferson’"
       },
       "geometry": {
         "coordinates": [
@@ -693,7 +707,8 @@
           38.89806548072616
         ],
         "type": "Point"
-      }
+      },
+      "id": 32
     }
   ]
 }
