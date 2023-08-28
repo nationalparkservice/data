@@ -4,6 +4,46 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "number": 29,
+        "tree": "Silver Linden",
+        "person": "Jill Biden",
+        "year": 2021,
+        "url": "/whho/learn/historyculture/biden-linden-2021.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0362432095063,
+          38.89814890857298
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "number": 28,
+        "tree": "Red Maple",
+        "person": "Jimmy Carter",
+        "year": 1977,
+        "url": "/whho/learn/historyculture/carter-maple-1977.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03627759755642,
+          38.89804791290666
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "tree": "Cherry",
         "person": "Jill Biden",
         "year": 2023,
@@ -186,46 +226,6 @@
         "coordinates": [
           -77.0366784843359,
           38.897455563308114
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "number": 29,
-        "tree": "Silver Linden",
-        "person": "Jill Biden",
-        "year": 2021,
-        "url": "/whho/learn/historyculture/biden-linden-2021.htm"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03620484326251,
-          38.89820257687015
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "number": 28,
-        "tree": "Red Maple",
-        "person": "Jimmy Carter",
-        "year": 1977,
-        "url": "/whho/learn/historyculture/carter-maple-1977.htm"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03625934968805,
-          38.89811859296597
         ],
         "type": "Point"
       }
