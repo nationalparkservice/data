@@ -398,7 +398,8 @@
         "marker-size": "small",
         "tree": "Children's Garden",
         "person": "\"Lady Bird\" Johnson",
-        "year": 1969
+        "year": 1969,
+        "url": "/whho/learn/historyculture/children-s-garden.htm"
       },
       "geometry": {
         "coordinates": [
@@ -406,7 +407,8 @@
           38.89620363515289
         ],
         "type": "Point"
-      }
+      },
+      "id": 18
     },
     {
       "type": "Feature",
@@ -508,8 +510,8 @@
         "latin": "",
         "credit": "NPS",
         "notes": "Although the White House Kitchen Garden is a recent addition, there is a long tradition of produce-growing at the White House. President John Adams planned the first vegetable garden on the White House grounds in 1797. Many presidents and first ladies continued the practice by planting fruit trees, orchards, and establishing greenhouses. During World War II, First Lady Eleanor Roosevelt planted a Victory Garden at the White House, encouraging all Americans to grow their own food to overcome supply shortages during the war.",
-        "url": "/places/000/white-house-kitchen-garden.htm",
-        "image": "/common/uploads/cropped_image/primary/0349B8D4-B4B1-9219-9FEE8B42ADAE7DE9.jpg"
+        "url": "/whho/learn/historyculture/white-house-kitchen-garden.htm",
+        "image": "/whho/planyourvisit/images/KitchenGarden2017.jpg"
       },
       "geometry": {
         "coordinates": [
@@ -517,7 +519,8 @@
           38.895803780484925
         ],
         "type": "Point"
-      }
+      },
+      "id": 23
     },
     {
       "type": "Feature",
@@ -552,7 +555,7 @@
         "tree": "Jacqueline Kennedy Garden",
         "person": "",
         "year": 1965,
-        "url": ""
+        "url": "/whho/learn/historyculture/jacqueline-kennedy-garden.htm"
       },
       "geometry": {
         "coordinates": [
@@ -560,7 +563,8 @@
           38.89749116541583
         ],
         "type": "Point"
-      }
+      },
+      "id": 25
     },
     {
       "type": "Feature",
@@ -571,7 +575,8 @@
         "number": 20,
         "tree": "Rose Garden",
         "person": "",
-        "year": 1913
+        "year": 1913,
+        "url": "/whho/learn/historyculture/rose-garden.htm"
       },
       "geometry": {
         "coordinates": [
@@ -579,7 +584,8 @@
           38.89747765219661
         ],
         "type": "Point"
-      }
+      },
+      "id": 26
     },
     {
       "type": "Feature",
