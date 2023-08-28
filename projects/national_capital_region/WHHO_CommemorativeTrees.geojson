@@ -7,11 +7,144 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "small",
+        "number": 23,
+        "tree": "October Glory Maple",
+        "person": "Donald & Melania Trump",
+        "year": 2020,
+        "url": "/whho/learn/historyculture/trump-maple-2020.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9B9497AE-EBAA-1349-165F8CD0EEDCA2AE.jpg",
+        "latin": "Acer rubrum ‘October Glory’"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0374534909373,
+          38.89705309189452
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tree": "Yoshino Cherry",
+        "person": "Jill Biden",
+        "year": 2023,
+        "url": "/whho/learn/historyculture/biden-cherry-2023.htm",
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "number": "",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9AF383EF-B796-143D-CE54506D8A4E9275.jpg",
+        "latin": "Prunus x ‘Yedoensis’"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03555613736214,
+          38.897260755678786
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "number": 27,
+        "tree": "Littleleaf Linden",
+        "person": "Barack Obama",
+        "year": 2009,
+        "url": "/whho/learn/historyculture/obama-linden-2009.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03553610545997,
+          38.898525355750024
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "small",
+        "marker-symbol": "park2",
+        "number": 17,
+        "tree": "Southern Magnolia",
+        "person": "Joe & Jill Biden",
+        "year": 2022,
+        "url": "/whho/learn/historyculture/biden-magnolia-2022.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9B4E86DA-B35B-6121-926871ED6E57FDC6.jpg",
+        "latin": "Magnolia grandiflora",
+        "notes": "President Joe Biden and First Lady Jill Biden planted a southern magnolia tree near the South Portico on May 30, 2022, as part of a Memorial Day ceremony. The tree was planted with five Gold Star family members in attendance to honor the U.S. Armed Forces members who lost their lives in combat."
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0366784843359,
+          38.897455563308114
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "marker-color": "#306b00",
+        "number": 10,
+        "tree": "Princetom Elm",
+        "person": "Joe & Jill Biden",
+        "year": 2022,
+        "url": "/whho/learn/historyculture/biden-elm-2022.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9B3B952B-0220-DBCD-5BC91AEE0D81D54F.jpg",
+        "latin": "Ulmus americana ‘Princeton’ "
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03606029750873,
+          38.89669251033524
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "number": 24,
+        "tree": "Southern Magnolia",
+        "person": "Franklin D. Roosevelt",
+        "year": 1942,
+        "url": "/whho/learn/historyculture/roosevelt-magnolia-1942.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03532323790321,
+          38.89740667986845
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "small",
         "number": 29,
         "tree": "Silver Linden",
         "person": "Jill Biden",
         "year": 2021,
-        "url": "/whho/learn/historyculture/biden-linden-2021.htm"
+        "url": "/whho/learn/historyculture/biden-linden-2021.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9B752FBC-D60B-4894-E9F0029291765C17.jpg",
+        "latin": "Tilia tomentosa"
       },
       "geometry": {
         "coordinates": [
@@ -44,26 +177,6 @@
     {
       "type": "Feature",
       "properties": {
-        "tree": "Cherry",
-        "person": "Jill Biden",
-        "year": 2023,
-        "url": "/whho/learn/historyculture/biden-cherry-2023.htm",
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "number": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03555613736214,
-          38.897260755678786
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "small",
@@ -77,26 +190,6 @@
         "coordinates": [
           -77.035679567063,
           38.89798768359228
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "number": 27,
-        "tree": "Littleleaf Linden",
-        "person": "Barack Obama",
-        "year": 2009,
-        "url": "/whho/learn/historyculture/obama-linden-2009.htm"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03541361228858,
-          38.898520513517525
         ],
         "type": "Point"
       }
@@ -210,49 +303,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "small",
-        "marker-symbol": "park2",
-        "number": 17,
-        "tree": "Southern Magnolia",
-        "person": "Joe & Jill Biden",
-        "year": 2022,
-        "url": "/whho/learn/historyculture/biden-magnolia-2022.htm",
-        "image": "",
-        "latin": "Magnolia grandiflora",
-        "notes": "President Joe Biden and First Lady Jill Biden planted a southern magnolia tree near the South Portico on May 30, 2022, as part of a Memorial Day ceremony. The tree was planted with five Gold Star family members in attendance to honor the U.S. Armed Forces members who lost their lives in combat."
-      },
-      "geometry": {
-        "coordinates": [
-          -77.0366784843359,
-          38.897455563308114
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "marker-color": "#306b00",
-        "number": 10,
-        "tree": "American Elm",
-        "person": "Joe & Jill Biden",
-        "year": 2022,
-        "url": "/whho/learn/historyculture/biden-elm-2022.htm"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03606029750873,
-          38.89669251033524
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "number": 11,
         "marker-symbol": "park2",
         "marker-size": "small",
@@ -260,7 +310,9 @@
         "tree": "Pin Oak",
         "person": "Melania Trump",
         "year": 2018,
-        "url": "/whho/learn/historyculture/trump-oak-2018.htm"
+        "url": "/whho/learn/historyculture/trump-oak-2018.htm",
+        "latin": "Quercus palustris",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9BE23430-A5B9-9449-9212512C760050A5.jpg"
       },
       "geometry": {
         "coordinates": [
@@ -268,27 +320,8 @@
           38.89670698599559
         ],
         "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "number": 24,
-        "tree": "Southern Magnolia",
-        "person": "Franklin D. Roosevelt",
-        "year": 1942,
-        "url": "/whho/learn/historyculture/roosevelt-magnolia-1942.htm"
       },
-      "geometry": {
-        "coordinates": [
-          -77.03532323790321,
-          38.89740667986845
-        ],
-        "type": "Point"
-      }
+      "id": 14
     },
     {
       "type": "Feature",
@@ -618,26 +651,6 @@
         "coordinates": [
           -77.03724896592519,
           38.897564110252006
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "number": 23,
-        "tree": "October Glory Maple",
-        "person": "Donald & Melania Trump",
-        "year": 2020,
-        "url": "/whho/learn/historyculture/trump-maple-2020.htm"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03759312721044,
-          38.89712266448058
         ],
         "type": "Point"
       }
