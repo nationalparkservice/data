@@ -451,7 +451,9 @@
         "tree": "Southern Magnolia",
         "person": "Franklin D. Roosevelt",
         "year": 1942,
-        "url": "/whho/learn/historyculture/roosevelt-magnolia-1942.htm"
+        "url": "/whho/learn/historyculture/roosevelt-magnolia-1942.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/90F07B1E-C8A0-BA86-6A7E29B6C8244FD6.jpg",
+        "latin": "Magnolia grandiflora"
       },
       "geometry": {
         "coordinates": [
@@ -459,7 +461,8 @@
           38.89740667986845
         ],
         "type": "Point"
-      }
+      },
+      "id": 20
     },
     {
       "type": "Feature",
@@ -493,7 +496,9 @@
         "tree": "Red Maple",
         "person": "Jimmy Carter",
         "year": 1977,
-        "url": "/whho/learn/historyculture/carter-maple-1977.htm"
+        "url": "/whho/learn/historyculture/carter-maple-1977.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9157521F-9678-79A7-412462D7C16CBA8D.jpg",
+        "latin": "Acer rubrum"
       },
       "geometry": {
         "coordinates": [
@@ -501,7 +506,8 @@
           38.89804791290666
         ],
         "type": "Point"
-      }
+      },
+      "id": 22
     },
     {
       "type": "Feature",
@@ -511,9 +517,11 @@
         "marker-size": "small",
         "number": 26,
         "tree": "White Oak",
-        "person": "Franklin D. Roosevelt",
+        "person": "Eleanor Roosevelt",
         "year": 1935,
-        "url": "/whho/learn/historyculture/roosevelt-oak-1935.htm"
+        "url": "/whho/learn/historyculture/roosevelt-oak-1935.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/90D6106B-A1AD-EB3E-16A15EE03DA8B7AE.jpg",
+        "latin": "Quercus alba"
       },
       "geometry": {
         "coordinates": [
@@ -521,7 +529,8 @@
           38.89798768359228
         ],
         "type": "Point"
-      }
+      },
+      "id": 23
     },
     {
       "type": "Feature",
@@ -533,7 +542,9 @@
         "tree": "Southern Magnolia",
         "person": "Andrew Jackson",
         "year": "1830?",
-        "url": "/whho/learn/historyculture/jackson-magnolia.htm"
+        "url": "/whho/learn/historyculture/jackson-magnolia.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/8FC8AAAB-92E6-B413-C8C59AC184DEAEDF.jpg",
+        "latin": "Magnolia grandiflora"
       },
       "geometry": {
         "coordinates": [
@@ -541,7 +552,8 @@
           38.89745082686892
         ],
         "type": "Point"
-      }
+      },
+      "id": 24
     },
     {
       "type": "Feature",
@@ -553,7 +565,9 @@
         "tree": "Southern Magnolia",
         "person": "Warren G. Harding",
         "year": "1922, replaced 1947",
-        "url": "/whho/learn/historyculture/harding-magnolia-1947.htm"
+        "url": "/whho/learn/historyculture/harding-magnolia-1947.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/905F9883-9F88-A3A4-D69CB43F57B38883.jpg",
+        "latin": "Magnolia grandiflora"
       },
       "geometry": {
         "coordinates": [
@@ -561,7 +575,8 @@
           38.89773389215469
         ],
         "type": "Point"
-      }
+      },
+      "id": 25
     },
     {
       "type": "Feature",
@@ -573,7 +588,9 @@
         "tree": "Cedar of Lebanon",
         "person": "Jimmy Carter",
         "year": 1978,
-        "url": "/whho/learn/historyculture/carter-cedar-1978.htm"
+        "url": "/whho/learn/historyculture/carter-cedar-1978.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/CC685AE3-D578-3218-B31907223F629BEA.jpg",
+        "latin": "Cedrus libani"
       },
       "geometry": {
         "coordinates": [
@@ -581,7 +598,8 @@
           38.89669712830738
         ],
         "type": "Point"
-      }
+      },
+      "id": 26
     },
     {
       "type": "Feature",
@@ -594,7 +612,7 @@
         "person": "Lyndon B. Johnson",
         "year": "October 16, 1964",
         "url": "/whho/learn/historyculture/lyndon-johnson-willow-oak.htm",
-        "image": "/whho/learn/historyculture/images/JOHNSON_2.png",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/91413A14-ABAE-CD34-263DCCA0F312369E.jpg",
         "latin": "Quercus phellos",
         "notes": "First Lady Claudia “Lady Bird” Johnson chose this specific type of tree to represent her home state of Texas. Irvin Williams, National Park Service Superintendent of the White House Grounds, accompanied the president and first lady during this planting.",
         "credit": "NPS"
@@ -605,7 +623,8 @@
           38.89726845717158
         ],
         "type": "Point"
-      }
+      },
+      "id": 27
     },
     {
       "type": "Feature",
@@ -617,7 +636,9 @@
         "tree": "Japanese Maple",
         "person": "Rosalynn Carter",
         "year": 1978,
-        "url": "/whho/learn/historyculture/carter-maple-1978.htm"
+        "url": "/whho/learn/historyculture/carter-maple-1978.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9178031F-AD8A-CF38-4DA97E5C13EAD474.jpg",
+        "latin": "Acer palmatum var. dissectum ‘Ornatum’"
       },
       "geometry": {
         "coordinates": [
@@ -625,7 +646,8 @@
           38.896280473384024
         ],
         "type": "Point"
-      }
+      },
+      "id": 28
     },
     {
       "type": "Feature",
@@ -637,7 +659,9 @@
         "tree": "White Oak",
         "person": "Herbert Hoover",
         "year": 1931,
-        "url": "/whho/learn/historyculture/hoover-oak-1931.htm"
+        "url": "/whho/learn/historyculture/hoover-oak-1931.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/90B119A2-C46A-DE87-F694F0C3BD094E2D.jpg",
+        "latin": "Quercus alba"
       },
       "geometry": {
         "coordinates": [
@@ -645,7 +669,8 @@
           38.89560561434047
         ],
         "type": "Point"
-      }
+      },
+      "id": 29
     },
     {
       "type": "Feature",
@@ -657,8 +682,9 @@
         "tree": "Japanese Maple",
         "person": "Frances Folsom Cleveland",
         "year": 1893,
-        "latin": "",
-        "url": "/whho/learn/historyculture/cleveland-maple-1893.htm"
+        "latin": "Acer palmatum var. dissectum ‘Ornatum’",
+        "url": "/whho/learn/historyculture/cleveland-maple-1893.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/8FEB44AE-0754-A7F3-22909155D225F01A.jpg"
       },
       "geometry": {
         "coordinates": [
@@ -666,7 +692,8 @@
           38.896287312181045
         ],
         "type": "Point"
-      }
+      },
+      "id": 30
     },
     {
       "type": "Feature",
@@ -678,8 +705,9 @@
         "tree": "Saucer Magnolia (3)",
         "person": "John F. Kennedy",
         "year": 1962,
-        "image": "",
-        "url": "/whho/learn/historyculture/kennedy-magnolia-1962.htm"
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9108A024-E505-1B19-E5C253741BFFB350.jpg",
+        "url": "/whho/learn/historyculture/kennedy-magnolia-1962.htm",
+        "latin": "Magnolia x soulangeana"
       },
       "geometry": {
         "coordinates": [
@@ -687,7 +715,8 @@
           38.897564110252006
         ],
         "type": "Point"
-      }
+      },
+      "id": 31
     },
     {
       "type": "Feature",
