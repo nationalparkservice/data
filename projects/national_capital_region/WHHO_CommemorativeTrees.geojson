@@ -98,7 +98,7 @@
         "tree": "Willow Oak",
         "person": "Ronald Reagan",
         "year": 1988,
-        "url": "/whho/learn/historyculture/ronald-reagan-willow-oak.htm",
+        "url": "/whho/learn/historyculture/reagan-oak-1988.htm",
         "image": "/common/uploads/grid_builder/whho/crop1_1/968C8B84-E439-2670-04E115CC6FE5B5E8.jpg",
         "latin": "Quercus phellos",
         "notes": "The oak was a gift from the American Association of Nurserymen. ",
@@ -315,8 +315,8 @@
         "number": 22,
         "tree": "Littleleaf Linden",
         "person": "Bill Clinton",
-        "year": "October 10, 1993",
-        "url": "/whho/learn/historyculture/bill-clinton-littleleaf-linden.htm",
+        "year": 1993,
+        "url": "/whho/learn/historyculture/clinton-linden-1993.htm",
         "image": "/common/uploads/grid_builder/whho/crop1_1/9AD50023-02EE-53F8-994903DC62E0BD88.jpg",
         "latin": "Tilia cordata",
         "notes": "",
@@ -328,7 +328,8 @@
           38.89716504608592
         ],
         "type": "Point"
-      }
+      },
+      "id": 14
     },
     {
       "type": "Feature",
@@ -610,8 +611,8 @@
         "number": 19,
         "tree": "Willow Oak",
         "person": "Lyndon B. Johnson",
-        "year": "October 16, 1964",
-        "url": "/whho/learn/historyculture/lyndon-johnson-willow-oak.htm",
+        "year": 1964,
+        "url": "/whho/learn/historyculture/lyndon-johnson-oak-1964.htm",
         "image": "/common/uploads/grid_builder/whho/crop1_1/91413A14-ABAE-CD34-263DCCA0F312369E.jpg",
         "latin": "Quercus phellos",
         "notes": "First Lady Claudia “Lady Bird” Johnson chose this specific type of tree to represent her home state of Texas. Irvin Williams, National Park Service Superintendent of the White House Grounds, accompanied the president and first lady during this planting.",
