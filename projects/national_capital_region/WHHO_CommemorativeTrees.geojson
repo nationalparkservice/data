@@ -430,7 +430,7 @@
         "person": "Bill & Hillary Clinton",
         "year": 1996,
         "url": "/whho/learn/historyculture/clinton-dogwood-1995.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/99AD38BD-F782-238D-1B4BB8B704F62C15.jpg",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9A3C0799-EDAC-B447-B3F1446670C71AEF.jpg",
         "latin": "Cornus x rutgersensis ‘Ruth Ellen’ ",
         "marker-color": "#306b00",
         "marker-size": "small",
@@ -442,7 +442,8 @@
           38.89681179244474
         ],
         "type": "Point"
-      }
+      },
+      "id": 19
     },
     {
       "type": "Feature",
