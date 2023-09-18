@@ -4,6 +4,74 @@
     {
       "type": "Feature",
       "properties": {
+        "tree": "Flowering Dogwood",
+        "person": "Bill & Hillary Clinton",
+        "year": 1996,
+        "url": "/whho/learn/historyculture/clinton-dogwood-1996.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9B7F204D-BE8B-EE7E-C111877028FB2D69.jpg",
+        "latin": "Cornus florida",
+        "marker-color": "#306b00",
+        "marker-size": "small",
+        "marker-symbol": "park2"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03587222973376,
+          38.896724143563716
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "small",
+        "marker-symbol": "park2",
+        "number": 12,
+        "tree": "Ruth Ellen Dogwood",
+        "person": "Bill & Hillary Clinton",
+        "year": 1995,
+        "url": "/whho/learn/historyculture/clinton-dogwood-1995.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9B718B70-B234-5CCE-42F6EB6037D5A35B.jpg",
+        "latin": "Cornus x rutgersensis ‘Ruth Ellen’"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03597453971935,
+          38.89682136038803
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": 11,
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "marker-color": "#306b00",
+        "tree": "Pin Oak",
+        "person": "Melania Trump",
+        "year": 2018,
+        "url": "/whho/learn/historyculture/trump-oak-2018.htm",
+        "latin": "Quercus palustris",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9BE23430-A5B9-9449-9212512C760050A5.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03597685606071,
+          38.89660642339118
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "marker-color": "#306b00",
         "marker-size": "small",
         "marker-symbol": "park2",
@@ -426,50 +494,6 @@
     {
       "type": "Feature",
       "properties": {
-        "tree": "Ruth Ellen Dogwood",
-        "person": "Bill & Hillary Clinton",
-        "year": 1996,
-        "url": "/whho/learn/historyculture/clinton-dogwood-1995.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9A3C0799-EDAC-B447-B3F1446670C71AEF.jpg",
-        "latin": "Cornus x rutgersensis ‘Ruth Ellen’ ",
-        "marker-color": "#306b00",
-        "marker-size": "small",
-        "marker-symbol": "park2"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03598740815085,
-          38.89681179244474
-        ],
-        "type": "Point"
-      },
-      "id": 19
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "small",
-        "marker-symbol": "park2",
-        "number": 12,
-        "tree": "White Dogwood",
-        "person": "Bill & Hillary Clinton",
-        "year": 1995,
-        "url": "/whho/learn/historyculture/clinton-dogwood-1995.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/99AD38BD-F782-238D-1B4BB8B704F62C15.jpg",
-        "latin": "Cornus florida"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03597965875979,
-          38.89661817422717
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#306b00",
         "marker-size": "small",
         "marker-symbol": "park2",
@@ -485,28 +509,6 @@
         "coordinates": [
           -77.03613638867638,
           38.89707669579633
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "number": 11,
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "marker-color": "#306b00",
-        "tree": "Pin Oak",
-        "person": "Melania Trump",
-        "year": 2018,
-        "url": "/whho/learn/historyculture/trump-oak-2018.htm",
-        "latin": "Quercus palustris",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9BE23430-A5B9-9449-9212512C760050A5.jpg"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03588471332704,
-          38.89670801655831
         ],
         "type": "Point"
       }
@@ -708,7 +710,8 @@
           38.896702815969235
         ],
         "type": "Point"
-      }
+      },
+      "id": 31
     },
     {
       "type": "Feature",
