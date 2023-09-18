@@ -5,6 +5,406 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#306b00",
+        "marker-size": "small",
+        "marker-symbol": "park2",
+        "number": 16,
+        "tree": "Willow Oak",
+        "person": "Ronald W. Reagan",
+        "year": 1988,
+        "url": "/whho/learn/historyculture/reagan-oak-1988.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/968C8B84-E439-2670-04E115CC6FE5B5E8.jpg",
+        "latin": "Quercus phellos",
+        "notes": "The oak was a gift from the American Association of Nurserymen. ",
+        "credit": "NPS"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03621499046218,
+          38.89721098777741
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "garden",
+        "number": 2,
+        "marker-size": "small",
+        "tree": "Children's Garden",
+        "person": "Lyndon & Claudia \"Lady Bird\" Johnson",
+        "year": 1969,
+        "url": "/whho/learn/historyculture/children-s-garden.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9995DAF5-97B7-21CE-568E60794F95C1ED.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03738083510562,
+          38.89620363515289
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": 6,
+        "marker-symbol": "circle",
+        "marker-size": "small",
+        "marker-color": "#306b00",
+        "tree": "White House Kitchen Garden",
+        "person": "Michelle Obama",
+        "year": 2009,
+        "latin": "",
+        "credit": "NPS",
+        "notes": "Although the White House Kitchen Garden is a recent addition, there is a long tradition of produce-growing at the White House. President John Adams planned the first vegetable garden on the White House grounds in 1797. Many presidents and first ladies continued the practice by planting fruit trees, orchards, and establishing greenhouses. During World War II, First Lady Eleanor Roosevelt planted a Victory Garden at the White House, encouraging all Americans to grow their own food to overcome supply shortages during the war.",
+        "url": "/whho/learn/historyculture/white-house-kitchen-garden.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/98479808-AFB8-1ACC-0738B4702468D7A7.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03707519637787,
+          38.895803780484925
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "small",
+        "marker-symbol": "garden",
+        "number": 15,
+        "tree": "Jacqueline Kennedy Garden",
+        "person": "",
+        "year": 1965,
+        "url": "/whho/learn/historyculture/jacqueline-kennedy-garden.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/99645428-D4FB-E98B-EB35CCFF080651B2.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03604001966094,
+          38.89749116541583
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "garden",
+        "marker-size": "small",
+        "number": 20,
+        "tree": "Rose Garden",
+        "person": "",
+        "year": 1913,
+        "url": "/whho/learn/historyculture/rose-garden.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9982EBD7-E35F-9AA6-65D8BDAF19A87D78.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03711696485817,
+          38.89747765219661
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "small",
+        "marker-symbol": "park2",
+        "number": 22,
+        "tree": "Littleleaf Linden",
+        "person": "Bill Clinton",
+        "year": 1993,
+        "url": "/whho/learn/historyculture/clinton-linden-1993.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9AD50023-02EE-53F8-994903DC62E0BD88.jpg",
+        "latin": "Tilia cordata",
+        "notes": "",
+        "credit": "NPS"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03726247105605,
+          38.89716504608592
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "number": 24,
+        "tree": "Southern Magnolia",
+        "person": "Franklin D. Roosevelt Commemorative",
+        "year": 1942,
+        "url": "/whho/learn/historyculture/roosevelt-magnolia-1942.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/90F07B1E-C8A0-BA86-6A7E29B6C8244FD6.jpg",
+        "latin": "Magnolia grandiflora"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03532323790321,
+          38.89740667986845
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "number": 28,
+        "tree": "Red Maple",
+        "person": "Jimmy Carter",
+        "year": 1977,
+        "url": "/whho/learn/historyculture/carter-maple-1977.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9157521F-9678-79A7-412462D7C16CBA8D.jpg",
+        "latin": "Acer rubrum"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03627759755642,
+          38.89804791290666
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "number": 26,
+        "tree": "White Oak",
+        "person": "Eleanor Roosevelt",
+        "year": 1935,
+        "url": "/whho/learn/historyculture/roosevelt-oak-1935.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/90D6106B-A1AD-EB3E-16A15EE03DA8B7AE.jpg",
+        "latin": "Quercus alba"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.035679567063,
+          38.89798768359228
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "small",
+        "marker-symbol": "park2",
+        "number": 18,
+        "tree": "Southern Magnolia",
+        "person": "Andrew Jackson Commemorative",
+        "url": "/whho/learn/historyculture/jackson-magnolia.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/8FC8AAAB-92E6-B413-C8C59AC184DEAEDF.jpg",
+        "latin": "Magnolia grandiflora"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0368045483629,
+          38.89745082686892
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "number": 25,
+        "tree": "Southern Magnolia",
+        "person": "Warren G. Harding Commemorative",
+        "year": "1947",
+        "url": "/whho/learn/historyculture/harding-magnolia-1947.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/905F9883-9F88-A3A4-D69CB43F57B38883.jpg",
+        "latin": "Magnolia grandiflora"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03532440038342,
+          38.89773389215469
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": 4,
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "marker-color": "#306b00",
+        "tree": "Cedar of Lebanon",
+        "person": "Jimmy Carter",
+        "year": 1978,
+        "url": "/whho/learn/historyculture/carter-cedar-1978.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/CC685AE3-D578-3218-B31907223F629BEA.jpg",
+        "latin": "Cedrus libani"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03708963670955,
+          38.89669712830738
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "small",
+        "marker-symbol": "park2",
+        "number": 19,
+        "tree": "Willow Oak",
+        "person": "Lyndon B. Johnson",
+        "year": 1964,
+        "url": "/whho/learn/historyculture/lyndon-johnson-oak-1964.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/91413A14-ABAE-CD34-263DCCA0F312369E.jpg",
+        "latin": "Quercus phellos",
+        "notes": "First Lady Claudia “Lady Bird” Johnson chose this specific type of tree to represent her home state of Texas. Irvin Williams, National Park Service Superintendent of the White House Grounds, accompanied the president and first lady during this planting.",
+        "credit": "NPS"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03713134121148,
+          38.89726845717158
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": 8,
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "marker-color": "#306b00",
+        "tree": "Japanese Threadleaf Maple",
+        "person": "Rosalynn Carter",
+        "year": 1978,
+        "url": "/whho/learn/historyculture/carter-maple-1978.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9178031F-AD8A-CF38-4DA97E5C13EAD474.jpg",
+        "latin": "Acer palmatum var. dissectum ‘Ornatum’"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03633196164594,
+          38.896280473384024
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": 7,
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "marker-color": "#306b00",
+        "tree": "White Oak",
+        "person": "Herbert Hoover Commemorative",
+        "year": 1931,
+        "url": "/whho/learn/historyculture/hoover-oak-1931.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/90B119A2-C46A-DE87-F694F0C3BD094E2D.jpg",
+        "latin": "Quercus alba"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0361087352304,
+          38.89560561434047
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": 5,
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "marker-color": "#306b00",
+        "tree": "Japanese Threadleaf Maple",
+        "person": "Frances Folsom Cleveland",
+        "year": 1893,
+        "latin": "Acer palmatum var. dissectum ‘Ornatum’",
+        "url": "/whho/learn/historyculture/cleveland-maple-1893.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/8FEB44AE-0754-A7F3-22909155D225F01A.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0367537052983,
+          38.896287312181045
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "number": 21,
+        "tree": "Saucer Magnolia (3)",
+        "person": "John F. Kennedy Commemorative",
+        "year": 1962,
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9108A024-E505-1B19-E5C253741BFFB350.jpg",
+        "url": "/whho/learn/historyculture/kennedy-magnolia-1962.htm",
+        "latin": "Magnolia x soulangeana"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03724896592519,
+          38.897564110252006
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "number": 30,
+        "tree": "Yulan Magnolia",
+        "person": "Nancy Reagan",
+        "year": 1982,
+        "url": "/whho/learn/historyculture/reagan-magnolia-1982.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/964FD80D-BFF8-FF0C-5C5AC66EA19DEA95.jpg",
+        "latin": "Magnolia denudate"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03626313784585,
+          38.89846590255698
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "small",
         "number": 27,
@@ -38,8 +438,8 @@
       },
       "geometry": {
         "coordinates": [
-          -77.03598608399436,
-          38.896780875586444
+          -77.03598740815085,
+          38.89681179244474
         ],
         "type": "Point"
       }
@@ -60,8 +460,8 @@
       },
       "geometry": {
         "coordinates": [
-          -77.03597436213533,
-          38.89663981607859
+          -77.03597965875979,
+          38.89661817422717
         ],
         "type": "Point"
       }
@@ -91,31 +491,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "small",
-        "marker-symbol": "park2",
-        "number": 16,
-        "tree": "Willow Oak",
-        "person": "Ronald W. Reagan",
-        "year": 1988,
-        "url": "/whho/learn/historyculture/reagan-oak-1988.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/968C8B84-E439-2670-04E115CC6FE5B5E8.jpg",
-        "latin": "Quercus phellos",
-        "notes": "The oak was a gift from the American Association of Nurserymen. ",
-        "credit": "NPS"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03621499046218,
-          38.89721098777741
-        ],
-        "type": "Point"
-      },
-      "id": 4
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "number": 11,
         "marker-symbol": "park2",
         "marker-size": "small",
@@ -129,8 +504,8 @@
       },
       "geometry": {
         "coordinates": [
-          -77.03593503126055,
-          38.89670698599559
+          -77.03588471332704,
+          38.89670801655831
         ],
         "type": "Point"
       }
@@ -146,7 +521,7 @@
         "person": "Bill and Hillary Clinton",
         "year": 1993,
         "url": "/whho/learn/historyculture/clinton-oak-1993.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9A9C07D3-AD44-53F5-E3EF4FB83874B230.jpg"
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9A9C07D3-AD44-53F5-E3EF4FB83874B230.jpg",
         "latin": "Quercus phellos"
       },
       "geometry": {
@@ -156,28 +531,6 @@
         ],
         "type": "Point"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "garden",
-        "number": 2,
-        "marker-size": "small",
-        "tree": "Children's Garden",
-        "person": "Lyndon & Claudia \"Lady Bird\" Johnson",
-        "year": 1969,
-        "url": "/whho/learn/historyculture/children-s-garden.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9995DAF5-97B7-21CE-568E60794F95C1ED.jpg"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03738083510562,
-          38.89620363515289
-        ],
-        "type": "Point"
-      },
-      "id": 7
     },
     {
       "type": "Feature",
@@ -226,31 +579,6 @@
     {
       "type": "Feature",
       "properties": {
-        "number": 6,
-        "marker-symbol": "circle",
-        "marker-size": "small",
-        "marker-color": "#306b00",
-        "tree": "White House Kitchen Garden",
-        "person": "Michelle Obama",
-        "year": 2009,
-        "latin": "",
-        "credit": "NPS",
-        "notes": "Although the White House Kitchen Garden is a recent addition, there is a long tradition of produce-growing at the White House. President John Adams planned the first vegetable garden on the White House grounds in 1797. Many presidents and first ladies continued the practice by planting fruit trees, orchards, and establishing greenhouses. During World War II, First Lady Eleanor Roosevelt planted a Victory Garden at the White House, encouraging all Americans to grow their own food to overcome supply shortages during the war.",
-        "url": "/whho/learn/historyculture/white-house-kitchen-garden.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/98479808-AFB8-1ACC-0738B4702468D7A7.jpg"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03707519637787,
-          38.895803780484925
-        ],
-        "type": "Point"
-      },
-      "id": 10
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#306b00",
         "marker-size": "small",
         "marker-symbol": "park2",
@@ -269,75 +597,6 @@
         ],
         "type": "Point"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "small",
-        "marker-symbol": "garden",
-        "number": 15,
-        "tree": "Jacqueline Kennedy Garden",
-        "person": "",
-        "year": 1965,
-        "url": "/whho/learn/historyculture/jacqueline-kennedy-garden.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/99645428-D4FB-E98B-EB35CCFF080651B2.jpg"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03604001966094,
-          38.89749116541583
-        ],
-        "type": "Point"
-      },
-      "id": 12
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "garden",
-        "marker-size": "small",
-        "number": 20,
-        "tree": "Rose Garden",
-        "person": "",
-        "year": 1913,
-        "url": "/whho/learn/historyculture/rose-garden.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9982EBD7-E35F-9AA6-65D8BDAF19A87D78.jpg"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03711696485817,
-          38.89747765219661
-        ],
-        "type": "Point"
-      },
-      "id": 13
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "small",
-        "marker-symbol": "park2",
-        "number": 22,
-        "tree": "Littleleaf Linden",
-        "person": "Bill Clinton",
-        "year": 1993,
-        "url": "/whho/learn/historyculture/clinton-linden-1993.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9AD50023-02EE-53F8-994903DC62E0BD88.jpg",
-        "latin": "Tilia cordata",
-        "notes": "",
-        "credit": "NPS"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03726247105605,
-          38.89716504608592
-        ],
-        "type": "Point"
-      },
-      "id": 14
     },
     {
       "type": "Feature",
@@ -444,34 +703,11 @@
       },
       "geometry": {
         "coordinates": [
-          -77.03606029750873,
-          38.89669251033524
+          -77.03611458791072,
+          38.896702815969235
         ],
         "type": "Point"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "number": 24,
-        "tree": "Southern Magnolia",
-        "person": "Franklin D. Roosevelt Commemorative",
-        "year": 1942,
-        "url": "/whho/learn/historyculture/roosevelt-magnolia-1942.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/90F07B1E-C8A0-BA86-6A7E29B6C8244FD6.jpg",
-        "latin": "Magnolia grandiflora"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03532323790321,
-          38.89740667986845
-        ],
-        "type": "Point"
-      },
-      "id": 20
     },
     {
       "type": "Feature",
@@ -494,260 +730,6 @@
         ],
         "type": "Point"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "number": 28,
-        "tree": "Red Maple",
-        "person": "Jimmy Carter",
-        "year": 1977,
-        "url": "/whho/learn/historyculture/carter-maple-1977.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9157521F-9678-79A7-412462D7C16CBA8D.jpg",
-        "latin": "Acer rubrum"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03627759755642,
-          38.89804791290666
-        ],
-        "type": "Point"
-      },
-      "id": 22
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "number": 26,
-        "tree": "White Oak",
-        "person": "Eleanor Roosevelt",
-        "year": 1935,
-        "url": "/whho/learn/historyculture/roosevelt-oak-1935.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/90D6106B-A1AD-EB3E-16A15EE03DA8B7AE.jpg",
-        "latin": "Quercus alba"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.035679567063,
-          38.89798768359228
-        ],
-        "type": "Point"
-      },
-      "id": 23
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "small",
-        "marker-symbol": "park2",
-        "number": 18,
-        "tree": "Southern Magnolia",
-        "person": "Andrew Jackson Commemorative",
-        "url": "/whho/learn/historyculture/jackson-magnolia.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/8FC8AAAB-92E6-B413-C8C59AC184DEAEDF.jpg",
-        "latin": "Magnolia grandiflora"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.0368045483629,
-          38.89745082686892
-        ],
-        "type": "Point"
-      },
-      "id": 24
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "number": 25,
-        "tree": "Southern Magnolia",
-        "person": "Warren G. Harding Commemorative",
-        "year": "1947",
-        "url": "/whho/learn/historyculture/harding-magnolia-1947.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/905F9883-9F88-A3A4-D69CB43F57B38883.jpg",
-        "latin": "Magnolia grandiflora"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03532440038342,
-          38.89773389215469
-        ],
-        "type": "Point"
-      },
-      "id": 25
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "number": 4,
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "marker-color": "#306b00",
-        "tree": "Cedar of Lebanon",
-        "person": "Jimmy Carter",
-        "year": 1978,
-        "url": "/whho/learn/historyculture/carter-cedar-1978.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/CC685AE3-D578-3218-B31907223F629BEA.jpg",
-        "latin": "Cedrus libani"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03708963670955,
-          38.89669712830738
-        ],
-        "type": "Point"
-      },
-      "id": 26
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "small",
-        "marker-symbol": "park2",
-        "number": 19,
-        "tree": "Willow Oak",
-        "person": "Lyndon B. Johnson",
-        "year": 1964,
-        "url": "/whho/learn/historyculture/lyndon-johnson-oak-1964.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/91413A14-ABAE-CD34-263DCCA0F312369E.jpg",
-        "latin": "Quercus phellos",
-        "notes": "First Lady Claudia “Lady Bird” Johnson chose this specific type of tree to represent her home state of Texas. Irvin Williams, National Park Service Superintendent of the White House Grounds, accompanied the president and first lady during this planting.",
-        "credit": "NPS"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03713134121148,
-          38.89726845717158
-        ],
-        "type": "Point"
-      },
-      "id": 27
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "number": 8,
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "marker-color": "#306b00",
-        "tree": "Japanese Threadleaf Maple",
-        "person": "Rosalynn Carter",
-        "year": 1978,
-        "url": "/whho/learn/historyculture/carter-maple-1978.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9178031F-AD8A-CF38-4DA97E5C13EAD474.jpg",
-        "latin": "Acer palmatum var. dissectum ‘Ornatum’"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03633196164594,
-          38.896280473384024
-        ],
-        "type": "Point"
-      },
-      "id": 28
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "number": 7,
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "marker-color": "#306b00",
-        "tree": "White Oak",
-        "person": "Herbert Hoover Commemorative",
-        "year": 1931,
-        "url": "/whho/learn/historyculture/hoover-oak-1931.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/90B119A2-C46A-DE87-F694F0C3BD094E2D.jpg",
-        "latin": "Quercus alba"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.0361087352304,
-          38.89560561434047
-        ],
-        "type": "Point"
-      },
-      "id": 29
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "number": 5,
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "marker-color": "#306b00",
-        "tree": "Japanese Threadleaf Maple",
-        "person": "Frances Folsom Cleveland",
-        "year": 1893,
-        "latin": "Acer palmatum var. dissectum ‘Ornatum’",
-        "url": "/whho/learn/historyculture/cleveland-maple-1893.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/8FEB44AE-0754-A7F3-22909155D225F01A.jpg"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.0367537052983,
-          38.896287312181045
-        ],
-        "type": "Point"
-      },
-      "id": 30
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "number": 21,
-        "tree": "Saucer Magnolia (3)",
-        "person": "John F. Kennedy Commemorative",
-        "year": 1962,
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9108A024-E505-1B19-E5C253741BFFB350.jpg",
-        "url": "/whho/learn/historyculture/kennedy-magnolia-1962.htm",
-        "latin": "Magnolia x soulangeana"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03724896592519,
-          38.897564110252006
-        ],
-        "type": "Point"
-      },
-      "id": 31
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "number": 30,
-        "tree": "Yulan Magnolia",
-        "person": "Nancy Reagan",
-        "year": 1982,
-        "url": "/whho/learn/historyculture/reagan-magnolia-1982.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/964FD80D-BFF8-FF0C-5C5AC66EA19DEA95.jpg",
-        "latin": "Magnolia denudate"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03626313784585,
-          38.89846590255698
-        ],
-        "type": "Point"
-      },
-      "id": 32
     }
   ]
 }
