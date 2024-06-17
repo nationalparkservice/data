@@ -22,11 +22,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Closed",
+        "name": "Closed for repairs",
         "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "roadblock",
-        "location": "1700 Anacostia Ave. SE at the swimming pool and tennis courts"
+        "location": "1700 Anacostia Ave. SE at the swimming pool and tennis courts",
+        "note": "Due to vandalism, portions of this playground have been removed. The park plans to rebuild the playground when funding is available in 2026. The nearby Pirate Ship Playground is open for play."
       },
       "geometry": {
         "coordinates": [
@@ -35,7 +36,7 @@
         ],
         "type": "Point"
       },
-      "id": 2
+      "id": 1
     },
     {
       "type": "Feature",
