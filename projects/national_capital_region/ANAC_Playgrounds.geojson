@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pirate Ship Playground",
+        "marker-color": "#04d600",
+        "marker-size": "medium",
+        "marker-symbol": "playground",
+        "location": "Nicholson St. & Anacostia Ave. SE"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.97767168656978,
+          38.87495133561103
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Closed",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "roadblock",
+        "location": "1700 Anacostia Ave. SE at the swimming pool and tennis courts"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.9822387745061,
+          38.87282339706647
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Playground",
+        "location": "1500 Anacostia Ave. SE at the roller skating pavilion",
+        "marker-color": "#04d600",
+        "marker-size": "medium",
+        "marker-symbol": "playground"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.96928134844904,
+          38.87809988076026
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Playground",
+        "location": "Anacostia Ave. NE & E. Capitol St.",
+        "marker-color": "#04d600",
+        "marker-size": "medium",
+        "marker-symbol": "playground"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.96167951502174,
+          38.890816231055226
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    }
+  ]
+}
