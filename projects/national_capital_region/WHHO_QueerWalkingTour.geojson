@@ -1,0 +1,303 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "1979 March on Washington for Lesbian and Gay Rights",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/1ABEAD2F-BCC0-105C-7635DD45D4FDCB56.jpg?width=1600&quality=90&mode=crop",
+        "URL": "https://www.nps.gov/places/1979-gay-rights-march.htm",
+        "Description": "On October 14, 1979, the first national march for lesbian and gay rights happened here in Washington, DC. Around 100,000 gay and lesbian Americans and their allies descended on the capital city from all across the United States to demand their voices be heard. ",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03660430615875,
+          38.89512470246294
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Butt-Millet Memorial Fountain",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/ABCB90A9-A91C-C37F-A14CC3C82C26AA3D.jpg?width=1600&quality=90&mode=crop",
+        "URL": "https://www.nps.gov/places/000/butt-millet-memorial-fountain.htm",
+        "Description": "Mystery has surrounded Archibald Butt and Francis Millet ever since their tragic death aboard the RMS Titanic on April 15, 1912. Believed to be the only officials of the United States who perished aboard the ship, Congress passed a joint resolution soon after their death authorizing the construction of a memorial in their honor."
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03743619173812,
+          38.89527009315944
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "1988 AIDS Memorial Quilt on the Ellipse",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/5085649E-D4DA-AF4B-7065F3C4AFC30998.jpg?width=1600&quality=90&mode=crop",
+        "URL": "https://www.nps.gov/places/1988-aids-memorial-quilt-on-the-ellipse.htm",
+        "Description": "In 1988, the Names Project AIDS Memorial Quilt was displayed in Washington, DC, for the second time. Covering almost the entire open grass field in front of you, 8,288 panels, each representing a loved one lost to AIDS, were displayed on the Ellipse from October 6 to 8."
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03741828013084,
+          38.89483462563496
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "First Gay Rights Picket at the White House 1965",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Image": "https://www.nps.gov/places/first-white-house-gay-rights-picket.htm",
+        "URL": "https://www.nps.gov/places/first-white-house-gay-rights-picket.htm",
+        "Description": "In 1965, the first pickets for gay rights in Washington, DC, happened in front of the north side of the White House."
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0371138932916,
+          38.89871068815762
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "1992 AIDS Action at the White House",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Description": "On October 11th, 1992, protesters made their way to the White House to take part in a deeply personal protest. Heeding the call to action (see image above), protestors marched to both sides of the White House carrying urns filled with the ashes of their loved ones who had passed away from AIDS.  ",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/B6A1B570-E6C4-7383-4EBBA9E6D0B79865.jpg?width=1600&quality=90&mode=crop",
+        "URL": "https://www.nps.gov/places/aids-ashes-action.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03668812427956,
+          38.8988186304004
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "White House Lit Up with Rainbow Colors in 2015",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Description": "Rainbow colors lit up the White House on the evening of June 26, 2015, in celebration of the Obergefell v. Hodges Supreme Court decision. The decision, which was announced that same day, legalized same-sex marriage nationwide. ",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/5932A09C-A615-D25D-4E0B98D5722B97A6.jpg?width=1600&quality=90&mode=crop",
+        "URL": "https://www.nps.gov/whho/planyourvisit/dc-queer-self-guided-walking-tour.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03628815944987,
+          38.89885126406887
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "General Von Steuben Statue",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/B046ED5D-D489-2528-AAC6B9FC34BA6FA0.jpg?width=1600&quality=90&mode=crop",
+        "URL": "https://www.nps.gov/places/000/general-von-steuben-statue.htm",
+        "Description": "This memorial portrays Baron Friedrich Wilhelm von Steuben (1730-1794) as he inspected American troops at the great maneuvers of 1778 during the American Revolution. His experiences as a member of the Prussian army gave him a wealth of knowledge unheard of in the British and French armies of the period."
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03771289801347,
+          38.90002023861442
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lafayette Park Lodge",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "URL": "https://www.nps.gov/places/000/restroom-lafayette-park.htm",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/128BF631-AED8-D98E-69C536A24F67A592.jpg?width=1600&quality=90&mode=crop",
+        "Description": "From 1947 through the 1960s, United States Park Police (Park Police) used the Lafayette Park bathrooms to entrap gay men then charge them with committing “solicitation” and “obscene, immoral acts.”"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03610081218768,
+          38.900001781804576
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dupont Circle",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "URL": "https://www.nps.gov/places/dupont-circle.htm",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/8C3F94E8-E1E1-4013-DF8AD29C71804915.jpg?width=1600&quality=90&mode=crop",
+        "Description": "Located at the intersection of Massachusetts, Connecticut, and New Hampshire Avenues in Northwest Washington, D.C., Dupont Circle has served as the anchor of a neighborhood of diplomats, government officials, war commemorations, and the LGBTQ community for over 200 years. "
+      },
+      "geometry": {
+        "coordinates": [
+          -77.04346434120275,
+          38.90966996446073
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "DC Front Runners Memorial Grove",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/1C9E66A2-04BA-B90A-C9AED6AE336B573E.jpg?width=1600&quality=90&mode=crop",
+        "URL": "https://www.nps.gov/places/dc-front-runners-memorial-grove.htm",
+        "Description": "In 1988, the same year the AIDS quilt expanded across the National Mall, several DC Front Runners (DCFR) collaborated with the National Park Service to create a memorial grove of flowering trees to commemorate members of this LGBTQ running and walking club who had passed away from HIV/AIDS."
+      },
+      "geometry": {
+        "coordinates": [
+          -77.05161202669208,
+          38.92145440522495
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Slowe-Burrill House",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/4D95A95D-F727-2813-0CEB40C6442CAEB3.jpg?width=1600&quality=90&mode=crop",
+        "URL": "https://www.nps.gov/common/uploads/cropped_image/primary/4D95A95D-F727-2813-0CEB40C6442CAEB3.jpg?width=1600&quality=90&mode=crop",
+        "Description": "The Slowe-Burrill House was once home to the most famous lesbian couple in Washington D.C. Lucy Diggs Slowe and Mary Burrill lived on Kearney St form 1922 until Slowe's death. Slowe and Burrill were prominent activists and educators in Washington’s Black community but neither publicly claimed their relationship."
+      },
+      "geometry": {
+        "coordinates": [
+          -76.98909059622899,
+          38.93090509255467
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Franklin Square",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "URL": "https://www.nps.gov/places/franklin-square.htm",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/BF845C5B-ECC3-59C3-51BBC64A31C813DE.jpg?width=1600&quality=90&mode=crop",
+        "Description": "Trans sex workers existed here; they worked and built community here. Franklin Square, like Layfette Park, was a popular place for gay men to find comfort and connection with one another at night. "
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03078347981918,
+          38.90194099180516
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rally for the National March for Lesbian and Gay Rights",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "URL": "https://www.nps.gov/places/rally-for-the-national-march-for-lesbian-and-gay-rights.htm",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/C11781E0-0C07-F287-AF29022B76B1BE80.jpg?width=1600&quality=90&mode=crop",
+        "Description": "On a chilly Sunday in mid-October 1979, Charles Law stepped out from under the shadow of the Washington Monument. Proudly displayed on his jacket was a button for the very first National March on Washington for Lesbian and Gay Rights. "
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03809374169228,
+          38.88944262254
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "1987 AIDS Memorial Quilt on the National Mall",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "URL": "https://www.nps.gov/places/1987-aids-memorial-quilt-on-the-national-mall.htm",
+        "Image": "https://www.nps.gov/common/uploads/cropped_image/primary/BC7FC49E-EAC6-1E4A-828BA1F550FCCF1D.jpg?width=1600&quality=90&mode=crop",
+        "Description": "The largest quilt in the world, now weighing in at 54 tons spanning over 1.2 million square feet, began with sincere but humble efforts to memorialize loved ones lost to an epidemic which devastated communities across the United States. "
+      },
+      "geometry": {
+        "coordinates": [
+          -77.02307856270588,
+          38.889636841810955
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Fort Dupont",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "Name": "Fort Dupont"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.94970616399036,
+          38.87744525180594
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    }
+  ]
+}
