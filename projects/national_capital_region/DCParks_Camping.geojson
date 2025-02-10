@@ -4,10 +4,82 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Greenbelt Park Campground",
+        "url": "https://www.nps.gov/locations/dc/greenbelt-park-campground.htm",
+        "park": "Greenbelt Park",
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "campsite"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.90282280693451,
+          38.979324848140436
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Owens Creek",
+        "url": "https://www.nps.gov/locations/dc/catoctin-mountain-park-owens-creek-campground.htm",
+        "park": "Catoctin Mountain Park",
+        "marker-color": "7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "campsite"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.48660708593764,
+          39.65961830326364
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paw Paw Campground",
+        "url": "https://www.nps.gov/locations/dc/c-o-canal-paw-paw-tunnel-campground.htm",
+        "park": "Chesapeake and Ohio Canal National Historical Park",
+        "marker-color": "7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "campsite"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.46145151481647,
+          39.54495058424976
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spring Gap Campground",
+        "url": "https://www.nps.gov/locations/dc/c-o-canal-spring-gap-campground.htm",
+        "park": "Chesapeake and Ohio Canal National Historical Park",
+        "marker-color": "7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "campsite"
+      },
+      "geometry": {
+        "coordinates": [
+          -78.7152563209086,
+          39.56394638407821
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "McCoy's Ferry Campground",
         "url": "https://www.nps.gov/locations/dc/c-o-canal-mccoy-s-ferry-campground.htm",
         "park": "Chesapeake and Ohio Canal National Historical Park",
-        "marker-color": "#000000",
+        "marker-color": "7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "campsite"
       },
@@ -25,7 +97,7 @@
         "name": "Fifteen Mile Creek Campground",
         "url": "https://www.nps.gov/locations/dc/c-o-canal-fifteen-mile-creek.htm",
         "park": "Chesapeake and Ohio Canal National Historical Park",
-        "marker-color": "#000000",
+        "marker-color": "7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "campsite"
       },
@@ -40,29 +112,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Greenbelt Park Campground",
-        "url": "https://www.nps.gov/locations/dc/greenbelt-park-campground.htm",
-        "park": "Greenbelt Park",
-        "marker-color": "#000000",
-        "marker-size": "medium",
-        "marker-symbol": "campsite"
-      },
-      "geometry": {
-        "coordinates": [
-          -76.90282280693451,
-          38.979324848140436
-        ],
-        "type": "Point"
-      },
-      "id": 2
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Antietam Creek Campground",
         "url": "https://www.nps.gov/locations/dc/c-o-canal-antietam-creek-campground.htm",
         "park": "Antietam National Battlefield",
-        "marker-color": "#000000",
+        "marker-color": "7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "campsite"
       },
@@ -80,7 +133,7 @@
         "name": "Oak Ridge Campground",
         "url": "https://www.nps.gov/locations/dc/prince-william-forest-park-oak-ridge-campground.htm",
         "park": "Prince William Forest Park",
-        "marker-color": "#000000",
+        "marker-color": "7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "campsite"
       },
@@ -95,59 +148,20 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Owens Creek",
-        "url": "https://www.nps.gov/locations/dc/catoctin-mountain-park-owens-creek-campground.htm",
-        "park": "Catoctin Mountain Park",
-        "marker-color": "#000000",
+        "name": "Shenandoah National Park",
+        "url": "https://www.nps.gov/shen/planyourvisit/campgrounds.htm",
+        "marker-color": "7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "campsite"
       },
       "geometry": {
         "coordinates": [
-          -77.48660708593764,
-          39.65961830326364
+          -78.43685979361211,
+          38.52868409580901
         ],
         "type": "Point"
       },
-      "id": 5
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Paw Paw Campground",
-        "url": "https://www.nps.gov/locations/dc/c-o-canal-paw-paw-tunnel-campground.htm",
-        "park": "Chesapeake and Ohio Canal National Historical Park",
-        "marker-color": "#000000",
-        "marker-size": "medium",
-        "marker-symbol": "campsite"
-      },
-      "geometry": {
-        "coordinates": [
-          -78.46145151481647,
-          39.54495058424976
-        ],
-        "type": "Point"
-      },
-      "id": 6
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Spring Gap Campground",
-        "url": "https://www.nps.gov/locations/dc/c-o-canal-spring-gap-campground.htm",
-        "park": "Chesapeake and Ohio Canal National Historical Park",
-        "marker-color": "#000000",
-        "marker-size": "medium",
-        "marker-symbol": "campsite"
-      },
-      "geometry": {
-        "coordinates": [
-          -78.7152563209086,
-          39.56394638407821
-        ],
-        "type": "Point"
-      },
-      "id": 7
+      "id": 8
     }
   ]
 }
