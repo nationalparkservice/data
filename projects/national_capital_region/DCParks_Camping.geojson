@@ -7,7 +7,7 @@
         "name": "McCoy's Ferry Campground",
         "url": "https://www.nps.gov/locations/dc/c-o-canal-mccoy-s-ferry-campground.htm",
         "park": "Chesapeake and Ohio Canal National Historical Park",
-        "marker-color": "7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "campsite"
       },
@@ -25,7 +25,7 @@
         "name": "Fifteen Mile Creek Campground",
         "url": "https://www.nps.gov/locations/dc/c-o-canal-fifteen-mile-creek.htm",
         "park": "Chesapeake and Ohio Canal National Historical Park",
-        "marker-color": "7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "campsite"
       },
@@ -62,7 +62,7 @@
         "name": "Antietam Creek Campground",
         "url": "https://www.nps.gov/locations/dc/c-o-canal-antietam-creek-campground.htm",
         "park": "Antietam National Battlefield",
-        "marker-color": "7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "campsite"
       },
@@ -80,7 +80,7 @@
         "name": "Oak Ridge Campground",
         "url": "https://www.nps.gov/locations/dc/prince-william-forest-park-oak-ridge-campground.htm",
         "park": "Prince William Forest Park",
-        "marker-color": "7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "campsite"
       },
@@ -98,7 +98,7 @@
         "name": "Owens Creek",
         "url": "https://www.nps.gov/locations/dc/catoctin-mountain-park-owens-creek-campground.htm",
         "park": "Catoctin Mountain Park",
-        "marker-color": "7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "campsite"
       },
@@ -117,7 +117,7 @@
         "name": "Paw Paw Campground",
         "url": "https://www.nps.gov/locations/dc/c-o-canal-paw-paw-tunnel-campground.htm",
         "park": "Chesapeake and Ohio Canal National Historical Park",
-        "marker-color": "7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "campsite"
       },
@@ -136,7 +136,7 @@
         "name": "Spring Gap Campground",
         "url": "https://www.nps.gov/locations/dc/c-o-canal-spring-gap-campground.htm",
         "park": "Chesapeake and Ohio Canal National Historical Park",
-        "marker-color": "7e7e7e",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "campsite"
       },
