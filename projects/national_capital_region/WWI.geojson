@@ -1108,6 +1108,27 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "The JN-4 Jenny: The Plane that Taught America to Fly",
+        "park": "Fort Vancouver National Historic Sitev",
+        "description": "When the United States declared war on Germany in April 1917, the Army was in desperate need to train thousands of pilots for the war effort, and required a basic training aircraft that could accommodate both an instructor and a student. Curtiss' JN design was a perfect fit, and Curtiss and several other companies were contracted to construct over 6,000 airplanes.",
+        "image": "https://www.nps.gov/articles/images/AFReserve1927PearsonField-PERMISSION-TO-PUBLISH-GRANTED-BY-OWNER-SEE-MEAGAN-cropped.jpg",
+        "url": "https://www.nps.gov/articles/jn-4.htm",
+        "parkurl": "https://www.nps.gov/fova/"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.65628607223175,
+          45.62075353925488
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
