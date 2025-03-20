@@ -1087,6 +1087,27 @@
           37.18748460977844
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "The Sinking of the SMS Cormoran and the First US Shots of World War I",
+        "park": "War In The Pacific National Historical Park",
+        "description": "Trapped and held prisoner on Guam at the outbreak of World War I, US Navy sailors scuttled their ship when the US entered the war rather than let it fall into enemy hands.",
+        "image": "https://www.nps.gov/articles/000/images/Box-12-66-cormoran.jpg",
+        "url": "https://www.nps.gov/articles/000/sinking-of-the-sms-cormoran.htm",
+        "parkurl": "https://www.nps.gov/wapa/"
+      },
+      "geometry": {
+        "coordinates": [
+          144.68133731212413,
+          13.391753308516599
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
