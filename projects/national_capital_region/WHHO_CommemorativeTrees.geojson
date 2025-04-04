@@ -4,28 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "tree": "Flowering Dogwood",
-        "person": "Bill & Hillary Clinton",
-        "year": 1996,
-        "url": "/whho/learn/historyculture/clinton-dogwood-1996.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9B7F204D-BE8B-EE7E-C111877028FB2D69.jpg",
-        "latin": "Cornus florida",
-        "marker-color": "#306b00",
-        "marker-size": "small",
-        "marker-symbol": "park2"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03587222973376,
-          38.896724143563716
-        ],
-        "type": "Point"
-      },
-      "id": 0
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#306b00",
         "marker-size": "small",
         "marker-symbol": "park2",
@@ -43,8 +21,7 @@
           38.89682136038803
         ],
         "type": "Point"
-      },
-      "id": 1
+      }
     },
     {
       "type": "Feature",
@@ -66,8 +43,73 @@
           38.89660642339118
         ],
         "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "marker-color": "#306b00",
+        "number": 10,
+        "tree": "Princeton Elm",
+        "person": "Joe & Jill Biden",
+        "year": 2022,
+        "url": "/whho/learn/historyculture/biden-elm-2022.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9B3B952B-0220-DBCD-5BC91AEE0D81D54F.jpg",
+        "latin": "Ulmus americana ‘Princeton’ "
       },
-      "id": 2
+      "geometry": {
+        "coordinates": [
+          -77.03611458791072,
+          38.896702815969235
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "small",
+        "marker-symbol": "park2",
+        "tree": "Princeton Elm",
+        "person": "Joe and Jill Biden",
+        "year": 2024,
+        "url": "/whho/learn/historyculture/biden-elm-2024.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/05E83B9D-C5E2-7B73-39A37AC0DF8764C0.jpg",
+        "latin": "Ulmus americana 'Princeton'",
+        "credit": "NPS / Kelsey Graczyk"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03774671871251,
+          38.89674856714336
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tree": "Flowering Dogwood",
+        "person": "Bill & Hillary Clinton",
+        "year": 1996,
+        "url": "/whho/learn/historyculture/clinton-dogwood-1996.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9B7F204D-BE8B-EE7E-C111877028FB2D69.jpg",
+        "latin": "Cornus florida",
+        "marker-color": "#306b00",
+        "marker-size": "small",
+        "marker-symbol": "park2",
+        "credit": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03587222973376,
+          38.896724143563716
+        ],
+        "type": "Point"
+      }
     },
     {
       "type": "Feature",
@@ -689,29 +731,6 @@
         ],
         "type": "Point"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "marker-color": "#306b00",
-        "number": 10,
-        "tree": "Princeton Elm",
-        "person": "Joe & Jill Biden",
-        "year": 2022,
-        "url": "/whho/learn/historyculture/biden-elm-2022.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9B3B952B-0220-DBCD-5BC91AEE0D81D54F.jpg",
-        "latin": "Ulmus americana ‘Princeton’ "
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03611458791072,
-          38.896702815969235
-        ],
-        "type": "Point"
-      },
-      "id": 31
     },
     {
       "type": "Feature",
