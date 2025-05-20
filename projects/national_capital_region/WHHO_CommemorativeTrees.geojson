@@ -4,6 +4,28 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "marker-color": "#306b00",
+        "number": 9,
+        "tree": "Willow Oak",
+        "person": "Bill and Hillary Clinton",
+        "year": 1993,
+        "url": "/whho/learn/historyculture/clinton-oak-1993.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9A9C07D3-AD44-53F5-E3EF4FB83874B230.jpg",
+        "latin": "Quercus phellos"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03618310468066,
+          38.89622258240456
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "marker-color": "#306b00",
         "marker-size": "small",
         "marker-symbol": "park2",
@@ -331,7 +353,8 @@
           38.89745082686892
         ],
         "type": "Point"
-      }
+      },
+      "id": 15
     },
     {
       "type": "Feature",
@@ -399,7 +422,8 @@
           38.89726845717158
         ],
         "type": "Point"
-      }
+      },
+      "id": 18
     },
     {
       "type": "Feature",
@@ -474,7 +498,7 @@
         "marker-symbol": "park2",
         "marker-size": "small",
         "number": 21,
-        "tree": "Saucer Magnolia (3)",
+        "tree": "Saucer Magnolia",
         "person": "John F. Kennedy Commemorative",
         "year": 1962,
         "image": "/common/uploads/grid_builder/whho/crop1_1/9108A024-E505-1B19-E5C253741BFFB350.jpg",
@@ -487,7 +511,8 @@
           38.897564110252006
         ],
         "type": "Point"
-      }
+      },
+      "id": 22
     },
     {
       "type": "Feature",
@@ -551,28 +576,6 @@
         "coordinates": [
           -77.03613638867638,
           38.89707669579633
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "marker-color": "#306b00",
-        "number": 9,
-        "tree": "Willow Oak",
-        "person": "Bill and Hillary Clinton",
-        "year": 1993,
-        "url": "/whho/learn/historyculture/clinton-oak-1993.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9A9C07D3-AD44-53F5-E3EF4FB83874B230.jpg",
-        "latin": "Quercus phellos"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03614094062678,
-          38.89630243373287
         ],
         "type": "Point"
       }
