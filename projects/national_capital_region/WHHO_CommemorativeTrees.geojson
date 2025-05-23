@@ -4,6 +4,74 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "small",
+        "marker-symbol": "park2",
+        "number": 18,
+        "tree": "Southern Magnolia",
+        "person": "Andrew Jackson Commemorative",
+        "url": "/whho/learn/historyculture/jackson-magnolia.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/8FC8AAAB-92E6-B413-C8C59AC184DEAEDF.jpg",
+        "latin": "Magnolia grandiflora"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03677913386842,
+          38.89742665208388
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "small",
+        "marker-symbol": "park2",
+        "number": 19,
+        "tree": "Willow Oak",
+        "person": "Lyndon B. Johnson",
+        "year": 1964,
+        "url": "/whho/learn/historyculture/johnson-oak-1964.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/91413A14-ABAE-CD34-263DCCA0F312369E.jpg",
+        "latin": "Quercus phellos",
+        "notes": "First Lady Claudia “Lady Bird” Johnson chose this specific type of tree to represent her home state of Texas. Irvin Williams, National Park Service Superintendent of the White House Grounds, accompanied the president and first lady during this planting.",
+        "credit": "NPS"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03713134121148,
+          38.89726845717158
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "number": 21,
+        "tree": "Saucer Magnolia",
+        "person": "John F. Kennedy Commemorative",
+        "year": 1962,
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9108A024-E505-1B19-E5C253741BFFB350.jpg",
+        "url": "/whho/learn/historyculture/kennedy-magnolia-1962.htm",
+        "latin": "Magnolia x soulangeana"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03724896592519,
+          38.897564110252006
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "marker-symbol": "park2",
         "marker-size": "small",
         "marker-color": "#306b00",
@@ -99,7 +167,7 @@
         "person": "Joe and Jill Biden",
         "year": 2024,
         "url": "/whho/learn/historyculture/biden-elm-2024.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/05E83B9D-C5E2-7B73-39A37AC0DF8764C0.jpg",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/BD5D25A7-E46F-6B81-A80B120F601C2A12.jpg",
         "latin": "Ulmus americana 'Princeton'",
         "credit": "NPS / Kelsey Graczyk"
       },
@@ -109,7 +177,8 @@
           38.89674856714336
         ],
         "type": "Point"
-      }
+      },
+      "id": 7
     },
     {
       "type": "Feature",
@@ -338,28 +407,6 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#306b00",
-        "marker-size": "small",
-        "marker-symbol": "park2",
-        "number": 18,
-        "tree": "Southern Magnolia",
-        "person": "Andrew Jackson Commemorative",
-        "url": "/whho/learn/historyculture/jackson-magnolia.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/8FC8AAAB-92E6-B413-C8C59AC184DEAEDF.jpg",
-        "latin": "Magnolia grandiflora"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.0368045483629,
-          38.89745082686892
-        ],
-        "type": "Point"
-      },
-      "id": 15
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "small",
         "number": 25,
@@ -399,31 +446,6 @@
         ],
         "type": "Point"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "small",
-        "marker-symbol": "park2",
-        "number": 19,
-        "tree": "Willow Oak",
-        "person": "Lyndon B. Johnson",
-        "year": 1964,
-        "url": "/whho/learn/historyculture/johnson-oak-1964.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/91413A14-ABAE-CD34-263DCCA0F312369E.jpg",
-        "latin": "Quercus phellos",
-        "notes": "First Lady Claudia “Lady Bird” Johnson chose this specific type of tree to represent her home state of Texas. Irvin Williams, National Park Service Superintendent of the White House Grounds, accompanied the president and first lady during this planting.",
-        "credit": "NPS"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03713134121148,
-          38.89726845717158
-        ],
-        "type": "Point"
-      },
-      "id": 18
     },
     {
       "type": "Feature",
@@ -490,29 +512,6 @@
         ],
         "type": "Point"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "number": 21,
-        "tree": "Saucer Magnolia",
-        "person": "John F. Kennedy Commemorative",
-        "year": 1962,
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9108A024-E505-1B19-E5C253741BFFB350.jpg",
-        "url": "/whho/learn/historyculture/kennedy-magnolia-1962.htm",
-        "latin": "Magnolia x soulangeana"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03724896592519,
-          38.897564110252006
-        ],
-        "type": "Point"
-      },
-      "id": 22
     },
     {
       "type": "Feature",
