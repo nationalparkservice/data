@@ -7,29 +7,6 @@
         "marker-color": "#306b00",
         "marker-size": "small",
         "marker-symbol": "park2",
-        "number": 18,
-        "tree": "Southern Magnolia",
-        "person": "Andrew Jackson Commemorative",
-        "url": "/whho/learn/historyculture/jackson-magnolia.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/8FC8AAAB-92E6-B413-C8C59AC184DEAEDF.jpg",
-        "latin": "Magnolia grandiflora"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03677913386842,
-          38.89742665208388
-        ],
-        "type": "Point"
-      },
-      "id": 0
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-size": "small",
-        "marker-symbol": "park2",
-        "number": 19,
         "tree": "Willow Oak",
         "person": "Lyndon B. Johnson",
         "year": 1964,
@@ -53,7 +30,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "small",
-        "number": 21,
         "tree": "Saucer Magnolia",
         "person": "John F. Kennedy Commemorative",
         "year": 1962,
@@ -75,7 +51,6 @@
         "marker-symbol": "park2",
         "marker-size": "small",
         "marker-color": "#306b00",
-        "number": 9,
         "tree": "Willow Oak",
         "person": "Bill and Hillary Clinton",
         "year": 1993,
@@ -89,7 +64,8 @@
           38.89622258240456
         ],
         "type": "Point"
-      }
+      },
+      "id": 3
     },
     {
       "type": "Feature",
@@ -97,7 +73,6 @@
         "marker-color": "#306b00",
         "marker-size": "small",
         "marker-symbol": "park2",
-        "number": 12,
         "tree": "Ruth Ellen Dogwood",
         "person": "Bill & Hillary Clinton",
         "year": 1995,
@@ -111,12 +86,12 @@
           38.89682136038803
         ],
         "type": "Point"
-      }
+      },
+      "id": 4
     },
     {
       "type": "Feature",
       "properties": {
-        "number": 11,
         "marker-symbol": "park2",
         "marker-size": "small",
         "marker-color": "#306b00",
@@ -125,7 +100,7 @@
         "year": 2018,
         "url": "/whho/learn/historyculture/trump-oak-2018.htm",
         "latin": "Quercus palustris",
-        "image": "/whho/learn/historyculture/images/WHHO_Commemorative-Trees_08262024_KGraczyk_315.JPG"
+        "image": "/common/uploads/grid_builder/whho/crop1_1/88C54D77-D281-5A42-AB70C189A5EB89D9.jpg"
       },
       "geometry": {
         "coordinates": [
@@ -133,7 +108,8 @@
           38.89660642339118
         ],
         "type": "Point"
-      }
+      },
+      "id": 5
     },
     {
       "type": "Feature",
@@ -141,12 +117,11 @@
         "marker-symbol": "park2",
         "marker-size": "small",
         "marker-color": "#306b00",
-        "number": 10,
         "tree": "Princeton Elm",
         "person": "Joe & Jill Biden",
         "year": 2022,
         "url": "/whho/learn/historyculture/biden-elm-2022.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9B3B952B-0220-DBCD-5BC91AEE0D81D54F.jpg",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/1E2F655B-A6A9-854D-E8F5032B5D1BC8A6.jpg",
         "latin": "Ulmus americana ‘Princeton’ "
       },
       "geometry": {
@@ -155,7 +130,8 @@
           38.896702815969235
         ],
         "type": "Point"
-      }
+      },
+      "id": 6
     },
     {
       "type": "Feature",
@@ -187,7 +163,7 @@
         "person": "Bill & Hillary Clinton",
         "year": 1996,
         "url": "/whho/learn/historyculture/clinton-dogwood-1996.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9B7F204D-BE8B-EE7E-C111877028FB2D69.jpg",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/5AD948DD-9AEF-F1FD-724FE559964BC381.jpg",
         "latin": "Cornus florida",
         "marker-color": "#306b00",
         "marker-size": "small",
@@ -200,7 +176,8 @@
           38.896724143563716
         ],
         "type": "Point"
-      }
+      },
+      "id": 8
     },
     {
       "type": "Feature",
@@ -208,12 +185,11 @@
         "marker-color": "#306b00",
         "marker-size": "small",
         "marker-symbol": "park2",
-        "number": 16,
         "tree": "Willow Oak",
         "person": "Ronald W. Reagan",
         "year": 1988,
         "url": "/whho/learn/historyculture/reagan-oak-1988.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/968C8B84-E439-2670-04E115CC6FE5B5E8.jpg",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/2668C4AE-CC11-C51A-758AA1C6F0601981.jpg",
         "latin": "Quercus phellos",
         "notes": "The oak was a gift from the American Association of Nurserymen. ",
         "credit": "NPS"
@@ -224,14 +200,14 @@
           38.89721098777741
         ],
         "type": "Point"
-      }
+      },
+      "id": 9
     },
     {
       "type": "Feature",
       "properties": {
         "marker-color": "#306b00",
         "marker-symbol": "garden",
-        "number": 2,
         "marker-size": "small",
         "tree": "Children's Garden",
         "person": "Lyndon & Claudia \"Lady Bird\" Johnson",
@@ -245,12 +221,12 @@
           38.89620363515289
         ],
         "type": "Point"
-      }
+      },
+      "id": 10
     },
     {
       "type": "Feature",
       "properties": {
-        "number": 6,
         "marker-symbol": "circle",
         "marker-size": "small",
         "marker-color": "#306b00",
@@ -277,7 +253,6 @@
         "marker-color": "#306b00",
         "marker-size": "small",
         "marker-symbol": "garden",
-        "number": 15,
         "tree": "Jacqueline Kennedy Garden",
         "person": "",
         "year": 1965,
@@ -298,7 +273,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "garden",
         "marker-size": "small",
-        "number": 20,
         "tree": "Rose Garden",
         "person": "",
         "year": 1913,
@@ -319,7 +293,6 @@
         "marker-color": "#306b00",
         "marker-size": "small",
         "marker-symbol": "park2",
-        "number": 22,
         "tree": "Littleleaf Linden",
         "person": "Bill Clinton",
         "year": 1993,
@@ -343,12 +316,11 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "small",
-        "number": 24,
         "tree": "Southern Magnolia",
         "person": "Franklin D. Roosevelt Commemorative",
         "year": 1942,
         "url": "/whho/learn/historyculture/roosevelt-magnolia-1942.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/90F07B1E-C8A0-BA86-6A7E29B6C8244FD6.jpg",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/57E787A1-D328-8018-71DE5CD70094EAA5.jpg",
         "latin": "Magnolia grandiflora"
       },
       "geometry": {
@@ -357,7 +329,8 @@
           38.89740667986845
         ],
         "type": "Point"
-      }
+      },
+      "id": 14
     },
     {
       "type": "Feature",
@@ -365,7 +338,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "small",
-        "number": 28,
         "tree": "Red Maple",
         "person": "Jimmy Carter",
         "year": 1977,
@@ -387,7 +359,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "small",
-        "number": 26,
         "tree": "White Oak",
         "person": "Eleanor Roosevelt",
         "year": 1935,
@@ -409,7 +380,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "small",
-        "number": 25,
         "tree": "Southern Magnolia",
         "person": "Warren G. Harding Commemorative",
         "year": "1947",
@@ -423,12 +393,12 @@
           38.89773389215469
         ],
         "type": "Point"
-      }
+      },
+      "id": 17
     },
     {
       "type": "Feature",
       "properties": {
-        "number": 4,
         "marker-symbol": "park2",
         "marker-size": "small",
         "marker-color": "#306b00",
@@ -450,7 +420,6 @@
     {
       "type": "Feature",
       "properties": {
-        "number": 8,
         "marker-symbol": "park2",
         "marker-size": "small",
         "marker-color": "#306b00",
@@ -458,7 +427,7 @@
         "person": "Rosalynn Carter",
         "year": 1978,
         "url": "/whho/learn/historyculture/carter-maple-1978.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9178031F-AD8A-CF38-4DA97E5C13EAD474.jpg",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/27A852D0-BE59-1101-547D6B7EAB450496.jpg",
         "latin": "Acer palmatum var. dissectum ‘Ornatum’"
       },
       "geometry": {
@@ -467,12 +436,12 @@
           38.896280473384024
         ],
         "type": "Point"
-      }
+      },
+      "id": 20
     },
     {
       "type": "Feature",
       "properties": {
-        "number": 7,
         "marker-symbol": "park2",
         "marker-size": "small",
         "marker-color": "#306b00",
@@ -480,7 +449,7 @@
         "person": "Herbert Hoover Commemorative",
         "year": 1931,
         "url": "/whho/learn/historyculture/hoover-oak-1931.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/90B119A2-C46A-DE87-F694F0C3BD094E2D.jpg",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/520BBDE0-F724-5B82-AFB4E7A1A02F2C38.jpg",
         "latin": "Quercus alba"
       },
       "geometry": {
@@ -489,12 +458,12 @@
           38.89560561434047
         ],
         "type": "Point"
-      }
+      },
+      "id": 21
     },
     {
       "type": "Feature",
       "properties": {
-        "number": 5,
         "marker-symbol": "park2",
         "marker-size": "small",
         "marker-color": "#306b00",
@@ -503,7 +472,7 @@
         "year": 1893,
         "latin": "Acer palmatum var. dissectum ‘Ornatum’",
         "url": "/whho/learn/historyculture/cleveland-maple-1893.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/8FEB44AE-0754-A7F3-22909155D225F01A.jpg"
+        "image": "/common/uploads/grid_builder/whho/crop1_1/282ED5C0-0372-88F6-4DF5676CF2AC322A.jpg"
       },
       "geometry": {
         "coordinates": [
@@ -511,7 +480,8 @@
           38.896287312181045
         ],
         "type": "Point"
-      }
+      },
+      "id": 22
     },
     {
       "type": "Feature",
@@ -519,7 +489,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "small",
-        "number": 30,
         "tree": "Yulan Magnolia",
         "person": "Nancy Reagan",
         "year": 1982,
@@ -541,7 +510,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "small",
-        "number": 27,
         "tree": "Littleleaf Linden",
         "person": "Barack Obama",
         "year": 2009,
@@ -563,12 +531,11 @@
         "marker-color": "#306b00",
         "marker-size": "small",
         "marker-symbol": "park2",
-        "number": 13,
         "tree": "Littleleaf Linden",
         "person": "George H. W. Bush & Queen Elizabeth II",
         "year": 1991,
         "url": "/whho/learn/historyculture/bush-linden-1991.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9AB7C8D0-E362-56D3-8B46A016F1F4A94D.jpg",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/2533AD11-D082-393B-7843271383EE45E2.jpg",
         "latin": "Tilia cordata"
       },
       "geometry": {
@@ -577,7 +544,8 @@
           38.89707669579633
         ],
         "type": "Point"
-      }
+      },
+      "id": 25
     },
     {
       "type": "Feature",
@@ -585,7 +553,6 @@
         "marker-color": "#306b00",
         "marker-size": "small",
         "marker-symbol": "park2",
-        "number": 1,
         "tree": "Cherokee Princess Dogwood (3)",
         "person": "Hillary Clinton",
         "year": 1994,
@@ -604,7 +571,6 @@
     {
       "type": "Feature",
       "properties": {
-        "number": 3,
         "marker-symbol": "park2",
         "marker-size": "small",
         "marker-color": "#306b00",
@@ -629,7 +595,6 @@
         "marker-color": "#306b00",
         "marker-size": "small",
         "marker-symbol": "park2",
-        "number": 14,
         "tree": "Silver Linden",
         "person": "Laura Bush",
         "year": 2008,
@@ -651,7 +616,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "small",
-        "number": 31,
         "tree": "Jefferson Elm",
         "person": "George W. & Laura Bush",
         "year": 2006,
@@ -673,7 +637,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "small",
-        "number": 23,
         "tree": "October Glory Maple",
         "person": "Donald & Melania Trump",
         "year": 2020,
@@ -699,7 +662,6 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "small",
-        "number": "",
         "image": "/common/uploads/grid_builder/whho/crop1_1/9AF383EF-B796-143D-CE54506D8A4E9275.jpg",
         "latin": "Prunus x ‘Yedoensis’"
       },
@@ -717,7 +679,6 @@
         "marker-color": "#306b00",
         "marker-size": "small",
         "marker-symbol": "park2",
-        "number": 17,
         "tree": "Southern Magnolia",
         "person": "Joe & Jill Biden",
         "year": 2022,
@@ -740,12 +701,11 @@
         "marker-color": "#306b00",
         "marker-symbol": "park2",
         "marker-size": "small",
-        "number": 29,
         "tree": "Silver Linden",
         "person": "Jill Biden",
         "year": 2021,
         "url": "/whho/learn/historyculture/biden-linden-2021.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9B752FBC-D60B-4894-E9F0029291765C17.jpg",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/1EF73A01-983A-7DB8-273961E51AEB268E.jpg",
         "latin": "Tilia tomentosa"
       },
       "geometry": {
@@ -754,7 +714,8 @@
           38.89814890857298
         ],
         "type": "Point"
-      }
+      },
+      "id": 33
     }
   ]
 }
