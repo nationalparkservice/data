@@ -716,6 +716,29 @@
         "type": "Point"
       },
       "id": 33
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-size": "small",
+        "marker-symbol": "park2",
+        "tree": "Southern Magnolia",
+        "person": "Donald and Melania Trump",
+        "year": 2025,
+        "url": "/whho/learn/historyculture/trump-magnolia-2025.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/8D92A22A-CDF3-D151-692D5DC270677D5C.jpg",
+        "latin": "Magnolia grandiflora",
+        "credit": "NPS / Kelsey Graczyk",
+        "notes": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0367246685078,
+          38.89743884847596
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
