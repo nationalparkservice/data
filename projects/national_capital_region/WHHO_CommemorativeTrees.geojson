@@ -11,7 +11,7 @@
         "person": "Bill and Hillary Clinton",
         "year": 1993,
         "url": "/whho/learn/historyculture/clinton-oak-1993.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9A9C07D3-AD44-53F5-E3EF4FB83874B230.jpg",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/25F1960E-BC0D-3CDE-7D77D791CBF27218.jpg",
         "latin": "Quercus phellos"
       },
       "geometry": {
@@ -20,7 +20,8 @@
           38.89622258240456
         ],
         "type": "Point"
-      }
+      },
+      "id": 0
     },
     {
       "type": "Feature",
