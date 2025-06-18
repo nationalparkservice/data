@@ -814,6 +814,187 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Titanic Memorial",
+        "url": "https://www.nps.gov/places/000/titanic-memorial.htm",
+        "image": "https://www.nps.gov/common/uploads/place/import/f9ba463b-94ee-4176-a2c4-c1ddc4e28dcd_image_350.jpg",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.01931407287587,
+          38.87192671156265
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doctor Samuel Hahnemann Memorial",
+        "image": "https://www.nps.gov/common/uploads/place/import/c082cdb1-01cc-4a82-bf85-9fd4a7c9e019_image_350.jpg",
+        "url": "https://www.nps.gov/places/000/doctor-samuel-hahnemann-memorial.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03570350287907,
+          38.907242606237446
+        ],
+        "type": "Point"
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daniel Webster Monument",
+        "image": "https://www.nps.gov/common/uploads/place/import/a9c18d19-928b-4a29-978d-d92ace58e38f_image_350.jpg",
+        "url": "https://www.nps.gov/places/000/daniel-webster-monument.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03730935728652,
+          38.907254971801535
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victims of Communism Memorial",
+        "image": "https://www.nps.gov/common/uploads/place/import/3413d8bb-bfd0-4826-a857-ea2f6f226e5c_image_350.jpg",
+        "url": "https://www.nps.gov/places/000/victims-of-communism-memorial.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.01198287111444,
+          38.89847389732742
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holodomor Memorial",
+        "image": "https://www.nps.gov/common/uploads/place/import/e884ede0-5f52-4796-b414-76a276cd6816_image_350.jpg",
+        "url": "https://www.nps.gov/places/000/holodomor-memorial.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.00946952601701,
+          38.897452042926744
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taras Shevchenko Memorial",
+        "url": "https://www.nps.gov/places/000/taras-shevchenko-memorial.htm",
+        "image": "https://www.nps.gov/common/uploads/place/import/36e13aec-1d9f-4bc3-99ae-8a3c5ff1e44a_image_350.jpg",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.04900490152761,
+          38.91007011610637
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John Witherspoon Memorial",
+        "image": "https://www.nps.gov/common/uploads/place/import/356e9fd7-e5d7-4bd0-96f5-96aa451f903b_image_350.jpg",
+        "url": "https://www.nps.gov/places/000/john-witherspoon-memorial.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.04178358403306,
+          38.907128937572764
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Henry Wadsworth Longfellow Memorial",
+        "image": "https://www.nps.gov/common/uploads/place/import/4c9b894f-1cbd-4137-9e25-8cd68f190dd5_image_350.jpg",
+        "url": "https://www.nps.gov/places/000/henry-wadsworth-longfellow-memorial.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.041517236742,
+          38.90584361306182
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://www.nps.gov/places/000/nuns-of-the-battlefield-memorial.htm",
+        "name": "Nuns of the Battlefield Memorial",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/D0397A35-E235-3580-ADF57C9F9FCE40DF.jpg",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.04022243957921,
+          38.905786221598845
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mohandas Karamchand Gandhi Memorial",
+        "image": "https://www.nps.gov/common/uploads/place/import/96b84dde-b4e1-46f0-a98c-8e4d6f1ac8e1_image_350.jpg",
+        "url": "https://www.nps.gov/places/000/mohandas-karamchand-gandhi-memorial.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.04697598904268,
+          38.91102946513442
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
