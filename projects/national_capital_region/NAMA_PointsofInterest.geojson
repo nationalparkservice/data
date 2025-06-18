@@ -4,6 +4,24 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Ford's Theatre",
+        "image": "https://www.nps.gov/common/uploads/grid_builder/foth/crop16_9/8CE868F6-0A29-6D79-3D8F1E8394260A82.jpg",
+        "url": "https://www.nps.gov/foth/index.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.02576432695346,
+          38.89666179844724
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Floral Library",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/DD279D7E-986E-B9EF-C63471AD0FF5FC07.jpg",
         "url": "https://www.nps.gov/places/000/floral-library-on-the-national-mall.htm",
@@ -674,25 +692,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ford's Theatre",
-        "image": "https://www.nps.gov/common/uploads/grid_builder/foth/crop16_9/8CE868F6-0A29-6D79-3D8F1E8394260A82.jpg",
-        "url": "https://www.nps.gov/foth/index.htm",
-        "marker-color": "#7e7e7e",
-        "marker-size": "large",
-        "marker-symbol": "circle"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.02576432695346,
-          38.89666179844724
-        ],
-        "type": "Point"
-      },
-      "id": 37
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Belmont-Paul Women's Equality National Monument",
         "image": "https://www.nps.gov/common/uploads/grid_builder/bepa/crop16_9/DAA14016-1DD8-B71B-0B575C922448085E.jpg",
         "url": "https://www.nps.gov/bepa/index.htm",
@@ -704,6 +703,114 @@
         "coordinates": [
           -77.00382517971562,
           38.8922975279651
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Logan Circle",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/27E19523-B61E-9657-E3C1E5C5F64B24FE.jpg",
+        "url": "https://www.nps.gov/places/000/logan-circle.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.02962363875803,
+          38.90964100550772
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "African American Civil War Memorial",
+        "image": "https://www.nps.gov/common/uploads/grid_builder/afam/crop16_9/1B1EDA47-1DD8-B71B-0B3C160CAE556118.jpg",
+        "url": "https://www.nps.gov/afam/index.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.02596265398832,
+          38.91653263304775
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://www.nps.gov/common/uploads/place/import/0cb894f6-cfca-4dfd-bab7-de3be8cdcd54_image_350.jpg",
+        "name": "Columbus Fountain",
+        "url": "https://www.nps.gov/places/000/columbus-fountain.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.00658621667009,
+          38.89641041925111
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Japanese American Memorial to Patriotism During World War II",
+        "url": "https://www.nps.gov/places/japanese-american-memorial-to-patriotism-during-world-war-ii.htm",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/96824CAC-AADA-EBE5-9D661EC38FD71BDB.jpg",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.010386671793,
+          38.8945374454957
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samuel Gompers Memorial",
+        "image": "https://www.nps.gov/common/uploads/place/import/a847c33c-60fd-4f7e-9244-71fbde17a3d2_image_350.jpg",
+        "url": "https://www.nps.gov/places/000/samuel-gompers-memorial.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.02650344390652,
+          38.90401710048579
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edmund Burke Statue",
+        "image": "https://www.nps.gov/common/uploads/place/import/8b2fd5db-783d-4f54-b3ac-a0aa62b10ebd_image_350.jpg",
+        "url": "https://www.nps.gov/places/000/edmund-burke-statue.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.02744181272107,
+          38.90388700029115
         ],
         "type": "Point"
       }
