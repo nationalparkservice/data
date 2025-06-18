@@ -242,8 +242,8 @@
       "type": "Feature",
       "properties": {
         "name": "Floral Library",
-        "image": "https://www.nps.gov/places/000/floral-library-on-the-national-mall.htm",
-        "url": "https://www.nps.gov/common/uploads/cropped_image/primary/DD279D7E-986E-B9EF-C63471AD0FF5FC07.jpg",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/DD279D7E-986E-B9EF-C63471AD0FF5FC07.jpg",
+        "url": "https://www.nps.gov/places/000/floral-library-on-the-national-mall.htm",
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "circle"
@@ -261,8 +261,8 @@
       "type": "Feature",
       "properties": {
         "name": "Japanese Lantern",
-        "image": "https://www.nps.gov/places/000/japanese-lantern.htm",
-        "url": "https://www.nps.gov/common/uploads/cropped_image/primary/31E8A45F-C6CF-EE56-C22DD694513C1AE0.jpg?width=1600&quality=90&mode=crop",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/31E8A45F-C6CF-EE56-C22DD694513C1AE0.jpg",
+        "url": "https://www.nps.gov/places/000/japanese-lantern.htm",
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "circle"
@@ -280,8 +280,8 @@
       "type": "Feature",
       "properties": {
         "name": "First Air Mail Marker",
-        "image": "https://www.nps.gov/places/000/first-air-mail-marker.htm",
-        "url": "https://www.nps.gov/common/uploads/cropped_image/primary/2F420D35-A521-6473-95DB54170752D683.jpg",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/2F420D35-A521-6473-95DB54170752D683.jpg",
+        "url": "https://www.nps.gov/places/000/first-air-mail-marker.htm",
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "circle"
@@ -298,9 +298,9 @@
     {
       "type": "Feature",
       "properties": {
-        "url": "https://www.nps.gov/common/uploads/cropped_image/primary/328DD5E3-F5BE-FE8F-84B01C7AF980F773.jpg",
+        "url": "https://www.nps.gov/places/000/george-mason-memorial.htm",
         "name": "George Mason Memorial",
-        "image": "https://www.nps.gov/places/000/george-mason-memorial.htm",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/328DD5E3-F5BE-FE8F-84B01C7AF980F773.jpg",
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "circle"
@@ -317,7 +317,7 @@
       "type": "Feature",
       "properties": {
         "name": "John Ericsson Monument",
-        "image": "https://www.nps.gov/places/000/john-ericsson-monument.htm",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/32328279-05A3-A4BE-D46AABCA9CCD9BA9.jpghttps://www.nps.gov/places/000/john-ericsson-monument.htm",
         "url": "https://www.nps.gov/common/uploads/cropped_image/primary/32328279-05A3-A4BE-D46AABCA9CCD9BA9.jpg",
         "marker-color": "#7e7e7e",
         "marker-size": "small",
@@ -327,6 +327,189 @@
         "coordinates": [
           -77.05018066506776,
           38.88666664865107
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "General José Gervasio Artigas Memorial",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/4C043586-9A6F-80E3-626E1A27CB2BD630.jpg",
+        "url": "https://www.nps.gov/places/000/general-jose-gervasio-artigas-memorial.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.04150551171102,
+          38.89230948536451
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "General Simón Bolívar Memorial",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/4BB100C8-EA0E-6505-B3D95F8EE7D25264.jpg",
+        "url": "https://www.nps.gov/places/000/general-simon-bolivar-memorial.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.04202493212107,
+          38.893126839759645
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "General José de San Martí­n Memorial",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/4C5E3B5A-ABF2-55F7-62AF3C360A6C82E1.jpg",
+        "url": "https://www.nps.gov/places/000/general-jose-de-san-martin-memorial.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.04523905588164,
+          38.89499440011522
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bernardo de Gálvez Memorial",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/4CA02BFF-064D-C154-A756EDCAD3DCFC90.jpg",
+        "url": "https://www.nps.gov/places/000/bernardo-de-galvez-memorial.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.04856914043296,
+          38.89566576198149
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benito Pablo Juárez Memorial",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/4CE1B981-E180-690B-7F14F994C1B9AEA8.jpg",
+        "url": "https://www.nps.gov/places/000/benito-pablo-juarez-memorial.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0536188196211,
+          38.89879697667496
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "World War I Memorial",
+        "image": "https://www.nps.gov/wwim/learn/historyculture/images/WWI-Memorial-Soldiers-Journey-plaza-wide-level-summer-NPS-Photo-NSA-crop-mdl.jpg",
+        "url": "https://www.nps.gov/wwim/index.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "note": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03284793441954,
+          38.89592472252738
+        ],
+        "type": "Point"
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Freedom Plaza",
+        "url": "https://www.nps.gov/places/000/freedom-plaza.htm",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/754FB000-DB60-B289-46113FCCA7FFF587.jpg",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03076653152459,
+          38.89584580945021
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "name": "Chief Justice John Marshall Statue",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/D74CF7EA-91D1-CEA0-A2734FE3C32D9209.jpg",
+        "url": "https://www.nps.gov/places/000/chief-justice-john-marshall-statue-and-chess-players-statues.htm",
+        "marker-color": "#7e7e7e"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.01750273372771,
+          38.8928967189276
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dwight D. Eisenhower Memorial",
+        "image": "https://www.nps.gov/common/uploads/grid_builder/ddem/crop16_9/852CA04F-CDC3-3F1F-08F56AA2100B9E42.jpg",
+        "url": "https://www.nps.gov/ddem/index.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0187320010609,
+          38.887121118243584
+        ],
+        "type": "Point"
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "American Veterans Disabled for Life Memorial",
+        "url": "https://www.nps.gov/places/000/american-veterans-disabled-for-life-memorial.htm",
+        "image": "https://www.nps.gov/common/uploads/place/import/09c32159-7317-4f7c-8c4f-577c1b56f6a4_image_350.jpg",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.01311387584121,
+          38.88629859179494
         ],
         "type": "Point"
       }
