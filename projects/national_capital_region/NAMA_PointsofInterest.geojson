@@ -4,10 +4,65 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Washington Monument",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/secondary/A8CA5F51-1DD8-B71B-0B773EC25EFFBE0B.jpg",
+        "note": "Tickets are required to enter the Washington Monument. See site for details.",
+        "marker-color": "#562f00",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "url": "https://www.nps.gov/wamo/index.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.035247628027,
+          38.889462360663885
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samuel Gompers Memorial",
+        "image": "https://www.nps.gov/common/uploads/place/import/a847c33c-60fd-4f7e-9244-71fbde17a3d2_image_350.jpg",
+        "url": "https://www.nps.gov/places/000/samuel-gompers-memorial.htm",
+        "marker-color": "#a80000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.02650344390652,
+          38.90401710048579
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doctor Samuel Hahnemann Memorial",
+        "image": "https://www.nps.gov/common/uploads/place/import/c082cdb1-01cc-4a82-bf85-9fd4a7c9e019_image_350.jpg",
+        "url": "https://www.nps.gov/places/000/doctor-samuel-hahnemann-memorial.htm",
+        "marker-color": "#a80000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03570350287907,
+          38.907242606237446
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Ford's Theatre",
         "image": "https://www.nps.gov/common/uploads/grid_builder/foth/crop16_9/8CE868F6-0A29-6D79-3D8F1E8394260A82.jpg",
         "url": "https://www.nps.gov/foth/index.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#562f00",
         "marker-size": "large",
         "marker-symbol": "circle"
       },
@@ -25,7 +80,7 @@
         "name": "Floral Library",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/DD279D7E-986E-B9EF-C63471AD0FF5FC07.jpg",
         "url": "https://www.nps.gov/places/000/floral-library-on-the-national-mall.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -43,7 +98,7 @@
         "name": "Japanese Lantern",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/31E8A45F-C6CF-EE56-C22DD694513C1AE0.jpg",
         "url": "https://www.nps.gov/places/000/japanese-lantern.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -61,7 +116,7 @@
         "name": "First Air Mail Marker",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/2F420D35-A521-6473-95DB54170752D683.jpg",
         "url": "https://www.nps.gov/places/000/first-air-mail-marker.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -79,7 +134,7 @@
         "name": "World War I Memorial",
         "image": "https://www.nps.gov/wwim/learn/historyculture/images/WWI-Memorial-Soldiers-Journey-plaza-wide-level-summer-NPS-Photo-NSA-crop-mdl.jpg",
         "url": "https://www.nps.gov/wwim/index.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#562f00",
         "marker-size": "large",
         "marker-symbol": "circle",
         "note": ""
@@ -98,7 +153,7 @@
         "name": "Dwight D. Eisenhower Memorial",
         "image": "https://www.nps.gov/common/uploads/grid_builder/ddem/crop16_9/852CA04F-CDC3-3F1F-08F56AA2100B9E42.jpg",
         "url": "https://www.nps.gov/ddem/index.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -116,7 +171,7 @@
         "name": "Old Post Office Tower",
         "image": "https://www.nps.gov/nama/planyourvisit/images/OPOT-Exterior-5az.jpg",
         "url": "https://www.nps.gov/nama/planyourvisit/opot.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -134,7 +189,7 @@
         "name": "56 Signers of the Declaration of Independence Memorial",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/93B05C94-97EE-EE09-2799952F2EF9697C.jpg",
         "url": "https://www.nps.gov/places/000/56-signers-of-the-declaration-of-independence-memorial.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -151,7 +206,7 @@
       "properties": {
         "name": "Lockkeeper's House",
         "note": "Visitor information",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle",
         "url": "https://www.nps.gov/places/000/lockkeepers-house.htm",
@@ -169,7 +224,7 @@
       "type": "Feature",
       "properties": {
         "name": "Vietnam Veterans Memorial",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#562f00",
         "marker-size": "large",
         "marker-symbol": "circle",
         "url": "https://www.nps.gov/vive/index.htm",
@@ -188,7 +243,7 @@
       "properties": {
         "name": "Martin Luther King, Jr. Memorial",
         "image": "https://www.nps.gov/common/uploads/cropped_image/secondary/9D444C36-1DD8-B71B-0BA3710879BCAD4B.jpg",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#562f00",
         "marker-size": "large",
         "marker-symbol": "circle",
         "url": "https://www.nps.gov/mlkm/index.htm"
@@ -206,7 +261,7 @@
       "properties": {
         "name": "Franklin Delano Roosevelt Memorial",
         "image": "https://www.nps.gov/common/uploads/cropped_image/secondary/02E6F7D2-1DD8-B71B-0BEB65A494F0A8D8.jpg",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#562f00",
         "marker-size": "large",
         "marker-symbol": "circle",
         "url": "https://www.nps.gov/frde/index.htm"
@@ -222,29 +277,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Washington Monument",
-        "image": "https://www.nps.gov/common/uploads/cropped_image/secondary/A8CA5F51-1DD8-B71B-0B773EC25EFFBE0B.jpg",
-        "note": "Tickets are required to enter the Washington Monument. See site for details.",
-        "marker-color": "#7e7e7e",
-        "marker-size": "large",
-        "marker-symbol": "circle",
-        "url": "https://www.nps.gov/wamo/index.htm"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.035247628027,
-          38.889462360663885
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "World War II Memorial",
         "image": "https://www.nps.gov/common/uploads/grid_builder/wwii/crop16_9/935EF287-A9BD-46F9-647FD722AF276C49.jpg",
         "note": "",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#562f00",
         "marker-size": "large",
         "marker-symbol": "circle",
         "url": "https://www.nps.gov/wwii/index.htm"
@@ -261,7 +297,7 @@
       "type": "Feature",
       "properties": {
         "name": "Constitution Gardens",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle",
         "url": "https://www.nps.gov/coga/index.htm",
@@ -280,7 +316,7 @@
       "properties": {
         "name": "Lincoln Memorial",
         "image": "https://www.nps.gov/common/uploads/cropped_image/secondary/07D94390-1DD8-B71B-0BBDDC56C247F5E9.jpg",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#562f00",
         "marker-size": "large",
         "marker-symbol": "circle",
         "url": "https://www.nps.gov/linc/index.htm"
@@ -299,7 +335,7 @@
         "name": "District of Columbia War Memorial",
         "image": "https://www.nps.gov/nama/planyourvisit/images/DC-War-Memorial-NPS-NCR-Photo-20111014-small.jpg",
         "url": "https://www.nps.gov/places/000/district-of-columbia-war-memorial.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -317,7 +353,7 @@
         "name": "Thomas Jefferson Memorial",
         "url": "https://www.nps.gov/thje/index.htm",
         "image": "https://www.nps.gov/common/uploads/cropped_image/secondary/A42D12EB-1DD8-B71B-0BC506C8C84EA82F.jpg",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#562f00",
         "marker-size": "large",
         "marker-symbol": "circle"
       },
@@ -335,7 +371,7 @@
         "name": "Korean War Veterans Memorial",
         "url": "https://www.nps.gov/kowa/index.htm",
         "image": "https://www.nps.gov/common/uploads/cropped_image/secondary/07A9AD44-1DD8-B71B-0BFE013027535464.jpg",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#562f00",
         "marker-size": "large",
         "marker-symbol": "circle"
       },
@@ -353,7 +389,7 @@
         "name": "John Paul Jones Memorial",
         "url": "https://www.nps.gov/places/000/john-paul-jones-memorial.htm",
         "image": "https://www.nps.gov/common/uploads/place/import/da19e6bb-e339-408b-a206-2178278d3b69_image_350.jpg",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -371,7 +407,7 @@
         "url": "https://www.nps.gov/places/000/george-mason-memorial.htm",
         "name": "George Mason Memorial",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/328DD5E3-F5BE-FE8F-84B01C7AF980F773.jpg",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -389,7 +425,7 @@
         "name": "John Ericsson Monument",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/32328279-05A3-A4BE-D46AABCA9CCD9BA9.jpg",
         "url": "https://www.nps.gov/common/uploads/cropped_image/primary/32328279-05A3-A4BE-D46AABCA9CCD9BA9.jpghttps://www.nps.gov/places/000/john-ericsson-monument.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -407,7 +443,7 @@
         "name": "General José Gervasio Artigas Memorial",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/4C043586-9A6F-80E3-626E1A27CB2BD630.jpg",
         "url": "https://www.nps.gov/places/000/general-jose-gervasio-artigas-memorial.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -425,7 +461,7 @@
         "name": "General Simón Bolívar Memorial",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/4BB100C8-EA0E-6505-B3D95F8EE7D25264.jpg",
         "url": "https://www.nps.gov/places/000/general-simon-bolivar-memorial.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -443,7 +479,7 @@
         "name": "General José de San Martí­n Memorial",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/4C5E3B5A-ABF2-55F7-62AF3C360A6C82E1.jpg",
         "url": "https://www.nps.gov/places/000/general-jose-de-san-martin-memorial.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -461,7 +497,7 @@
         "name": "Bernardo de Gálvez Memorial",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/4CA02BFF-064D-C154-A756EDCAD3DCFC90.jpg",
         "url": "https://www.nps.gov/places/000/bernardo-de-galvez-memorial.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -479,7 +515,7 @@
         "name": "Benito Pablo Juárez Memorial",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/4CE1B981-E180-690B-7F14F994C1B9AEA8.jpg",
         "url": "https://www.nps.gov/places/000/benito-pablo-juarez-memorial.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -497,7 +533,7 @@
         "name": "Freedom Plaza",
         "url": "https://www.nps.gov/places/000/freedom-plaza.htm",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/754FB000-DB60-B289-46113FCCA7FFF587.jpg",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -517,7 +553,7 @@
         "name": "Chief Justice John Marshall Statue",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/D74CF7EA-91D1-CEA0-A2734FE3C32D9209.jpg",
         "url": "https://www.nps.gov/places/000/chief-justice-john-marshall-statue-and-chess-players-statues.htm",
-        "marker-color": "#7e7e7e"
+        "marker-color": "#a80000"
       },
       "geometry": {
         "coordinates": [
@@ -533,7 +569,7 @@
         "name": "American Veterans Disabled for Life Memorial",
         "url": "https://www.nps.gov/places/000/american-veterans-disabled-for-life-memorial.htm",
         "image": "https://www.nps.gov/common/uploads/place/import/09c32159-7317-4f7c-8c4f-577c1b56f6a4_image_350.jpg",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -551,7 +587,7 @@
         "name": "Commodore John Barry Memorial",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/37678F7F-914A-3488-BAD67126D688E289.jpg",
         "url": "https://www.nps.gov/places/000/commodore-john-barry.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -569,7 +605,7 @@
         "name": "Major General James B. McPherson Memorial",
         "image": "https://www.nps.gov/common/uploads/place/import/cb2ce985-ffbb-4d43-997f-bef067143855_image_350.jpg",
         "url": "https://www.nps.gov/places/000/major-general-james-b-mcpherson-memorial.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -587,7 +623,7 @@
         "name": "Admiral David G. Farragut Memorial",
         "image": "https://www.nps.gov/common/uploads/place/import/3f2dc955-f9c3-4258-b9a1-981a3f5e05cd_image_350.jpg",
         "url": "https://www.nps.gov/places/000/admiral-david-g-farragut.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -605,7 +641,7 @@
         "name": "Franklin Park (Washington, DC)",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/3618E6A9-0300-954F-0A4A3C67BC736079.jpg",
         "url": "https://www.nps.gov/places/franklin-park-washington-dc.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -623,7 +659,7 @@
         "name": "Major General George H. Thomas Memorial",
         "image": "https://www.nps.gov/common/uploads/place/import/2072e5a3-1c8a-41f6-98cc-496c46d0957f_image_350.jpg",
         "url": "https://www.nps.gov/places/000/major-general-george-h-thomas-memorial.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -641,7 +677,7 @@
         "name": "Lieutenant General Winfield Scott Memorial",
         "image": "https://www.nps.gov/common/uploads/place/import/9293ccba-b0b5-421c-ac9a-eded1debc4b0_image_350.jpg",
         "url": "https://www.nps.gov/places/000/lieutenant-general-winfield-scott-memorial.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -659,7 +695,7 @@
         "name": "General George Washington Statue",
         "image": "https://www.nps.gov/common/uploads/place/import/f701480b-6116-4b7d-b277-96b9086f6175_image_350.jpg",
         "url": "https://www.nps.gov/places/000/general-george-washington-statue.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -677,7 +713,7 @@
         "name": "Rear Admiral Samuel Francis Dupont Memorial Fountain (Dupont Circle)",
         "url": "https://www.nps.gov/nama/planyourvisit/dupont.htm",
         "image": "https://www.nps.gov/nama/planyourvisit/images/Dupont-Nate-preview.JPG",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -695,7 +731,7 @@
         "name": "Belmont-Paul Women's Equality National Monument",
         "image": "https://www.nps.gov/common/uploads/grid_builder/bepa/crop16_9/DAA14016-1DD8-B71B-0B575C922448085E.jpg",
         "url": "https://www.nps.gov/bepa/index.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#562f00",
         "marker-size": "large",
         "marker-symbol": "circle"
       },
@@ -713,7 +749,7 @@
         "name": "Logan Circle",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/27E19523-B61E-9657-E3C1E5C5F64B24FE.jpg",
         "url": "https://www.nps.gov/places/000/logan-circle.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -731,7 +767,7 @@
         "name": "African American Civil War Memorial",
         "image": "https://www.nps.gov/common/uploads/grid_builder/afam/crop16_9/1B1EDA47-1DD8-B71B-0B3C160CAE556118.jpg",
         "url": "https://www.nps.gov/afam/index.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -749,7 +785,7 @@
         "image": "https://www.nps.gov/common/uploads/place/import/0cb894f6-cfca-4dfd-bab7-de3be8cdcd54_image_350.jpg",
         "name": "Columbus Fountain",
         "url": "https://www.nps.gov/places/000/columbus-fountain.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -759,7 +795,8 @@
           38.89641041925111
         ],
         "type": "Point"
-      }
+      },
+      "id": 43
     },
     {
       "type": "Feature",
@@ -767,7 +804,7 @@
         "name": "Japanese American Memorial to Patriotism During World War II",
         "url": "https://www.nps.gov/places/japanese-american-memorial-to-patriotism-during-world-war-ii.htm",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/96824CAC-AADA-EBE5-9D661EC38FD71BDB.jpg",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -782,28 +819,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Samuel Gompers Memorial",
-        "image": "https://www.nps.gov/common/uploads/place/import/a847c33c-60fd-4f7e-9244-71fbde17a3d2_image_350.jpg",
-        "url": "https://www.nps.gov/places/000/samuel-gompers-memorial.htm",
-        "marker-color": "#7e7e7e",
-        "marker-size": "small",
-        "marker-symbol": "circle"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.02650344390652,
-          38.90401710048579
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Edmund Burke Statue",
         "image": "https://www.nps.gov/common/uploads/place/import/8b2fd5db-783d-4f54-b3ac-a0aa62b10ebd_image_350.jpg",
         "url": "https://www.nps.gov/places/000/edmund-burke-statue.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -821,7 +840,7 @@
         "name": "Titanic Memorial",
         "url": "https://www.nps.gov/places/000/titanic-memorial.htm",
         "image": "https://www.nps.gov/common/uploads/place/import/f9ba463b-94ee-4176-a2c4-c1ddc4e28dcd_image_350.jpg",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -836,29 +855,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Doctor Samuel Hahnemann Memorial",
-        "image": "https://www.nps.gov/common/uploads/place/import/c082cdb1-01cc-4a82-bf85-9fd4a7c9e019_image_350.jpg",
-        "url": "https://www.nps.gov/places/000/doctor-samuel-hahnemann-memorial.htm",
-        "marker-color": "#7e7e7e",
-        "marker-size": "small",
-        "marker-symbol": "circle"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03570350287907,
-          38.907242606237446
-        ],
-        "type": "Point"
-      },
-      "id": 46
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Daniel Webster Monument",
         "image": "https://www.nps.gov/common/uploads/place/import/a9c18d19-928b-4a29-978d-d92ace58e38f_image_350.jpg",
         "url": "https://www.nps.gov/places/000/daniel-webster-monument.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -876,7 +876,7 @@
         "name": "Victims of Communism Memorial",
         "image": "https://www.nps.gov/common/uploads/place/import/3413d8bb-bfd0-4826-a857-ea2f6f226e5c_image_350.jpg",
         "url": "https://www.nps.gov/places/000/victims-of-communism-memorial.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -894,7 +894,7 @@
         "name": "Holodomor Memorial",
         "image": "https://www.nps.gov/common/uploads/place/import/e884ede0-5f52-4796-b414-76a276cd6816_image_350.jpg",
         "url": "https://www.nps.gov/places/000/holodomor-memorial.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -912,7 +912,7 @@
         "name": "Taras Shevchenko Memorial",
         "url": "https://www.nps.gov/places/000/taras-shevchenko-memorial.htm",
         "image": "https://www.nps.gov/common/uploads/place/import/36e13aec-1d9f-4bc3-99ae-8a3c5ff1e44a_image_350.jpg",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -930,7 +930,7 @@
         "name": "John Witherspoon Memorial",
         "image": "https://www.nps.gov/common/uploads/place/import/356e9fd7-e5d7-4bd0-96f5-96aa451f903b_image_350.jpg",
         "url": "https://www.nps.gov/places/000/john-witherspoon-memorial.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -948,7 +948,7 @@
         "name": "Henry Wadsworth Longfellow Memorial",
         "image": "https://www.nps.gov/common/uploads/place/import/4c9b894f-1cbd-4137-9e25-8cd68f190dd5_image_350.jpg",
         "url": "https://www.nps.gov/places/000/henry-wadsworth-longfellow-memorial.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -966,7 +966,7 @@
         "url": "https://www.nps.gov/places/000/nuns-of-the-battlefield-memorial.htm",
         "name": "Nuns of the Battlefield Memorial",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/D0397A35-E235-3580-ADF57C9F9FCE40DF.jpg",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
@@ -984,7 +984,7 @@
         "name": "Mohandas Karamchand Gandhi Memorial",
         "image": "https://www.nps.gov/common/uploads/place/import/96b84dde-b4e1-46f0-a98c-8e4d6f1ac8e1_image_350.jpg",
         "url": "https://www.nps.gov/places/000/mohandas-karamchand-gandhi-memorial.htm",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
