@@ -4,6 +4,115 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Floral Library",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/DD279D7E-986E-B9EF-C63471AD0FF5FC07.jpg",
+        "url": "https://www.nps.gov/places/000/floral-library-on-the-national-mall.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03700974920623,
+          38.886737476713705
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Japanese Lantern",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/31E8A45F-C6CF-EE56-C22DD694513C1AE0.jpg",
+        "url": "https://www.nps.gov/places/000/japanese-lantern.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0413658676891,
+          38.8865724889159
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First Air Mail Marker",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/2F420D35-A521-6473-95DB54170752D683.jpg",
+        "url": "https://www.nps.gov/places/000/first-air-mail-marker.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0437445417537,
+          38.88162235084462
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "World War I Memorial",
+        "image": "https://www.nps.gov/wwim/learn/historyculture/images/WWI-Memorial-Soldiers-Journey-plaza-wide-level-summer-NPS-Photo-NSA-crop-mdl.jpg",
+        "url": "https://www.nps.gov/wwim/index.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "note": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03284793441954,
+          38.89592472252738
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dwight D. Eisenhower Memorial",
+        "image": "https://www.nps.gov/common/uploads/grid_builder/ddem/crop16_9/852CA04F-CDC3-3F1F-08F56AA2100B9E42.jpg",
+        "url": "https://www.nps.gov/ddem/index.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0187320010609,
+          38.887121118243584
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Post Office Tower",
+        "image": "https://www.nps.gov/nama/planyourvisit/images/OPOT-Exterior-5az.jpg",
+        "url": "https://www.nps.gov/nama/planyourvisit/opot.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.02783534002232,
+          38.89445694998193
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "56 Signers of the Declaration of Independence Memorial",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/93B05C94-97EE-EE09-2799952F2EF9697C.jpg",
         "url": "https://www.nps.gov/places/000/56-signers-of-the-declaration-of-independence-memorial.htm",
@@ -241,63 +350,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Floral Library",
-        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/DD279D7E-986E-B9EF-C63471AD0FF5FC07.jpg",
-        "url": "https://www.nps.gov/places/000/floral-library-on-the-national-mall.htm",
-        "marker-color": "#7e7e7e",
-        "marker-size": "small",
-        "marker-symbol": "circle"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03700974920623,
-          38.886737476713705
-        ],
-        "type": "Point"
-      },
-      "id": 13
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Japanese Lantern",
-        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/31E8A45F-C6CF-EE56-C22DD694513C1AE0.jpg",
-        "url": "https://www.nps.gov/places/000/japanese-lantern.htm",
-        "marker-color": "#7e7e7e",
-        "marker-size": "small",
-        "marker-symbol": "circle"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.0413658676891,
-          38.8865724889159
-        ],
-        "type": "Point"
-      },
-      "id": 14
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "First Air Mail Marker",
-        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/2F420D35-A521-6473-95DB54170752D683.jpg",
-        "url": "https://www.nps.gov/places/000/first-air-mail-marker.htm",
-        "marker-color": "#7e7e7e",
-        "marker-size": "small",
-        "marker-symbol": "circle"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.0437445417537,
-          38.88162235084462
-        ],
-        "type": "Point"
-      },
-      "id": 15
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "url": "https://www.nps.gov/places/000/george-mason-memorial.htm",
         "name": "George Mason Memorial",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/328DD5E3-F5BE-FE8F-84B01C7AF980F773.jpg",
@@ -317,8 +369,8 @@
       "type": "Feature",
       "properties": {
         "name": "John Ericsson Monument",
-        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/32328279-05A3-A4BE-D46AABCA9CCD9BA9.jpghttps://www.nps.gov/places/000/john-ericsson-monument.htm",
-        "url": "https://www.nps.gov/common/uploads/cropped_image/primary/32328279-05A3-A4BE-D46AABCA9CCD9BA9.jpg",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/32328279-05A3-A4BE-D46AABCA9CCD9BA9.jpg",
+        "url": "https://www.nps.gov/common/uploads/cropped_image/primary/32328279-05A3-A4BE-D46AABCA9CCD9BA9.jpghttps://www.nps.gov/places/000/john-ericsson-monument.htm",
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "circle"
@@ -424,26 +476,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "World War I Memorial",
-        "image": "https://www.nps.gov/wwim/learn/historyculture/images/WWI-Memorial-Soldiers-Journey-plaza-wide-level-summer-NPS-Photo-NSA-crop-mdl.jpg",
-        "url": "https://www.nps.gov/wwim/index.htm",
-        "marker-color": "#7e7e7e",
-        "marker-size": "large",
-        "marker-symbol": "circle",
-        "note": ""
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03284793441954,
-          38.89592472252738
-        ],
-        "type": "Point"
-      },
-      "id": 23
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Freedom Plaza",
         "url": "https://www.nps.gov/places/000/freedom-plaza.htm",
         "image": "https://www.nps.gov/common/uploads/cropped_image/primary/754FB000-DB60-B289-46113FCCA7FFF587.jpg",
@@ -480,25 +512,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dwight D. Eisenhower Memorial",
-        "image": "https://www.nps.gov/common/uploads/grid_builder/ddem/crop16_9/852CA04F-CDC3-3F1F-08F56AA2100B9E42.jpg",
-        "url": "https://www.nps.gov/ddem/index.htm",
-        "marker-color": "#7e7e7e",
-        "marker-size": "small",
-        "marker-symbol": "circle"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.0187320010609,
-          38.887121118243584
-        ],
-        "type": "Point"
-      },
-      "id": 26
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "American Veterans Disabled for Life Memorial",
         "url": "https://www.nps.gov/places/000/american-veterans-disabled-for-life-memorial.htm",
         "image": "https://www.nps.gov/common/uploads/place/import/09c32159-7317-4f7c-8c4f-577c1b56f6a4_image_350.jpg",
@@ -510,6 +523,187 @@
         "coordinates": [
           -77.01311387584121,
           38.88629859179494
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Commodore John Barry Memorial",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/37678F7F-914A-3488-BAD67126D688E289.jpg",
+        "url": "https://www.nps.gov/places/000/commodore-john-barry.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03171158749545,
+          38.90192908672208
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Major General James B. McPherson Memorial",
+        "image": "https://www.nps.gov/common/uploads/place/import/cb2ce985-ffbb-4d43-997f-bef067143855_image_350.jpg",
+        "url": "https://www.nps.gov/places/000/major-general-james-b-mcpherson-memorial.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03410826297686,
+          38.901927716624954
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Admiral David G. Farragut Memorial",
+        "image": "https://www.nps.gov/common/uploads/place/import/3f2dc955-f9c3-4258-b9a1-981a3f5e05cd_image_350.jpg",
+        "url": "https://www.nps.gov/places/000/admiral-david-g-farragut.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03898905447905,
+          38.90193548053739
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Franklin Park (Washington, DC)",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/3618E6A9-0300-954F-0A4A3C67BC736079.jpg",
+        "url": "https://www.nps.gov/places/franklin-park-washington-dc.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03082705452341,
+          38.90192921801105
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Major General George H. Thomas Memorial",
+        "image": "https://www.nps.gov/common/uploads/place/import/2072e5a3-1c8a-41f6-98cc-496c46d0957f_image_350.jpg",
+        "url": "https://www.nps.gov/places/000/major-general-george-h-thomas-memorial.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03194555283248,
+          38.905647176470524
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lieutenant General Winfield Scott Memorial",
+        "image": "https://www.nps.gov/common/uploads/place/import/9293ccba-b0b5-421c-ac9a-eded1debc4b0_image_350.jpg",
+        "url": "https://www.nps.gov/places/000/lieutenant-general-winfield-scott-memorial.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03653110336151,
+          38.907246923278166
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "General George Washington Statue",
+        "image": "https://www.nps.gov/common/uploads/place/import/f701480b-6116-4b7d-b277-96b9086f6175_image_350.jpg",
+        "url": "https://www.nps.gov/places/000/general-george-washington-statue.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.05009858088427,
+          38.90252610653204
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rear Admiral Samuel Francis Dupont Memorial Fountain (Dupont Circle)",
+        "url": "https://www.nps.gov/nama/planyourvisit/dupont.htm",
+        "image": "https://www.nps.gov/nama/planyourvisit/images/Dupont-Nate-preview.JPG",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.04344693524209,
+          38.909642329119606
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ford's Theatre",
+        "image": "https://www.nps.gov/common/uploads/grid_builder/foth/crop16_9/8CE868F6-0A29-6D79-3D8F1E8394260A82.jpg",
+        "url": "https://www.nps.gov/foth/index.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.02576432695346,
+          38.89666179844724
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belmont-Paul Women's Equality National Monument",
+        "image": "https://www.nps.gov/common/uploads/grid_builder/bepa/crop16_9/DAA14016-1DD8-B71B-0B575C922448085E.jpg",
+        "url": "https://www.nps.gov/bepa/index.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.00382517971562,
+          38.8922975279651
         ],
         "type": "Point"
       }
