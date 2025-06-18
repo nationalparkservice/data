@@ -4,6 +4,225 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "56 Signers of the Declaration of Independence Memorial",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/93B05C94-97EE-EE09-2799952F2EF9697C.jpg",
+        "url": "https://www.nps.gov/places/000/56-signers-of-the-declaration-of-independence-memorial.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.04287127895721,
+          38.89109860964834
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lockkeeper's House",
+        "note": "Visitor information",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "url": "https://www.nps.gov/places/000/lockkeepers-house.htm",
+        "image": "https://www.nps.gov/common/uploads/place/import/79db6441-5202-4f08-8e38-ede50d58ff33_image_350.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03989497846936,
+          38.891808066316315
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vietnam Veterans Memorial",
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "url": "https://www.nps.gov/vive/index.htm",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/secondary/A4D9756C-1DD8-B71B-0B2C2DBAB08B3926.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.04761017714304,
+          38.891088095941456
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Martin Luther King, Jr. Memorial",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/secondary/9D444C36-1DD8-B71B-0BA3710879BCAD4B.jpg",
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "url": "https://www.nps.gov/mlkm/index.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0442019708316,
+          38.88622268418564
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Franklin Delano Roosevelt Memorial",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/secondary/02E6F7D2-1DD8-B71B-0BEB65A494F0A8D8.jpg",
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "url": "https://www.nps.gov/frde/index.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.04277880219782,
+          38.88327904234001
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Washington Monument",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/secondary/A8CA5F51-1DD8-B71B-0B773EC25EFFBE0B.jpg",
+        "note": "Tickets are required to enter the Washington Monument. See site for details.",
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "url": "https://www.nps.gov/wamo/index.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.035247628027,
+          38.889462360663885
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "World War II Memorial",
+        "image": "https://www.nps.gov/common/uploads/grid_builder/wwii/crop16_9/935EF287-A9BD-46F9-647FD722AF276C49.jpg",
+        "note": "",
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "url": "https://www.nps.gov/wwii/index.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0405241807575,
+          38.889405242628726
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Constitution Gardens",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "url": "https://www.nps.gov/coga/index.htm",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/secondary/DE804484-1DD8-B71B-0BF32D048F51C3E9.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0432885048312,
+          38.89052045983365
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lincoln Memorial",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/secondary/07D94390-1DD8-B71B-0BBDDC56C247F5E9.jpg",
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "url": "https://www.nps.gov/linc/index.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.05014529709307,
+          38.88926600462469
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "District of Columbia War Memorial",
+        "image": "https://www.nps.gov/nama/planyourvisit/images/DC-War-Memorial-NPS-NCR-Photo-20111014-small.jpg",
+        "url": "https://www.nps.gov/places/000/district-of-columbia-war-memorial.htm",
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.04348463945287,
+          38.88759511776274
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thomas Jefferson Memorial",
+        "url": "https://www.nps.gov/thje/index.htm",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/secondary/A42D12EB-1DD8-B71B-0BC506C8C84EA82F.jpg",
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03654890957237,
+          38.88142172708078
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Korean War Veterans Memorial",
+        "url": "https://www.nps.gov/kowa/index.htm",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/secondary/07A9AD44-1DD8-B71B-0BFE013027535464.jpg",
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.04754108592016,
+          38.8877943211898
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "John Paul Jones Memorial",
         "url": "https://www.nps.gov/places/000/john-paul-jones-memorial.htm",
         "image": "https://www.nps.gov/common/uploads/place/import/da19e6bb-e339-408b-a206-2178278d3b69_image_350.jpg",
@@ -17,237 +236,100 @@
           38.88823506627588
         ],
         "type": "Point"
-      },
-      "id": 0
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "56 Signers of the Declaration of Independence Memorial",
-        "alpha": "",
-        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/93B05C94-97EE-EE09-2799952F2EF9697C.jpg",
-        "url": "https://www.nps.gov/places/000/56-signers-of-the-declaration-of-independence-memorial.htm",
+        "name": "Floral Library",
+        "image": "https://www.nps.gov/places/000/floral-library-on-the-national-mall.htm",
+        "url": "https://www.nps.gov/common/uploads/cropped_image/primary/DD279D7E-986E-B9EF-C63471AD0FF5FC07.jpg",
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
       "geometry": {
         "coordinates": [
-          -77.04287127895721,
-          38.89109860964834
+          -77.03700974920623,
+          38.886737476713705
         ],
         "type": "Point"
       },
-      "id": 1
+      "id": 13
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Lockkeeper's House",
-        "note": "Visitor information",
+        "name": "Japanese Lantern",
+        "image": "https://www.nps.gov/places/000/japanese-lantern.htm",
+        "url": "https://www.nps.gov/common/uploads/cropped_image/primary/31E8A45F-C6CF-EE56-C22DD694513C1AE0.jpg?width=1600&quality=90&mode=crop",
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
       "geometry": {
         "coordinates": [
-          -77.03989497846936,
-          38.891808066316315
+          -77.0413658676891,
+          38.8865724889159
         ],
         "type": "Point"
       },
-      "id": 2
+      "id": 14
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Vietnam Veterans Memorial",
-        "alpha": "vive",
-        "marker-color": "#7e7e7e",
-        "marker-size": "large",
-        "marker-symbol": "circle"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.04761017714304,
-          38.891088095941456
-        ],
-        "type": "Point"
-      },
-      "id": 3
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Martin Luther King, Jr. Memorial",
-        "alpha": "mlkm",
-        "image": "https://www.nps.gov/common/uploads/cropped_image/secondary/9D444C36-1DD8-B71B-0BA3710879BCAD4B.jpg",
-        "marker-color": "#7e7e7e",
-        "marker-size": "large",
-        "marker-symbol": "circle"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.0442019708316,
-          38.88622268418564
-        ],
-        "type": "Point"
-      },
-      "id": 4
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Franklin Delano Roosevelt Memorial",
-        "alpha": "frde",
-        "image": "https://www.nps.gov/common/uploads/cropped_image/secondary/02E6F7D2-1DD8-B71B-0BEB65A494F0A8D8.jpg",
-        "marker-color": "#7e7e7e",
-        "marker-size": "large",
-        "marker-symbol": "circle"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.04277880219782,
-          38.88327904234001
-        ],
-        "type": "Point"
-      },
-      "id": 5
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Washington Monument",
-        "alpha": "wamo",
-        "image": "https://npgallery.nps.gov/AssetDetail/372b4b16-2ed0-41ec-ba51-cecfd4579ec9",
-        "note": "Tickets are required to enter the Washington Monument. See site for details.",
-        "marker-color": "#7e7e7e",
-        "marker-size": "large",
-        "marker-symbol": "circle"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.035247628027,
-          38.889462360663885
-        ],
-        "type": "Point"
-      },
-      "id": 6
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "World War II Memorial",
-        "alpha": "wwii",
-        "image": "",
-        "note": "",
-        "marker-color": "#7e7e7e",
-        "marker-size": "large",
-        "marker-symbol": "circle"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.0405241807575,
-          38.889405242628726
-        ],
-        "type": "Point"
-      },
-      "id": 7
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Constitution Gardens",
-        "alpha": "coga",
+        "name": "First Air Mail Marker",
+        "image": "https://www.nps.gov/places/000/first-air-mail-marker.htm",
+        "url": "https://www.nps.gov/common/uploads/cropped_image/primary/2F420D35-A521-6473-95DB54170752D683.jpg",
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
       "geometry": {
         "coordinates": [
-          -77.0432885048312,
-          38.89052045983365
+          -77.0437445417537,
+          38.88162235084462
         ],
         "type": "Point"
       },
-      "id": 8
+      "id": 15
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Lincoln Memorial",
-        "alpha": "linc",
-        "image": "https://www.nps.gov/common/uploads/cropped_image/secondary/07D94390-1DD8-B71B-0BBDDC56C247F5E9.jpg",
-        "marker-color": "#7e7e7e",
-        "marker-size": "large",
-        "marker-symbol": "circle"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.05014529709307,
-          38.88926600462469
-        ],
-        "type": "Point"
-      },
-      "id": 9
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "District of Columbia War Memorial",
-        "alpha": "",
-        "image": "https://www.nps.gov/nama/planyourvisit/images/DC-War-Memorial-NPS-NCR-Photo-20111014-small.jpg",
-        "url": "https://www.nps.gov/places/000/district-of-columbia-war-memorial.htm",
+        "url": "https://www.nps.gov/common/uploads/cropped_image/primary/328DD5E3-F5BE-FE8F-84B01C7AF980F773.jpg",
+        "name": "George Mason Memorial",
+        "image": "https://www.nps.gov/places/000/george-mason-memorial.htm",
         "marker-color": "#7e7e7e",
         "marker-size": "small",
         "marker-symbol": "circle"
       },
       "geometry": {
         "coordinates": [
-          -77.04348463945287,
-          38.88759511776274
+          -77.03891548679903,
+          38.87944662998183
         ],
         "type": "Point"
-      },
-      "id": 10
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Thomas Jefferson Memorial",
-        "url": "thje",
-        "image": "https://www.nps.gov/common/uploads/cropped_image/secondary/A42D12EB-1DD8-B71B-0BC506C8C84EA82F.jpg",
+        "name": "John Ericsson Monument",
+        "image": "https://www.nps.gov/places/000/john-ericsson-monument.htm",
+        "url": "https://www.nps.gov/common/uploads/cropped_image/primary/32328279-05A3-A4BE-D46AABCA9CCD9BA9.jpg",
         "marker-color": "#7e7e7e",
-        "marker-size": "large",
+        "marker-size": "small",
         "marker-symbol": "circle"
       },
       "geometry": {
         "coordinates": [
-          -77.03654890957237,
-          38.88142172708078
+          -77.05018066506776,
+          38.88666664865107
         ],
         "type": "Point"
-      },
-      "id": 11
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Korean War Veterans Memorial",
-        "url": "kowa",
-        "image": "https://www.nps.gov/common/uploads/cropped_image/secondary/07A9AD44-1DD8-B71B-0BFE013027535464.jpg",
-        "marker-color": "#7e7e7e",
-        "marker-size": "large",
-        "marker-symbol": "circle"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.04754108592016,
-          38.8877943211898
-        ],
-        "type": "Point"
-      },
-      "id": 12
+      }
     }
   ]
 }
