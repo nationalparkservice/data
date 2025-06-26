@@ -391,7 +391,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "circle",
+        "marker-symbol": "garden",
         "marker-size": "small",
         "marker-color": "#306b00",
         "tree": "White House Kitchen Garden",
@@ -409,7 +409,8 @@
           38.895803780484925
         ],
         "type": "Point"
-      }
+      },
+      "id": 18
     },
     {
       "type": "Feature",
@@ -449,7 +450,8 @@
           38.89747765219661
         ],
         "type": "Point"
-      }
+      },
+      "id": 20
     },
     {
       "type": "Feature",
