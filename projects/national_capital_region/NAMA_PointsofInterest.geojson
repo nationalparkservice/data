@@ -1068,6 +1068,151 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Major General Rawlins Statue",
+        "image": "https://www.nps.gov/common/uploads/place/import/329bc3cc-2373-4819-b823-e73828739cdb_image_350.jpg",
+        "url": "https://www.nps.gov/places/000/major-general-john-a-rawlins-memorial.htm",
+        "marker-color": "#a80000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.04197077398624,
+          38.89569734930379
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Japanese Pagoda",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/315AFBB9-C301-4DBB-A84D8A061B2B490A.jpg",
+        "url": "https://www.nps.gov/places/000/japanese-pagoda.htm",
+        "marker-color": "#a80000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.04117232414619,
+          38.88254181115582
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuban American Friendship Urn",
+        "image": "https://www.nps.gov/common/uploads/place/import/3829f39b-0d0b-4f4b-b99d-393aefbed974_image_350.jpg",
+        "url": "https://www.nps.gov/places/000/cuban-american-friendship-urn.htm",
+        "marker-color": "#a80000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03826566942348,
+          38.878555036973125
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "General Phillip Sheridan Memorial",
+        "image": "https://www.nps.gov/common/uploads/place/import/b0251953-b531-47ee-9a89-e32291df8450_image_350.jpg",
+        "url": "https://www.nps.gov/places/000/general-phillip-sheridan-memorial.htm",
+        "marker-color": "#a80000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.05065786441739,
+          38.91215721933838
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "National Law Enforcement Officers Memorial",
+        "image": "https://www.nps.gov/common/uploads/place/import/5222f08e-63e1-4bca-b3e2-1fec15f2680c_image_350.jpg",
+        "marker-color": "#a80000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "url": "https://www.nps.gov/places/000/national-law-enforcement-officers-memorial.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.01754573719568,
+          38.89673010917102
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brigadier General Albert Pike Memorial",
+        "image": "https://www.nps.gov/common/uploads/place/import/5ed63228-189c-4ecb-8710-76f9b483565e_image_350.jpg",
+        "marker-color": "#a80000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "url": "https://www.nps.gov/places/000/brigadier-general-albert-pike-memorial.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0157325473347,
+          38.89454152439566
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "https://www.nps.gov/places/000/george-gordon-meade-memorial.htm",
+        "name": "George Gordon Meade Memorial",
+        "image": "https://www.nps.gov/common/uploads/place/import/3875fbbd-7d1d-4f59-a761-c91a34f79da1_image_350.jpg",
+        "marker-color": "#a80000",
+        "marker-size": "small",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.01646642033333,
+          38.89215429712627
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/79A2CC99-0697-ECA0-FB8176B6ADBFF28E.jpg?width=1600&quality=90&mode=crop",
+        "name": "National Grange Marker",
+        "marker-color": "#a80000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "url": "https://www.nps.gov/places/000/national-grange-marker.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.01551112803465,
+          38.8904473997041
+        ],
+        "type": "Point"
+      },
+      "id": 66
     }
   ]
 }
