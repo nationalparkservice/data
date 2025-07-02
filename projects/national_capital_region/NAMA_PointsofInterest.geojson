@@ -995,6 +995,61 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Major General Winfield Scott Hancock Monument",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/77AF2A69-FE23-FE79-E98C84DFFB809E89.jpg",
+        "url": "https://www.nps.gov/places/000/major-general-winfield-scott-hancock-monument.htm",
+        "marker-symbol": "circle",
+        "marker-size": "small",
+        "marker-color": "#a80000"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0222124927763,
+          38.893726220846986
+        ],
+        "type": "Point"
+      },
+      "id": 55
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "US Navy Memorial",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/51D46E14-BA1D-514D-321F510937370405.jpg",
+        "marker-color": "#a80000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "url": "https://www.nps.gov/places/000/us-navy-memorial.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.02295580503765,
+          38.89411626078885
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pennsylvania Avenue",
+        "image": "https://www.nps.gov/common/uploads/banner_image/ncr/homepage/626900D0-1DD8-B71B-0B942A46A28C1E33.jpg",
+        "marker-color": "#562f00",
+        "marker-size": "large",
+        "marker-symbol": "circle",
+        "url": "https://www.nps.gov/paav/index.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.01953562692131,
+          38.89264633889894
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
