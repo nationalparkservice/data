@@ -1050,6 +1050,24 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benjamin Banneker Park",
+        "image": "https://www.nps.gov/common/uploads/place/import/30725077-4d88-459d-ac42-c4ea3caa8a0e_image_350.jpg",
+        "marker-color": "#a80000",
+        "marker-size": "small",
+        "marker-symbol": "circle",
+        "url": "https://www.nps.gov/places/000/benjamin-banneker-park.htm"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.02599080390421,
+          38.88171911361667
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
