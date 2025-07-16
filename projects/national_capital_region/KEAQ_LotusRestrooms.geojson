@@ -6,7 +6,7 @@
       "properties": {
         "marker-color": "#0084ff",
         "marker-size": "medium",
-        "marker-symbol": "toilet",
+        "marker-symbol": "toilets",
         "name": "Restroom"
       },
       "geometry": {
