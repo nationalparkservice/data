@@ -6,6 +6,70 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Information"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.94102118769187,
+          38.91304980365736
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "Information"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.94203019142151,
+          38.91171031808561
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "gift",
+        "name": "Gift Shop"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.94194436073303,
+          38.912645317717335
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "entrance",
+        "name": "Main Entrance"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.94227159023285,
+          38.91165188019966
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
         "marker-symbol": "hospital",
         "name": "First Aid"
       },
@@ -15,42 +79,7 @@
           38.91296098265539
         ],
         "type": "Point"
-      },
-      "id": 0
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "information",
-        "name": "Information"
-      },
-      "geometry": {
-        "coordinates": [
-          -76.94102118769187,
-          38.91304980365736
-        ],
-        "type": "Point"
-      },
-      "id": 1
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "toilets",
-        "name": "Restroom"
-      },
-      "geometry": {
-        "coordinates": [
-          -76.94178879261017,
-          38.91281228064115
-        ],
-        "type": "Point"
-      },
-      "id": 2
+      }
     },
     {
       "type": "Feature",
@@ -121,39 +150,6 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "building",
-        "name": "Information"
-      },
-      "geometry": {
-        "coordinates": [
-          -76.94203019142151,
-          38.91171031808561
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "toilets",
-        "name": "Restroom"
-      },
-      "geometry": {
-        "coordinates": [
-          -76.94318354129791,
-          38.91217781944111
-        ],
-        "type": "Point"
-      },
-      "id": 8
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "marker-symbol": "rail-metro",
         "name": "Deanwood Metro"
       },
@@ -186,39 +182,6 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "water",
-        "name": "Water Fill Station"
-      },
-      "geometry": {
-        "coordinates": [
-          -76.94208920001984,
-          38.91252009526671
-        ],
-        "type": "Point"
-      },
-      "id": 11
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "water",
-        "name": "Water Fill Station"
-      },
-      "geometry": {
-        "coordinates": [
-          -76.94498598575592,
-          38.913041854020086
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "marker-symbol": "star-stroked",
         "name": "Ranger-Led Activities"
       },
@@ -229,40 +192,6 @@
         ],
         "type": "Point"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "gift",
-        "name": "Gift Shop"
-      },
-      "geometry": {
-        "coordinates": [
-          -76.94194436073303,
-          38.912645317717335
-        ],
-        "type": "Point"
-      },
-      "id": 14
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "large",
-        "marker-symbol": "entrance-alt1",
-        "name": "Main Entrance"
-      },
-      "geometry": {
-        "coordinates": [
-          -76.94227159023285,
-          38.91165188019966
-        ],
-        "type": "Point"
-      },
-      "id": 15
     }
   ]
 }
