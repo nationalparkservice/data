@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "hospital",
+        "name": "First Aid"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.94147745005282,
+          38.91296098265539
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    }
+  ]
+}
