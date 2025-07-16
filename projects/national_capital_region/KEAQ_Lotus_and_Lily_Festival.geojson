@@ -70,22 +70,6 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "hospital",
-        "name": "First Aid"
-      },
-      "geometry": {
-        "coordinates": [
-          -76.94147745005282,
-          38.91296098265539
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "marker-symbol": "star-stroked",
         "name": "Activity Zone"
       },
