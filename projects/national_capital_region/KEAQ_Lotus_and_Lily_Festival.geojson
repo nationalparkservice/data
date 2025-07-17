@@ -150,22 +150,6 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "bus",
-        "name": "Shuttle Stop"
-      },
-      "geometry": {
-        "coordinates": [
-          -76.93472385406494,
-          38.90766546797081
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
         "marker-symbol": "star-stroked",
         "name": "Ranger-Led Activities"
       },
