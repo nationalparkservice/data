@@ -7,7 +7,6 @@
         "name": "Nathan's Office",
         "marker-color": "#00aaff",
         "marker-size": "large",
-        "marker-symbol": "toilet"
       },
       "geometry": {
         "coordinates": [
@@ -24,7 +23,6 @@
         "name": "Restroom",
         "marker-color": "#00aaff",
         "marker-size": "large",
-        "marker-symbol": "toilet"
       },
       "geometry": {
         "coordinates": [
@@ -41,7 +39,6 @@
         "name": "Restroom",
         "marker-color": "#00aaff",
         "marker-size": "large",
-        "marker-symbol": "toilet"
       },
       "geometry": {
         "coordinates": [
