@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nathan's Office",
+        "marker-color": "#00aaff",
+        "marker-size": "large",
+        "marker-symbol": "toilet"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03369670230315,
+          38.87651092566742
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restroom",
+        "marker-color": "#00aaff",
+        "marker-size": "large",
+        "marker-symbol": "toilet"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.0267590319189,
+          38.87606042190825
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Restroom",
+        "marker-color": "#00aaff",
+        "marker-size": "large",
+        "marker-symbol": "toilet"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03150518993866,
+          38.87315370535822
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -77.05331865649565,
+              38.89209203172399
+            ],
+            [
+              -77.05331865649565,
+              38.88394085745011
+            ],
+            [
+              -77.04391156288862,
+              38.88394085745011
+            ],
+            [
+              -77.04391156288862,
+              38.89209203172399
+            ],
+            [
+              -77.05331865649565,
+              38.89209203172399
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 3
+    }
+  ]
+}
