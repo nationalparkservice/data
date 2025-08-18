@@ -24,7 +24,7 @@
       "type": "Feature",
       "properties": {
         "name": "Samuel Gompers Memorial",
-        "image": "https://www.nps.gov/common/uploads/place/import/a847c33c-60fd-4f7e-9244-71fbde17a3d2_image_350.jpg",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/3794EACF-A1A5-7F29-A55C0EAC340DC36D.jpg",
         "url": "https://www.nps.gov/places/000/samuel-gompers-memorial.htm",
         "marker-color": "#a80000",
         "marker-size": "small",
@@ -36,13 +36,14 @@
           38.90401710048579
         ],
         "type": "Point"
-      }
+      },
+      "id": 1
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Doctor Samuel Hahnemann Memorial",
-        "image": "https://www.nps.gov/common/uploads/place/import/c082cdb1-01cc-4a82-bf85-9fd4a7c9e019_image_350.jpg",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/3639FD3A-F9B9-9090-2B751C9C1EB10E10.jpg",
         "url": "https://www.nps.gov/places/000/doctor-samuel-hahnemann-memorial.htm",
         "marker-color": "#a80000",
         "marker-size": "small",
@@ -54,7 +55,8 @@
           38.907242606237446
         ],
         "type": "Point"
-      }
+      },
+      "id": 2
     },
     {
       "type": "Feature",
@@ -585,7 +587,7 @@
       "type": "Feature",
       "properties": {
         "name": "Commodore John Barry Memorial",
-        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/37678F7F-914A-3488-BAD67126D688E289.jpg",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/37C5A258-E718-DCC2-10206620608E0BCD.jpg",
         "url": "https://www.nps.gov/places/000/commodore-john-barry.htm",
         "marker-color": "#a80000",
         "marker-size": "small",
@@ -597,7 +599,8 @@
           38.90192908672208
         ],
         "type": "Point"
-      }
+      },
+      "id": 32
     },
     {
       "type": "Feature",
@@ -615,13 +618,14 @@
           38.901927716624954
         ],
         "type": "Point"
-      }
+      },
+      "id": 33
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Admiral David G. Farragut Memorial",
-        "image": "https://www.nps.gov/common/uploads/place/import/3f2dc955-f9c3-4258-b9a1-981a3f5e05cd_image_350.jpg",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/39F63768-D8F3-5C18-F048BCE9EAD90724.jpg",
         "url": "https://www.nps.gov/places/000/admiral-david-g-farragut.htm",
         "marker-color": "#a80000",
         "marker-size": "small",
@@ -633,7 +637,8 @@
           38.90193548053739
         ],
         "type": "Point"
-      }
+      },
+      "id": 34
     },
     {
       "type": "Feature",
@@ -651,13 +656,14 @@
           38.90192921801105
         ],
         "type": "Point"
-      }
+      },
+      "id": 35
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Major General George H. Thomas Memorial",
-        "image": "https://www.nps.gov/common/uploads/place/import/2072e5a3-1c8a-41f6-98cc-496c46d0957f_image_350.jpg",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/36F82E32-BE4E-B323-E10419E47664AEE1.jpg",
         "url": "https://www.nps.gov/places/000/major-general-george-h-thomas-memorial.htm",
         "marker-color": "#a80000",
         "marker-size": "small",
@@ -669,13 +675,14 @@
           38.905647176470524
         ],
         "type": "Point"
-      }
+      },
+      "id": 36
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Lieutenant General Winfield Scott Memorial",
-        "image": "https://www.nps.gov/common/uploads/place/import/9293ccba-b0b5-421c-ac9a-eded1debc4b0_image_350.jpg",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/36DC79A3-000A-05C7-D19F4183D30190C6.jpg",
         "url": "https://www.nps.gov/places/000/lieutenant-general-winfield-scott-memorial.htm",
         "marker-color": "#a80000",
         "marker-size": "small",
@@ -687,13 +694,14 @@
           38.907246923278166
         ],
         "type": "Point"
-      }
+      },
+      "id": 37
     },
     {
       "type": "Feature",
       "properties": {
         "name": "General George Washington Statue",
-        "image": "https://www.nps.gov/common/uploads/place/import/f701480b-6116-4b7d-b277-96b9086f6175_image_350.jpg",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/09054588-EB95-43B4-AED94C39E671498A.jpg",
         "url": "https://www.nps.gov/places/000/general-george-washington-statue.htm",
         "marker-color": "#a80000",
         "marker-size": "small",
@@ -705,7 +713,8 @@
           38.90252610653204
         ],
         "type": "Point"
-      }
+      },
+      "id": 38
     },
     {
       "type": "Feature",
@@ -723,7 +732,8 @@
           38.909642329119606
         ],
         "type": "Point"
-      }
+      },
+      "id": 39
     },
     {
       "type": "Feature",
@@ -747,7 +757,7 @@
       "type": "Feature",
       "properties": {
         "name": "Logan Circle",
-        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/27E19523-B61E-9657-E3C1E5C5F64B24FE.jpg",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/36A057D2-FD62-795F-60291B3F221801A0.jpg",
         "url": "https://www.nps.gov/places/000/logan-circle.htm",
         "marker-color": "#a80000",
         "marker-size": "small",
@@ -759,7 +769,8 @@
           38.90964100550772
         ],
         "type": "Point"
-      }
+      },
+      "id": 41
     },
     {
       "type": "Feature",
@@ -820,7 +831,7 @@
       "type": "Feature",
       "properties": {
         "name": "Edmund Burke Statue",
-        "image": "https://www.nps.gov/common/uploads/place/import/8b2fd5db-783d-4f54-b3ac-a0aa62b10ebd_image_350.jpg",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/374082CC-CFA5-069C-D877FC99B57B57F1.jpg",
         "url": "https://www.nps.gov/places/000/edmund-burke-statue.htm",
         "marker-color": "#a80000",
         "marker-size": "small",
@@ -832,7 +843,8 @@
           38.90388700029115
         ],
         "type": "Point"
-      }
+      },
+      "id": 45
     },
     {
       "type": "Feature",
@@ -856,7 +868,7 @@
       "type": "Feature",
       "properties": {
         "name": "Daniel Webster Monument",
-        "image": "https://www.nps.gov/common/uploads/place/import/a9c18d19-928b-4a29-978d-d92ace58e38f_image_350.jpg",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/2F35998D-CA10-7ADF-CDD5AF0AC4792F0D.jpg",
         "url": "https://www.nps.gov/places/000/daniel-webster-monument.htm",
         "marker-color": "#a80000",
         "marker-size": "small",
@@ -868,7 +880,8 @@
           38.907254971801535
         ],
         "type": "Point"
-      }
+      },
+      "id": 47
     },
     {
       "type": "Feature",
@@ -911,7 +924,7 @@
       "properties": {
         "name": "Taras Shevchenko Memorial",
         "url": "https://www.nps.gov/places/000/taras-shevchenko-memorial.htm",
-        "image": "https://www.nps.gov/common/uploads/place/import/36e13aec-1d9f-4bc3-99ae-8a3c5ff1e44a_image_350.jpg",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/0B348536-DEF1-E354-7A4C48D97BCFF13D.jpg",
         "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
@@ -922,13 +935,14 @@
           38.91007011610637
         ],
         "type": "Point"
-      }
+      },
+      "id": 50
     },
     {
       "type": "Feature",
       "properties": {
         "name": "John Witherspoon Memorial",
-        "image": "https://www.nps.gov/common/uploads/place/import/356e9fd7-e5d7-4bd0-96f5-96aa451f903b_image_350.jpg",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/0C68CD66-B1BE-8100-E5046668BC88510D.jpg",
         "url": "https://www.nps.gov/places/000/john-witherspoon-memorial.htm",
         "marker-color": "#a80000",
         "marker-size": "small",
@@ -940,13 +954,14 @@
           38.907128937572764
         ],
         "type": "Point"
-      }
+      },
+      "id": 51
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Henry Wadsworth Longfellow Memorial",
-        "image": "https://www.nps.gov/common/uploads/place/import/4c9b894f-1cbd-4137-9e25-8cd68f190dd5_image_350.jpg",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/0C8EB4F3-E885-2102-FC5905DD020E5F9A.jpg",
         "url": "https://www.nps.gov/places/000/henry-wadsworth-longfellow-memorial.htm",
         "marker-color": "#a80000",
         "marker-size": "small",
@@ -958,14 +973,15 @@
           38.90584361306182
         ],
         "type": "Point"
-      }
+      },
+      "id": 52
     },
     {
       "type": "Feature",
       "properties": {
         "url": "https://www.nps.gov/places/000/nuns-of-the-battlefield-memorial.htm",
         "name": "Nuns of the Battlefield Memorial",
-        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/D0397A35-E235-3580-ADF57C9F9FCE40DF.jpg",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/2ED77770-00B9-DADB-209A0EC0078A445E.jpg",
         "marker-color": "#a80000",
         "marker-size": "small",
         "marker-symbol": "circle"
@@ -976,7 +992,8 @@
           38.905786221598845
         ],
         "type": "Point"
-      }
+      },
+      "id": 53
     },
     {
       "type": "Feature",
@@ -1127,7 +1144,7 @@
       "type": "Feature",
       "properties": {
         "name": "General Phillip Sheridan Memorial",
-        "image": "https://www.nps.gov/common/uploads/place/import/b0251953-b531-47ee-9a89-e32291df8450_image_350.jpg",
+        "image": "https://www.nps.gov/common/uploads/cropped_image/primary/0B97919A-99A3-74B7-7E7B52E8BD5DC1F7.jpg",
         "url": "https://www.nps.gov/places/000/general-phillip-sheridan-memorial.htm",
         "marker-color": "#a80000",
         "marker-size": "small",
@@ -1139,7 +1156,8 @@
           38.91215721933838
         ],
         "type": "Point"
-      }
+      },
+      "id": 62
     },
     {
       "type": "Feature",
