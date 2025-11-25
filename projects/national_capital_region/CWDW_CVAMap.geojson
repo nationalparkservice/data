@@ -4,55 +4,15 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Segment 1 End"
-      },
-      "geometry": {
-        "coordinates": [
-          -76.97373832904701,
-          38.863302161768644
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Segment 1 Start"
-      },
-      "geometry": {
-        "coordinates": [
-          -76.97671434156719,
-          38.8572287180651
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Section 2 Start"
-      },
-      "geometry": {
-        "coordinates": [
-          -76.97356625902822,
-          38.86347328402027
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Section 2 End"
       },
       "geometry": {
         "coordinates": [
-          -76.96083856994748,
-          38.86568774034026
+          -76.95980046144692,
+          38.86581638715111
         ],
         "type": "Point"
-      },
-      "id": 3
+      }
     },
     {
       "type": "Feature",
@@ -195,8 +155,7 @@
           ]
         ],
         "type": "LineString"
-      },
-      "id": 4
+      }
     },
     {
       "type": "Feature",
@@ -347,8 +306,7 @@
           ]
         ],
         "type": "LineString"
-      },
-      "id": 5
+      }
     },
     {
       "type": "Feature",
@@ -566,13 +524,16 @@
             38.86594141073303
           ],
           [
-            -76.96085962788518,
-            38.86568316966077
+            -76.96089833756821,
+            38.8657564624384
+          ],
+          [
+            -76.95985269381453,
+            38.86580938918382
           ]
         ],
         "type": "LineString"
-      },
-      "id": 6
+      }
     },
     {
       "type": "Feature",
@@ -585,8 +546,7 @@
           38.865829287950305
         ],
         "type": "Point"
-      },
-      "id": 7
+      }
     },
     {
       "type": "Feature",
@@ -599,8 +559,7 @@
           38.87257413350963
         ],
         "type": "Point"
-      },
-      "id": 8
+      }
     },
     {
       "type": "Feature",
@@ -839,8 +798,7 @@
           ]
         ],
         "type": "LineString"
-      },
-      "id": 9
+      }
     },
     {
       "type": "Feature",
@@ -853,8 +811,7 @@
           38.87268077363288
         ],
         "type": "Point"
-      },
-      "id": 10
+      }
     },
     {
       "type": "Feature",
@@ -867,8 +824,7 @@
           38.88077395218005
         ],
         "type": "Point"
-      },
-      "id": 11
+      }
     },
     {
       "type": "Feature",
@@ -1135,8 +1091,7 @@
           ]
         ],
         "type": "LineString"
-      },
-      "id": 12
+      }
     },
     {
       "type": "Feature",
@@ -1149,8 +1104,7 @@
           38.880950840374254
         ],
         "type": "Point"
-      },
-      "id": 13
+      }
     },
     {
       "type": "Feature",
@@ -1163,8 +1117,7 @@
           38.89335042302841
         ],
         "type": "Point"
-      },
-      "id": 14
+      }
     },
     {
       "type": "Feature",
@@ -1273,8 +1226,7 @@
           ]
         ],
         "type": "LineString"
-      },
-      "id": 15
+      }
     },
     {
       "type": "Feature",
@@ -1287,8 +1239,7 @@
           38.89833880653083
         ],
         "type": "Point"
-      },
-      "id": 16
+      }
     },
     {
       "type": "Feature",
@@ -1301,8 +1252,7 @@
           38.89351851236276
         ],
         "type": "Point"
-      },
-      "id": 17
+      }
     },
     {
       "type": "Feature",
@@ -1433,8 +1383,46 @@
           ]
         ],
         "type": "LineString"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Segment 1 End"
       },
-      "id": 18
+      "geometry": {
+        "coordinates": [
+          -76.97373832904701,
+          38.863302161768644
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Segment 1 Start"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.97671434156719,
+          38.8572287180651
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Section 2 Start"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.97356625902822,
+          38.86347328402027
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
