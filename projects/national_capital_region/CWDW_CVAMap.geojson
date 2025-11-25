@@ -1121,7 +1121,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Section 6"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -1226,7 +1228,8 @@
           ]
         ],
         "type": "LineString"
-      }
+      },
+      "id": 12
     },
     {
       "type": "Feature",
