@@ -706,6 +706,28 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "marker-color": "#306b00",
+        "tree": "Silver Linden",
+        "person": "Jill Biden",
+        "year": 2021,
+        "url": "/whho/learn/historyculture/biden-linden-2021.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/1EF73A01-983A-7DB8-273961E51AEB268E.jpg",
+        "latin": "Tilia tomentosa",
+        "credit": "NPS / Kelsey Graczyk"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03626581702918,
+          38.898191489092454
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
