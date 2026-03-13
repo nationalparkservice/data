@@ -4,6 +4,23 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "Tidal Basin Welcome Area",
+        "notes": "Information, Vending, Food"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03654856396082,
+          38.88026620210025
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "monument",
@@ -13,11 +30,11 @@
         "image": "http://www.nps.gov/chbl/learn/images/pagoda-thumbnail.jpg"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -77.04149186611176,
           38.88287372649676
-        ]
+        ],
+        "type": "Point"
       }
     },
     {
@@ -31,11 +48,11 @@
         "image": "http://www.nps.gov/common/uploads/photogallery/ncr/park/chbl/27DF9086-1DD8-B71C-07745F61B7D2F0E8/27DF9086-1DD8-B71C-07745F61B7D2F0E8-small.jpg"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -77.0413833,
           38.8866
-        ]
+        ],
+        "type": "Point"
       }
     },
     {
@@ -49,11 +66,11 @@
         "image": "http://ncrcms.nps.doi.net/chbl/images/csthumbnail_large/DYKcherryplaque.gif"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -77.0414333,
           38.8866333
-        ]
+        ],
+        "type": "Point"
       }
     },
     {
@@ -66,75 +83,11 @@
         "notes": "Plaque commemorates tree planted by First Lady Lady Bird Johnson in 1965."
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           -77.0415667,
           38.8866667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ff0000",
-        "marker-size": "large",
-        "marker-symbol": "star",
-        "name": "Tidal Basin Welcome Area",
-        "notes": "Information, Vending, Food"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.04548835754393,
-          38.884443820594846
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#ff0000",
-        "fill-opacity": 0.5,
-        "name": "Tidal Basin Welcome Area",
-        "notes": "Information, Vending, Food"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -77.04531669616699,
-              38.884886447235864
-            ],
-            [
-              -77.04644322395325,
-              38.8840178942425
-            ],
-            [
-              -77.04606771469118,
-              38.88368383257159
-            ],
-            [
-              -77.04475879669191,
-              38.88475282438953
-            ],
-            [
-              -77.0447587966919,
-              38.886698682270904
-            ],
-            [
-              -77.04527378082275,
-              38.88670703347741
-            ],
-            [
-              -77.04531669616699,
-              38.884886447235864
-            ]
-          ]
-        ]
+        ],
+        "type": "Point"
       }
     }
   ]
