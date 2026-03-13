@@ -416,26 +416,6 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#306b00",
-        "marker-size": "small",
-        "marker-symbol": "garden",
-        "tree": "Jacqueline Kennedy Garden",
-        "person": "",
-        "year": 1965,
-        "url": "/whho/learn/historyculture/jacqueline-kennedy-garden.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/99645428-D4FB-E98B-EB35CCFF080651B2.jpg"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03604001966094,
-          38.89749116541583
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
         "marker-symbol": "garden",
         "marker-size": "small",
         "tree": "Rose Garden",
