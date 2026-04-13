@@ -4,6 +4,70 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "garden",
+        "marker-size": "small",
+        "marker-color": "#306b00",
+        "tree": "White House Kitchen Garden",
+        "person": "Michelle Obama",
+        "year": 2009,
+        "latin": "",
+        "credit": "NPS",
+        "notes": "Although the White House Kitchen Garden is a recent addition, there is a long tradition of produce-growing at the White House. President John Adams planned the first vegetable garden on the White House grounds in 1797. Many presidents and first ladies continued the practice by planting fruit trees, orchards, and establishing greenhouses. During World War II, First Lady Eleanor Roosevelt planted a Victory Garden at the White House, encouraging all Americans to grow their own food to overcome supply shortages during the war.",
+        "url": "/whho/learn/historyculture/white-house-kitchen-garden.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/98479808-AFB8-1ACC-0738B4702468D7A7.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03707519637787,
+          38.895803780484925
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#306b00",
+        "marker-symbol": "garden",
+        "marker-size": "small",
+        "tree": "Rose Garden",
+        "person": "",
+        "year": 1913,
+        "url": "/whho/learn/historyculture/rose-garden.htm",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9982EBD7-E35F-9AA6-65D8BDAF19A87D78.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03711696485817,
+          38.89747765219661
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tree": "Yoshino Cherry",
+        "person": "Jill Biden",
+        "year": 2023,
+        "url": "/whho/learn/historyculture/biden-cherry-2023.htm",
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9AF383EF-B796-143D-CE54506D8A4E9275.jpg",
+        "latin": "Prunus x ‘Yedoensis’"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03614552789458,
+          38.89676583342501
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "marker-symbol": "park2",
         "marker-size": "small",
         "marker-color": "#306b00",
@@ -20,8 +84,7 @@
           38.89622258240456
         ],
         "type": "Point"
-      },
-      "id": 0
+      }
     },
     {
       "type": "Feature",
@@ -169,48 +232,6 @@
         "coordinates": [
           -77.03738083510562,
           38.89620363515289
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "tree": "Southern Magnolia",
-        "person": "Franklin D. Roosevelt Commemorative",
-        "year": 1942,
-        "url": "/whho/learn/historyculture/roosevelt-magnolia-1942.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/57E787A1-D328-8018-71DE5CD70094EAA5.jpg",
-        "latin": "Magnolia grandiflora"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03532323790321,
-          38.89740667986845
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "tree": "Southern Magnolia",
-        "person": "Warren G. Harding Commemorative",
-        "year": "1947",
-        "url": "/whho/learn/historyculture/harding-magnolia-1947.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/905F9883-9F88-A3A4-D69CB43F57B38883.jpg",
-        "latin": "Magnolia grandiflora"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03532440038342,
-          38.89773389215469
         ],
         "type": "Point"
       }
@@ -387,51 +408,6 @@
         ],
         "type": "Point"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": "garden",
-        "marker-size": "small",
-        "marker-color": "#306b00",
-        "tree": "White House Kitchen Garden",
-        "person": "Michelle Obama",
-        "year": 2009,
-        "latin": "",
-        "credit": "NPS",
-        "notes": "Although the White House Kitchen Garden is a recent addition, there is a long tradition of produce-growing at the White House. President John Adams planned the first vegetable garden on the White House grounds in 1797. Many presidents and first ladies continued the practice by planting fruit trees, orchards, and establishing greenhouses. During World War II, First Lady Eleanor Roosevelt planted a Victory Garden at the White House, encouraging all Americans to grow their own food to overcome supply shortages during the war.",
-        "url": "/whho/learn/historyculture/white-house-kitchen-garden.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/98479808-AFB8-1ACC-0738B4702468D7A7.jpg"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03707519637787,
-          38.895803780484925
-        ],
-        "type": "Point"
-      },
-      "id": 18
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
-        "marker-symbol": "garden",
-        "marker-size": "small",
-        "tree": "Rose Garden",
-        "person": "",
-        "year": 1913,
-        "url": "/whho/learn/historyculture/rose-garden.htm",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9982EBD7-E35F-9AA6-65D8BDAF19A87D78.jpg"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03711696485817,
-          38.89747765219661
-        ],
-        "type": "Point"
-      },
-      "id": 20
     },
     {
       "type": "Feature",
@@ -662,27 +638,6 @@
         "coordinates": [
           -77.0374534909373,
           38.89705309189452
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "tree": "Yoshino Cherry",
-        "person": "Jill Biden",
-        "year": 2023,
-        "url": "/whho/learn/historyculture/biden-cherry-2023.htm",
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9AF383EF-B796-143D-CE54506D8A4E9275.jpg",
-        "latin": "Prunus x ‘Yedoensis’"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03555613736214,
-          38.897260755678786
         ],
         "type": "Point"
       }
