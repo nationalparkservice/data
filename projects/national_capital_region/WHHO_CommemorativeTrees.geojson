@@ -392,27 +392,6 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "tree": "Saucer Magnolia",
-        "person": "John F. Kennedy Commemorative",
-        "year": 1962,
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9108A024-E505-1B19-E5C253741BFFB350.jpg",
-        "url": "/whho/learn/historyculture/kennedy-magnolia-1962.htm",
-        "latin": "Magnolia x soulangeana"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03724896592519,
-          38.897564110252006
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#306b00",
         "marker-size": "small",
         "marker-symbol": "park2",
         "tree": "Littleleaf Linden",
