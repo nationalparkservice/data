@@ -522,7 +522,7 @@
         "marker-color": "#306b00",
         "marker-size": "small",
         "marker-symbol": "park2",
-        "tree": "Cherokee Princess Dogwood (3)",
+        "tree": "Cherokee Princess Dogwood (2)",
         "person": "Hillary Clinton",
         "year": 1994,
         "url": "/whho/learn/historyculture/clinton-dogwood-1994.htm",
@@ -535,7 +535,8 @@
           38.89646310801274
         ],
         "type": "Point"
-      }
+      },
+      "id": 24
     },
     {
       "type": "Feature",
