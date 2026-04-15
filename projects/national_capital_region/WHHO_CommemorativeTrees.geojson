@@ -4,6 +4,27 @@
     {
       "type": "Feature",
       "properties": {
+        "tree": "Yoshino Cherry",
+        "person": "Jill Biden",
+        "year": 2023,
+        "url": "/whho/learn/historyculture/biden-cherry-2023.htm",
+        "marker-color": "#306b00",
+        "marker-symbol": "park2",
+        "marker-size": "small",
+        "image": "/common/uploads/grid_builder/whho/crop1_1/9AF383EF-B796-143D-CE54506D8A4E9275.jpg",
+        "latin": "Prunus x ‘Yedoensis’"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03632844938319,
+          38.895844345000796
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "marker-symbol": "garden",
         "marker-size": "small",
         "marker-color": "#306b00",
@@ -43,28 +64,6 @@
         ],
         "type": "Point"
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "tree": "Yoshino Cherry",
-        "person": "Jill Biden",
-        "year": 2023,
-        "url": "/whho/learn/historyculture/biden-cherry-2023.htm",
-        "marker-color": "#306b00",
-        "marker-symbol": "park2",
-        "marker-size": "small",
-        "image": "/common/uploads/grid_builder/whho/crop1_1/9AF383EF-B796-143D-CE54506D8A4E9275.jpg",
-        "latin": "Prunus x ‘Yedoensis’"
-      },
-      "geometry": {
-        "coordinates": [
-          -77.03614552789458,
-          38.89676583342501
-        ],
-        "type": "Point"
-      },
-      "id": 2
     },
     {
       "type": "Feature",
