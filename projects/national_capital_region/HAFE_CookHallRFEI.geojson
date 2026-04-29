@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {},
+        "name": "Cook Hall"
       "geometry": {
         "coordinates": [
           -77.74051421785921,
