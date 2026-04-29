@@ -15,7 +15,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Cook Hall premises"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -42,11 +44,14 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 1
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Remote parking lot"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -73,7 +78,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 2
     }
   ]
 }
