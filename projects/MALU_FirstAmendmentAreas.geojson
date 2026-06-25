@@ -1,0 +1,238 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rose Garden",
+        "description": "An area directly south of the Rose Garden, along the concrete walkway, from the east to west terminus of the Rose Garden. The area is generally centered on the following geographic   coordinates: 33°45'20.7\"N 84°22'24.3\"W. The area is approximately 3640 square feet and can hold approximately 280 persons."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.3736004,
+              33.7558569
+            ],
+            [
+              -84.3736875,
+              33.7558192
+            ],
+            [
+              -84.3736301,
+              33.7557181
+            ],
+            [
+              -84.3735377,
+              33.7556629
+            ],
+            [
+              -84.3734336,
+              33.7556152
+            ],
+            [
+              -84.3733169,
+              33.7556254
+            ],
+            [
+              -84.3732186,
+              33.7556663
+            ],
+            [
+              -84.3731226,
+              33.7557416
+            ],
+            [
+              -84.3730919,
+              33.7557918
+            ],
+            [
+              -84.3731902,
+              33.7558551
+            ],
+            [
+              -84.3732454,
+              33.7558122
+            ],
+            [
+              -84.3733424,
+              33.7557612
+            ],
+            [
+              -84.3734042,
+              33.7557523
+            ],
+            [
+              -84.3735,
+              33.7557778
+            ],
+            [
+              -84.3735688,
+              33.7558299
+            ],
+            [
+              -84.3736004,
+              33.7558569
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.3732016,
+              33.7565858
+            ],
+            [
+              -84.3732016,
+              33.7565858
+            ],
+            [
+              -84.3732016,
+              33.7565858
+            ],
+            [
+              -84.3732016,
+              33.7565858
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gandhi Statue",
+        "description": "An area in the grass to the east of the Gandhi statue. The area is generally centered on the following geographic coordinates: 33°45'24.1\"N 84°22'23.3\"W. The area is approximately 2100 square feet and can hold approximately 162 persons."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.37320695785817,
+              33.75658433286557
+            ],
+            [
+              -84.3730758964699,
+              33.75658433286557
+            ],
+            [
+              -84.3730758964699,
+              33.75673600050085
+            ],
+            [
+              -84.37320695785817,
+              33.75673600050085
+            ],
+            [
+              -84.37320695785817,
+              33.75658433286557
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peace Plaza Amphitheater",
+        "description": "An area located the northwest corner of the intersection of Auburn Avenue and Jackson Street, in the semi-circle concrete amphitheater, including the approaching sidewalks. The area is generally centered on the following geographic coordinates: 33°45'20.7\"N 84°22'26.5\"W. The area is approximately 3600 square feet and can hold approximately 276 persons."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.373867,
+              33.7558485
+            ],
+            [
+              -84.3739355,
+              33.7558222
+            ],
+            [
+              -84.3739654,
+              33.75585
+            ],
+            [
+              -84.3740164,
+              33.755869
+            ],
+            [
+              -84.3740657,
+              33.7558617
+            ],
+            [
+              -84.3741079,
+              33.7558354
+            ],
+            [
+              -84.3741343,
+              33.7557902
+            ],
+            [
+              -84.3741413,
+              33.7557522
+            ],
+            [
+              -84.3741202,
+              33.7557186
+            ],
+            [
+              -84.3740833,
+              33.7556966
+            ],
+            [
+              -84.3740463,
+              33.7556804
+            ],
+            [
+              -84.3740463,
+              33.75553
+            ],
+            [
+              -84.3739848,
+              33.7555284
+            ],
+            [
+              -84.3739848,
+              33.7556804
+            ],
+            [
+              -84.3739479,
+              33.7557069
+            ],
+            [
+              -84.373925,
+              33.7557405
+            ],
+            [
+              -84.3739197,
+              33.7557653
+            ],
+            [
+              -84.3738318,
+              33.7558048
+            ],
+            [
+              -84.3738459,
+              33.7558224
+            ],
+            [
+              -84.373867,
+              33.7558485
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
