@@ -237,7 +237,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "Peace Plaza Amphitheater"
       },
       "geometry": {
         "type": "Point",
@@ -249,7 +249,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Rose Garden"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -260,7 +262,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Gandhi Statue"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
