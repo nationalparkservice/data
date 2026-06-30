@@ -1,4 +1,5 @@
 # NPMap Data
+[![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/nationalparkservice/data)
 
 This repository contains data used in the NPMap team's projects. It is **not** the official source for any of the data it contains. You should visit the [NPS Data Store](https://irma.nps.gov/Portal/) to browse and download official datasets for the National Park Service.
 
