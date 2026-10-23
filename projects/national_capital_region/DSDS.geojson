@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#800000",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "name": "Desert Shield and Desert Storm Memorial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0510003,
+          38.8915979
+        ]
+      }
+    }
+  ]
+}
